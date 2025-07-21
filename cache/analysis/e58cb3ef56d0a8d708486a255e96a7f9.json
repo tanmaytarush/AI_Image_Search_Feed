@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/227/image_cropper_1727029267016.jpg",
+  "analysis": {
+    "image_id": "image_cropper_1727029267016",
+    "ai_generated_tags": {
+      "room": "Staircase",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Concrete Steps",
+        "Metal Railings",
+        "Wooden Trim"
+      ],
+      "objects": [
+        {
+          "type": "Staircase",
+          "features": [
+            "Concrete Steps",
+            "Metal Railings",
+            "Wooden Trim"
+          ],
+          "materials": [
+            "Concrete",
+            "Metal",
+            "Wood"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Gray",
+          "Green"
+        ],
+        "materials": [
+          "Concrete",
+          "Metal"
+        ],
+        "lighting": "Natural daylight",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Concrete steps, metal railings"
+        ],
+        "space_utilization": "Compact",
+        "cultural_significance": "Minimal cultural significance in the visible design elements"
+      },
+      "confidence_scores": {
+        "room": 0.92,
+        "theme": 0.88,
+        "primary_features": 0.87,
+        "objects": 0.91,
+        "indian_context": 0.89
+      },
+      "description": "The image showcases a modern Indian staircase with concrete steps, metal railings, and a wooden trim. The design utilizes smooth concrete and metal, which are modern materials that reflect contemporary Indian architecture while maintaining a simple and functional aesthetic. The compact space optimization is evident, as the staircase efficiently occupies a small area. The choice of materials—concrete, metal, and wood—highlights a blend of modern design with minimal Indian cultural elements. The space is illuminated by natural daylight, creating a well-lit and clean environment.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Staircase",
+          "Concrete",
+          "Metal"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Apartment",
+        "functionality": "Access to upper floors",
+        "indian_specific": "Minimal"
+      }
+    }
+  },
+  "cached_at": 1753083237470,
+  "cache_key": "e58cb3ef56d0a8d708486a255e96a7f9"
+}

@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/671/image_cropper_1729176750910.jpg",
+  "analysis": {
+    "image_id": "image_cropper_1729176750910",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Platform Bed with Storage",
+        "Built-In Wardrobe"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Platform Design",
+            "Cupboard Storage"
+          ],
+          "materials": [
+            "Laminated Wood",
+            "White Lacquer"
+          ],
+          "finish": "Laminate"
+        },
+        {
+          "type": "Built-In Wardrobe",
+          "features": [
+            "Modern Design",
+            "Integrated Storage"
+          ],
+          "materials": [
+            "Laminated Wood",
+            "White Lacquer"
+          ],
+          "finish": "Laminate"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Wood Brown"
+        ],
+        "materials": [
+          "Laminated Wood",
+          "White Lacquer"
+        ],
+        "lighting": "Natural Daylight",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Not Applicable"
+        ],
+        "modern_adaptations": [
+          "Minimalist Design",
+          "Integration of Storage Solutions"
+        ],
+        "space_utilization": "Compact",
+        "cultural_significance": "Space Optimization for Small Living Spaces"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian bedroom design, characterized by a compact and functional layout. The bed is a platform bed with integrated storage, a common feature in Indian homes to maximize space. The built-in wardrobe is a modern adaptation of storage solutions, typical of contemporary Indian interiors. The use of laminated wood and white lacquer for the bed and wardrobe gives the space a clean and contemporary look, while the white color scheme is popular in Indian interiors for its brightness and versatility. The natural daylight from the window enhances the airy feel of the room. The minimalist design and space optimization reflect cultural values of making the most out of limited living spaces, a common practice in many Indian homes, particularly in urban settings where space is often at a premium.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Compact Bedroom",
+        "Laminate Wood",
+        "White Lacquer",
+        "Integrated Storage"
+      ],
+      "budget_indicator": "Mid-Range",
+      "space_type": "Bedroom",
+      "functionality": "Relaxation",
+      "indian_specific": "Platform Bed"
+    }
+  },
+  "cached_at": 1753083213697,
+  "cache_key": "b783c43303f5efa55ef8e88c405200f4"
+}

@@ -1,0 +1,114 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1350/image_cropper_A3317CE1-0548-4495-97DB-A5C5408F36BB-26705-00002055437EC03B.jpg",
+  "analysis": {
+    "image_id": "image_cropper_A3317CE1-0548-4495-97DB-A5C5408F36BB-26705-00002055437EC03B",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Marble countertops",
+        "Cupboard storage",
+        "Gas stove",
+        "Sink area"
+      ],
+      "objects": [
+        {
+          "type": "Countertop",
+          "features": [
+            "Marble finish",
+            "Polished surface",
+            "Integrated sink"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Cupboard",
+          "features": [
+            "Integrated in wall design",
+            "Cube structure",
+            "Modern handles"
+          ],
+          "materials": [
+            "Wood",
+            "Painted finish"
+          ],
+          "finish": "Painted"
+        },
+        {
+          "type": "Gas stove",
+          "features": [
+            "Integrated into counter",
+            "Black color",
+            "Modular design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Integrated into countertop",
+            "Large capacity"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Beige",
+          "Brown"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural daylight, under-cabinet lighting",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "None observed"
+        ],
+        "modern_adaptations": [
+          "Integrated modern kitchen appliances and designs"
+        ],
+        "space_utilization": "Compact",
+        "cultural_significance": "Modern adaptation of traditional kitchen layouts"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian kitchen design characterized by clean lines, minimalistic contemporary elements, and the integration of traditional Indian aesthetics. The use of marble countertops and wooden cupboards reflects a blend of modern functionality and traditional Indian materials. The compact layout and modular design optimize space, making it suitable for smaller Indian homes. The lighting setup, with under-cabinet lights and natural daylight, enhances the brightness and spacious feel of the room. The color scheme of white, beige, and brown is popular in Indian interiors, providing a calm and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "modern kitchen",
+        "Indian design",
+        "marble countertops",
+        "wooden cupboards",
+        "compact space"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Apartment",
+      "functionality": "Cooking, dining",
+      "indian_specific": "Modular kitchen design"
+    }
+  },
+  "cached_at": 1753083216121,
+  "cache_key": "0dde5377c2e16e1fdcd578ed72c4f400"
+}

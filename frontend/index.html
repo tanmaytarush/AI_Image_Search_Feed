@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Interior Image Search</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        padding: 20px;
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        background: white;
+        border-radius: 20px;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        overflow: hidden;
+      }
+
+      .header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 30px;
+        text-align: center;
+      }
+
+      .header h1 {
+        font-size: 2.5rem;
+        margin-bottom: 10px;
+        font-weight: 300;
+      }
+
+      .header p {
+        font-size: 1.1rem;
+        opacity: 0.9;
+      }
+
+      .search-section {
+        padding: 30px;
+        background: #f8f9fa;
+        border-bottom: 1px solid #e9ecef;
+      }
+
+      .search-container {
+        display: flex;
+        gap: 15px;
+        max-width: 600px;
+        margin: 0 auto;
+      }
+
+      .search-input {
+        flex: 1;
+        padding: 15px 20px;
+        border: 2px solid #e9ecef;
+        border-radius: 50px;
+        font-size: 1rem;
+        outline: none;
+        transition: all 0.3s ease;
+      }
+
+      .search-input:focus {
+        border-color: #667eea;
+        box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+      }
+
+      .search-btn {
+        padding: 15px 30px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border: none;
+        border-radius: 50px;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        white-space: nowrap;
+      }
+
+      .search-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+      }
+
+      .search-btn:disabled {
+        opacity: 0.6;
+        cursor: not-allowed;
+        transform: none;
+      }
+
+      .clear-btn {
+        padding: 15px 20px;
+        background: #6c757d;
+        color: white;
+        border: none;
+        border-radius: 50px;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+
+      .clear-btn:hover {
+        background: #5a6268;
+        transform: translateY(-2px);
+      }
+
+      .status {
+        text-align: center;
+        padding: 20px;
+        font-size: 1.1rem;
+        color: #6c757d;
+      }
+
+      .loading {
+        display: none;
+        text-align: center;
+        padding: 20px;
+      }
+
+      .spinner {
+        border: 4px solid #f3f3f3;
+        border-top: 4px solid #667eea;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        animation: spin 1s linear infinite;
+        margin: 0 auto 10px;
+      }
+
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+
+      .images-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 20px;
+        padding: 30px;
+      }
+
+      .image-card {
+        background: white;
+        border-radius: 15px;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        transition: all 0.3s ease;
+        cursor: pointer;
+      }
+
+      .image-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+      }
+
+      .image-container {
+        position: relative;
+        width: 100%;
+        height: 250px;
+        overflow: hidden;
+      }
+
+      .image-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.3s ease;
+      }
+
+      .image-card:hover .image-container img {
+        transform: scale(1.05);
+      }
+
+      .match-score {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+        color: white;
+        padding: 6px 12px;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: bold;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      }
+
+      .image-info {
+        padding: 15px;
+      }
+
+      .image-title {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #343a40;
+        margin-bottom: 8px;
+        line-height: 1.3;
+      }
+
+      .metadata-item {
+        font-size: 0.85rem;
+        color: #495057;
+        margin-bottom: 3px;
+        text-transform: capitalize;
+      }
+
+      .metadata-item strong {
+        color: #343a40;
+      }
+
+      .tags-section {
+        margin: 10px 0;
+        padding: 8px 0;
+        border-top: 1px solid #e9ecef;
+      }
+
+      .tag-group {
+        margin-bottom: 6px;
+      }
+
+      .tag-label {
+        font-size: 0.75rem;
+        font-weight: 600;
+        color: #6c757d;
+        display: block;
+        margin-bottom: 4px;
+      }
+
+      .tag-items {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px;
+      }
+
+      .tag {
+        font-size: 0.7rem;
+        padding: 2px 8px;
+        border-radius: 12px;
+        font-weight: 500;
+        text-transform: capitalize;
+      }
+
+      .color-tag {
+        background: #e3f2fd;
+        color: #1565c0;
+        border: 1px solid #bbdefb;
+      }
+
+      .material-tag {
+        background: #f3e5f5;
+        color: #7b1fa2;
+        border: 1px solid #e1bee7;
+      }
+
+      .feature-tag {
+        background: #e8f5e8;
+        color: #2e7d32;
+        border: 1px solid #c8e6c9;
+      }
+
+      .error {
+        background: #f8d7da;
+        color: #721c24;
+        padding: 15px;
+        border-radius: 10px;
+        margin: 20px;
+        text-align: center;
+      }
+
+      .no-results {
+        text-align: center;
+        padding: 60px 20px;
+        color: #6c757d;
+      }
+
+      .no-results h3 {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+      }
+
+      .no-results p {
+        font-size: 1.1rem;
+      }
+
+      @media (max-width: 768px) {
+        .search-container {
+          flex-direction: column;
+        }
+        
+        .images-grid {
+          grid-template-columns: 1fr;
+          padding: 20px;
+        }
+        
+        .header h1 {
+          font-size: 2rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>🏠 Interior Image Search</h1>
+        <p>Search through our collection of interior design images</p>
+      </div>
+
+      <div class="search-section">
+        <div class="search-container">
+          <input 
+            type="text" 
+            id="searchInput" 
+            class="search-input" 
+            placeholder="Search for modern living rooms, bedrooms, kitchens..."
+            autocomplete="off"
+          >
+          <button id="searchBtn" class="search-btn">🔍 Search</button>
+          <button id="clearBtn" class="clear-btn">Clear</button>
+        </div>
+      </div>
+
+      <div id="status" class="status">
+        Click "Search" to find images or leave empty to see all images
+      </div>
+
+      <div id="loading" class="loading">
+        <div class="spinner"></div>
+        <p>Searching for images...</p>
+      </div>
+
+      <div id="error" class="error" style="display: none;"></div>
+
+      <div id="imagesGrid" class="images-grid">
+        <!-- Images will be loaded here -->
+      </div>
+    </div>
+
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
