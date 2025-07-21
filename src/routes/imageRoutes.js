@@ -112,17 +112,9 @@ router.get("/debug-search", async (req, res) => {
 router.get("/query-insights", async (req, res) => {
   try {
     const insights = await imageService.getQueryInsights();
-    res.json({
-      success: true,
-      data: insights,
-      message: "Query intelligence insights retrieved successfully"
-    });
+    res.json({ success: true, data: insights, message: "Query intelligence insights retrieved successfully" });
   } catch (error) {
-    res.status(500).json({
-      success: false,
-      error: "Failed to get query insights",
-      message: error.message
-    });
+    res.status(500).json({ success: false, error: "Failed to get query insights", message: error.message });
   }
 });
 
