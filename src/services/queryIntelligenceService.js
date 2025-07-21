@@ -159,7 +159,7 @@ class QueryIntelligenceService {
    */
   patternBasedDetection(query) {
     const patterns = {
-      'bedroom': ['bed', 'sleep', 'master', 'guest'],
+      'bedroom': ['bed', 'sleep', 'master', 'guest', 'study room'],
       'kitchen': ['kitchen', 'cook', 'culinary', 'modular'],
       'living room': ['living', 'lounge', 'family', 'drawing'],
       'bathroom': ['bath', 'toilet', 'washroom', 'powder'],
