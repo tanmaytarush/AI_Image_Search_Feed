@@ -168,7 +168,7 @@ class QueryIntelligenceService {
       'entrance': ['entrance', 'entry', 'foyer', 'hall'],
       'staircase': ['stair', 'steps'],
       'balcony': ['balcony', 'terrace', 'veranda'],
-      'pooja room': ['pooja', 'mandir', 'temple', 'prayer']
+      'prayer room': ['pooja', 'mandir', 'temple', 'prayer']
     };
 
     for (const [roomType, keywords] of Object.entries(patterns)) {
