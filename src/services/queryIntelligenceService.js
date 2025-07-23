@@ -57,6 +57,164 @@ class QueryIntelligenceService {
   }
 
   /**
+   * AI-powered search context detection
+   * Determines if query is for: room-specific, furniture/object, or general search
+   */
+  async determineSearchContext(query) {
+    try {
+      const prompt = `Analyze this interior design search query and determine the search context:
+
+Query: "${query}"
+
+Please classify the search intent into one of these categories:
+
+1. ROOM_SPECIFIC - User is looking for a specific room type (e.g., "modern living room", "kitchen designs", "pooja room", "mandir")
+2. FURNITURE_OBJECT - User is looking for furniture or objects that can be in multiple rooms (e.g., "wardrobe designs", "sofa styles", "dining table")
+3. GENERAL_SEARCH - User is looking for general design concepts (e.g., "modern indian", "minimalist design")
+
+Consider these factors:
+- If query mentions specific room types (bedroom, kitchen, living room, etc.) → ROOM_SPECIFIC
+- If query mentions furniture/objects that exist in multiple rooms (wardrobe, sofa, table, chair, etc.) → FURNITURE_OBJECT  
+- If query is about style/theme without room context → GENERAL_SEARCH
+- If query combines room + furniture (e.g., "bedroom wardrobe") → ROOM_SPECIFIC
+
+IMPORTANT INDIAN CULTURAL CONTEXT:
+- "pooja room", "prayer room", "mandir", "temple room" → These are ROOM_SPECIFIC (dedicated spaces)
+- "pooja unit", "mandir unit", "prayer unit" → These are ROOM_SPECIFIC (referring to the room/space)
+- "pooja furniture", "mandir furniture" → These are FURNITURE_OBJECT (referring to furniture within the room)
+
+Respond with only the category name: ROOM_SPECIFIC, FURNITURE_OBJECT, or GENERAL_SEARCH`;
+
+      // Use OpenAI to analyze the query context
+      const response = await fetch(
+        "https://api.openai.com/v1/chat/completions",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+          },
+          body: JSON.stringify({
+            model: "gpt-3.5-turbo",
+            messages: [
+              {
+                role: "system",
+                content:
+                  "You are an expert interior design search analyzer with deep understanding of Indian cultural context. Respond with only the category name.",
+              },
+              {
+                role: "user",
+                content: prompt,
+              },
+            ],
+            max_tokens: 10,
+            temperature: 0.1,
+          }),
+        }
+      );
+
+      if (!response.ok) {
+        throw new Error(`OpenAI API error: ${response.status}`);
+      }
+
+      const data = await response.json();
+      const context = data.choices[0].message.content.trim().toUpperCase();
+
+      console.log(
+        `🤖 AI detected search context: ${context} for query: "${query}"`
+      );
+
+      return context;
+    } catch (error) {
+      console.error("Error determining search context:", error);
+
+      // Fallback to pattern-based detection
+      return this.fallbackContextDetection(query);
+    }
+  }
+
+  /**
+   * Fallback context detection using patterns
+   */
+  fallbackContextDetection(query) {
+    const queryLower = query.toLowerCase();
+
+    // Room type patterns (including Indian cultural rooms)
+    const roomPatterns = [
+      "living room",
+      "bedroom",
+      "kitchen",
+      "bathroom",
+      "dining room",
+      "home office",
+      "study",
+      "entryway",
+      "foyer",
+      "balcony",
+      "terrace",
+      "pooja room",
+      "prayer room",
+      "mandir",
+      "temple room",
+      "closet",
+      "wardrobe room",
+      "pooja unit",
+      "mandir unit",
+      "prayer unit",
+      "temple unit",
+    ];
+
+    // Furniture/object patterns
+    const furniturePatterns = [
+      "wardrobe",
+      "closet",
+      "cabinet",
+      "shelf",
+      "sofa",
+      "couch",
+      "dining table",
+      "coffee table",
+      "bed",
+      "chair",
+      "desk",
+      "table",
+      "mirror",
+      "lighting",
+      "lamp",
+      "curtain",
+      "blind",
+      "carpet",
+      "rug",
+      "painting",
+      "art",
+      "vase",
+      "plant",
+      "decor",
+      "furniture",
+      "storage",
+    ];
+
+    // Check for room-specific patterns
+    const hasRoomPattern = roomPatterns.some((pattern) =>
+      queryLower.includes(pattern)
+    );
+    if (hasRoomPattern) {
+      return "ROOM_SPECIFIC";
+    }
+
+    // Check for furniture/object patterns
+    const hasFurniturePattern = furniturePatterns.some((pattern) =>
+      queryLower.includes(pattern)
+    );
+    if (hasFurniturePattern) {
+      return "FURNITURE_OBJECT";
+    }
+
+    // Default to general search
+    return "GENERAL_SEARCH";
+  }
+
+  /**
    * Get existing room types from Qdrant data
    */
   async getExistingRoomTypes() {

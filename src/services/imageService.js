@@ -704,133 +704,158 @@ class ImageService {
   }
 
   /**
-   * Enhanced room type detection from query
+   * Enhanced room type detection from query using AI context analysis
    */
   async detectRoomTypeFromQuery(query) {
     const queryLower = query.toLowerCase();
 
-    // Enhanced room type patterns with variations and synonyms
-    const roomTypePatterns = {
-      "living room": [
-        "living room",
-        "living",
-        "lounge",
-        "sitting room",
-        "family room",
-        "drawing room",
-        "front room",
-        "main room",
-        "hall room",
-      ],
-      bedroom: [
-        "bedroom",
-        "bed room",
-        "master bedroom",
-        "guest bedroom",
-        "kid bedroom",
-        "children bedroom",
-        "child bedroom",
-        "sleeping room",
-        "master bed",
-      ],
-      kitchen: [
-        "kitchen",
-        "modular kitchen",
-        "open kitchen",
-        "galley kitchen",
-        "kitchen area",
-        "cooking area",
-        "culinary space",
-      ],
-      bathroom: [
-        "bathroom",
-        "bath room",
-        "washroom",
-        "toilet",
-        "powder room",
-        "guest bathroom",
-        "master bathroom",
-        "ensuite",
-        "lavatory",
-      ],
-      "dining room": [
-        "dining room",
-        "dining",
-        "dinner room",
-        "eating area",
-        "dining space",
-        "dining hall",
-      ],
-      "home office": [
-        "home office",
-        "office",
-        "study room",
-        "study",
-        "workspace",
-        "work room",
-        "den",
-        "library",
-      ],
-      entryway: [
-        "entryway",
-        "entrance",
-        "foyer",
-        "entry",
-        "hallway",
-        "corridor",
-        "entrance hall",
-        "front entrance",
-      ],
-      balcony: [
-        "balcony",
-        "terrace",
-        "veranda",
-        "patio",
-        "deck",
-        "outdoor space",
-      ],
-      closet: [
-        "closet",
-        "wardrobe",
-        "walk-in closet",
-        "dressing room",
-        "storage room",
-        "utility room",
-      ],
-      "pooja room": [
-        "pooja room",
-        "prayer room",
-        "mandir",
-        "temple room",
-        "puja room",
-        "spiritual room",
-        "worship room",
-      ],
-    };
+    // Step 1: Use AI to determine search context
+    const searchContext = await queryIntelligenceService.determineSearchContext(
+      query
+    );
+    console.log(`🎯 AI Search Context: ${searchContext} for query: "${query}"`);
 
-    // Check for room type matches
-    for (const [roomType, patterns] of Object.entries(roomTypePatterns)) {
-      for (const pattern of patterns) {
-        if (queryLower.includes(pattern)) {
-          console.log(
-            `🎯 Room type detected: "${roomType}" from pattern: "${pattern}"`
-          );
-          return roomType;
-        }
-      }
+    // Step 2: Handle different search contexts
+    if (searchContext === "FURNITURE_OBJECT") {
+      console.log(
+        `🪑 Furniture/object search detected, searching across all rooms`
+      );
+      return null; // Return null to search across all rooms
     }
 
-    // Use the existing query intelligence service as fallback
-    try {
-      const intelligentRoomType = await queryIntelligenceService.detectRoomType(
-        query
-      );
-      if (intelligentRoomType) {
-        console.log(`🤖 AI detected room type: "${intelligentRoomType}"`);
-        return intelligentRoomType;
+    if (searchContext === "GENERAL_SEARCH") {
+      console.log(`🌐 General search detected, searching across all rooms`);
+      return null; // Return null to search across all rooms
+    }
+
+    // Step 3: For ROOM_SPECIFIC searches, detect the specific room type
+    if (searchContext === "ROOM_SPECIFIC") {
+      console.log(`🏠 Room-specific search detected, identifying room type`);
+
+      // Enhanced room type patterns with variations and synonyms
+      const roomTypePatterns = {
+        "living room": [
+          "living room",
+          "living",
+          "lounge",
+          "sitting room",
+          "family room",
+          "drawing room",
+          "front room",
+          "main room",
+          "hall room",
+        ],
+        bedroom: [
+          "bedroom",
+          "bed room",
+          "master bedroom",
+          "guest bedroom",
+          "kid bedroom",
+          "children bedroom",
+          "child bedroom",
+          "sleeping room",
+          "master bed",
+        ],
+        kitchen: [
+          "kitchen",
+          "modular kitchen",
+          "open kitchen",
+          "galley kitchen",
+          "kitchen area",
+          "cooking area",
+          "culinary space",
+        ],
+        bathroom: [
+          "bathroom",
+          "bath room",
+          "washroom",
+          "toilet",
+          "powder room",
+          "guest bathroom",
+          "master bathroom",
+          "ensuite",
+          "lavatory",
+        ],
+        "dining room": [
+          "dining room",
+          "dining",
+          "dinner room",
+          "eating area",
+          "dining space",
+          "dining hall",
+        ],
+        "home office": [
+          "home office",
+          "office",
+          "study room",
+          "study",
+          "workspace",
+          "work room",
+          "den",
+          "library",
+        ],
+        entryway: [
+          "entryway",
+          "entrance",
+          "foyer",
+          "entry",
+          "hallway",
+          "corridor",
+          "entrance hall",
+          "front entrance",
+        ],
+        balcony: [
+          "balcony",
+          "terrace",
+          "veranda",
+          "patio",
+          "deck",
+          "outdoor space",
+        ],
+        closet: [
+          "closet",
+          "wardrobe room",
+          "walk-in closet",
+          "dressing room",
+          "storage room",
+          "utility room",
+        ],
+        "pooja room": [
+          "pooja room",
+          "prayer room",
+          "mandir",
+          "temple room",
+          "puja room",
+          "spiritual room",
+          "worship room",
+        ],
+      };
+
+      // Check for room type matches
+      for (const [roomType, patterns] of Object.entries(roomTypePatterns)) {
+        for (const pattern of patterns) {
+          if (queryLower.includes(pattern)) {
+            console.log(
+              `🎯 Room type detected: "${roomType}" from pattern: "${pattern}"`
+            );
+            return roomType;
+          }
+        }
       }
-    } catch (error) {
-      console.log("AI room detection failed, continuing with pattern matching");
+
+      // Use the existing query intelligence service as fallback
+      try {
+        const intelligentRoomType =
+          await queryIntelligenceService.detectRoomType(query);
+        if (intelligentRoomType) {
+          console.log(`🤖 AI detected room type: "${intelligentRoomType}"`);
+          return intelligentRoomType;
+        }
+      } catch (error) {
+        console.log(
+          "AI room detection failed, continuing with pattern matching"
+        );
+      }
     }
 
     return null;
