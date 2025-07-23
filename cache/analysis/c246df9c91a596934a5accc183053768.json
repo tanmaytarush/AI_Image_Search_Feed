@@ -3,53 +3,41 @@
   "analysis": {
     "image_id": "img_043",
     "ai_generated_tags": {
-      "room": "Closet/Storage",
+      "room": "Built-in Storage",
       "theme": "Modern Minimalist",
       "primary_features": [
-        "Built-in wardrobe with wooden and white panels",
-        "Mirrored doors reflecting the room"
+        "Built-in wardrobe with multi-color paneling"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Built-in wardrobe",
           "features": [
-            "Six doors with two panels each",
-            "Top two panels have a wood grain finish",
-            "Bottom four panels have a white finish",
-            "Mirrored doors on two panels"
+            "Double doors with sliding mechanism, multiple compartments"
           ],
           "materials": [
-            "Wood (possibly teak or similar)",
-            "Metal (for handles and hinges)",
-            "Glass (for mirrored doors)"
+            "Wooden paneling with a dark brown and white striped finish, metallic hardware"
           ],
-          "finish": "The wooden panels have a glossy finish, while the white panels are matte."
+          "finish": "Metallic handles, likely a combination of wood and metallic elements"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown, White, Black",
-          "White walls",
-          "Light beige floor"
+          "Dark brown, white, metallic"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Glass"
+          "Wood, metal"
         ],
-        "lighting": "Natural light coming from the right side of the image",
-        "texture": "Smooth wood grain texture, matte white panels, glossy wood finish, smooth glass surface."
+        "lighting": "Natural light from the top left, possibly from a window",
+        "texture": "Smooth wood paneling with a striped finish, metallic hardware"
       },
       "indian_context": {
-        "regional_style": "Modern Indian with regional influences",
-        "traditional_elements": [
-          "Wooden doors with a grain finish"
-        ],
+        "regional_style": "No specific regional style evident",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Use of modern metal handles and mirrored surfaces"
+          "Use of wood and metal in a modern design context"
         ],
-        "space_utilization": "The wardrobe maximizes the use of wall space for storage",
-        "cultural_significance": "The wooden doors with a natural finish reflect traditional craftsmanship, often seen in Indian homes."
+        "space_utilization": "Efficient use of vertical space for storage",
+        "cultural_significance": "No overt cultural elements, possibly influenced by modern Indian minimalist trends"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -58,23 +46,21 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This image showcases a modern closet with built-in storage, featuring a combination of wooden and white panels, with mirrored doors on two of the panels. The wooden doors have a natural wood grain finish, reflecting traditional craftsmanship, while the white panels and mirrored doors add a contemporary touch. The space is well-organized, utilizing wall space efficiently for storage, and the overall design aligns with modern Indian aesthetics with a focus on both functionality and style.",
+      "description": "A modern minimalist built-in wardrobe with a combination of dark brown and white paneling, featuring a sleek design with metallic handles. The space is designed for efficient storage, utilizing a clean and uncluttered approach with no overt cultural or regional design influences.",
       "metadata": {
         "tags": [
-          "Modern Closet",
-          "Indian Design",
-          "Wooden Doors",
-          "White Panels",
-          "Mirrored Doors",
-          "Wall Closet"
+          "Built-in Wardrobe",
+          "Modern Minimalist",
+          "Wood Paneling",
+          "Metal Handles"
         ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential Closet",
-        "functionality": "Storage",
-        "indian_specific": "Natural wood finish, traditional craftsmanship elements"
+        "budget_indicator": "Moderate, due to the use of wood and metal with a simple finish",
+        "space_type": "Bedroom or storage area",
+        "functionality": "Primary purpose is storage, with a focus on organization and efficiency",
+        "indian_specific": "No specific Indian design features are evident, but the use of wood and metal could be influenced by modern Indian trends"
       }
     }
   },
-  "cached_at": 1753181154888,
+  "cached_at": 1753274505458,
   "cache_key": "c246df9c91a596934a5accc183053768"
 }

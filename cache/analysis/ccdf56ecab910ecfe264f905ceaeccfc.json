@@ -1,0 +1,128 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.46.55%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_070",
+    "ai_generated_tags": {
+      "room": "Entrance Hall",
+      "theme": "Modern Indian with Geometric Influence",
+      "primary_features": [
+        "Circular mirror",
+        "Buddha statue",
+        "Green cabinet",
+        "Wall art",
+        "Plant"
+      ],
+      "objects": [
+        {
+          "type": "Circular Mirror",
+          "features": [
+            "Gold frame",
+            "Large size"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Shiny metallic"
+        },
+        {
+          "type": "Buddha Statue",
+          "features": [
+            "Sitting pose",
+            "Bronze finish"
+          ],
+          "materials": [
+            "Bronze"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Green Cabinet",
+          "features": [
+            "Two doors with geometric handles",
+            "Shelving inside"
+          ],
+          "materials": [
+            "Metallic frame",
+            "Painted surface"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Wall Art",
+          "features": [
+            "Rectangular frames with abstract designs"
+          ],
+          "materials": [
+            "Cardboard or MDF"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Plant",
+          "features": [
+            "Large leafy plant"
+          ],
+          "materials": [
+            "Living plant"
+          ],
+          "finish": "Natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Green",
+          "Brown",
+          "Gold",
+          "Beige",
+          "Gray"
+        ],
+        "materials": [
+          "Metal",
+          "Painted wood",
+          "Marble",
+          "Cardboard",
+          "Living plant"
+        ],
+        "lighting": "Natural light with ceiling spotlights",
+        "texture": "Smooth surfaces with some textured walls"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Circular mirror",
+          "Buddha statue"
+        ],
+        "modern_adaptations": [
+          "Geometric cabinet handles",
+          "Marble wall design"
+        ],
+        "space_utilization": "Efficient use of vertical space with cabinet and wall art",
+        "cultural_significance": "Buddha statue represents spiritual or religious significance, often seen in Indian homes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian entrance hall with a blend of traditional and geometric influences. The circular mirror and Buddha statue add a cultural touch, while the green cabinet with geometric handles and marbled wall design reflect modern interpretations of traditional elements. The use of natural and neutral tones, along with living plants, enhances the aesthetic appeal, making it a welcoming space.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Modern entrance",
+        "Buddha statue",
+        "Circular mirror",
+        "Geometric cabinet"
+      ],
+      "budget_indicator": "Medium-high, given the use of marble and brass materials",
+      "space_type": "Residential entrance",
+      "functionality": "Welcome area for guests, with shoe storage and decorative elements",
+      "indian_specific": "Buddha statue, circular mirror, green cabinet with geometric handles"
+    }
+  },
+  "cached_at": 1753275067866,
+  "cache_key": "ccdf56ecab910ecfe264f905ceaeccfc"
+}

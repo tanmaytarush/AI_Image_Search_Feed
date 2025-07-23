@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.36%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_052",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Wooden paneling with geometric cutouts",
+        "Glass shelves",
+        "LED lighting"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Wooden, with built-in glass shelves",
+            "Light brown finish"
+          ],
+          "materials": [
+            "Wooden paneling, glass"
+          ],
+          "finish": "Satin wood with reflective glass"
+        },
+        {
+          "type": "Doors",
+          "features": [
+            "Wooden, double-entry doors with minimalistic handles"
+          ],
+          "materials": [
+            "Wooden"
+          ],
+          "finish": "Polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light brown",
+          "White",
+          "Purple (LED light)",
+          "Black (furniture base)"
+        ],
+        "materials": [
+          "Wooden paneling",
+          "Glass",
+          "Metal (furniture base)"
+        ],
+        "lighting": "LED lighting within the paneling creating a modern accent",
+        "texture": "Smooth wooden texture with a glossy finish on the glass shelves"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but has elements of traditional Indian design",
+        "traditional_elements": [
+          "Geometric cutouts, use of glass shelves"
+        ],
+        "modern_adaptations": [
+          "Integration of LED lighting, contemporary furniture style"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in shelving",
+        "cultural_significance": "The use of glass shelves may be inspired by the traditional chowki, a low table used for displaying items"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern Indian-inspired entryway with a blend of traditional and contemporary elements. The space features wooden paneling with geometric cutouts and glass shelves, creating a fusion of traditional and modern design. The use of LED lighting adds a contemporary touch, while the glass shelves are reminiscent of traditional chowki, a low table used for displaying items. The overall design is sleek and efficient, utilizing vertical space to create a visually appealing and functional entryway.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Fusion Design",
+          "LED Lighting",
+          "Glass Shelves",
+          "Wooden Paneling"
+        ],
+        "budget_indicator": "Moderate, as it features quality wooden materials and glass shelves",
+        "space_type": "Residential Entryway",
+        "functionality": "Primarily serves as a functional entryway, providing storage and a welcoming appearance",
+        "indian_specific": "Geometric cutouts, glass shelves"
+      }
+    }
+  },
+  "cached_at": 1753274849267,
+  "cache_key": "c3616f8779fc6800f8a805eba6bab5c6"
+}

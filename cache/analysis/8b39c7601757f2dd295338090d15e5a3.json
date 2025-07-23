@@ -7,77 +7,70 @@
       "theme": "Contemporary Indian",
       "primary_features": [
         "Built-in wardrobe",
-        "Window with grill",
-        "Built-in bench"
+        "Wooden window with grills",
+        "Wooden bed frame"
       ],
       "objects": [
         {
           "type": "Built-in wardrobe",
           "features": [
-            "Gray textured panels",
             "Herringbone pattern",
             "Metallic handles"
           ],
           "materials": [
-            "Melamine",
-            "Metallic hardware"
+            "Metallic finish"
           ],
-          "finish": "Textured"
+          "finish": "Metallic"
         },
         {
-          "type": "Window",
+          "type": "Wooden window with grills",
           "features": [
-            "Wooden frame",
-            "Metal grill",
-            "Panoramic view"
+            "Traditional wooden frame",
+            "Metallic grills"
           ],
           "materials": [
             "Wood",
             "Metal"
           ],
-          "finish": "Natural"
+          "finish": "Natural wood finish with metallic grills"
         },
         {
-          "type": "Built-in bench",
+          "type": "Wooden bed frame",
           "features": [
-            "Wooden frame",
-            "White seat",
-            "Integrated with wardrobe"
+            "Exposed wooden edges",
+            "Simple design"
           ],
           "materials": [
-            "Wood",
-            "Metallic hardware"
+            "Wood"
           ],
-          "finish": "Natural"
+          "finish": "Natural wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Gray",
           "White",
+          "Gray",
           "Brown",
           "Black"
         ],
         "materials": [
-          "Melamine",
+          "Wood",
           "Metal",
-          "Wood"
+          "Concrete"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Textured and smooth"
+        "lighting": "Artificial lighting from ceiling",
+        "texture": "Smooth metallic, textured wood, concrete flooring"
       },
       "indian_context": {
-        "regional_style": "South Indian",
+        "regional_style": "Southern India",
         "traditional_elements": [
-          "Wooden window grill",
-          "Textured paneling"
+          "Wooden window with grills"
         ],
         "modern_adaptations": [
-          "Contemporary herringbone pattern",
-          "Integrated furniture"
+          "Herringbone pattern on wardrobe, modern storage solutions"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture",
-        "cultural_significance": "Balancing traditional elements with modern aesthetics"
+        "space_utilization": "Efficient use of space with built-in wardrobe and window",
+        "cultural_significance": "Use of traditional wooden window with grills preserving cultural heritage"
       }
     },
     "confidence_scores": {
@@ -87,21 +80,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image showcases a contemporary Indian bedroom design with a focus on efficient space utilization and a blend of traditional and modern elements. The built-in wardrobe with a herringbone pattern and metallic hardware, along with the wooden window grill, are key features that reflect a South Indian aesthetic while incorporating modern design trends.",
+    "description": "This bedroom showcases a modern take on traditional Indian design, featuring a built-in wardrobe with a herringbone pattern and metallic handles, a wooden window with traditional grills, and a simple wooden bed frame. The space incorporates contemporary elements like concrete flooring and metallic finishes, blending seamlessly with the regional style. Cultural significance is preserved through the use of traditional wooden window grills.",
     "metadata": {
       "tags": [
-        "Bedroom",
-        "Contemporary Indian",
-        "South Indian",
-        "Textured paneling",
-        "Built-in furniture"
+        "Indian bedroom",
+        "Modern Indian design",
+        "Built-in wardrobe",
+        "Herringbone pattern",
+        "Wooden window"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Bedroom",
-      "functionality": "Storage and seating",
-      "indian_specific": "Textured paneling and wooden window grill"
+      "budget_indicator": "Moderate to high, due to metallic wardrobe and wooden window grills",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Traditional wood and metal elements"
     }
   },
-  "cached_at": 1753179240668,
+  "cached_at": 1753273866835,
   "cache_key": "8b39c7601757f2dd295338090d15e5a3"
 }

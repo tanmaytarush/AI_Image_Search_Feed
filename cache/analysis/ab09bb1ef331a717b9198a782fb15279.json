@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.12%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_074",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Contemporary with traditional Indian influences",
+      "primary_features": [
+        "Modern ceiling design with linear lighting",
+        "Geometric wall paneling",
+        "Minimalist furniture"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Modern design with white upholstery"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth and clean"
+        },
+        {
+          "type": "Ceiling lights",
+          "features": [
+            "Linear, modern design with spherical bulbs"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wall paneling",
+          "features": [
+            "Geometric pattern in warm wood tones"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth and polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, beige, brown, black, gray",
+          "Neutral color palette with pops of brown"
+        ],
+        "materials": [
+          "Metal, wood, fabric, glass"
+        ],
+        "lighting": "Natural and artificial lighting with linear ceiling fixtures",
+        "texture": "Smooth and reflective surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not specific regional style evident",
+        "traditional_elements": [
+          "Cupboard with decorative brass elements"
+        ],
+        "modern_adaptations": [
+          "Contemporary ceiling design, minimalist furniture"
+        ],
+        "space_utilization": "Efficient use of space with minimalistic furniture arrangement",
+        "cultural_significance": "Cultural relevance in the use of traditional brass elements for decorative purposes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.75,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.7
+    },
+    "description": "The image showcases a modern living room with contemporary ceiling design featuring linear lighting elements. The walls are adorned with geometric paneling in warm beige and brown tones, complementing the minimalist white sofa. The space is enhanced by the use of traditional Indian brass elements in the cupboard, blending seamlessly with the modern aesthetic. The overall design highlights cultural influences through the use of traditional materials and patterns in a contemporary setting.",
+    "metadata": {
+      "tags": [
+        "Living room",
+        "Contemporary design",
+        "Indian elements",
+        "Minimalist furniture",
+        "Linear ceiling design"
+      ],
+      "budget_indicator": "Moderate, with a focus on modern materials and minimalist design",
+      "space_type": "Residential living room",
+      "functionality": "Relaxation and entertainment",
+      "indian_specific": "Brass elements in cupboard with traditional design"
+    }
+  },
+  "cached_at": 1753275121198,
+  "cache_key": "ab09bb1ef331a717b9198a782fb15279"
+}

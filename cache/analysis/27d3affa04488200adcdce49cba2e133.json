@@ -3,81 +3,104 @@
   "analysis": {
     "image_id": "img_065",
     "ai_generated_tags": {
-      "room": "living room",
-      "theme": "contemporary with traditional Indian influence",
+      "room": "Living room",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "modern false ceiling with linear lighting",
-        "wooden slatted partition",
-        "textured marble flooring",
-        "dining table with white chairs",
-        "TV unit with storage"
+        "Flat panel TV on wooden display unit",
+        "Marble flooring",
+        "Modern LED ceiling lights",
+        "Shelving units",
+        "Dining table with upholstered chairs"
       ],
       "objects": [
         {
-          "type": "dining table",
+          "type": "Wooden display unit",
           "features": [
-            "black table with white chairs",
-            "textured white marble top"
+            "Dark wood finish",
+            "Modern design",
+            "Integrated storage"
           ],
           "materials": [
-            "black wood",
-            "white marble"
+            "Wood"
           ],
-          "finish": "high-gloss furniture finish"
+          "finish": "Glossy"
         },
         {
-          "type": "TV unit",
+          "type": "Marble flooring",
           "features": [
-            "wooden base with storage cabinets",
-            "white textured paneling"
+            "White with gray veining"
           ],
           "materials": [
-            "dark wood",
-            "white textured material"
+            "Marble"
           ],
-          "finish": "high-gloss finish"
+          "finish": "Shiny"
         },
         {
-          "type": "partition",
+          "type": "Dining table",
           "features": [
-            "slatted wooden panels",
-            "beige textured backdrop"
+            "Dark wood finish",
+            "Rectangular shape",
+            "Four upholstered chairs"
           ],
           "materials": [
-            "dark wood",
-            "beige fabric"
+            "Wood",
+            "Fabric"
           ],
-          "finish": "polished wood and fabric"
+          "finish": "Glossy, Soft"
+        },
+        {
+          "type": "Ceiling lights",
+          "features": [
+            "Modern design",
+            "Square LED lights"
+          ],
+          "materials": [
+            "Metallic",
+            "Plastic"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Shelving units",
+          "features": [
+            "Dark wood finish",
+            "Floating design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white",
-          "brown",
-          "black",
-          "beige",
-          "green"
+          "White",
+          "Dark brown",
+          "Black",
+          "Green",
+          "Beige"
         ],
         "materials": [
-          "wood",
-          "marble",
-          "textured fabric"
+          "Wood",
+          "Marble",
+          "Metal",
+          "Fabric"
         ],
-        "lighting": "natural light from window, linear ceiling lights",
-        "texture": "smooth marble, textured fabric, polished wood"
+        "lighting": "Artificial, from ceiling lights",
+        "texture": "Smooth, shiny"
       },
       "indian_context": {
-        "regional_style": "not distinctly regional, but modern interpretations of traditional elements",
+        "regional_style": "Modern Indian",
         "traditional_elements": [
-          "slatted wooden partition",
-          "textured marble flooring"
+          "Wooden shelves",
+          "Dark wood finish"
         ],
         "modern_adaptations": [
-          "false ceiling with linear lighting",
-          "high-gloss furniture finish"
+          "Minimalist design",
+          "LED lights"
         ],
-        "space_utilization": "efficient use of space with a partition to divide the room",
-        "cultural_significance": "elements like the wooden partition and textured flooring reflect traditional Indian design, though modernized"
+        "space_utilization": "Efficient use of space with zoning through display units and shelving",
+        "cultural_significance": "The use of dark wood and shelves reflects a blend of traditional Indian aesthetics with modern sophistication"
       }
     },
     "confidence_scores": {
@@ -87,21 +110,23 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image showcases a modern living room that incorporates traditional Indian design elements, particularly in the use of wooden partitions and textured flooring. The room features a contemporary false ceiling with linear lighting, a dining table with white chairs, and a TV unit with storage, all blending seamlessly with the wooden slatted partition that serves as a divider between the living and dining areas. The high-gloss finish on the furniture and the use of dark wood and white marble create a sophisticated yet warm aesthetic. The natural light from the window enhances the brightness of the space, while the textured fabric and polished wood add a touch of traditional Indian design to the contemporary setting.",
+    "description": "This contemporary Indian living room features a sleek, modern design with a wooden display unit housing a flat panel TV. The space is divided by a decorative wooden feature that also serves as shelving. The marble flooring and LED ceiling lights contribute to the bright and spacious feel, while the dining area with upholstered chairs adds a touch of traditional comfort. The use of dark wood in the display unit and shelves pays homage to traditional Indian design elements, while the overall minimalist approach speaks to a modern interpretation.",
     "metadata": {
       "tags": [
-        "living room",
-        "contemporary",
-        "traditional Indian",
-        "textured marble",
-        "wooden partition"
+        "Living room",
+        "Contemporary Indian",
+        "Modern design",
+        "Marble flooring",
+        "LED ceiling lights",
+        "Wooden display unit",
+        "Upholstered chairs"
       ],
-      "budget_indicator": "moderate, with high-quality materials like marble and polished wood",
-      "space_type": "residential living room",
-      "functionality": "entertainment and dining",
-      "indian_specific": "use of wooden partition and textured flooring"
+      "budget_indicator": "Mid-range, with use of high-end materials like marble and LED lights",
+      "space_type": "Residential",
+      "functionality": "Entertainment and dining/living area",
+      "indian_specific": "Dark wood finish and shelving"
     }
   },
-  "cached_at": 1753181188485,
+  "cached_at": 1753275001560,
   "cache_key": "27d3affa04488200adcdce49cba2e133"
 }

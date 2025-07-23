@@ -4,84 +4,92 @@
     "image_id": "img_010",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Contemporary",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Open-plan layout",
-        "Ceiling fan",
-        "Marble flooring"
+        "Smart lighting, modern furniture, wall clock, bar area"
       ],
       "objects": [
         {
-          "type": "Bar counter",
-          "features": [
-            "Bottle storage",
-            "Glassware"
-          ],
-          "materials": [
-            "Wood",
-            "Marble"
-          ],
-          "finish": "polished"
-        },
-        {
           "type": "Sofa",
           "features": [
-            "Wooden legs",
-            "Textured upholstery"
+            "Modular design, cream-colored fabric, floral patterned cushions"
           ],
           "materials": [
-            "Cloth",
-            "wood"
+            "Cotton/casual fabric for cushions, foam core for structure"
           ],
-          "finish": "soft"
+          "finish": "Smooth, slightly textured fabric finish"
         },
         {
-          "type": "Ceiling fan",
+          "type": "Coffee Table",
           "features": [
-            "Flush mount"
+            "Round, black glass top, metallic base"
           ],
           "materials": [
-            "metal"
+            "Glass for top, metal for base"
           ],
-          "finish": "bare metal"
+          "finish": "High-gloss, reflective surface"
         },
         {
-          "type": "Coffee table",
+          "type": "Bar Area",
           "features": [
-            "Glass top",
-            "Metal base"
+            "Wooden shelves, glass bottle displays, metallic bar stools"
           ],
           "materials": [
-            "Glass",
-            "metal"
+            "Wood, glass, metal"
           ],
-          "finish": "polished"
+          "finish": "Warm wood tone, reflective metal, glossy glass"
+        },
+        {
+          "type": "Ceiling Fan",
+          "features": [
+            "White, modern design"
+          ],
+          "materials": [
+            "Metal and plastic"
+          ],
+          "finish": "Smooth, glossy white"
+        },
+        {
+          "type": "Wall Clock",
+          "features": [
+            "Round, white face, black bird design"
+          ],
+          "materials": [
+            "Plastic or metal for frame, glass for face"
+          ],
+          "finish": "Matte black bird design, glossy white clock face"
+        },
+        {
+          "type": "Wall Panel",
+          "features": [
+            "Textured, gold-colored finish"
+          ],
+          "materials": [
+            "Painted or textured material"
+          ],
+          "finish": "Rich, textured gold finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white",
-          "brown",
-          "black",
-          "green"
+          "Cream, gold, black, white, green, brown, metallic"
         ],
         "materials": [
-          "wood",
-          "marble",
-          "glass"
+          "Wood, glass, metal, fabric, painted wall"
         ],
-        "lighting": "indirect",
-        "texture": "smooth, matte"
+        "lighting": "Recessed lights, ceiling fan light, ambient lighting",
+        "texture": "Smooth, glossy, textured"
       },
       "indian_context": {
-        "regional_style": "Modern",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Minimalistic design",
-          "Use of modern materials"
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Wall clock with bird design, bar setup"
         ],
-        "space_utilization": "optimal",
-        "cultural_significance": ""
+        "modern_adaptations": [
+          "Minimalist furniture, contemporary lighting"
+        ],
+        "space_utilization": "Open floor plan with bar area integrated",
+        "cultural_significance": "Wall clock with bird design may indicate a cultural or personal significance"
       }
     },
     "confidence_scores": {
@@ -91,21 +99,17 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "A modern living room with an open-plan layout, featuring a bar counter, a sofa, a ceiling fan, and a coffee table. The design combines contemporary elements with minimalistic decor, using a combination of wood, marble, and glass materials, and incorporating a clean color palette with white, brown, black, and green tones.",
+    "description": "This modern Indian living room seamlessly blends contemporary design with traditional elements. The space features a clean, open layout with a bar area, modern furniture, and a wall clock with a bird design. The color palette includes soft cream, gold, black, and green, with glossy textures and materials creating a luxurious and inviting atmosphere. The room's design emphasizes functionality and comfort, with a focus on integrating traditional Indian aesthetics, such as the wall clock and bar setup, into a modern setting.",
     "metadata": {
       "tags": [
-        "living room",
-        "modern",
-        "contemporary",
-        "marble flooring",
-        "ceiling fan"
+        "Modern Indian, Contemporary Living Room, Open Floor Plan, Bar Area, Wall Clock"
       ],
-      "budget_indicator": "high",
-      "space_type": "residential",
-      "functionality": "living and entertaining",
-      "indian_specific": "No specific Indian features"
+      "budget_indicator": "Mid-range, due to use of materials like glass, metal, and painted wall",
+      "space_type": "Residential Living Room",
+      "functionality": "Relaxation, socializing, and entertaining",
+      "indian_specific": "Wall clock with bird design, bar setup"
     }
   },
-  "cached_at": 1753179268552,
+  "cached_at": 1753274035593,
   "cache_key": "e35f363e11fd50ff5c78c3326e06f708"
 }

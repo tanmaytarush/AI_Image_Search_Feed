@@ -3,81 +3,82 @@
   "analysis": {
     "image_id": "img_030",
     "ai_generated_tags": {
-      "room": "Hallway",
-      "theme": "Minimalist",
+      "room": "Closet",
+      "theme": "Minimalist with Indian Influences",
       "primary_features": [
-        "White wardrobe with four doors",
-        "Built-in shelving unit"
+        "Bifold wardrobe with wood and white finish",
+        "Open shelving with books and decorative items",
+        "Dark wooden door with simple hardware"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Bifold wardrobe",
           "features": [
-            "Four doors with simple handles",
-            "White color"
+            "White upper and light wood lower section",
+            "Bifold doors with simple handles"
           ],
           "materials": [
-            "Wooden frame",
-            "Painted finish"
+            "White lacquer paint",
+            "Light wood"
           ],
-          "finish": "Matte"
+          "finish": "Matte finish"
         },
         {
-          "type": "Shelving Unit",
+          "type": "Open shelving unit",
           "features": [
-            "Open shelving unit with compartments",
-            "Integrated with wardrobe"
+            "Wooden shelves with open compartments",
+            "Built-in design"
           ],
           "materials": [
-            "Wooden frame",
-            "Light-colored finish"
+            "Light wood"
           ],
-          "finish": "Matte"
+          "finish": "Natural wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Light wooden tones",
-          "Dark brown"
+          "White, light wood, brown, beige, black"
         ],
         "materials": [
-          "Wood",
-          "Painted surfaces"
+          "Painted wood, light wood, dark wood, metal"
         ],
-        "lighting": "Natural light with subtle artificial illumination",
-        "texture": "Smooth surfaces"
+        "lighting": "Soft ambient lighting from built-in shelves",
+        "texture": "Smooth paint finish on wood"
       },
       "indian_context": {
-        "regional_style": "Western-style",
-        "traditional_elements": [],
-        "modern_adaptations": [],
-        "space_utilization": "Efficient use of wall space",
-        "cultural_significance": "No specific cultural elements"
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with Indian construction materials like wood"
+        ],
+        "space_utilization": "Efficient use of vertical space in a small area",
+        "cultural_significance": "No specific cultural significance in the elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.92,
+        "indian_context": 0.6
+      },
+      "description": "A minimalist closet with a bifold wardrobe featuring a white upper section and light wood lower section. The space includes open shelving with books and decorative items, and a dark wooden door with simple hardware. The design incorporates modern interpretations of traditional Indian construction materials like wood, but lacks specific regional or cultural elements typically found in Indian interior design.",
+      "metadata": {
+        "tags": [
+          "Minimalist design",
+          "Indian woodwork",
+          "Interior closet",
+          "Bifold wardrobe",
+          "Open shelving"
+        ],
+        "budget_indicator": "Moderate, utilizing painted wood and light wood for the wardrobe, with a dark wooden door",
+        "space_type": "Residential closet",
+        "functionality": "Storage and organization of personal items",
+        "indian_specific": "Minimal adaptation of traditional Indian wood construction"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "A modern and minimalist hallway featuring a white wardrobe with four doors and an open shelving unit integrated with the wardrobe, providing ample storage space. The walls and door are finished in a light beige color, complemented by a dark brown wooden door on the left.",
-    "metadata": {
-      "tags": [
-        "minimalist",
-        "hallway",
-        "wardrobe",
-        "storage",
-        "interior design"
-      ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Storage and organization",
-      "indian_specific": "No specific Indian features"
     }
   },
-  "cached_at": 1753179512944,
+  "cached_at": 1753274340585,
   "cache_key": "b1fa0b58f297ec8781034bbf1e9fad85"
 }

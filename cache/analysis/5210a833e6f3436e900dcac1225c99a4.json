@@ -4,101 +4,115 @@
     "image_id": "img_031",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Contemporary Minimalist",
+      "theme": "Modern Indian Minimalist",
       "primary_features": [
-        "Sliding wardrobe doors",
-        "Built-in shelves",
-        "Oval mirror",
-        "Patterned wallpaper"
+        "Built-in wardrobe with sliding doors",
+        "Wall-mounted shelves with decorative items",
+        "Patterned wallpaper",
+        "Mirrored console table",
+        "Built-in storage drawers"
       ],
       "objects": [
         {
-          "type": "Sliding wardrobe doors",
+          "type": "Built-in wardrobe",
           "features": [
-            "Light blue finish",
-            "Vertical panel design",
-            "Horizontal stripes in dark grey"
-          ],
-          "materials": [
-            "Wood veneer, possibly MDF with painted finish"
-          ],
-          "finish": "Glossy, smooth surface"
-        },
-        {
-          "type": "Built-in shelves",
-          "features": [
-            "White shelves with teal accents",
-            "Open shelving design"
-          ],
-          "materials": [
-            "Wood veneer, possibly MDF with painted finish"
-          ],
-          "finish": "Matte, smooth surface"
-        },
-        {
-          "type": "Oval mirror",
-          "features": [
-            "Beveled edge",
-            "Silver frame"
+            "Sliding glass doors with horizontal metallic accents",
+            "Modern design"
           ],
           "materials": [
             "Glass",
-            "Metal"
+            "Metallic accents"
           ],
-          "finish": "Shiny, reflective surface"
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Wall-mounted shelves",
+          "features": [
+            "Open shelving with decorative items and books"
+          ],
+          "materials": [
+            "Light wood"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Mirrored console table",
+          "features": [
+            "Oval shape",
+            "Wall-mounted design"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Built-in storage drawers",
+          "features": [
+            "Two drawers with white and blue finish"
+          ],
+          "materials": [
+            "MDF",
+            "Acrylic"
+          ],
+          "finish": "Glossy finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Light blue",
           "White",
-          "Teal",
-          "Dark grey",
-          "Silver",
-          "Beige"
+          "Light gray",
+          "Gold",
+          "Silver"
         ],
         "materials": [
-          "Wood veneer",
-          "MDF",
           "Glass",
-          "Metal"
+          "Metal",
+          "Wood",
+          "Acrylic",
+          "MDF"
         ],
-        "lighting": "Natural light coming from the right, creating shadows on the floor and furniture",
-        "texture": "Smooth surfaces with some glossy finishes"
+        "lighting": "Natural light coming through the window",
+        "texture": [
+          "Sleek and modern finishes"
+        ]
       },
       "indian_context": {
-        "regional_style": "Not clearly indicative of a specific regional style",
-        "traditional_elements": [],
+        "regional_style": "No specific regional style identifiable",
+        "traditional_elements": [
+          "No traditional Indian elements present"
+        ],
         "modern_adaptations": [
-          "Adaptation of traditional furniture styles like a diwan (storage unit) with modern finishes"
+          "Integration of traditional materials and finishes in a modern context"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture for storage and display",
-        "cultural_significance": "No culturally significant elements visible, focusing on modern aesthetics with Indian influences"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image showcases a modern bedroom with a contemporary minimalist design. The light blue sliding wardrobe doors feature a vertical panel design with horizontal stripes, suggesting an adaptation of traditional Indian furniture styles. The built-in shelves with teal accents and the oval mirror with a silver frame add to the modern aesthetic. The room benefits from natural light, which highlights the smooth and glossy finishes of the furniture. The design focuses on functionality and storage with an emphasis on modern aesthetics, incorporating subtle Indian design influences in the furniture style.",
-      "metadata": {
-        "tags": [
-          "Contemporary Bedroom",
-          "Minimalist Design",
-          "Modern Sliding Doors",
-          "Built-in Shelves",
-          "Oval Mirror",
-          "Light Blue Color Palette"
-        ],
-        "budget_indicator": "Moderate to High, given the use of materials like wood veneer and glossy finishes",
-        "space_type": "Residential Bedroom",
-        "functionality": "Storage and dressing area",
-        "indian_specific": "Modern adaptation of traditional Indian furniture styles"
+        "space_utilization": "Efficient use of space with built-in storage solutions",
+        "cultural_significance": "Modern interpretation of Indian design principles focusing on functionality and aesthetics"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian-inspired bedroom features a sleek, minimalist design with a focal point on built-in storage solutions. The sliding glass wardrobe with metallic accents is a contemporary take on traditional Indian design, while the wall-mounted shelves and mirrored console table add a touch of elegance. The light blue and white color palette, along with the glossy finishes, create a fresh and inviting atmosphere, reflecting a blend of traditional and modern Indian aesthetics. The space is well-organized, maximizing functionality and space efficiency within a clean, modern framework.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Minimalist",
+        "Built-in Storage",
+        "Wall-mounted Shelves",
+        "Sleek Finish"
+      ],
+      "budget_indicator": "Moderate, with the use of acrylic finishes and metal accents suggesting a balance between cost and quality.",
+      "space_type": "Residential Bedroom",
+      "functionality": "Primary purpose is for storage and personal care, with a secondary use as a display area for personal items.",
+      "indian_specific": "Sleek modern design with a touch of traditional materials in a contemporary setting."
     }
   },
-  "cached_at": 1753181124700,
+  "cached_at": 1753274356217,
   "cache_key": "5210a833e6f3436e900dcac1225c99a4"
 }

@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.04%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_055",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian Kitchen",
+      "primary_features": [
+        "L-shaped cabinetry",
+        "marble countertops",
+        "metallic handles",
+        "white walls with decorative tiles",
+        "LED lighting"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen countertop",
+          "features": [
+            "dark granite surface",
+            "smooth finish"
+          ],
+          "materials": [
+            "granite"
+          ],
+          "finish": "high-gloss"
+        },
+        {
+          "type": "Kitchen cabinet",
+          "features": [
+            "L-shaped design",
+            "red and white color scheme",
+            "metallic handles"
+          ],
+          "materials": [
+            "wood",
+            "glossy finish"
+          ],
+          "finish": "glossy"
+        },
+        {
+          "type": "Kitchen backsplash",
+          "features": [
+            "white tiles with decorative pattern"
+          ],
+          "materials": [
+            "ceramic tiles"
+          ],
+          "finish": "glazed"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "red",
+          "white",
+          "black",
+          "grey",
+          "gold"
+        ],
+        "materials": [
+          "granite",
+          "ceramic tiles",
+          "wood",
+          "metal"
+        ],
+        "lighting": "bright LED lighting from ceiling",
+        "texture": "smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style",
+        "traditional_elements": [
+          "No traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with a modern twist on traditional Indian colors and materials"
+        ],
+        "space_utilization": "efficient use of space with L-shaped cabinetry",
+        "cultural_significance": "Color scheme might be chosen to reflect modern aesthetics rather than cultural significance"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.88,
+        "objects": 0.9,
+        "indian_context": 0.75
+      },
+      "description": "This kitchen showcases a contemporary Indian design with a mix of traditional and modern elements. The red and white color scheme is reminiscent of traditional Indian decor, while the L-shaped cabinets and glossy surfaces reflect modern design trends. The use of marble countertops and metallic handles adds a touch of luxury and sophistication. The space is efficiently organized with a focus on functionality and aesthetics.",
+      "metadata": {
+        "tags": [
+          "Indian kitchen",
+          "Contemporary Indian",
+          "Red and white kitchen",
+          "Marble countertops",
+          "L-shaped cabinetry",
+          "LED lighting"
+        ],
+        "budget_indicator": "Moderate to high, with the use of granite and glossy finishes",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is food preparation and storage",
+        "indian_specific": "Red and white color scheme, use of metal and marble"
+      }
+    }
+  },
+  "cached_at": 1753274880700,
+  "cache_key": "2e04d21763fb93b7c818754d9da754d1"
+}

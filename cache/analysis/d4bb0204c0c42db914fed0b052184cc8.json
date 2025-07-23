@@ -4,95 +4,74 @@
     "image_id": "img_077",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Contemporary Indian",
+      "theme": "Contemporary",
       "primary_features": [
-        "Island counter",
-        "Modular cabinets",
-        "Multicolored cabinetry",
-        "Neon light fixture",
-        "TV unit"
+        "Modern kitchen layout",
+        "Central island",
+        "Built-in cabinets",
+        "Neon light fixture"
       ],
       "objects": [
         {
-          "type": "Island counter",
+          "type": "central island",
           "features": [
             "White countertop",
             "Wooden base",
             "Geometric pattern on doors"
           ],
           "materials": [
-            "Wood",
-            "Laminate"
-          ],
-          "finish": "Matte"
-        },
-        {
-          "type": "Modular cabinets",
-          "features": [
-            "Bespoke design",
-            "Contrasting colors (pink and white)",
-            "Integrated hardware"
-          ],
-          "materials": [
-            "MDF",
-            "Painted finish"
+            "White laminate",
+            "Wood"
           ],
           "finish": "Glossy"
         },
         {
-          "type": "Neon light fixture",
+          "type": "cabinets",
           "features": [
-            "Abstract design",
-            "Two neon tubes"
+            "Modern design",
+            "Integrated handles"
           ],
           "materials": [
-            "Metal",
-            "Electric wiring"
-          ],
-          "finish": "Metallic"
-        },
-        {
-          "type": "TV unit",
-          "features": [
-            "Marble-like top",
-            "Wooden side panels",
-            "Integrated TV stand"
-          ],
-          "materials": [
-            "Marble",
             "Wood"
           ],
-          "finish": "Laminate"
+          "finish": "Matte"
+        },
+        {
+          "type": "neon light fixture",
+          "features": [
+            "Contemporary design",
+            "Bright lighting"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Pink",
-          "Brown",
-          "Blue",
-          "Gray",
-          "Automatic lighting"
+          "Wood tones",
+          "Pink accents",
+          "Marble backsplash"
         ],
         "materials": [
+          "Laminate",
           "Wood",
-          "Marble",
-          "Metal",
-          "Laminate"
+          "Marble"
         ],
-        "lighting": "Bright, evenly distributed artificial lighting",
-        "texture": "Smooth surfaces"
+        "lighting": "Bright and modern, with a neon light fixture as the main source of illumination",
+        "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Regional variations may include this space being a fusion of different styles due to the modern context.",
-        "traditional_elements": [
-          "Absence of traditional Indian elements"
-        ],
+        "regional_style": "Modern with minimal Indian influence",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Contemporary Indian design with a modern twist"
+          "Glossy finishes",
+          "Geometric patterns"
         ],
-        "space_utilization": "Efficient home office space combined with a kitchen setting with minimal visible clutter",
-        "cultural_significance": "The design reflects a modern interpretation of Indian design, which often embraces a blend of traditional and contemporary aesthetics."
+        "space_utilization": "Open and functional, maximizing use of the central island",
+        "cultural_significance": "Minimal cultural elements, focusing on modern aesthetics"
       }
     },
     "confidence_scores": {
@@ -102,22 +81,20 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image showcases a contemporary kitchen with a modern Indian twist. The space features a central island counter with a white and wooden base, complemented by modular cabinets in a pink and white color scheme, reflecting a blend of traditional and modern influences. A neon light fixture adds a futuristic element, while the TV unit on the right merges modern aesthetics with a touch of traditional Indian marble and wood. The overall design emphasizes clean lines, bright colors, and a mix of materials, creating a functional yet stylish home office-kitchen hybrid.",
+    "description": "A modern kitchen interior with a central island, showcasing a contemporary style with white laminate countertops and wooden base cabinets. The space includes built-in cabinets with integrated handles, a marble backsplash, and a central island with a geometric pattern on the doors. A neon light fixture adds a contemporary touch to the space. The overall design is minimalist with a focus on clean lines and glossy finishes, lacking any traditional Indian design elements.",
     "metadata": {
       "tags": [
-        "Contemporary Indian",
-        "Modern Kitchen",
-        "Pink Cabinets",
-        "Neon Lighting",
-        "TV Unit",
-        "Home Office"
+        "Modern kitchen",
+        "Contemporary design",
+        "Central island",
+        "Neon lighting"
       ],
-      "budget_indicator": "Moderate to high, given the use of materials like marble and the bespoke design",
-      "space_type": "Residential",
-      "functionality": "Combined home office and kitchen space",
-      "indian_specific": "Modern adaptation of Indian design elements without traditional features"
+      "budget_indicator": "Moderate, with a focus on glossy finishes and modern materials",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary function is cooking and dining, with the central island serving as a secondary dining area",
+      "indian_specific": "No visible Indian-specific design features"
     }
   },
-  "cached_at": 1753181226412,
+  "cached_at": 1753275173119,
   "cache_key": "d4bb0204c0c42db914fed0b052184cc8"
 }

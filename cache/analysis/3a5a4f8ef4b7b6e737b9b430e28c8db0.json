@@ -1,0 +1,115 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00658.JPG",
+  "analysis": {
+    "image_id": "img_093",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Exquisite wooden elements",
+        "Geometric wall pattern",
+        "Wall-mounted shelves",
+        "Religious idols"
+      ],
+      "objects": [
+        {
+          "type": "Wooden cabinet",
+          "features": [
+            "Closed drawer",
+            "Decorative brass hardware"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Satin finish"
+        },
+        {
+          "type": "Decorative vase",
+          "features": [
+            "White and brown ceramic",
+            "Floral design"
+          ],
+          "materials": [
+            "Ceramic"
+          ],
+          "finish": "Glazed"
+        },
+        {
+          "type": "Religious idols",
+          "features": [
+            "Golden finish",
+            "Detailed carvings"
+          ],
+          "materials": [
+            "Brass"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wall-mounted shelves",
+          "features": [
+            "Wooden trim",
+            "Integrated lighting"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Satin finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "White",
+          "Gold",
+          "Black"
+        ],
+        "materials": [
+          "Teak wood",
+          "Ceramic",
+          "Brass",
+          "Metal"
+        ],
+        "lighting": "Ambient lighting with recessed spotlights",
+        "texture": "Smooth wooden surfaces and ceramic glazes"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden furniture",
+          "Religious idols",
+          "Wall-mounted shelves"
+        ],
+        "modern_adaptations": [
+          "Geometric wall pattern",
+          "Recessed lighting"
+        ],
+        "space_utilization": "Efficient use of vertical space with wall-mounted shelves",
+        "cultural_significance": "Religious idols represent spiritual and cultural importance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases an elegant entryway with contemporary Indian design elements. The space features a rich wooden cabinet with decorative brass hardware, a geometric wall pattern in brown and gold, and wall-mounted shelves with integrated lighting. Religious idols are prominently displayed, adding a spiritual and cultural touch. The use of wood and brass materials, along with the geometric pattern, reflects traditional Indian design while the recessed lighting and wall-mounted shelves introduce modern adaptations.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Wooden Entryway",
+        "Geometric Pattern",
+        "Religious Décor",
+        "Wall Shelves"
+      ],
+      "budget_indicator": "Medium-high, due to the use of teak wood, brass, and marble",
+      "space_type": "Residential",
+      "functionality": "Entrance area",
+      "indian_specific": "Wall-mounted shelves, religious idols, and geometric pattern"
+    }
+  },
+  "cached_at": 1753275517004,
+  "cache_key": "3a5a4f8ef4b7b6e737b9b430e28c8db0"
+}

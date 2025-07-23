@@ -6,122 +6,93 @@
       "room": "Kitchen",
       "theme": "Modern Minimalist",
       "primary_features": [
-        "Black countertops",
-        "Wooden cabinetry",
-        "Integrated sink",
-        "Black stove",
-        "Shelving for spice jars"
+        "Light wood cabinetry",
+        "black countertops",
+        "granite backsplash",
+        "inset cabinets"
       ],
       "objects": [
         {
-          "type": "Countertop",
+          "type": "Kitchen cabinetry",
           "features": [
-            "Black granite finish",
-            "Smooth surface"
+            "Light wood finish with wavy grain pattern",
+            "inset design"
           ],
           "materials": [
-            "Granite"
+            "Wood",
+            "metal handles"
           ],
-          "finish": "High-gloss"
+          "finish": "Glossy"
         },
         {
-          "type": "Cabinetry",
+          "type": "Countertop",
           "features": [
-            "Natural wood finish",
-            "Contemporary handles"
+            "Black surface with smooth finish"
           ],
           "materials": [
-            "Wood"
+            "Composite material"
           ],
           "finish": "Matte"
         },
         {
-          "type": "Sink",
+          "type": "Backsplash",
           "features": [
-            "Integrated design",
-            "Modern faucet"
+            "Granite with speckled pattern"
           ],
           "materials": [
-            "Metal"
+            "Granite"
           ],
-          "finish": "Brushed nickel"
-        },
-        {
-          "type": "Stove",
-          "features": [
-            "Modern design",
-            "Built-in"
-          ],
-          "materials": [
-            "Stainless steel"
-          ],
-          "finish": "Stainless steel"
-        },
-        {
-          "type": "Shelving",
-          "features": [
-            "Floating design",
-            "Black metal"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Black powder-coated"
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Black",
-          "Natural wood",
-          "White",
-          "Silver"
+          "Light wood tone",
+          "black",
+          "beige",
+          "white"
         ],
         "materials": [
-          "Granite",
-          "Wood",
-          "Metal"
+          "wood",
+          "granite",
+          "composite material"
         ],
-        "lighting": "Integrated under-cabinet lighting",
-        "texture": "Smooth and matte finishes"
+        "lighting": "Even light with no harsh shadows",
+        "texture": "Smooth surfaces with a mix of matte and glossy finishes"
       },
       "indian_context": {
-        "regional_style": "Contemporary",
-        "traditional_elements": [
-          "Contemporary design",
-          "Use of wood"
-        ],
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist aesthetic",
-          "Integrated appliances"
+          "Modern interpretations of traditional Indian design elements are not present, with a focus on minimalist aesthetics"
         ],
-        "space_utilization": "Efficient and functional",
-        "cultural_significance": "Modern interpretation of traditional Indian kitchen aesthetics"
+        "space_utilization": "Efficient use of space with closed cabinetry for storage and open countertop for workspace",
+        "cultural_significance": "No culturally specific Indian design elements are visible, focusing on universal minimalist design principles"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.8
+      },
+      "description": "The image depicts a modern minimalist kitchen with light wood cabinetry, black countertops, and a granite backsplash. The design emphasizes clean lines and functionality with a focus on contemporary aesthetics, lacking any traditional Indian design elements.",
+      "metadata": {
+        "tags": [
+          "kitchen",
+          "modern",
+          "minimalist",
+          "light wood",
+          "black countertops",
+          "granite backsplash"
+        ],
+        "budget_indicator": "Moderate to high",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary function as a cooking and food preparation space",
+        "indian_specific": "No Indian-specific design features present"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "A modern minimalist kitchen with sleek black countertops, natural wood cabinetry, and integrated appliances. The design emphasizes functionality and a clean, uncluttered look, with a touch of Indian-inspired natural wood elements.",
-    "metadata": {
-      "tags": [
-        "Kitchen",
-        "Modern Minimalist",
-        "Black Countertops",
-        "Wooden Cabinetry",
-        "Integrated Sink",
-        "Black Stove",
-        "Shelving"
-      ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Efficient and Functional",
-      "indian_specific": "Modern Adaptation of Indian Kitchen Aesthetics"
     }
   },
-  "cached_at": 1753179297365,
+  "cached_at": 1753274069361,
   "cache_key": "a05ddda4783500ecda7cc2939c420666"
 }

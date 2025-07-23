@@ -4,53 +4,44 @@
     "image_id": "img_016",
     "ai_generated_tags": {
       "room": "Bathroom",
-      "theme": "Modern",
+      "theme": "Contemporary",
       "primary_features": [
         "Marble flooring",
-        "Wooden vanity",
-        "Wall-mounted sink",
-        "Round mirror"
+        "Wooden accents",
+        "Circular mirror",
+        "Minimalist lighting"
       ],
       "objects": [
         {
-          "type": "Vanity",
+          "type": "Vanity unit",
           "features": [
-            "Wooden finish",
-            "Wall-mounted",
-            "Open shelving"
+            "Wooden frame",
+            "Marble top",
+            "Integrated sink",
+            "Storage compartments"
           ],
           "materials": [
-            "Wood",
+            "Teak",
             "Marble"
           ],
-          "finish": "Natural wood and polished marble"
-        },
-        {
-          "type": "Sink",
-          "features": [
-            "Wall-mounted",
-            "Round"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Polished"
+          "finish": "Smooth and polished"
         },
         {
           "type": "Mirror",
           "features": [
-            "Round",
-            "Wall-mounted"
+            "Circular shape",
+            "Wooden frame"
           ],
           "materials": [
-            "Metal"
+            "Wood"
           ],
-          "finish": "Metallic"
+          "finish": "Natural, unpolished"
         },
         {
-          "type": "Lighting",
+          "type": "Lighting fixtures",
           "features": [
-            "Modern pendant lights"
+            "Modern design",
+            "Gold accents"
           ],
           "materials": [
             "Metal"
@@ -58,65 +49,71 @@
           "finish": "Gold"
         },
         {
-          "type": "Flooring",
+          "type": "Shelving unit",
           "features": [
-            "Marble tiles"
+            "Dark finish",
+            "Glass shelves",
+            "Decorative items"
           ],
           "materials": [
-            "Marble"
+            "Glass",
+            "Painted wood"
           ],
-          "finish": "Polished"
+          "finish": "Dark finish, smooth"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
+          "Beige",
           "Brown",
-          "Gold"
+          "Gold",
+          "Black"
         ],
         "materials": [
           "Marble",
           "Wood",
+          "Glass",
           "Metal"
         ],
-        "lighting": "Modern pendant lights",
-        "texture": "Smooth"
+        "lighting": "Natural light with accent lighting from modern fixtures",
+        "texture": "Smooth and polished surfaces"
       },
       "indian_context": {
-        "regional_style": "Modern",
+        "regional_style": "Not distinctly Indian",
         "traditional_elements": [
-          "Wooden accents"
+          "Circular mirror, wooden accents"
         ],
         "modern_adaptations": [
-          "Marble and metallic finishes"
+          "Marble, glass shelves, modern lighting"
         ],
-        "space_utilization": "Efficient use of space",
-        "cultural_significance": "Minimalistic design with modern interpretation of traditional materials"
+        "space_utilization": "Optimized for storage and functionality",
+        "cultural_significance": "No specific cultural elements present"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.85,
+      "theme": 0.75,
+      "primary_features": 0.9,
+      "objects": 0.88,
+      "indian_context": 0.6
     },
-    "description": "This image showcases a modern bathroom with sleek and minimalist design elements. The space features marble flooring, a wooden vanity, and a wall-mounted sink with a round mirror. The lighting includes modern pendant lights, adding a touch of sophistication. The color scheme is dominated by white, brown, and gold, creating a clean and luxurious atmosphere.",
+    "description": "The image showcases a contemporary bathroom with a blend of traditional and modern elements. The space features a vanity unit with wooden accents and a marble top, complemented by a circular mirror with a wooden frame. The lighting is minimal and modern, with gold accents. The flooring is white marble, and the walls are painted white with marble tiles. The overall design is clean and uncluttered, emphasizing functionality and modern aesthetics with some traditional influences.",
     "metadata": {
       "tags": [
-        "bathroom",
-        "modern",
-        "marble",
-        "wooden",
-        "wall-mounted",
-        "round mirror"
+        "Bathroom",
+        "Contemporary",
+        "Marble",
+        "Wood",
+        "Circular mirror",
+        "Modern lighting"
       ],
-      "budget_indicator": "High",
-      "space_type": "Bathroom",
-      "functionality": "Efficient and stylish",
-      "indian_specific": "Modern interpretation of traditional materials"
+      "budget_indicator": "Mid-range, with the use of marble and wood indicating a slightly higher budget",
+      "space_type": "Residential bathroom",
+      "functionality": "Primary function is for personal hygiene and storage of bathroom essentials",
+      "indian_specific": "Circular mirror and wooden accents with traditional craftsmanship"
     }
   },
-  "cached_at": 1753179488733,
+  "cached_at": 1753274122632,
   "cache_key": "2f6d621c2ef1f543c84c10255eb01111"
 }

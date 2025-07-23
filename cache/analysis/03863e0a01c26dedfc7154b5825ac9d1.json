@@ -3,67 +3,73 @@
   "analysis": {
     "image_id": "img_067",
     "ai_generated_tags": {
-      "room": "bedroom",
-      "theme": "contemporary",
+      "room": "Bedroom",
+      "theme": "Modern Minimalist",
       "primary_features": [
-        "sliding doors",
-        "wavy patterned wallpaper"
+        "Wardrobe with sliding doors",
+        "Textured wallpaper"
       ],
       "objects": [
         {
-          "type": "sliding doors",
+          "type": "Wardrobe",
           "features": [
-            "rectangular panels",
-            "wavy pattern",
-            "dark metal frames"
+            "Sliding doors with contrasting textures",
+            "Wavy patterned panels"
           ],
           "materials": [
-            "wood, plastic"
+            "MDF",
+            "Painted finish"
           ],
-          "finish": "matte, glossy"
+          "finish": "Smooth, glossy finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white, black, brown"
+          "White",
+          "Black",
+          "Gray"
         ],
         "materials": [
-          "wood, plastic, metal, wallpaper"
+          "Wardrobe: MDF, Painted finish",
+          "Wallpaper: Textured"
         ],
-        "lighting": "indirect, soft",
-        "texture": "smooth, matte, glossy"
+        "lighting": "Indirect lighting, likely from ceiling fixtures",
+        "texture": "Wardrobe: Smooth, glossy finish, Wallpaper: Textured pattern"
       },
       "indian_context": {
-        "regional_style": "not prominent",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "contemporary style with traditional materials"
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "No traditional Indian elements"
         ],
-        "space_utilization": "efficient, minimalist",
-        "cultural_significance": "not prominent"
+        "modern_adaptations": [
+          "Combination of modern minimalist design with subtle Indian influences"
+        ],
+        "space_utilization": "Optimized for storage with sliding doors",
+        "cultural_significance": "No cultural elements present"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.7,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.6
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The image showcases a modern approach to Indian interior design, with contemporary sliding doors featuring a wavy patterned wallpaper. The space is efficiently utilized, emphasizing minimalism and functionality. The materials used, such as wood and plastic, reflect a modern interpretation of traditional Indian design elements.",
+      "description": "This image depicts a modern minimalist bedroom with a large wardrobe that features sliding doors with a contrasting textured pattern. The wardrobe is made of MDF with a smooth, glossy finish and is complemented by white and black textured wallpaper. The room has a contemporary feel with an emphasis on clean lines and functional design, but no traditional Indian elements are visible. The lighting appears to be indirect, and the overall aesthetic is sleek and modern.",
       "metadata": {
         "tags": [
-          "contemporary interior",
-          "sliding doors",
-          "wavy wallpaper",
-          "bedroom"
+          "Modern",
+          "Minimalist",
+          "Wardrobe",
+          "Textured Wallpaper",
+          "Contemporary Bedroom"
         ],
-        "budget_indicator": "moderate to high",
-        "space_type": "residential bedroom",
-        "functionality": "storage and organization",
-        "indian_specific": "contemporary adaptation of traditional materials"
+        "budget_indicator": "Moderate to High",
+        "space_type": "Residential Bedroom",
+        "functionality": "Storage and organization",
+        "indian_specific": "No visible Indian-specific design features"
       }
     }
   },
-  "cached_at": 1753181199093,
+  "cached_at": 1753275028016,
   "cache_key": "03863e0a01c26dedfc7154b5825ac9d1"
 }

@@ -4,132 +4,105 @@
     "image_id": "img_080",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Modern Indian",
+      "theme": "Contemporary",
       "primary_features": [
-        "Wall-mounted shelves with star decorations",
-        "Polka dot wallpaper",
-        "Green bunny-shaped headboard",
-        "Ornamental pillows",
-        "Marble flooring"
+        "Futuristic lighting",
+        "Polka dot wall design",
+        "Modular storage system",
+        "Comfortable bed with patterned bedding"
       ],
       "objects": [
         {
-          "type": "Wall-mounted shelves",
-          "features": [
-            "Star-shaped decorative items, books, and small plants"
-          ],
-          "materials": [
-            "Wooden shelves with orange back panel"
-          ],
-          "finish": "Matte finish"
-        },
-        {
-          "type": "Wall",
-          "features": [
-            "Polka dot wallpaper"
-          ],
-          "materials": [
-            "Painted wall"
-          ],
-          "finish": "Smooth finish"
-        },
-        {
-          "type": "Headboard",
-          "features": [
-            "Green bunny-shaped design"
-          ],
-          "materials": [
-            "Fabric"
-          ],
-          "finish": "Velvet finish"
-        },
-        {
-          "type": "Pillows",
-          "features": [
-            "Heart-shaped and patterned designs"
-          ],
-          "materials": [
-            "Fabric"
-          ],
-          "finish": "Soft fabric"
-        },
-        {
           "type": "Bed",
           "features": [
-            "Decorative bedding with floral and owl patterns"
+            "Futuristic headboard with rabbit ears design",
+            "Patterned bedding with floral and abstract motifs",
+            "Comfortable mattress"
           ],
           "materials": [
-            "Fabric for bedding"
+            "Fabric for headboard and bedding",
+            "Unknown material for bed frame"
           ],
-          "finish": "Textured fabric"
+          "finish": "Soft and cozy texture for bedding, smooth and polished for headboard"
         },
         {
-          "type": "Desk",
+          "type": "Built-in Desk",
           "features": [
-            "Green countertop, world map, and desk accessories"
+            "Modular design with shelves and open storage",
+            "Integrated lighting",
+            "Organized workspace"
           ],
           "materials": [
-            "Marble top, wood base"
+            "Unknown material for desk surface",
+            "Metal for structural support"
           ],
-          "finish": "Marble top, wood finish"
+          "finish": "Polished and reflective surface, metallic accents"
         },
         {
-          "type": "Closet",
+          "type": "Storage Cabinets",
           "features": [
-            "Sliding glass doors with orange and green panels"
+            "Tall cabinet with sliding doors",
+            "Integrated into the wall",
+            "Glass panels for visibility"
           ],
           "materials": [
-            "Glass, metal, and wood"
+            "Unknown material for cabinet body",
+            "Glass for doors",
+            "Metal for frame"
           ],
-          "finish": "Glossy finish on glass, metallic frame"
+          "finish": "Glossy and reflective"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Green, orange, white, black, pink, blue, yellow"
+          "White",
+          "Green",
+          "Orange",
+          "Brown",
+          "Multicolored bedding"
         ],
         "materials": [
-          "Wood, glass, marble, fabric, metal"
+          "Polished marble for flooring",
+          "Unknown materials for furniture",
+          "Glass for cabinet doors"
         ],
-        "lighting": "Natural light from ceiling lights",
-        "texture": "Smooth, matte, velvet, glossy"
+        "lighting": "Modern recessed and task lighting, creating a bright and inviting atmosphere",
+        "texture": "Smooth and polished surfaces with soft textures from bedding"
       },
       "indian_context": {
-        "regional_style": "Not clearly regional, but has elements of urban Indian design",
+        "regional_style": "No specific regional influence",
         "traditional_elements": [
-          "Not explicitly traditional Indian elements"
+          "No traditional Indian elements"
         ],
         "modern_adaptations": [
-          "Decorative and functional elements, such as polka dot wallpaper and bunny headboard, adapted from contemporary styles"
+          "Futuristic design with modern materials and lighting"
         ],
-        "space_utilization": "Efficient use of space with built-in storage and workspace",
-        "cultural_significance": "No explicitly cultural elements, but the use of soft colors and patterns can be associated with comfort and warmth"
+        "space_utilization": "Efficient use of space with built-in furniture and storage",
+        "cultural_significance": "No cultural elements specific to Indian tradition"
       }
     },
     "confidence_scores": {
-      "room": 0.85,
-      "theme": 0.8,
-      "primary_features": 0.85,
-      "objects": 0.9,
-      "indian_context": 0.7
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
     },
-    "description": "The image depicts a modern Indian-inspired bedroom with a blend of contemporary and traditional elements. The space features a polka dot wallpaper, a green bunny-shaped headboard, and a wall-mounted shelf with star decorations. The room is organized with built-in storage and a functional workspace, emphasizing efficiency and comfort. The use of soft colors and patterned textiles creates a warm and inviting atmosphere.",
+    "description": "The image depicts a modern, futuristic bedroom with a contemporary design aesthetic. The space features a polka dot wallpaper, a modular storage system integrated into the wall, and a bed with a unique rabbit ears headboard and patterned bedding. The room includes a sleek, built-in desk with integrated lighting and a tall cabinet with glass doors, creating an organized and stylish workspace. The color palette is a mix of white, green, orange, and brown, with smooth and polished materials throughout the room.",
     "metadata": {
       "tags": [
-        "modern",
-        "Indian design",
-        "contemporary bedroom",
-        "polka dot",
-        "bunny headboard",
-        "wall-mounted shelves",
-        "urban Indian style"
+        "Modern Bedroom",
+        "Futuristic Design",
+        "Polka Dot Decor",
+        "Built-in Furniture",
+        "Contemporary Style"
       ],
-      "budget_indicator": "Moderate, with a mix of materials like marble and glass, as well as patterned textiles",
-      "space_type": "Residential bedroom",
-      "functionality": "Sleeping and working",
-      "indian_specific": "Patterned textiles, polka dot wallpaper, and bunny-shaped headboard"
+      "budget_indicator": "Mid-range, with modern materials and finishes",
+      "space_type": "Residential Bedroom",
+      "functionality": "Sleeping and work space",
+      "indian_specific": "No Indian-specific design features visible"
     }
   },
-  "cached_at": 1753181227093,
+  "cached_at": 1753275209021,
   "cache_key": "43470675661f286fe7e34cbe10f386a9"
 }

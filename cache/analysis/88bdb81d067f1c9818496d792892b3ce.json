@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.29%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_059",
+    "ai_generated_tags": {
+      "room": "Office or Study",
+      "theme": "Modern with Traditional Elements",
+      "primary_features": [
+        "White wardrobe with black decorative elements",
+        "Clock on the wall",
+        "Window with metal grill",
+        "Simple white desk and chair"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "White finish",
+            "Black decorative symbols"
+          ],
+          "materials": [
+            "White paint",
+            "Black decorative material"
+          ],
+          "finish": "Matte finish with glossy black decorative elements"
+        },
+        {
+          "type": "Desk",
+          "features": [
+            "Simple design",
+            "White color"
+          ],
+          "materials": [
+            "White paint"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Chair",
+          "features": [
+            "Simple design",
+            "White color"
+          ],
+          "materials": [
+            "White paint"
+          ],
+          "finish": "Matte finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Beige",
+          "Gold"
+        ],
+        "materials": [
+          "Paint",
+          "Decorative material",
+          "Metal",
+          "Wood"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth surfaces with glossy black decorative elements on the wardrobe"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Decorative symbols on wardrobe doors",
+          "Metal grill on window"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with clean lines"
+        ],
+        "space_utilization": "Efficient use of space for functional purposes",
+        "cultural_significance": "Decorative symbols may have religious or cultural significance in Indian interiors, though specific context not provided"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern office or study space with a focus on functionality and minimalism. The white wardrobe with black decorative symbols and symbols, along with the simple white desk and chair, emphasize a clean, modern aesthetic. The window with a metal grill adds a touch of traditional Indian design, suggesting a blend of modern and traditional elements. The space is well-lit with natural light, creating a bright and inviting environment.",
+      "metadata": {
+        "tags": [
+          "Modern Interior",
+          "Indian Design Elements",
+          "White and Black Color Scheme",
+          "Office Space",
+          "Minimalist Design"
+        ],
+        "budget_indicator": "Moderate, with simple materials and finishes",
+        "space_type": "Residential or Commercial Office",
+        "functionality": "Function as a space for work or study",
+        "indian_specific": "Decorative symbols on the wardrobe doors have potential cultural significance"
+      }
+    }
+  },
+  "cached_at": 1753274922143,
+  "cache_key": "88bdb81d067f1c9818496d792892b3ce"
+}

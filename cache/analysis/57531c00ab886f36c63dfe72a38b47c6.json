@@ -3,78 +3,78 @@
   "analysis": {
     "image_id": "img_014",
     "ai_generated_tags": {
-      "room": "wardrobe",
-      "theme": "contemporary",
+      "room": "Cabinet or furniture piece",
+      "theme": "Minimalist with Indian Influences",
       "primary_features": [
-        "mirror",
-        "glass",
-        "geometric pattern",
-        "sleek lines"
+        "Frosted glass panels",
+        "Gold geometric accents",
+        "White panel at the bottom"
       ],
       "objects": [
         {
-          "type": "wardrobe door",
+          "type": "Furniture piece",
           "features": [
-            "reflective",
-            "transparent"
+            "Frosted glass panels with gold geometric accents",
+            "White panel at the bottom"
           ],
           "materials": [
-            "acrylic",
-            "glass"
+            "Frosted glass",
+            "Gold foil",
+            "White paneling"
           ],
-          "finish": "high-gloss"
+          "finish": "Glossy finish on frosted glass and metallic gold foil accents"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "neutral tones",
-          "brown",
-          "gold",
-          "white",
-          "gray"
+          "Frosted gray",
+          "Gold",
+          "White",
+          "Brown"
         ],
         "materials": [
-          "acrylic",
-          "glass",
-          "wood",
-          "marble"
+          "Frosted glass",
+          "Metallic gold",
+          "Synthetic paneling"
         ],
-        "lighting": "reflective",
-        "texture": "smooth"
+        "lighting": "Even lighting with no visible shadows, suggesting diffused indoor lighting",
+        "texture": "Smooth and glossy surface on glass and paneling"
       },
       "indian_context": {
-        "regional_style": "modern",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "geometric patterns",
-          "high-gloss finish"
+        "regional_style": "Not specific regional influence visible",
+        "traditional_elements": [
+          "Gold foil accents reminiscent of traditional Indian metalwork"
         ],
-        "space_utilization": "optimized",
-        "cultural_significance": "modern lifestyle"
+        "modern_adaptations": [
+          "Integration of modern minimalist design with traditional elements"
+        ],
+        "space_utilization": "The piece appears to be a decorative cabinet or furniture piece, possibly a wardrobe or storage unit",
+        "cultural_significance": "Gold accents and frosted glass are used in various traditional Indian designs to symbolize luxury and elegance, often seen in high-end residential interiors"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.78,
+        "primary_features": 0.91,
+        "objects": 0.97,
+        "indian_context": 0.8
+      },
+      "description": "This image showcases a modern interpretation of traditional Indian design elements, with frosted glass panels adorned with gold geometric accents. The white panel at the bottom adds a contemporary contrast, while the overall design reflects a minimalist approach with an Indian cultural touch. The piece appears to be a storage unit, possibly a wardrobe, given its cabinet-like structure.",
+      "metadata": {
+        "tags": [
+          "Indian design",
+          "Minimalist",
+          "Frosted glass",
+          "Gold accents",
+          "Modern Indian",
+          "Decorative cabinet"
+        ],
+        "budget_indicator": "Mid to high-end, given the use of frosted glass and metallic gold foil",
+        "space_type": "Residential",
+        "functionality": "Storage or decorative piece",
+        "indian_specific": "Gold foil accents and frosted glass are traditional Indian design elements adapted for a modern aesthetic"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "A sleek, contemporary wardrobe with reflective glass doors and geometric golden patterns, set against a modern backdrop.",
-    "metadata": {
-      "tags": [
-        "wardrobe",
-        "contemporary",
-        "modern",
-        "glass doors",
-        "geometric"
-      ],
-      "budget_indicator": "high",
-      "space_type": "bedroom",
-      "functionality": "storage",
-      "indian_specific": "modern fusion decor"
     }
   },
-  "cached_at": 1753179463124,
+  "cached_at": 1753274077658,
   "cache_key": "57531c00ab886f36c63dfe72a38b47c6"
 }

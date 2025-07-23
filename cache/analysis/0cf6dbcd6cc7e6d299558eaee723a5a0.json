@@ -3,65 +3,98 @@
   "analysis": {
     "image_id": "img_032",
     "ai_generated_tags": {
-      "room": "Bedroom",
+      "room": "Child's Bedroom",
       "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Built-in wardrobe",
-        "Study desk with shelves",
-        "Rounded shelves on the wall",
+        "Built-in wardrobe with pastel green and beige finish",
+        "Study table with open shelves",
+        "Comfortable office chair",
         "Bed with patterned bedding",
-        "Decorative elements such as a teddy bear and framed artwork"
+        "Curved wall shelf design"
       ],
       "objects": [
         {
           "type": "Built-in wardrobe",
           "features": [
-            "Pastel green and pink doors with circular gold accents",
-            "Multiple storage compartments"
+            "Pastel green and beige color scheme",
+            "Circular and rectangular cutouts with gold trim"
           ],
           "materials": [
-            "Wooden frame",
-            "Glass or frosted panels for the doors"
+            "Painted wood or MDF with possible lacquer finish"
           ],
-          "finish": "Smooth and glossy surface finish"
+          "finish": "Smooth and glossy"
         },
         {
-          "type": "Study desk with shelves",
+          "type": "Study table",
           "features": [
-            "Compact size with integrated shelves",
-            "Shelving for books and decorative items"
+            "White finish with open shelving",
+            "Integrated with the wardrobe structure"
           ],
           "materials": [
-            "Wooden surface",
-            "Metal frame"
+            "Painted wood or MDF"
           ],
-          "finish": "Smooth and polished surface"
+          "finish": "Glossy white"
+        },
+        {
+          "type": "Office chair",
+          "features": [
+            "Blue fabric with black base and wheels"
+          ],
+          "materials": [
+            "Fabric, metal"
+          ],
+          "finish": "Standard upholstery and metallic finish"
+        },
+        {
+          "type": "Bed",
+          "features": [
+            "White frame with patterned bedding"
+          ],
+          "materials": [
+            "Painted wood or MDF for frame"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Wall shelf",
+          "features": [
+            "Curved design with pastel green color"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Smooth and glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light green, pink, white, grey, beige, dark brown, black, blue"
+          "Pastel green",
+          "Beige",
+          "White",
+          "Pink",
+          "Gray"
         ],
         "materials": [
-          "Wood",
+          "Painted wood or MDF",
           "Metal",
-          "Glass or frosted panels",
-          "Fabric",
-          "Paper"
+          "Fabric"
         ],
-        "lighting": "Ambient lighting with no direct visible light sources, suggesting a soft, diffused light",
-        "texture": "Smooth surfaces with some textured elements on the bedding and wall decor"
+        "lighting": "Natural light with overhead lighting",
+        "texture": [
+          "Smooth and glossy finishes",
+          "Textured fabric"
+        ]
       },
       "indian_context": {
-        "regional_style": "No specific regional style evident, but some elements such as the circular gold accents suggest a blend",
+        "regional_style": "No specific regional style present, but elements suggest a blend of Indian and modern aesthetics",
         "traditional_elements": [
-          "Circular gold accents on wardrobe doors"
+          "None"
         ],
         "modern_adaptations": [
-          "Contemporary furniture style with a mix of traditional and modern elements"
+          "Contemporary furniture with Indian-inspired color palettes and finishes"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture, maximizing storage and functionality",
-        "cultural_significance": "The circular gold accents may have traditional Indian significance, possibly symbolizing a protective or decorative motif"
+        "space_utilization": "Efficient use of space with built-in furniture maximizing storage and functionality",
+        "cultural_significance": "No culturally significant decorative elements, but color palette and materials may have symbolic meanings within Indian culture"
       }
     },
     "confidence_scores": {
@@ -71,23 +104,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This bedroom interior showcases a blend of contemporary design elements with some traditional Indian touches, such as the circular gold accents on the wardrobe doors. The room features a built-in wardrobe with pastel green and pink doors, a compact study desk with shelves, and a bed with patterned bedding. The space is efficiently organized, maximizing storage and functionality. The use of pastel colors and clean lines gives the room a modern feel, while the gold accents add a decorative and culturally significant element. The overall design reflects a fusion of contemporary style with subtle traditional influences, creating a modern and inviting space.",
+    "description": "A child's bedroom designed with a contemporary aesthetic, incorporating Indian design elements in the color palette and materials. The room features a built-in wardrobe with pastel green and beige finishes, a study table with open shelving, a comfortable office chair, a bed with patterned bedding, and a curved wall shelf. The design emphasizes space optimization and modern interpretations of traditional Indian colors and materials.",
     "metadata": {
       "tags": [
-        "Bedroom",
-        "Contemporary",
+        "Child's Bedroom",
+        "Contemporary Design",
         "Indian Influences",
-        "Built-in Furniture",
         "Pastel Colors",
-        "Circular Accents",
-        "Efficient Storage"
+        "Built-in Furniture",
+        "Modern Adaptation"
       ],
-      "budget_indicator": "Moderate, with use of pastel colors and smooth finishes suggesting a middle-range budget",
-      "space_type": "Residential bedroom",
-      "functionality": "Primary purpose is for sleeping and studying, with additional storage provided by the built-in furniture",
-      "indian_specific": "Circular gold accents on the wardrobe doors"
+      "budget_indicator": "Moderate, with materials like painted wood or MDF and fabric upholstery",
+      "space_type": "Residential, likely a family home",
+      "functionality": "Primary purpose is a child's bedroom with study and storage capabilities",
+      "indian_specific": "Pastel green and beige color scheme, which are often associated with traditional Indian aesthetics"
     }
   },
-  "cached_at": 1753181124968,
+  "cached_at": 1753274374293,
   "cache_key": "0cf6dbcd6cc7e6d299558eaee723a5a0"
 }

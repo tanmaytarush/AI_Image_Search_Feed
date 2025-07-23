@@ -1,0 +1,110 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.46.59%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_071",
+    "ai_generated_tags": {
+      "room": "Entrance Hall",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Green and white cabinet",
+        "Round mirror",
+        "Buddha statue",
+        "Artistic wall frames"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Green and white cabinet with modern design",
+            "Open shoe storage below"
+          ],
+          "materials": [
+            "Painted wood, likely MDF"
+          ],
+          "finish": "Smooth paint finish"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Round shape",
+            "Gold frame"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Polished metal frame"
+        },
+        {
+          "type": "Buddha Statue",
+          "features": [
+            "Golden color",
+            "Seated posture"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished brass finish"
+        },
+        {
+          "type": "Artistic Wall Frames",
+          "features": [
+            "Geometric patterns",
+            "Tones of beige and white"
+          ],
+          "materials": [
+            "likely acrylic or canvas"
+          ],
+          "finish": "Matte finish with gold accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green, white, beige, white, gold"
+        ],
+        "materials": [
+          "Painted wood, metal, glass, acrylic or canvas"
+        ],
+        "lighting": "Modern ceiling lights with warm white bulbs",
+        "texture": "Smooth cabinet finish, polished metal, glass mirror"
+      },
+      "indian_context": {
+        "regional_style": "Modern interpretations of traditional Indian elements",
+        "traditional_elements": [
+          "Buddha statue",
+          "Round mirror"
+        ],
+        "modern_adaptations": [
+          "Contemporary cabinet design",
+          "Artistic wall frames"
+        ],
+        "space_utilization": "Efficient use of space with open storage for shoes",
+        "cultural_significance": "The Buddha statue represents spiritual and cultural significance, often seen in Indian homes as a symbol of peace and prosperity"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary Indian fusion entrance hall features a modern cabinet with a green and white color palette, a round mirror with a gold frame, and a seated Buddha statue, blending traditional and modern elements. The artistic wall frames with geometric patterns add a touch of sophistication. The space is well-lit with modern ceiling lights, emphasizing the clean lines and smooth finishes of the furniture and materials.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian Fusion",
+        "Entrance Hall",
+        "Buddha Statue",
+        "Round Mirror",
+        "Modern Cabinet",
+        "Artistic Wall Frames"
+      ],
+      "budget_indicator": "Moderate, with modern materials and finishes",
+      "space_type": "Entrance Hall",
+      "functionality": "Primary purpose is storage for shoes and a place to display cultural and artistic elements",
+      "indian_specific": "Unique blend of traditional elements like the Buddha statue and round mirror with modern cabinet design"
+    }
+  },
+  "cached_at": 1753275077471,
+  "cache_key": "d02b0c47223eeedbc6a7095ed0dcdab6"
+}

@@ -3,68 +3,107 @@
   "analysis": {
     "image_id": "img_006",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Indian Fusion",
+      "room": "Foyer and dining area",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Staircase with wooden railings",
-        "Marble flooring",
-        "Open plan design",
-        "Built-in shelves"
+        "Wooden staircase",
+        "Temple niche",
+        "Marble flooring"
       ],
       "objects": [
         {
-          "type": "Staircase",
+          "type": "Temple niche",
           "features": [
-            "Curved wooden steps",
-            "Glass railing"
+            "Frame with deity image",
+            "Shelving for idols"
           ],
           "materials": [
-            "Teak wood",
-            "Glass"
+            "Wood",
+            "Brass"
+          ],
+          "finish": "Polished wood, metallic"
+        },
+        {
+          "type": "Wooden staircase",
+          "features": [
+            "Curved design",
+            "Walnut wood finish"
+          ],
+          "materials": [
+            "Walnut wood"
           ],
           "finish": "Glossy"
         },
         {
-          "type": "Shelving",
+          "type": "Marble flooring",
           "features": [
-            "Built-in wall shelves",
-            "Wall-mounted display"
+            "White marble with veining"
           ],
           "materials": [
-            "Teak wood"
+            "Marble"
           ],
-          "finish": "Natural wood"
+          "finish": "High sheen"
+        },
+        {
+          "type": "Dining table",
+          "features": [
+            "Round shape",
+            "Walnut wood"
+          ],
+          "materials": [
+            "Walnut wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Chairs",
+          "features": [
+            "Wooden with cushioned seats"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural"
+        },
+        {
+          "type": "Ceiling lights",
+          "features": [
+            "Modern chandelier"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Gold"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White marble floor",
-          "Teak wood",
-          "Light blue cabinets",
-          "Gold accents"
+          "White",
+          "Walnut brown",
+          "Gold",
+          "Black",
+          "Teal"
         ],
         "materials": [
+          "Walnut wood",
           "Marble",
-          "Teak wood",
-          "Glass",
-          "Ceramic"
+          "Brass",
+          "Metal"
         ],
-        "lighting": "Natural light with recessed ceiling lights",
-        "texture": "Smooth marble, glossy wood, glass, and ceramic"
+        "lighting": "Natural light from ceiling lights and indirect sunlight",
+        "texture": "Smooth marble, polished wood, metallic brass"
       },
       "indian_context": {
         "regional_style": "South Indian",
         "traditional_elements": [
-          "Temple-like alcove",
-          "Idols",
-          "Pooja area"
+          "Temple niche",
+          "Walnut wood"
         ],
         "modern_adaptations": [
-          "Open plan design",
-          "Modern kitchen cabinets"
+          "Contemporary lighting, open kitchen"
         ],
-        "space_utilization": "Efficient use of vertical space with staircase as a focal point",
-        "cultural_significance": "Temple-like alcove reflects reverence for traditional beliefs, while modern elements blend contemporary aesthetics"
+        "space_utilization": "Open plan, maximizing natural light and flow",
+        "cultural_significance": "Temple niche for religious practices, walnut wood for traditional craftsmanship"
       }
     },
     "confidence_scores": {
@@ -74,21 +113,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This modern Indian fusion living space showcases a blend of traditional elements with contemporary design. The temple-like alcove with a framed deity showcases cultural significance, while the sleek staircase and open plan design reflect modern adaptability. The use of teak wood and marble highlights the regional style, with glass railings adding a modern touch.",
+    "description": "The interior showcases a contemporary take on South Indian design, featuring a luxurious foyer and dining area. The prominent elements include a beautifully crafted walnut wood staircase, a marble floor that reflects the light, and a temple niche adorned with religious artifacts. The space is well-lit, with a mix of natural and artificial light, creating a warm and inviting atmosphere. The use of high-gloss finishes and modern lighting fixtures complements the traditional wooden furniture and brass accents, reflecting a blend of old and new design elements.",
     "metadata": {
       "tags": [
-        "Living Room",
-        "Modern Indian",
-        "Fusion Design",
-        "Teak Wood",
-        "Marble Floor"
+        "Indian interior",
+        "Contemporary design",
+        "Walnut wood",
+        "Marble floor",
+        "Temple niche"
       ],
-      "budget_indicator": "High",
-      "space_type": "Multi-functional",
-      "functionality": "Open-plan living with kitchen and prayer area",
-      "indian_specific": "Temple-like alcove with idols"
+      "budget_indicator": "High-end",
+      "space_type": "Residential",
+      "functionality": "Foyer and dining area",
+      "indian_specific": "Traditional wooden elements and cultural artifacts"
     }
   },
-  "cached_at": 1753179451883,
+  "cached_at": 1753273954722,
   "cache_key": "3e823e85dfb9ad6f9f640089667cb6ed"
 }

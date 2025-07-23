@@ -4,131 +4,77 @@
     "image_id": "img_007",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Contemporary Indian",
+      "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Light green cabinetry",
-        "White countertops",
+        "White countertop",
+        "Glass cabinets",
         "Wooden dining table",
-        "Round wooden dining chairs",
-        "Glass-topped kitchen island",
-        "Open shelving",
-        "Copper pendant lights",
-        "Staircase with wooden railings",
-        "Marble flooring",
-        "Modern sink with decorative basin"
+        "Staircase with glass railings",
+        "Decorative Ganesha idol"
       ],
       "objects": [
-        {
-          "type": "Cabinetry",
-          "features": [
-            "Light green color",
-            "High gloss finish"
-          ],
-          "materials": [
-            "MDF/Particleboard"
-          ],
-          "finish": "High gloss"
-        },
-        {
-          "type": "Countertop",
-          "features": [
-            "White color",
-            "Marble-like texture"
-          ],
-          "materials": [
-            "Artificial marble"
-          ],
-          "finish": "Shiny"
-        },
         {
           "type": "Dining Table",
           "features": [
             "Round shape",
-            "Wooden material"
-          ],
-          "materials": [
-            "Solid wood"
-          ],
-          "finish": "Natural varnish"
-        },
-        {
-          "type": "Dining Chairs",
-          "features": [
-            "Wooden backrest and seat",
-            "Simple design"
+            "Wooden finish",
+            "Four chairs"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Natural varnish"
+          "finish": "Shiny polished wooden surface"
         },
         {
           "type": "Kitchen Island",
           "features": [
-            "Glass top",
-            "White color"
+            "White countertop",
+            "Green lower cabinets"
           ],
           "materials": [
-            "Glass/Tempered glass"
+            "Marble",
+            "Acrylic"
           ],
-          "finish": "Clear"
+          "finish": "Shiny polished surface"
         },
         {
-          "type": "Sink",
+          "type": "Decorative Item",
           "features": [
-            "Modern design",
-            "Decorative basin"
+            "Golden Ganesha idol"
           ],
           "materials": [
-            "Metal"
+            "Brass"
           ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Lighting",
-          "features": [
-            "Copper pendant lights"
-          ],
-          "materials": [
-            "Copper"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Staircase",
-          "features": [
-            "Wooden railings",
-            "Glass panels"
-          ],
-          "materials": [
-            "Wood",
-            "Glass"
-          ],
-          "finish": "Natural wood, clear glass"
+          "finish": "Polished golden surface"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light green, white, brown, black, gold, maroon"
+          "White",
+          "Green",
+          "Brown",
+          "Blue",
+          "Gold"
         ],
         "materials": [
-          "Wood, glass, metal, artificial marble, MDF/Particleboard"
+          "Marble",
+          "Acrylic",
+          "Wood",
+          "Brass"
         ],
-        "lighting": "Ambient lighting from ceiling lights and copper pendant lights",
-        "texture": "Smooth, glossy, natural wood grain, marbled"
+        "lighting": "Bright artificial lighting with pendant lights",
+        "texture": "Shiny polished surfaces"
       },
       "indian_context": {
-        "regional_style": "Maharashtra",
+        "regional_style": "South Indian",
         "traditional_elements": [
-          "Copper details",
-          "Wooden railings"
+          "Decorative Ganesha idol"
         ],
         "modern_adaptations": [
-          "Open shelving",
-          "Glass-topped kitchen island"
+          "Contemporary kitchen design with glass cabinets"
         ],
-        "space_utilization": "Efficient use of vertical space with open shelving and glass panels, maximizing light with light green cabinetry",
-        "cultural_significance": "Use of copper for its auspicious connotations in Indian culture, presence of a deity figure for spiritual significance"
+        "space_utilization": "Open-plan kitchen with island counter for dining",
+        "cultural_significance": "Ganesha idol is a symbol of prosperity and remover of obstacles in Indian culture"
       }
     },
     "confidence_scores": {
@@ -138,25 +84,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "A modern Indian kitchen with a blend of traditional and contemporary elements. The kitchen features a light green cabinetry with high gloss finish, white countertops, and a glass-topped kitchen island. The space includes a round wooden dining table with matching chairs, and the staircase has wooden railings and glass panels. Copper pendant lights provide warm lighting, and various decorative elements like a deity figure and a decorative basin add cultural significance. The overall design is clean and functional, with efficient space utilization and a mix of natural and artificial materials.",
+    "description": "This modern kitchen in a South Indian style features white countertops, glass cabinets, and a wooden dining table. The space includes a decorative Ganesha idol, symbolizing cultural significance. The staircase with glass railings adds a contemporary touch, while the overall design incorporates traditional Indian elements in its decor and materials. The lighting is bright and evenly distributed, and the countertops have a shiny polished finish, enhancing the modern aesthetic of the kitchen.",
     "metadata": {
       "tags": [
-        "Kitchen",
-        "Contemporary",
-        "Indian Design",
-        "Modern",
-        "Light Green",
-        "White",
-        "Wood",
-        "Copper",
-        "Glass"
+        "Contemporary Kitchen",
+        "South Indian Style",
+        "Modern Design",
+        "Glass Cabinets",
+        "Decorative Ganesha Idol"
       ],
-      "budget_indicator": "Moderate to High",
+      "budget_indicator": "High, due to polished materials and contemporary design",
       "space_type": "Residential",
-      "functionality": "Functional and stylish",
-      "indian_specific": "Traditional elements like copper and wooden railings with modern adaptations"
+      "functionality": "Kitchen and dining area",
+      "indian_specific": "Golden Ganesha idol, wooden dining table, and glass cabinets with modern designs"
     }
   },
-  "cached_at": 1753179276314,
+  "cached_at": 1753273981538,
   "cache_key": "f0ecc02d6341e9aed82cf5654ad4f2b8"
 }

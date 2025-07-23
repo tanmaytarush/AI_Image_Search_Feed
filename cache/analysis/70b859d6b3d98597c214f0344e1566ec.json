@@ -1,0 +1,136 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.40%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_027",
+    "ai_generated_tags": {
+      "room": "Dining Area",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Marble table",
+        "Green upholstered chairs",
+        "Open kitchen design",
+        "Wooden accents",
+        "Purple cabinetry",
+        "Black countertops"
+      ],
+      "objects": [
+        {
+          "type": "Marble table",
+          "features": [
+            "White marble surface with brown veining",
+            "Rectangular shape",
+            "Centered in the dining area"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished, glossy finish"
+        },
+        {
+          "type": "Green upholstered chairs",
+          "features": [
+            "Curved backrest",
+            "Velvet upholstery",
+            "Modern design",
+            "Placed around the table"
+          ],
+          "materials": [
+            "Velvet"
+          ],
+          "finish": "Mat finish"
+        },
+        {
+          "type": "Open kitchen design",
+          "features": [
+            "Modern kitchen island with sink and countertop",
+            "Integrated cabinets",
+            "Backlit wall tiles"
+          ],
+          "materials": [
+            "Marble, Metal, Glass"
+          ],
+          "finish": "Shiny, reflective finish"
+        },
+        {
+          "type": "Wooden accents",
+          "features": [
+            "Wooden frame around doorway",
+            "Wooden blinds"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Purple cabinetry",
+          "features": [
+            "Modern design",
+            "Integrated into the kitchen",
+            "Contrasts with the white marbles and green chairs"
+          ],
+          "materials": [
+            "Wood, possibly MDF or laminate"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Black countertops",
+          "features": [
+            "Integrated into the kitchen island",
+            "Smooth surface"
+          ],
+          "materials": [
+            "Stone or composite material"
+          ],
+          "finish": "Shiny, polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Brown, Green, Purple, Black"
+        ],
+        "materials": [
+          "Marble, Wood, Velvet, Metal, Glass"
+        ],
+        "lighting": "Diffused, ambient lighting from the kitchen",
+        "texture": "Smooth, polished surfaces with some matte textures"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but has elements of modern Indian interior design",
+        "traditional_elements": [
+          "Not traditional Indian elements, but modern interpretations of comfort and functionality"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and designs with traditional Indian aesthetics"
+        ],
+        "space_utilization": "Open and functional, with the kitchen and dining area seamlessly connected",
+        "cultural_significance": "The design reflects a contemporary take on Indian living spaces, emphasizing comfort, functionality, and modern aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian dining area seamlessly integrated with a contemporary kitchen design. The space features a marble-top dining table surrounded by green upholstered chairs, creating a vibrant contrast. The kitchen area, visible through an open doorway, includes purple cabinetry, black countertops, and modern appliances, all complemented by wooden accents and blinds in the doorway. The design emphasizes comfort and functionality, reflecting a contemporary Indian aesthetic with a blend of modern and traditional influences.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Design",
+        "Contemporary Kitchen",
+        "Marble Table",
+        "Green Chairs",
+        "Purple Cabinets",
+        "Open Kitchen Design"
+      ],
+      "budget_indicator": "Mid to High, due to the use of marble, velvet, and modern materials",
+      "space_type": "Residential Dining Area",
+      "functionality": "Primary purpose is for dining and informal kitchen activities",
+      "indian_specific": "Modern interpretation of Indian design, focusing on comfort and functionality"
+    }
+  },
+  "cached_at": 1753274290247,
+  "cache_key": "70b859d6b3d98597c214f0344e1566ec"
+}

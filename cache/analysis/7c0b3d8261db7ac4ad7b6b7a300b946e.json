@@ -3,82 +3,90 @@
   "analysis": {
     "image_id": "img_063",
     "ai_generated_tags": {
-      "room": "Living room",
-      "theme": "Modular storage and seating",
+      "room": "Living Room",
+      "theme": "Minimalist Modern with Indian Influences",
       "primary_features": [
-        "Wall-mounted wardrobe with sliding doors",
-        "Built-in shoe rack with drawers",
-        "Decorative wall panel with vertical slats"
+        "Built-in wardrobe",
+        "Carved wooden panel",
+        "Cabinet with drawers"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Carved wooden panel",
           "features": [
-            "Wall-mounted with sliding doors",
-            "Wooden finish with light beige color"
+            "Vertical slats with decorative carvings of religious symbols"
           ],
           "materials": [
-            "MDF or similar wood material"
+            "Wood"
           ],
-          "finish": "Smooth, matte finish with light beige color"
+          "finish": "Natural wood finish"
         },
         {
-          "type": "Shoe rack",
+          "type": "Built-in wardrobe",
           "features": [
-            "Built-in with drawers",
-            "Wooden top with white drawers below"
+            "Sliding doors",
+            "Storage space"
           ],
           "materials": [
-            "Wooden top with white drawers below"
+            "Wood"
           ],
-          "finish": "White drawers with metallic handles, wooden top with natural wood finish"
+          "finish": "Light wood finish"
+        },
+        {
+          "type": "Cabinet with drawers",
+          "features": [
+            "White drawers with metal handles"
+          ],
+          "materials": [
+            "Wood, plastic"
+          ],
+          "finish": "White painted wood"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light beige, white, metallic gray"
+          "Beige wood, white, light wood, metallic handles"
         ],
         "materials": [
-          "MDF, wood, metal"
+          "Wood, plastic, metal"
         ],
-        "lighting": "Natural daylight from window or door on the right, no visible artificial lighting",
-        "texture": "Smooth MDF finish with matte top surface, textured wood paneling on the wall"
+        "lighting": "Natural light, diffused lighting",
+        "texture": "Smooth wood finish, matte paint, metallic handles"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but could be influenced by modern urban design",
+        "regional_style": "Maharashtra or Delhi style",
         "traditional_elements": [
-          "No traditional Indian elements visible, but modern interpretations of Indian design"
+          "Wooden carvings, vertical slats"
         ],
         "modern_adaptations": [
-          "Integration of MDF and metal materials commonly used in modern Indian interiors"
+          "Minimalistic design, integrated storage"
         ],
-        "space_utilization": "Efficient use of vertical space with wall-mounted wardrobe, horizontal space with shoe rack and drawers",
-        "cultural_significance": "No specific cultural elements, but the design reflects a modern, minimalist approach in Indian interior design"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern, minimalist living room setup with a focus on efficient space utilization. A wall-mounted wardrobe with sliding doors is integrated into the wall, featuring a decorative vertical slatted panel above. Below the wardrobe, there is a built-in shoe rack with drawers, providing a neat storage solution. The design uses MDF and wood materials with a matte finish, reflecting contemporary Indian interior design trends.",
-      "metadata": {
-        "tags": [
-          "Living room",
-          "Modular storage",
-          "Wall wardrobe",
-          "Shoe rack",
-          "Minimalist design",
-          "Indian interior design"
-        ],
-        "budget_indicator": "Moderate, using MDF and metal for construction but no highly expensive materials",
-        "space_type": "Residential living space",
-        "functionality": "Primarily for storage and seating, possibly with a bench seating option (not present in the image)",
-        "indian_specific": "Modern interpretation of Indian design elements, focusing on functionality and space optimization"
+        "space_utilization": "Efficient use of vertical space, storage-centric",
+        "cultural_significance": "Cultural symbols on carvings, traditional woodwork"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern living room interior with a fusion of traditional Indian design elements. The focal point is a built-in wardrobe with sliding doors and a carving panel featuring religious symbols, indicative of traditional craftsmanship. Below the wardrobe, there is a cabinet with drawers, showcasing a modern adaptation of storage solutions. The overall design emphasizes functionality and efficiency, with a clean and simple aesthetic that aligns with contemporary living room trends while maintaining cultural relevance through the use of traditional woodwork and symbols.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Indian Design",
+        "Carved Panel",
+        "Built-in Wardrobe",
+        "Modern Minimalist"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential Living Room",
+      "functionality": "Storage and display",
+      "indian_specific": "Traditional wood carving, religious symbols"
     }
   },
-  "cached_at": 1753181187376,
+  "cached_at": 1753274960346,
   "cache_key": "7c0b3d8261db7ac4ad7b6b7a300b946e"
 }

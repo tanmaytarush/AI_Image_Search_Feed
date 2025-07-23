@@ -4,79 +4,106 @@
     "image_id": "img_039",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Modern Indian",
+      "theme": "Modernized Indian Interior",
       "primary_features": [
-        "Bed with wooden frame and white mattress",
-        "Cupboard with pink and white panels",
-        "Ceiling fan"
+        "Wardrobe with pink and white doors",
+        "Single bed with white mattress",
+        "Ceiling fan",
+        "Window with bars",
+        "Shelving unit"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "Wardrobe",
           "features": [
-            "Wooden frame with a white mattress",
-            "Simple design"
+            "Pink and white modular design",
+            "Modern handles",
+            "Closed doors"
           ],
           "materials": [
-            "Wood, foam, fabric"
+            "MDF or particle board",
+            "Paint"
           ],
-          "finish": "Smooth, polished"
+          "finish": "Glossy"
         },
         {
-          "type": "Cabinet",
+          "type": "Bed",
           "features": [
-            "Pink and white panels",
-            "Storage compartments"
+            "Single bed",
+            "White mattress",
+            "Wooden base"
           ],
           "materials": [
-            "Particle board, MDF"
+            "MDF or particle board",
+            "Paint",
+            "Hardwood"
           ],
-          "finish": "Lacquered, glossy"
+          "finish": "Smooth and polished"
+        },
+        {
+          "type": "Shelving unit",
+          "features": [
+            "Wall-mounted",
+            "Empty shelves"
+          ],
+          "materials": [
+            "MDF or particle board",
+            "Paint"
+          ],
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Pink, white, brown, beige"
+          "Pink",
+          "White",
+          "Brown",
+          "Black",
+          "Silver"
         ],
         "materials": [
-          "Wood, plastic, metal"
+          "MDF or particle board",
+          "Paint",
+          "Wood",
+          "Metal"
         ],
-        "lighting": "Natural light from window, ceiling fan light",
-        "texture": "Smooth, glossy, flat"
+        "lighting": "Natural light from the window, no artificial lighting visible",
+        "texture": "Smooth surfaces with glossy finishes"
       },
       "indian_context": {
-        "regional_style": "Southern Indian",
+        "regional_style": "Not explicitly identifiable, but could be from a modernized urban Indian bedroom",
         "traditional_elements": [
-          "Cupboard design"
+          "None"
         ],
         "modern_adaptations": [
-          "Modern materials and finishes"
+          "Use of modern materials and finishes"
         ],
-        "space_utilization": "Efficient use of space with built-in storage",
-        "cultural_significance": "Cupboard design reflects traditional Indian storage habits"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern bedroom with a Southern Indian influence. It features a bed with a wooden frame and a white mattress, along with built-in pink and white panelled storage cupboards. The ceiling fan and window add to the practical and functional design, blending traditional elements with contemporary materials and finishes.",
-      "metadata": {
-        "tags": [
-          "Bedroom",
-          "Modern Indian",
-          "Storage",
-          "Southern Style"
-        ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential",
-        "functionality": "Sleeping and storage",
-        "indian_specific": "Built-in storage cupboards with a modern twist on traditional design"
+        "space_utilization": "Optimized with wardrobe and shelving, space-saving design",
+        "cultural_significance": "Color choices may reflect personal preference or regional aesthetic, not traditional Indian elements"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image shows a modernized bedroom with a focus on efficient space utilization and contemporary design. The room features a wardrobe with pink and white modular doors, a single bed with a white mattress and wooden base, and a wall-mounted shelving unit. The color scheme is predominantly pink and white, with some brown and black accents from the furniture and window bars. The ceiling fan and natural light from the window contribute to the room's modern aesthetic. The materials used are likely MDF or particle board for the wardrobe and shelving, with glossy finishes, and hardwood for the bed base, indicating a blend of modern materials with minimalist design.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Bedroom",
+        "Efficient Space Utilization",
+        "Glossy Finish",
+        "Pink and White Color Scheme",
+        "Contemporary Design"
+      ],
+      "budget_indicator": "Medium to High, given the use of modern materials and finishes",
+      "space_type": "Residential Bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Modernized Indian design with minimal traditional elements"
     }
   },
-  "cached_at": 1753181142014,
+  "cached_at": 1753274463133,
   "cache_key": "a4f97637b390151f185c62aedb4bea06"
 }

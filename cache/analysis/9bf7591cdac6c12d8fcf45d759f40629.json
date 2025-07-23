@@ -1,0 +1,107 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.31%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_087",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Floral wallpaper",
+        "Modern bed with upholstered headboard",
+        "Geometric wall art",
+        "Minimalist decor"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Upholstered headboard",
+            "Plush bedding"
+          ],
+          "materials": [
+            "Velvet",
+            "Polyester"
+          ],
+          "finish": "Sleek and modern"
+        },
+        {
+          "type": "Wall Art",
+          "features": [
+            "Geometric shapes",
+            "Colorful tones"
+          ],
+          "materials": [
+            "Painted canvas"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Curtains",
+          "features": [
+            "Vertical blinds"
+          ],
+          "materials": [
+            "Textured fabric"
+          ],
+          "finish": "Soft and flowing"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Grayish-blue",
+          "Green",
+          "Brown",
+          "Black",
+          "Multicolored"
+        ],
+        "materials": [
+          "Wallpaper",
+          "Vinyl flooring",
+          "Velvet",
+          "Canvas",
+          "Textured fabric"
+        ],
+        "lighting": "Natural light through vertical blinds",
+        "texture": "Smooth wallpaper, velvet texture, textured fabric"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable to Indian regional design",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Contemporary design adapting traditional materials and textures"
+        ],
+        "space_utilization": "Efficient use of space with minimal decor",
+        "cultural_significance": "No cultural relevance to Indian interiors"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.7,
+      "primary_features": 0.8,
+      "objects": 0.75,
+      "indian_context": 0.2
+    },
+    "description": "This bedroom showcases a modern contemporary design with a touch of Indian influence in the use of natural materials and textures. The floral wallpaper and geometric wall art introduce a modern twist to the space, while the minimalist decor and soft color palette create a serene and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Modern",
+        "Contemporary",
+        "Minimalist",
+        "Geometric",
+        "Natural",
+        "Floral",
+        "Soft"
+      ],
+      "budget_indicator": "Moderate to high, due to the use of materials like wallpaper and velvet",
+      "space_type": "Residential bedroom",
+      "functionality": "Primary purpose is for rest and relaxation",
+      "indian_specific": "No specific Indian design features are evident; the space is more aligned with global contemporary design trends."
+    }
+  },
+  "cached_at": 1753275350487,
+  "cache_key": "9bf7591cdac6c12d8fcf45d759f40629"
+}

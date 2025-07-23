@@ -3,53 +3,47 @@
   "analysis": {
     "image_id": "img_035",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern Indian",
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Built-in storage cabinets",
-        "Floral wallpaper",
-        "Geometric accents"
+        "Built-in wardrobes",
+        "Sliding doors"
       ],
       "objects": [
         {
-          "type": "Cabinet doors",
+          "type": "Furniture",
           "features": [
-            "Sliding doors",
-            "Floral pattern",
-            "Geometric metallic accents"
+            "Built-in wardrobe with sliding doors"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "Wood"
           ],
-          "finish": "Glossy metallic"
+          "finish": "Painted with floral pattern"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Brown",
-          "Beige",
-          "Silver"
+          "White",
+          "Gold"
         ],
         "materials": [
           "Wood",
-          "Metal",
-          "Wallpaper"
+          "Paint"
         ],
         "lighting": "Natural light from window",
-        "texture": "Floral wallpaper texture with metallic accents"
+        "texture": "Floral patterned paint finish"
       },
       "indian_context": {
-        "regional_style": "Modern",
+        "regional_style": "Not distinctly regional",
         "traditional_elements": [
           "Floral pattern"
         ],
         "modern_adaptations": [
-          "Geometric accents",
-          "Sliding doors"
+          "Sliding doors, contemporary finish"
         ],
-        "space_utilization": "Maximizes storage space",
-        "cultural_significance": "Floral patterns represent nature and are often used in Indian interiors to bring a touch of the outdoors in"
+        "space_utilization": "Maximizes storage with built-ins",
+        "cultural_significance": "Floral patterns may symbolize prosperity and beauty in Indian culture"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -58,22 +52,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This image showcases a modern take on Indian interior design in a bathroom setting. The built-in storage cabinets feature a floral wallpaper that brings a traditional touch, enhanced by geometric metallic accents for a contemporary feel. The use of wood and metal materials, along with the natural light from the window, creates a balanced blend of traditional and modern aesthetics. The space is efficiently organized to maximize storage, reflecting a cultural appreciation for functionality and beauty in design.",
+      "description": "The image depicts a contemporary Indian bedroom with built-in wardrobes featuring sliding doors. The wardrobes are painted with a floral pattern in shades of brown, white, and gold, typical of Indian design. The sliding doors add a modern touch to the traditional floral motif. The space is well-lit with natural light coming from a window on the right, and the wood used for the wardrobes suggests a focus on natural materials, a common element in Indian interior design. The wardrobe design maximizes storage space, a practical adaptation in Indian homes.",
       "metadata": {
         "tags": [
-          "Modernity",
-          "Indian interior design",
-          "Floral wallpaper",
-          "Bathroom storage",
-          "Geometric accents"
+          "Contemporary Indian",
+          "Bedroom",
+          "Built-in Wardrobe",
+          "Floral Pattern",
+          "Sliding Doors"
         ],
-        "budget_indicator": "Moderate to high due to the use of materials like wood and metal",
-        "space_type": "Residential bathroom",
+        "budget_indicator": "Moderate, with focus on quality materials such as wood.",
+        "space_type": "Residential",
         "functionality": "Storage and organization",
-        "indian_specific": "Floral pattern and metallic accents"
+        "indian_specific": "Floral patterned finish, sliding doors, built-in storage"
       }
     }
   },
-  "cached_at": 1753181124298,
+  "cached_at": 1753274421502,
   "cache_key": "5616aceec4cd5bbad2748a54dcb6e3a5"
 }

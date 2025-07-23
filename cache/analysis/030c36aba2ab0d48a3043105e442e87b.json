@@ -1,0 +1,82 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.54%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_046",
+    "ai_generated_tags": {
+      "room": "Playroom or children's bedroom",
+      "theme": "Cartoon-inspired children's decor",
+      "primary_features": [
+        "Blue cabinets with cartoon murals",
+        "Tile flooring",
+        "Ceiling fan"
+      ],
+      "objects": [
+        {
+          "type": "Doors",
+          "features": [
+            "Cartoon murals depicting characters"
+          ],
+          "materials": [
+            "Painted surface"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "Blue in color",
+            "Drawers and shelves"
+          ],
+          "materials": [
+            "Painted surface"
+          ],
+          "finish": "Glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue, yellow, green, red"
+        ],
+        "materials": [
+          "Painted surface, tile"
+        ],
+        "lighting": "Natural light from window, ceiling fan light",
+        "texture": "Smooth and glossy surface"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence identified",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Cartoon murals, modern cabinet design"
+        ],
+        "space_utilization": "Cabinets are used for storage, with open shelves for display",
+        "cultural_significance": "No traditional Indian elements, but cartoon murals could be culturally relevant in the context of Indian children's media"
+      },
+      "confidence_scores": {
+        "room": 0.88,
+        "theme": 0.92,
+        "primary_features": 0.85,
+        "objects": 0.87,
+        "indian_context": 0.75
+      },
+      "description": "The interior space is a children's playroom or bedroom with blue cabinets decorated with cartoon murals. The room features glossy blue cabinetry with drawers and shelves, and a tiled floor. The ceiling fan indicates modern amenities, while the cartoon murals suggest a playful and modern interpretation of children's decor. The absence of traditional Indian elements in the design indicates a modern take on children's room design.",
+      "metadata": {
+        "tags": [
+          "children's room",
+          "playroom",
+          "cartoon decor",
+          "modern design",
+          "blue cabinetry"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Children's room",
+        "functionality": "Storage and play area",
+        "indian_specific": "No traditional Indian design features"
+      }
+    }
+  },
+  "cached_at": 1753274787342,
+  "cache_key": "030c36aba2ab0d48a3043105e442e87b"
+}

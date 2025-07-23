@@ -1,0 +1,124 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.38%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_079",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern",
+      "primary_features": [
+        "Pink cabinetry",
+        "Marble countertops",
+        "Integrated appliances",
+        "Open shelving"
+      ],
+      "objects": [
+        {
+          "type": "Sideboard",
+          "features": [
+            "Integrated with cabinetry",
+            "Pink finish"
+          ],
+          "materials": [
+            "Pink lacquer"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Refrigerator",
+          "features": [
+            "Integrated into cabinetry",
+            "Modern design"
+          ],
+          "materials": [
+            "Metallic finish"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Oven",
+          "features": [
+            "Built-in",
+            "Modern design"
+          ],
+          "materials": [
+            "Metallic finish"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Marble",
+            "White with gold veins"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Woven Baskets",
+          "features": [
+            "Underneath the counter",
+            "Natural texture"
+          ],
+          "materials": [
+            "Woven material"
+          ],
+          "finish": "Natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink",
+          "White",
+          "Gold",
+          "Black",
+          "Gray"
+        ],
+        "materials": [
+          "Pink lacquer",
+          "Metallic",
+          "Marble",
+          "Woven material"
+        ],
+        "lighting": "Natural light from the living area with indoor pendant lights",
+        "texture": "Smooth surfaces with a mix of glossy and natural textures"
+      },
+      "indian_context": {
+        "regional_style": "Modern",
+        "traditional_elements": [
+          "No traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Integration of modern appliances with traditional materials"
+        ],
+        "space_utilization": "Efficient use of space with open shelving and integrated appliances",
+        "cultural_significance": "No significant cultural elements present"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern kitchen with a sleek design, featuring pink lacquer cabinetry and marble countertops. The space is efficiently organized with open shelving and integrated appliances, creating a clean and contemporary look. The kitchen is seamlessly connected to the living area, which includes a white sofa and a dining table, blending modern and traditional elements. The overall design is minimalistic with a focus on functionality and aesthetics.",
+    "metadata": {
+      "tags": [
+        "Modern Kitchen",
+        "Pink Cabinets",
+        "Marble Countertops",
+        "Integrated Appliances",
+        "Open Shelving"
+      ],
+      "budget_indicator": "Moderate, with high-end materials like marble and pink lacquer",
+      "space_type": "Residential",
+      "functionality": "Primary function as a cooking and dining area",
+      "indian_specific": "No Indian-specific design features present"
+    }
+  },
+  "cached_at": 1753275199345,
+  "cache_key": "6e4f411c38656b19ee461a69bb99a964"
+}

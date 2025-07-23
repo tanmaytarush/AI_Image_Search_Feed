@@ -4,89 +4,80 @@
     "image_id": "img_024",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Modern Classic",
+      "theme": "Modern Indian Saloon",
       "primary_features": [
         "High ceilings",
-        "Double-sided fireplace",
-        "Large picture window"
+        "Marble wall",
+        "Television unit",
+        "L shaped sofa",
+        "Coffee table"
       ],
       "objects": [
         {
+          "type": "TV Unit",
+          "features": [
+            "Modern design with sleek lines",
+            "Recessed shelves"
+          ],
+          "materials": [
+            "White finish",
+            "Metallic accents"
+          ],
+          "finish": "High-gloss"
+        },
+        {
+          "type": "L shaped sofa",
+          "features": [
+            "Modular design",
+            "Soft furnishings"
+          ],
+          "materials": [
+            "Leatherette"
+          ],
+          "finish": "Smooth"
+        },
+        {
           "type": "Coffee Table",
           "features": [
-            "Black with gold accents",
-            " Modern design"
+            "Contemporary design",
+            "Storage space"
           ],
           "materials": [
-            "Black glass",
-            "Gold metal"
-          ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Television Stand",
-          "features": [
-            "White with gold accents",
-            "Modern design"
-          ],
-          "materials": [
-            "White wood",
-            "Gold metal"
-          ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Wall Art",
-          "features": [
-            "Circular design",
-            "Metal with glass"
-          ],
-          "materials": [
-            "Metal",
-            "Glass"
+            "Glass top",
+            "Metal base"
           ],
           "finish": "Polished"
-        },
-        {
-          "type": "Ceiling Light",
-          "features": [
-            "Modern chandelier",
-            "Gold finish"
-          ],
-          "materials": [
-            "Gold metal"
-          ],
-          "finish": "Shiny"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Beige",
           "White",
+          "Beige",
           "Black",
           "Gold"
         ],
         "materials": [
           "Marble",
-          "Wood",
+          "Metal",
           "Glass",
-          "Metal"
+          "Wood"
         ],
-        "lighting": "Ambient and task lighting",
-        "texture": "Smooth"
+        "lighting": "Ambient lighting from pendant lights",
+        "texture": "Smooth surfaces with glossy finishes"
       },
       "indian_context": {
-        "regional_style": "Mughal Revival",
+        "regional_style": "Not distinctly regional, but reflects modern interpretations of traditional Indian design",
         "traditional_elements": [
-          "Double-sided fireplace",
-          "Marble walls"
+          "Marble wall",
+          "Pendant design",
+          "Soft furnishings"
         ],
         "modern_adaptations": [
-          "Modern appliances",
-          "Contemporary furniture"
+          "Contemporary furniture designs",
+          "Minimalist approach"
         ],
-        "space_utilization": "Efficient use of space with a focus on aesthetics",
-        "cultural_significance": "Embracing traditional architectural elements while incorporating modern comforts"
+        "space_utilization": "Optimized layout with open plan and ample seating",
+        "cultural_significance": "Suggests a space for relaxation and entertainment, common in modern Indian homes"
       }
     },
     "confidence_scores": {
@@ -96,21 +87,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "A modern classic living room with a blend of traditional Mughal Revival elements and contemporary furnishings. The room features high ceilings, a double-sided fireplace, and large windows that allow ample natural light. The design includes a sleek coffee table with gold accents, a white television stand with gold details, and a circular wall art piece. The materials used include marble, wood, glass, and metal, creating a visually striking and luxurious space.",
+    "description": "The living room showcases a modern interpretation of Indian design, featuring a marble wall, high ceilings, and sleek contemporary furniture. The space is elegantly decorated with a mix of traditional and modern elements, such as the pendant light with a traditional design and the soft furnishings on the sofa. The use of marble, metal, and glass highlights a refined, luxurious aesthetic, suitable for a high-end modern Indian home.",
     "metadata": {
       "tags": [
-        "Modern Classic",
-        "Mughal Revival",
-        "Living Room",
-        "Interior Design",
-        "Contemporary Furniture"
+        "modern indian living",
+        "contemporary design",
+        "marble walls",
+        "sleek furniture",
+        "sofa design"
       ],
-      "budget_indicator": "High",
-      "space_type": "Residential",
+      "budget_indicator": "High, with materials like marble and glass indicating a premium finish",
+      "space_type": "Living Room",
       "functionality": "Entertainment and relaxation",
-      "indian_specific": "Traditional architectural elements"
+      "indian_specific": "Sleek and modern adaptation of traditional Indian design elements"
     }
   },
-  "cached_at": 1753179502119,
+  "cached_at": 1753274255993,
   "cache_key": "caf867dc101fb7f3e8c066a04c581d2a"
 }

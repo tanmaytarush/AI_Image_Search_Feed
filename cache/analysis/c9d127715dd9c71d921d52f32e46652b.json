@@ -1,0 +1,111 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00626.JPG",
+  "analysis": {
+    "image_id": "img_090",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Integrated cooktop",
+        "white cabinets",
+        "marble countertop",
+        "built-in storage",
+        "colorful kitchenware"
+      ],
+      "objects": [
+        {
+          "type": "Built-in cooktop",
+          "features": [
+            "Black glass surface",
+            "5 burners"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "High-gloss black"
+        },
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "White lacquer finish",
+            "modern design"
+          ],
+          "materials": [
+            "MDF or high-density board"
+          ],
+          "finish": "Glossy white"
+        },
+        {
+          "type": "Marble countertop",
+          "features": [
+            "White with brown veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High-gloss"
+        },
+        {
+          "type": "Built-in storage",
+          "features": [
+            "Shelving unit with jars and containers"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Brown",
+          "Colorful (kitchenware)"
+        ],
+        "materials": [
+          "Marble",
+          "Glass",
+          "Metal (cooktop)",
+          "MDF/Board (cabinets)"
+        ],
+        "lighting": "Natural light with overhead lighting",
+        "texture": "Glossy surfaces and smooth textures"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, modern with Indian influences",
+        "traditional_elements": [
+          "Built-in storage mimicking traditional cupboards"
+        ],
+        "modern_adaptations": [
+          "Modern materials and designs with Indian color palettes"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and clean lines",
+        "cultural_significance": "Cultural significance lies in the integration of modern functionality with traditional storage solutions"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian kitchen features a sleek, integrated cooktop with a high-gloss black glass surface, paired with white lacquer cabinets. The countertop is a beautiful marble with earthy brown veining, and there's efficient built-in storage with shelves that hold jars and colorful kitchenware. The design combines contemporary functionality with traditional elements, such as the built-in storage that mimics traditional Indian cupboards. The space is illuminated by natural light and modern overhead lighting, creating a bright and open atmosphere.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Kitchen Design",
+        "Integrated Cooktop",
+        "White Cabinets",
+        "Marble Countertop"
+      ],
+      "budget_indicator": "Mid-range to high, given the materials and finishes",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary cooking and storage area",
+      "indian_specific": "Built-in storage with a touch of traditional decor"
+    }
+  },
+  "cached_at": 1753275448458,
+  "cache_key": "c9d127715dd9c71d921d52f32e46652b"
+}

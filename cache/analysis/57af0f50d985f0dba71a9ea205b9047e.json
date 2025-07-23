@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.11%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_084",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Clean lines, modern furniture, geometric patterns, wooden accents"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Modern design with a wooden frame, cushioned headboard, and gray bedding"
+          ],
+          "materials": [
+            "Wood, fabric for bedding, metal for bed frame"
+          ],
+          "finish": "Smooth and polished"
+        },
+        {
+          "type": "Side Tables",
+          "features": [
+            "Compact, modern design, with a dark wood finish"
+          ],
+          "materials": [
+            "Dark wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wall Paneling",
+          "features": [
+            "Geometric patterned wallpaper or fabric behind the bed, light wood tones"
+          ],
+          "materials": [
+            "Fabric or wallpaper, wood"
+          ],
+          "finish": "Textured, patterned"
+        },
+        {
+          "type": "Curtains",
+          "features": [
+            "Sheer white curtains, modern style"
+          ],
+          "materials": [
+            "Cotton or linen blend"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, beige, gray, green, brown, gold"
+        ],
+        "materials": [
+          "Wood, fabric, metal, glass"
+        ],
+        "lighting": "Even, artificial lighting with recessed ceiling lights",
+        "texture": "Smooth surfaces with patterned accents"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but could be interpreted as North Indian with influences from other regions",
+        "traditional_elements": [
+          "Modernized versions of traditional Indian motifs, such as the geometric patterns on the wall"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture and minimalist design elements"
+        ],
+        "space_utilization": "Efficient use of space with a focus on functionality and aesthetics",
+        "cultural_significance": "The design reflects a blend of modernity and traditional Indian elements, aiming to create a serene and luxurious atmosphere"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary Indian fusion bedroom showcases a modern design approach with subtle traditional Indian influences. The room features a clean, linear aesthetic with a wooden bed frame and a patterned wallpaper or fabric backdrop. Modern furniture and sleek lighting are balanced by traditional elements like the geometric motifs and the warm tones of the wood. The overall design creates a harmonious blend of traditional and modern styles, reflecting a serene and luxurious atmosphere typical of high-end Indian interior design.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Fusion Design",
+        "Modern Bedroom",
+        "Geometric Patterns",
+        "Wooden Accents"
+      ],
+      "budget_indicator": "Mid to high, as indicated by the use of polished wood, modern fabrics, and sophisticated lighting",
+      "space_type": "Residential Bedroom",
+      "functionality": "Primary sleeping and relaxation space",
+      "indian_specific": "Integration of traditional motifs into modern furniture and design"
+    }
+  },
+  "cached_at": 1753275296089,
+  "cache_key": "57af0f50d985f0dba71a9ea205b9047e"
+}

@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00645.JPG",
+  "analysis": {
+    "image_id": "img_091",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Fusion",
+      "primary_features": [
+        "L-shaped kitchen island",
+        "Glass cabinets",
+        "Marble countertops",
+        "Built-in appliances",
+        "Open shelving"
+      ],
+      "objects": [
+        {
+          "type": "Island countertop",
+          "features": [
+            "White marble with golden veining",
+            "Integrated basket for storage"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished and glossy"
+        },
+        {
+          "type": "Glass cabinets",
+          "features": [
+            "Light green glass fronts",
+            "Black handles",
+            "Transparent design"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy finish on glass"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Modern built-in oven",
+            "Stainless steel microwave"
+          ],
+          "materials": [
+            "Steel"
+          ],
+          "finish": "Stainless steel"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light green",
+          "Marble beige",
+          "Green",
+          "Black"
+        ],
+        "materials": [
+          "Marble",
+          "Glass",
+          "Metal",
+          "Wood"
+        ],
+        "lighting": "Natural light from window and recessed ceiling lights",
+        "texture": "Smooth marble and glass surfaces, matte floor tiles"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence visible",
+        "traditional_elements": [
+          "No traditional Indian furniture or elements"
+        ],
+        "modern_adaptations": [
+          "Fusion of modern appliances with Indian aesthetics"
+        ],
+        "space_utilization": "Efficient use of space with L-shaped island maximizing workspace",
+        "cultural_significance": "No religious or cultural decorative elements present"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian kitchen features a sleek, contemporary design with a L-shaped kitchen island and glossy glass cabinets. The space is well-organized with built-in appliances and open shelving. The color palette includes white marble, light green glass, and neutral tones, creating a clean and contemporary aesthetic. The design emphasizes functionality and space optimization, with no traditional Indian elements present.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Fusion Style",
+          "Contemporary Kitchen",
+          "Glass Cabinets",
+          "Marble Countertops"
+        ],
+        "budget_indicator": "Moderate to High, due to glossy glass cabinets and marble countertops",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose is food preparation and storage",
+        "indian_specific": "No traditional Indian design features visible"
+      }
+    }
+  },
+  "cached_at": 1753275474207,
+  "cache_key": "580d710c4f68f9ff64d7d99c64cfb30b"
+}

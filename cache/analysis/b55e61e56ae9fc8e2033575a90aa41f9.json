@@ -3,41 +3,33 @@
   "analysis": {
     "image_id": "img_064",
     "ai_generated_tags": {
-      "room": "Lounge",
-      "theme": "Contemporary with Indian Influences",
+      "room": "Living Room",
+      "theme": "Contemporary Indian Fusion",
       "primary_features": [
-        "L-shaped sofa with white upholstery",
+        "Neutral color palette",
+        "Modern furniture",
         "Marble flooring",
-        "Modern artwork on the wall",
-        "Round wooden coffee table",
-        "Marble and wood shelving unit"
+        "Minimalist decor"
       ],
       "objects": [
         {
-          "type": "L-shaped sofa",
+          "type": "Sofa",
           "features": [
-            "White fabric upholstery",
-            "Wooden base"
+            "Light beige fabric",
+            "Brown wooden legs",
+            "Modern design"
           ],
           "materials": [
-            "Fabric, Wood"
+            "Fabric",
+            "Wood"
           ],
           "finish": "Matte"
         },
         {
-          "type": "Marble flooring",
-          "features": [
-            "White with grey veining"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Round wooden coffee table",
+          "type": "Coffee table",
           "features": [
             "Dark wood",
+            "Round shape",
             "Simple design"
           ],
           "materials": [
@@ -46,39 +38,56 @@
           "finish": "Glossy"
         },
         {
-          "type": "Marble and wood shelving unit",
+          "type": "Rug",
           "features": [
-            "Dark wood frame",
-            "Marble top"
+            "Abstract pattern",
+            "Blue and white colors"
           ],
           "materials": [
-            "Wood, Marble"
+            "Carpet"
           ],
-          "finish": "Matt"
+          "finish": "Soft"
+        },
+        {
+          "type": "Bookshelf",
+          "features": [
+            "Dark wood",
+            "Open shelves",
+            "Modern design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, Beige, Brown, Dark Grey, Blue, Black, Green"
+          "Beige",
+          "Dark brown",
+          "White",
+          "Blue",
+          "Black",
+          "Green"
         ],
         "materials": [
-          "Marble, Wood, Fabric, Glass"
+          "Wood",
+          "Marble",
+          "Carpet"
         ],
-        "lighting": "Natural light from the window, with recessed ceiling lights",
-        "texture": "Smooth marble, matte wood, fabric, glossy wood"
+        "lighting": "Natural light with recessed ceiling lights",
+        "texture": "Smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but includes modern interpretations of traditional motifs",
+        "regional_style": "Not clearly regional, but elements hint at a modern take on Indian aesthetics",
         "traditional_elements": [
-          "Carved wooden elements in the shelving unit",
-          "Use of wood and marble"
+          "Minimal use of traditional Indian furniture styles"
         ],
         "modern_adaptations": [
-          "Minimalist design with modern furniture and clean lines",
-          "Geometric wall art"
+          "Integration of contemporary furniture with Indian material choices"
         ],
-        "space_utilization": "Efficient use of space with a compact layout, maximizing the seating area",
-        "cultural_significance": "Incorporation of natural materials and clean lines reflects a modern take on traditional Indian aesthetics"
+        "space_utilization": "Efficient layout with functional areas like a workspace",
+        "cultural_significance": "Cultural relevance is subtle, focusing on modern Indian design trends"
       }
     },
     "confidence_scores": {
@@ -88,21 +97,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image showcases a contemporary lounge with a touch of Indian design elements. The L-shaped sofa with white upholstery and wooden base is a modern interpretation of traditional seating. The marble flooring and wood shelving unit add a refined feel, while the geometric artwork on the wall brings in a more modern aesthetic. The use of natural materials like wood and marble, along with the clean lines and minimalist design, align with contemporary interpretations of traditional Indian design, such as the incorporation of natural motifs and the use of wood and stone in various forms.",
+    "description": "This living room space showcases a contemporary Indian fusion style, featuring modern furniture with a touch of traditional Indian aesthetics. The use of neutral colors and minimalist decor provides a clean and sophisticated look, while the incorporation of natural wood and marble floors maintains a connection to Indian design principles. The room is functional, with a workspace area, and utilizes space efficiently, creating a modern yet homely atmosphere.",
     "metadata": {
       "tags": [
-        "Contemporary Lounge",
-        "Indian Design Influences",
-        "Marble Flooring",
-        "Wooden Furniture",
-        "Geometric Artwork"
+        "Living Room",
+        "Contemporary Indian",
+        "Minimalist Design",
+        "Modern Furniture",
+        "Natural Wood",
+        "Marble Flooring"
       ],
-      "budget_indicator": "Higher",
-      "space_type": "Living Room",
-      "functionality": "Relaxation and socializing",
-      "indian_specific": "Incorporation of natural materials and clean lines"
+      "budget_indicator": "Moderate to high, with the use of high-quality materials like marble and wood",
+      "space_type": "Residential",
+      "functionality": "Living and Working",
+      "indian_specific": "Modern Indian design elements with a focus on functionality and minimalism"
     }
   },
-  "cached_at": 1753181188561,
+  "cached_at": 1753274982878,
   "cache_key": "b55e61e56ae9fc8e2033575a90aa41f9"
 }

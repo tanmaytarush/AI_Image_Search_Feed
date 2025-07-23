@@ -3,74 +3,74 @@
   "analysis": {
     "image_id": "img_003",
     "ai_generated_tags": {
-      "room": "Foyer",
-      "theme": "Contemporary",
+      "room": "Ceiling",
+      "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Lattice ceiling panels",
-        "Wooden slats on walls",
-        "Embedded lighting"
+        "Geometric patterns",
+        "Louvered panels",
+        "Wooden ceiling"
       ],
       "objects": [
         {
-          "type": "Ceiling panel",
+          "type": "Ceiling panels",
           "features": [
-            "Lattice design",
-            "White finish",
-            "Lighting integration"
+            "Geometric lattice design",
+            "Louvered pattern",
+            "Lighting integrated"
           ],
           "materials": [
-            "MDF or similar wood material"
+            "MDF or similar composite material"
           ],
-          "finish": "Matte"
+          "finish": "Smooth and polished surface finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Beige"
+          "White (panels)",
+          "Dark wood (ceiling)",
+          "Neutral tones (walls)"
         ],
         "materials": [
-          "Wood",
-          "Metal"
+          "MDF",
+          "Wood"
         ],
-        "lighting": "Recessed lighting",
-        "texture": "Smooth"
+        "lighting": "Integrated lighting within the panels",
+        "texture": "Smooth and polished surfaces with a geometric texture"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "Not distinctly regional",
         "traditional_elements": [
-          "Lattice patterns"
+          "Geometric patterns"
         ],
         "modern_adaptations": [
-          "Integration of lighting"
+          "Integration of lighting in decorative elements"
         ],
-        "space_utilization": "Efficient use of vertical space",
-        "cultural_significance": "Inspired by traditional lattice designs, often seen in Indian architecture"
+        "space_utilization": "Optimized for visual appeal and light management",
+        "cultural_significance": "Geometric patterns symbolize symmetry and order in Indian art and architecture"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a ceiling with geometric patterned panels, likely inspired by traditional Indian architectural elements such as louvered screens. The design incorporates contemporary lighting, creating a harmonious blend of traditional and modern aesthetics. The use of geometric patterns and a symmetrical design is characteristic of Indian interior design, emphasizing symmetry and order. The wooden ceiling adds a natural element, enhancing the overall aesthetic.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Geometric patterns",
+          "Modern Indian design",
+          "Ceiling design",
+          "Lighting integration"
+        ],
+        "budget_indicator": "Moderate, with a focus on functional and aesthetic elements",
+        "space_type": "Residential or commercial space, likely a corridor or entryway",
+        "functionality": "Optimized for light management and visual appeal",
+        "indian_specific": "Geometric patterns and integration of lighting within decorative elements"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image showcases a modern Indian foyer with a decorative lattice ceiling panel. The panel features a white lattice design, which is integrated with recessed lighting, creating a contemporary aesthetic. The surrounding walls are accentuated with wooden slats, enhancing the traditional elements of lattice designs in a modern context. The space is well-lit, emphasizing the clean lines and smooth finishes of the materials used.",
-    "metadata": {
-      "tags": [
-        "Foyer",
-        "Contemporary Interior",
-        "Lattice Design",
-        "Lighting Integration",
-        "Modern Indian Style"
-      ],
-      "budget_indicator": "Moderate to High",
-      "space_type": "Entrance Hall",
-      "functionality": "Welcome space",
-      "indian_specific": "Traditional lattice patterns with modern adaptations"
     }
   },
-  "cached_at": 1753179235998,
+  "cached_at": 1753273881482,
   "cache_key": "d66c346d2cae869f1acd737d621fd776"
 }

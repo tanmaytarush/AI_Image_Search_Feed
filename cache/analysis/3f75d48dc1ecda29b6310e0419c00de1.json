@@ -4,88 +4,64 @@
     "image_id": "img_008",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Contemporary Indian Fusion",
+      "theme": "Mughal-Inspired Modern",
       "primary_features": [
-        "Marble Flooring",
-        "Wooden Ceiling",
-        "Brown L-Shape Sofa",
-        "Staircase with Glass Railings",
-        "Decorative Pillows",
-        "Floral Tablecloth",
-        "Decorative Rugs"
+        "Brown sofa set",
+        "Marble flooring",
+        "Wooden staircase",
+        "Decorative wall shelves",
+        "Chandelier"
       ],
       "objects": [
         {
-          "type": "Sofa",
+          "type": "Sofa set",
           "features": [
-            "Brown Fabric",
-            "L-Shape Design",
-            "Soft Upholstery",
-            "Built-in Pillows"
+            "Brown fabric",
+            "L-shaped design",
+            "Cushions with floral pattern"
           ],
           "materials": [
             "Fabric",
-            "Faux Fur"
+            "Wooden legs"
           ],
-          "finish": "Sleek and Smooth"
+          "finish": "Matte finish"
         },
         {
-          "type": "Table",
+          "type": "Coffee table",
           "features": [
-            "Floral Tablecloth",
-            "Wooden Frame"
+            "Fabric cover with floral pattern",
+            "Wooden legs"
           ],
           "materials": [
-            "Wood",
-            "Fabric"
-          ],
-          "finish": "Polished and Elegant"
-        },
-        {
-          "type": "Flooring",
-          "features": [
-            "Marble Tiles"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "High-Gloss and Reflective"
-        },
-        {
-          "type": "Ceiling",
-          "features": [
-            "Wooden Panels"
-          ],
-          "materials": [
+            "Fabric",
             "Wood"
           ],
-          "finish": "Natural and Warm"
+          "finish": "Matte finish"
         },
         {
           "type": "Staircase",
           "features": [
-            "Glass Railings",
-            "Wooden Steps"
+            "Wooden steps",
+            "Glass railings"
           ],
           "materials": [
-            "Glass",
-            "Wood"
+            "Wood",
+            "Glass"
           ],
-          "finish": "Modern and Sleek"
+          "finish": "Glossy"
         },
         {
-          "type": "Decorations",
+          "type": "Decorative wall shelves",
           "features": [
-            "Flower Vases",
-            "Statues",
-            "Wall Art"
+            "Wooden frames",
+            "Glass panels",
+            "Decorative items"
           ],
           "materials": [
-            "Metal",
             "Wood",
-            "Plastic"
+            "Glass"
           ],
-          "finish": "Shiny and Ornamental"
+          "finish": "High-gloss"
         }
       ],
       "visual_attributes": {
@@ -93,35 +69,29 @@
           "Brown",
           "White",
           "Gold",
-          "Marble Grey",
-          "Green",
-          "Red"
+          "Marble patterns"
         ],
         "materials": [
           "Marble",
           "Wood",
-          "Metal",
           "Glass",
           "Fabric"
         ],
-        "lighting": "Bright and Even",
-        "texture": "Smooth and Hard"
+        "lighting": "Bright and evenly distributed with chandelier and flush lights",
+        "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Kerala",
+        "regional_style": "Mughal",
         "traditional_elements": [
-          "Wooden Staircase",
-          "Marble Flooring",
-          "Decorative Pillows",
-          "Floral Tablecloth"
+          "Wooden staircase",
+          "Decorative wall shelves"
         ],
         "modern_adaptations": [
-          "Glass Railings",
-          "Modern Lighting",
-          "Contemporary Furniture"
+          "Glass railings",
+          "Modern furniture design"
         ],
-        "space_utilization": "Open and Spacious",
-        "cultural_significance": "Reflects South Indian Home Decor with a Blend of Tradition and Modernity"
+        "space_utilization": "Open and spacious with clear pathways, combining functionality and aesthetics",
+        "cultural_significance": "The Mughal elements signify a connection to historical Indian architecture, while the modern touches reflect contemporary living"
       }
     },
     "confidence_scores": {
@@ -131,21 +101,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image showcases a contemporary Indian fusion living room with a warm and inviting ambiance. The use of marble flooring and wooden ceiling elements reflects traditional Kerala home decor, while the modern glass railings and sleek furniture bring a contemporary touch. The space is well-lit, with soft lighting enhancing the natural wood tones. The decor includes decorative pillows, floral tablecloths, and ornamental vases, creating a harmonious blend of traditional and modern elements.",
+    "description": "This modern Indian living space incorporates Mughal-inspired elements such as wooden staircases and decorative wall shelves, creating a blend of historical and contemporary design. The use of marble flooring and polished wood furniture, along with a chandelier and smooth surfaces, highlights a luxurious and serene atmosphere. The space is well-organized, with a comfortable seating arrangement and clear pathways, reflecting both functionality and cultural significance.",
     "metadata": {
       "tags": [
         "Living Room",
-        "Contemporary Indian",
+        "Mughal-Inspired",
         "Marble Flooring",
-        "Wooden Ceiling",
-        "Kerala Style"
+        "Wooden Furniture",
+        "Decorative Shelves",
+        "Chandelier"
       ],
-      "budget_indicator": "High",
+      "budget_indicator": "High, given the use of marble, polished wood, and decorative elements",
       "space_type": "Residential",
-      "functionality": "Social and Relaxation",
-      "indian_specific": "Traditional Elements with Modern Adaptations"
+      "functionality": "Family room or entertainment area",
+      "indian_specific": "Mughal architectural influences and traditional Indian elements"
     }
   },
-  "cached_at": 1753179273777,
+  "cached_at": 1753274002046,
   "cache_key": "3f75d48dc1ecda29b6310e0419c00de1"
 }
