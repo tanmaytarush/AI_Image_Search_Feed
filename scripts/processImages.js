@@ -11,8 +11,8 @@ dotenv.config();
 
 class ImageProcessor {
   constructor() {
-    this.batchSize = 5; // Process 5 images at a time
-    this.delayBetweenBatches = 2000; // 2 seconds delay between batches
+    this.batchSize = 3; // Process 3 images at a time (reduced from 5)
+    this.delayBetweenBatches = 5000; // 5 seconds delay between batches (increased from 2)
     this.results = [];
     this.errors = [];
   }
@@ -43,7 +43,10 @@ class ImageProcessor {
   async processBatch(images) {
     console.log(`Processing batch of ${images.length} images...`);
 
-    const batchPromises = images.map(async (image) => {
+    const batchResults = [];
+    
+    // Process images sequentially with delays to avoid rate limiting
+    for (const image of images) {
       try {
         console.log(`Analyzing image: ${image.image_id}`);
 
@@ -57,19 +60,23 @@ class ImageProcessor {
         analysisResult.image_url = image.image_url;
 
         console.log(`✓ Completed analysis for: ${image.image_id}`);
-        return analysisResult;
+        batchResults.push(analysisResult);
+        
+        // Add delay between individual images to avoid rate limiting
+        if (images.indexOf(image) < images.length - 1) {
+          console.log(`⏳ Waiting 1 second before next image...`);
+          await this.delay(1000);
+        }
       } catch (error) {
         console.error(`✗ Error processing ${image.image_id}:`, error.message);
         this.errors.push({
           image_id: image.image_id,
           error: error.message,
         });
-        return null;
       }
-    });
+    }
 
-    const batchResults = await Promise.all(batchPromises);
-    return batchResults.filter((result) => result !== null);
+    return batchResults;
   }
 
   async delay(ms) {
