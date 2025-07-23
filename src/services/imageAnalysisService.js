@@ -82,7 +82,7 @@ Focus on identifying:
 Please ensure the response is valid JSON format.`;
 
       const chatCompletion = await this.client.chatCompletion({
-        provider: "hyperbolic",
+        provider: "auto",
         model: "Qwen/Qwen2.5-VL-7B-Instruct",
         messages: [
           {
@@ -115,10 +115,10 @@ Please ensure the response is valid JSON format.`;
         }
 
         const jsonResponse = JSON.parse(content);
-        
+
         // Cache the analysis result
         await cdnService.cacheAnalysis(imageUrl, jsonResponse);
-        
+
         return jsonResponse;
       } catch (parseError) {
         // If JSON parsing fails, return the raw response
@@ -130,7 +130,7 @@ Please ensure the response is valid JSON format.`;
       }
     } catch (error) {
       console.error("Error analyzing image:", error);
-      
+
       // Provide more specific error information
       let errorMessage = "Failed to analyze image";
       if (error.message) {
@@ -139,7 +139,7 @@ Please ensure the response is valid JSON format.`;
       if (error.status) {
         errorMessage += ` (HTTP ${error.status})`;
       }
-      
+
       throw new Error(errorMessage);
     }
   }
