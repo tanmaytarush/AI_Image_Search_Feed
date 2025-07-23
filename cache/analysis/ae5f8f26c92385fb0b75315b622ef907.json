@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.16%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_011",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Marble countertop",
+        "Wooden cabinetry",
+        "Circular mirror",
+        "Wine rack"
+      ],
+      "objects": [
+        {
+          "type": "Sink",
+          "features": [
+            "Marble countertop",
+            "Wooden cabinetry"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Circular shape"
+          ],
+          "materials": [
+            "Metal frame"
+          ],
+          "finish": "Shiny"
+        },
+        {
+          "type": "Wine Rack",
+          "features": [
+            "Glass display"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Combination of Indian and global design elements"
+        ],
+        "space_utilization": "Efficient",
+        "cultural_significance": "Minimalist design with a touch of modernity reflecting contemporary Indian aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A modern minimalist bathroom featuring a sleek marble countertop paired with wooden cabinetry, a circular mirror, and a wine rack. The space is clean and bright, making efficient use of the available area.",
+    "metadata": {
+      "tags": [
+        "Modern",
+        "Minimalist",
+        "Bathroom",
+        "Indian Interior",
+        "Marble"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Bathroom",
+      "functionality": "Efficient and stylish",
+      "indian_specific": "Contemporary Indian design with a blend of traditional and modern elements"
+    }
+  },
+  "cached_at": 1753179464059,
+  "cache_key": "ae5f8f26c92385fb0b75315b622ef907"
+}

@@ -10,12 +10,20 @@ class DataTransformer {
         confidence_scores,
         metadata = {},
         description,
+        error,
+        raw_response
       } = modelResponse;
+
+      // Check if this is a failed response
+      if (error || raw_response) {
+        console.warn(`⚠️ Skipping failed response for image ${image_id}: ${error || 'Invalid response'}`);
+        return null; // Return null to filter out failed responses
+      }
 
       // Validate ai_generated_tags
       if (!ai_generated_tags || typeof ai_generated_tags !== 'object') {
         console.warn(`Invalid ai_generated_tags for image ${image_id}:`, ai_generated_tags);
-        throw new Error(`Invalid ai_generated_tags structure for image ${image_id}`);
+        return null; // Return null instead of throwing error
       }
 
       // Check if this is a template response (contains placeholder text)
@@ -28,8 +36,8 @@ class DataTransformer {
       );
 
       if (isTemplate) {
-        console.warn(`Skipping template response for image ${image_id}`);
-        throw new Error(`Template response detected for image ${image_id}, skipping`);
+        console.warn(`❌ Template response detected for image ${image_id} - model returned placeholder text instead of real analysis`);
+        throw new Error(`Template response detected for image ${image_id} - model needs to be retried with better prompt`);
       }
 
       // Generate multi-vectors
@@ -188,7 +196,9 @@ class DataTransformer {
     for (const response of modelResponses) {
       try {
         const transformed = await this.transformToQdrantFormat(response);
-        transformedData.push(transformed);
+        if (transformed !== null) {
+          transformedData.push(transformed);
+        }
       } catch (error) {
         console.error(
           `Error transforming response for ${response.image_id}:`,

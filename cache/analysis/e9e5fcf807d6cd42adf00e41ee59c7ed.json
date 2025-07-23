@@ -1,0 +1,72 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.28%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_038",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Laminated wardrobe with glass doors",
+        "Built-in shelves",
+        "Ceiling fan"
+      ],
+      "objects": [
+        {
+          "type": "Laminated wardrobe",
+          "features": [
+            "Glass doors with metallic handles",
+            "Built-in shelves with black drawers"
+          ],
+          "materials": [
+            "MDF or fiberboard with laminate finish",
+            "Glass",
+            "Metallic hardware"
+          ],
+          "finish": "Glossy laminate with metallic accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark grey, white, black, brown"
+        ],
+        "materials": [
+          "Laminate, glass, metal, wood"
+        ],
+        "lighting": "Natural light from window and ambient light from ceiling fan",
+        "texture": "Smooth laminate finish, glossy glass, metallic hardware"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly identifiable, but could be from a modern urban Indian home",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Modern interpretation of traditional Indian design with minimalistic approach"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage solutions",
+        "cultural_significance": "The presence of a ceiling fan and built-in shelves is culturally relevant as they cater to Indian climate and storage needs"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian bedroom with a focus on functionality and storage. The room features a large built-in wardrobe with glass doors and metallic handles, accompanied by built-in shelves with black drawers. The space is organized to maximize storage, with a ceiling fan providing air circulation. The room has a contemporary feel, with a combination of dark grey and white laminate finishes, and a wooden floor adding warmth to the space.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Bedroom",
+          "Built-in storage",
+          "Ceiling fan",
+          "Minimalistic design"
+        ],
+        "budget_indicator": "Moderate to high, given the use of glass and metallic hardware",
+        "space_type": "Residential bedroom",
+        "functionality": "Storage and everyday living",
+        "indian_specific": "Efficient storage solutions and minimalistic design"
+      }
+    }
+  },
+  "cached_at": 1753181142425,
+  "cache_key": "e9e5fcf807d6cd42adf00e41ee59c7ed"
+}

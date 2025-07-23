@@ -1,0 +1,116 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.08%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_024",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Classic",
+      "primary_features": [
+        "High ceilings",
+        "Double-sided fireplace",
+        "Large picture window"
+      ],
+      "objects": [
+        {
+          "type": "Coffee Table",
+          "features": [
+            "Black with gold accents",
+            " Modern design"
+          ],
+          "materials": [
+            "Black glass",
+            "Gold metal"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Television Stand",
+          "features": [
+            "White with gold accents",
+            "Modern design"
+          ],
+          "materials": [
+            "White wood",
+            "Gold metal"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Wall Art",
+          "features": [
+            "Circular design",
+            "Metal with glass"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Ceiling Light",
+          "features": [
+            "Modern chandelier",
+            "Gold finish"
+          ],
+          "materials": [
+            "Gold metal"
+          ],
+          "finish": "Shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "White",
+          "Black",
+          "Gold"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Ambient and task lighting",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Mughal Revival",
+        "traditional_elements": [
+          "Double-sided fireplace",
+          "Marble walls"
+        ],
+        "modern_adaptations": [
+          "Modern appliances",
+          "Contemporary furniture"
+        ],
+        "space_utilization": "Efficient use of space with a focus on aesthetics",
+        "cultural_significance": "Embracing traditional architectural elements while incorporating modern comforts"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A modern classic living room with a blend of traditional Mughal Revival elements and contemporary furnishings. The room features high ceilings, a double-sided fireplace, and large windows that allow ample natural light. The design includes a sleek coffee table with gold accents, a white television stand with gold details, and a circular wall art piece. The materials used include marble, wood, glass, and metal, creating a visually striking and luxurious space.",
+    "metadata": {
+      "tags": [
+        "Modern Classic",
+        "Mughal Revival",
+        "Living Room",
+        "Interior Design",
+        "Contemporary Furniture"
+      ],
+      "budget_indicator": "High",
+      "space_type": "Residential",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Traditional architectural elements"
+    }
+  },
+  "cached_at": 1753179502119,
+  "cache_key": "caf867dc101fb7f3e8c066a04c581d2a"
+}

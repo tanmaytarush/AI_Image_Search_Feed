@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.36%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_022",
+    "ai_generated_tags": {
+      "room": "Bedroom with Study Area",
+      "theme": "Minimalist Modern",
+      "primary_features": [
+        "Built-in Wardrobe",
+        "Desk with Chair",
+        "Open Shelving"
+      ],
+      "objects": [
+        {
+          "type": "Desk",
+          "features": [
+            "Wooden Top",
+            "Integrated Drawer"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Satin Finish"
+        },
+        {
+          "type": "Chair",
+          "features": [
+            "Textured Upholstery",
+            "Metal Frame"
+          ],
+          "materials": [
+            "Textile",
+            "Metal"
+          ],
+          "finish": "Matte Finish"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Sliding Doors",
+            "Integrated Shelving"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Painted Finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light Wood",
+          "Grey"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Textile"
+        ],
+        "lighting": "Indirect Lighting",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Modular Bedroom Design",
+        "traditional_elements": [
+          "No Traditional Elements"
+        ],
+        "modern_adaptations": [
+          "Integrated Storage Solutions",
+          "Compact Design"
+        ],
+        "space_utilization": "Efficient Use of Space",
+        "cultural_significance": "No Cultural Significance Specific to Indian Context"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern minimalist bedroom with a built-in wardrobe and a desk with a chair, all integrated into a single unit. The design emphasizes clean lines and efficient use of space, with a color palette that includes white, light wood, and grey tones. The desk is equipped with a wooden top and integrated drawer, while the chair boasts textured upholstery with a metallic frame. The wardrobe features sliding doors and integrated shelving, all painted in a light wood finish.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Modern",
+        "Bedroom",
+        "Built-in Storage",
+        "Integrated Design"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Bedroom",
+      "functionality": "Living and Working",
+      "indian_specific": "No Indian-Specific Features"
+    }
+  },
+  "cached_at": 1753179501732,
+  "cache_key": "7350ef873348e18530665efa7c283d06"
+}

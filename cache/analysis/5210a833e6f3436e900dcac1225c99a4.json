@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.13%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_031",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Minimalist",
+      "primary_features": [
+        "Sliding wardrobe doors",
+        "Built-in shelves",
+        "Oval mirror",
+        "Patterned wallpaper"
+      ],
+      "objects": [
+        {
+          "type": "Sliding wardrobe doors",
+          "features": [
+            "Light blue finish",
+            "Vertical panel design",
+            "Horizontal stripes in dark grey"
+          ],
+          "materials": [
+            "Wood veneer, possibly MDF with painted finish"
+          ],
+          "finish": "Glossy, smooth surface"
+        },
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "White shelves with teal accents",
+            "Open shelving design"
+          ],
+          "materials": [
+            "Wood veneer, possibly MDF with painted finish"
+          ],
+          "finish": "Matte, smooth surface"
+        },
+        {
+          "type": "Oval mirror",
+          "features": [
+            "Beveled edge",
+            "Silver frame"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Shiny, reflective surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light blue",
+          "White",
+          "Teal",
+          "Dark grey",
+          "Silver",
+          "Beige"
+        ],
+        "materials": [
+          "Wood veneer",
+          "MDF",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light coming from the right, creating shadows on the floor and furniture",
+        "texture": "Smooth surfaces with some glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly indicative of a specific regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Adaptation of traditional furniture styles like a diwan (storage unit) with modern finishes"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture for storage and display",
+        "cultural_significance": "No culturally significant elements visible, focusing on modern aesthetics with Indian influences"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern bedroom with a contemporary minimalist design. The light blue sliding wardrobe doors feature a vertical panel design with horizontal stripes, suggesting an adaptation of traditional Indian furniture styles. The built-in shelves with teal accents and the oval mirror with a silver frame add to the modern aesthetic. The room benefits from natural light, which highlights the smooth and glossy finishes of the furniture. The design focuses on functionality and storage with an emphasis on modern aesthetics, incorporating subtle Indian design influences in the furniture style.",
+      "metadata": {
+        "tags": [
+          "Contemporary Bedroom",
+          "Minimalist Design",
+          "Modern Sliding Doors",
+          "Built-in Shelves",
+          "Oval Mirror",
+          "Light Blue Color Palette"
+        ],
+        "budget_indicator": "Moderate to High, given the use of materials like wood veneer and glossy finishes",
+        "space_type": "Residential Bedroom",
+        "functionality": "Storage and dressing area",
+        "indian_specific": "Modern adaptation of traditional Indian furniture styles"
+      }
+    }
+  },
+  "cached_at": 1753181124700,
+  "cache_key": "5210a833e6f3436e900dcac1225c99a4"
+}

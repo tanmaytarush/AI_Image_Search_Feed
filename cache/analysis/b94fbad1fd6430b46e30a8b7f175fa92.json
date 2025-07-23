@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.28.jpeg",
+  "analysis": {
+    "image_id": "img_002",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern",
+      "primary_features": [
+        "Marble Tile",
+        "Wooden Framing"
+      ],
+      "objects": [
+        {
+          "type": "Wall Panel",
+          "features": [
+            "Marble Tiles",
+            "Lighting"
+          ],
+          "materials": [
+            "Marble Tile",
+            "Wood"
+          ],
+          "finish": "Smooth, Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "Brown",
+          "White"
+        ],
+        "materials": [
+          "Marble",
+          "Wood"
+        ],
+        "lighting": "Undermount Light",
+        "texture": "Smooth, Polished"
+      },
+      "indian_context": {
+        "regional_style": "Nehru",
+        "traditional_elements": [
+          "Minimalistic Design"
+        ],
+        "modern_adaptations": [
+          "Glossy Finish"
+        ],
+        "space_utilization": "Efficient",
+        "cultural_significance": "Modern Indian Interior Design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern interpretation of a bathroom wall panel design, featuring a sleek marble tile backdrop with a wooden frame. The marble tiles are smooth and glossy, with a beige and brown color palette, and are illuminated by undermount lighting, creating a warm and inviting ambiance. The wood framing adds a natural touch, enhancing the overall aesthetic. The design is sharp and contemporary, reflecting modern Indian interior design trends.",
+    "metadata": {
+      "tags": [
+        "Modern Bathroom",
+        "Marble Tiles",
+        "Wooden Frame",
+        "Interior Design"
+      ],
+      "budget_indicator": "Mid-Range",
+      "space_type": "Bathroom",
+      "functionality": "Aesthetic",
+      "indian_specific": "Modern Indian Interior Design"
+    }
+  },
+  "cached_at": 1753179235536,
+  "cache_key": "b94fbad1fd6430b46e30a8b7f175fa92"
+}

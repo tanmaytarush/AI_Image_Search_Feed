@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.33%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_034",
+    "ai_generated_tags": {
+      "room": "closet",
+      "theme": "minimalist modern",
+      "primary_features": [
+        "white panels",
+        "wooden slats",
+        "vertical slats"
+      ],
+      "objects": [
+        {
+          "type": "cabinet",
+          "features": [
+            "closed doors",
+            "horizontal and vertical slots"
+          ],
+          "materials": [
+            "white panels",
+            "wooden slats"
+          ],
+          "finish": "smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "brown",
+          "black"
+        ],
+        "materials": [
+          "wood",
+          "paint"
+        ],
+        "lighting": "natural",
+        "texture": "smooth"
+      },
+      "indian_context": {
+        "regional_style": "focal regional style not identifiable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "minimalist design with traditional wood elements"
+        ],
+        "space_utilization": "organized for storage",
+        "cultural_significance": "does not include culturally significant elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.9,
+      "primary_features": 0.92,
+      "objects": 0.88,
+      "indian_context": 0.78
+    },
+    "description": "This image depicts a minimalist modern cabinet with a clean and organized design. The cabinet features white panels at the top, wooden slats in the middle, and vertical black slats as decorative elements. The design is simple and functional, with a smooth finish and natural lighting.",
+    "metadata": {
+      "tags": [
+        "minimalist",
+        "modern",
+        "cabinet",
+        "white",
+        "wooden slats"
+      ],
+      "budget_indicator": "medium",
+      "space_type": "closet",
+      "functionality": "storage",
+      "indian_specific": "no Indian-specific design features"
+    }
+  },
+  "cached_at": 1753181122658,
+  "cache_key": "88f422736a60c996d32f8169ebeea11d"
+}

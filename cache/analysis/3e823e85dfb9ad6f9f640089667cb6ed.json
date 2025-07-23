@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00640.JPG",
+  "analysis": {
+    "image_id": "img_006",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Fusion",
+      "primary_features": [
+        "Staircase with wooden railings",
+        "Marble flooring",
+        "Open plan design",
+        "Built-in shelves"
+      ],
+      "objects": [
+        {
+          "type": "Staircase",
+          "features": [
+            "Curved wooden steps",
+            "Glass railing"
+          ],
+          "materials": [
+            "Teak wood",
+            "Glass"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Shelving",
+          "features": [
+            "Built-in wall shelves",
+            "Wall-mounted display"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White marble floor",
+          "Teak wood",
+          "Light blue cabinets",
+          "Gold accents"
+        ],
+        "materials": [
+          "Marble",
+          "Teak wood",
+          "Glass",
+          "Ceramic"
+        ],
+        "lighting": "Natural light with recessed ceiling lights",
+        "texture": "Smooth marble, glossy wood, glass, and ceramic"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Temple-like alcove",
+          "Idols",
+          "Pooja area"
+        ],
+        "modern_adaptations": [
+          "Open plan design",
+          "Modern kitchen cabinets"
+        ],
+        "space_utilization": "Efficient use of vertical space with staircase as a focal point",
+        "cultural_significance": "Temple-like alcove reflects reverence for traditional beliefs, while modern elements blend contemporary aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian fusion living space showcases a blend of traditional elements with contemporary design. The temple-like alcove with a framed deity showcases cultural significance, while the sleek staircase and open plan design reflect modern adaptability. The use of teak wood and marble highlights the regional style, with glass railings adding a modern touch.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Modern Indian",
+        "Fusion Design",
+        "Teak Wood",
+        "Marble Floor"
+      ],
+      "budget_indicator": "High",
+      "space_type": "Multi-functional",
+      "functionality": "Open-plan living with kitchen and prayer area",
+      "indian_specific": "Temple-like alcove with idols"
+    }
+  },
+  "cached_at": 1753179451883,
+  "cache_key": "3e823e85dfb9ad6f9f640089667cb6ed"
+}

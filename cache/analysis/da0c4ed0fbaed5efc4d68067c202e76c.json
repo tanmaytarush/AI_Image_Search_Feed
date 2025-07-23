@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.21%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_056",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Blue and white cabinets",
+        "Black countertops",
+        "Built-in sink",
+        "Modern appliances"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "Blue and white in color",
+            "Modern design with handles"
+          ],
+          "materials": [
+            "PVC or similar material"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Countertops",
+          "features": [
+            "Black in color",
+            "Smooth surface"
+          ],
+          "materials": [
+            "Marble or composite material"
+          ],
+          "finish": "Polished finish"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Built-in design",
+            "Modern faucet"
+          ],
+          "materials": [
+            "Sink material not visible"
+          ],
+          "finish": "Metallic finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "PVC",
+          "Marble/Composite",
+          "Metallic"
+        ],
+        "lighting": "Artificial lighting from ceiling fixtures",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but leans towards urban Indian style",
+        "traditional_elements": [
+          "Modern interpretation of traditional Indian colors and symmetry"
+        ],
+        "modern_adaptations": [
+          "Use of contemporary materials and design"
+        ],
+        "space_utilization": "Efficient use of space with built-in cabinets and countertops",
+        "cultural_significance": "The color palette and symmetry draw inspiration from traditional Indian aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space features a modern interpretation of traditional Indian design principles, with a contemporary twist. The kitchen showcases a sleek, efficient layout with blue and white cabinets, black countertops, and a built-in sink. The use of glossy finishes and minimalistic design elements reflects a focus on functionality and modern aesthetics, while the color palette and symmetry nod to traditional Indian design motifs.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Indian",
+          "Modern",
+          "Contemporary",
+          "Blue and White"
+        ],
+        "budget_indicator": "Moderate, with use of contemporary materials",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is to serve as a functional cooking and food preparation area",
+        "indian_specific": "Glossy finishes and color contrast inspired by traditional Indian design"
+      }
+    }
+  },
+  "cached_at": 1753181172855,
+  "cache_key": "da0c4ed0fbaed5efc4d68067c202e76c"
+}

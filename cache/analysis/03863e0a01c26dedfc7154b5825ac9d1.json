@@ -1,0 +1,69 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.12.04%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_067",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "contemporary",
+      "primary_features": [
+        "sliding doors",
+        "wavy patterned wallpaper"
+      ],
+      "objects": [
+        {
+          "type": "sliding doors",
+          "features": [
+            "rectangular panels",
+            "wavy pattern",
+            "dark metal frames"
+          ],
+          "materials": [
+            "wood, plastic"
+          ],
+          "finish": "matte, glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white, black, brown"
+        ],
+        "materials": [
+          "wood, plastic, metal, wallpaper"
+        ],
+        "lighting": "indirect, soft",
+        "texture": "smooth, matte, glossy"
+      },
+      "indian_context": {
+        "regional_style": "not prominent",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "contemporary style with traditional materials"
+        ],
+        "space_utilization": "efficient, minimalist",
+        "cultural_significance": "not prominent"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.7,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.6
+      },
+      "description": "The image showcases a modern approach to Indian interior design, with contemporary sliding doors featuring a wavy patterned wallpaper. The space is efficiently utilized, emphasizing minimalism and functionality. The materials used, such as wood and plastic, reflect a modern interpretation of traditional Indian design elements.",
+      "metadata": {
+        "tags": [
+          "contemporary interior",
+          "sliding doors",
+          "wavy wallpaper",
+          "bedroom"
+        ],
+        "budget_indicator": "moderate to high",
+        "space_type": "residential bedroom",
+        "functionality": "storage and organization",
+        "indian_specific": "contemporary adaptation of traditional materials"
+      }
+    }
+  },
+  "cached_at": 1753181199093,
+  "cache_key": "03863e0a01c26dedfc7154b5825ac9d1"
+}

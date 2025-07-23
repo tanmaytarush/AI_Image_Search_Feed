@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.50%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_044",
+    "ai_generated_tags": {
+      "room": "Closet/Storage Area",
+      "theme": "Modern Indian Interior",
+      "primary_features": [
+        "Green cabinets",
+        "Decorative floral wallpaper",
+        "Embedded shelves"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Green finish",
+            "Horizontal handles",
+            "Integrated shelving"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Wallpaper",
+          "features": [
+            "Floral pattern",
+            "Light background",
+            "Printed design"
+          ],
+          "materials": [
+            "Textured wallpaper material"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Shelving",
+          "features": [
+            "Green accents",
+            "Embedded into the wall"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Yellow",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "MDF",
+          "Wallpaper"
+        ],
+        "lighting": "Indirect lighting, likely from ceiling or adjacent area",
+        "texture": "Smooth cabinet surfaces, patterned wallpaper, and smooth shelving"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but leans towards a modern take on traditional elements",
+        "traditional_elements": [
+          "Carved floral patterns on wallpaper"
+        ],
+        "modern_adaptations": [
+          "Integrated shelving",
+          "Glossy finishes"
+        ],
+        "space_utilization": "Efficient use of wall space for storage and display",
+        "cultural_significance": "The floral wallpaper could symbolize nature and beauty, common in Indian interiors"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern Indian interior design for a closet or storage area. The space features glossy green cabinets with horizontal silver handles, embedded green shelving, and a floral wallpaper with a light background and printed floral patterns. The design incorporates a mix of traditional and modern elements, with the floral wallpaper being a traditional Indian motif and the sleek cabinet design a modern adaptation. The space is well-organized, utilizing the wall space for both storage and display purposes.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Interior",
+        "Green Cabinets",
+        "Floral Wallpaper",
+        "Embedded Shelving",
+        "Glossy Finish"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Closet/Storage Area",
+      "functionality": "Storage and display",
+      "indian_specific": "Floral wallpaper"
+    }
+  },
+  "cached_at": 1753181154980,
+  "cache_key": "14dea3b8f8e49bfc433a8ddc3b962043"
+}

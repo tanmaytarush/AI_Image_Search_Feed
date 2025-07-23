@@ -1,0 +1,83 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.06%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_030",
+    "ai_generated_tags": {
+      "room": "Hallway",
+      "theme": "Minimalist",
+      "primary_features": [
+        "White wardrobe with four doors",
+        "Built-in shelving unit"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Four doors with simple handles",
+            "White color"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Painted finish"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Shelving Unit",
+          "features": [
+            "Open shelving unit with compartments",
+            "Integrated with wardrobe"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Light-colored finish"
+          ],
+          "finish": "Matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light wooden tones",
+          "Dark brown"
+        ],
+        "materials": [
+          "Wood",
+          "Painted surfaces"
+        ],
+        "lighting": "Natural light with subtle artificial illumination",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Western-style",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Efficient use of wall space",
+        "cultural_significance": "No specific cultural elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A modern and minimalist hallway featuring a white wardrobe with four doors and an open shelving unit integrated with the wardrobe, providing ample storage space. The walls and door are finished in a light beige color, complemented by a dark brown wooden door on the left.",
+    "metadata": {
+      "tags": [
+        "minimalist",
+        "hallway",
+        "wardrobe",
+        "storage",
+        "interior design"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Storage and organization",
+      "indian_specific": "No specific Indian features"
+    }
+  },
+  "cached_at": 1753179512944,
+  "cache_key": "b1fa0b58f297ec8781034bbf1e9fad85"
+}

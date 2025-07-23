@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.24%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_026",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Purple cabinetry",
+        "Marble backsplash",
+        "Black countertops",
+        "Modern appliances"
+      ],
+      "objects": [
+        {
+          "type": "Refrigerator",
+          "features": [
+            "Black in color",
+            "Modern design"
+          ],
+          "materials": [
+            "Metal, glass"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "Purple color",
+            "Flat panels"
+          ],
+          "materials": [
+            "Laminate, MDF"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Marble tiles"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Purple, Black, White, Marble grey"
+        ],
+        "materials": [
+          "Marble, Laminate, MDF"
+        ],
+        "lighting": "Under-cabinet lighting",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Minimal use of traditional elements"
+        ],
+        "modern_adaptations": [
+          "Purple cabinets with modern design, marble backsplash"
+        ],
+        "space_utilization": "Efficient use of space with integrated cabinetry and appliances",
+        "cultural_significance": "Minimal emphasis on cultural elements, focusing on modern aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A modern kitchen with purple cabinetry, a marble backsplash, and black countertops, featuring sleek and minimalist design with contemporary appliances. The space emphasizes functionality with efficient use of space and a focus on modern aesthetics.",
+    "metadata": {
+      "tags": [
+        "Kitchen Design",
+        "Contemporary Style",
+        "Purple Cabinets",
+        "Marble Backsplash",
+        "Modern Appliances"
+      ],
+      "budget_indicator": "High",
+      "space_type": "Residential",
+      "functionality": "Efficient and Modern",
+      "indian_specific": "Modern Indian"
+    }
+  },
+  "cached_at": 1753179513475,
+  "cache_key": "4bfe1e45292a77cc573c33ace1059ead"
+}

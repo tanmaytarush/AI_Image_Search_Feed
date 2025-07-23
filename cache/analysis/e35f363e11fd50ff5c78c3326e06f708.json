@@ -1,0 +1,111 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.08%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_010",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Open-plan layout",
+        "Ceiling fan",
+        "Marble flooring"
+      ],
+      "objects": [
+        {
+          "type": "Bar counter",
+          "features": [
+            "Bottle storage",
+            "Glassware"
+          ],
+          "materials": [
+            "Wood",
+            "Marble"
+          ],
+          "finish": "polished"
+        },
+        {
+          "type": "Sofa",
+          "features": [
+            "Wooden legs",
+            "Textured upholstery"
+          ],
+          "materials": [
+            "Cloth",
+            "wood"
+          ],
+          "finish": "soft"
+        },
+        {
+          "type": "Ceiling fan",
+          "features": [
+            "Flush mount"
+          ],
+          "materials": [
+            "metal"
+          ],
+          "finish": "bare metal"
+        },
+        {
+          "type": "Coffee table",
+          "features": [
+            "Glass top",
+            "Metal base"
+          ],
+          "materials": [
+            "Glass",
+            "metal"
+          ],
+          "finish": "polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "brown",
+          "black",
+          "green"
+        ],
+        "materials": [
+          "wood",
+          "marble",
+          "glass"
+        ],
+        "lighting": "indirect",
+        "texture": "smooth, matte"
+      },
+      "indian_context": {
+        "regional_style": "Modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalistic design",
+          "Use of modern materials"
+        ],
+        "space_utilization": "optimal",
+        "cultural_significance": ""
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A modern living room with an open-plan layout, featuring a bar counter, a sofa, a ceiling fan, and a coffee table. The design combines contemporary elements with minimalistic decor, using a combination of wood, marble, and glass materials, and incorporating a clean color palette with white, brown, black, and green tones.",
+    "metadata": {
+      "tags": [
+        "living room",
+        "modern",
+        "contemporary",
+        "marble flooring",
+        "ceiling fan"
+      ],
+      "budget_indicator": "high",
+      "space_type": "residential",
+      "functionality": "living and entertaining",
+      "indian_specific": "No specific Indian features"
+    }
+  },
+  "cached_at": 1753179268552,
+  "cache_key": "e35f363e11fd50ff5c78c3326e06f708"
+}
