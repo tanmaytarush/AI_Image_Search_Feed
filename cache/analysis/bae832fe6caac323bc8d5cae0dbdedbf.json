@@ -3,85 +3,85 @@
   "analysis": {
     "image_id": "img_041",
     "ai_generated_tags": {
-      "room": "Bedroom/Study",
+      "room": "Storage/Utility Room",
       "theme": "Modern Indian",
       "primary_features": [
-        "Built-in wardrobes",
-        "Study desk",
-        "Storage units"
+        "Modular storage units",
+        "Integrated lighting",
+        "Colorful accents"
       ],
       "objects": [
         {
-          "type": "Built-in Wardrobe",
+          "type": "Modular Storage Unit",
           "features": [
-            "Vertical layout",
-            "Color-block design with green and yellow",
-            "Modern handles"
+            "Fitted with multiple compartments",
+            "Integrated lighting on top"
           ],
           "materials": [
-            "Plywood"
+            "Painted MDF",
+            "Metal hardware"
           ],
-          "finish": "Matte finish"
+          "finish": "Glossy paint finish"
         },
         {
-          "type": "Study Desk",
+          "type": "Integrated Counter",
           "features": [
-            "Integrated into the wardrobe structure",
-            "White surface",
-            "Minimalistic design"
+            "Compact workspace",
+            "Integrated with storage unit"
           ],
           "materials": [
-            "Plywood"
+            "Painted MDF"
           ],
-          "finish": "Matte finish"
+          "finish": "Matte paint finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Green",
-          "Yellow"
+          "Yellow",
+          "Light Gray"
         ],
         "materials": [
-          "Plywood"
+          "Painted MDF",
+          "Metal"
         ],
-        "lighting": "Natural light from an unseen window, artificial light from within the wardrobe units",
-        "texture": "Smooth surfaces with a modern aesthetic"
+        "lighting": "Integrated LED lighting",
+        "texture": "Smooth surfaces with glossy paint finish"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but aligns with urban Indian designs",
+        "regional_style": "N/A",
         "traditional_elements": [
-          "Not explicitly traditional, but modern interpretations of organized storage"
+          "N/A"
         ],
         "modern_adaptations": [
-          "Integrated furniture design, color-blocking"
+          "Use of modern materials and storage solutions"
         ],
-        "space_utilization": "Highly efficient use of space for storage and functionality",
-        "cultural_significance": "Emphasis on organization and functionality, key in Indian home design"
+        "space_utilization": "Efficient use of vertical space with integrated storage and counter",
+        "cultural_significance": "N/A"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian-inspired storage and utility room with a focus on efficient space utilization. The room features a modular storage unit with multiple compartments, integrated lighting, and a compact workspace. The design incorporates a combination of smooth glossy paint finishes, metal hardware, and painted MDF, reflecting a contemporary aesthetic with a nod to traditional Indian design principles.",
+      "metadata": {
+        "tags": [
+          "Modular Storage",
+          "Indian Interior Design",
+          "Modern Indian",
+          "Efficient Space Utilization"
+        ],
+        "budget_indicator": "Moderate, as the use of painted MDF and metal hardware suggests a mid-range budget.",
+        "space_type": "Utility/Storage Room",
+        "functionality": "Primary purpose is storage with integrated workspace for convenience.",
+        "indian_specific": "Use of color contrasts and efficient storage solutions that align with modern interpretations of traditional Indian design elements."
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image showcases a modern Indian bedroom or study area with a focus on efficient space utilization. The built-in wardrobes, featuring a color-block design in green and yellow, are a modern interpretation of traditional storage solutions. The study desk is seamlessly integrated into the wardrobe structure, emphasizing a clean and organized look. The overall design utilizes smooth, matte-finished surfaces typical in contemporary Indian interiors, with a strong emphasis on functionality and space optimization.",
-    "metadata": {
-      "tags": [
-        "Modern Indian",
-        "Built-in Wardrobe",
-        "Color Blocking",
-        "Efficient Storage",
-        "Urban Indian Design"
-      ],
-      "budget_indicator": "Moderate, with the use of high-quality materials like plywood for the wardrobes",
-      "space_type": "Bedroom/Study",
-      "functionality": "Primary purpose is to provide storage and a study space",
-      "indian_specific": "Modern adaptations of traditional Indian storage solutions"
     }
   },
-  "cached_at": 1753181154808,
+  "cached_at": 1753274486280,
   "cache_key": "bae832fe6caac323bc8d5cae0dbdedbf"
 }

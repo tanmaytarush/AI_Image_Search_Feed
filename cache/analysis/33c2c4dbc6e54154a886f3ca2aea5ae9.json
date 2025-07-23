@@ -6,77 +6,77 @@
       "room": "Entryway",
       "theme": "Contemporary Indian",
       "primary_features": [
-        "Marble flooring",
-        "Wooden cabinet with curved designs",
-        "Abstract wall art",
-        "Decorative plants",
-        "Seating area"
+        "Wardrobe with circular design",
+        "Marble floor",
+        "Wall-mounted artwork",
+        "Decorative items"
       ],
       "objects": [
         {
-          "type": "Wooden cabinet",
+          "type": "Wardrobe",
           "features": [
-            "Curved and geometric patterns",
-            "Textured finish on doors"
+            "Circular cutouts",
+            "Wooden finish"
           ],
           "materials": [
             "Wood",
-            "Thick laminate or veneer"
+            "Silver accents"
           ],
-          "finish": "Smooth, natural wood finish with subtle texture"
+          "finish": "Polished wood with metallic highlights"
         },
         {
-          "type": "Abstract wall art",
+          "type": "Wall-mounted artwork",
           "features": [
-            "Large canvas with geometric lines",
-            "Subtle golden tones"
+            "Abstract design",
+            "Metallic lines"
           ],
           "materials": [
-            "Canvas",
-            "Acrylic or oil paint"
+            "Metal",
+            "Paint"
           ],
-          "finish": "Matte finish with nuanced brushstrokes"
+          "finish": "Metallic sheen with artistic patterns"
         },
         {
-          "type": "Seating area",
+          "type": "Decorative items",
           "features": [
-            "Textured cushion with geometric pattern",
-            "Wooden base with curved design"
+            "Ceramic pots",
+            "Metal giraffes",
+            "Textile cushion"
           ],
           "materials": [
-            "Fabric",
-            "Wood"
+            "Ceramic",
+            "Metal",
+            "Textile"
           ],
-          "finish": "Fabric with vibrant geometric patterns, wood with natural finish"
+          "finish": "Ceramic glaze, metallic polish, textile weave"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Peach",
-          "Brown",
-          "Beige",
-          "Light gray"
+          "Blush pink",
+          "Warm beige",
+          "White marble",
+          "Gold accents"
         ],
         "materials": [
           "Marble",
           "Wood",
-          "Canvas",
-          "Fabric"
+          "Metal",
+          "Textile"
         ],
-        "lighting": "Natural light with soft ambient lighting",
-        "texture": "Marble with veining, textured wood, fabric with geometric patterns"
+        "lighting": "Ambient light with soft shadows",
+        "texture": "Smooth marble, polished wood, metallic sheen, woven textile"
       },
       "indian_context": {
-        "regional_style": "Not strongly regional, leans towards urban contemporary",
+        "regional_style": "No specific regional style visible, but has modern Indian elements",
         "traditional_elements": [
-          "Curved furniture elements",
-          "Abstract wall art"
+          "Circular cutouts on wardrobe"
         ],
         "modern_adaptations": [
-          "Contemporary interpretation of traditional furniture shapes"
+          "Minimalist approach with contemporary finishes"
         ],
-        "space_utilization": "Efficient use of space in a small area",
-        "cultural_significance": "Abstract art represents modern urban Indian sensibilities, while furniture maintains a connection to traditional shapes"
+        "space_utilization": "Efficient use of corner space with built-in storage",
+        "cultural_significance": "Circular patterns often symbolize eternity and unity in Indian culture, adding a touch of traditional wisdom to modern design"
       }
     },
     "confidence_scores": {
@@ -86,22 +86,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This contemporary Indian entryway features a sleek marble floor, a wooden cabinet with curved and geometric designs, and an abstract wall art piece that adds a modern, urban touch. The seating area complements the design with a textured cushion and a wooden base, maintaining a connection to traditional shapes. The use of natural wood and subtle colors creates a balanced and inviting space.",
+    "description": "This contemporary Indian entryway features a wardrobe with circular cutouts, a wall-mounted abstract artwork, and a modern interpretation of traditional Indian elements like the circular patterns on the wardrobe. The space utilizes the corner efficiently for storage, with a clean and minimalist design that incorporates Indian cultural motifs in a modern context.",
     "metadata": {
       "tags": [
         "Contemporary Indian",
+        "Modern Entryway",
+        "Circular Design",
         "Marble Flooring",
-        "Wooden Cabinet",
-        "Abstract Art",
-        "Urban Contemporary",
-        "Indian Design"
+        "Abstract Art"
       ],
-      "budget_indicator": "Moderate to high, given the use of marble and wooden veneer",
+      "budget_indicator": "Moderate, with quality materials and finishes",
       "space_type": "Entryway",
-      "functionality": "Welcome area with storage and seating",
-      "indian_specific": "Curved furniture elements and abstract art with Indian artistic influence"
+      "functionality": "Storage and decorative",
+      "indian_specific": "Circular cutout wardrobe"
     }
   },
-  "cached_at": 1753181097215,
+  "cached_at": 1753274246959,
   "cache_key": "33c2c4dbc6e54154a886f3ca2aea5ae9"
 }

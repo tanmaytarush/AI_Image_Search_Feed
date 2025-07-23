@@ -4,58 +4,37 @@
     "image_id": "img_058",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian Minimalist",
+      "theme": "Modern Indian Kitchen",
       "primary_features": [
-        "Kitchen cabinets",
-        "Pink and white color scheme",
-        "White tiles",
-        "Black countertops",
-        "Metal sink"
+        "L-shaped cabinets",
+        "Pink glossy cabinets",
+        "Marble countertops",
+        "Decorative wall tiles",
+        "Built-in storage"
       ],
       "objects": [
         {
-          "type": "Kitchen cabinet",
+          "type": "L-shaped cabinets",
           "features": [
-            "Pink and white panels",
-            "Modern handles",
-            "U-shaped layout"
+            "Pink glossy finish",
+            "White lower cabinets",
+            "Metallic handles"
           ],
           "materials": [
-            "MDF or similar engineered wood",
-            "Acrylic finish"
+            "Pink glossy paint",
+            "White MDF"
           ],
           "finish": "Glossy"
         },
         {
-          "type": "Countertop",
+          "type": "Marble countertops",
           "features": [
-            "Black granite or similar material"
+            "Black and white patterned surface"
           ],
           "materials": [
-            "Granite or engineered stone"
+            "Marble"
           ],
           "finish": "Polished"
-        },
-        {
-          "type": "Wall tiles",
-          "features": [
-            "White with geometric pattern",
-            "Textured backsplash"
-          ],
-          "materials": [
-            "Ceramic tiles"
-          ],
-          "finish": "Smooth"
-        },
-        {
-          "type": "Sink",
-          "features": [
-            "Built-in metal sink"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Shiny"
         }
       ],
       "visual_attributes": {
@@ -66,48 +45,48 @@
           "Gray"
         ],
         "materials": [
-          "MDF/Engineered Wood",
-          "Acrylic",
-          "Granite/Engineered Stone",
-          "Ceramic Tiles"
+          "Pink glossy paint",
+          "White MDF",
+          "Marble",
+          "Metal"
         ],
-        "lighting": "Natural light from window and overhead light fixtures",
-        "texture": "Glossy finish on cabinets, smooth on tiles, shiny on sink"
+        "lighting": "Bright, artificial lighting from ceiling",
+        "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "No regional influence",
+        "regional_style": "No specific regional style evident",
         "traditional_elements": [
-          "None"
+          "No traditional Indian elements visible"
         ],
         "modern_adaptations": [
-          "Simplistic and modern design with a touch of color"
+          "Modern interpretation of traditional Indian kitchens with vibrant colors"
         ],
-        "space_utilization": "U-shaped layout for efficient use of space",
-        "cultural_significance": "Bright colors symbolize vitality and positivity in Indian decor"
+        "space_utilization": "Efficient L-shaped layout for storage and functionality",
+        "cultural_significance": "Vibrant pink color often symbolizes joy and prosperity in Indian culture, though this may not be a traditional element in Indian kitchens"
       },
       "confidence_scores": {
         "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.9,
+        "theme": 0.87,
+        "primary_features": 0.89,
         "objects": 0.92,
-        "indian_context": 0.8
+        "indian_context": 0.9
       },
-      "description": "The image depicts a modern kitchen with a minimalist Indian design. The kitchen features bright pink and white cabinetry, white tiled backsplash with a geometric pattern, and black countertops. The room is illuminated by natural light from a window with traditional grill design and overhead lighting. The design incorporates a U-shaped layout, typical of efficient space utilization in Indian homes, and the use of glossy finishes adds a modern and sleek look.",
+      "description": "This image showcases a modern Indian kitchen with vibrant pink glossy cabinets and white lower cabinets, creating a contemporary look with traditional influences. The L-shaped layout maximizes storage and functionality, and the use of marble countertops adds a touch of elegance. The bright artificial lighting enhances the glossy surfaces and reflects the modern interpretation of traditional Indian kitchens with its use of bold colors.",
       "metadata": {
         "tags": [
-          "Kitchen Design",
-          "Modern Indian",
-          "Pink Kitchen",
-          "Minimalist",
-          "U-Shaped Kitchen"
+          "Indian kitchen",
+          "modern kitchen",
+          "pink cabinets",
+          "marble countertops",
+          "L-shaped layout"
         ],
-        "budget_indicator": "Moderate, with glossy finishes and quality materials",
-        "space_type": "Residential",
-        "functionality": "Primary cooking and food preparation space",
-        "indian_specific": "Bright pink cabinets with a glossy finish"
+        "budget_indicator": "Moderate, with use of glossy paint and marble for countertops",
+        "space_type": "Residential kitchen",
+        "functionality": "Designed for efficient storage and preparation of food",
+        "indian_specific": "Vibrant pink color, though not traditional, symbolizes joy and prosperity in Indian culture"
       }
     }
   },
-  "cached_at": 1753181173419,
+  "cached_at": 1753274912676,
   "cache_key": "a37d078ff53a91b11c5c408d5b9f0fed"
 }

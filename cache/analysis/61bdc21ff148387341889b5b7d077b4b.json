@@ -3,106 +3,118 @@
   "analysis": {
     "image_id": "img_085",
     "ai_generated_tags": {
-      "room": "home office",
-      "theme": "contemporary",
+      "room": "Home office",
+      "theme": "Modern Indian",
       "primary_features": [
-        "custom built-in shelving unit",
-        "desk with chair",
-        "cabinet storage"
+        "Built-in desk with storage",
+        "Green accent walls",
+        "Decorative shelves",
+        "Integrated mirror",
+        "Modern furniture with traditional influences"
       ],
       "objects": [
         {
-          "type": "desk",
+          "type": "Desk",
           "features": [
-            "curved edge",
-            "white surface with green accents"
+            "Built-in design",
+            "Integrated storage cabinets",
+            "White finish"
           ],
           "materials": [
-            "likely MDF or particle board",
-            "green material possibly acrylic or laminate"
+            "MDF or particleboard"
           ],
-          "finish": "smooth, glossy"
+          "finish": "Matte finish"
         },
         {
-          "type": "chair",
+          "type": "Chair",
           "features": [
-            "modern design",
-            "brown leatherette",
-            "metal legs"
+            "Modern design",
+            "Wooden frame",
+            "Metal legs"
           ],
           "materials": [
-            "brown synthetic leatherette",
-            "metal"
+            "Wood",
+            "Metal"
           ],
-          "finish": "glossy and smooth"
+          "finish": "Matte varnish"
         },
         {
-          "type": "cabinet",
+          "type": "Shelves",
           "features": [
-            "two-toned design",
-            "sliding door",
-            "shelving inside"
+            "Decorative",
+            "Green accents",
+            "Integrated into the wall"
           ],
           "materials": [
-            "likely MDF or particle board",
-            "green material possibly acrylic or laminate"
+            "Painted wood"
           ],
-          "finish": "smooth, glossy"
+          "finish": "Glossy"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Integrated into the wall",
+            "Vertical strips",
+            "Beige finish"
+          ],
+          "materials": [
+            "MDF or particleboard"
+          ],
+          "finish": "Matte finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white",
-          "green",
-          "brown",
-          "beige",
-          "gray"
+          "Beige",
+          "Green",
+          "White",
+          "Natural wood tones"
         ],
         "materials": [
-          "MDF/particle board",
-          "acrylic/laminate",
-          "metal",
-          "synthetic leatherette"
+          "Wood",
+          "MDF or particleboard",
+          "Metal",
+          "Glass"
         ],
-        "lighting": "soft, ambient light from ceiling, natural light from window",
-        "texture": [
-          "smooth",
-          "glossy",
-          "textured walls"
-        ]
+        "lighting": "Natural light from an unseen window, supplemented by indoor lighting",
+        "texture": "Smooth surfaces with slight textural elements from the wood and glass"
       },
       "indian_context": {
-        "regional_style": "no specific regional style present",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "contemporary interpretation of Indian design elements"
+        "regional_style": "Not explicitly indicative of a specific regional style",
+        "traditional_elements": [
+          "Decorative shelves",
+          "Integrated mirror"
         ],
-        "space_utilization": "efficient use of vertical space with built-in furniture",
-        "cultural_significance": "no overt cultural elements, but modern adaptations of Indian design aesthetics"
+        "modern_adaptations": [
+          "Built-in design",
+          "Modern furniture with traditional influences"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage and a compact workspace",
+        "cultural_significance": "No specific cultural elements but a blend of modern and traditional design aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.85,
-      "theme": 0.8,
-      "primary_features": 0.9,
-      "objects": 0.95,
-      "indian_context": 0.75
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
     },
-    "description": "This image depicts a modern home office space with a contemporary design. The room features a custom-built shelving unit with a white desk and green accents, a modern chair with brown leatherette, and a sliding door cabinet with shelving. The space is designed with an efficient use of vertical space, and the overall aesthetic is a mix of modern and Indian design elements, such as the use of white and green colors and materials with glossy finishes. The lighting is soft and ambient, complementing the neutral and vibrant tones used in the room. The space is well-organized, with a focus on functionality and comfort.",
+    "description": "The image showcases a modern Indian home office characterized by a sleek built-in desk with storage, green accent walls, and decorative shelves. The space incorporates contemporary furniture with traditional Indian design elements, such as integrated shelves and a mirror. The color palette of beige, green, and white creates a clean and sophisticated look, typical of modern Indian interior design. The space is well-lit with a combination of natural and artificial light, enhancing the contemporary aesthetic.",
     "metadata": {
       "tags": [
-        "contemporary home office",
-        "modern design",
-        "efficiency",
-        "custom built-in furniture",
-        "indian design aesthetics"
+        "Home office",
+        "Modern Indian",
+        "Built-in design",
+        "Green accents",
+        "Decorative shelves"
       ],
-      "budget_indicator": "moderate, with modern materials and finishes",
-      "space_type": "residential",
-      "functionality": "work and storage",
-      "indian_specific": "modern adaptation of Indian design elements"
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Work and storage",
+      "indian_specific": "Combination of modern furniture with traditional architectural elements"
     }
   },
-  "cached_at": 1753181240523,
+  "cached_at": 1753275317484,
   "cache_key": "61bdc21ff148387341889b5b7d077b4b"
 }

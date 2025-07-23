@@ -1,0 +1,138 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.30%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_076",
+    "ai_generated_tags": {
+      "room": "Home office",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Built-in cabinets",
+        "TV console",
+        "Curtained window",
+        "Seating area",
+        "Decorative elements"
+      ],
+      "objects": [
+        {
+          "type": "Built-in cabinets",
+          "features": [
+            "Wooden finish",
+            "Glass doors",
+            "Organized shelving"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Smooth wooden paint with glass panels"
+        },
+        {
+          "type": "TV console",
+          "features": [
+            "Integrated storage",
+            "Wooden finish",
+            "Laminate top"
+          ],
+          "materials": [
+            "Wood",
+            "Laminate"
+          ],
+          "finish": "Rich wood tone with laminate top"
+        },
+        {
+          "type": "Curtained window",
+          "features": [
+            "White sheer curtains",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Cloth",
+            "Wood"
+          ],
+          "finish": "Sheer fabric with wooden frame"
+        },
+        {
+          "type": "Seating area",
+          "features": [
+            "Woven chair",
+            "Cushion",
+            "Checkerboard pillow"
+          ],
+          "materials": [
+            "Woven material",
+            "Textile",
+            "Textile"
+          ],
+          "finish": "Woven texture with cushion and pillow"
+        },
+        {
+          "type": "Decorative elements",
+          "features": [
+            "Wall-mounted shelf",
+            "Decorative vase"
+          ],
+          "materials": [
+            "Metal",
+            "Plastic"
+          ],
+          "finish": "Metallic and glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Beige",
+          "Brown",
+          "Black",
+          "Natural wood"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Metal",
+          "Plastic",
+          "Laminate",
+          "Cloth"
+        ],
+        "lighting": "Natural light from window, ambient lighting from room",
+        "texture": "Smooth wood, glass, metallic, woven, and soft fabric"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Wooden cabinetry",
+          "Glass doors"
+        ],
+        "modern_adaptations": [
+          "Contemporary shapes and finishes"
+        ],
+        "space_utilization": "Efficient use of space with multi-functional furniture",
+        "cultural_significance": "Integration of traditional materials with modern aesthetics to create a culturally relevant space"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This home office space showcases a contemporary interpretation of traditional Indian design elements, with a focus on wooden cabinetry and glass doors. The use of natural light from the window and soft fabrics creates a bright and inviting ambiance. The space utilizes traditional materials like wood in a modern context, incorporating elements such as an intricately designed glass panel and woven seating, reflecting North Indian regional influences. The layout is efficient, with multi-functional furniture that maximizes space and functionality.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Home office",
+        "Wooden cabinetry",
+        "Glass doors",
+        "Natural lighting",
+        "Cultural relevance"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Work and relaxation area",
+      "indian_specific": "Integration of traditional materials with modern design"
+    }
+  },
+  "cached_at": 1753275156372,
+  "cache_key": "3cd8cce43d2ff2c25785c8d7cf8bb498"
+}

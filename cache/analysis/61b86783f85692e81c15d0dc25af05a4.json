@@ -3,69 +3,78 @@
   "analysis": {
     "image_id": "img_082",
     "ai_generated_tags": {
-      "room": "Entryway",
+      "room": "Hallway",
       "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Polka dot wallpaper",
-        "Sliding glass and black metal door",
-        "uilt-in shelving with decorative items"
+        "Polka Dot Wallpaper",
+        "Sliding Door with Frosted Glass Panels",
+        "Marble Flooring"
       ],
       "objects": [
         {
-          "type": "Shelving unit",
+          "type": "Sliding Door",
           "features": [
-            "Decorative items, books, star decor"
+            "Frosted Glass Panels",
+            "Black Frame"
           ],
           "materials": [
-            "Wood, glass, metal"
+            "Glass",
+            "Metal"
           ],
-          "finish": "Matte, glossy surfaces"
+          "finish": "Glossy and matte finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, black, orange, green, gold"
+          "White",
+          "Multicolored Dots",
+          "Coral",
+          "Green",
+          "Orange",
+          "Beige"
         ],
         "materials": [
-          "Metal, glass, wood"
+          "Marble",
+          "Glass",
+          "Metal"
         ],
-        "lighting": "Natural light from behind the glass, ambient indoor lighting",
-        "texture": "Smooth, glossy, textured (wallpaper)"
+        "lighting": "Natural light with ambient indoor lighting",
+        "texture": "Smooth surfaces with the exception of the wallpaper"
       },
       "indian_context": {
-        "regional_style": "Not explicitly Indian regional style",
+        "regional_style": "Not distinctly regional",
         "traditional_elements": [
-          "Not traditional, but inspired by Indian color palettes"
+          "Polka Dot Pattern"
         ],
         "modern_adaptations": [
-          "Contemporary take on traditional Indian color schemes"
+          "Use of Frosted Glass for Privacy and Contemporary Look"
         ],
-        "space_utilization": "Efficient use of sliding door for room separation",
-        "cultural_significance": "Indian-inspired color palette may symbolize vibrancy and cultural richness"
+        "space_utilization": "The space is designed for visual separation and privacy between rooms",
+        "cultural_significance": "The polka dot pattern adds a touch of Indian aesthetics, often seen in traditional garments and modern decor"
       },
       "confidence_scores": {
-        "room": 0.8,
-        "theme": 0.7,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.75
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The image shows a contemporary entryway with Indian design influences, featuring a sliding glass door with a black metal frame. The space includes built-in shelving with decorative items, which is an efficient use of space. The polka dot wallpaper, while not traditional, contributes to the Indian aesthetic with its vibrant and bold color palette. The use of wood, glass, and metal materials adds a modern touch to the design.",
+      "description": "The image depicts a contemporary hallway with Indian-inspired elements. The space features a polka dot wallpaper with a mix of green and beige dots, a sliding door with frosted glass panels and a black frame, and marble flooring. The door design, with its modern frosted glass panels, reflects a blend of traditional and modern Indian interior design principles. The wallpaper pattern subtly echoes traditional Indian textiles, adding a cultural touch to the otherwise modern space.",
       "metadata": {
         "tags": [
-          "Entryway",
-          "Contemporary Design",
-          "Indian Color Palette",
-          "Sliding Door",
-          "Built-in Shelving"
+          "Contemporary",
+          "Indian Influences",
+          "Polka Dot Wallpaper",
+          "Frosted Glass Door",
+          "Marble Flooring"
         ],
-        "budget_indicator": "Moderate, with visible use of glass and metal for modern design",
-        "space_type": "Residential Entryway",
-        "functionality": "Organized and functional space that separates the entrance from the interior",
-        "indian_specific": "Use of vibrant colors and modern adaptations of traditional Indian design elements"
+        "budget_indicator": "Mid-range to High",
+        "space_type": "Hallway",
+        "functionality": "Visual separation and privacy between rooms",
+        "indian_specific": "Polka Dot Wallpaper"
       }
     }
   },
-  "cached_at": 1753181239244,
+  "cached_at": 1753275251660,
   "cache_key": "61b86783f85692e81c15d0dc25af05a4"
 }

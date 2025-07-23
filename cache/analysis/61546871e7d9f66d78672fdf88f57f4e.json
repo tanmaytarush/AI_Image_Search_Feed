@@ -1,0 +1,125 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.07%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_072",
+    "ai_generated_tags": {
+      "room": "Entrance Hall",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Marble flooring",
+        "Wooden doors",
+        "Green and white shoe rack",
+        "Circular mirror",
+        "Cupboard with glass doors",
+        "Modern hanging light",
+        "Open kitchen space"
+      ],
+      "objects": [
+        {
+          "type": "Shoe rack",
+          "features": [
+            "Green color with white panels",
+            "Metallic handles"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Cupboard",
+          "features": [
+            "White color with green doors",
+            "Glass panels"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Circular mirror",
+          "features": [
+            "Gold rim",
+            "Circular shape"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Shiny gold"
+        },
+        {
+          "type": "Hanging light",
+          "features": [
+            "Gold chains",
+            "White globes"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Textured gold"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Brown",
+          "Pink",
+          "Marble beige",
+          "Gold"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural lighting with modern ceiling lights",
+        "texture": "Smooth marble flooring, matte cupboard doors, shiny gold mirror frame"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Wooden doors with traditional design",
+          "Circular mirror"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design",
+          "Open kitchen concept"
+        ],
+        "space_utilization": "Efficient use of space with clear demarcation between different zones",
+        "cultural_significance": "Use of traditional elements like the circular mirror and wooden doors, combined with modern adaptations and a clean, open layout"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space is a modern Indian entrance hall with a contemporary design. It features a marble floor, wooden doors, and a green and white shoe rack with metal handles. A circular mirror with a gold frame adds a traditional touch, while modern hanging lights provide illumination. The kitchen area in the background showcases a pink cabinet and white marble countertop, creating a blend of traditional and modern elements. The space is organized with a clear view of the kitchen and a demarcation between the entrance and living areas.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Contemporary fusion",
+        "Marble flooring",
+        "Wooden doors",
+        "Circular mirror",
+        "Modern hanging light",
+        "Open kitchen"
+      ],
+      "budget_indicator": "Mid-range, utilizing materials like marble and glass in the shoe rack and cupboard, as well as modern lighting fixtures.",
+      "space_type": "Residential, specifically a home with a focus on interior design.",
+      "functionality": "Entryway space with an integrated kitchen area, designed for both aesthetic appeal and practical use.",
+      "indian_specific": "Traditional elements like the circular mirror and wooden doors are incorporated into a modern design setting."
+    }
+  },
+  "cached_at": 1753275087689,
+  "cache_key": "61546871e7d9f66d78672fdf88f57f4e"
+}

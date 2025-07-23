@@ -3,65 +3,73 @@
   "analysis": {
     "image_id": "img_037",
     "ai_generated_tags": {
-      "room": "bedroom",
-      "theme": "contemporary",
+      "room": "Bedroom",
+      "theme": "Minimalist",
       "primary_features": [
-        "fitted wardrobe system"
+        "Wardrobe with sliding doors",
+        "Built-in storage",
+        "Simple furniture design"
       ],
       "objects": [
         {
-          "type": "wardrobe",
+          "type": "Wardrobe",
           "features": [
-            "fitted with sliding doors, multiple compartments, and drawers"
+            "Sliding doors",
+            "Integrated shelves",
+            "Drawers"
           ],
           "materials": [
-            "wood, melamine"
+            "MDF",
+            "Metal"
           ],
-          "finish": "smooth, glossy finish"
+          "finish": "Matte and glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white, gray, brown"
+          "White",
+          "Grey",
+          "Black",
+          "Brown"
         ],
         "materials": [
-          "wood, melamine, glass"
+          "MDF",
+          "Metal"
         ],
-        "lighting": "even lighting, no visible light sources",
-        "texture": "smooth surfaces, glossy finish"
+        "lighting": "Natural light from the right side",
+        "texture": "Smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "not applicable",
+        "regional_style": "Not distinctly Indian regional style",
         "traditional_elements": [],
         "modern_adaptations": [
-          "contemporary design with Indian influences"
+          "Integration of modern materials and contemporary design"
         ],
-        "space_utilization": "efficient use of space, maximizing storage",
-        "cultural_significance": "functional and practical, no cultural elements present"
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Minimalist design reflects modern Indian aesthetic trends"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.75
+      },
+      "description": "The image depicts a minimalist bedroom with a modern wardrobe and built-in storage. The design utilizes a combination of white, grey, and black, with smooth finishes. The wardrobes are fitted with sliding doors and drawers, emphasizing functionality and space optimization. There are no traditional Indian elements, reflecting a contemporary style that is popular in current Indian interior design trends.",
+      "metadata": {
+        "tags": [
+          "Minimalist bedroom",
+          "Modern design",
+          "Built-in storage",
+          "Contemporary style"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Bedroom",
+        "functionality": "Storage and organization",
+        "indian_specific": "Modern interpretation of contemporary design"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image depicts a contemporary designed bedroom with a fitted wardrobe system. The wardrobe features sliding doors, multiple compartments, and drawers, primarily constructed with wood and melamine. The color palette consists of white, gray, and brown, creating a modern and minimalist look. The smooth, glossy finish of the materials adds a touch of elegance to the space. The contemporary design subtly incorporates Indian influences, such as the choice of wood and the overall functionality, which is a common practice in modern Indian interior design.",
-    "metadata": {
-      "tags": [
-        "bedroom",
-        "wardrobe",
-        "contemporary design",
-        "Indian contemporary",
-        "functional storage"
-      ],
-      "budget_indicator": "moderate",
-      "space_type": "residential bedroom",
-      "functionality": "storage and organization",
-      "indian_specific": "contemporary style with Indian wood usage"
     }
   },
-  "cached_at": 1753181142008,
+  "cached_at": 1753274443533,
   "cache_key": "7499faa1e181167cb800126fe4054520"
 }

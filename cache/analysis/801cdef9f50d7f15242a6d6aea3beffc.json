@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.22%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_048",
+    "ai_generated_tags": {
+      "room": "living space or entrance hall",
+      "theme": "contemporary Indian",
+      "primary_features": [
+        "marble flooring",
+        "wooden paneling",
+        "lighting fixtures"
+      ],
+      "objects": [
+        {
+          "type": "partition wall",
+          "features": [
+            "wooden paneling and glass panes",
+            "carved wooden designs"
+          ],
+          "materials": [
+            "wood (likely teak or similar)",
+            "glass"
+          ],
+          "finish": "polished and glossy"
+        },
+        {
+          "type": "lighting fixture",
+          "features": [
+            "ceiling-mounted",
+            "modern design with subtle patterns"
+          ],
+          "materials": [
+            "metallic finish"
+          ],
+          "finish": "shiny, reflecting light"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white walls",
+          "dark wood tones",
+          "gray marble flooring",
+          "red accents"
+        ],
+        "materials": [
+          "wood",
+          "glass",
+          "marble"
+        ],
+        "lighting": "neutral lighting with some accent lighting from fixtures",
+        "texture": "smooth surfaces with polished finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly influenced by a specific regional style",
+        "traditional_elements": [
+          "wooden partition wall with carved designs"
+        ],
+        "modern_adaptations": [
+          "contemporary lighting fixtures and space layout"
+        ],
+        "space_utilization": "The space is organized as a continuous area with minimal furniture, maximizing open floor space",
+        "cultural_significance": "The use of wood and glass in partitions represents traditional craftsmanship and modern aesthetic integration"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The space is a contemporary Indian living area or entrance hall, featuring a polished marble floor, wooden partition walls with intricate designs, and modern lighting fixtures. The design blends traditional Indian elements like wood and glass partitions with a modern aesthetic, creating a welcoming and stylish environment.",
+      "metadata": {
+        "tags": [
+          "contemporary Indian",
+          "polished marble",
+          "wooden partition",
+          "modern lighting",
+          "open space"
+        ],
+        "budget_indicator": "Moderate to high, due to the use of marble flooring and polished wooden elements",
+        "space_type": "living space or entrance hall",
+        "functionality": "primary purpose is to serve as a main entryway and living area with minimal furniture to maximize space",
+        "indian_specific": "notations on wood partition and glass elements"
+      }
+    }
+  },
+  "cached_at": 1753274803428,
+  "cache_key": "801cdef9f50d7f15242a6d6aea3beffc"
+}

@@ -1,0 +1,95 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00728.JPG",
+  "analysis": {
+    "image_id": "img_097",
+    "ai_generated_tags": {
+      "room": "Entryway/Hallway",
+      "theme": "Modern with Indian Influences",
+      "primary_features": [
+        "Modern sliding doors with geometric patterns",
+        "Round mirror with wooden panel"
+      ],
+      "objects": [
+        {
+          "type": "Sliding doors",
+          "features": [
+            "Geometric patterns in gold and silver",
+            "Modern design with sleek handles"
+          ],
+          "materials": [
+            "Painted wood or MDF",
+            "Metallic finish for patterns"
+          ],
+          "finish": "Glossy and reflective"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Circular shape",
+            "Wooden frame with vertical slats"
+          ],
+          "materials": [
+            "Glass",
+            "Painted wood"
+          ],
+          "finish": "Glossy and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "Silver",
+          "Brown",
+          "Light marble"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass",
+          "Marble"
+        ],
+        "lighting": "Natural light with enhanced by indoor lighting",
+        "texture": "Smooth surfaces with glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style visible, but modern interpretations of Indian design elements",
+        "traditional_elements": [
+          "Geometric patterns reminiscent of Indian motifs",
+          "Wooden paneling"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with contemporary materials",
+          "Integration of traditional elements into modern aesthetic"
+        ],
+        "space_utilization": "Efficient use of space with functional incorporation of decorative elements",
+        "cultural_significance": "The use of geometric patterns and wooden elements reflects an appreciation for traditional craftsmanship and design aesthetics in Indian homes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern entryway or hallway featuring sliding doors with geometric patterns and a circular mirror with a wooden frame. The space utilizes a combination of white, gold, silver, brown, and light marble colors, creating a clean and contemporary look with traditional Indian influences. The design showcases a blend of minimalism and cultural aesthetics, with the geometric patterns and wooden slats reflecting a traditional touch. The space is well-lit with natural and artificial light, emphasizing the glossy surfaces and smooth textures of the materials used.",
+    "metadata": {
+      "tags": [
+        "Modern Design",
+        "Indian Influences",
+        "Entryway",
+        "Sliding Doors",
+        "Geometric Patterns",
+        "Wooden Paneling",
+        "Circular Mirror"
+      ],
+      "budget_indicator": "Moderate to high, due to the use of modern materials and finishes",
+      "space_type": "Residential Entryway",
+      "functionality": "Space for entry and transition between rooms",
+      "indian_specific": "Geometric patterns and wooden paneling"
+    }
+  },
+  "cached_at": 1753275620346,
+  "cache_key": "1de4fba65d8e3eb463bbf47ebf077258"
+}

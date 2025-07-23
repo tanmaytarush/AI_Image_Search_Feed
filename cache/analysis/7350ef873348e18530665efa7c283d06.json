@@ -3,76 +3,85 @@
   "analysis": {
     "image_id": "img_022",
     "ai_generated_tags": {
-      "room": "Bedroom with Study Area",
+      "room": "Bedroom",
       "theme": "Minimalist Modern",
       "primary_features": [
-        "Built-in Wardrobe",
-        "Desk with Chair",
-        "Open Shelving"
+        "Built-in wardrobe",
+        "Desk and chair",
+        "Open shelving"
       ],
       "objects": [
         {
           "type": "Desk",
           "features": [
-            "Wooden Top",
-            "Integrated Drawer"
+            "Compact design",
+            "Integrated storage underneath"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "Wooden surface",
+            "Metal frame"
           ],
-          "finish": "Satin Finish"
+          "finish": "Matte finish on desk and metal frame"
         },
         {
           "type": "Chair",
           "features": [
-            "Textured Upholstery",
-            "Metal Frame"
+            "Fiber seat",
+            "Metal frame"
           ],
           "materials": [
-            "Textile",
-            "Metal"
+            "Fiber seat",
+            "Metal frame"
           ],
-          "finish": "Matte Finish"
+          "finish": "Textured seat and metallic finish"
         },
         {
           "type": "Wardrobe",
           "features": [
-            "Sliding Doors",
-            "Integrated Shelving"
+            "Tall vertical design",
+            "Sliding doors"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "Wooden panels"
           ],
-          "finish": "Painted Finish"
+          "finish": "Smooth finish on wooden panels"
+        },
+        {
+          "type": "Open shelving",
+          "features": [
+            "Built-in design",
+            "Organized storage"
+          ],
+          "materials": [
+            "Wooden shelves"
+          ],
+          "finish": "Natural wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Light Wood",
-          "Grey"
+          "Natural wood",
+          "Metallic",
+          "Neutral"
         ],
         "materials": [
           "Wood",
           "Metal",
-          "Textile"
+          "Plastic"
         ],
-        "lighting": "Indirect Lighting",
-        "texture": "Smooth"
+        "lighting": "Indirect lighting, likely from ceiling fixtures",
+        "texture": "Smooth, matte, and natural wood textures"
       },
       "indian_context": {
-        "regional_style": "Modular Bedroom Design",
-        "traditional_elements": [
-          "No Traditional Elements"
-        ],
+        "regional_style": "Minimalist",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Integrated Storage Solutions",
-          "Compact Design"
+          "Contemporary interpretation of traditional Indian furniture elements",
+          "Use of modern materials like metal and plastic"
         ],
-        "space_utilization": "Efficient Use of Space",
-        "cultural_significance": "No Cultural Significance Specific to Indian Context"
+        "space_utilization": "Efficient use of vertical space for storage, maintaining a clean and organized aesthetic",
+        "cultural_significance": "The design reflects a modern approach to Indian interior design, focusing on functionality and simplicity without traditional Indian elements"
       }
     },
     "confidence_scores": {
@@ -82,21 +91,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image showcases a modern minimalist bedroom with a built-in wardrobe and a desk with a chair, all integrated into a single unit. The design emphasizes clean lines and efficient use of space, with a color palette that includes white, light wood, and grey tones. The desk is equipped with a wooden top and integrated drawer, while the chair boasts textured upholstery with a metallic frame. The wardrobe features sliding doors and integrated shelving, all painted in a light wood finish.",
+    "description": "This image showcases a minimalist modern bedroom with a clean and organized aesthetic. The focal point is a built-in wardrobe with sliding doors and a desk and chair setup. The design emphasizes storage and functionality with open shelving for books and decorative items. The color palette consists of white, natural wood, metallic accents, and neutral tones, creating a contemporary and serene environment.",
     "metadata": {
       "tags": [
         "Minimalist",
         "Modern",
         "Bedroom",
-        "Built-in Storage",
-        "Integrated Design"
+        "Storage",
+        "Organized"
       ],
       "budget_indicator": "Moderate",
       "space_type": "Bedroom",
-      "functionality": "Living and Working",
-      "indian_specific": "No Indian-Specific Features"
+      "functionality": "Primary use as a workspace and storage area",
+      "indian_specific": "No specific Indian design features are present"
     }
   },
-  "cached_at": 1753179501732,
+  "cached_at": 1753274234563,
   "cache_key": "7350ef873348e18530665efa7c283d06"
 }

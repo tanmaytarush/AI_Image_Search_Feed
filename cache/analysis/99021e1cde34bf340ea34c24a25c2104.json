@@ -1,0 +1,118 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00655.JPG",
+  "analysis": {
+    "image_id": "img_092",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden partition",
+        "LED wall lights",
+        "Buddha statue",
+        "Artwork"
+      ],
+      "objects": [
+        {
+          "type": "Wooden Partition",
+          "features": [
+            "Vertical slats",
+            "Warm wood finish"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "LED Wall Lights",
+          "features": [
+            "Circular design",
+            "Gold accents",
+            "Modern look"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Brushed gold"
+        },
+        {
+          "type": "Buddha Statue",
+          "features": [
+            "White ceramic",
+            "Seated position",
+            "Detailed craftsmanship"
+          ],
+          "materials": [
+            "Ceramic"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Artwork",
+          "features": [
+            "Canvas painting of horses",
+            "Vibrant colors",
+            "Religious iconography"
+          ],
+          "materials": [
+            "Canvas, acrylic"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Warm wood tones",
+          "White ceramic",
+          "Gold accents",
+          "Vibrant horse painting"
+        ],
+        "materials": [
+          "Teak wood",
+          "Ceramic",
+          "Metal",
+          "Marble"
+        ],
+        "lighting": "Warm and ambient LED lights creating a cozy atmosphere",
+        "texture": "Smooth wooden slats, glossy ceramic, metallic accents"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident",
+        "traditional_elements": [
+          "Wooden partition",
+          "Buddha statue"
+        ],
+        "modern_adaptations": [
+          "LED wall lights",
+          "Marble wall accents"
+        ],
+        "space_utilization": "Efficient use of vertical space with a wooden partition and decorative elements",
+        "cultural_significance": "Buddha statue and artwork represent spiritual or religious themes common in Indian homes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern interpretation of Indian interior design in a living room. The space features a warm wooden partition with vertical slats, creating an inviting and cozy atmosphere. LED wall lights in a contemporary design add a modern touch. A white ceramic Buddha statue and a vibrant painting of running horses add traditional elements, while the use of marble wall accents and metallic finishes provides a modern twist. The space is well-organized, utilizing vertical space efficiently, and the cultural relevance is evident in the religious iconography and traditional furniture styles.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Contemporary Indian",
+        "Wooden Partition",
+        "LED Wall Lights",
+        "Buddha Statue",
+        "Artwork"
+      ],
+      "budget_indicator": "Mid-range, with use of teak wood and modern lighting fixtures, suggesting a moderate budget.",
+      "space_type": "Residential Living Room",
+      "functionality": "Primary function as a living space for relaxation and entertainment, with decorative elements for spiritual or cultural significance.",
+      "indian_specific": "Wooden partition, Buddha statue, and religious artwork"
+    }
+  },
+  "cached_at": 1753275496106,
+  "cache_key": "99021e1cde34bf340ea34c24a25c2104"
+}

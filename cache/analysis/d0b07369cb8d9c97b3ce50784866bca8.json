@@ -4,114 +4,121 @@
     "image_id": "img_017",
     "ai_generated_tags": {
       "room": "Living and Dining Area",
-      "theme": "Contemporary Indian Minimalism",
+      "theme": "Contemporary",
       "primary_features": [
         "Glass coffee table",
-        "Modern sofa set",
-        "Marble counter",
-        "Dining area with modern chairs"
+        "L-shaped sofa",
+        "Dining table with upholstered chairs",
+        "Wine rack with glass shelves"
       ],
       "objects": [
         {
           "type": "Glass coffee table",
           "features": [
-            "Round shape",
-            "Metal frame"
+            "Circular shape",
+            "Transparent glass top",
+            "Metal frame with wood accents"
           ],
           "materials": [
             "Glass",
-            "Metal"
+            "Metal",
+            "Wood"
           ],
-          "finish": "Smooth glass top with metallic edge"
+          "finish": "Metallic and wood"
         },
         {
-          "type": "Modern sofa set",
+          "type": "L-shaped sofa",
           "features": [
-            "L-shaped design",
-            "Patterned cushions",
-            "Neutral upholstery"
+            "Gray fabric upholstery",
+            "Throw pillows with patterned and solid colors",
+            "Tufted detailing"
           ],
           "materials": [
-            "Fabric"
+            "Fabric",
+            "Filled cushioning"
           ],
-          "finish": "Smooth texture, soft touch"
+          "finish": "Soft and textured"
         },
         {
-          "type": "Marble counter",
+          "type": "Dining table",
           "features": [
-            "Decorative pattern",
-            "Cabinet underneath"
+            "Rectangular shape",
+            "Marble top",
+            "Metal legs with wood accents"
           ],
           "materials": [
-            "Marble"
+            "Marble",
+            "Metal",
+            "Wood"
           ],
-          "finish": "Polished marble surface"
+          "finish": "Shiny and polished"
         },
         {
-          "type": "Dining area with modern chairs",
+          "type": "Wine rack",
           "features": [
-            "Rectangle table",
-            "Metallic legs",
-            "Soft upholstery"
+            "Wall-mounted",
+            "Open shelves with gold accents",
+            "Glass storage for bottles"
           ],
           "materials": [
             "Metal",
-            "Fabric"
+            "Glass"
           ],
-          "finish": "Metallic frame, soft upholstery"
+          "finish": "Metallic"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Gray",
-          "Brown",
+          "Black",
           "Gold",
-          "Neutral"
+          "Brown"
         ],
         "materials": [
-          "Marble",
           "Glass",
           "Metal",
+          "Marble",
+          "Wood",
           "Fabric"
         ],
-        "lighting": "Natural lighting from unseen windows",
-        "texture": "Smooth surfaces with a mix of metallic, glass, and fabric textures"
+        "lighting": "Indirect lighting from ceiling fixtures",
+        "texture": "Smooth surfaces with some tufted textures"
       },
       "indian_context": {
-        "regional_style": "Not specifically indicative of a regional style",
+        "regional_style": "Not directly identifiable",
         "traditional_elements": [
           "No traditional Indian elements visible"
         ],
         "modern_adaptations": [
-          "Minimalist design with modern furniture and materials"
+          "Contemporary adaptation of materials and furniture styles"
         ],
-        "space_utilization": "Open plan with kitchen, living, and dining area seamlessly integrated",
-        "cultural_significance": "No traditional Indian cultural elements present"
+        "space_utilization": "Open and functional layout with clear separation of zones",
+        "cultural_significance": "No specific cultural elements relevant to Indian design are present"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.65,
+      "theme": 0.78,
+      "primary_features": 0.85,
+      "objects": 0.8,
+      "indian_context": 0.5
     },
-    "description": "The image showcases a modern Indian interior with a contemporary design approach. The living room features a stylish glass coffee table with a metallic frame, complementing a modern L-shaped sofa with patterned cushions. The dining area is seamlessly integrated into the living space, featuring a rectangular marble counter with a simple cabinet underneath. The room is well-lit with natural light, emphasizing clean lines and neutral tones, while modern materials like marble, glass, and metal are used throughout. The space is designed for both functionality and aesthetics, blending contemporary Indian design with minimalistic elements.",
+    "description": "This interior space features a modern and minimalist design approach, with a clean and functional layout. The living area includes a L-shaped sofa with a contemporary style, adorned with patterned and solid color throw pillows. The dining area showcases a sleek marble dining table with metal and wood accents, complemented by upholstered chairs. A wall-mounted wine rack with gold accents adds a touch of elegance. The room also features a glass coffee table and a round side table, with a subtle blend of textures and colors, creating a harmonious and inviting living space. The overall design leans towards a contemporary style with no specific Indian regional influences or traditional elements present.",
     "metadata": {
       "tags": [
-        "Modern Indian Interior",
+        "Modern Living",
         "Contemporary Design",
-        "Minimalist Living",
+        "Minimalist Interior",
         "Glass Furniture",
-        "Marble Counters"
+        "Marble Dining"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential Living Area",
-      "functionality": "Mixed-use living and dining space",
-      "indian_specific": "No traditional Indian design features"
+      "budget_indicator": "Moderate to High (due to use of marble and metal finishes)",
+      "space_type": "Apartment or Condo",
+      "functionality": "Living and Dining Area",
+      "indian_specific": "No Indian-specific design features are evident; the space leans towards a modern, global design style"
     }
   },
-  "cached_at": 1753182359216,
+  "cached_at": 1753274132861,
   "cache_key": "d0b07369cb8d9c97b3ce50784866bca8"
 }

@@ -1,0 +1,130 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.48%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_081",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in shelves with star decorations",
+        "Polka dot wallpaper",
+        "Rabbit-shaped bed frame",
+        "Desk with chair",
+        "Floral bedding"
+      ],
+      "objects": [
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Orange and beige color scheme",
+            "Open and closed storage compartments",
+            "Star-shaped metal decorations"
+          ],
+          "materials": [
+            "Wooden shelves",
+            "Metal for star decorations"
+          ],
+          "finish": "Shiny, reflective finish on shelves and metallic stars, matte finish on wooden elements"
+        },
+        {
+          "type": "Wallpaper",
+          "features": [
+            "White background with multicolored polka dots"
+          ],
+          "materials": [
+            "Wallpaper"
+          ],
+          "finish": "Smooth texture"
+        },
+        {
+          "type": "Bed frame",
+          "features": [
+            "Rabbit shape design",
+            "Rounded edges",
+            "Velvet-like finish on the top part"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Velvet upholstery"
+          ],
+          "finish": "Soft and textured finish"
+        },
+        {
+          "type": "Desk",
+          "features": [
+            "Green and white color scheme",
+            "Integrated storage space",
+            "Desk lamp"
+          ],
+          "materials": [
+            "Wooden desk",
+            "Metal legs"
+          ],
+          "finish": "Matte finish on desk and shiny finish on metal legs"
+        },
+        {
+          "type": "Chair",
+          "features": [
+            "White base",
+            "Orange seat cushion",
+            "Swivel mechanism"
+          ],
+          "materials": [
+            "Plastic base",
+            "Fabric seat cushion",
+            "Metal swivel mechanism"
+          ],
+          "finish": "Glossy finish on plastic, soft fabric texture on cushion"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, orange, beige, green, multicolored polka dots, floral pattern"
+        ],
+        "materials": [
+          "Wood, metal, fabric, wallpaper"
+        ],
+        "lighting": "Natural light coming from the window, additional light from a desk lamp",
+        "texture": [
+          "Smooth, shiny, matte, soft"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian with influences from traditional elements",
+        "traditional_elements": [
+          "Polka dot pattern (inspired by traditional Indian fabrics)",
+          "Rabbit-shaped bed frame (modern adaptation of traditional furniture designs)"
+        ],
+        "modern_adaptations": [
+          "Integration of technology (desk lamp)",
+          "Use of contemporary materials (fabric for seating, metal for desk legs)"
+        ],
+        "space_utilization": "Efficient use of space with built-in shelves and a desk integrated into the wall",
+        "cultural_significance": "The polka dot pattern and the floral bedding reflect traditional Indian textiles, while the modern rabbit-shaped bed frame adds a playful and contemporary touch"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian bedroom features a playful and contemporary design with a rabbit-shaped bed frame, a desk integrated into the wall, and built-in shelves with star decorations. The room incorporates traditional Indian elements like the polka dot pattern and floral bedding in a contemporary context. The use of wood, metal, and fabric reflects a blend of traditional and modern materials, creating a visually appealing and functional space.",
+    "metadata": {
+      "tags": [
+        "Modern Indian design",
+        "Children's bedroom",
+        "Polka dot wallpaper",
+        "Rabbit-shaped bed",
+        "Built-in shelves"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Children's bedroom",
+      "functionality": "Sleeping and study area",
+      "indian_specific": "Polka dot pattern, floral bedding, built-in shelves with star decorations"
+    }
+  },
+  "cached_at": 1753275219698,
+  "cache_key": "58778d572f88b82d44885b26d1679c93"
+}

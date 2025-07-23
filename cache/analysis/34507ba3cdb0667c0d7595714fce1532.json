@@ -6,106 +6,118 @@
       "room": "Bedroom",
       "theme": "Minimalist",
       "primary_features": [
-        "Sliding wardrobe doors",
-        "Built-in storage cabinets",
-        "Window with curtains",
-        "Wooden flooring"
+        "Built-in wardrobe with sliding doors",
+        "Wooden flooring",
+        "Window with curtains"
       ],
       "objects": [
         {
-          "type": "Sliding wardrobe doors",
+          "type": "Built-in wardrobe",
           "features": [
-            "Modern design with geometric patterns",
-            "Silver metallic accents"
+            "Sliding doors with a grid pattern",
+            "Lighting above the doors",
+            "Beige and white color scheme"
           ],
           "materials": [
-            "MDF with glossy finish"
+            "Wood",
+            "Painted finish"
           ],
-          "finish": "Glossy"
+          "finish": "Satin or matte"
         },
         {
-          "type": "Built-in storage cabinets",
+          "type": "Window",
           "features": [
-            "Cubed design with neutral tones",
-            "Integrated lighting within the cabinetry"
+            "Natural light entrance",
+            "Curtains with a mix of blue and beige"
           ],
           "materials": [
-            "MDF with paint finish"
+            "Fabric"
           ],
-          "finish": "Matte"
+          "finish": "Textured"
         },
         {
-          "type": "Window with curtains",
+          "type": "Window sill",
           "features": [
-            "Simple design with a mix of blue and beige tones"
-          ],
-          "materials": [
-            "Curtains made of fabric"
-          ],
-          "finish": "Standard"
-        },
-        {
-          "type": "Wooden flooring",
-          "features": [
-            "Natural wood grain texture",
-            "Warm brown color"
+            "Wooden paneling"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Natural varnish"
+          "finish": "Natural finish"
+        },
+        {
+          "type": "Flooring",
+          "features": [
+            "Wooden panels with a warm tone"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Satin or matte"
+        },
+        {
+          "type": "Seating",
+          "features": [
+            "Built-in bench with a cushion"
+          ],
+          "materials": [
+            "Painted wood",
+            "Cushion fabric"
+          ],
+          "finish": "Satin or matte, textured"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
           "Beige",
+          "White",
           "Blue",
-          "Brown",
-          "Silver"
+          "Beige",
+          "Brown"
         ],
         "materials": [
-          "MDF",
+          "Wood",
+          "Painted wood",
           "Fabric",
-          "Wood"
+          "Metal"
         ],
-        "lighting": "Natural light from a window with recessed lights above the wardrobes",
-        "texture": "Glossy, matte, fabric, natural wood grain"
+        "lighting": "Natural light from the window",
+        "texture": "Smooth surfaces with a few textured areas"
       },
       "indian_context": {
-        "regional_style": "Not indicative of a specific regional Indian style",
+        "regional_style": "Not specific to any Indian regional style",
         "traditional_elements": [
-          "No traditional Indian elements visible"
+          "No traditional Indian elements"
         ],
         "modern_adaptations": [
-          "The design is modern and minimalistic with no traditional Indian adaptations"
+          "Modern interpretation of traditional Indian design elements, such as the grid pattern on the wardrobe"
         ],
-        "space_utilization": "The space is optimized for storage with built-in cabinets and a sliding wardrobe door",
-        "cultural_significance": "No cultural elements specific to Indian interiors are present"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.8
-      },
-      "description": "The image depicts a modern, minimalist bedroom with a focus on practical storage solutions. The sliding wardrobe doors and built-in storage cabinets provide efficient use of space. The design is sleek and contemporary, with neutral tones and geometric patterns that blend well with the natural wood flooring. The window with curtains adds a touch of color and softness to the otherwise stark and functional space.",
-      "metadata": {
-        "tags": [
-          "Minimalist",
-          "Bedroom",
-          "Storage",
-          "Modern",
-          "Neutral colors"
-        ],
-        "budget_indicator": "Moderate, with materials like MDF and fabric for the curtains",
-        "space_type": "Residential bedroom",
-        "functionality": "Primarily for storage and clothing organization",
-        "indian_specific": "No specific Indian design features are present"
+        "space_utilization": "Efficient use of space with a built-in wardrobe, window, and seating area",
+        "cultural_significance": "No specific cultural significance visible, as the design is modern and not traditional"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.85,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.65
+    },
+    "description": "The image depicts a modern bedroom with a minimalist design. The space features a built-in wardrobe with sliding doors, a wooden floor, and a window with curtains. The wardrobe has a grid pattern, and the overall color palette consists of beige, white, blue, and brown tones. The window provides natural light, and a seating area with a cushion is included. The design avoids traditional Indian elements, focusing on a contemporary aesthetic.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Bedroom",
+        "Built-in wardrobe",
+        "Modern design",
+        "Blue and beige color scheme"
+      ],
+      "budget_indicator": "Moderate, as the materials suggest a balance between quality and affordability",
+      "space_type": "Residential bedroom",
+      "functionality": "Storage and seating",
+      "indian_specific": "No Indian-specific design features are present"
     }
   },
-  "cached_at": 1753181110723,
+  "cached_at": 1753274332518,
   "cache_key": "34507ba3cdb0667c0d7595714fce1532"
 }

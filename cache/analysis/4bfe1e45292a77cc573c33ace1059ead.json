@@ -4,91 +4,108 @@
     "image_id": "img_026",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Contemporary",
+      "theme": "Modern Indian with Minimalist Elements",
       "primary_features": [
         "Purple cabinetry",
-        "Marble backsplash",
-        "Black countertops",
-        "Modern appliances"
+        "White marble backsplash",
+        "Modern appliances",
+        "Open-plan layout"
       ],
       "objects": [
         {
           "type": "Refrigerator",
           "features": [
             "Black in color",
-            "Modern design"
+            "Integrated design"
           ],
           "materials": [
-            "Metal, glass"
+            "Plastic or metal"
           ],
-          "finish": "Glossy"
+          "finish": "Matte black"
         },
         {
-          "type": "Cabinets",
+          "type": "Kitchen Island",
           "features": [
-            "Purple color",
-            "Flat panels"
+            "Double-layered",
+            "Black countertops"
           ],
           "materials": [
-            "Laminate, MDF"
+            "Granite or marble"
           ],
-          "finish": "Matte"
+          "finish": "Polished"
+        },
+        {
+          "type": "Cabinet",
+          "features": [
+            "Purple",
+            "Flat panel design"
+          ],
+          "materials": [
+            "MDF"
+          ],
+          "finish": "Matte purple"
         },
         {
           "type": "Backsplash",
           "features": [
-            "Marble tiles"
+            "White marble tiles",
+            "Modern design with subtle texture"
           ],
           "materials": [
             "Marble"
           ],
-          "finish": "Polished"
+          "finish": "Polished white"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Purple, Black, White, Marble grey"
+          "Purple",
+          "White",
+          "Black",
+          "Gray"
         ],
         "materials": [
-          "Marble, Laminate, MDF"
+          "Marble",
+          "MDF",
+          "Plastic"
         ],
-        "lighting": "Under-cabinet lighting",
-        "texture": "Smooth"
+        "lighting": "Natural light from the adjacent room, artificial light from the ceiling",
+        "texture": "Marble tiles and smooth cabinetry surfaces"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "No specific regional style evident",
         "traditional_elements": [
-          "Minimal use of traditional elements"
+          "No traditional Indian elements visible"
         ],
         "modern_adaptations": [
-          "Purple cabinets with modern design, marble backsplash"
+          "Contemporary design with a touch of traditional craftsmanship in the marble tiles"
         ],
-        "space_utilization": "Efficient use of space with integrated cabinetry and appliances",
-        "cultural_significance": "Minimal emphasis on cultural elements, focusing on modern aesthetics"
+        "space_utilization": "Efficient use of space with minimal clutter, open-plan design for functionality",
+        "cultural_significance": "Minimal cultural significance as the design is modern and not traditional"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
+      "room": 0.88,
+      "theme": 0.85,
+      "primary_features": 0.9,
       "objects": 0.92,
-      "indian_context": 0.9
+      "indian_context": 0.75
     },
-    "description": "A modern kitchen with purple cabinetry, a marble backsplash, and black countertops, featuring sleek and minimalist design with contemporary appliances. The space emphasizes functionality with efficient use of space and a focus on modern aesthetics.",
+    "description": "The kitchen features a modern Indian design with a minimalist approach. The use of purple cabinetry and white marble backsplash creates a contemporary yet elegant look. The black refrigerator and kitchen island add a modern touch, while the open-plan layout enhances the space's functionality. No traditional Indian elements are present, focusing on a sleek and contemporary aesthetic.",
     "metadata": {
       "tags": [
-        "Kitchen Design",
-        "Contemporary Style",
+        "Modern Indian",
+        "Minimalist Design",
         "Purple Cabinets",
-        "Marble Backsplash",
-        "Modern Appliances"
+        "White Marble",
+        "Open-Plan Kitchen"
       ],
-      "budget_indicator": "High",
+      "budget_indicator": "High, due to use of high-end materials like marble and purple cabinetry",
       "space_type": "Residential",
-      "functionality": "Efficient and Modern",
-      "indian_specific": "Modern Indian"
+      "functionality": "Primary purpose is for cooking and preparing meals, with an open-plan layout for social interaction",
+      "indian_specific": "No traditional elements"
     }
   },
-  "cached_at": 1753179513475,
+  "cached_at": 1753274279731,
   "cache_key": "4bfe1e45292a77cc573c33ace1059ead"
 }

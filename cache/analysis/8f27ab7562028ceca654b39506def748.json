@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.03%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_083",
+    "ai_generated_tags": {
+      "room": "Study/Office",
+      "theme": "Modern Indian Contemporary",
+      "primary_features": [
+        "Custom built-in shelves",
+        "Desk with integrated lighting",
+        "Polka dot wallpaper"
+      ],
+      "objects": [
+        {
+          "type": "Desk",
+          "features": [
+            "Integrated lighting",
+            "Integrated storage"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Matte and glossy"
+        },
+        {
+          "type": "Chair",
+          "features": [
+            "Rolling",
+            "Contrasting seat and back"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Matte and glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "Orange",
+          "Beige",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Ambient and task lighting with built-in desk lights",
+        "texture": "Smooth and matte surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style observed",
+        "traditional_elements": [
+          "No traditional Indian elements observed"
+        ],
+        "modern_adaptations": [
+          "Modern design with Indian influences, such as polka dot wallpaper and integrated furniture"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and desk",
+        "cultural_significance": "Modern adaptation of Indian design elements without direct cultural significance"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian contemporary office/study space with a clean and organized layout. The space features custom built-in shelves with integrated lighting, a desk with integrated storage, and a desk chair with a rolling mechanism. The design incorporates contemporary elements, such as the polka dot wallpaper, while maintaining a modern Indian aesthetic. The use of wood and metal as materials, along with the matte and glossy finishes, adds to the contemporary look. The space is well-lit with both ambient and task lighting from the built-in desk lights, emphasizing a functional and aesthetically pleasing environment.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Contemporary",
+          "Study Office",
+          "Built-in Furniture",
+          "Polka Dot Wallpaper",
+          "Integrated Lighting"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Primary purpose for study and work",
+        "indian_specific": "Contemporary adaptation of Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1753275277792,
+  "cache_key": "8f27ab7562028ceca654b39506def748"
+}

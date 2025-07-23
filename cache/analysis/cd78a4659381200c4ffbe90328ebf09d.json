@@ -1,0 +1,111 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00681.JPG",
+  "analysis": {
+    "image_id": "img_095",
+    "ai_generated_tags": {
+      "room": "Entrance Hall",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden staircase with glass railings",
+        "Decorative peacock wall art",
+        "Carved wooden elements",
+        "Floral arrangements",
+        "Marble flooring"
+      ],
+      "objects": [
+        {
+          "type": "Wooden staircase",
+          "features": [
+            "Curved steps",
+            "Glass railings",
+            "Wooden handrail"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Wall art",
+          "features": [
+            "Peacock design",
+            "Decorative details"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Carved wooden elements",
+          "features": [
+            "Decorative panels",
+            "Intricate designs"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Floral arrangements",
+          "features": [
+            "Fresh flowers",
+            "Decorative vases"
+          ],
+          "materials": [
+            "Glass, ceramic"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, white, gold, cream, pink, green"
+        ],
+        "materials": [
+          "Teak wood, marble, glass, metal"
+        ],
+        "lighting": "Natural light with ceiling lights",
+        "texture": "Smooth, glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Southern Indian",
+        "traditional_elements": [
+          "Wooden carvings",
+          "Floral arrangements",
+          "Religious statues"
+        ],
+        "modern_adaptations": [
+          "Glass railings",
+          "Marble flooring"
+        ],
+        "space_utilization": "Open layout with a clear view of the staircase and dining area",
+        "cultural_significance": "The peacock wall art and religious statues reflect cultural and religious symbolism"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The entrance hall showcases a contemporary Indian design with a warm and inviting aesthetic. The wooden staircase with glass railings and polished teak wood elements is a prominent feature, reflecting both traditional craftsmanship and modern elegance. The peacock wall art adds a touch of cultural significance, while the floral arrangements bring a fresh and vibrant feel. The marble flooring complements the overall luxurious look, and the open layout enhances the space's functionality and visual appeal.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Wooden staircase",
+        "Peacock wall art",
+        "Floral arrangements",
+        "Marble flooring"
+      ],
+      "budget_indicator": "High, with the use of premium materials like teak wood and marble",
+      "space_type": "Residential",
+      "functionality": "Entrance and transition space",
+      "indian_specific": "Wooden carvings, peacock motifs, and floral arrangements"
+    }
+  },
+  "cached_at": 1753275563356,
+  "cache_key": "cd78a4659381200c4ffbe90328ebf09d"
+}

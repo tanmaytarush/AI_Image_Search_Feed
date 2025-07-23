@@ -4,96 +4,126 @@
     "image_id": "img_056",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Contemporary Indian",
+      "theme": "Modern Indian Kitchen Design",
       "primary_features": [
-        "Blue and white cabinets",
+        "Modern kitchen cabinets",
+        "Compact layout",
         "Black countertops",
-        "Built-in sink",
-        "Modern appliances"
+        "Blue and white color scheme",
+        "Minimalistic design"
       ],
       "objects": [
         {
           "type": "Cabinets",
           "features": [
-            "Blue and white in color",
-            "Modern design with handles"
+            "Blue glossy finish",
+            "White lower cabinets",
+            "Integrated handles"
           ],
           "materials": [
-            "PVC or similar material"
+            "Glossy finish material",
+            "Wooden or MDF core"
           ],
-          "finish": "Glossy finish"
+          "finish": "Glossy"
         },
         {
           "type": "Countertops",
           "features": [
-            "Black in color",
-            "Smooth surface"
+            "Black granite or composite material"
           ],
           "materials": [
-            "Marble or composite material"
+            "Granite or composite"
           ],
-          "finish": "Polished finish"
+          "finish": "Smooth and polished"
         },
         {
           "type": "Sink",
           "features": [
-            "Built-in design",
-            "Modern faucet"
+            "Black faucet with curved design"
           ],
           "materials": [
-            "Sink material not visible"
+            "Metal"
           ],
-          "finish": "Metallic finish"
+          "finish": "Polished metal"
+        },
+        {
+          "type": "Curtains",
+          "features": [
+            "Plastic covering"
+          ],
+          "materials": [
+            "Plastic"
+          ],
+          "finish": "Plastic covering"
+        },
+        {
+          "type": "Wall Tiles",
+          "features": [
+            "White tiles with black grout"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Floor Tiles",
+          "features": [
+            "Light-colored glossy tiles"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
+          "Black",
           "Blue",
           "White",
-          "Black"
+          "Glossy blue finish"
         ],
         "materials": [
-          "PVC",
-          "Marble/Composite",
-          "Metallic"
+          "Glossy blue finish, white lower cabinets, black granite countertops, white tiles, light-colored glossy floor tiles"
         ],
-        "lighting": "Artificial lighting from ceiling fixtures",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "Artificial lighting with overhead lights",
+        "texture": "Smooth surfaces with glossy finish"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but leans towards urban Indian style",
+        "regional_style": "Not distinctly regional",
         "traditional_elements": [
-          "Modern interpretation of traditional Indian colors and symmetry"
+          "No traditional Indian elements"
         ],
         "modern_adaptations": [
-          "Use of contemporary materials and design"
+          "Modern interpretation of traditional blue and white color scheme"
         ],
-        "space_utilization": "Efficient use of space with built-in cabinets and countertops",
-        "cultural_significance": "The color palette and symmetry draw inspiration from traditional Indian aesthetics"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The interior space features a modern interpretation of traditional Indian design principles, with a contemporary twist. The kitchen showcases a sleek, efficient layout with blue and white cabinets, black countertops, and a built-in sink. The use of glossy finishes and minimalistic design elements reflects a focus on functionality and modern aesthetics, while the color palette and symmetry nod to traditional Indian design motifs.",
-      "metadata": {
-        "tags": [
-          "Kitchen",
-          "Indian",
-          "Modern",
-          "Contemporary",
-          "Blue and White"
-        ],
-        "budget_indicator": "Moderate, with use of contemporary materials",
-        "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is to serve as a functional cooking and food preparation area",
-        "indian_specific": "Glossy finishes and color contrast inspired by traditional Indian design"
+        "space_utilization": "Compact and efficient use of space",
+        "cultural_significance": "Modern adaptation of traditional Indian color scheme, blue and white, often symbolizing cleanliness and purity in Indian culture"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern kitchen with a clean and compact layout. The design features glossy blue cabinets with white lower units, contrasting black countertops, and white tiles with black grout on the walls. The flooring is made of light-colored glossy tiles, and the space is illuminated by overhead lights. The design does not include traditional Indian elements but rather a modern interpretation of a traditional color scheme, often seen in Indian interiors, where blue and white symbolize cleanliness and purity.",
+    "metadata": {
+      "tags": [
+        "Modern Kitchen",
+        "Blue and White",
+        "Compact Layout",
+        "Glossy Finishes",
+        "Indian Design"
+      ],
+      "budget_indicator": "Moderate, as indicated by the use of glossy finishes and modern materials",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary purpose is food preparation and storage",
+      "indian_specific": "Modern adaptation of traditional blue and white color scheme"
     }
   },
-  "cached_at": 1753181172855,
+  "cached_at": 1753274889675,
   "cache_key": "da0c4ed0fbaed5efc4d68067c202e76c"
 }

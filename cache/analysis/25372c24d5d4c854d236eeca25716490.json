@@ -3,96 +3,90 @@
   "analysis": {
     "image_id": "img_019",
     "ai_generated_tags": {
-      "room": "Kitchen/Dining",
-      "theme": "Modern Contemporary",
+      "room": "Dining Area",
+      "theme": "Modern with Indian Influences",
       "primary_features": [
-        "Modern cabinetry",
-        "Smart appliances",
-        "Elegant dining setup"
+        "Modern dining set with tufted chairs",
+        "Marble table",
+        "Wall-mounted decorative mirror"
       ],
       "objects": [
         {
-          "type": "Refrigerator",
+          "type": "Dining Table",
           "features": [
-            "Dual temperature zones",
-            "Digital display"
+            "Rectangle shape",
+            "Tufted chairs",
+            "Metal legs"
           ],
           "materials": [
-            "Stainless steel"
+            "Marble top",
+            "Metal legs, chair frames"
           ],
-          "finish": "Metallic"
+          "finish": "High-gloss finish on table top, metallic sheen on legs"
         },
         {
-          "type": "Cabinets",
+          "type": "Wall Decor",
           "features": [
-            "Integrated design",
-            "Black laminate finish"
+            "Circular design with radiating elements",
+            "Gold and white color scheme"
           ],
           "materials": [
-            "Laminate"
+            "Metal frame, likely with mirrored or polished surface"
           ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Dining Set",
-          "features": [
-            "White table with modern legs",
-            "Tufted beige chairs"
-          ],
-          "materials": [
-            "Wood, fabric"
-          ],
-          "finish": "White, Beige"
+          "finish": "Reflective, shiny surface"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Beige",
-          "Black",
-          "Gold"
+          "Gold",
+          "Gray",
+          "Black"
         ],
         "materials": [
-          "Laminate, Stainless steel, Wood, Fabric"
+          "Marble",
+          "Metal",
+          "Wood",
+          "Textile"
         ],
-        "lighting": "Ambient ceiling lights",
-        "texture": "Smooth, glossy"
+        "lighting": "Natural light from the left, supplemented by modern ceiling lights",
+        "texture": "Smooth surfaces on furniture, shiny reflective mirror, textured rug"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "Not distinctly regional",
         "traditional_elements": [
-          "Minimalist design"
+          "Wall mirror with intricate design"
         ],
         "modern_adaptations": [
-          "Use of modern appliances and furniture"
+          "Modern furniture with traditional material-like finishes"
         ],
-        "space_utilization": "Efficient use of limited space",
-        "cultural_significance": "Adaptation of modern aesthetics with a touch of minimalism"
+        "space_utilization": "Efficient use of space with furniture placed against the wall",
+        "cultural_significance": "Wall mirror might symbolize a focal point or traditional decor element"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern dining area incorporates traditional Indian design elements, such as the wall-mounted mirror with a circular, radiating design, which is reminiscent of traditional Indian architectural and decorative motifs. The furniture, with its tufted seating and sleek metal legs, is modern yet pays homage to the use of metal in Indian furniture, such as brass and copper. The marble top adds a touch of natural elegance, reflecting Indian craftsmanship in stone work. The space is well-organized, maximizing the dining area within a compact space, and the overall design is a blend of modern aesthetics and traditional Indian influences.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Dining",
+          "Tufted Chairs",
+          "Marble Table",
+          "Wall Mirror",
+          "Compact Space"
+        ],
+        "budget_indicator": "Moderate to high, with use of high-quality materials like marble and modern finishes",
+        "space_type": "Apartment",
+        "functionality": "Primary purpose is dining, with efficient use of space for a small dining area",
+        "indian_specific": "Decorative mirror with traditional design"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This image showcases a modern kitchen-dining area with a contemporary design aesthetic. It features sleek cabinetry with a glossy black finish, a smart refrigerator with a dual temperature zone, and a minimalist dining set with a white table and tufted beige chairs. The space is illuminated by ambient ceiling lights, and the overall color palette is dominated by white, beige, black, and gold, creating a sophisticated and elegant look. The modern Indian theme is evident in the adaptation of minimalistic design elements and the efficient use of space.",
-    "metadata": {
-      "tags": [
-        "Kitchen",
-        "Dining",
-        "Modern",
-        "Contemporary",
-        "Minimalist",
-        "Smart Appliances"
-      ],
-      "budget_indicator": "Moderate to High",
-      "space_type": "Combined Kitchen and Dining",
-      "functionality": "Efficient cooking and dining area",
-      "indian_specific": "Modern adaptation of minimalistic design"
     }
   },
-  "cached_at": 1753179488729,
+  "cached_at": 1753274194713,
   "cache_key": "25372c24d5d4c854d236eeca25716490"
 }

@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.10%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_073",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "White sectional sofa",
+        "Round wooden coffee table",
+        "Marble wall paneling",
+        "LED ceiling lights",
+        "Gold storage unit"
+      ],
+      "objects": [
+        {
+          "type": "White sectional sofa",
+          "features": [
+            "U-shaped design",
+            "Tan cushions"
+          ],
+          "materials": [
+            "Fabric",
+            "Wooden base"
+          ],
+          "finish": "Sleek and smooth"
+        },
+        {
+          "type": "Round wooden coffee table",
+          "features": [
+            "Natural wood finish",
+            "Simple design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Marble wall paneling",
+          "features": [
+            "Vertical wood slats on top of marble"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Gold storage unit",
+          "features": [
+            "Glass doors with gold frames",
+            "Decorative elements inside"
+          ],
+          "materials": [
+            "Glass",
+            "Metal (gold plated)"
+          ],
+          "finish": "Shiny and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Tan",
+          "Brown",
+          "Gold",
+          "Black"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Glass",
+          "Metal",
+          "Fabric"
+        ],
+        "lighting": "Bright, modern ceiling lights with LED strips",
+        "texture": "Mix of smooth and natural textures"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regionalized",
+        "traditional_elements": [
+          "Gold storage unit with traditional design elements"
+        ],
+        "modern_adaptations": [
+          "Combined with contemporary furniture and lighting"
+        ],
+        "space_utilization": "Open and functional with clear zones for entertainment and dining",
+        "cultural_significance": "Gold storage unit may hold cultural significance, possibly used for keeping sacred items"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.92,
+        "indian_context": 0.88
+      },
+      "description": "The image showcases a modern interpretation of an Indian living space, featuring a U-shaped white sectional sofa with tan cushions, a round wooden coffee table, and a marble wall paneling with vertical wood slats. A gold storage unit with glass doors and decorative elements adds a traditional touch, while LED ceiling lights provide contemporary lighting. The space is well-organized with an open dining area and a functional entertainment zone, blending traditional Indian design elements with modern aesthetics.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Living room",
+          "Contemporary",
+          "Gold storage unit",
+          "Marble paneling"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential",
+        "functionality": "Living and entertainment",
+        "indian_specific": "Gold storage unit with traditional design elements"
+      }
+    }
+  },
+  "cached_at": 1753275112500,
+  "cache_key": "fd8b0f4ec90a8b160fbe0d9fa293f7f1"
+}

@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.34%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_088",
+    "ai_generated_tags": {
+      "room": "Study",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Custom cabinetry",
+        "Built-in desk",
+        "Art piece"
+      ],
+      "objects": [
+        {
+          "type": "Desk",
+          "features": [
+            "Built-in with storage",
+            "Shelves with vertical slats"
+          ],
+          "materials": [
+            "Wood for cabinetry",
+            "Metal for wheels"
+          ],
+          "finish": "Smooth surfaces with a neutral finish"
+        },
+        {
+          "type": "Art piece",
+          "features": [
+            "Black and white portrait of a woman"
+          ],
+          "materials": [
+            "Canvas"
+          ],
+          "finish": "Matte finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Blue accents",
+          "Natural wood tones"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Canvas"
+        ],
+        "lighting": "Natural light from the window and artificial light from the desk lamp",
+        "texture": "Smooth surfaces with some vertical slats adding texture"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary interpretation of traditional furniture styles"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in cabinetry and shelving",
+        "cultural_significance": "No culturally significant elements present"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern study space with efficient use of vertical space. The built-in cabinet and desk feature a contemporary design with a focus on functionality and minimalism. The inclusion of a black and white portrait adds a touch of modern art to the space. The neutral color palette with blue accents and natural wood tones creates a calm and inviting atmosphere. The space utilizes modern interpretations of traditional Indian furniture styles, avoiding overt cultural references.",
+      "metadata": {
+        "tags": [
+          "Contemporary",
+          "Minimalist",
+          "Built-in furniture",
+          "Art piece",
+          "Study"
+        ],
+        "budget_indicator": "Moderate, with a focus on quality materials like wood and metal",
+        "space_type": "Private residential study",
+        "functionality": "Primary purpose is for studying and working",
+        "indian_specific": "No Indian-specific design features are present"
+      }
+    }
+  },
+  "cached_at": 1753275364617,
+  "cache_key": "ad9259adf62566a6e2c11870869d5881"
+}

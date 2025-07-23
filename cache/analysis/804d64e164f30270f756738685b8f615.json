@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.12.22%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_069",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wardrobe with wavy paneling",
+        "Embedded lighting in the door frame",
+        "Bed in the background",
+        "Dark wooden furniture accents"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Wavy paneling on doors",
+            "Sliding doors",
+            "Red accent lines"
+          ],
+          "materials": [
+            "MDF or HDF for paneling",
+            "Metallic hardware"
+          ],
+          "finish": "Glossy finish on paneling, metallic hardware with reflective finish"
+        },
+        {
+          "type": "Bed",
+          "features": [
+            "Bed with patterned bedspread",
+            "Partially visible in background"
+          ],
+          "materials": [
+            "Fabric for bedspread"
+          ],
+          "finish": "Textured fabric finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White with wavy pattern",
+          "Dark wood brown",
+          "Red accents",
+          "Neutral tones in the background"
+        ],
+        "materials": [
+          "Wavy MDF/HDF",
+          "Dark wood",
+          "Metallic hardware",
+          "Fabric"
+        ],
+        "lighting": "Embedded lighting in the door frame providing soft illumination",
+        "texture": "Glossy paneling, textured fabric, smooth dark wood"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but could be influenced by contemporary designs in urban India",
+        "traditional_elements": [
+          "Wavy paneling for a modern twist on carved patterns"
+        ],
+        "modern_adaptations": [
+          "Integration of lighting and storage solutions in a modern context"
+        ],
+        "space_utilization": "Efficient use of space with a wardrobe that combines storage and aesthetics",
+        "cultural_significance": "The use of wavy paneling can be seen as a modern interpretation of traditional motifs often found in Indian art and architecture"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian bedroom with a sleek wardrobe that features wavy paneling and sliding doors, accentuated by red lines. The room includes embedded lighting in the door frame, adding a sophisticated touch. A bed with a patterned bedspread is partially visible in the background, along with dark wooden furniture. The design blends contemporary aesthetics with subtle traditional elements, particularly in the wavy paneling which could be interpreted as a modern adaptation of traditional carved patterns.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Bedroom",
+          "Wardrobe",
+          "Wavy Paneling",
+          "Embedded Lighting",
+          "Dark Wood"
+        ],
+        "budget_indicator": "Moderate, with materials like MDF/HDF and dark wood indicating a middle-range budget",
+        "space_type": "Residential, bedroom",
+        "functionality": "Storage and sleeping space",
+        "indian_specific": "Wavy paneling and integrated lighting"
+      }
+    }
+  },
+  "cached_at": 1753275043755,
+  "cache_key": "804d64e164f30270f756738685b8f615"
+}

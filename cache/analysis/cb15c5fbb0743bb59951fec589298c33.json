@@ -3,72 +3,65 @@
   "analysis": {
     "image_id": "img_042",
     "ai_generated_tags": {
-      "room": "Storage",
-      "theme": "Minimalist",
+      "room": "Storage/Utility Room",
+      "theme": "Modern Minimalist",
       "primary_features": [
-        "Large storage cabinets",
-        "Sliding door",
-        "Flat panel design"
+        "Large built-in storage cabinets"
       ],
       "objects": [
         {
-          "type": "Storage cabinet",
+          "type": "Storage Cabinets",
           "features": [
-            "Large capacity",
-            "Sliding door",
-            "Flat panel design"
+            "Rectangular design, frosted glass panels, vertical handles"
           ],
           "materials": [
-            "Appearance of wood or wood-like finish"
+            "Frosted glass, possibly MDF or particle board"
           ],
-          "finish": "Sleek and modern"
+          "finish": "Frosted glass with metallic handles"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark gray",
-          "Red accent wall",
-          "White floor tiles"
+          "Dark grey cabinets, white tiled floor, red accents on ceiling"
         ],
         "materials": [
-          "Wood or wood-like finish",
-          "Concealed sliding door mechanism"
+          "Frosted glass, MDF/particle board, tile flooring"
         ],
-        "lighting": "Indirect lighting, possibly from natural light source above",
-        "texture": "Smooth and uniform surface on cabinets"
+        "lighting": "Natural light, possibly from an unseen window",
+        "texture": "Smooth, clean lines with a modern aesthetic"
       },
       "indian_context": {
-        "regional_style": "No regional style visible",
+        "regional_style": "Not applicable",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Sleek and modern design with concealed sliding door mechanism"
+          "Integration of modern design elements with traditional Indian craftsmanship"
         ],
-        "space_utilization": "Efficient use of space with large storage capacity",
-        "cultural_significance": "Minimalist design approach not tied to specific cultural elements"
+        "space_utilization": "Highly efficient use of space for storage",
+        "cultural_significance": "Modern interpretation of storage solutions, not traditional Indian elements"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.75,
-        "primary_features": 0.8,
-        "objects": 0.9,
-        "indian_context": 0.7
+        "room": 0.95,
+        "theme": 0.78,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.25
       },
-      "description": "The image shows a modern storage space with large cabinets featuring concealed sliding doors and a sleek, flat panel design. The room is characterized by a minimalist aesthetic with a dark gray cabinet finish, a red accent wall, and white floor tiles. The design is contemporary, with no visible traditional Indian elements, suggesting a modern, possibly urban, setting.",
+      "description": "The image depicts a modern minimalist storage utility room with large built-in storage cabinets featuring frosted glass panels and vertical metallic handles. The space utilizes clean lines and a monochromatic color scheme with dark grey cabinets, a white tiled floor, and red accents on the ceiling. This room is designed for efficient storage and functionality, with a contemporary twist on traditional Indian craftsmanship.",
       "metadata": {
         "tags": [
-          "Storage",
-          "Minimalist",
-          "Modern Design",
-          "Urban Interior",
-          "Efficient Space Utilization"
+          "Modern Storage",
+          "Minimalist Design",
+          "Frosted Glass Cabinets",
+          "White Tiles",
+          "Red Ceiling Accents"
         ],
-        "budget_indicator": "Moderate to high, given the materials and finish",
-        "space_type": "Residential or potentially commercial (e.g., office space)",
-        "functionality": "Primary purpose is storage and organization",
-        "indian_specific": "No Indian-specific design features"
+        "budget_indicator": "Moderate, with a focus on functional and modern design",
+        "space_type": "Storage/Utility Room",
+        "functionality": "Primary purpose is for efficient storage and organization",
+        "indian_specific": "No traditional Indian design features visible"
       }
     }
   },
-  "cached_at": 1753181154309,
+  "cached_at": 1753274492915,
   "cache_key": "cb15c5fbb0743bb59951fec589298c33"
 }

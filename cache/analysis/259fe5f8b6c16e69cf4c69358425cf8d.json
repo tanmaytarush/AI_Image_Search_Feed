@@ -1,0 +1,113 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00458.JPG",
+  "analysis": {
+    "image_id": "img_098",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern with Indian Influences",
+      "primary_features": [
+        "Marble flooring",
+        "Sliding wardrobes",
+        "Tufted bed headboard"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Tufted headboard",
+            "Fitted bedspread with blue floral pattern"
+          ],
+          "materials": [
+            "Wood for frame",
+            "Marble for flooring"
+          ],
+          "finish": "Polished finish on wood and marble"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Sliding doors",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood for frame",
+            "Marble for doors"
+          ],
+          "finish": "Matte finish on wooden frame, glossy marble"
+        },
+        {
+          "type": "Bedside Table",
+          "features": [
+            "Compact design",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood for frame"
+          ],
+          "finish": "Polished finish on wood"
+        },
+        {
+          "type": "Ceiling Fan",
+          "features": [
+            "Ceiling mounted",
+            "Wooden blades"
+          ],
+          "materials": [
+            "Wood for blades"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Brown wood",
+          "Blue and white bedding"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from windows, recessed ceiling lights",
+        "texture": "Smooth marble, glossy wood, textured bedspread"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian with Mughal influences",
+        "traditional_elements": [
+          "Marble flooring",
+          "Tufted bed headboard"
+        ],
+        "modern_adaptations": [
+          "Sliding wardrobes",
+          "Ceiling fan"
+        ],
+        "space_utilization": "Efficient use of space with built-in wardrobes and storage under the bed",
+        "cultural_significance": "Marble and wood are traditional materials symbolizing wealth and durability in Indian homes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bedroom showcases a modern design with traditional Indian elements, featuring marble flooring, tufted bed headboards, and sliding wardrobes. The use of wood and marble highlights northern Indian architectural styles, while modern amenities like sliding wardrobes and ceiling fans provide a contemporary touch. The space is efficiently organized with built-in storage under the bed and a compact bedside table, reflecting a blend of functionality and style.",
+    "metadata": {
+      "tags": [
+        "Modern Bedroom",
+        "Indian Design",
+        "Marble Flooring",
+        "Tufted Headboard",
+        "Sliding Wardrobes"
+      ],
+      "budget_indicator": "Mid to high, given the use of marble and wood",
+      "space_type": "Residential Bedroom",
+      "functionality": "Primary sleeping and resting space",
+      "indian_specific": "Tufted bed headboard, marble flooring, and the use of wood for furniture"
+    }
+  },
+  "cached_at": 1753275642123,
+  "cache_key": "259fe5f8b6c16e69cf4c69358425cf8d"
+}

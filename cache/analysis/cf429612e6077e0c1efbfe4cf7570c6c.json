@@ -3,86 +3,74 @@
   "analysis": {
     "image_id": "img_062",
     "ai_generated_tags": {
-      "room": "Living room",
+      "room": "Living Room",
       "theme": "Minimalist",
       "primary_features": [
-        "Wall-mounted shelves",
-        "Modern TV unit",
-        "Lighting accents"
+        "Wall-mounted shelving unit",
+        "Minimalist design",
+        "Modern lighting"
       ],
       "objects": [
         {
-          "type": "Wall-mounted shelves",
+          "type": "Wall-mounted shelving unit",
           "features": [
-            "Dark color",
-            "Rectangular shape",
-            "Integrated lighting"
+            "Black and white color scheme",
+            "Modern design with geometric shapes"
           ],
           "materials": [
-            "Dark wood or composite material"
+            "Wood",
+            "Metal"
           ],
-          "finish": "Smooth and glossy"
-        },
-        {
-          "type": "TV unit",
-          "features": [
-            "White color",
-            "Closed compartments",
-            "Open storage space"
-          ],
-          "materials": [
-            "White wood or laminate"
-          ],
-          "finish": "Matte and smooth"
+          "finish": "Matte black and glossy white"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark gray",
+          "Black",
           "White",
           "Beige"
         ],
         "materials": [
           "Wood",
-          "Laminate",
-          "Metal"
+          "Metal",
+          "Marble"
         ],
-        "lighting": "Integrated LED lights",
-        "texture": "Smooth and even"
+        "lighting": "Modern recessed lighting",
+        "texture": "Smooth with geometric texture on shelves"
       },
       "indian_context": {
-        "regional_style": "",
-        "traditional_elements": [],
+        "regional_style": "Not indicative of a specific regional style",
+        "traditional_elements": [
+          "No traditional Indian elements"
+        ],
         "modern_adaptations": [
-          "Contemporary design elements with Indian materials"
+          "Minimalist take on traditional storage solutions"
         ],
         "space_utilization": "Efficient use of vertical space",
-        "cultural_significance": "No specific cultural elements observed"
+        "cultural_significance": "No cultural elements visible, purely functional design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern living room with a minimalist design, featuring a wall-mounted shelving unit that combines black and white colors. The unit includes geometric shapes and recessed lighting, creating a clean and contemporary look. The design lacks traditional Indian elements, focusing instead on modern aesthetics and efficient space utilization.",
+      "metadata": {
+        "tags": [
+          "Minimalist design",
+          "Living Room",
+          "Wall-mounted shelves",
+          "Modern interior"
+        ],
+        "budget_indicator": "Moderate, due to the use of modern materials like wood and metal with a glossy finish",
+        "space_type": "Residential living room",
+        "functionality": "Storage and display",
+        "indian_specific": "No Indian-specific design features visible"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This image showcases a minimalist living room setup with a modern design aesthetic. The focal point is a wall-mounted dark wood shelf unit with integrated lighting, providing a sleek and contemporary look. Below the shelf is a white TV unit with a combination of closed and open storage spaces, emphasizing a clean and organized space. The overall design is simple and functional, with a focus on space optimization and a modern color palette.",
-    "metadata": {
-      "tags": [
-        "Minimalist",
-        "Modern",
-        "Living room",
-        "Wall-mounted shelves",
-        "TV unit",
-        "Interior design"
-      ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Entertainment and storage",
-      "indian_specific": "No Indian-specific design features"
     }
   },
-  "cached_at": 1753181186613,
+  "cached_at": 1753274953312,
   "cache_key": "cf429612e6077e0c1efbfe4cf7570c6c"
 }

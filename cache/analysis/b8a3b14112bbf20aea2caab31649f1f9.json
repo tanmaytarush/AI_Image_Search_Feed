@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.11.21%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_066",
+    "ai_generated_tags": {
+      "room": "Home office",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Built-in shelving unit",
+        "Wooden door with intricate carvings",
+        "Marble flooring",
+        "Desk with a computer"
+      ],
+      "objects": [
+        {
+          "type": "Built-in shelving unit",
+          "features": [
+            "Integrated storage with shelves and drawers",
+            "Lighting incorporated in the shelves"
+          ],
+          "materials": [
+            "Wood, glass panels, plastic"
+          ],
+          "finish": "Painted finish with glass panels"
+        },
+        {
+          "type": "Wooden door",
+          "features": [
+            "Intricate carvings",
+            "Carved patterns"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished wood with detailed carvings"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, brown, grey, beige"
+        ],
+        "materials": [
+          "Marble, wood, glass, plastic"
+        ],
+        "lighting": "Soft ambient lighting from ceiling fixtures",
+        "texture": "Smooth marble flooring, polished wood, glass panels"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional; modern interpretation of traditional elements",
+        "traditional_elements": [
+          "Intricate wooden carvings on the door",
+          "Religious or cultural decorative elements on the shelves"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and lighting",
+          "Functional storage solutions"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in shelving",
+        "cultural_significance": "The wooden door with carvings could represent traditional craftsmanship and cultural heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian home office space that integrates traditional Indian design elements with contemporary functionality. The space features a built-in shelving unit with glass panels for storage and display, a wooden door with intricate carvings that add a touch of traditional craftsmanship, and a desk with a computer. The flooring is marble, and the overall color palette is neutral, with white walls and beige accents. The lighting is soft and ambient, enhancing the modern yet traditional aesthetic. The presence of religious or cultural decorative elements on the shelves adds a layer of cultural significance to the space, reflecting the importance of such elements in Indian homes.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Contemporary Indian style",
+        "Home office",
+        "Traditional elements",
+        "Modern interpretations",
+        "Cultural decor"
+      ],
+      "budget_indicator": "Mid-range to high, given the use of marble flooring and polished wood with carvings",
+      "space_type": "Residential",
+      "functionality": "Work and storage space",
+      "indian_specific": "Intricate carvings on the door, traditional religious decor"
+    }
+  },
+  "cached_at": 1753275014050,
+  "cache_key": "b8a3b14112bbf20aea2caab31649f1f9"
+}

@@ -3,103 +3,109 @@
   "analysis": {
     "image_id": "img_075",
     "ai_generated_tags": {
-      "room": "Living Room with Kitchen",
+      "room": "Living Room",
       "theme": "Contemporary Indian Fusion",
       "primary_features": [
-        "U-shaped sofa",
-        "Wooden coffee table",
+        "Sectional sofa",
+        "Round coffee table",
         "Marble flooring",
-        "Modern lighting fixture",
-        "Wall-mounted shelves"
+        "Wall-mounted shelves",
+        "Modern pendant lights"
       ],
       "objects": [
         {
-          "type": "U-shaped sofa",
+          "type": "Sectional sofa",
           "features": [
-            "Tufted design",
-            "Neutral color scheme",
-            "Wooden frame"
+            "U-shaped",
+            "Tufted upholstery",
+            "White fabric"
           ],
           "materials": [
             "Fabric",
-            "Wood"
+            "Foam padding"
           ],
-          "finish": "Smooth, modern finish"
+          "finish": "Soft and plush"
         },
         {
-          "type": "Wooden coffee table",
+          "type": "Round coffee table",
           "features": [
-            "Organic shape",
-            "Natural wood texture",
-            "Dark finish"
+            "Wooden top",
+            "Eccentric design",
+            "Dark stain"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Natural, polished"
+          "finish": "Rough and natural"
         },
         {
           "type": "Marble flooring",
           "features": [
-            "White with veining design",
-            "High-end appearance"
+            "Clean and smooth surface",
+            "White with subtle grey veining"
           ],
           "materials": [
             "Marble"
           ],
-          "finish": "High-gloss"
-        },
-        {
-          "type": "Modern lighting fixture",
-          "features": [
-            "Black frame",
-            "Suspension design",
-            "Multiple spherical lights"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Glossy black"
+          "finish": "Polished"
         },
         {
           "type": "Wall-mounted shelves",
           "features": [
             "Geometric design",
-            "Floating style"
+            "Dark metal frame"
           ],
           "materials": [
             "Metal"
           ],
-          "finish": "Painted finish"
+          "finish": "Glossy"
+        },
+        {
+          "type": "Modern pendant lights",
+          "features": [
+            "Multi-light fixture",
+            "Black metal frame",
+            "Round white shades"
+          ],
+          "materials": [
+            "Metal",
+            "Plastic"
+          ],
+          "finish": "Textured metal with smooth plastic"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Brown",
           "Blue",
+          "Brown",
+          "Gold",
           "Green",
-          "Black"
+          "Black",
+          "Marble grey"
         ],
         "materials": [
-          "Wood",
           "Marble",
+          "Wood",
           "Metal",
-          "Fabric"
+          "Fabric",
+          "Plastic"
         ],
-        "lighting": "Bright, evenly distributed from ceiling lights and pendant lights",
-        "texture": "Smooth surfaces with some textured elements from the coffee table and decorative objects"
+        "lighting": "Artificial, bright, and even with no visible natural light source",
+        "texture": "Smooth surfaces with a mix of natural and artificial textures"
       },
       "indian_context": {
-        "regional_style": "Not clearly regional, more of a modern interpretation",
+        "regional_style": "Not strongly regional, but some elements suggest a modern interpretation of traditional Indian design",
         "traditional_elements": [
-          "Wall-mounted shelves reminiscent of jharokha element"
+          "Carved metal frames",
+          "Geometric patterns"
         ],
         "modern_adaptations": [
-          "Integration of modern materials and design elements"
+          "Minimalist furniture",
+          "Modern light fixtures"
         ],
-        "space_utilization": "Optimized with multiple functional areas (living, dining, kitchen)",
-        "cultural_significance": "Modern adaptation of traditional Indian architectural elements for a contemporary setting"
+        "space_utilization": "Open and spacious, with a clear division of areas",
+        "cultural_significance": "The space blends contemporary aesthetics with subtle Indian design influences, possibly reflecting a modern take on traditional decor"
       }
     },
     "confidence_scores": {
@@ -109,23 +115,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The interior showcases a modern Indian fusion style with a contemporary living room that seamlessly transitions into a kitchen area. The living room features a U-shaped sofa with a tufted design and wooden accents, complemented by a natural wood coffee table and a modern geometric wall-mounted shelf system. The kitchen area is visible in the background, with a clean, minimalist design featuring white cabinets, green accents, and a marble countertop. The space is well-lit with a combination of recessed ceiling lights and a sleek, contemporary pendant light, creating a bright and airy atmosphere.",
+    "description": "This image showcases a modern Indian living room with a contemporary Indian fusion design. The space features a U-shaped sectional sofa with white fabric and dark wood legs, a round wooden coffee table, and a marble flooring. The wall-mounted shelves with a geometric design and modern pendant lights add to the contemporary feel. Traditional elements are subtly integrated, such as the carved metal frames and geometric patterns, which are modern interpretations of classic Indian design. The overall space is open and spacious, with a clear division of areas, reflecting a balance between modern aesthetics and traditional Indian influences.",
     "metadata": {
       "tags": [
-        "living room",
-        "modern",
-        "indian fusion",
-        "contemporary design",
-        "marble flooring",
-        "geometric shelves",
-        "wooden furniture"
+        "Indian contemporary",
+        "Fusion design",
+        "Modern Indian",
+        "Geometric patterns",
+        "Marble flooring"
       ],
-      "budget_indicator": "Moderate to high, with the use of high-end materials such as marble and polished wood",
-      "space_type": "Residential living space",
-      "functionality": "Social and relaxation area",
-      "indian_specific": "Integration of traditional wall-mounted shelf design with modern elements"
+      "budget_indicator": "Mid-range, with a mix of materials like marble, wood, and metal, indicating a balanced budget",
+      "space_type": "Residential living room",
+      "functionality": "Primary purpose is for relaxation and entertaining guests",
+      "indian_specific": "The design incorporates subtle traditional elements like the carved metal frames and geometric patterns"
     }
   },
-  "cached_at": 1753181213441,
+  "cached_at": 1753275139842,
   "cache_key": "a78dbf5d5b4e6206eca53c1d3766b9d5"
 }

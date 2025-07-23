@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.30%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_050",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Partition with shelves",
+        "Pink accent wall",
+        "Ceiling fan",
+        "Window with grill"
+      ],
+      "objects": [
+        {
+          "type": "Partition",
+          "features": [
+            "Shelving units",
+            "Wooden frame",
+            "Teak wood finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Lacquered finish"
+        },
+        {
+          "type": "Wall",
+          "features": [
+            "Pink accent wall"
+          ],
+          "materials": [
+            "Painted wall"
+          ],
+          "finish": "Matt finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink",
+          "White",
+          "Brown",
+          "Blue"
+        ],
+        "materials": [
+          "Teak wood",
+          "Painted wall",
+          "White flooring"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces with natural wood grain"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly visible specific regional style",
+        "traditional_elements": [
+          "Teak wood is traditional"
+        ],
+        "modern_adaptations": [
+          "Partition with shelves is a modern adaptation"
+        ],
+        "space_utilization": "Partition acts as a divider and storage space",
+        "cultural_significance": "Teak wood is used in traditional Indian furniture, symbolizing durability and strength"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space features a contemporary design with a partition made of teak wood, serving as a storage and divider. The partition includes shelves and is painted in white, with a pink accent wall on the left. The room has a ceiling fan and a window with a grill, allowing natural light to enter. The flooring is white, and the overall design balances traditional elements like teak wood with modern functionality.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Partition",
+          "Teak Wood",
+          "Pink Accent Wall",
+          "Contemporary Design"
+        ],
+        "budget_indicator": "Mid-range, with teak wood and painted walls, suggesting a moderate budget",
+        "space_type": "Residential",
+        "functionality": "Divider and storage",
+        "indian_specific": "Teak wood partition and white shelves"
+      }
+    }
+  },
+  "cached_at": 1753274827522,
+  "cache_key": "adb23dbed1f7931c4f316eef40503a4d"
+}

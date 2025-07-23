@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.36%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_053",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Modern with Indian Influences",
+      "primary_features": [
+        "Exposed ceiling beams",
+        "Marble flooring",
+        "Large aquariums"
+      ],
+      "objects": [
+        {
+          "type": "Aquariums",
+          "features": [
+            "Transparent structure with colorful lights and plants"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Blue",
+          "Yellow"
+        ],
+        "materials": [
+          "Marble",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Bright indoor lighting with accent lighting from aquariums",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, more of a fusion style",
+        "traditional_elements": [
+          "Marble flooring",
+          "Exposed ceiling beams"
+        ],
+        "modern_adaptations": [
+          "Colorful aquariums as a modern touch"
+        ],
+        "space_utilization": "Open and spacious with minimal furniture",
+        "cultural_significance": "The marble flooring and exposed beams might hint at an attempt to blend modern aesthetics with traditional Indian design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a living space with a modern design infused with Indian elements. The room features exposed ceiling beams in yellow, indicative of traditional Indian architecture, and marble flooring for a luxurious finish. Three large aquariums serve as a modern focal point, adding a touch of vibrancy and a contemporary twist. The room is open and spacious with minimal furniture, emphasizing a clean and uncluttered aesthetic. The use of marble and the placement of the aquariums suggest a blend of modern and traditional Indian design principles.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Design",
+        "Marble Flooring",
+        "Exposed Ceiling Beams",
+        "Aquariums",
+        "Open Space"
+      ],
+      "budget_indicator": "Higher, due to the use of marble and the custom aquariums",
+      "space_type": "Living Room",
+      "functionality": "Primarily for social gatherings or relaxation, with the large aquariums serving as a decorative centerpiece",
+      "indian_specific": "Exposed ceiling beams and marble flooring"
+    }
+  },
+  "cached_at": 1753274857959,
+  "cache_key": "da13fedec26f67f27c73c746f8bba1f8"
+}

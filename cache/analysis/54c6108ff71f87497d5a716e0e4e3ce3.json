@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.26%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_049",
+    "ai_generated_tags": {
+      "room": "Entryway/hallway",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "wooden screens",
+        "carved motifs",
+        "religious symbols",
+        "open kitchen area"
+      ],
+      "objects": [
+        {
+          "type": "wooden screen",
+          "features": [
+            "decorative floral patterns",
+            "lattice design"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "smooth, glossy"
+        },
+        {
+          "type": "door",
+          "features": [
+            "teak wood",
+            "intricate carvings"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "brown",
+          "white",
+          "gray"
+        ],
+        "materials": [
+          "wood",
+          "metal",
+          "ceramic"
+        ],
+        "lighting": "natural light from windows",
+        "texture": "smooth surfaces, intricate carvings"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "wooden screens",
+          "religious symbols"
+        ],
+        "modern_adaptations": [
+          "contemporary finishes",
+          "open design"
+        ],
+        "space_utilization": "clear pathways, opportunity for decorative accents",
+        "cultural_significance": "religious symbols signify traditional Indian cultural values"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a contemporary Indian entryway with a wooden screen featuring intricate floral patterns. The space includes a door with detailed carvings and religious symbols above it. The room opens into a modern kitchen area with blue cabinets and a tiled backsplash. The design incorporates traditional Indian elements while maintaining a contemporary aesthetic.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "contemporary design",
+        "wooden screens",
+        "religious symbols",
+        "open kitchen"
+      ],
+      "budget_indicator": "moderate, with focus on polished wood and modern materials",
+      "space_type": "residential",
+      "functionality": "entryway/hallway",
+      "indian_specific": "wooden screens with carvings, religious symbols"
+    }
+  },
+  "cached_at": 1753274818317,
+  "cache_key": "54c6108ff71f87497d5a716e0e4e3ce3"
+}

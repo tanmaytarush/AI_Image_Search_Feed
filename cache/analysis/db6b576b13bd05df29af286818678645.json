@@ -3,69 +3,67 @@
   "analysis": {
     "image_id": "img_012",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Indian Contemporary",
+      "room": "Entryway",
+      "theme": "Contemporary Indian",
       "primary_features": [
+        "Carved wooden paneling",
+        "Swastika decoration",
+        "Decorative screen with OM symbol",
         "Marble flooring",
-        "Wooden cabinetry",
-        "Modern appliances",
-        "Decorative shelf"
+        "Wooden cabinets",
+        "Living area in background"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "Carved Wooden Panel",
           "features": [
-            "Wooden finish",
-            "Open shelf for storage"
+            "Organic wood grain texture",
+            "Dark finish with lighter trim",
+            "Decorative inlays"
           ],
           "materials": [
-            "Wood, Metal"
+            "Wood (likely teak or oak)",
+            "Painted finish"
           ],
-          "finish": "Wooden"
+          "finish": "Smooth, polished"
         },
         {
-          "type": "Shelf",
+          "type": "Decorative Screen",
           "features": [
-            "Decorative, open for display"
+            "White lattice design",
+            "Black frame",
+            "OM symbol on glass panel"
           ],
           "materials": [
-            "Metal, Glass"
+            "Wood (frame)",
+            "Glass (panels)"
           ],
-          "finish": "Metallic, Translucent"
-        },
-        {
-          "type": "Appliance",
-          "features": [
-            "Modern design, stainless steel finish"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Stainless Steel"
+          "finish": "Lacquered"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, Brown, Black, Gold"
+          "White marble, light wood, black, beige, brown, green"
         ],
         "materials": [
-          "Marble, Wood, Metal, Glass"
+          "Marble, wood, glass"
         ],
-        "lighting": "Natural light, ceiling fan light",
-        "texture": "Smooth, glossy"
+        "lighting": "Soft, diffused lighting",
+        "texture": "Smooth marble, textured wood, glass lattice"
       },
       "indian_context": {
-        "regional_style": "South Indian",
+        "regional_style": "Northern Indian (Hindi/Punjabi)",
         "traditional_elements": [
-          "Swastika symbol",
-          "Om symbol"
+          "Carved paneling",
+          "Swastika",
+          "Decorative lattice screen"
         ],
         "modern_adaptations": [
-          "Contemporary furniture design",
-          "Marble flooring"
+          "Combination of traditional and contemporary design",
+          "Utilization of modern materials like marble"
         ],
-        "space_utilization": "Efficient, open plan",
-        "cultural_significance": "Indian religious symbols (Swastika, Om)"
+        "space_utilization": "Clear entryway with functional storage and decorative elements, leading into a living area",
+        "cultural_significance": "Swastika symbol and OM symbol are significant in Hindu culture, representing prosperity and spiritual energy"
       }
     },
     "confidence_scores": {
@@ -75,17 +73,23 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image showcases a modern kitchen with a blend of traditional Indian elements. The space features contemporary kitchen cabinetry with a wooden finish, an open shelf for storage, and a decorative shelf that adds a touch of Indian culture with religious symbols like the Swastika and Om. The marble flooring enhances the aesthetic appeal, while the kitchen appliances have a sleek, stainless steel design. The room is well-lit with natural light and a ceiling fan, creating a comfortable and functional space that respects Indian cultural elements.",
+    "description": "This image showcases a contemporary entryway design with Indian cultural elements. The space features a carved wooden panel with a dark finish, incorporating traditional symbols like the swastika and the OM. A decorative lattice screen with a glass panel displaying the OM symbol adds a modern touch. The floor is covered with white marble, and wooden cabinets provide storage. The adjacent living area in the background includes a sofa and a wall-mounted artwork, blending traditional and contemporary aesthetics.",
     "metadata": {
       "tags": [
-        "Kitchen, Indian, Contemporary, Marble, Wood, Modern Appliances, Cultural Symbols"
+        "Contemporary Indian",
+        "Entryway design",
+        "Swastika",
+        "OM symbol",
+        "Carved wood",
+        "Marble flooring",
+        "Living area"
       ],
-      "budget_indicator": "High",
+      "budget_indicator": "Moderate, with the use of marble and carved wood indicating a higher budget.",
       "space_type": "Residential",
-      "functionality": "Efficient cooking space with cultural decor",
-      "indian_specific": "Traditional symbols, Indian style elements"
+      "functionality": "Entrance and storage, leading into a living area",
+      "indian_specific": "Traditional symbols and carving styles"
     }
   },
-  "cached_at": 1753179297025,
+  "cached_at": 1753274055176,
   "cache_key": "db6b576b13bd05df29af286818678645"
 }

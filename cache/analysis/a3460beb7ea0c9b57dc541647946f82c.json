@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00468.JPG",
+  "analysis": {
+    "image_id": "img_099",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden headboard",
+        "Shelving unit on wall",
+        "Textured wall panels",
+        "Modern lighting fixture"
+      ],
+      "objects": [
+        {
+          "type": "Bed with wooden frame",
+          "features": [
+            "Square patterned headboard",
+            "Orange fabric upholstery",
+            "White drawers at the base"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric",
+            "Metal"
+          ],
+          "finish": "Wood has a polished finish, fabric is textured, metal has a chrome finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Orange",
+          "White",
+          "Brown",
+          "Blue",
+          "Black",
+          "Silver"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric",
+          "Metal",
+          "Marble"
+        ],
+        "lighting": "Natural light from window, complemented by a modern wall sconce",
+        "texture": "Wall panels have a textured finish, bed has a square pattern upholstery"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but has elements typical in Indian residential interiors",
+        "traditional_elements": [
+          "Wooden headboard",
+          "Textured wall panels"
+        ],
+        "modern_adaptations": [
+          "Square patterned upholstered headboard",
+          "Contemporary shelving unit"
+        ],
+        "space_utilization": "Efficient use of wall space with a shelving unit and wall panels",
+        "cultural_significance": "Wooden elements and wall panels reflect traditional craftsmanship, while modern fixtures and patterns hint at contemporary tastes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian bedroom with a contemporary design. The wooden headboard with square patterned upholstery is a prominent feature, complemented by a shelving unit on the wall. The textured wall panels add depth and traditional charm, while the modern lighting fixture and contemporary shelving unit reflect a blend of traditional and contemporary styles. The color palette includes warm orange tones, white accents, and blue patterns, creating a balanced and inviting space.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Modern design",
+        "Bedroom",
+        "Wooden furniture",
+        "Textured walls",
+        "Contemporary shelving"
+      ],
+      "budget_indicator": "Mid-range, with visible use of quality materials such as wood and fabric",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Use of wood and textured wall panels, with a blend of traditional and contemporary elements"
+    }
+  },
+  "cached_at": 1753275679771,
+  "cache_key": "a3460beb7ea0c9b57dc541647946f82c"
+}

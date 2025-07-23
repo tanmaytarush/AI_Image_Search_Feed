@@ -3,72 +3,65 @@
   "analysis": {
     "image_id": "img_034",
     "ai_generated_tags": {
-      "room": "closet",
-      "theme": "minimalist modern",
+      "room": "Closet",
+      "theme": "Modern Indian",
       "primary_features": [
-        "white panels",
-        "wooden slats",
-        "vertical slats"
+        "White panels with vertical dark slats, wood grain pattern"
       ],
       "objects": [
         {
-          "type": "cabinet",
+          "type": "Closet Doors",
           "features": [
-            "closed doors",
-            "horizontal and vertical slots"
+            "White panels, vertical dark slats, wood grain pattern"
           ],
           "materials": [
-            "white panels",
-            "wooden slats"
+            "Painted MDF or similar, wood grain finish"
           ],
-          "finish": "smooth"
+          "finish": "Glossy finish on white panels, natural wood grain texture on lower section"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white",
-          "brown",
-          "black"
+          "White, brown, black"
         ],
         "materials": [
-          "wood",
-          "paint"
+          "Painted MDF or similar, wood grain"
         ],
-        "lighting": "natural",
-        "texture": "smooth"
+        "lighting": "Soft ambient light, possibly from a recessed source above",
+        "texture": "Smooth painted surfaces, natural wood grain texture"
       },
       "indian_context": {
-        "regional_style": "focal regional style not identifiable",
+        "regional_style": "Not clearly identifiable due to modern design approach",
         "traditional_elements": [],
         "modern_adaptations": [
-          "minimalist design with traditional wood elements"
+          "Integration of traditional wood grain with modern minimalist design"
         ],
-        "space_utilization": "organized for storage",
-        "cultural_significance": "does not include culturally significant elements"
+        "space_utilization": "Efficient storage design",
+        "cultural_significance": "No traditional Indian elements visible, but modern designs could have cultural relevance depending on the overall home's decor"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern approach to Indian interior design, featuring white painted closet doors with vertical dark slats and a wood grain pattern at the lower section. The design combines traditional wood grain texture with a minimalist aesthetic, typical of contemporary Indian interiors. The use of glossy white panels and dark vertical slats creates a striking visual contrast.",
+      "metadata": {
+        "tags": [
+          "modern Indian design",
+          "closet",
+          "wood grain pattern",
+          "glossy finish",
+          "minimalist design"
+        ],
+        "budget_indicator": "Moderate, as indicated by the use of MDF and painted surfaces",
+        "space_type": "Residential",
+        "functionality": "Storage and organization",
+        "indian_specific": "Modern interpretation of traditional wood grain"
       }
-    },
-    "confidence_scores": {
-      "room": 0.85,
-      "theme": 0.9,
-      "primary_features": 0.92,
-      "objects": 0.88,
-      "indian_context": 0.78
-    },
-    "description": "This image depicts a minimalist modern cabinet with a clean and organized design. The cabinet features white panels at the top, wooden slats in the middle, and vertical black slats as decorative elements. The design is simple and functional, with a smooth finish and natural lighting.",
-    "metadata": {
-      "tags": [
-        "minimalist",
-        "modern",
-        "cabinet",
-        "white",
-        "wooden slats"
-      ],
-      "budget_indicator": "medium",
-      "space_type": "closet",
-      "functionality": "storage",
-      "indian_specific": "no Indian-specific design features"
     }
   },
-  "cached_at": 1753181122658,
+  "cached_at": 1753274414025,
   "cache_key": "88f422736a60c996d32f8169ebeea11d"
 }

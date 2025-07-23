@@ -1,0 +1,118 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.48%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_028",
+    "ai_generated_tags": {
+      "room": "Bar area",
+      "theme": "Contemporary Indian with Western influences",
+      "primary_features": [
+        "Meticulously organized shelves",
+        "Modular cabinet with storage",
+        "Modern sink design",
+        "Integrated lighting"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "4 doors with vertical ridges",
+            "Metallic gold detailing"
+          ],
+          "materials": [
+            "Wooden panels with metallic finish"
+          ],
+          "finish": "Gold edging and handle details"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Gold-colored",
+            "Modern bowl design"
+          ],
+          "materials": [
+            "Metallic finish"
+          ],
+          "finish": "Shiny and reflective"
+        },
+        {
+          "type": "Shelving",
+          "features": [
+            "Glass shelves with metallic frames",
+            "Structured organization"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Clear glass, metallic gold frames"
+        },
+        {
+          "type": "Decorative Element",
+          "features": [
+            "Gold-colored vase with floral arrangement",
+            "Gold-colored sink"
+          ],
+          "materials": [
+            "Gold-colored metal"
+          ],
+          "finish": "Shiny and reflective"
+        },
+        {
+          "type": "Appliance",
+          "features": [
+            "Water filter unit",
+            "Modern design"
+          ],
+          "materials": [
+            "Metallic finish"
+          ],
+          "finish": "Shiny and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral tones, gold accents, white marble backdrop"
+        ],
+        "materials": [
+          "Wood, metal, glass, marble"
+        ],
+        "lighting": "Integrated under-cabinet and ambient lighting creating a warm glow",
+        "texture": "Smooth and polished surfaces with structured designs"
+      },
+      "indian_context": {
+        "regional_style": "Not heavily regional, more of a contemporary style with Indian touches",
+        "traditional_elements": [
+          "Gold detailing"
+        ],
+        "modern_adaptations": [
+          "Integrated modern appliances and contemporary furniture"
+        ],
+        "space_utilization": "Efficient use of vertical space with storage and display elements",
+        "cultural_significance": "Gold is a symbol of luxury and divinity in Indian culture, often used in furniture and decor to signify wealth and prosperity"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.88,
+      "theme": 0.85,
+      "primary_features": 0.91,
+      "objects": 0.9,
+      "indian_context": 0.87
+    },
+    "description": "This image showcases a contemporary bar area with a subtle Indian influence, prominently featuring a modular cabinet with gold detailing, a modern sink with a gold bowl design, and glass shelves with metallic frames. The space uses a neutral color palette with gold accents, reflecting Indian aesthetic preferences for luxurious and auspicious elements. The lighting is integrated and ambient, adding warmth to the modern Indian design elements.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Modern Bar Area",
+        "Gold Accents",
+        "Glass Shelves",
+        "Integrated Lighting"
+      ],
+      "budget_indicator": "Higher, due to materials like gold and marble",
+      "space_type": "Residential or commercial bar area",
+      "functionality": "Primary purpose is to serve as a bar, with storage and display capabilities",
+      "indian_specific": "Gold detailing and modern interpretations of traditional Indian elements"
+    }
+  },
+  "cached_at": 1753274314909,
+  "cache_key": "c46023180f571e577fffa2ae4224ac0d"
+}

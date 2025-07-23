@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.55%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_054",
+    "ai_generated_tags": {
+      "room": "Entryway/Living Area",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Decorative Partition",
+        "Bathroom Sink Area",
+        "Photo Frames"
+      ],
+      "objects": [
+        {
+          "type": "Decorative Partition",
+          "features": [
+            "Dark wood frame with white vertical slats",
+            "Curved wooden design element"
+          ],
+          "materials": [
+            "Dark wood",
+            "White slats"
+          ],
+          "finish": "Glossy and polished"
+        },
+        {
+          "type": "Bathroom Sink Area",
+          "features": [
+            "Dark wood cabinets",
+            "Black countertop",
+            "Wall-mounted mirror"
+          ],
+          "materials": [
+            "Dark wood",
+            "Black granite",
+            "Glass"
+          ],
+          "finish": "Matte and glossy"
+        },
+        {
+          "type": "Photo Frames",
+          "features": [
+            "Various sizes and designs"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown",
+          "White",
+          "Black",
+          "Purple",
+          "Green"
+        ],
+        "materials": [
+          "Wood",
+          "Granite",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Decorative Partition with slats"
+        ],
+        "modern_adaptations": [
+          "Curved wooden design element"
+        ],
+        "space_utilization": "Open and functional layout",
+        "cultural_significance": "Decorative partition symbolizes the traditional 'Pooja Mandap' or prayer area, blending modern and cultural design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a contemporary entryway/living area with a blend of Indian design elements. The decorative partition, with its dark wood frame and white vertical slats, is reminiscent of a traditional 'Pooja Mandap' or prayer area. The curved wooden design adds a modern touch. The bathroom sink area features dark wood cabinets, a black granite countertop, and a wall-mounted mirror, creating a functional and stylish space. Photo frames of various sizes and designs adorn the partition, adding a personal touch. The overall color palette includes dark brown, white, black, purple, and green, reflecting a modern yet culturally relevant aesthetic.",
+    "metadata": {
+      "tags": [
+        "Indian Interior",
+        "Contemporary Design",
+        "Decorative Partition",
+        "South Indian Style",
+        "Bathroom Sink Area",
+        "Photo Frames"
+      ],
+      "budget_indicator": "Moderate, with materials like dark wood, granite, and polished metals indicating a mid-range budget",
+      "space_type": "Entryway/Living Area",
+      "functionality": "Open and functional layout with a blend of traditional and modern elements",
+      "indian_specific": "Decorative partition with slats and curved wooden design elements"
+    }
+  },
+  "cached_at": 1753274866164,
+  "cache_key": "ee0b94d19f26ee5e441d307418474c2b"
+}

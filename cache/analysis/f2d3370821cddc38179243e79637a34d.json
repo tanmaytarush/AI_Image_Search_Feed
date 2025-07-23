@@ -4,75 +4,87 @@
     "image_id": "img_018",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Minimalist",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Compact dining area",
-        "Integrated fridge",
-        "Cabinet storage"
+        "Built-in cabinets",
+        "Refrigerator",
+        "Dining table with chairs",
+        "Decorative wall art",
+        "Wooden door"
       ],
       "objects": [
         {
-          "type": "Dining Table",
+          "type": "Dining table",
           "features": [
-            "Four chairs",
-            "Metallic legs",
-            "White top"
+            "White top",
+            "Metal legs with gold accents"
           ],
           "materials": [
-            "Metallic",
-            "White"
+            "Glass",
+            "Metal"
           ],
-          "finish": "Polished"
+          "finish": "High-gloss polished surfaces"
         },
         {
           "type": "Refrigerator",
           "features": [
-            "Integrated into cabinetry",
-            "Digital display"
+            "Modern sleek design",
+            "Brand visible"
           ],
           "materials": [
-            "Metallic"
+            "Metallic finish"
           ],
-          "finish": "Polished"
+          "finish": "Polished metallic"
         },
         {
           "type": "Cabinet",
           "features": [
-            "Wooden doors",
-            "Glass panels"
+            "Built-in design",
+            "Wooden texture"
           ],
           "materials": [
-            "Wood",
-            "Glass"
+            "Wood"
           ],
-          "finish": "Natural, Frosted"
+          "finish": "Natural wood grain"
+        },
+        {
+          "type": "Wall art",
+          "features": [
+            "Metallic decorative piece"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metallic"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Wood",
+          "Gray",
+          "Wood tones",
+          "Gold accents",
           "Black"
         ],
         "materials": [
+          "Glass",
           "Metal",
           "Wood",
-          "Glass"
+          "Stone"
         ],
-        "lighting": "Under-cabinet, Pendant lights",
-        "texture": "Smooth"
+        "lighting": "Artificial lighting from ceiling fixtures",
+        "texture": "Smooth surfaces with high-gloss finishes"
       },
       "indian_context": {
-        "regional_style": "Contemporary",
+        "regional_style": "Modern Indian",
         "traditional_elements": [
-          "Cabinet doors with glass panels"
+          "Carved wooden furniture is not visible, but modern interpretations of traditional Indian aesthetics are present"
         ],
         "modern_adaptations": [
-          "Integrated fridge",
-          "Compact layout"
+          "Contemporary design with Indian influences"
         ],
-        "space_utilization": "Efficient use of vertical space",
-        "cultural_significance": "Modern interpretation of Indian cabinetry"
+        "space_utilization": "Efficient use of space with built-in cabinets and minimalistic decor",
+        "cultural_significance": "The use of natural wood tones and metallic accents reflects modern Indian design preferences that blend traditional and contemporary elements"
       }
     },
     "confidence_scores": {
@@ -82,22 +94,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image showcases a modern minimalist kitchen design with a compact dining area integrated into the cabinetry. The space features a sleek, metallic fridge that blends seamlessly into the cabinetry, with glass-paneled doors adding a touch of traditional elegance. The dining table and chairs have a contemporary design with metallic legs, and the kitchen is well-lit with under-cabinet lighting and pendant lights. The use of white, wood, and black creates a clean, sophisticated look, while the glass panels on the cabinet doors add a subtle Indian touch. The space is designed for efficient use of vertical space, making it ideal for a modern home.",
+    "description": "The interior space is a modern interpretation of Indian design, featuring contemporary furniture with traditional influences. The kitchen area includes built-in cabinets, a sleek refrigerator, and a dining table with gold accents. The use of natural wood tones and metallic finishes reflects a modern Indian aesthetic, blending traditional elements with contemporary design. The space is well-organized, utilizing built-in storage, and illuminated by artificial lighting. Decorative elements such as wall art add to the cultural significance of the space, highlighting the modern adaptation of Indian design.",
     "metadata": {
       "tags": [
-        "Kitchen",
-        "Modern",
-        "Minimalist",
-        "Compact",
-        "Integrated Fridge",
-        "Glass Doors"
+        "Modern Indian",
+        "Kitchen Design",
+        "Contemporary Style",
+        "Natural Wood",
+        "Metal Accents",
+        "Built-in Cabinets"
       ],
-      "budget_indicator": "Mid-range",
-      "space_type": "Compact Home",
-      "functionality": "Efficient Dining and Kitchen Combo",
-      "indian_specific": "Modern Indian Cabinetry"
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Kitchen and dining area",
+      "indian_specific": "Natural wood finishes and metallic accents reflect modern Indian design"
     }
   },
-  "cached_at": 1753179488737,
+  "cached_at": 1753274170138,
   "cache_key": "f2d3370821cddc38179243e79637a34d"
 }
