@@ -1,0 +1,82 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.30%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_039",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Bed with wooden frame and white mattress",
+        "Cupboard with pink and white panels",
+        "Ceiling fan"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Wooden frame with a white mattress",
+            "Simple design"
+          ],
+          "materials": [
+            "Wood, foam, fabric"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Cabinet",
+          "features": [
+            "Pink and white panels",
+            "Storage compartments"
+          ],
+          "materials": [
+            "Particle board, MDF"
+          ],
+          "finish": "Lacquered, glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink, white, brown, beige"
+        ],
+        "materials": [
+          "Wood, plastic, metal"
+        ],
+        "lighting": "Natural light from window, ceiling fan light",
+        "texture": "Smooth, glossy, flat"
+      },
+      "indian_context": {
+        "regional_style": "Southern Indian",
+        "traditional_elements": [
+          "Cupboard design"
+        ],
+        "modern_adaptations": [
+          "Modern materials and finishes"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Cupboard design reflects traditional Indian storage habits"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern bedroom with a Southern Indian influence. It features a bed with a wooden frame and a white mattress, along with built-in pink and white panelled storage cupboards. The ceiling fan and window add to the practical and functional design, blending traditional elements with contemporary materials and finishes.",
+      "metadata": {
+        "tags": [
+          "Bedroom",
+          "Modern Indian",
+          "Storage",
+          "Southern Style"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Built-in storage cupboards with a modern twist on traditional design"
+      }
+    }
+  },
+  "cached_at": 1753181142014,
+  "cache_key": "a4f97637b390151f185c62aedb4bea06"
+}

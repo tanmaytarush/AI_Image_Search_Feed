@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.54%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_045",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Large wardrobe",
+        "Built-in storage"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "White and orange panels",
+            "Rectangular mirrors",
+            "Sleek handles"
+          ],
+          "materials": [
+            "Painted MDF",
+            "Orange MDF"
+          ],
+          "finish": "Matt finish"
+        },
+        {
+          "type": "Built-in Storage",
+          "features": [
+            "Open shelves",
+            "Drawers",
+            "Mirror cabinet"
+          ],
+          "materials": [
+            "Painted MDF",
+            "Metal"
+          ],
+          "finish": "Matt finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Orange",
+          "Gray",
+          "Beige"
+        ],
+        "materials": [
+          "Painted MDF",
+          "Metal"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth, flat surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Minimal use of traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Modern interpretation of storage solutions"
+        ],
+        "space_utilization": "Optimized storage with minimal decor",
+        "cultural_significance": "No significant cultural elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern, minimalist bedroom with a built-in wardrobe and storage system. The design incorporates contemporary elements with a touch of Indian aesthetic, highlighted by the bright orange and white color scheme. The wardrobe features sleek, modern handles, and the storage system includes open shelves and drawers, optimized for efficient use of space. The built-in mirror cabinet adds a practical and aesthetic touch, typical of modern Indian interior designs. The natural light from the window enhances the bright and airy feel of the room.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Indian interior",
+        "Bedroom",
+        "Built-in storage",
+        "Orange and white"
+      ],
+      "budget_indicator": "Moderate to high, due to painted MDF and metal",
+      "space_type": "Residential bedroom",
+      "functionality": "Storage and organization",
+      "indian_specific": "Modern adaptation of storage solutions"
+    }
+  },
+  "cached_at": 1753181154449,
+  "cache_key": "f70f5ed3195a394c8a758e5f576043da"
+}

@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.50%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_062",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Wall-mounted shelves",
+        "Modern TV unit",
+        "Lighting accents"
+      ],
+      "objects": [
+        {
+          "type": "Wall-mounted shelves",
+          "features": [
+            "Dark color",
+            "Rectangular shape",
+            "Integrated lighting"
+          ],
+          "materials": [
+            "Dark wood or composite material"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "TV unit",
+          "features": [
+            "White color",
+            "Closed compartments",
+            "Open storage space"
+          ],
+          "materials": [
+            "White wood or laminate"
+          ],
+          "finish": "Matte and smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark gray",
+          "White",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Laminate",
+          "Metal"
+        ],
+        "lighting": "Integrated LED lights",
+        "texture": "Smooth and even"
+      },
+      "indian_context": {
+        "regional_style": "",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary design elements with Indian materials"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "No specific cultural elements observed"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a minimalist living room setup with a modern design aesthetic. The focal point is a wall-mounted dark wood shelf unit with integrated lighting, providing a sleek and contemporary look. Below the shelf is a white TV unit with a combination of closed and open storage spaces, emphasizing a clean and organized space. The overall design is simple and functional, with a focus on space optimization and a modern color palette.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Modern",
+        "Living room",
+        "Wall-mounted shelves",
+        "TV unit",
+        "Interior design"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Entertainment and storage",
+      "indian_specific": "No Indian-specific design features"
+    }
+  },
+  "cached_at": 1753181186613,
+  "cache_key": "cf429612e6077e0c1efbfe4cf7570c6c"
+}

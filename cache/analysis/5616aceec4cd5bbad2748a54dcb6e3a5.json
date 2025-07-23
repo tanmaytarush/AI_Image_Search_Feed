@@ -1,0 +1,79 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.16%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_035",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in storage cabinets",
+        "Floral wallpaper",
+        "Geometric accents"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet doors",
+          "features": [
+            "Sliding doors",
+            "Floral pattern",
+            "Geometric metallic accents"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Glossy metallic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "Beige",
+          "Silver"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Wallpaper"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Floral wallpaper texture with metallic accents"
+      },
+      "indian_context": {
+        "regional_style": "Modern",
+        "traditional_elements": [
+          "Floral pattern"
+        ],
+        "modern_adaptations": [
+          "Geometric accents",
+          "Sliding doors"
+        ],
+        "space_utilization": "Maximizes storage space",
+        "cultural_significance": "Floral patterns represent nature and are often used in Indian interiors to bring a touch of the outdoors in"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern take on Indian interior design in a bathroom setting. The built-in storage cabinets feature a floral wallpaper that brings a traditional touch, enhanced by geometric metallic accents for a contemporary feel. The use of wood and metal materials, along with the natural light from the window, creates a balanced blend of traditional and modern aesthetics. The space is efficiently organized to maximize storage, reflecting a cultural appreciation for functionality and beauty in design.",
+      "metadata": {
+        "tags": [
+          "Modernity",
+          "Indian interior design",
+          "Floral wallpaper",
+          "Bathroom storage",
+          "Geometric accents"
+        ],
+        "budget_indicator": "Moderate to high due to the use of materials like wood and metal",
+        "space_type": "Residential bathroom",
+        "functionality": "Storage and organization",
+        "indian_specific": "Floral pattern and metallic accents"
+      }
+    }
+  },
+  "cached_at": 1753181124298,
+  "cache_key": "5616aceec4cd5bbad2748a54dcb6e3a5"
+}

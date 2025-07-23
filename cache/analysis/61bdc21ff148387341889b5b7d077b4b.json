@@ -1,0 +1,108 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.19%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_085",
+    "ai_generated_tags": {
+      "room": "home office",
+      "theme": "contemporary",
+      "primary_features": [
+        "custom built-in shelving unit",
+        "desk with chair",
+        "cabinet storage"
+      ],
+      "objects": [
+        {
+          "type": "desk",
+          "features": [
+            "curved edge",
+            "white surface with green accents"
+          ],
+          "materials": [
+            "likely MDF or particle board",
+            "green material possibly acrylic or laminate"
+          ],
+          "finish": "smooth, glossy"
+        },
+        {
+          "type": "chair",
+          "features": [
+            "modern design",
+            "brown leatherette",
+            "metal legs"
+          ],
+          "materials": [
+            "brown synthetic leatherette",
+            "metal"
+          ],
+          "finish": "glossy and smooth"
+        },
+        {
+          "type": "cabinet",
+          "features": [
+            "two-toned design",
+            "sliding door",
+            "shelving inside"
+          ],
+          "materials": [
+            "likely MDF or particle board",
+            "green material possibly acrylic or laminate"
+          ],
+          "finish": "smooth, glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "green",
+          "brown",
+          "beige",
+          "gray"
+        ],
+        "materials": [
+          "MDF/particle board",
+          "acrylic/laminate",
+          "metal",
+          "synthetic leatherette"
+        ],
+        "lighting": "soft, ambient light from ceiling, natural light from window",
+        "texture": [
+          "smooth",
+          "glossy",
+          "textured walls"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "no specific regional style present",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "contemporary interpretation of Indian design elements"
+        ],
+        "space_utilization": "efficient use of vertical space with built-in furniture",
+        "cultural_significance": "no overt cultural elements, but modern adaptations of Indian design aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.8,
+      "primary_features": 0.9,
+      "objects": 0.95,
+      "indian_context": 0.75
+    },
+    "description": "This image depicts a modern home office space with a contemporary design. The room features a custom-built shelving unit with a white desk and green accents, a modern chair with brown leatherette, and a sliding door cabinet with shelving. The space is designed with an efficient use of vertical space, and the overall aesthetic is a mix of modern and Indian design elements, such as the use of white and green colors and materials with glossy finishes. The lighting is soft and ambient, complementing the neutral and vibrant tones used in the room. The space is well-organized, with a focus on functionality and comfort.",
+    "metadata": {
+      "tags": [
+        "contemporary home office",
+        "modern design",
+        "efficiency",
+        "custom built-in furniture",
+        "indian design aesthetics"
+      ],
+      "budget_indicator": "moderate, with modern materials and finishes",
+      "space_type": "residential",
+      "functionality": "work and storage",
+      "indian_specific": "modern adaptation of Indian design elements"
+    }
+  },
+  "cached_at": 1753181240523,
+  "cache_key": "61bdc21ff148387341889b5b7d077b4b"
+}

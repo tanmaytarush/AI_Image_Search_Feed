@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.18%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_018",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Compact dining area",
+        "Integrated fridge",
+        "Cabinet storage"
+      ],
+      "objects": [
+        {
+          "type": "Dining Table",
+          "features": [
+            "Four chairs",
+            "Metallic legs",
+            "White top"
+          ],
+          "materials": [
+            "Metallic",
+            "White"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Refrigerator",
+          "features": [
+            "Integrated into cabinetry",
+            "Digital display"
+          ],
+          "materials": [
+            "Metallic"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Cabinet",
+          "features": [
+            "Wooden doors",
+            "Glass panels"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Natural, Frosted"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Wood",
+          "Black"
+        ],
+        "materials": [
+          "Metal",
+          "Wood",
+          "Glass"
+        ],
+        "lighting": "Under-cabinet, Pendant lights",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Contemporary",
+        "traditional_elements": [
+          "Cabinet doors with glass panels"
+        ],
+        "modern_adaptations": [
+          "Integrated fridge",
+          "Compact layout"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Modern interpretation of Indian cabinetry"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern minimalist kitchen design with a compact dining area integrated into the cabinetry. The space features a sleek, metallic fridge that blends seamlessly into the cabinetry, with glass-paneled doors adding a touch of traditional elegance. The dining table and chairs have a contemporary design with metallic legs, and the kitchen is well-lit with under-cabinet lighting and pendant lights. The use of white, wood, and black creates a clean, sophisticated look, while the glass panels on the cabinet doors add a subtle Indian touch. The space is designed for efficient use of vertical space, making it ideal for a modern home.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modern",
+        "Minimalist",
+        "Compact",
+        "Integrated Fridge",
+        "Glass Doors"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Compact Home",
+      "functionality": "Efficient Dining and Kitchen Combo",
+      "indian_specific": "Modern Indian Cabinetry"
+    }
+  },
+  "cached_at": 1753179488737,
+  "cache_key": "f2d3370821cddc38179243e79637a34d"
+}

@@ -1,0 +1,108 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.11.08%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_064",
+    "ai_generated_tags": {
+      "room": "Lounge",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "L-shaped sofa with white upholstery",
+        "Marble flooring",
+        "Modern artwork on the wall",
+        "Round wooden coffee table",
+        "Marble and wood shelving unit"
+      ],
+      "objects": [
+        {
+          "type": "L-shaped sofa",
+          "features": [
+            "White fabric upholstery",
+            "Wooden base"
+          ],
+          "materials": [
+            "Fabric, Wood"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Marble flooring",
+          "features": [
+            "White with grey veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Round wooden coffee table",
+          "features": [
+            "Dark wood",
+            "Simple design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Marble and wood shelving unit",
+          "features": [
+            "Dark wood frame",
+            "Marble top"
+          ],
+          "materials": [
+            "Wood, Marble"
+          ],
+          "finish": "Matt"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Beige, Brown, Dark Grey, Blue, Black, Green"
+        ],
+        "materials": [
+          "Marble, Wood, Fabric, Glass"
+        ],
+        "lighting": "Natural light from the window, with recessed ceiling lights",
+        "texture": "Smooth marble, matte wood, fabric, glossy wood"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but includes modern interpretations of traditional motifs",
+        "traditional_elements": [
+          "Carved wooden elements in the shelving unit",
+          "Use of wood and marble"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with modern furniture and clean lines",
+          "Geometric wall art"
+        ],
+        "space_utilization": "Efficient use of space with a compact layout, maximizing the seating area",
+        "cultural_significance": "Incorporation of natural materials and clean lines reflects a modern take on traditional Indian aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a contemporary lounge with a touch of Indian design elements. The L-shaped sofa with white upholstery and wooden base is a modern interpretation of traditional seating. The marble flooring and wood shelving unit add a refined feel, while the geometric artwork on the wall brings in a more modern aesthetic. The use of natural materials like wood and marble, along with the clean lines and minimalist design, align with contemporary interpretations of traditional Indian design, such as the incorporation of natural motifs and the use of wood and stone in various forms.",
+    "metadata": {
+      "tags": [
+        "Contemporary Lounge",
+        "Indian Design Influences",
+        "Marble Flooring",
+        "Wooden Furniture",
+        "Geometric Artwork"
+      ],
+      "budget_indicator": "Higher",
+      "space_type": "Living Room",
+      "functionality": "Relaxation and socializing",
+      "indian_specific": "Incorporation of natural materials and clean lines"
+    }
+  },
+  "cached_at": 1753181188561,
+  "cache_key": "b55e61e56ae9fc8e2033575a90aa41f9"
+}

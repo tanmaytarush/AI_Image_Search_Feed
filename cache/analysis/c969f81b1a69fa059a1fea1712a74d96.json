@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.30%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_021",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Minimalist",
+      "primary_features": [
+        "Sliding wardrobe doors",
+        "Modern bed frame",
+        "Minimalist decor"
+      ],
+      "objects": [
+        {
+          "type": "Sliding wardrobe doors",
+          "features": [
+            "Arched top",
+            "Wooden and glass design",
+            "Metal frame"
+          ],
+          "materials": [
+            "Wood (possibly teak)",
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Smooth surface with a glossy finish"
+        },
+        {
+          "type": "Bed frame",
+          "features": [
+            "Modern design",
+            "Minimalist lines",
+            "Integrated storage"
+          ],
+          "materials": [
+            "Metal",
+            "Wood (possibly teak)"
+          ],
+          "finish": "Polished metal and wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light gray",
+          "White",
+          "Natural wood tones"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass",
+          "Polished surfaces"
+        ],
+        "lighting": "Subtle ambient lighting from ceiling lights",
+        "texture": "Smooth surfaces with a modern aesthetic"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary interpretation of traditional Indian design elements like arched doors"
+        ],
+        "space_utilization": "Efficient use of space with storage integrated into the wardrobe doors",
+        "cultural_significance": "No cultural elements from traditional Indian design are present in this image; it leans towards a global modern aesthetic."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space features a contemporary minimalist bedroom with sleek sliding wardrobe doors that incorporate traditional Indian design elements in the form of arched tops. The room is characterized by its clean lines, modern furniture, and a neutral color palette. The emphasis is on functionality and space optimization, with storage features seamlessly integrated into the wardrobe design. The overall aesthetic is a modern interpretation of traditional Indian design, evident in the use of natural wood tones and the incorporation of arched forms.",
+      "metadata": {
+        "tags": [
+          "Contemporary",
+          "Minimalist",
+          "Bedroom",
+          "Sliding Doors",
+          "Modern Design",
+          "Neutral Color Palette"
+        ],
+        "budget_indicator": "Moderate to High, due to the use of polished materials like wood and metal, and the modern design aesthetic.",
+        "space_type": "Residential Bedroom",
+        "functionality": "Primary purpose is for sleeping and storage, with the wardrobe doors storing clothes and other personal items.",
+        "indian_specific": "Arched top design of the wardrobe doors"
+      }
+    }
+  },
+  "cached_at": 1753181096881,
+  "cache_key": "c969f81b1a69fa059a1fea1712a74d96"
+}

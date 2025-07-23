@@ -79,15 +79,50 @@ class QdrantService {
     }
   }
 
-  async upsertPoints(points) {
+  async healthCheck() {
     try {
-      await this.client.upsert(this.collectionName, {
-        points: points,
-      });
-      console.log(`Successfully upserted ${points.length} points`);
+      await this.client.getCollections();
+      console.log("✅ Qdrant connection is healthy");
     } catch (error) {
-      console.error("Error upserting points:", error);
-      throw error;
+      console.error("❌ Qdrant connection failed:", error.message);
+      throw new Error(`Qdrant connection failed: ${error.message}`);
+    }
+  }
+
+  async upsertPoints(points) {
+    const maxRetries = 3;
+    const baseDelay = 1000; // 1 second
+
+    for (let attempt = 1; attempt <= maxRetries; attempt++) {
+      try {
+        await this.client.upsert(this.collectionName, {
+          points: points,
+        });
+        console.log(`✅ Successfully upserted ${points.length} points`);
+        return;
+      } catch (error) {
+        console.error(`❌ Attempt ${attempt}/${maxRetries} failed to upsert points:`, error.message);
+        
+        // Check if it's a connection error
+        const isConnectionError = error.message.includes('fetch failed') || 
+                                error.message.includes('SocketError') || 
+                                error.message.includes('other side closed') ||
+                                error.message.includes('UND_ERR_SOCKET');
+        
+        if (attempt === maxRetries) {
+          console.error(`❌ All ${maxRetries} attempts failed. Final error:`, error);
+          throw error;
+        }
+        
+        if (isConnectionError) {
+          const delay = baseDelay * Math.pow(2, attempt - 1); // Exponential backoff
+          console.log(`⏳ Connection error detected. Retrying in ${delay}ms...`);
+          await new Promise(resolve => setTimeout(resolve, delay));
+        } else {
+          // Non-connection error, don't retry
+          throw error;
+        }
+      }
     }
   }
 

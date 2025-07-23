@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.22%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_019",
+    "ai_generated_tags": {
+      "room": "Kitchen/Dining",
+      "theme": "Modern Contemporary",
+      "primary_features": [
+        "Modern cabinetry",
+        "Smart appliances",
+        "Elegant dining setup"
+      ],
+      "objects": [
+        {
+          "type": "Refrigerator",
+          "features": [
+            "Dual temperature zones",
+            "Digital display"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "Metallic"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "Integrated design",
+            "Black laminate finish"
+          ],
+          "materials": [
+            "Laminate"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Dining Set",
+          "features": [
+            "White table with modern legs",
+            "Tufted beige chairs"
+          ],
+          "materials": [
+            "Wood, fabric"
+          ],
+          "finish": "White, Beige"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Beige",
+          "Black",
+          "Gold"
+        ],
+        "materials": [
+          "Laminate, Stainless steel, Wood, Fabric"
+        ],
+        "lighting": "Ambient ceiling lights",
+        "texture": "Smooth, glossy"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Minimalist design"
+        ],
+        "modern_adaptations": [
+          "Use of modern appliances and furniture"
+        ],
+        "space_utilization": "Efficient use of limited space",
+        "cultural_significance": "Adaptation of modern aesthetics with a touch of minimalism"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern kitchen-dining area with a contemporary design aesthetic. It features sleek cabinetry with a glossy black finish, a smart refrigerator with a dual temperature zone, and a minimalist dining set with a white table and tufted beige chairs. The space is illuminated by ambient ceiling lights, and the overall color palette is dominated by white, beige, black, and gold, creating a sophisticated and elegant look. The modern Indian theme is evident in the adaptation of minimalistic design elements and the efficient use of space.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Dining",
+        "Modern",
+        "Contemporary",
+        "Minimalist",
+        "Smart Appliances"
+      ],
+      "budget_indicator": "Moderate to High",
+      "space_type": "Combined Kitchen and Dining",
+      "functionality": "Efficient cooking and dining area",
+      "indian_specific": "Modern adaptation of minimalistic design"
+    }
+  },
+  "cached_at": 1753179488729,
+  "cache_key": "25372c24d5d4c854d236eeca25716490"
+}

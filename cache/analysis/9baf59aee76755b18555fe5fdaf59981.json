@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.24%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_036",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Large built-in wardrobes",
+        "Modern storage furniture",
+        "Plain walls",
+        "Hardwood flooring"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "White with brown accents",
+            "Sliding doors",
+            "Multiple drawers below"
+          ],
+          "materials": [
+            "MDF for doors and drawers",
+            "Painted surface"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Bookshelf",
+          "features": [
+            "Dark wooden finish",
+            "Multiple shelves",
+            "Minimalistic design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Stained"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Dark wood",
+          "Neutral"
+        ],
+        "materials": [
+          "MDF",
+          "Paint",
+          "Wood"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional",
+        "traditional_elements": [
+          "None visible"
+        ],
+        "modern_adaptations": [
+          "Incorporation of simple Indian design principles like symmetry and functionality"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "The space does not highlight any specific cultural or religious significance"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.92,
+        "indian_context": 0.8
+      },
+      "description": "The image depicts a modern Indian bedroom with a contemporary design. The space features large built-in wardrobes with a white and brown color scheme, reflecting a minimalist yet functional approach to storage. The walls are plain, and the flooring is a light neutral tone, which complements the overall minimalist look. The room includes a dark wooden bookshelf with open shelving, adding a touch of traditional Indian aesthetics without overt regional elements.",
+      "metadata": {
+        "tags": [
+          "Bedroom",
+          "Modern Indian",
+          "Contemporary",
+          "Minimalist",
+          "Built-in Storage",
+          "Neutral Color Palette"
+        ],
+        "budget_indicator": "Moderate to High, with the use of MDF panels for doors and drawers, which is typically more expensive than traditional Indian materials.",
+        "space_type": "Residential bedroom",
+        "functionality": "Storage and organization",
+        "indian_specific": "Modern interpretation of Indian design principles"
+      }
+    }
+  },
+  "cached_at": 1753181142555,
+  "cache_key": "9baf59aee76755b18555fe5fdaf59981"
+}
