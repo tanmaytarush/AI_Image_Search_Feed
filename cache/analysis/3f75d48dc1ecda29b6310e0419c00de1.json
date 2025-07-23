@@ -1,0 +1,151 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00593.JPG",
+  "analysis": {
+    "image_id": "img_008",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Marble Flooring",
+        "Wooden Ceiling",
+        "Brown L-Shape Sofa",
+        "Staircase with Glass Railings",
+        "Decorative Pillows",
+        "Floral Tablecloth",
+        "Decorative Rugs"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Brown Fabric",
+            "L-Shape Design",
+            "Soft Upholstery",
+            "Built-in Pillows"
+          ],
+          "materials": [
+            "Fabric",
+            "Faux Fur"
+          ],
+          "finish": "Sleek and Smooth"
+        },
+        {
+          "type": "Table",
+          "features": [
+            "Floral Tablecloth",
+            "Wooden Frame"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Polished and Elegant"
+        },
+        {
+          "type": "Flooring",
+          "features": [
+            "Marble Tiles"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High-Gloss and Reflective"
+        },
+        {
+          "type": "Ceiling",
+          "features": [
+            "Wooden Panels"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural and Warm"
+        },
+        {
+          "type": "Staircase",
+          "features": [
+            "Glass Railings",
+            "Wooden Steps"
+          ],
+          "materials": [
+            "Glass",
+            "Wood"
+          ],
+          "finish": "Modern and Sleek"
+        },
+        {
+          "type": "Decorations",
+          "features": [
+            "Flower Vases",
+            "Statues",
+            "Wall Art"
+          ],
+          "materials": [
+            "Metal",
+            "Wood",
+            "Plastic"
+          ],
+          "finish": "Shiny and Ornamental"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "White",
+          "Gold",
+          "Marble Grey",
+          "Green",
+          "Red"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal",
+          "Glass",
+          "Fabric"
+        ],
+        "lighting": "Bright and Even",
+        "texture": "Smooth and Hard"
+      },
+      "indian_context": {
+        "regional_style": "Kerala",
+        "traditional_elements": [
+          "Wooden Staircase",
+          "Marble Flooring",
+          "Decorative Pillows",
+          "Floral Tablecloth"
+        ],
+        "modern_adaptations": [
+          "Glass Railings",
+          "Modern Lighting",
+          "Contemporary Furniture"
+        ],
+        "space_utilization": "Open and Spacious",
+        "cultural_significance": "Reflects South Indian Home Decor with a Blend of Tradition and Modernity"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a contemporary Indian fusion living room with a warm and inviting ambiance. The use of marble flooring and wooden ceiling elements reflects traditional Kerala home decor, while the modern glass railings and sleek furniture bring a contemporary touch. The space is well-lit, with soft lighting enhancing the natural wood tones. The decor includes decorative pillows, floral tablecloths, and ornamental vases, creating a harmonious blend of traditional and modern elements.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Contemporary Indian",
+        "Marble Flooring",
+        "Wooden Ceiling",
+        "Kerala Style"
+      ],
+      "budget_indicator": "High",
+      "space_type": "Residential",
+      "functionality": "Social and Relaxation",
+      "indian_specific": "Traditional Elements with Modern Adaptations"
+    }
+  },
+  "cached_at": 1753179273777,
+  "cache_key": "3f75d48dc1ecda29b6310e0419c00de1"
+}

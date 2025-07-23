@@ -1,0 +1,2574 @@
+{
+  "processed_at": "2025-07-22T10:19:07.816Z",
+  "total_processed": 22,
+  "errors": [
+    {
+      "image_id": "img_004",
+      "error": "Failed to analyze image: HTTP 500: {\"object\":\"error\",\"message\":\"\",\"type\":\"\",\"param\":null,\"code\":50001}"
+    },
+    {
+      "image_id": "img_005",
+      "error": "Failed to analyze image: HTTP 500: {\"object\":\"error\",\"message\":\"\",\"type\":\"\",\"param\":null,\"code\":50001}"
+    },
+    {
+      "image_id": "img_017",
+      "error": "Failed to analyze image: HTTP 500: {\"object\":\"error\",\"message\":\"\",\"type\":\"\",\"param\":null,\"code\":50001}"
+    },
+    {
+      "image_id": "img_021",
+      "error": "Failed to analyze image: HTTP 500: {\"object\":\"error\",\"message\":\"\",\"type\":\"\",\"param\":null,\"code\":50001}"
+    },
+    {
+      "image_id": "img_023",
+      "error": "Failed to analyze image: HTTP 500: {\"object\":\"error\",\"message\":\"\",\"type\":\"\",\"param\":null,\"code\":50001}"
+    },
+    {
+      "image_id": "img_027",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_029",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_028",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_031",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_032",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_034",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_035",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_033",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_038",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_039",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_037",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_036",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_040",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_041",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_043",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_042",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_044",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_045",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_049",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_047",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_050",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_048",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_046",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_052",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_051",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_054",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_053",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_055",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_058",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_056",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_057",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_059",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_060",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_064",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_065",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_062",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_063",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_061",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_067",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_068",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_066",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_069",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_070",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_073",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_071",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_072",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_074",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_075",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_079",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_078",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_076",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_080",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_077",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_084",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_082",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_085",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_081",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_083",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_089",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_088",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_087",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_090",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_086",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_093",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_095",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_092",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_094",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_091",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_096",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_100",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_098",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_097",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    },
+    {
+      "image_id": "img_099",
+      "error": "Failed to analyze image: HTTP 402: {\"error\":\"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.\"}"
+    }
+  ],
+  "results": [
+    {
+      "image_id": "img_001",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Contemporary Indian",
+        "primary_features": [
+          "Built-in wardrobe",
+          "Window with grill",
+          "Built-in bench"
+        ],
+        "objects": [
+          {
+            "type": "Built-in wardrobe",
+            "features": [
+              "Gray textured panels",
+              "Herringbone pattern",
+              "Metallic handles"
+            ],
+            "materials": [
+              "Melamine",
+              "Metallic hardware"
+            ],
+            "finish": "Textured"
+          },
+          {
+            "type": "Window",
+            "features": [
+              "Wooden frame",
+              "Metal grill",
+              "Panoramic view"
+            ],
+            "materials": [
+              "Wood",
+              "Metal"
+            ],
+            "finish": "Natural"
+          },
+          {
+            "type": "Built-in bench",
+            "features": [
+              "Wooden frame",
+              "White seat",
+              "Integrated with wardrobe"
+            ],
+            "materials": [
+              "Wood",
+              "Metallic hardware"
+            ],
+            "finish": "Natural"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Gray",
+            "White",
+            "Brown",
+            "Black"
+          ],
+          "materials": [
+            "Melamine",
+            "Metal",
+            "Wood"
+          ],
+          "lighting": "Natural light from the window",
+          "texture": "Textured and smooth"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Wooden window grill",
+            "Textured paneling"
+          ],
+          "modern_adaptations": [
+            "Contemporary herringbone pattern",
+            "Integrated furniture"
+          ],
+          "space_utilization": "Efficient use of space with built-in furniture",
+          "cultural_significance": "Balancing traditional elements with modern aesthetics"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a contemporary Indian bedroom design with a focus on efficient space utilization and a blend of traditional and modern elements. The built-in wardrobe with a herringbone pattern and metallic hardware, along with the wooden window grill, are key features that reflect a South Indian aesthetic while incorporating modern design trends.",
+      "metadata": {
+        "tags": [
+          "Bedroom",
+          "Contemporary Indian",
+          "South Indian",
+          "Textured paneling",
+          "Built-in furniture"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Bedroom",
+        "functionality": "Storage and seating",
+        "indian_specific": "Textured paneling and wooden window grill"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.29.jpeg"
+    },
+    {
+      "image_id": "img_002",
+      "ai_generated_tags": {
+        "room": "Bathroom",
+        "theme": "Modern",
+        "primary_features": [
+          "Marble Tile",
+          "Wooden Framing"
+        ],
+        "objects": [
+          {
+            "type": "Wall Panel",
+            "features": [
+              "Marble Tiles",
+              "Lighting"
+            ],
+            "materials": [
+              "Marble Tile",
+              "Wood"
+            ],
+            "finish": "Smooth, Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Beige",
+            "Brown",
+            "White"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "lighting": "Undermount Light",
+          "texture": "Smooth, Polished"
+        },
+        "indian_context": {
+          "regional_style": "Nehru",
+          "traditional_elements": [
+            "Minimalistic Design"
+          ],
+          "modern_adaptations": [
+            "Glossy Finish"
+          ],
+          "space_utilization": "Efficient",
+          "cultural_significance": "Modern Indian Interior Design"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern interpretation of a bathroom wall panel design, featuring a sleek marble tile backdrop with a wooden frame. The marble tiles are smooth and glossy, with a beige and brown color palette, and are illuminated by undermount lighting, creating a warm and inviting ambiance. The wood framing adds a natural touch, enhancing the overall aesthetic. The design is sharp and contemporary, reflecting modern Indian interior design trends.",
+      "metadata": {
+        "tags": [
+          "Modern Bathroom",
+          "Marble Tiles",
+          "Wooden Frame",
+          "Interior Design"
+        ],
+        "budget_indicator": "Mid-Range",
+        "space_type": "Bathroom",
+        "functionality": "Aesthetic",
+        "indian_specific": "Modern Indian Interior Design"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.28.jpeg"
+    },
+    {
+      "image_id": "img_003",
+      "ai_generated_tags": {
+        "room": "Foyer",
+        "theme": "Contemporary",
+        "primary_features": [
+          "Lattice ceiling panels",
+          "Wooden slats on walls",
+          "Embedded lighting"
+        ],
+        "objects": [
+          {
+            "type": "Ceiling panel",
+            "features": [
+              "Lattice design",
+              "White finish",
+              "Lighting integration"
+            ],
+            "materials": [
+              "MDF or similar wood material"
+            ],
+            "finish": "Matte"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Beige"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "lighting": "Recessed lighting",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Lattice patterns"
+          ],
+          "modern_adaptations": [
+            "Integration of lighting"
+          ],
+          "space_utilization": "Efficient use of vertical space",
+          "cultural_significance": "Inspired by traditional lattice designs, often seen in Indian architecture"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian foyer with a decorative lattice ceiling panel. The panel features a white lattice design, which is integrated with recessed lighting, creating a contemporary aesthetic. The surrounding walls are accentuated with wooden slats, enhancing the traditional elements of lattice designs in a modern context. The space is well-lit, emphasizing the clean lines and smooth finishes of the materials used.",
+      "metadata": {
+        "tags": [
+          "Foyer",
+          "Contemporary Interior",
+          "Lattice Design",
+          "Lighting Integration",
+          "Modern Indian Style"
+        ],
+        "budget_indicator": "Moderate to High",
+        "space_type": "Entrance Hall",
+        "functionality": "Welcome space",
+        "indian_specific": "Traditional lattice patterns with modern adaptations"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.21%20%281%29.jpeg"
+    },
+    {
+      "image_id": "img_006",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian Fusion",
+        "primary_features": [
+          "Staircase with wooden railings",
+          "Marble flooring",
+          "Open plan design",
+          "Built-in shelves"
+        ],
+        "objects": [
+          {
+            "type": "Staircase",
+            "features": [
+              "Curved wooden steps",
+              "Glass railing"
+            ],
+            "materials": [
+              "Teak wood",
+              "Glass"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Shelving",
+            "features": [
+              "Built-in wall shelves",
+              "Wall-mounted display"
+            ],
+            "materials": [
+              "Teak wood"
+            ],
+            "finish": "Natural wood"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White marble floor",
+            "Teak wood",
+            "Light blue cabinets",
+            "Gold accents"
+          ],
+          "materials": [
+            "Marble",
+            "Teak wood",
+            "Glass",
+            "Ceramic"
+          ],
+          "lighting": "Natural light with recessed ceiling lights",
+          "texture": "Smooth marble, glossy wood, glass, and ceramic"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Temple-like alcove",
+            "Idols",
+            "Pooja area"
+          ],
+          "modern_adaptations": [
+            "Open plan design",
+            "Modern kitchen cabinets"
+          ],
+          "space_utilization": "Efficient use of vertical space with staircase as a focal point",
+          "cultural_significance": "Temple-like alcove reflects reverence for traditional beliefs, while modern elements blend contemporary aesthetics"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian fusion living space showcases a blend of traditional elements with contemporary design. The temple-like alcove with a framed deity showcases cultural significance, while the sleek staircase and open plan design reflect modern adaptability. The use of teak wood and marble highlights the regional style, with glass railings adding a modern touch.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Modern Indian",
+          "Fusion Design",
+          "Teak Wood",
+          "Marble Floor"
+        ],
+        "budget_indicator": "High",
+        "space_type": "Multi-functional",
+        "functionality": "Open-plan living with kitchen and prayer area",
+        "indian_specific": "Temple-like alcove with idols"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00640.JPG"
+    },
+    {
+      "image_id": "img_007",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Contemporary Indian",
+        "primary_features": [
+          "Light green cabinetry",
+          "White countertops",
+          "Wooden dining table",
+          "Round wooden dining chairs",
+          "Glass-topped kitchen island",
+          "Open shelving",
+          "Copper pendant lights",
+          "Staircase with wooden railings",
+          "Marble flooring",
+          "Modern sink with decorative basin"
+        ],
+        "objects": [
+          {
+            "type": "Cabinetry",
+            "features": [
+              "Light green color",
+              "High gloss finish"
+            ],
+            "materials": [
+              "MDF/Particleboard"
+            ],
+            "finish": "High gloss"
+          },
+          {
+            "type": "Countertop",
+            "features": [
+              "White color",
+              "Marble-like texture"
+            ],
+            "materials": [
+              "Artificial marble"
+            ],
+            "finish": "Shiny"
+          },
+          {
+            "type": "Dining Table",
+            "features": [
+              "Round shape",
+              "Wooden material"
+            ],
+            "materials": [
+              "Solid wood"
+            ],
+            "finish": "Natural varnish"
+          },
+          {
+            "type": "Dining Chairs",
+            "features": [
+              "Wooden backrest and seat",
+              "Simple design"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Natural varnish"
+          },
+          {
+            "type": "Kitchen Island",
+            "features": [
+              "Glass top",
+              "White color"
+            ],
+            "materials": [
+              "Glass/Tempered glass"
+            ],
+            "finish": "Clear"
+          },
+          {
+            "type": "Sink",
+            "features": [
+              "Modern design",
+              "Decorative basin"
+            ],
+            "materials": [
+              "Metal"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Lighting",
+            "features": [
+              "Copper pendant lights"
+            ],
+            "materials": [
+              "Copper"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Staircase",
+            "features": [
+              "Wooden railings",
+              "Glass panels"
+            ],
+            "materials": [
+              "Wood",
+              "Glass"
+            ],
+            "finish": "Natural wood, clear glass"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Light green, white, brown, black, gold, maroon"
+          ],
+          "materials": [
+            "Wood, glass, metal, artificial marble, MDF/Particleboard"
+          ],
+          "lighting": "Ambient lighting from ceiling lights and copper pendant lights",
+          "texture": "Smooth, glossy, natural wood grain, marbled"
+        },
+        "indian_context": {
+          "regional_style": "Maharashtra",
+          "traditional_elements": [
+            "Copper details",
+            "Wooden railings"
+          ],
+          "modern_adaptations": [
+            "Open shelving",
+            "Glass-topped kitchen island"
+          ],
+          "space_utilization": "Efficient use of vertical space with open shelving and glass panels, maximizing light with light green cabinetry",
+          "cultural_significance": "Use of copper for its auspicious connotations in Indian culture, presence of a deity figure for spiritual significance"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern Indian kitchen with a blend of traditional and contemporary elements. The kitchen features a light green cabinetry with high gloss finish, white countertops, and a glass-topped kitchen island. The space includes a round wooden dining table with matching chairs, and the staircase has wooden railings and glass panels. Copper pendant lights provide warm lighting, and various decorative elements like a deity figure and a decorative basin add cultural significance. The overall design is clean and functional, with efficient space utilization and a mix of natural and artificial materials.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Contemporary",
+          "Indian Design",
+          "Modern",
+          "Light Green",
+          "White",
+          "Wood",
+          "Copper",
+          "Glass"
+        ],
+        "budget_indicator": "Moderate to High",
+        "space_type": "Residential",
+        "functionality": "Functional and stylish",
+        "indian_specific": "Traditional elements like copper and wooden railings with modern adaptations"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00623.JPG"
+    },
+    {
+      "image_id": "img_008",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Contemporary Indian Fusion",
+        "primary_features": [
+          "Marble Flooring",
+          "Wooden Ceiling",
+          "Brown L-Shape Sofa",
+          "Staircase with Glass Railings",
+          "Decorative Pillows",
+          "Floral Tablecloth",
+          "Decorative Rugs"
+        ],
+        "objects": [
+          {
+            "type": "Sofa",
+            "features": [
+              "Brown Fabric",
+              "L-Shape Design",
+              "Soft Upholstery",
+              "Built-in Pillows"
+            ],
+            "materials": [
+              "Fabric",
+              "Faux Fur"
+            ],
+            "finish": "Sleek and Smooth"
+          },
+          {
+            "type": "Table",
+            "features": [
+              "Floral Tablecloth",
+              "Wooden Frame"
+            ],
+            "materials": [
+              "Wood",
+              "Fabric"
+            ],
+            "finish": "Polished and Elegant"
+          },
+          {
+            "type": "Flooring",
+            "features": [
+              "Marble Tiles"
+            ],
+            "materials": [
+              "Marble"
+            ],
+            "finish": "High-Gloss and Reflective"
+          },
+          {
+            "type": "Ceiling",
+            "features": [
+              "Wooden Panels"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Natural and Warm"
+          },
+          {
+            "type": "Staircase",
+            "features": [
+              "Glass Railings",
+              "Wooden Steps"
+            ],
+            "materials": [
+              "Glass",
+              "Wood"
+            ],
+            "finish": "Modern and Sleek"
+          },
+          {
+            "type": "Decorations",
+            "features": [
+              "Flower Vases",
+              "Statues",
+              "Wall Art"
+            ],
+            "materials": [
+              "Metal",
+              "Wood",
+              "Plastic"
+            ],
+            "finish": "Shiny and Ornamental"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Brown",
+            "White",
+            "Gold",
+            "Marble Grey",
+            "Green",
+            "Red"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal",
+            "Glass",
+            "Fabric"
+          ],
+          "lighting": "Bright and Even",
+          "texture": "Smooth and Hard"
+        },
+        "indian_context": {
+          "regional_style": "Kerala",
+          "traditional_elements": [
+            "Wooden Staircase",
+            "Marble Flooring",
+            "Decorative Pillows",
+            "Floral Tablecloth"
+          ],
+          "modern_adaptations": [
+            "Glass Railings",
+            "Modern Lighting",
+            "Contemporary Furniture"
+          ],
+          "space_utilization": "Open and Spacious",
+          "cultural_significance": "Reflects South Indian Home Decor with a Blend of Tradition and Modernity"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a contemporary Indian fusion living room with a warm and inviting ambiance. The use of marble flooring and wooden ceiling elements reflects traditional Kerala home decor, while the modern glass railings and sleek furniture bring a contemporary touch. The space is well-lit, with soft lighting enhancing the natural wood tones. The decor includes decorative pillows, floral tablecloths, and ornamental vases, creating a harmonious blend of traditional and modern elements.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Contemporary Indian",
+          "Marble Flooring",
+          "Wooden Ceiling",
+          "Kerala Style"
+        ],
+        "budget_indicator": "High",
+        "space_type": "Residential",
+        "functionality": "Social and Relaxation",
+        "indian_specific": "Traditional Elements with Modern Adaptations"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00593.JPG"
+    },
+    {
+      "image_id": "img_009",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Contemporary",
+        "primary_features": [
+          "TV Unit",
+          "Bookshelves",
+          "Ceiling Lights",
+          "Marble Flooring",
+          "Furniture"
+        ],
+        "objects": [
+          {
+            "type": "TV Unit",
+            "features": [
+              "Recessed Lighting",
+              "Marble Backsplash",
+              "LED Lights"
+            ],
+            "materials": [
+              "Marble",
+              "Wood",
+              "Metal"
+            ],
+            "finish": "High Gloss"
+          },
+          {
+            "type": "Bookshelves",
+            "features": [
+              "Modular Design",
+              "Open Shelves"
+            ],
+            "materials": [
+              "Metal",
+              "Glass"
+            ],
+            "finish": "Matt"
+          },
+          {
+            "type": "Ceiling Lights",
+            "features": [
+              "Modern Design",
+              "Round Shape"
+            ],
+            "materials": [
+              "Metal",
+              "Glass"
+            ],
+            "finish": "Polished"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Marble White",
+            "Wood Brown",
+            "Metal Gold",
+            "Black"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal",
+            "Glass"
+          ],
+          "lighting": "Recessed and Task Lighting",
+          "texture": "Smooth and Polished"
+        },
+        "indian_context": {
+          "regional_style": "Hyderabad Modern",
+          "traditional_elements": [
+            "Wood Paneling"
+          ],
+          "modern_adaptations": [
+            "Marble and Metal Elements"
+          ],
+          "space_utilization": "Efficient Use of Storage",
+          "cultural_significance": "Modern Interpretation of Local Materials"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern living room with a well-integrated TV unit that features a marble backsplash and recessed lighting, complemented by a sleek design that combines marble, wood, and metal. The room includes a bookshelf with open storage, creating a contemporary yet functional space. The ceiling lights contribute to the overall contemporary aesthetic.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Modern",
+          "Marble",
+          "Wood",
+          "Metal",
+          "Contemporary"
+        ],
+        "budget_indicator": "Mid-Range",
+        "space_type": "Residential",
+        "functionality": "Entertainment and Storage",
+        "indian_specific": "Hyderabad Modern Style"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.03%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_010",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Contemporary",
+        "primary_features": [
+          "Open-plan layout",
+          "Ceiling fan",
+          "Marble flooring"
+        ],
+        "objects": [
+          {
+            "type": "Bar counter",
+            "features": [
+              "Bottle storage",
+              "Glassware"
+            ],
+            "materials": [
+              "Wood",
+              "Marble"
+            ],
+            "finish": "polished"
+          },
+          {
+            "type": "Sofa",
+            "features": [
+              "Wooden legs",
+              "Textured upholstery"
+            ],
+            "materials": [
+              "Cloth",
+              "wood"
+            ],
+            "finish": "soft"
+          },
+          {
+            "type": "Ceiling fan",
+            "features": [
+              "Flush mount"
+            ],
+            "materials": [
+              "metal"
+            ],
+            "finish": "bare metal"
+          },
+          {
+            "type": "Coffee table",
+            "features": [
+              "Glass top",
+              "Metal base"
+            ],
+            "materials": [
+              "Glass",
+              "metal"
+            ],
+            "finish": "polished"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "white",
+            "brown",
+            "black",
+            "green"
+          ],
+          "materials": [
+            "wood",
+            "marble",
+            "glass"
+          ],
+          "lighting": "indirect",
+          "texture": "smooth, matte"
+        },
+        "indian_context": {
+          "regional_style": "Modern",
+          "traditional_elements": [],
+          "modern_adaptations": [
+            "Minimalistic design",
+            "Use of modern materials"
+          ],
+          "space_utilization": "optimal",
+          "cultural_significance": ""
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern living room with an open-plan layout, featuring a bar counter, a sofa, a ceiling fan, and a coffee table. The design combines contemporary elements with minimalistic decor, using a combination of wood, marble, and glass materials, and incorporating a clean color palette with white, brown, black, and green tones.",
+      "metadata": {
+        "tags": [
+          "living room",
+          "modern",
+          "contemporary",
+          "marble flooring",
+          "ceiling fan"
+        ],
+        "budget_indicator": "high",
+        "space_type": "residential",
+        "functionality": "living and entertaining",
+        "indian_specific": "No specific Indian features"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.08%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_011",
+      "ai_generated_tags": {
+        "room": "Bathroom",
+        "theme": "Modern Minimalist",
+        "primary_features": [
+          "Marble countertop",
+          "Wooden cabinetry",
+          "Circular mirror",
+          "Wine rack"
+        ],
+        "objects": [
+          {
+            "type": "Sink",
+            "features": [
+              "Marble countertop",
+              "Wooden cabinetry"
+            ],
+            "materials": [
+              "Marble",
+              "Wood"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Mirror",
+            "features": [
+              "Circular shape"
+            ],
+            "materials": [
+              "Metal frame"
+            ],
+            "finish": "Shiny"
+          },
+          {
+            "type": "Wine Rack",
+            "features": [
+              "Glass display"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Natural"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Black"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal"
+          ],
+          "lighting": "Natural",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [],
+          "modern_adaptations": [
+            "Combination of Indian and global design elements"
+          ],
+          "space_utilization": "Efficient",
+          "cultural_significance": "Minimalist design with a touch of modernity reflecting contemporary Indian aesthetics"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern minimalist bathroom featuring a sleek marble countertop paired with wooden cabinetry, a circular mirror, and a wine rack. The space is clean and bright, making efficient use of the available area.",
+      "metadata": {
+        "tags": [
+          "Modern",
+          "Minimalist",
+          "Bathroom",
+          "Indian Interior",
+          "Marble"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Bathroom",
+        "functionality": "Efficient and stylish",
+        "indian_specific": "Contemporary Indian design with a blend of traditional and modern elements"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.16%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_012",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Indian Contemporary",
+        "primary_features": [
+          "Marble flooring",
+          "Wooden cabinetry",
+          "Modern appliances",
+          "Decorative shelf"
+        ],
+        "objects": [
+          {
+            "type": "Cabinet",
+            "features": [
+              "Wooden finish",
+              "Open shelf for storage"
+            ],
+            "materials": [
+              "Wood, Metal"
+            ],
+            "finish": "Wooden"
+          },
+          {
+            "type": "Shelf",
+            "features": [
+              "Decorative, open for display"
+            ],
+            "materials": [
+              "Metal, Glass"
+            ],
+            "finish": "Metallic, Translucent"
+          },
+          {
+            "type": "Appliance",
+            "features": [
+              "Modern design, stainless steel finish"
+            ],
+            "materials": [
+              "Metal"
+            ],
+            "finish": "Stainless Steel"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White, Brown, Black, Gold"
+          ],
+          "materials": [
+            "Marble, Wood, Metal, Glass"
+          ],
+          "lighting": "Natural light, ceiling fan light",
+          "texture": "Smooth, glossy"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Swastika symbol",
+            "Om symbol"
+          ],
+          "modern_adaptations": [
+            "Contemporary furniture design",
+            "Marble flooring"
+          ],
+          "space_utilization": "Efficient, open plan",
+          "cultural_significance": "Indian religious symbols (Swastika, Om)"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern kitchen with a blend of traditional Indian elements. The space features contemporary kitchen cabinetry with a wooden finish, an open shelf for storage, and a decorative shelf that adds a touch of Indian culture with religious symbols like the Swastika and Om. The marble flooring enhances the aesthetic appeal, while the kitchen appliances have a sleek, stainless steel design. The room is well-lit with natural light and a ceiling fan, creating a comfortable and functional space that respects Indian cultural elements.",
+      "metadata": {
+        "tags": [
+          "Kitchen, Indian, Contemporary, Marble, Wood, Modern Appliances, Cultural Symbols"
+        ],
+        "budget_indicator": "High",
+        "space_type": "Residential",
+        "functionality": "Efficient cooking space with cultural decor",
+        "indian_specific": "Traditional symbols, Indian style elements"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.29%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_013",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Minimalist",
+        "primary_features": [
+          "Black countertops",
+          "Wooden cabinetry",
+          "Integrated sink",
+          "Black stove",
+          "Shelving for spice jars"
+        ],
+        "objects": [
+          {
+            "type": "Countertop",
+            "features": [
+              "Black granite finish",
+              "Smooth surface"
+            ],
+            "materials": [
+              "Granite"
+            ],
+            "finish": "High-gloss"
+          },
+          {
+            "type": "Cabinetry",
+            "features": [
+              "Natural wood finish",
+              "Contemporary handles"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Matte"
+          },
+          {
+            "type": "Sink",
+            "features": [
+              "Integrated design",
+              "Modern faucet"
+            ],
+            "materials": [
+              "Metal"
+            ],
+            "finish": "Brushed nickel"
+          },
+          {
+            "type": "Stove",
+            "features": [
+              "Modern design",
+              "Built-in"
+            ],
+            "materials": [
+              "Stainless steel"
+            ],
+            "finish": "Stainless steel"
+          },
+          {
+            "type": "Shelving",
+            "features": [
+              "Floating design",
+              "Black metal"
+            ],
+            "materials": [
+              "Metal"
+            ],
+            "finish": "Black powder-coated"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Black",
+            "Natural wood",
+            "White",
+            "Silver"
+          ],
+          "materials": [
+            "Granite",
+            "Wood",
+            "Metal"
+          ],
+          "lighting": "Integrated under-cabinet lighting",
+          "texture": "Smooth and matte finishes"
+        },
+        "indian_context": {
+          "regional_style": "Contemporary",
+          "traditional_elements": [
+            "Contemporary design",
+            "Use of wood"
+          ],
+          "modern_adaptations": [
+            "Minimalist aesthetic",
+            "Integrated appliances"
+          ],
+          "space_utilization": "Efficient and functional",
+          "cultural_significance": "Modern interpretation of traditional Indian kitchen aesthetics"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern minimalist kitchen with sleek black countertops, natural wood cabinetry, and integrated appliances. The design emphasizes functionality and a clean, uncluttered look, with a touch of Indian-inspired natural wood elements.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern Minimalist",
+          "Black Countertops",
+          "Wooden Cabinetry",
+          "Integrated Sink",
+          "Black Stove",
+          "Shelving"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Efficient and Functional",
+        "indian_specific": "Modern Adaptation of Indian Kitchen Aesthetics"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.38%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_014",
+      "ai_generated_tags": {
+        "room": "wardrobe",
+        "theme": "contemporary",
+        "primary_features": [
+          "mirror",
+          "glass",
+          "geometric pattern",
+          "sleek lines"
+        ],
+        "objects": [
+          {
+            "type": "wardrobe door",
+            "features": [
+              "reflective",
+              "transparent"
+            ],
+            "materials": [
+              "acrylic",
+              "glass"
+            ],
+            "finish": "high-gloss"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "neutral tones",
+            "brown",
+            "gold",
+            "white",
+            "gray"
+          ],
+          "materials": [
+            "acrylic",
+            "glass",
+            "wood",
+            "marble"
+          ],
+          "lighting": "reflective",
+          "texture": "smooth"
+        },
+        "indian_context": {
+          "regional_style": "modern",
+          "traditional_elements": [],
+          "modern_adaptations": [
+            "geometric patterns",
+            "high-gloss finish"
+          ],
+          "space_utilization": "optimized",
+          "cultural_significance": "modern lifestyle"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A sleek, contemporary wardrobe with reflective glass doors and geometric golden patterns, set against a modern backdrop.",
+      "metadata": {
+        "tags": [
+          "wardrobe",
+          "contemporary",
+          "modern",
+          "glass doors",
+          "geometric"
+        ],
+        "budget_indicator": "high",
+        "space_type": "bedroom",
+        "functionality": "storage",
+        "indian_specific": "modern fusion decor"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.49%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_015",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Sofa",
+          "Coffee table",
+          "Wine rack",
+          "Marble floor",
+          "Wooden partition"
+        ],
+        "objects": [
+          {
+            "type": "Sofa",
+            "features": [
+              "Beige fabric",
+              "Patterned cushions"
+            ],
+            "materials": [
+              "Leather"
+            ],
+            "finish": "Smooth"
+          },
+          {
+            "type": "Coffee table",
+            "features": [
+              "Black glass",
+              "Gold rim"
+            ],
+            "materials": [
+              "Glass",
+              "Metal"
+            ],
+            "finish": "Matte"
+          },
+          {
+            "type": "Wine rack",
+            "features": [
+              "Lighting",
+              "Shelving",
+              "Wine glasses"
+            ],
+            "materials": [
+              "Marble",
+              "Wood"
+            ],
+            "finish": "Polished"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Beige",
+            "Black",
+            "Gold",
+            "White",
+            "Brown"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal",
+            "Leather"
+          ],
+          "lighting": "Ambient",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Wooden partition",
+            "Marble flooring"
+          ],
+          "modern_adaptations": [
+            "Wine rack with lighting",
+            "Contemporary furniture"
+          ],
+          "space_utilization": "Efficient",
+          "cultural_significance": "Elegance and hospitality in Indian homes"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The living room features a modern Indian theme with a blend of traditional and contemporary elements. The room includes a sleek sofa with patterned cushions, a glass coffee table with a gold rim, and a wall-mounted wine rack with built-in lighting and shelving for wine glasses. The space is characterized by beige and black tones with white marble flooring and wooden accents, creating an elegant and sophisticated atmosphere.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Modern Indian",
+          "Elegance",
+          "Contemporary Furniture"
+        ],
+        "budget_indicator": "High",
+        "space_type": "Residential",
+        "functionality": "Relaxation and entertainment",
+        "indian_specific": "Wooden partition and marble flooring"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/3-2.jpg"
+    },
+    {
+      "image_id": "img_016",
+      "ai_generated_tags": {
+        "room": "Bathroom",
+        "theme": "Modern",
+        "primary_features": [
+          "Marble flooring",
+          "Wooden vanity",
+          "Wall-mounted sink",
+          "Round mirror"
+        ],
+        "objects": [
+          {
+            "type": "Vanity",
+            "features": [
+              "Wooden finish",
+              "Wall-mounted",
+              "Open shelving"
+            ],
+            "materials": [
+              "Wood",
+              "Marble"
+            ],
+            "finish": "Natural wood and polished marble"
+          },
+          {
+            "type": "Sink",
+            "features": [
+              "Wall-mounted",
+              "Round"
+            ],
+            "materials": [
+              "Marble"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Mirror",
+            "features": [
+              "Round",
+              "Wall-mounted"
+            ],
+            "materials": [
+              "Metal"
+            ],
+            "finish": "Metallic"
+          },
+          {
+            "type": "Lighting",
+            "features": [
+              "Modern pendant lights"
+            ],
+            "materials": [
+              "Metal"
+            ],
+            "finish": "Gold"
+          },
+          {
+            "type": "Flooring",
+            "features": [
+              "Marble tiles"
+            ],
+            "materials": [
+              "Marble"
+            ],
+            "finish": "Polished"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Gold"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal"
+          ],
+          "lighting": "Modern pendant lights",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern",
+          "traditional_elements": [
+            "Wooden accents"
+          ],
+          "modern_adaptations": [
+            "Marble and metallic finishes"
+          ],
+          "space_utilization": "Efficient use of space",
+          "cultural_significance": "Minimalistic design with modern interpretation of traditional materials"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern bathroom with sleek and minimalist design elements. The space features marble flooring, a wooden vanity, and a wall-mounted sink with a round mirror. The lighting includes modern pendant lights, adding a touch of sophistication. The color scheme is dominated by white, brown, and gold, creating a clean and luxurious atmosphere.",
+      "metadata": {
+        "tags": [
+          "bathroom",
+          "modern",
+          "marble",
+          "wooden",
+          "wall-mounted",
+          "round mirror"
+        ],
+        "budget_indicator": "High",
+        "space_type": "Bathroom",
+        "functionality": "Efficient and stylish",
+        "indian_specific": "Modern interpretation of traditional materials"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/3.jpg"
+    },
+    {
+      "image_id": "img_018",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Minimalist",
+        "primary_features": [
+          "Compact dining area",
+          "Integrated fridge",
+          "Cabinet storage"
+        ],
+        "objects": [
+          {
+            "type": "Dining Table",
+            "features": [
+              "Four chairs",
+              "Metallic legs",
+              "White top"
+            ],
+            "materials": [
+              "Metallic",
+              "White"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Refrigerator",
+            "features": [
+              "Integrated into cabinetry",
+              "Digital display"
+            ],
+            "materials": [
+              "Metallic"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Cabinet",
+            "features": [
+              "Wooden doors",
+              "Glass panels"
+            ],
+            "materials": [
+              "Wood",
+              "Glass"
+            ],
+            "finish": "Natural, Frosted"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Wood",
+            "Black"
+          ],
+          "materials": [
+            "Metal",
+            "Wood",
+            "Glass"
+          ],
+          "lighting": "Under-cabinet, Pendant lights",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Contemporary",
+          "traditional_elements": [
+            "Cabinet doors with glass panels"
+          ],
+          "modern_adaptations": [
+            "Integrated fridge",
+            "Compact layout"
+          ],
+          "space_utilization": "Efficient use of vertical space",
+          "cultural_significance": "Modern interpretation of Indian cabinetry"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern minimalist kitchen design with a compact dining area integrated into the cabinetry. The space features a sleek, metallic fridge that blends seamlessly into the cabinetry, with glass-paneled doors adding a touch of traditional elegance. The dining table and chairs have a contemporary design with metallic legs, and the kitchen is well-lit with under-cabinet lighting and pendant lights. The use of white, wood, and black creates a clean, sophisticated look, while the glass panels on the cabinet doors add a subtle Indian touch. The space is designed for efficient use of vertical space, making it ideal for a modern home.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "Minimalist",
+          "Compact",
+          "Integrated Fridge",
+          "Glass Doors"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Compact Home",
+        "functionality": "Efficient Dining and Kitchen Combo",
+        "indian_specific": "Modern Indian Cabinetry"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.18%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_019",
+      "ai_generated_tags": {
+        "room": "Kitchen/Dining",
+        "theme": "Modern Contemporary",
+        "primary_features": [
+          "Modern cabinetry",
+          "Smart appliances",
+          "Elegant dining setup"
+        ],
+        "objects": [
+          {
+            "type": "Refrigerator",
+            "features": [
+              "Dual temperature zones",
+              "Digital display"
+            ],
+            "materials": [
+              "Stainless steel"
+            ],
+            "finish": "Metallic"
+          },
+          {
+            "type": "Cabinets",
+            "features": [
+              "Integrated design",
+              "Black laminate finish"
+            ],
+            "materials": [
+              "Laminate"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Dining Set",
+            "features": [
+              "White table with modern legs",
+              "Tufted beige chairs"
+            ],
+            "materials": [
+              "Wood, fabric"
+            ],
+            "finish": "White, Beige"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Beige",
+            "Black",
+            "Gold"
+          ],
+          "materials": [
+            "Laminate, Stainless steel, Wood, Fabric"
+          ],
+          "lighting": "Ambient ceiling lights",
+          "texture": "Smooth, glossy"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Minimalist design"
+          ],
+          "modern_adaptations": [
+            "Use of modern appliances and furniture"
+          ],
+          "space_utilization": "Efficient use of limited space",
+          "cultural_significance": "Adaptation of modern aesthetics with a touch of minimalism"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern kitchen-dining area with a contemporary design aesthetic. It features sleek cabinetry with a glossy black finish, a smart refrigerator with a dual temperature zone, and a minimalist dining set with a white table and tufted beige chairs. The space is illuminated by ambient ceiling lights, and the overall color palette is dominated by white, beige, black, and gold, creating a sophisticated and elegant look. The modern Indian theme is evident in the adaptation of minimalistic design elements and the efficient use of space.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Dining",
+          "Modern",
+          "Contemporary",
+          "Minimalist",
+          "Smart Appliances"
+        ],
+        "budget_indicator": "Moderate to High",
+        "space_type": "Combined Kitchen and Dining",
+        "functionality": "Efficient cooking and dining area",
+        "indian_specific": "Modern adaptation of minimalistic design"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.22%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_020",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Minimalist",
+        "primary_features": [
+          "L-shaped countertop",
+          "Undermount sink",
+          "Gas stove",
+          "Geometric backsplash",
+          "Knobless cabinetry"
+        ],
+        "objects": [
+          {
+            "type": "Sink",
+            "features": [
+              "Undermount",
+              "Single basin"
+            ],
+            "materials": [
+              "White stone countertop",
+              "Metallic faucet"
+            ],
+            "finish": "Matte"
+          },
+          {
+            "type": "Gas Stove",
+            "features": [
+              "Black glass top",
+              "4 burners"
+            ],
+            "materials": [
+              "Metallic body",
+              "Glass top"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Backsplash",
+            "features": [
+              "Geometric pattern",
+              "White tiles"
+            ],
+            "materials": [
+              "Tiles"
+            ],
+            "finish": "Smooth"
+          },
+          {
+            "type": "Knobless Cabinets",
+            "features": [
+              "Gray",
+              "Knobless"
+            ],
+            "materials": [
+              "MDF or similar material"
+            ],
+            "finish": "Matte"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Gray",
+            "White",
+            "Black",
+            "Metallic"
+          ],
+          "materials": [
+            "Stone",
+            "Metal",
+            "Tiles",
+            "MDF"
+          ],
+          "lighting": "Natural light from window",
+          "texture": "Smooth and clean"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [],
+          "modern_adaptations": [
+            "Minimalist design with modern appliances"
+          ],
+          "space_utilization": "Efficient use of L-shaped layout",
+          "cultural_significance": "Neutral color palette aligns with contemporary preferences in India"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern minimalist kitchen design with a L-shaped layout. It features a sleek undermount sink, a gas stove with a black glass top, and a geometric backsplash. The cabinetry is knobless with a gray finish, and the countertops are made of white stone. The use of neutral colors and clean lines reflects a contemporary Indian aesthetic with efficient space utilization.",
+      "metadata": {
+        "tags": [
+          "Kitchen Design",
+          "Modern Kitchen",
+          "Minimalist Design",
+          "Indian Kitchen"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Efficient cooking area",
+        "indian_specific": "Neutral color palette and modern adaptations to suit contemporary Indian preferences"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.25%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_022",
+      "ai_generated_tags": {
+        "room": "Bedroom with Study Area",
+        "theme": "Minimalist Modern",
+        "primary_features": [
+          "Built-in Wardrobe",
+          "Desk with Chair",
+          "Open Shelving"
+        ],
+        "objects": [
+          {
+            "type": "Desk",
+            "features": [
+              "Wooden Top",
+              "Integrated Drawer"
+            ],
+            "materials": [
+              "Wood",
+              "Metal"
+            ],
+            "finish": "Satin Finish"
+          },
+          {
+            "type": "Chair",
+            "features": [
+              "Textured Upholstery",
+              "Metal Frame"
+            ],
+            "materials": [
+              "Textile",
+              "Metal"
+            ],
+            "finish": "Matte Finish"
+          },
+          {
+            "type": "Wardrobe",
+            "features": [
+              "Sliding Doors",
+              "Integrated Shelving"
+            ],
+            "materials": [
+              "Wood",
+              "Metal"
+            ],
+            "finish": "Painted Finish"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Light Wood",
+            "Grey"
+          ],
+          "materials": [
+            "Wood",
+            "Metal",
+            "Textile"
+          ],
+          "lighting": "Indirect Lighting",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modular Bedroom Design",
+          "traditional_elements": [
+            "No Traditional Elements"
+          ],
+          "modern_adaptations": [
+            "Integrated Storage Solutions",
+            "Compact Design"
+          ],
+          "space_utilization": "Efficient Use of Space",
+          "cultural_significance": "No Cultural Significance Specific to Indian Context"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern minimalist bedroom with a built-in wardrobe and a desk with a chair, all integrated into a single unit. The design emphasizes clean lines and efficient use of space, with a color palette that includes white, light wood, and grey tones. The desk is equipped with a wooden top and integrated drawer, while the chair boasts textured upholstery with a metallic frame. The wardrobe features sliding doors and integrated shelving, all painted in a light wood finish.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Modern",
+          "Bedroom",
+          "Built-in Storage",
+          "Integrated Design"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Bedroom",
+        "functionality": "Living and Working",
+        "indian_specific": "No Indian-Specific Features"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.36%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_024",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Classic",
+        "primary_features": [
+          "High ceilings",
+          "Double-sided fireplace",
+          "Large picture window"
+        ],
+        "objects": [
+          {
+            "type": "Coffee Table",
+            "features": [
+              "Black with gold accents",
+              " Modern design"
+            ],
+            "materials": [
+              "Black glass",
+              "Gold metal"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Television Stand",
+            "features": [
+              "White with gold accents",
+              "Modern design"
+            ],
+            "materials": [
+              "White wood",
+              "Gold metal"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Wall Art",
+            "features": [
+              "Circular design",
+              "Metal with glass"
+            ],
+            "materials": [
+              "Metal",
+              "Glass"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Ceiling Light",
+            "features": [
+              "Modern chandelier",
+              "Gold finish"
+            ],
+            "materials": [
+              "Gold metal"
+            ],
+            "finish": "Shiny"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Beige",
+            "White",
+            "Black",
+            "Gold"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Glass",
+            "Metal"
+          ],
+          "lighting": "Ambient and task lighting",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Mughal Revival",
+          "traditional_elements": [
+            "Double-sided fireplace",
+            "Marble walls"
+          ],
+          "modern_adaptations": [
+            "Modern appliances",
+            "Contemporary furniture"
+          ],
+          "space_utilization": "Efficient use of space with a focus on aesthetics",
+          "cultural_significance": "Embracing traditional architectural elements while incorporating modern comforts"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern classic living room with a blend of traditional Mughal Revival elements and contemporary furnishings. The room features high ceilings, a double-sided fireplace, and large windows that allow ample natural light. The design includes a sleek coffee table with gold accents, a white television stand with gold details, and a circular wall art piece. The materials used include marble, wood, glass, and metal, creating a visually striking and luxurious space.",
+      "metadata": {
+        "tags": [
+          "Modern Classic",
+          "Mughal Revival",
+          "Living Room",
+          "Interior Design",
+          "Contemporary Furniture"
+        ],
+        "budget_indicator": "High",
+        "space_type": "Residential",
+        "functionality": "Entertainment and relaxation",
+        "indian_specific": "Traditional architectural elements"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.08%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_025",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Minimalist",
+        "primary_features": [
+          "L-shaped countertop",
+          "Built-in cabinetry",
+          "Marble backsplash",
+          "Stainless steel sink",
+          "Under-cabinet lighting"
+        ],
+        "objects": [
+          {
+            "type": "Cabinet",
+            "features": [
+              "Purple finish",
+              "Square knobs"
+            ],
+            "materials": [
+              "Purple lacquer",
+              "Metal hardware"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Backsplash",
+            "features": [
+              "Marble tile with light gray veining"
+            ],
+            "materials": [
+              "Marble"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Sink",
+            "features": [
+              "Stainless steel",
+              "Modern faucet"
+            ],
+            "materials": [
+              "Stainless steel",
+              "Black"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Countertop",
+            "features": [
+              "Smooth black surface"
+            ],
+            "materials": [
+              "Engineered quartz"
+            ],
+            "finish": "Matte"
+          },
+          {
+            "type": "Appliances",
+            "features": [
+              "Built-in microwave",
+              "Black gas stove"
+            ],
+            "materials": [
+              "Stainless steel",
+              "Black"
+            ],
+            "finish": "Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Purple",
+            "Black",
+            "White",
+            "Light gray"
+          ],
+          "materials": [
+            "Purple lacquer",
+            "Marble",
+            "Stainless steel",
+            "Engineered quartz"
+          ],
+          "lighting": "Integrated under-cabinet lighting",
+          "texture": "Smooth and sleek"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Built-in cabinetry",
+            "Marble backsplash"
+          ],
+          "modern_adaptations": [
+            "Purple lacquer finish",
+            "Minimalist design"
+          ],
+          "space_utilization": "Efficient kitchen layout with L-shape",
+          "cultural_significance": "Modern interpretation of Indian kitchen design, blending contemporary aesthetics with traditional materials"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern minimalist kitchen with a contemporary design. The kitchen features a L-shaped countertop with a built-in cabinet system, providing ample storage and workspace. The backsplash is adorned with marble tiles with a light gray veining, adding a touch of elegance. The cabinetry is finished in a striking purple lacquer with square metallic knobs, while the countertops are made of engineered quartz in a matte black finish. The kitchen is equipped with stainless steel appliances and a modern faucet, with integrated under-cabinet lighting enhancing the overall aesthetic. The design seamlessly blends traditional Indian elements like the marble backsplash with modern adaptations like the purple lacquer finish, creating a harmonious and stylish kitchen space.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "Minimalist",
+          "Purple",
+          "Marble",
+          "Engineered Quartz"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential",
+        "functionality": "Cooking and meal preparation",
+        "indian_specific": "Purple lacquer finish"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.18%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_026",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Contemporary",
+        "primary_features": [
+          "Purple cabinetry",
+          "Marble backsplash",
+          "Black countertops",
+          "Modern appliances"
+        ],
+        "objects": [
+          {
+            "type": "Refrigerator",
+            "features": [
+              "Black in color",
+              "Modern design"
+            ],
+            "materials": [
+              "Metal, glass"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Cabinets",
+            "features": [
+              "Purple color",
+              "Flat panels"
+            ],
+            "materials": [
+              "Laminate, MDF"
+            ],
+            "finish": "Matte"
+          },
+          {
+            "type": "Backsplash",
+            "features": [
+              "Marble tiles"
+            ],
+            "materials": [
+              "Marble"
+            ],
+            "finish": "Polished"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Purple, Black, White, Marble grey"
+          ],
+          "materials": [
+            "Marble, Laminate, MDF"
+          ],
+          "lighting": "Under-cabinet lighting",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Minimal use of traditional elements"
+          ],
+          "modern_adaptations": [
+            "Purple cabinets with modern design, marble backsplash"
+          ],
+          "space_utilization": "Efficient use of space with integrated cabinetry and appliances",
+          "cultural_significance": "Minimal emphasis on cultural elements, focusing on modern aesthetics"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern kitchen with purple cabinetry, a marble backsplash, and black countertops, featuring sleek and minimalist design with contemporary appliances. The space emphasizes functionality with efficient use of space and a focus on modern aesthetics.",
+      "metadata": {
+        "tags": [
+          "Kitchen Design",
+          "Contemporary Style",
+          "Purple Cabinets",
+          "Marble Backsplash",
+          "Modern Appliances"
+        ],
+        "budget_indicator": "High",
+        "space_type": "Residential",
+        "functionality": "Efficient and Modern",
+        "indian_specific": "Modern Indian"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.24%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_030",
+      "ai_generated_tags": {
+        "room": "Hallway",
+        "theme": "Minimalist",
+        "primary_features": [
+          "White wardrobe with four doors",
+          "Built-in shelving unit"
+        ],
+        "objects": [
+          {
+            "type": "Wardrobe",
+            "features": [
+              "Four doors with simple handles",
+              "White color"
+            ],
+            "materials": [
+              "Wooden frame",
+              "Painted finish"
+            ],
+            "finish": "Matte"
+          },
+          {
+            "type": "Shelving Unit",
+            "features": [
+              "Open shelving unit with compartments",
+              "Integrated with wardrobe"
+            ],
+            "materials": [
+              "Wooden frame",
+              "Light-colored finish"
+            ],
+            "finish": "Matte"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Light wooden tones",
+            "Dark brown"
+          ],
+          "materials": [
+            "Wood",
+            "Painted surfaces"
+          ],
+          "lighting": "Natural light with subtle artificial illumination",
+          "texture": "Smooth surfaces"
+        },
+        "indian_context": {
+          "regional_style": "Western-style",
+          "traditional_elements": [],
+          "modern_adaptations": [],
+          "space_utilization": "Efficient use of wall space",
+          "cultural_significance": "No specific cultural elements"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern and minimalist hallway featuring a white wardrobe with four doors and an open shelving unit integrated with the wardrobe, providing ample storage space. The walls and door are finished in a light beige color, complemented by a dark brown wooden door on the left.",
+      "metadata": {
+        "tags": [
+          "minimalist",
+          "hallway",
+          "wardrobe",
+          "storage",
+          "interior design"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Storage and organization",
+        "indian_specific": "No specific Indian features"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.06%E2%80%AFPM.png"
+    }
+  ]
+}

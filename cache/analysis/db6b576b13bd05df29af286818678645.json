@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.29%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_012",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Indian Contemporary",
+      "primary_features": [
+        "Marble flooring",
+        "Wooden cabinetry",
+        "Modern appliances",
+        "Decorative shelf"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Wooden finish",
+            "Open shelf for storage"
+          ],
+          "materials": [
+            "Wood, Metal"
+          ],
+          "finish": "Wooden"
+        },
+        {
+          "type": "Shelf",
+          "features": [
+            "Decorative, open for display"
+          ],
+          "materials": [
+            "Metal, Glass"
+          ],
+          "finish": "Metallic, Translucent"
+        },
+        {
+          "type": "Appliance",
+          "features": [
+            "Modern design, stainless steel finish"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Stainless Steel"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Brown, Black, Gold"
+        ],
+        "materials": [
+          "Marble, Wood, Metal, Glass"
+        ],
+        "lighting": "Natural light, ceiling fan light",
+        "texture": "Smooth, glossy"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Swastika symbol",
+          "Om symbol"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design",
+          "Marble flooring"
+        ],
+        "space_utilization": "Efficient, open plan",
+        "cultural_significance": "Indian religious symbols (Swastika, Om)"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern kitchen with a blend of traditional Indian elements. The space features contemporary kitchen cabinetry with a wooden finish, an open shelf for storage, and a decorative shelf that adds a touch of Indian culture with religious symbols like the Swastika and Om. The marble flooring enhances the aesthetic appeal, while the kitchen appliances have a sleek, stainless steel design. The room is well-lit with natural light and a ceiling fan, creating a comfortable and functional space that respects Indian cultural elements.",
+    "metadata": {
+      "tags": [
+        "Kitchen, Indian, Contemporary, Marble, Wood, Modern Appliances, Cultural Symbols"
+      ],
+      "budget_indicator": "High",
+      "space_type": "Residential",
+      "functionality": "Efficient cooking space with cultural decor",
+      "indian_specific": "Traditional symbols, Indian style elements"
+    }
+  },
+  "cached_at": 1753179297025,
+  "cache_key": "db6b576b13bd05df29af286818678645"
+}

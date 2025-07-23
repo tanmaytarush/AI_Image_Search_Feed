@@ -1,0 +1,107 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.11.13%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_065",
+    "ai_generated_tags": {
+      "room": "living room",
+      "theme": "contemporary with traditional Indian influence",
+      "primary_features": [
+        "modern false ceiling with linear lighting",
+        "wooden slatted partition",
+        "textured marble flooring",
+        "dining table with white chairs",
+        "TV unit with storage"
+      ],
+      "objects": [
+        {
+          "type": "dining table",
+          "features": [
+            "black table with white chairs",
+            "textured white marble top"
+          ],
+          "materials": [
+            "black wood",
+            "white marble"
+          ],
+          "finish": "high-gloss furniture finish"
+        },
+        {
+          "type": "TV unit",
+          "features": [
+            "wooden base with storage cabinets",
+            "white textured paneling"
+          ],
+          "materials": [
+            "dark wood",
+            "white textured material"
+          ],
+          "finish": "high-gloss finish"
+        },
+        {
+          "type": "partition",
+          "features": [
+            "slatted wooden panels",
+            "beige textured backdrop"
+          ],
+          "materials": [
+            "dark wood",
+            "beige fabric"
+          ],
+          "finish": "polished wood and fabric"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "brown",
+          "black",
+          "beige",
+          "green"
+        ],
+        "materials": [
+          "wood",
+          "marble",
+          "textured fabric"
+        ],
+        "lighting": "natural light from window, linear ceiling lights",
+        "texture": "smooth marble, textured fabric, polished wood"
+      },
+      "indian_context": {
+        "regional_style": "not distinctly regional, but modern interpretations of traditional elements",
+        "traditional_elements": [
+          "slatted wooden partition",
+          "textured marble flooring"
+        ],
+        "modern_adaptations": [
+          "false ceiling with linear lighting",
+          "high-gloss furniture finish"
+        ],
+        "space_utilization": "efficient use of space with a partition to divide the room",
+        "cultural_significance": "elements like the wooden partition and textured flooring reflect traditional Indian design, though modernized"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern living room that incorporates traditional Indian design elements, particularly in the use of wooden partitions and textured flooring. The room features a contemporary false ceiling with linear lighting, a dining table with white chairs, and a TV unit with storage, all blending seamlessly with the wooden slatted partition that serves as a divider between the living and dining areas. The high-gloss finish on the furniture and the use of dark wood and white marble create a sophisticated yet warm aesthetic. The natural light from the window enhances the brightness of the space, while the textured fabric and polished wood add a touch of traditional Indian design to the contemporary setting.",
+    "metadata": {
+      "tags": [
+        "living room",
+        "contemporary",
+        "traditional Indian",
+        "textured marble",
+        "wooden partition"
+      ],
+      "budget_indicator": "moderate, with high-quality materials like marble and polished wood",
+      "space_type": "residential living room",
+      "functionality": "entertainment and dining",
+      "indian_specific": "use of wooden partition and textured flooring"
+    }
+  },
+  "cached_at": 1753181188485,
+  "cache_key": "27d3affa04488200adcdce49cba2e133"
+}

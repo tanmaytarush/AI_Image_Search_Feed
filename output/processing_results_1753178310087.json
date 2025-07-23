@@ -1,0 +1,4030 @@
+{
+  "processed_at": "2025-07-22T09:58:30.088Z",
+  "total_processed": 44,
+  "errors": [
+    {
+      "image_id": "img_011",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_012",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_020",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_021",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_024",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_028",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_027",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_029",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_033",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_034",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_037",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_054",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_057",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_056",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_058",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_060",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_059",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_062",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_065",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_061",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_064",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_063",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_066",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_068",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_070",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_069",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_067",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_075",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_073",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_074",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_071",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_072",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_078",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_079",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_077",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_080",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_076",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_081",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_084",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_082",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_083",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_085",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_086",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_088",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_090",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_087",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_089",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_091",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_093",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_094",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_092",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_096",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_098",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_097",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_099",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    },
+    {
+      "image_id": "img_100",
+      "error": "Failed to analyze image: HTTP 400: {\"error\":{\"message\":\"The requested model 'Qwen/Qwen2.5-VL-7B-Instruct' is not supported by any provider you have enabled.\",\"type\":\"invalid_request_error\",\"param\":\"model\",\"code\":\"model_not_supported\"}}"
+    }
+  ],
+  "results": [
+    {
+      "image_id": "img_001",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Built-in Wardrobe",
+          "Wooden Window Shutters",
+          "Wooden Platform Bed"
+        ],
+        "objects": [
+          {
+            "type": "Built-in Wardrobe",
+            "features": [
+              "Herringbone Pattern",
+              "Cabinet Doors with Handles"
+            ],
+            "materials": [
+              "Wood",
+              "Laminate"
+            ],
+            "finish": "Laminate"
+          },
+          {
+            "type": "Wooden Window Shutters",
+            "features": [
+              "Traditional Design",
+              "Teak Wood"
+            ],
+            "materials": [
+              "Teak Wood"
+            ],
+            "finish": "Natural Teak Finish"
+          },
+          {
+            "type": "Wooden Platform Bed",
+            "features": [
+              "Storage Space",
+              "Simple Design"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Natural Wood Finish"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Grey",
+            "Brown"
+          ],
+          "materials": [
+            "Wood",
+            "Laminate"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Wooden Window Shutters"
+          ],
+          "modern_adaptations": [
+            "Built-in Wardrobe with Herringbone Pattern"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "The wooden window shutters and built-in wardrobe reflect a blend of traditional and modern elements, common in contemporary South Indian homes"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image depicts a modern Indian bedroom with a blend of traditional and contemporary elements. The built-in wardrobe with a herringbone pattern and sliding doors suggests a preference for functionality and space optimization. The wooden window shutters with a traditional design and the simple wooden platform bed with storage space indicate a South Indian influence. The color scheme of white, grey, and brown, along with the smooth textures of wood and laminate, creates a modern yet cozy atmosphere. The overall design prioritizes compact space utilization, reflecting the practicality often seen in contemporary Indian homes.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "South Indian",
+            "Compact Bedroom",
+            "Built-in Wardrobe",
+            "Teak Wood Shutters"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Bedroom",
+          "functionality": "Relaxation",
+          "indian_specific": "Teak Wood Shutters, Built-in Wardrobe, Sustainable Wood"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.29.jpeg"
+    },
+    {
+      "image_id": "img_002",
+      "ai_generated_tags": {
+        "room": "Pooja Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Marble Wall Panel",
+          "Wooden Frame",
+          "Wall Lighting"
+        ],
+        "objects": [
+          {
+            "type": "Mandir",
+            "features": [
+              "Central Wall Panel",
+              "Shelf at Base"
+            ],
+            "materials": [
+              "Marble",
+              "Wood"
+            ],
+            "finish": "Smooth"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Beige",
+            "Brown",
+            "White"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "lighting": "Wall Lighting",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Mandir"
+          ],
+          "modern_adaptations": [
+            "Marble Wall Panel, Wooden Frame"
+          ],
+          "space_utilization": "Spacious",
+          "cultural_significance": "Cultural significance of mandir as a space for prayer and religious rituals"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image showcases a modern interpretation of a pooja room, featuring a central mandir with a marble wall panel and wooden frame. The lighting is strategically placed to highlight the wall, creating a serene and spiritual atmosphere. The use of marble and wood reflects contemporary design trends while maintaining cultural significance. The spacious design ensures that the mandir serves as a focal point for prayer and meditation, adhering to traditional religious practices.",
+        "metadata": {
+          "tags": [
+            "Pooja Room",
+            "Modern Indian",
+            "Marble Wall",
+            "Wooden Frame",
+            "Wall Lighting"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Apartment",
+          "functionality": "Pooja",
+          "indian_specific": "Mandir, Pooja Items"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.28.jpeg"
+    },
+    {
+      "image_id": "img_003",
+      "ai_generated_tags": {
+        "room": "Pooja Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Lattice ceiling design",
+          "Exposed beams",
+          "Curtained entrance"
+        ],
+        "objects": [
+          {
+            "type": "Toran",
+            "features": [
+              "Decorative"
+            ],
+            "materials": [
+              "Fabric"
+            ],
+            "finish": "Embroidered"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Dark brown",
+            "Off-white"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "lighting": "Warm lighting",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "North Indian",
+          "traditional_elements": [
+            "Toran",
+            "Exposed beams"
+          ],
+          "modern_adaptations": [
+            "Lattice ceiling design"
+          ],
+          "space_utilization": "Spacious",
+          "cultural_significance": "Cultural and religious significance related to pooja practices"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern Indian Pooja room with a sophisticated design, featuring a lattice ceiling, which combines contemporary aesthetics with traditional Indian lattice patterns. The exposed beams add a rustic touch, while the use of dark brown and off-white colors provides a calming and respectful atmosphere. The Toran, a traditional Indian hanging decorative element, adds a cultural and religious significance, symbolizing the entrance to sacred space. The warm lighting enhances the ambiance, making it conducive for prayer and meditation. The spacious layout ensures a serene environment, reflecting the importance of comfort and respect in a Pooja room. This room exemplifies a blend of modern design with traditional Indian elements, catering to both aesthetic appeal and cultural reverence.",
+      "metadata": {
+        "tags": [
+          "Pooja Room",
+          "Modern Indian Design",
+          "Toran",
+          "Lattice Ceiling"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Apartment",
+        "functionality": "Relaxation, Pooja",
+        "indian_specific": "Toran"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.21%20%281%29.jpeg"
+    },
+    {
+      "image_id": "img_004",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Wooden Partition",
+          "Staircase",
+          "Decorative Elements"
+        ]
+      },
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Comfortable Seating"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Fabric"
+        },
+        {
+          "type": "Decorative Element",
+          "features": [
+            "Golden Peacock Wall Hangings",
+            "Statue of Deities"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Golden"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Marble"
+        ],
+        "lighting": "Natural Daylight",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Golden Peacock Wall Hangings",
+          "Statue of Deities"
+        ],
+        "modern_adaptations": [
+          "Wooden Partition",
+          "Staircase"
+        ],
+        "space_utilization": "Spacious",
+        "cultural_significance": "Cultural and religious elements are significant, as evidenced by the statue of deities and the presence of a Mandir unit."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The living room features a modern Indian design with a wooden partition and staircase, adorned with golden decorative elements such as peacock wall hangings and deity statues. The space is spacious and well-lit with natural daylight, utilizing a combination of wood, metal, and marble materials. The presence of a mandir unit indicates the cultural and religious significance in the design, reflecting a blend of traditional and modern elements.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "South Indian",
+          "Living Room"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Apartment",
+        "functionality": "Relaxation",
+        "indian_specific": "Mandir Unit, Golden Decorations"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00681.JPG"
+    },
+    {
+      "image_id": "img_005",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Traditional Indian",
+        "primary_features": [
+          "Wooden ceiling with beams",
+          "Brown sofa with cushions",
+          "Printed curtains with natural tree motifs"
+        ],
+        "objects": [
+          {
+            "type": "Sofa",
+            "features": [
+              "Brown fabric",
+              "Scroll arm design"
+            ],
+            "materials": [
+              "Fabric"
+            ],
+            "finish": "Plain"
+          },
+          {
+            "type": "Curtains",
+            "features": [
+              "Printed design with tree motifs"
+            ],
+            "materials": [
+              "Fabric"
+            ],
+            "finish": "Sheer"
+          },
+          {
+            "type": "Wooden Door",
+            "features": [
+              "Carved designs",
+              "Decorative plate"
+            ],
+            "materials": [
+              "Teak or Rosewood"
+            ],
+            "finish": "Polished"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Brown",
+            "Beige",
+            "White"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Carved wooden door",
+            "Toran (decorative hanging)"
+          ],
+          "modern_adaptations": [
+            "Smooth flooring",
+            "Modern lighting fixtures"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "The design elements reflect traditional South Indian aesthetics and the importance of natural light and open spaces."
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This living room is a perfect example of a traditional South Indian interior design, showcasing elements like a carved wooden door, sheer curtains with tree motifs, and a brown sofa with a classic scroll arm design. The use of natural materials like wood and fabric, along with the incorporation of traditional elements such as a toran, enhances the cultural significance of the space. The room is well-lit with natural daylight, reflecting a compact yet functional layout that is common in many South Indian homes.",
+        "metadata": {
+          "tags": [
+            "Traditional Indian",
+            "South Indian",
+            "Living Room",
+            "Compact",
+            "Natural Light"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Apartment",
+          "functionality": "Relaxation, entertainment",
+          "indian_specific": "Carved wooden furniture, pooja items"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00678.JPG"
+    },
+    {
+      "image_id": "img_006",
+      "ai_generated_tags": {
+        "room": "Entrance Hall",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Wooden Partition",
+          "Rooftop Staircase",
+          "Pooja Room"
+        ],
+        "objects": [
+          {
+            "type": "Mandir Unit",
+            "features": [
+              "Shrine",
+              "Idols",
+              "Decorative Items"
+            ],
+            "materials": [
+              "Wood",
+              "Marble"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Staircase",
+            "features": [
+              "Wooden Railings",
+              "Open Steps"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Pooja Thali",
+            "features": [
+              "Idols",
+              "Offerings"
+            ],
+            "materials": [
+              "Metal"
+            ],
+            "finish": "Polished"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Gold"
+          ],
+          "materials": [
+            "Wood",
+            "Marble"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Glossy"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Mandir Unit",
+            "Pooja Items",
+            "Wooden Partition"
+          ],
+          "modern_adaptations": [
+            "Open Staircase",
+            "Glass Partition"
+          ],
+          "space_utilization": "Spacious",
+          "cultural_significance": "Pooja Room symbolizes devotion and religious practices"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This entrance hall exemplifies a modern interpretation of traditional Indian design, featuring a wooden partition with a built-in Mandir unit and an open staircase. The space is bright and airy, utilizing natural daylight, with a glossy finish on the wood and marble surfaces. The Mandir unit showcases traditional elements like idols and decorative items, while the open staircase with wooden railings and steps reflects a contemporary design. The cultural significance lies in the pooja room, which is a sacred space for religious ceremonies and offerings, emphasizing the blend of old and new in Indian interior design.",
+        "metadata": {
+          "tags": [
+            "Indian Interior",
+            "Modern Indian",
+            "Pooja Room",
+            "Wooden Partition"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Apartment",
+          "functionality": "Relaxation, Pooja",
+          "indian_specific": "Mandir Unit, Pooja Room"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00640.JPG"
+    },
+    {
+      "image_id": "img_007",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Open-plan layout",
+          "Modern kitchen cabinets",
+          "Staircase with wooden handrails and steps"
+        ],
+        "objects": [
+          {
+            "type": "Island Counter",
+            "features": [
+              "White countertop",
+              "Sleek design",
+              "Integrated sink",
+              "Decorative plant"
+            ],
+            "materials": [
+              "Solid wood",
+              "Marble countertop"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Dining Table",
+            "features": [
+              "Oval shape",
+              "Wooden finish",
+              "Decorative floral centerpiece"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Storage Unit",
+            "features": [
+              "Modern design",
+              "Glass doors",
+              "Mirrored cabinet"
+            ],
+            "materials": [
+              "Glass",
+              "Metal frame"
+            ],
+            "finish": "Laminated"
+          },
+          {
+            "type": "Mandir Unit",
+            "features": [
+              "Compact design",
+              "Built-in",
+              "Decorative elements"
+            ],
+            "materials": [
+              "Brass",
+              "Wood"
+            ],
+            "finish": "Polished"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Green",
+            "Brown"
+          ],
+          "materials": [
+            "Wood",
+            "Marble",
+            "Glass",
+            "Metal"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Regional influence",
+          "traditional_elements": [
+            "Toran"
+          ],
+          "modern_adaptations": [
+            "Contemporary design with traditional elements"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Cultural significance of mandir unit as a space for worship"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian kitchen seamlessly blends contemporary design elements with traditional touches. The open-plan layout optimizes space, with sleek kitchen cabinets and a white countertop that contrasts beautifully with the wooden furniture. The staircase, adorned with wooden handrails and steps, adds a touch of elegance and functionality. A compact mandir unit is integrated into the space, reflecting cultural significance as a dedicated area for worship. The use of white, green, and brown colors, along with materials like wood, marble, and glass, creates a harmonious and inviting atmosphere. The glossy finishes on the countertop and furniture add a modern touch while maintaining a clean and polished look.",
+      "metadata": {
+        "tags": [
+          "Indian kitchen",
+          "Modern design",
+          "Compact space",
+          "Cultural elements"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Apartment",
+        "functionality": "Kitchen, dining, and worship",
+        "indian_specific": "Mandir unit"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00623.JPG"
+    },
+    {
+      "image_id": "img_008",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Ceiling beams",
+          "Staircase",
+          "Diwan area"
+        ],
+        "objects": [
+          {
+            "type": "Sofa",
+            "features": [
+              "Comfortable seating",
+              "Modern design"
+            ],
+            "materials": [
+              "Fabric"
+            ],
+            "finish": "Laminated"
+          },
+          {
+            "type": "Diwan",
+            "features": [
+              "Traditional Indian design"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Polished"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Brown",
+            "White",
+            "Golden"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "West Indian",
+          "traditional_elements": [
+            "Diwan"
+          ],
+          "modern_adaptations": [
+            "Modern materials and designs"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Cultural elements like the Diwan and Mandir reflect traditional values and practices"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The living room features a modern Indian design with a focus on traditional elements. The space incorporates a traditional diwan area, which is a common feature in many Indian homes, often used for prayer or as a formal seating area. The room utilizes a combination of traditional and modern materials and designs, such as wood for the staircase and wall panels, and comfortable modern sofas. The color scheme is dominated by warm tones of brown and white, with golden accents, reflecting the popularity of these colors in Indian interiors. The presence of a Mandir underlines the cultural significance of the design, emphasizing the importance of religious practices in the home. The space is compact yet functional, utilizing the staircase wall for storage and display, which is a space optimization technique commonly seen in Indian homes.",
+        "metadata": {
+          "tags": [
+            "Living Room",
+            "Modern Indian",
+            "Traditional Elements",
+            "West Indian Style"
+          ],
+          "budget_indicator": "Premium",
+          "space_type": "2BHK",
+          "functionality": "Entertainment and Relaxation",
+          "indian_specific": "Diwan, Mandir"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00593.JPG"
+    },
+    {
+      "image_id": "img_009",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Large TV Unit",
+          "Bookshelf",
+          "Lighting Fixture"
+        ],
+        "objects": [
+          {
+            "type": "TV Unit",
+            "features": [
+              "Integrated Storage",
+              "LED Backlight",
+              "Decorative Items"
+            ],
+            "materials": [
+              "Marble",
+              "Wood"
+            ],
+            "finish": "Laminated"
+          },
+          {
+            "type": "Bookshelf",
+            "features": [
+              "Open Compartments",
+              "Closed Compartments",
+              "Decorative Items"
+            ],
+            "materials": [
+              "Metal",
+              "Wood"
+            ],
+            "finish": "Painted"
+          },
+          {
+            "type": "Lighting Fixture",
+            "features": [
+              "Spherical Design",
+              "Modern Style"
+            ],
+            "materials": [
+              "Metal"
+            ],
+            "finish": "Polished"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Green"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal"
+          ],
+          "lighting": "Warm Lighting",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "North Indian",
+          "traditional_elements": [
+            "Traditional lighting fixtures"
+          ],
+          "modern_adaptations": [
+            "Marble incorporation for a modern touch"
+          ],
+          "space_utilization": "Modular, Open-Plan",
+          "cultural_significance": "Cultural significance of design elements in a modern Indian context, reflecting a blend of traditional and contemporary aesthetics"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image showcases a modern Indian living room with a focus on sleek, contemporary design elements integrated with traditional Indian cultural influences. The living room features a large TV unit with integrated storage and LED backlighting, reflecting a blend of functionality and style. The unit is adorned with decorative items, adding a personal touch. On the left, a wooden panel complements the modern design. The right side includes a bookshelf with open and closed compartments, housing books and decorative items, and a modern light fixture with spherical design elements. The living room uses a neutral color palette with white, brown, and green hues, creating a warm and inviting atmosphere. The space utilizes a modular, open-plan design, optimizing the available space in a contemporary Indian home. The design elements, such as the lighting fixtures, hint at traditional influences, which are modernized to suit a contemporary Indian living environment.",
+        "metadata": {
+          "tags": [
+            "Living Room",
+            "Modern Indian",
+            "TV Unit",
+            "Bookshelf",
+            "Lighting Fixture"
+          ],
+          "budget_indicator": "Mid-Range",
+          "space_type": "2BHK Apartment",
+          "functionality": "Relaxation",
+          "indian_specific": "Modular furniture"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.03%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_010",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Sofa Set",
+          "Bar Counter",
+          "Wall Clock"
+        ],
+        "objects": [
+          {
+            "type": "Sofa Set",
+            "features": [
+              "Modern design",
+              "Textured upholstery"
+            ],
+            "materials": [
+              "Fabric",
+              "Leatherette"
+            ],
+            "finish": "Fabric"
+          },
+          {
+            "type": "Bar Counter",
+            "features": [
+              "Compact design",
+              "Storage shelves"
+            ],
+            "materials": [
+              "Wood",
+              "Marble"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Wall Clock",
+            "features": [
+              "Minimalist design"
+            ],
+            "materials": [
+              "Metal"
+            ],
+            "finish": "Metallic"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Dark Brown"
+          ],
+          "materials": [
+            "Wood",
+            "Marble",
+            "Metal"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "North Indian",
+          "traditional_elements": [
+            "Ceiling fan",
+            "Marble flooring"
+          ],
+          "modern_adaptations": [
+            "Modern bar counter and seating"
+          ],
+          "space_utilization": "Spacious",
+          "cultural_significance": "Modern adaptation of traditional indoor elements"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This living room exemplifies a modern interpretation of North Indian interior design. The use of neutral tones like white, brown, and beige, along with the incorporation of natural light, creates a bright and airy space. The sleek sofa set with a textured fabric and the compact bar counter with marble top and wooden shelves highlight a blend of comfort and functionality. Traditional elements like the ceiling fan and marble flooring are subtly integrated, reflecting a modern adaptation of North Indian aesthetics. The space is designed to be spacious, with a focus on both relaxation and socializing, making it an ideal entertainment and lounge area.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "North Indian",
+            "Living Room",
+            "Interior Design"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "2BHK apartment",
+          "functionality": "Entertainment, relaxation, dining",
+          "indian_specific": "Bar counter, sofa set, marble flooring, ceiling fan"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.08%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_013",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Modular Cabinets",
+          "Countertop",
+          "Backsplash"
+        ],
+        "objects": [
+          {
+            "type": "Island Counter",
+            "features": [
+              "Integrated Sink",
+              "Glowing Countertop"
+            ],
+            "materials": [
+              "Marble",
+              "Solid Wood"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Cabinets",
+            "features": [
+              "Wooden Texture",
+              "Minimalist Handles",
+              "Integrated Storage"
+            ],
+            "materials": [
+              "Teak",
+              "Rosewood"
+            ],
+            "finish": "Laminate"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Beige",
+            "Black",
+            "White"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Polished"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Wooden carvings on cabinetry"
+          ],
+          "modern_adaptations": [
+            "Glossy finishes and minimalist handles"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Integration of traditional woodwork with modern design"
+        },
+        "confidence_scores": {
+          "room": 0.93,
+          "theme": 0.9,
+          "primary_features": 0.9,
+          "objects": 0.92,
+          "indian_context": 0.87
+        },
+        "description": "This modern Indian kitchen features sleek, compact modular cabinets with a blend of South Indian influences, evident in the incorporation of light wooden materials and traditional wood carvings. The glossy finishes of the cabinets and countertops reflect contemporary design sensibilities, while the dark countertop provides a striking contrast. The natural light streaming through the window enhances the warmth of the wood, and the minimalist design maximizes space efficiency in a typical 1BHK setup, emphasizing functionality and cultural integration.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "Compact Kitchen",
+            "Glossy Cabinets",
+            "South Indian Influences",
+            "Wooden Carvings"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "1BHK",
+          "functionality": "Entertainment",
+          "indian_specific": "Modular kitchen"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.38%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_014",
+      "ai_generated_tags": {
+        "room": "Room Type (Closet, Storage Room, Walk-in Closet)",
+        "theme": "Design Theme (Modern Indian, Contemporary Indian)",
+        "primary_features": [
+          "Sliding Doors",
+          "Decorative Glass Panels",
+          "Linear Design"
+        ],
+        "objects": [
+          {
+            "type": "Storage Unit",
+            "features": [
+              "Sliding Doors",
+              "Glass Panels",
+              "Decorative Stripes",
+              "Storage Compartments"
+            ],
+            "materials": [
+              "Glass",
+              "Metal Frame",
+              "Decorative Wood Trim"
+            ],
+            "finish": "Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Dark Grey",
+            "White",
+            "Gold"
+          ],
+          "materials": [
+            "Glass",
+            "Wood",
+            "Metal"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Sleek Design"
+          ],
+          "modern_adaptations": [
+            "Contemporary Lines"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Modern Adaptation of Minimalist Aesthetics"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This image features a modern Indian-inspired storage unit with sleek sliding doors and decorative glass panels. The design uses a contemporary style with linear patterns and a dark grey glass finish, accented by gold linear stripes for a touch of traditional Indian design elements. The compact and modular design is typical of modern Indian interior trends, focusing on functionality and space optimization. The use of glass and metal reflects a modern adaptation of traditional Indian materials, while the overall aesthetic is clean and minimalist, which is popular in contemporary Indian design. The space utilizes natural daylight effectively, enhancing the visibility and warmth of the interior.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "Contemporary Design",
+            "Sleek Interior",
+            "Compact Storage",
+            "Indian Adaptation"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Closet",
+          "functionality": "Storage",
+          "indian_specific": "Modular Storage Solutions"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.49%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_015",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Contemporary Indian",
+        "primary_features": [
+          "Custom-built shelving unit",
+          "Sofa with cushions",
+          "Decorative coffee table"
+        ],
+        "objects": [
+          {
+            "type": "Sofa",
+            "features": [
+              "Comfortable upholstery",
+              "Decorative cushions"
+            ],
+            "materials": [
+              "Fabric"
+            ],
+            "finish": "Fabric"
+          },
+          {
+            "type": "Custom-built shelving unit",
+            "features": [
+              "Integrated lighting",
+              "Storage compartments"
+            ],
+            "materials": [
+              "Wood",
+              "Marble"
+            ],
+            "finish": "Veneer, Solid wood"
+          },
+          {
+            "type": "Decorative coffee table",
+            "features": [
+              "Unique design",
+              "Centrepiece placement"
+            ],
+            "materials": [
+              "Metal"
+            ],
+            "finish": "Metallic"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Neutral tones (beige, white)",
+            "Warm wood tones",
+            "Accent green"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal"
+          ],
+          "lighting": "Mixed lighting (natural daylight, recessed ceiling lights, ambient lighting)",
+          "texture": "Smooth (marble, wood)"
+        },
+        "indian_context": {
+          "regional_style": "Contemporary Indian",
+          "traditional_elements": [
+            "Decorative items on shelves"
+          ],
+          "modern_adaptations": [
+            "Integration of modern lighting and furniture"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Enhanced functionality with modern interpretations"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This contemporary Indian living room blends traditional elements with modern aesthetics, creating a sophisticated and functional space. The custom-built shelving unit, with its integrated lighting and storage compartments, exemplifies efficient space utilization. The neutral color palette, combined with warm wood tones and accent green, creates a harmonious and inviting atmosphere. The decorative coffee table, a centrepiece of the room, adds a touch of elegance and modern design. Cultural significance is evident in the thoughtful integration of decorative items on the shelves, which reflect traditional Indian design influences. The overall design emphasizes comfort, functionality, and a modern interpretation of traditional elements.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Living Room",
+          "Interior Design"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "1BHK",
+        "functionality": "Relaxation",
+        "indian_specific": "Decorative coffee table, custom-built shelving unit"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/3-2.jpg"
+    },
+    {
+      "image_id": "img_016",
+      "ai_generated_tags": {
+        "room": "Bathroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Stone tiles",
+          "Wooden cabinet",
+          "Mirror with wooden frame"
+        ],
+        "objects": [
+          {
+            "type": "Vanity Unit",
+            "features": [
+              "Integrated sink",
+              "Open shelving"
+            ],
+            "materials": [
+              "Marble",
+              "Wood"
+            ],
+            "finish": "Laminate, polished"
+          },
+          {
+            "type": "Mirror",
+            "features": [
+              "Circular shape",
+              "Wooden frame"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Glass Cabinet",
+            "features": [
+              "Transparent doors"
+            ],
+            "materials": [
+              "Glass"
+            ],
+            "finish": "Smooth"
+          },
+          {
+            "type": "Wall Light",
+            "features": [
+              "Gold finish",
+              "Modern design"
+            ],
+            "materials": [
+              "Metal"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Vase",
+            "features": [
+              "Yellow color",
+              "Curved shape"
+            ],
+            "materials": [
+              "Ceramic"
+            ],
+            "finish": "Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Gold"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Glass",
+            "Metal"
+          ],
+          "lighting": "Warm lighting",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Wooden cabinets"
+          ],
+          "modern_adaptations": [
+            "Integrated sink, glass doors"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Cultural significance of using wood in traditional Indian interiors"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian bathroom features a sleek design with a combination of white stone tiles, wooden cabinets, and a circular mirror with a wooden frame, creating a harmonious blend of natural textures and modern lines. The use of marble and wood highlights traditional Indian craftsmanship, while the glass cabinet and integrated sink demonstrate contemporary adaptations. The warm lighting and smooth textures contribute to a calming and luxurious atmosphere, typical of modern Indian interiors. The compact design effectively utilizes the available space, reflecting common space optimization techniques in Indian homes.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Bathroom",
+          "South Indian",
+          "Compact Design"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Apartment",
+        "functionality": "Relaxation",
+        "indian_specific": "Wooden cabinets, stone tiles"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/3.jpg"
+    },
+    {
+      "image_id": "img_017",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Contemporary Indian",
+        "primary_features": [
+          "Glass coffee table",
+          "Woven rug",
+          "Open shelving"
+        ],
+        "objects": [
+          {
+            "type": "Sofa",
+            "features": [
+              "Tufted design",
+              "Checkered pattern"
+            ],
+            "materials": [
+              "Fabric"
+            ],
+            "finish": "Textured"
+          },
+          {
+            "type": "Dining Table",
+            "features": [
+              "Modern design",
+              "Gold metal frame"
+            ],
+            "materials": [
+              "Marble top"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Mandir Unit",
+            "features": [
+              "Built-in shelves"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Laminate"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Beige",
+            "Gold"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "lighting": "LED strips",
+          "texture": "Textured"
+        },
+        "indian_context": {
+          "regional_style": "North Indian",
+          "traditional_elements": [
+            "Wooden carvings (not visible)",
+            "Brass items (not visible)"
+          ],
+          "modern_adaptations": [
+            "Minimal use of traditional elements, modern materials"
+          ],
+          "space_utilization": "Open-plan",
+          "cultural_significance": "Cultural significance of design elements like the mandir unit is present, reflecting traditional values within a contemporary setting"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This modern Indian living space features a contemporary design with a clean and minimalist aesthetic. The living room includes a tufted sofa with a checkered pattern, a glass coffee table, and an open shelving unit for storage and display. The dining area, adjacent to the living room, boasts a modern design with a marble-topped dining table supported by a gold metal frame, reflecting a blend of traditional and contemporary styles. The use of marble and wood for the furniture and the mandir unit, despite being modern, subtly incorporates traditional Indian design elements. The color scheme is predominantly white and beige, accented with gold and brass tones, creating a warm and inviting atmosphere. The open-plan layout maximizes space, allowing for fluid movement between the living and dining areas. The presence of LED strips for lighting and textured finishes on the furniture highlight a modern adaptation of traditional Indian design principles.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "Contemporary",
+            "Living Room",
+            "Open Plan"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "1BHK",
+          "functionality": "Relaxation, dining",
+          "indian_specific": "Mandir unit"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.08%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_018",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Compact cooking area",
+          "Integrated refrigerator",
+          "Modular cabinetry"
+        ],
+        "objects": [
+          {
+            "type": "Island Counter",
+            "features": [
+              "Small dining space",
+              "Integrated cooking area"
+            ],
+            "materials": [
+              "Marble top",
+              "Veneer cabinet"
+            ],
+            "finish": "Laminated"
+          },
+          {
+            "type": "Refrigerator",
+            "features": [
+              "Integrated design",
+              "Built-in appearance"
+            ],
+            "materials": [
+              "Metallic finish"
+            ],
+            "finish": "Metallic"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Black",
+            "White",
+            "Beige"
+          ],
+          "materials": [
+            "Marble",
+            "Veneer",
+            "Metallic"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "No traditional elements visible"
+          ],
+          "modern_adaptations": [
+            "Integrating traditional elements with modern design"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "The space reflects modern adaptations of traditional Indian aesthetics, where functionality is prioritized without sacrificing style."
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This modern Indian kitchen exemplifies a compact design with a sleek, integrated refrigerator and a minimalist island counter that doubles as a dining space. The use of marble and veneer showcases a preference for high-quality materials, while the metallic finish on the refrigerator adds a contemporary touch. Natural daylight enhances the clean and modern aesthetic. Cultural significance is subtly integrated, focusing on functionality and space optimization, which are key in modern Indian interior design.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "Compact Kitchen",
+            "Integrated Refrigerator",
+            "Veneer Cabinets",
+            "Marble Top"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Apartment",
+          "functionality": "Dining and Cooking",
+          "indian_specific": "Modular kitchen design"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.18%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_019",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Integrated Refrigerator",
+          "Dining Table",
+          "Wall Mirror with Decorative Light"
+        ],
+        "objects": [
+          {
+            "type": "Integrated Refrigerator",
+            "features": [
+              "Compact Design",
+              "Modern Controls"
+            ],
+            "materials": [
+              "Metallic Finish"
+            ],
+            "finish": "Metallic"
+          },
+          {
+            "type": "Dining Table",
+            "features": [
+              "Minimalist Design",
+              "Tufted Chairs",
+              "Modern Legs"
+            ],
+            "materials": [
+              "Metallic",
+              "Fabric"
+            ],
+            "finish": "Metallic, Fabric"
+          },
+          {
+            "type": "Wall Mirror",
+            "features": [
+              "Decorative Design",
+              "Integrated Lighting"
+            ],
+            "materials": [
+              "Metallic",
+              "Glass"
+            ],
+            "finish": "Metallic, Glass"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Black",
+            "Gold"
+          ],
+          "materials": [
+            "Metallic",
+            "Fabric"
+          ],
+          "lighting": "Integrated Wall Lighting",
+          "texture": "Smooth, Textured"
+        },
+        "indian_context": {
+          "regional_style": "Contemporary Indian",
+          "traditional_elements": [
+            "No Traditional Elements Present"
+          ],
+          "modern_adaptations": [
+            "Modular Furniture",
+            "Integrated Appliances"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Contemporary Adaptation of Modern Indian Design"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This image showcases a modern Indian kitchen design with a contemporary twist. The compact space utilizes integrated appliances for a streamlined look, while the dining area features minimalist furniture with tufted chairs and metallic legs, maintaining a clean and modern aesthetic. The wall mirror with integrated lighting adds a decorative and functional element, reflecting the trend of modern Indian design that blends traditional aesthetics with modern functionality. The color scheme of white, black, and gold provides a sophisticated and elegant ambiance, typical of modern Indian interiors that favor neutral tones with metallic accents.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "Contemporary Kitchen",
+            "Integrated Furniture"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Apartment",
+          "functionality": "Dining and Cooking",
+          "indian_specific": "Compact Space Optimization"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.22%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_022",
+      "ai_generated_tags": {
+        "room": "Home Office",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Integrated Workstation",
+          "Wall-Mounted Storage Unit",
+          "Compact Desk Chair"
+        ]
+      },
+      "objects": [
+        {
+          "type": "Desk Chair",
+          "features": [
+            "Curved Backrest",
+            "Soft Upholstery",
+            "Seafoam Green Upholstery"
+          ],
+          "materials": [
+            "Fabric",
+            "Wooden Frame"
+          ],
+          "finish": "Fabric"
+        },
+        {
+          "type": "Wall-Mounted Storage Unit",
+          "features": [
+            "Integrated Desk",
+            "Open Shelving",
+            "Closed Doors"
+          ],
+          "materials": [
+            "Teak Wood",
+            "White Paneling"
+          ],
+          "finish": "Teak Wood, White Paneling"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Teak Wood",
+          "Seafoam Green"
+        ],
+        "materials": [
+          "Teak Wood",
+          "White Paneling"
+        ],
+        "lighting": "Natural Daylight",
+        "texture": "Smooth, Polished"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Teak Wood"
+        ],
+        "modern_adaptations": [
+          "Minimalist Design",
+          "Closed Door Storage"
+        ],
+        "space_utilization": "Compact",
+        "cultural_significance": "Modern adaptation of traditional Indian craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern interpretation of Indian interior design, specifically a home office setup. The space utilizes a compact wall-mounted storage unit with integrated desk space, a modern desk chair with a curved backrest and seafoam green upholstery, and teak wood materials for the storage unit's frame. The design highlights the integration of traditional Indian craftsmanship, such as the use of teak, with a contemporary aesthetic, exemplified by the minimalist design and closed-door storage solutions. The color scheme of white and teak wood is a popular choice in modern Indian interiors, reflecting a balance between traditional and modern elements. The natural daylight lighting enhances the openness and flow of the space, while the smooth and polished textures add to the contemporary feel.",
+      "metadata": {
+        "tags": [
+          "modern indian",
+          "home office",
+          "workstation",
+          "teak wood",
+          "minimalist design"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "1BHK",
+        "functionality": "Work",
+        "indian_specific": "Teak Wood Storage Unit"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.36%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_023",
+      "ai_generated_tags": {
+        "room": "Entrance",
+        "theme": "Contemporary Indian",
+        "primary_features": [
+          "Wardrobe with geometric patterns",
+          "Decorative wall panel",
+          "Storage bench with cushion"
+        ],
+        "objects": [
+          {
+            "type": "Wardrobe",
+            "features": [
+              "Geometric patterns",
+              "Combination of solid wood and laminated wood"
+            ],
+            "materials": [
+              "Solid wood",
+              "Laminated wood"
+            ],
+            "finish": "Laminated"
+          },
+          {
+            "type": "Decorative wall panel",
+            "features": [
+              "Abstract design",
+              "Soft pastel colors"
+            ],
+            "materials": [
+              "Laminated wood"
+            ],
+            "finish": "Laminated"
+          },
+          {
+            "type": "Storage bench with cushion",
+            "features": [
+              "Cushion with geometric pattern",
+              "Wooden frame"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Wood"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Pink",
+            "Beige",
+            "Off-white"
+          ],
+          "materials": [
+            "Wood",
+            "Laminated wood"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Brass items (potentially)",
+            "Wooden carvings (implied)",
+            "Toran (implied)"
+          ],
+          "modern_adaptations": [
+            "Contemporary interpretation of traditional elements"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Modern adaptation of traditional elements, reflecting a blend of modern and cultural aesthetics"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This image showcases a modern interpretation of traditional Indian design elements in a compact entrance space. The wardrobe with geometric patterns and the decorative wall panel reflect contemporary adaptations of traditional Indian aesthetics, using smooth laminated wood finishes. The storage bench with a cushioned seat integrates functionality with a touch of traditional comfort. Natural daylight accentuates the soft pastel color palette, creating a serene and welcoming atmosphere. This design exemplifies modern adaptations of traditional Indian motifs, emphasizing space optimization and cultural significance in a minimalist yet culturally rich setting.",
+        "metadata": {
+          "tags": [
+            "contemporary",
+            "Indian design",
+            "entrance",
+            "modern",
+            "storage",
+            "geometric patterns"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "1BHK apartment",
+          "functionality": "Entrance",
+          "indian_specific": "Modern adaptation of traditional elements"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.00.57%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_025",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Compact Layout",
+          "Integrated Cabinets",
+          "Marble Backsplash"
+        ],
+        "objects": [
+          {
+            "type": "Kitchen Island Counter",
+            "features": [
+              "Countertop Storage",
+              "Cutting Board"
+            ],
+            "materials": [
+              "Marble",
+              "Metal"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Pooja Unit",
+            "features": [
+              "Small Altar Space"
+            ],
+            "materials": [
+              "Wood",
+              "Metal"
+            ],
+            "finish": "Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Purple",
+            "White",
+            "Black"
+          ],
+          "materials": [
+            "Marble",
+            "Metal"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Polished, Textured"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Toran",
+            "Brass items"
+          ],
+          "modern_adaptations": [
+            "Integrated Cabinets",
+            "Marble Backsplash"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Mandir in the kitchen, symbolizing reverence for deities and blessings"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This modern Indian kitchen exemplifies a contemporary take on traditional Indian design, incorporating sleek, integrated cabinets and a marble backsplash. The inclusion of a small pooja unit within the kitchen highlights the cultural significance of maintaining a sacred space within the home. The color scheme of purple and white creates a fresh and inviting atmosphere, while the natural daylight enhances the overall brightness of the space. The use of marble and metal reflects modern materials and craftsmanship, while the compact layout optimizing the space aligns with Indian interior design principles of maximizing functionality in limited spaces.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "Compact Kitchen",
+            "Marble Backsplash",
+            "Pooja Unit",
+            "Integrated Cabinets"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Apartment",
+          "functionality": "Cooking and Dining",
+          "indian_specific": "Pooja room"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.18%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_026",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "L-shaped Kitchen Layout",
+          "Purple Cabinets",
+          "Marble Backsplash",
+          "Black Kitchen Island"
+        ],
+        "objects": [
+          {
+            "type": "Kitchen Island",
+            "features": [
+              "Sink",
+              "Gas Stove",
+              "Cutting Board",
+              "Utensils"
+            ],
+            "materials": [
+              "Marble",
+              "Black Granite"
+            ],
+            "finish": "Marble"
+          },
+          {
+            "type": "Cupboard",
+            "features": [
+              "Purple Cabinets"
+            ],
+            "materials": [
+              "Purple Laminate"
+            ],
+            "finish": "Laminate"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Purple",
+            "White",
+            "Black"
+          ],
+          "materials": [
+            "Marble",
+            "Purple Laminate",
+            "Black Granite"
+          ],
+          "lighting": "LED strips",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Not applicable"
+          ],
+          "modern_adaptations": [
+            "Modern adaptations of traditional elements like modular kitchen"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Cultural significance of design elements is not directly applicable, as this is a modern Indian kitchen with contemporary design elements."
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This modern Indian kitchen features a compact L-shaped layout with purple cabinets and a black granite countertop. The kitchen island serves as a functional space for cooking and dining, equipped with a sink, gas stove, and cutting board. The marble backsplash adds a touch of elegance, while LED strips ensure adequate lighting. The design focuses on space optimization and functionality, catering to the contemporary Indian lifestyle.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "Compact Layout",
+            "Purple Cabinets",
+            "Marble Backsplash",
+            "Black Granite"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Apartment",
+          "functionality": "Dining",
+          "indian_specific": "Modular kitchen"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.24%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_030",
+      "ai_generated_tags": {
+        "room": "Closet",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "White Closet with Sliding Doors",
+          "Open Shelving Unit",
+          "Wooden Floor"
+        ],
+        "objects": [
+          {
+            "type": "Storage Unit",
+            "features": [
+              "Built-in Storage",
+              "Clothing Storage",
+              "Shoe Rack"
+            ],
+            "materials": [
+              "MDF",
+              "Painted Finish"
+            ],
+            "finish": "Laminate"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Beige",
+            "Wood Tone"
+          ],
+          "materials": [
+            "White",
+            "Light Brown"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "None"
+          ],
+          "modern_adaptations": [
+            "Minimalist Design",
+            "Integration of Open Shelving"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Space optimization for functionality and minimalism"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This image showcases a modern Indian closet with a minimalist design, emphasizing functionality and space optimization. The white closet with sliding doors provides efficient clothing storage, while the open shelving unit with wood tones adds a touch of warmth and continuity with the wooden flooring. The use of white for the main storage unit contrasts with the beige walls, creating a clean and contemporary look. The modern Indian style integrates practicality with aesthetic appeal, making it suitable for various home spaces, especially in smaller apartments or studios where efficient use of space is crucial.",
+        "metadata": {
+          "tags": [
+            "Closet",
+            "Modern Indian",
+            "Minimalist",
+            "Compact Space",
+            "Efficient Storage"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "1BHK",
+          "functionality": "Storage",
+          "indian_specific": "Compact Storage Solutions"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.06%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_031",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Sliding wardrobe",
+          "Wall mirror",
+          "Built-in shelves"
+        ],
+        "objects": [
+          {
+            "type": "Sliding wardrobe",
+            "features": [
+              "Sliding doors",
+              "Shelving",
+              "Storage drawers"
+            ],
+            "materials": [
+              "MDF",
+              "Metal"
+            ],
+            "finish": "Laminated"
+          },
+          {
+            "type": "Wall mirror",
+            "features": [
+              "Oval shape",
+              "Bevelled edge"
+            ],
+            "materials": [
+              "Glass",
+              "Metal frame"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Built-in shelves",
+            "features": [
+              "Open shelves",
+              "Closed shelves",
+              "Decorative items"
+            ],
+            "materials": [
+              "MDF",
+              "Metal"
+            ],
+            "finish": "Laminated"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Light blue",
+            "White",
+            "Silver"
+          ],
+          "materials": [
+            "MDF",
+            "Metal"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Oval mirror",
+            "Decorative items"
+          ],
+          "modern_adaptations": [
+            "Sliding wardrobe, modern materials"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Space optimization for small rooms"
+        },
+        "confidence_scores": {
+          "room": 0.92,
+          "theme": 0.89,
+          "primary_features": 0.95,
+          "objects": 0.94,
+          "indian_context": 0.88
+        },
+        "description": "This bedroom showcases a modern Indian design with a compact and functional layout. The use of sliding wardrobes optimizes space, while the built-in shelves and wall mirror add both functionality and aesthetic appeal. The color scheme of light blue and white, with metallic accents, creates a fresh and serene atmosphere. The design emphasizes convenience and cultural significance through the incorporation of traditional elements like the oval mirror and decorative items, adapted with modern materials and techniques.",
+        "metadata": {
+          "tags": [
+            "modern",
+            "bedroom",
+            "Indian design",
+            "compact layout"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "apartment",
+          "functionality": "relaxation, storage",
+          "indian_specific": "modular furniture"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.13%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_032",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Built-in Wardrobe",
+          "Study Table",
+          "Bed with Soft Upholstery"
+        ],
+        "objects": [
+          {
+            "type": "Wardrobe",
+            "features": [
+              "Sliding Doors",
+              "Integrated Shelves"
+            ],
+            "materials": [
+              "MDF",
+              "Metal"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Study Table",
+            "features": [
+              "Open Shelves",
+              "Integrated Lighting"
+            ],
+            "materials": [
+              "MDF",
+              "Metal"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Bed",
+            "features": [
+              "Soft Upholstery",
+              "Integrated Drawers"
+            ],
+            "materials": [
+              "MDF",
+              "Metal"
+            ],
+            "finish": "Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Light Green",
+            "White",
+            "Pink"
+          ],
+          "materials": [
+            "MDF",
+            "Metal"
+          ],
+          "lighting": "Integrated LED Strips",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "N/A",
+          "traditional_elements": [
+            "N/A"
+          ],
+          "modern_adaptations": [
+            "Contemporary design with traditional Indian motifs"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "N/A"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This bedroom exemplifies a modern Indian design approach, blending contemporary aesthetics with traditional elements. The built-in wardrobe with sliding doors and integrated shelves maximizes storage space efficiently, while the study table with open shelves and built-in lighting offers a functional workspace. The bed with soft upholstery and integrated drawers adds comfort and additional storage. The color scheme of light green and white, accented with pink, creates a fresh and inviting atmosphere, typical of modern Indian interiors. The smooth textures and glossy finishes add a touch of sophistication, making the space both practical and stylish.",
+        "metadata": {
+          "tags": [
+            "modern",
+            "indian",
+            "bedroom",
+            "storage",
+            "functional"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Apartment",
+          "functionality": "Relaxation, Work, Storage",
+          "indian_specific": "Integrated storage solutions"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.17%E2%80%AFPM.png"
+    },
+    {
+      "image_id": "img_035",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Fitted wardrobe",
+          "Textured wall paneling"
+        ],
+        "objects": [
+          {
+            "type": "Fitted wardrobe",
+            "features": [
+              "Sliding doors",
+              "Textured paneling"
+            ],
+            "materials": [
+              "Solid wood",
+              "Metal hardware"
+            ],
+            "finish": "Laminated"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Brown",
+            "Beige",
+            "White"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Textured wall paneling"
+          ],
+          "modern_adaptations": [
+            "Sliding doors, modern hardware"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "The design reflects the use of traditional textures and materials while incorporating modern functionality"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern interpretation of a traditional Indian design element in a bedroom setting. The fitted wardrobe features textured wall paneling, a common technique in South Indian homes, combined with contemporary sliding doors and metal hardware. The color palette is dominated by warm tones of brown and beige, complemented by the white frame of the wardrobe. The natural daylight enhances the overall aesthetic, creating a balance between traditional and modern sensibilities. The compact design of the wardrobe optimizes the available space, a typical strategy in Indian homes to maximize utility.",
+      "metadata": {
+        "tags": [
+          "bedroom",
+          "modern",
+          "textured",
+          "South Indian",
+          "compact",
+          "fitted wardrobe"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "1BHK apartment",
+        "functionality": "Relaxation, storage",
+        "indian_specific": "Modular furniture, storage solutions"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.16%20PM.jpeg"
+    },
+    {
+      "image_id": "img_036",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Built-in Wardrobe",
+          "Modern Storage Unit",
+          "Minimalist Design"
+        ],
+        "objects": [
+          {
+            "type": "Storage Unit",
+            "features": [
+              "High-Capacity Storage",
+              "Cupboard Doors",
+              "Drawers"
+            ],
+            "materials": [
+              "MDF",
+              "Painted Finish"
+            ],
+            "finish": "Painted Finish"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Grey"
+          ],
+          "materials": [
+            "MDF",
+            "Painted Finish"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Minimal Traditional Influence"
+          ],
+          "modern_adaptations": [
+            "Modern Adaptations of Traditional Elements"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Modern Adaptation of Functional Space"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image depicts a modern Indian bedroom interior with a minimalist design. The most prominent feature is a large built-in wardrobe with sliding doors and drawers, designed in a white and brown color scheme. The materials used are MDF with a painted finish, emphasizing a smooth and modern aesthetic. The room utilizes natural daylight, and the space is compact, typical of modern Indian design trends. There are no traditional Indian elements visible in the image, indicating a modern adaptation of the functional space. The cultural significance lies in the efficient use of space and the contemporary design choices.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "Bedroom Design",
+            "Minimalist",
+            "Compact Space"
+          ],
+          "budget_indicator": "Mid-Range",
+          "space_type": "2BHK Apartment",
+          "functionality": "Relaxation",
+          "indian_specific": "Modern Adaptations"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.24%20PM%20%281%29.jpeg"
+    },
+    {
+      "image_id": "img_038",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Contemporary Indian",
+        "primary_features": [
+          "Built-in Wardrobe",
+          "Modern Storage Solution",
+          "Rustic Flooring"
+        ],
+        "objects": [
+          {
+            "type": "Built-in Wardrobe",
+            "features": [
+              "Sliding Doors",
+              "Integrated Shelving"
+            ],
+            "materials": [
+              "MDF",
+              "Marble"
+            ],
+            "finish": "Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Dark Grey",
+            "Light Grey",
+            "Brown"
+          ],
+          "materials": [
+            "MDF",
+            "Marble"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Glossy"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Rustic Flooring"
+          ],
+          "modern_adaptations": [
+            "Glossy Finish"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "No traditional Indian cultural elements present"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image depicts a contemporary Indian bedroom with a modern storage solution. The built-in wardrobe features sliding doors and integrated shelving, constructed with MDF and topped with a glossy marble finish. The flooring is rustic, which adds a traditional touch to the otherwise modern design. The natural daylight from the window enhances the bright and airy feel of the room, while a ceiling fan provides ventilation. The room’s compact layout, contemporary design, and use of glossy materials create a functional and stylish space.",
+        "metadata": {
+          "tags": [
+            "Contemporary Indian",
+            "Compact Bedroom",
+            "Modern Storage",
+            "Glossy Finish"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Apartment",
+          "functionality": "Relaxation",
+          "indian_specific": "Rustic Flooring"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.28%20PM%20%282%29.jpeg"
+    },
+    {
+      "image_id": "img_039",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Pink and white cabinets",
+          "Built-in bed with storage",
+          "Ceiling fan"
+        ],
+        "objects": [
+          {
+            "type": "Bed",
+            "features": [
+              "Built-in",
+              "Storage underneath"
+            ],
+            "materials": [
+              "Wood",
+              "Metal"
+            ],
+            "finish": "Wooden polished"
+          },
+          {
+            "type": "Cabinet",
+            "features": [
+              "Wall-mounted",
+              "Storage"
+            ],
+            "materials": [
+              "MDF",
+              "Metal"
+            ],
+            "finish": "Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Pink",
+            "White",
+            "Brown"
+          ],
+          "materials": [
+            "MDF",
+            "Metal"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "No traditional elements observed"
+          ],
+          "modern_adaptations": [
+            "Modular cabinets and built-in bed"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Functional and aesthetic design with a modern twist"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This bedroom features a modern Indian design with a vibrant color scheme dominated by pink and white. The built-in bed with storage offers efficient space utilization, typical of Indian homes where every inch is maximized. The glossy MDF cabinets provide ample storage, reflecting the Indian preference for organized and functional interiors. The natural daylight and smooth textures create a bright and inviting atmosphere. The absence of traditional decor elements suggests a contemporary approach, yet the space maintains a clear cultural significance in its functionality and efficient use of space.",
+      "metadata": {
+        "tags": [
+          "modern",
+          "indian",
+          "bedroom",
+          "pink",
+          "white",
+          "glossy",
+          "storage",
+          "functional"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Apartment",
+        "functionality": "Relaxation",
+        "indian_specific": "Modular furniture"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.30%20PM.jpeg"
+    },
+    {
+      "image_id": "img_040",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Full Wall Wardrobe"
+        ],
+        "objects": [
+          {
+            "type": "Storage Unit",
+            "features": [
+              "Full Wall Coverage",
+              "Multiple Doors",
+              "Shelving"
+            ],
+            "materials": [
+              "Wood"
+            ],
+            "finish": "Laminated"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Light Brown",
+            "White"
+          ],
+          "materials": [
+            "Wood",
+            "Laminate"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Full Wall Wardrobe"
+          ],
+          "modern_adaptations": [
+            "Minimalist Design"
+          ],
+          "space_utilization": "Modular",
+          "cultural_significance": "Efficient Use of Space"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image showcases a modern Indian bedroom featuring a full wall wardrobe with multiple doors and a sleek design. The wardrobe is made of wood with a laminate finish, providing a smooth and polished look. The room is illuminated by natural daylight, enhancing the light brown color of the wooden surface. The design is efficient in space utilization, a common trait in modern Indian homes, where maximizing storage is essential. The wardrobe's minimalist design reflects a contemporary approach while still maintaining the efficiency and functionality typical of Indian interiors.",
+        "metadata": {
+          "tags": [
+            "modern",
+            "Indian",
+            "bedroom",
+            "wardrobe",
+            "storage",
+            "efficient"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Apartment",
+          "functionality": "Storage",
+          "indian_specific": "Modular wardrobe"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.32%20PM%20%281%29.jpeg"
+    },
+    {
+      "image_id": "img_041",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Built-in Wardrobe",
+          "Study Table",
+          "Mirror"
+        ],
+        "objects": [
+          {
+            "type": "Built-in Wardrobe",
+            "features": [
+              "Multiple Compartments",
+              "Cabinet Doors",
+              "LED Lighting"
+            ],
+            "materials": [
+              "Metal",
+              "Veneer"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Study Table",
+            "features": [
+              "Attached to Wardrobe",
+              "Integrated Storage"
+            ],
+            "materials": [
+              "Wood",
+              "Laminate"
+            ],
+            "finish": "Matte"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Green",
+            "Yellow"
+          ],
+          "materials": [
+            "Metal",
+            "Wood",
+            "Laminate"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Toran",
+            "Brass items",
+            "Wooden carvings"
+          ],
+          "modern_adaptations": [
+            "Integrated furniture design",
+            "LED lighting"
+          ],
+          "space_utilization": "Spacious",
+          "cultural_significance": "Cultural significance of design elements in terms of functionality and storage"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image showcases a modern Indian bedroom design with a built-in wardrobe and study table. The wardrobe features multiple compartments, cabinet doors, and LED lighting, with a glossy finish and a combination of metal and veneer materials. The study table is integrated into the wardrobe, providing a seamless and functional design. The room is painted in a combination of white, green, and yellow, creating a fresh and vibrant atmosphere. The design reflects a blend of modern and traditional Indian elements, emphasizing functionality and cultural significance. The room is spacious, utilizing the vertical space effectively for storage and maintaining a clean and organized appearance. The lighting is natural daylight, which enhances the overall brightness and warmth of the room. The use of modern adaptations like LED lighting and integrated furniture design appeals to contemporary living preferences while maintaining traditional elements like brass items and wooden carvings in the cultural context.",
+        "metadata": {
+          "tags": [
+            "modern",
+            "Indian style",
+            "bedroom design",
+            "built-in wardrobe",
+            "integrated furniture"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "1BHK apartment",
+          "functionality": "Relaxation and storage",
+          "indian_specific": "Integrated wardrobe"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.33%20PM.jpeg"
+    },
+    {
+      "image_id": "img_042",
+      "ai_generated_tags": {
+        "room": "Pooja Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Modular Storage Cabinets",
+          "Sleek Grey Finish"
+        ],
+        "objects": [
+          {
+            "type": "Storage Unit",
+            "features": [
+              "Modular Design",
+              "Sliding Doors",
+              "Uniform Grey Finish"
+            ],
+            "materials": [
+              "MDF",
+              "Metal"
+            ],
+            "finish": "Veneer"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Red",
+            "Grey"
+          ],
+          "materials": [
+            "White Tiles",
+            "Metal"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "North Indian",
+          "traditional_elements": [
+            "None"
+          ],
+          "modern_adaptations": [
+            "Minimalist Design"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Cultural and religious significance of the Mandir unit"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image showcases a modern take on the traditional Indian Mandir unit. The sleek, grey, modular storage unit with sliding doors serves both as a functional storage solution and a religious space, adhering to cultural norms of placing a Mandir within the home. The minimalist design and uniform grey finish are indicative of contemporary trends in Indian interior design, where functionality and aesthetics are seamlessly integrated. The red accent wall adds a pop of color and warmth, reflecting the vibrant hues often seen in traditional Indian decor. The natural daylight streaming through the unit adds a fresh, inviting ambiance to the space.",
+        "metadata": {
+          "tags": [
+            "Pooja Room",
+            "Modular Storage",
+            "Modern Indian",
+            "Compact Design",
+            "Religious Space"
+          ],
+          "budget_indicator": "Mid-Range",
+          "space_type": "Apartment",
+          "functionality": "Religious and Storage",
+          "indian_specific": "Mandir Unit"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.34%20PM%20%281%29.jpeg"
+    },
+    {
+      "image_id": "img_043",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Built-in Wardrobe"
+        ],
+        "objects": [
+          {
+            "type": "Storage Unit",
+            "features": [
+              "Multiple compartments",
+              "Sliding doors"
+            ],
+            "materials": [
+              "Wood",
+              "Laminated"
+            ],
+            "finish": "Laminated"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Brown",
+            "White"
+          ],
+          "materials": [
+            "Wood",
+            "Laminated"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Lack of traditional Indian decor"
+          ],
+          "modern_adaptations": [
+            "Minimalist design with modern materials"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Space optimization"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.88,
+          "primary_features": 0.9,
+          "objects": 0.93,
+          "indian_context": 0.85
+        },
+        "description": "The image showcases a built-in wardrobe in a modern Indian bedroom. The wardrobe features multiple compartments and sliding doors with a combination of brown and white laminated surfaces, emphasizing a minimalist design. The space is compact, optimized for storage. The modern Indian theme is evident through the use of contemporary materials and a lack of traditional decor. Natural daylight provides illumination, and the smooth, laminated finish contributes to a clean, organized look.",
+        "metadata": {
+          "tags": [
+            "wardrobe",
+            "bedroom",
+            "modern",
+            "Indian"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "1BHK",
+          "functionality": "Storage",
+          "indian_specific": "Modern Indian design"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.49%20PM%20%281%29.jpeg"
+    },
+    {
+      "image_id": "img_044",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Green Storage Unit",
+          "Decorative Door",
+          "Floral Wall Mural"
+        ],
+        "objects": [
+          {
+            "type": "Door",
+            "features": [
+              "Wooden Finish",
+              "Metal Handle"
+            ],
+            "materials": [
+              "Wood",
+              "Metal"
+            ],
+            "finish": "Wood Grain Finish"
+          },
+          {
+            "type": "Cabinet",
+            "features": [
+              "Green Finish",
+              "Metal Handles"
+            ],
+            "materials": [
+              "MDF",
+              "Metal"
+            ],
+            "finish": "Matte Finish"
+          },
+          {
+            "type": "Wall Mural",
+            "features": [
+              "Floral Design",
+              "Textured Surface"
+            ],
+            "materials": [
+              "PVC Coated Paper",
+              "Adhesive"
+            ],
+            "finish": "Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Green",
+            "White",
+            "Gold"
+          ],
+          "materials": [
+            "Wood",
+            "Metal",
+            "PVC Coated Paper"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Decorative Door",
+            "Metal Handle"
+          ],
+          "modern_adaptations": [
+            "Glossy MDF Cabinets",
+            "Floral Wall Mural"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Elegant and modern interpretation of Indian aesthetics"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This image showcases a modern Indian bedroom with a contemporary aesthetic. The green storage unit with sleek metal handles adds a pop of color against the white walls. The decorative door features a natural wood grain finish and a metal handle, maintaining a traditional touch. The floral wall mural introduces a textured, glossy surface element, blending modern art with Indian design. The overall space is compact, optimizing the use of vertical space through the built-in shelves and cabinets. The color scheme of green, white, and gold follows traditional Indian color palettes, enhancing the cultural significance of the room. The use of PVC coated paper for the mural and MDF for cabinets indicates a preference for quality materials, reflecting the mid-range budget category.",
+        "metadata": {
+          "tags": [
+            "Bedroom",
+            "Green Storage",
+            "Modern Indian",
+            "Floral Mural"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Bedroom",
+          "functionality": "Relaxation",
+          "indian_specific": "Decorative Door, Metal Handle"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.50%20PM%20%281%29.jpeg"
+    },
+    {
+      "image_id": "img_045",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Built-in Wardrobe"
+        ],
+        "objects": [
+          {
+            "type": "Storage Unit",
+            "features": [
+              "Built-in with Doors",
+              "Integrated Shelving"
+            ],
+            "materials": [
+              "Laminated Wood",
+              "Metal Hinges"
+            ],
+            "finish": "Laminated"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Orange",
+            "Light Brown"
+          ],
+          "materials": [
+            "Laminated Wood",
+            "Metal"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [],
+          "modern_adaptations": [
+            "Integrated modular design with modern finish"
+          ],
+          "space_utilization": "Spacious",
+          "cultural_significance": "Modern Indian homes often prioritize space utilization and functionality."
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.9,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.87
+        },
+        "description": "This image showcases a modern Indian bedroom with a spacious built-in wardrobe. The design utilizes a contemporary style with a clean, minimalist look. The wardrobe features white doors with orange accents and integrated shelving and drawers, demonstrating a modern adaptation of traditional Indian furniture styles. The smooth finish and laminated materials suggest a focus on functionality and ease of maintenance. The natural daylight streaming through the window highlights the spaciousness and openness of the room.",
+        "metadata": {
+          "tags": [
+            "bedroom",
+            "modern Indian",
+            "spacious",
+            "storage",
+            "built-in wardrobe"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "apartment",
+          "functionality": "relaxation",
+          "indian_specific": "modular storage"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.54%20PM%20%281%29.jpeg"
+    },
+    {
+      "image_id": "img_046",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Blue Wardrobe with Cartoon Graphics",
+          "Storage Drawers",
+          "Open Shelves"
+        ],
+        "objects": [
+          {
+            "type": "Wardrobe",
+            "features": [
+              "Large Storage Capacity",
+              "Cartoon Graphics",
+              "Drawers and Shelves"
+            ],
+            "materials": [
+              "Laminated Particle Board"
+            ],
+            "finish": "Laminated"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Blue",
+            "Yellow",
+            "Green"
+          ],
+          "materials": [
+            "Blue Laminated Particle Board"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Cartoon Graphics"
+          ],
+          "modern_adaptations": [
+            "Laminated Materials"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Cultural Significance of cartoon graphics in children's bedroom design, representing popular culture"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image depicts a children's bedroom with a modern Indian theme, utilizing a large blue wardrobe adorned with cartoon graphics of the popular Indian animated series 'Chhota Bheem'. The wardrobe features built-in drawers and open shelves, maximizing storage space. The design is compact and functional, catering to the needs of a child's room. The color scheme is vibrant, with primary colors of blue, yellow, and green, reflecting a playful and cheerful atmosphere. The use of laminated particle board for the wardrobe is a modern adaptation of traditional materials, ensuring durability and ease of maintenance. The natural daylight from the window adds to the brightness of the space. Cultural significance is present as the cartoon graphics represent a well-known cultural icon in India, appealing to the child's interests and creating a sense of familiarity and joy in the room.",
+        "metadata": {
+          "tags": [
+            "Children's Bedroom",
+            "Modern Indian",
+            "Compact Design",
+            "Blue Laminated Wardrobe",
+            "Cartoon Graphics"
+          ],
+          "budget_indicator": "Mid-Range",
+          "space_type": "Bedroom",
+          "functionality": "Relaxation",
+          "indian_specific": "Modular Storage Solutions"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.54%20PM%20%282%29.jpeg"
+    },
+    {
+      "image_id": "img_047",
+      "ai_generated_tags": {
+        "room": "Pooja Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Wooden Partition",
+          "LED Lighting",
+          "Marble Wall"
+        ],
+        "objects": [
+          {
+            "type": "Mandir Unit",
+            "features": [
+              "Carved Woodwork",
+              "Shelving"
+            ],
+            "materials": [
+              "Wood",
+              "Marble"
+            ],
+            "finish": "Solid Wood, Polished Marble"
+          },
+          {
+            "type": "Toran",
+            "features": [
+              "Wooden Frame",
+              "LED Lights"
+            ],
+            "materials": [
+              "Wood",
+              "LED Strips"
+            ],
+            "finish": "Wooden Finish, LED Lighting"
+          },
+          {
+            "type": "Pooja Thali",
+            "features": [
+              "Brass Material",
+              "Detailed Design"
+            ],
+            "materials": [
+              "Brass"
+            ],
+            "finish": "Brass Polished"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Brown",
+            "White",
+            "Gray"
+          ],
+          "materials": [
+            "Wood",
+            "Marble"
+          ],
+          "lighting": "LED Strips",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "Toran",
+            "Wooden Partition"
+          ],
+          "modern_adaptations": [
+            "LED Lighting",
+            "Marble Walls"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Pooja room design holds cultural significance for Hindu homes, symbolizing the importance of spirituality and religious practices."
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image depicts a modern interpretation of a Pooja Room, characterized by a wooden partition with carved designs and a toran adorned with LED strip lighting. The room features a marble wall, creating a sleek and contemporary aesthetic. The pooja thali, a traditional Indian religious item, is made of polished brass, emphasizing the fusion of traditional and modern elements. The compact design is typical of modern Indian homes, where space optimization is crucial. The LED lighting and marble wall add a touch of modernity, while the carved wooden toran and pooja thali maintain traditional Indian design elements.",
+        "metadata": {
+          "tags": [
+            "Pooja Room",
+            "Modern Indian",
+            "LED Lighting",
+            "Wooden Partition",
+            "Marble Wall"
+          ],
+          "budget_indicator": "Mid-Range",
+          "space_type": "1BHK",
+          "functionality": "Pooja",
+          "indian_specific": "Mandir Unit, Toran, Pooja Thali"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.19%20PM.jpeg"
+    },
+    {
+      "image_id": "img_048",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Marble flooring",
+          "Partition with glass and wood",
+          "Built-in cabinets"
+        ],
+        "objects": [
+          {
+            "type": "Partition with glass and wood",
+            "features": [
+              "Glass panels with decorative tree design",
+              "Wooden frame"
+            ],
+            "materials": [
+              "Glass",
+              "Wood"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Built-in cabinets",
+            "features": [
+              "Integrated into the partition",
+              "White doors with glass panels"
+            ],
+            "materials": [
+              "Wood",
+              "Glass"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Partition with glass and wood",
+            "features": [
+              "Glass panels with decorative tree design",
+              "Wooden frame"
+            ],
+            "materials": [
+              "Glass",
+              "Wood"
+            ],
+            "finish": "Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Gray"
+          ],
+          "materials": [
+            "Glass",
+            "Wood",
+            "Marble"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Northern Indian",
+          "traditional_elements": [
+            "Toran"
+          ],
+          "modern_adaptations": [
+            "Glass partitions with modern design elements"
+          ],
+          "space_utilization": "Open-plan",
+          "cultural_significance": "Cultural significance of design elements in the partition and flooring"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image depicts a modern Indian living room with a focus on open-plan space utilization and contemporary design elements. The partition with glass and wood, featuring a decorative tree design, adds a touch of traditional Indian aesthetics while maintaining a modern look. The built-in cabinets integrated into the partition are a practical adaptation of traditional Indian storage solutions. The room utilizes natural daylight, and the flooring is made of shiny marble, reflecting a modern Indian preference for smooth textures and high-end materials. The cultural significance is evident in the use of traditional Indian design elements like the toran on the partition, symbolizing prosperity and good luck. The open-plan layout maximizes space, making it suitable for a 2BHK apartment or larger living areas.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "Living Room",
+            "Open-plan",
+            "Marble Flooring",
+            "Glass Partition"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "2BHK",
+          "functionality": "Entertainment and relaxation",
+          "indian_specific": "Storage solutions with built-in cabinets"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.22%20PM%20%282%29.jpeg"
+    },
+    {
+      "image_id": "img_049",
+      "ai_generated_tags": {
+        "room": "Entryway",
+        "theme": "Contemporary Indian",
+        "primary_features": [
+          "Decorative Partition Wall",
+          "Traditional Indian Artwork",
+          "Wooden Door"
+        ],
+        "objects": [
+          {
+            "type": "Decorative Partition Wall",
+            "features": [
+              "Laser-Cut Design",
+              "Floral Patterns"
+            ],
+            "materials": [
+              "Wood",
+              "MDF"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Wooden Door",
+            "features": [
+              "Carved Wooden Panel",
+              "Decorative Handle"
+            ],
+            "materials": [
+              "Teak Wood"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Traditional Indian Artwork",
+            "features": [
+              "Temple Wall Decorations"
+            ],
+            "materials": [
+              "Tempered Glass",
+              "Copper Plating"
+            ],
+            "finish": "Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Teal"
+          ],
+          "materials": [
+            "Wood",
+            "Metal",
+            "Glass"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "North Indian",
+          "traditional_elements": [
+            "Toran",
+            "Rangoli",
+            "Brass Items"
+          ],
+          "modern_adaptations": [
+            "Laser-Cut Design",
+            "Glossy Finish"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Cultural significance of design elements such as traditional artwork and partition walls symbolize protection and welcome"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This entryway showcases a blend of traditional and contemporary Indian design elements. The decorative partition wall with laser-cut floral designs and glossy finish is a modern interpretation of traditional partition walls. The wooden door with carved panels and a polished finish adds a touch of elegance, while the traditional Indian artwork above the door, featuring temple-like decorations and copper plating, symbolizes cultural significance. The compact space optimization is evident in the efficient use of materials and space, reflecting a common practice in Indian homes where every inch is utilized effectively.",
+        "metadata": {
+          "tags": [
+            "Indian Interior Design",
+            "Entryway",
+            "Contemporary Indian",
+            "North Indian Style"
+          ],
+          "budget_indicator": "Mid-Range",
+          "space_type": "1BHK Apartment",
+          "functionality": "Welcome/Dining",
+          "indian_specific": "Storage Solutions, Modular Partition"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.26%20PM%20%282%29.jpeg"
+    },
+    {
+      "image_id": "img_050",
+      "ai_generated_tags": {
+        "room": "Entryway",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Modern Partition",
+          "Colorful Accents",
+          "Open Plan"
+        ],
+        "objects": [
+          {
+            "type": "Partition",
+            "features": [
+              "Transparent Panels",
+              "Decorative Grill"
+            ],
+            "materials": [
+              "Teak Wood",
+              "Glass"
+            ],
+            "finish": "Laminated"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Pink Accent",
+            "Teal Accents",
+            "Neutral Walls"
+          ],
+          "materials": [
+            "Teak Wood",
+            "Glass"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Toran"
+          ],
+          "modern_adaptations": [
+            "Transparent Glass Panels for Partition"
+          ],
+          "space_utilization": "Modular",
+          "cultural_significance": "Cultural significance of Partition as a symbolic transition"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image showcases a modern Indian entryway with a stylish partition that blends contemporary design elements with traditional symbols. The partition features transparent glass panels and a decorative wooden grill, creating a visually appealing transition from the entrance to the interior space. The use of vibrant pink and teal colors adds a touch of vibrancy to the neutral walls. The open-plan layout facilitates smooth movement and light throughout the space. The partition serves as a functional yet aesthetic element, adhering to traditional cultural significance while embracing modern adaptations. The space utilizes modular techniques, optimizing the use of vertical space for storage and display, reflecting a well-thought-out design approach.",
+        "metadata": {
+          "tags": [
+            "Entryway",
+            "Modern Indian",
+            "Partition",
+            "Colorful Accents",
+            "Modular Design"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "2BHK Apartment",
+          "functionality": "Transition Space",
+          "indian_specific": "Partition and Colored Accents"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.30%20PM%20%282%29.jpeg"
+    },
+    {
+      "image_id": "img_051",
+      "ai_generated_tags": {
+        "room": "Entryway",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Wooden Partition",
+          "Storage Cabinets",
+          "Wall Mirror"
+        ],
+        "objects": [
+          {
+            "type": "Partition",
+            "features": [
+              "Vertical Wooden Slats",
+              "Mirror on Top Shelf",
+              "Cabinet with Doors"
+            ],
+            "materials": [
+              "Wood",
+              "Painted MDF",
+              "Mirror"
+            ],
+            "finish": "Polished Wood, Painted Finish, Mirror Finish"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Gold"
+          ],
+          "materials": [
+            "Painted MDF",
+            "Wood",
+            "Mirror"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Wooden Partition",
+            "Wall Mirror"
+          ],
+          "modern_adaptations": [
+            "Painted MDF Cabinets",
+            "Decorative Hardware"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Separation of spaces and visual division in Indian homes, often symbolizing cultural and religious practices"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image showcases a modern Indian entryway with a wooden partition featuring vertical slats and a wall mirror on top, combined with sleek storage cabinets. The partition serves both as a visual divider and a functional storage unit, reflecting a blend of traditional and contemporary design elements. The use of wood and painted MDF materials with a polished finish is characteristic of South Indian interiors, where such partitions are commonly used to create a sense of privacy and enhance the aesthetic appeal of the space. The natural daylight streaming in through the window highlights the smooth textures and colors, emphasizing the room's modern yet traditional Indian design.",
+        "metadata": {
+          "tags": [
+            "Indian Interior",
+            "Modern Indian",
+            "Entryway",
+            "Partition",
+            "Storage Cabinets",
+            "South Indian",
+            "Wood",
+            "Mirror",
+            "Painted MDF"
+          ],
+          "budget_indicator": "Mid-Range",
+          "space_type": "Apartment",
+          "functionality": "Entryway",
+          "indian_specific": "Storage Solutions, Wooden Partition"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.34%20PM.jpeg"
+    },
+    {
+      "image_id": "img_052",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Wardrobe with Shelves",
+          "Glass Shelves",
+          "Wooden Partition"
+        ],
+        "objects": [
+          {
+            "type": "Wardrobe with Shelves",
+            "features": [
+              "Wooden",
+              "Textured"
+            ],
+            "materials": [
+              "Wood (likely Teak or Rosewood)"
+            ],
+            "finish": "Wooden finish"
+          },
+          {
+            "type": "Glass Shelves",
+            "features": [
+              "Glass Shelves"
+            ],
+            "materials": [
+              "Glass"
+            ],
+            "finish": "Clear"
+          },
+          {
+            "type": "Wardrobe with Shelves",
+            "features": [
+              "Textured",
+              "Wooden"
+            ],
+            "materials": [
+              "Wood (likely Teak or Rosewood)"
+            ],
+            "finish": "Wooden finish"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Wood tone",
+            "White",
+            "Brown"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "West Indian",
+          "traditional_elements": [
+            "Wooden Furniture"
+          ],
+          "modern_adaptations": [
+            "Glass shelves, modern lighting"
+          ],
+          "space_utilization": "Spacious",
+          "cultural_significance": "Cultural significance of wooden furniture in traditional Indian homes"
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian living room with a focus on sleek and functional furniture. The wooden partition, featuring glass shelves for display, is a common space optimization technique in Indian homes, allowing for both storage and aesthetic appeal. The wardrobe with shelves and glass shelving unit demonstrate a blend of traditional Indian wooden furniture with contemporary design elements. The use of wood in warm tones is characteristic of West Indian design, which often incorporates wood as a primary material due to its cultural significance. The natural daylight and smooth textures enhance the overall modern and warm ambiance of the space.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Modern Indian",
+          "Wooden Furniture",
+          "Glass Shelves",
+          "West Indian"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "1BHK",
+        "functionality": "Relaxation",
+        "indian_specific": "Modular storage"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.36%20PM%20%281%29.jpeg"
+    },
+    {
+      "image_id": "img_053",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Ceiling Design",
+          "Marble Flooring",
+          "Aquariums"
+        ],
+        "objects": [
+          {
+            "type": "Aquarium",
+            "features": [
+              "Colorful Fish",
+              "Water Features",
+              "Lighting"
+            ],
+            "materials": [
+              "Glass",
+              "Metal"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Wall Unit",
+            "features": [
+              "Glass Shelves",
+              "Decorative Elements"
+            ],
+            "materials": [
+              "Wood",
+              "Glass"
+            ],
+            "finish": "Veneer"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Beige",
+            "Brown"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "lighting": "LED strips",
+          "texture": "Glossy"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Aquariums"
+          ],
+          "modern_adaptations": [
+            "Colorful LED lighting"
+          ],
+          "space_utilization": "Spacious",
+          "cultural_significance": "Aquariums are often placed in living spaces to bring in positive energy and harmony, inspired by feng shui principles."
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image showcases a modern Indian living room with a spacious and open-plan design. The room features a luxurious marble floor, a ceiling with recessed lighting and decorative yellow horizontal elements, and prominent aquariums with colorful fish, inspired by traditional feng shui practices. The wall unit with glass shelves and wooden accents adds a touch of elegance and functionality, characteristic of modern Indian interior design. The color scheme of white, beige, and brown is popular in South Indian homes, reflecting a balance of traditional and contemporary influences.",
+        "metadata": {
+          "tags": [
+            "Living Room",
+            "Modern Indian",
+            "Marble Flooring",
+            "Aquariums",
+            "South Indian"
+          ],
+          "budget_indicator": "Mid-Range",
+          "space_type": "2BHK Apartment",
+          "functionality": "Relaxation and Entertainment",
+          "indian_specific": "Modular Furniture"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.36%20PM.jpeg"
+    },
+    {
+      "image_id": "img_055",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Modular Kitchen Design",
+          "Colorful cabinetry",
+          "Tiled Backsplash"
+        ],
+        "objects": [
+          {
+            "type": "Kitchen Island Counter",
+            "features": [
+              "Black countertop",
+              "Small seating area"
+            ],
+            "materials": [
+              "Marble",
+              "Glossy finish"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Kitchen Cupboard",
+            "features": [
+              "Red cabinetry",
+              "Metal handles",
+              "Louvered doors with glass inserts"
+            ],
+            "materials": [
+              "MDF",
+              "Metal"
+            ],
+            "finish": "Glossy"
+          },
+          {
+            "type": "Cabinet",
+            "features": [
+              "White cabinetry",
+              "Glass inserts",
+              "Metal handles"
+            ],
+            "materials": [
+              "MDF",
+              "Metal"
+            ],
+            "finish": "Glossy"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Red",
+            "White",
+            "Black"
+          ],
+          "materials": [
+            "Marble",
+            "MDF",
+            "Metal"
+          ],
+          "lighting": "Natural daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "Modern Indian",
+          "traditional_elements": [
+            "No traditional elements visible"
+          ],
+          "modern_adaptations": [
+            "Modular kitchen design, glossy finishes"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Modern adaptations of traditional elements, emphasizing functionality and space optimization"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image showcases a modern Indian kitchen with a compact and functional design. The kitchen features sleek, glossy red and white cabinetry with a black countertop that adds a contemporary touch. The modular kitchen design optimizes space, and the use of glass inserts in the upper cabinets allows for a blend of modern and traditional aesthetics. The smooth, glossy finish of the materials and the compact layout are indicative of modern Indian kitchen design trends, focusing on space optimization and efficiency.",
+        "metadata": {
+          "tags": [
+            "Indian Kitchen",
+            "Modern Indian",
+            "Compact Design",
+            "Glossy Finish"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "Apartment",
+          "functionality": "Dining and Cooking",
+          "indian_specific": "Modular Kitchen, Storage Solutions"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.04%20PM.jpeg"
+    },
+    {
+      "image_id": "img_004",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Wooden Partition",
+          "Staircase",
+          "Decorative Elements"
+        ]
+      },
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Comfortable Seating"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Fabric"
+        },
+        {
+          "type": "Decorative Element",
+          "features": [
+            "Golden Peacock Wall Hangings",
+            "Statue of Deities"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Golden"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Marble"
+        ],
+        "lighting": "Natural Daylight",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Golden Peacock Wall Hangings",
+          "Statue of Deities"
+        ],
+        "modern_adaptations": [
+          "Wooden Partition",
+          "Staircase"
+        ],
+        "space_utilization": "Spacious",
+        "cultural_significance": "Cultural and religious elements are significant, as evidenced by the statue of deities and the presence of a Mandir unit."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The living room features a modern Indian design with a wooden partition and staircase, adorned with golden decorative elements such as peacock wall hangings and deity statues. The space is spacious and well-lit with natural daylight, utilizing a combination of wood, metal, and marble materials. The presence of a mandir unit indicates the cultural and religious significance in the design, reflecting a blend of traditional and modern elements.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "South Indian",
+          "Living Room"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Apartment",
+        "functionality": "Relaxation",
+        "indian_specific": "Mandir Unit, Golden Decorations"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00681.JPG"
+    }
+  ]
+}

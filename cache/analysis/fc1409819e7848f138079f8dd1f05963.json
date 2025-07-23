@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.32%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_060",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Minimalist",
+      "primary_features": [
+        "White glossy cupboards",
+        "Carved motifs on doors",
+        "Television stand with storage",
+        "Minimalistic decor"
+      ],
+      "objects": [
+        {
+          "type": "Cupboard",
+          "features": [
+            "Glossy finish",
+            "Carved motifs on doors",
+            "Om and Swastika symbols"
+          ],
+          "materials": [
+            "MDF or similar wood composite"
+          ],
+          "finish": "Glossy white"
+        },
+        {
+          "type": "Television Stand",
+          "features": [
+            "Dark wood finish",
+            "Storage compartments"
+          ],
+          "materials": [
+            "Dark wood, possibly teak or similar"
+          ],
+          "finish": "Polished dark wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark brown",
+          "Black"
+        ],
+        "materials": [
+          "MDF/wood composite",
+          "Dark wood",
+          "Metallic elements"
+        ],
+        "lighting": "Natural light with artificial overhead lighting",
+        "texture": "Smooth glossy finish on white, textured dark wood"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to a regional style, but includes modern Indian elements",
+        "traditional_elements": [
+          "Carved motifs on doors",
+          "Om symbol"
+        ],
+        "modern_adaptations": [
+          "Minimalistic approach with modern materials"
+        ],
+        "space_utilization": "Efficient storage with modern design",
+        "cultural_significance": "The symbols on the doors (Om and Swastika) are significant in Hindu culture, representing spiritual and auspicious elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space is a modern Indian living room featuring a glossy white cupboard with intricately carved motifs on the doors, symbolizing spiritual and auspicious elements. The space includes a dark wood television stand with built-in storage, creating a harmonious blend of traditional and contemporary design elements. The lighting is bright, highlighting the smooth finish of the materials used.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Minimalist",
+        "Carved motifs",
+        "White glossy finish",
+        "Dark wood storage"
+      ],
+      "budget_indicator": "Moderate to high, as indicated by the use of glossy finishes and dark wood",
+      "space_type": "Living Room",
+      "functionality": "Entertainment and storage",
+      "indian_specific": "Carved motifs and religious symbols"
+    }
+  },
+  "cached_at": 1753181173213,
+  "cache_key": "fc1409819e7848f138079f8dd1f05963"
+}

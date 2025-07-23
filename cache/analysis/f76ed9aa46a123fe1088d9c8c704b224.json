@@ -1,0 +1,130 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.36%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_078",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Marble countertops",
+        "Pink and white cabinetry",
+        "Circular dining table",
+        "Wooden door with paneling",
+        "Minimalist lighting"
+      ],
+      "objects": [
+        {
+          "type": "Circular dining table",
+          "features": [
+            "Black top",
+            "Gold pedestal base"
+          ],
+          "materials": [
+            "Gold pedestal base",
+            "Polished black top"
+          ],
+          "finish": "Shiny and reflective"
+        },
+        {
+          "type": "Dining chairs",
+          "features": [
+            "Pink and white upholstery",
+            "Black metal frame"
+          ],
+          "materials": [
+            "Pink and white upholstery fabric",
+            "Black metal frame"
+          ],
+          "finish": "Textured upholstery, smooth metal frame"
+        },
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Pink and white paneling",
+            "Gold accents"
+          ],
+          "materials": [
+            "Pink and white paneling",
+            "Gold accents"
+          ],
+          "finish": "Shiny and polished"
+        },
+        {
+          "type": "Marble countertop",
+          "features": [
+            "White marble with gold veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Door",
+          "features": [
+            "Wooden with paneling",
+            "Gold handle"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Natural wood, shiny metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink",
+          "White",
+          "Black",
+          "Gold",
+          "Brown"
+        ],
+        "materials": [
+          "Marble",
+          "Pink and white paneling",
+          "Metal",
+          "Wood",
+          "Pink and white upholstered chairs"
+        ],
+        "lighting": "Minimalist modern lighting with circular pendant lights",
+        "texture": "Shiny and reflective surfaces, smooth marble, soft upholstery, polished wood"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regionalized, but could have modern interpretations of traditional Indian elements",
+        "traditional_elements": [
+          "Circular dining table",
+          "Dining chairs with upholstered seats"
+        ],
+        "modern_adaptations": [
+          "Minimalist lighting and contemporary design elements"
+        ],
+        "space_utilization": "Efficient use of space with a central dining area and kitchen on one side",
+        "cultural_significance": "No traditional Indian religious or cultural decorative elements are visible, but the contemporary design could reflect modern Indian aesthetics and lifestyle"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior features a modern Indian-inspired kitchen with a contemporary twist, including a circular dining table and upholstered dining chairs, integrated with sleek, minimalist lighting. The kitchen cabinets are a blend of pink and white paneling with gold accents, complementing the smooth, glossy marble countertops. The space is organized with an efficient layout, utilizing the central dining area as a focal point, while the kitchen area offers ample storage and functionality. The overall design reflects a blend of traditional Indian elements adapted for a modern lifestyle, with a focus on symmetry and contemporary aesthetics.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian Kitchen",
+        "Minimalist Design",
+        "Modern Indian Interior",
+        "Circular Dining Table",
+        "Pink and White Cabinets"
+      ],
+      "budget_indicator": "Mid to high, due to the use of high-quality materials like marble and polished wood",
+      "space_type": "Residential",
+      "functionality": "Combines dining and kitchen areas for a multifunctional space",
+      "indian_specific": "Modern interpretation of traditional Indian design elements"
+    }
+  },
+  "cached_at": 1753181227007,
+  "cache_key": "f76ed9aa46a123fe1088d9c8c704b224"
+}

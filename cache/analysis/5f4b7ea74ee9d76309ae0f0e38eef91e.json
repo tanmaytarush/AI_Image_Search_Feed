@@ -1,0 +1,78 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.26%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_057",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Contemporary",
+      "primary_features": [
+        "Modular kitchen with blue cabinets",
+        "Granite countertop",
+        "Built-in sink",
+        "Backsplash tiles"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinetry",
+          "features": [
+            "Blue painted wooden cabinets",
+            "Doorless design",
+            "Integrated handles"
+          ],
+          "materials": [
+            "Wood for cabinets",
+            "Granite for countertops"
+          ],
+          "finish": "Blue paint, polished granite"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Gray"
+        ],
+        "materials": [
+          "Wood",
+          "Granite",
+          "Metal"
+        ],
+        "lighting": "Natural and artificial light from ceiling lights",
+        "texture": "Smooth surfaces of cabinets, textured tiles on backsplash"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian Contemporary",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Integration of traditional blue color in modern kitchen design"
+        ],
+        "space_utilization": "Efficient layout with counter space and storage",
+        "cultural_significance": "Use of blue color is inspired by traditional Indian aesthetics, though modernized"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian contemporary kitchen with blue painted wooden cabinets and a granite countertop. The design is sleek and functional, with a focus on efficient space utilization and a clean, polished look. The blue color is a modern interpretation of traditional Indian aesthetics, while the overall layout and materials are contemporary in nature.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Blue Cabinets",
+          "Granite Countertop",
+          "Contemporary Design"
+        ],
+        "budget_indicator": "Mid-range, as indicated by the use of painted wood and granite",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Blue is used as a modern Indian aesthetic color"
+      }
+    }
+  },
+  "cached_at": 1753181172103,
+  "cache_key": "5f4b7ea74ee9d76309ae0f0e38eef91e"
+}

@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.21%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_003",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Lattice ceiling panels",
+        "Wooden slats on walls",
+        "Embedded lighting"
+      ],
+      "objects": [
+        {
+          "type": "Ceiling panel",
+          "features": [
+            "Lattice design",
+            "White finish",
+            "Lighting integration"
+          ],
+          "materials": [
+            "MDF or similar wood material"
+          ],
+          "finish": "Matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Recessed lighting",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Lattice patterns"
+        ],
+        "modern_adaptations": [
+          "Integration of lighting"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Inspired by traditional lattice designs, often seen in Indian architecture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian foyer with a decorative lattice ceiling panel. The panel features a white lattice design, which is integrated with recessed lighting, creating a contemporary aesthetic. The surrounding walls are accentuated with wooden slats, enhancing the traditional elements of lattice designs in a modern context. The space is well-lit, emphasizing the clean lines and smooth finishes of the materials used.",
+    "metadata": {
+      "tags": [
+        "Foyer",
+        "Contemporary Interior",
+        "Lattice Design",
+        "Lighting Integration",
+        "Modern Indian Style"
+      ],
+      "budget_indicator": "Moderate to High",
+      "space_type": "Entrance Hall",
+      "functionality": "Welcome space",
+      "indian_specific": "Traditional lattice patterns with modern adaptations"
+    }
+  },
+  "cached_at": 1753179235998,
+  "cache_key": "d66c346d2cae869f1acd737d621fd776"
+}

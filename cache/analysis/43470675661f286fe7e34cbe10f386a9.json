@@ -1,0 +1,135 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.46%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_080",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wall-mounted shelves with star decorations",
+        "Polka dot wallpaper",
+        "Green bunny-shaped headboard",
+        "Ornamental pillows",
+        "Marble flooring"
+      ],
+      "objects": [
+        {
+          "type": "Wall-mounted shelves",
+          "features": [
+            "Star-shaped decorative items, books, and small plants"
+          ],
+          "materials": [
+            "Wooden shelves with orange back panel"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Wall",
+          "features": [
+            "Polka dot wallpaper"
+          ],
+          "materials": [
+            "Painted wall"
+          ],
+          "finish": "Smooth finish"
+        },
+        {
+          "type": "Headboard",
+          "features": [
+            "Green bunny-shaped design"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Velvet finish"
+        },
+        {
+          "type": "Pillows",
+          "features": [
+            "Heart-shaped and patterned designs"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Soft fabric"
+        },
+        {
+          "type": "Bed",
+          "features": [
+            "Decorative bedding with floral and owl patterns"
+          ],
+          "materials": [
+            "Fabric for bedding"
+          ],
+          "finish": "Textured fabric"
+        },
+        {
+          "type": "Desk",
+          "features": [
+            "Green countertop, world map, and desk accessories"
+          ],
+          "materials": [
+            "Marble top, wood base"
+          ],
+          "finish": "Marble top, wood finish"
+        },
+        {
+          "type": "Closet",
+          "features": [
+            "Sliding glass doors with orange and green panels"
+          ],
+          "materials": [
+            "Glass, metal, and wood"
+          ],
+          "finish": "Glossy finish on glass, metallic frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green, orange, white, black, pink, blue, yellow"
+        ],
+        "materials": [
+          "Wood, glass, marble, fabric, metal"
+        ],
+        "lighting": "Natural light from ceiling lights",
+        "texture": "Smooth, matte, velvet, glossy"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly regional, but has elements of urban Indian design",
+        "traditional_elements": [
+          "Not explicitly traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Decorative and functional elements, such as polka dot wallpaper and bunny headboard, adapted from contemporary styles"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and workspace",
+        "cultural_significance": "No explicitly cultural elements, but the use of soft colors and patterns can be associated with comfort and warmth"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.8,
+      "primary_features": 0.85,
+      "objects": 0.9,
+      "indian_context": 0.7
+    },
+    "description": "The image depicts a modern Indian-inspired bedroom with a blend of contemporary and traditional elements. The space features a polka dot wallpaper, a green bunny-shaped headboard, and a wall-mounted shelf with star decorations. The room is organized with built-in storage and a functional workspace, emphasizing efficiency and comfort. The use of soft colors and patterned textiles creates a warm and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "modern",
+        "Indian design",
+        "contemporary bedroom",
+        "polka dot",
+        "bunny headboard",
+        "wall-mounted shelves",
+        "urban Indian style"
+      ],
+      "budget_indicator": "Moderate, with a mix of materials like marble and glass, as well as patterned textiles",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and working",
+      "indian_specific": "Patterned textiles, polka dot wallpaper, and bunny-shaped headboard"
+    }
+  },
+  "cached_at": 1753181227093,
+  "cache_key": "43470675661f286fe7e34cbe10f386a9"
+}

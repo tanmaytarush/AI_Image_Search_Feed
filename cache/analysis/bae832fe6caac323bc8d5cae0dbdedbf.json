@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.33%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_041",
+    "ai_generated_tags": {
+      "room": "Bedroom/Study",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in wardrobes",
+        "Study desk",
+        "Storage units"
+      ],
+      "objects": [
+        {
+          "type": "Built-in Wardrobe",
+          "features": [
+            "Vertical layout",
+            "Color-block design with green and yellow",
+            "Modern handles"
+          ],
+          "materials": [
+            "Plywood"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Study Desk",
+          "features": [
+            "Integrated into the wardrobe structure",
+            "White surface",
+            "Minimalistic design"
+          ],
+          "materials": [
+            "Plywood"
+          ],
+          "finish": "Matte finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Green",
+          "Yellow"
+        ],
+        "materials": [
+          "Plywood"
+        ],
+        "lighting": "Natural light from an unseen window, artificial light from within the wardrobe units",
+        "texture": "Smooth surfaces with a modern aesthetic"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but aligns with urban Indian designs",
+        "traditional_elements": [
+          "Not explicitly traditional, but modern interpretations of organized storage"
+        ],
+        "modern_adaptations": [
+          "Integrated furniture design, color-blocking"
+        ],
+        "space_utilization": "Highly efficient use of space for storage and functionality",
+        "cultural_significance": "Emphasis on organization and functionality, key in Indian home design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian bedroom or study area with a focus on efficient space utilization. The built-in wardrobes, featuring a color-block design in green and yellow, are a modern interpretation of traditional storage solutions. The study desk is seamlessly integrated into the wardrobe structure, emphasizing a clean and organized look. The overall design utilizes smooth, matte-finished surfaces typical in contemporary Indian interiors, with a strong emphasis on functionality and space optimization.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Built-in Wardrobe",
+        "Color Blocking",
+        "Efficient Storage",
+        "Urban Indian Design"
+      ],
+      "budget_indicator": "Moderate, with the use of high-quality materials like plywood for the wardrobes",
+      "space_type": "Bedroom/Study",
+      "functionality": "Primary purpose is to provide storage and a study space",
+      "indian_specific": "Modern adaptations of traditional Indian storage solutions"
+    }
+  },
+  "cached_at": 1753181154808,
+  "cache_key": "bae832fe6caac323bc8d5cae0dbdedbf"
+}

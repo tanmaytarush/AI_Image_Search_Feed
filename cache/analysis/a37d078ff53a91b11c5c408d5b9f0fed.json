@@ -1,0 +1,113 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.53%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_058",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Minimalist",
+      "primary_features": [
+        "Kitchen cabinets",
+        "Pink and white color scheme",
+        "White tiles",
+        "Black countertops",
+        "Metal sink"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinet",
+          "features": [
+            "Pink and white panels",
+            "Modern handles",
+            "U-shaped layout"
+          ],
+          "materials": [
+            "MDF or similar engineered wood",
+            "Acrylic finish"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Black granite or similar material"
+          ],
+          "materials": [
+            "Granite or engineered stone"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wall tiles",
+          "features": [
+            "White with geometric pattern",
+            "Textured backsplash"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Built-in metal sink"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink",
+          "White",
+          "Black",
+          "Gray"
+        ],
+        "materials": [
+          "MDF/Engineered Wood",
+          "Acrylic",
+          "Granite/Engineered Stone",
+          "Ceramic Tiles"
+        ],
+        "lighting": "Natural light from window and overhead light fixtures",
+        "texture": "Glossy finish on cabinets, smooth on tiles, shiny on sink"
+      },
+      "indian_context": {
+        "regional_style": "No regional influence",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Simplistic and modern design with a touch of color"
+        ],
+        "space_utilization": "U-shaped layout for efficient use of space",
+        "cultural_significance": "Bright colors symbolize vitality and positivity in Indian decor"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.92,
+        "indian_context": 0.8
+      },
+      "description": "The image depicts a modern kitchen with a minimalist Indian design. The kitchen features bright pink and white cabinetry, white tiled backsplash with a geometric pattern, and black countertops. The room is illuminated by natural light from a window with traditional grill design and overhead lighting. The design incorporates a U-shaped layout, typical of efficient space utilization in Indian homes, and the use of glossy finishes adds a modern and sleek look.",
+      "metadata": {
+        "tags": [
+          "Kitchen Design",
+          "Modern Indian",
+          "Pink Kitchen",
+          "Minimalist",
+          "U-Shaped Kitchen"
+        ],
+        "budget_indicator": "Moderate, with glossy finishes and quality materials",
+        "space_type": "Residential",
+        "functionality": "Primary cooking and food preparation space",
+        "indian_specific": "Bright pink cabinets with a glossy finish"
+      }
+    }
+  },
+  "cached_at": 1753181173419,
+  "cache_key": "a37d078ff53a91b11c5c408d5b9f0fed"
+}

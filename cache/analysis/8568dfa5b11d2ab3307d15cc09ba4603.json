@@ -1,0 +1,128 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.18%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_025",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "L-shaped countertop",
+        "Built-in cabinetry",
+        "Marble backsplash",
+        "Stainless steel sink",
+        "Under-cabinet lighting"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Purple finish",
+            "Square knobs"
+          ],
+          "materials": [
+            "Purple lacquer",
+            "Metal hardware"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Marble tile with light gray veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Stainless steel",
+            "Modern faucet"
+          ],
+          "materials": [
+            "Stainless steel",
+            "Black"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Smooth black surface"
+          ],
+          "materials": [
+            "Engineered quartz"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Built-in microwave",
+            "Black gas stove"
+          ],
+          "materials": [
+            "Stainless steel",
+            "Black"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Purple",
+          "Black",
+          "White",
+          "Light gray"
+        ],
+        "materials": [
+          "Purple lacquer",
+          "Marble",
+          "Stainless steel",
+          "Engineered quartz"
+        ],
+        "lighting": "Integrated under-cabinet lighting",
+        "texture": "Smooth and sleek"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Built-in cabinetry",
+          "Marble backsplash"
+        ],
+        "modern_adaptations": [
+          "Purple lacquer finish",
+          "Minimalist design"
+        ],
+        "space_utilization": "Efficient kitchen layout with L-shape",
+        "cultural_significance": "Modern interpretation of Indian kitchen design, blending contemporary aesthetics with traditional materials"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern minimalist kitchen with a contemporary design. The kitchen features a L-shaped countertop with a built-in cabinet system, providing ample storage and workspace. The backsplash is adorned with marble tiles with a light gray veining, adding a touch of elegance. The cabinetry is finished in a striking purple lacquer with square metallic knobs, while the countertops are made of engineered quartz in a matte black finish. The kitchen is equipped with stainless steel appliances and a modern faucet, with integrated under-cabinet lighting enhancing the overall aesthetic. The design seamlessly blends traditional Indian elements like the marble backsplash with modern adaptations like the purple lacquer finish, creating a harmonious and stylish kitchen space.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modern",
+        "Minimalist",
+        "Purple",
+        "Marble",
+        "Engineered Quartz"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Cooking and meal preparation",
+      "indian_specific": "Purple lacquer finish"
+    }
+  },
+  "cached_at": 1753179503028,
+  "cache_key": "8568dfa5b11d2ab3307d15cc09ba4603"
+}

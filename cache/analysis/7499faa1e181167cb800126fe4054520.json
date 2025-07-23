@@ -1,0 +1,67 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.26%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_037",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "contemporary",
+      "primary_features": [
+        "fitted wardrobe system"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe",
+          "features": [
+            "fitted with sliding doors, multiple compartments, and drawers"
+          ],
+          "materials": [
+            "wood, melamine"
+          ],
+          "finish": "smooth, glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white, gray, brown"
+        ],
+        "materials": [
+          "wood, melamine, glass"
+        ],
+        "lighting": "even lighting, no visible light sources",
+        "texture": "smooth surfaces, glossy finish"
+      },
+      "indian_context": {
+        "regional_style": "not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "contemporary design with Indian influences"
+        ],
+        "space_utilization": "efficient use of space, maximizing storage",
+        "cultural_significance": "functional and practical, no cultural elements present"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a contemporary designed bedroom with a fitted wardrobe system. The wardrobe features sliding doors, multiple compartments, and drawers, primarily constructed with wood and melamine. The color palette consists of white, gray, and brown, creating a modern and minimalist look. The smooth, glossy finish of the materials adds a touch of elegance to the space. The contemporary design subtly incorporates Indian influences, such as the choice of wood and the overall functionality, which is a common practice in modern Indian interior design.",
+    "metadata": {
+      "tags": [
+        "bedroom",
+        "wardrobe",
+        "contemporary design",
+        "Indian contemporary",
+        "functional storage"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential bedroom",
+      "functionality": "storage and organization",
+      "indian_specific": "contemporary style with Indian wood usage"
+    }
+  },
+  "cached_at": 1753181142008,
+  "cache_key": "7499faa1e181167cb800126fe4054520"
+}

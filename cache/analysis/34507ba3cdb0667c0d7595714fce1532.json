@@ -1,0 +1,111 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.01%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_029",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Sliding wardrobe doors",
+        "Built-in storage cabinets",
+        "Window with curtains",
+        "Wooden flooring"
+      ],
+      "objects": [
+        {
+          "type": "Sliding wardrobe doors",
+          "features": [
+            "Modern design with geometric patterns",
+            "Silver metallic accents"
+          ],
+          "materials": [
+            "MDF with glossy finish"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Built-in storage cabinets",
+          "features": [
+            "Cubed design with neutral tones",
+            "Integrated lighting within the cabinetry"
+          ],
+          "materials": [
+            "MDF with paint finish"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Window with curtains",
+          "features": [
+            "Simple design with a mix of blue and beige tones"
+          ],
+          "materials": [
+            "Curtains made of fabric"
+          ],
+          "finish": "Standard"
+        },
+        {
+          "type": "Wooden flooring",
+          "features": [
+            "Natural wood grain texture",
+            "Warm brown color"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural varnish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Beige",
+          "Blue",
+          "Brown",
+          "Silver"
+        ],
+        "materials": [
+          "MDF",
+          "Fabric",
+          "Wood"
+        ],
+        "lighting": "Natural light from a window with recessed lights above the wardrobes",
+        "texture": "Glossy, matte, fabric, natural wood grain"
+      },
+      "indian_context": {
+        "regional_style": "Not indicative of a specific regional Indian style",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "The design is modern and minimalistic with no traditional Indian adaptations"
+        ],
+        "space_utilization": "The space is optimized for storage with built-in cabinets and a sliding wardrobe door",
+        "cultural_significance": "No cultural elements specific to Indian interiors are present"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.8
+      },
+      "description": "The image depicts a modern, minimalist bedroom with a focus on practical storage solutions. The sliding wardrobe doors and built-in storage cabinets provide efficient use of space. The design is sleek and contemporary, with neutral tones and geometric patterns that blend well with the natural wood flooring. The window with curtains adds a touch of color and softness to the otherwise stark and functional space.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Bedroom",
+          "Storage",
+          "Modern",
+          "Neutral colors"
+        ],
+        "budget_indicator": "Moderate, with materials like MDF and fabric for the curtains",
+        "space_type": "Residential bedroom",
+        "functionality": "Primarily for storage and clothing organization",
+        "indian_specific": "No specific Indian design features are present"
+      }
+    }
+  },
+  "cached_at": 1753181110723,
+  "cache_key": "34507ba3cdb0667c0d7595714fce1532"
+}

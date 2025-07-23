@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.08%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_017",
+    "ai_generated_tags": {
+      "room": "Living and Dining Area",
+      "theme": "Contemporary Indian Minimalism",
+      "primary_features": [
+        "Glass coffee table",
+        "Modern sofa set",
+        "Marble counter",
+        "Dining area with modern chairs"
+      ],
+      "objects": [
+        {
+          "type": "Glass coffee table",
+          "features": [
+            "Round shape",
+            "Metal frame"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Smooth glass top with metallic edge"
+        },
+        {
+          "type": "Modern sofa set",
+          "features": [
+            "L-shaped design",
+            "Patterned cushions",
+            "Neutral upholstery"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth texture, soft touch"
+        },
+        {
+          "type": "Marble counter",
+          "features": [
+            "Decorative pattern",
+            "Cabinet underneath"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished marble surface"
+        },
+        {
+          "type": "Dining area with modern chairs",
+          "features": [
+            "Rectangle table",
+            "Metallic legs",
+            "Soft upholstery"
+          ],
+          "materials": [
+            "Metal",
+            "Fabric"
+          ],
+          "finish": "Metallic frame, soft upholstery"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Brown",
+          "Gold",
+          "Neutral"
+        ],
+        "materials": [
+          "Marble",
+          "Glass",
+          "Metal",
+          "Fabric"
+        ],
+        "lighting": "Natural lighting from unseen windows",
+        "texture": "Smooth surfaces with a mix of metallic, glass, and fabric textures"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically indicative of a regional style",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with modern furniture and materials"
+        ],
+        "space_utilization": "Open plan with kitchen, living, and dining area seamlessly integrated",
+        "cultural_significance": "No traditional Indian cultural elements present"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian interior with a contemporary design approach. The living room features a stylish glass coffee table with a metallic frame, complementing a modern L-shaped sofa with patterned cushions. The dining area is seamlessly integrated into the living space, featuring a rectangular marble counter with a simple cabinet underneath. The room is well-lit with natural light, emphasizing clean lines and neutral tones, while modern materials like marble, glass, and metal are used throughout. The space is designed for both functionality and aesthetics, blending contemporary Indian design with minimalistic elements.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Interior",
+        "Contemporary Design",
+        "Minimalist Living",
+        "Glass Furniture",
+        "Marble Counters"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential Living Area",
+      "functionality": "Mixed-use living and dining space",
+      "indian_specific": "No traditional Indian design features"
+    }
+  },
+  "cached_at": 1753182359216,
+  "cache_key": "d0b07369cb8d9c97b3ce50784866bca8"
+}

@@ -103,38 +103,102 @@ class CDNService {
     }
   }
 
-  /**
-   * Transform image for CDN (simulate image optimization)
-   */
+
   async transformImageForCDN(originalUrl, cacheKey) {
-    // Check if we have a real CDN configured
     const cdnBaseUrl = process.env.CDN_BASE_URL;
+    const cdnProvider = process.env.CDN_PROVIDER || 'custom';
     
-    if (!cdnBaseUrl || cdnBaseUrl === "https://cdn.example.com") {
-      // No real CDN configured, return original URL
+    // Use custom CDN transformation for your S3 URLs
+    if (cdnProvider.toLowerCase() === 'custom' || cdnProvider.toLowerCase() === 'letsmultiply') {
+      return this.convertToCDN(originalUrl);
+    }
+    
+    if (!cdnBaseUrl || cdnBaseUrl === "https://cdn.example.com" || cdnBaseUrl === "https://your-cdn-provider.com") {
       console.log(`🔄 No CDN configured, using original URL: ${originalUrl}`);
       return originalUrl;
     }
     
-    // Real CDN transformation would happen here
-    // For now, we'll simulate with a CDN URL pattern
-    const optimizedUrl = `${cdnBaseUrl}/images/${cacheKey}/optimized.jpg`;
+    // Generate CDN URL based on provider with HF optimization parameters
+    let optimizedUrl;
     
-    console.log(`🔄 CDN transformation: ${originalUrl} -> ${optimizedUrl}`);
+    switch (cdnProvider.toLowerCase()) {
+      case 'cloudflare':
+        // Cloudflare Images with HF optimization
+        optimizedUrl = `${cdnBaseUrl}/images/${cacheKey}?width=800&height=600&fit=cover&format=auto&quality=85`;
+        break;
+      case 'aws':
+        // AWS CloudFront with Lambda@Edge optimization
+        optimizedUrl = `${cdnBaseUrl}/images/${cacheKey}/hf-optimized.jpg`;
+        break;
+      case 'cloudinary':
+        // Cloudinary with HF-specific optimization
+        optimizedUrl = `${cdnBaseUrl}/image/upload/f_auto,q_auto,w_800,h_600,c_fill/${cacheKey}`;
+        break;
+      case 'imgix':
+        // Imgix with HF optimization
+        optimizedUrl = `${cdnBaseUrl}/${cacheKey}?auto=format&fit=max&w=800&h=600&q=85`;
+        break;
+      case 'local':
+        // Local image optimization (for development)
+        optimizedUrl = await this.optimizeImageLocally(originalUrl, cacheKey);
+        break;
+      default:
+        // Custom CDN with HF optimization
+        optimizedUrl = `${cdnBaseUrl}/images/${cacheKey}?width=800&height=600&quality=85&format=auto`;
+    }
+    
+    console.log(`🔄 CDN transformation (${cdnProvider}) for HF optimization: ${originalUrl} -> ${optimizedUrl}`);
     
     return optimizedUrl;
   }
 
   /**
-   * Check if image is already optimized in CDN
+   * Convert S3 URL to CDN URL for HF optimization
    */
+  convertToCDN(s3Url) {
+    // Check if s3Url is valid
+    if (!s3Url || typeof s3Url !== 'string') {
+      return s3Url; // Return original if invalid
+    }
+    
+    const cdnBase = 'https://cdn.letsmultiply.co.in/cdn-cgi/image/width=100,quality=75,format=webp/digital-profiles/';
+    
+    // Extract the part after 'digital-profiles/'
+    const regex = /digital-profiles\/(.+)$/;
+    const match = s3Url.match(regex);
+    
+    if (match && match[1]) {
+      const optimizedUrl = cdnBase + match[1];
+      console.log(`🔄 Custom CDN transformation: ${s3Url} -> ${optimizedUrl}`);
+      return optimizedUrl;
+    }
+    
+    // If pattern doesn't match, return original URL
+    console.log(`🔄 No CDN pattern match, using original URL: ${s3Url}`);
+    return s3Url;
+  }
+
+  async optimizeImageLocally(originalUrl, cacheKey) {
+    try {
+
+      console.log(`🖼️ Local optimization simulated for: ${originalUrl}`);
+      
+      // Return a simulated optimized URL
+      const optimizedUrl = `https://local-cdn.example.com/optimized/${cacheKey}.jpg`;
+      
+      console.log(`✅ Local optimization: ${originalUrl} -> ${optimizedUrl}`);
+      return optimizedUrl;
+    } catch (error) {
+      console.error("Error in local image optimization:", error);
+      return originalUrl; // Fallback to original
+    }
+  }
+
   async isImageOptimized(imageUrl) {
     try {
       const cacheKey = this.generateCacheKey(imageUrl);
       const cdnUrl = await this.getCDNUrl(imageUrl);
-      
-      // In a real implementation, you would check if the CDN URL exists
-      // For now, we'll simulate by checking if we have a cached analysis
+
       const cachedAnalysis = await this.getCachedAnalysis(imageUrl);
       return cachedAnalysis !== null;
     } catch (error) {
@@ -143,9 +207,19 @@ class CDNService {
     }
   }
 
-  /**
-   * Get cache statistics
-   */
+  getCDNConfig() {
+    const cdnBaseUrl = process.env.CDN_BASE_URL;
+    const cdnProvider = process.env.CDN_PROVIDER || 'custom';
+    
+    return {
+      configured: !!(cdnBaseUrl && cdnBaseUrl !== "https://cdn.example.com" && cdnBaseUrl !== "https://your-cdn-provider.com"),
+      base_url: cdnBaseUrl,
+      provider: cdnProvider,
+      status: cdnBaseUrl ? 'active' : 'not_configured'
+    };
+  }
+
+
   getCacheStats() {
     try {
       const analysisFiles = fs.readdirSync(this.analysisCacheDir);
@@ -154,7 +228,8 @@ class CDNService {
       return {
         analysis_cache_count: analysisFiles.length,
         image_cache_count: imageFiles.length,
-        cache_dir: this.cacheDir
+        cache_dir: this.cacheDir,
+        cdn_config: this.getCDNConfig()
       };
     } catch (error) {
       console.error("Error getting cache stats:", error);
@@ -162,9 +237,6 @@ class CDNService {
     }
   }
 
-  /**
-   * Clear expired cache entries
-   */
   async clearExpiredCache() {
     try {
       const analysisFiles = fs.readdirSync(this.analysisCacheDir);
