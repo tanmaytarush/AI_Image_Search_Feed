@@ -10,7 +10,10 @@
     "start": "node index.js",
     "test-cdn": "node scripts/testCDN.js",
     "demo-cdn": "node scripts/demoCDN.js",
-    "test-intelligence": "node scripts/testIntelligentSearch.js"
+    "test-intelligence": "node scripts/testIntelligentSearch.js",
+    "test-ai-search": "node scripts/testAISearch.js",
+    "test-comprehensive-ai": "node scripts/testComprehensiveAISearch.js",
+    "test-room-filtering": "node scripts/testRoomTypeFiltering.js"
   },
   "dependencies": {
     "@huggingface/inference": "^4.5.3",
