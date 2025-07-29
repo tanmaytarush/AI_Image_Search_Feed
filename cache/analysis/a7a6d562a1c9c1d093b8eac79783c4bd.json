@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/886/image_cropper_1729269889848.jpg",
+  "analysis": {
+    "image_id": "img_157",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "U-shaped counter",
+        "stainless steel cabinets",
+        "wooden shelves",
+        "lighting fixture"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Shiny, reflective surface",
+            "U-shaped arrangement",
+            "Installed on the wall"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "High-gloss, polished"
+        },
+        {
+          "type": "Shelf",
+          "features": [
+            "Wooden, vertical",
+            "Integrated with cabinets",
+            "Natural wood finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Unpolished, natural"
+        },
+        {
+          "type": "Lighting",
+          "features": [
+            "Modern, overhead",
+            "Embedded in the wall",
+            "Circular design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Brushed metal, matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Silver",
+          "Brown"
+        ],
+        "materials": [
+          "Stainless steel",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Warm, ambient lighting from the fixture",
+        "texture": "Combination of smooth and textured surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of stainless steel and wood",
+          "U-shaped counter design"
+        ],
+        "space_utilization": "Optimal use of vertical space with shelves and cabinets",
+        "cultural_significance": "This style is modern and reflects contemporary Indian design trends with a focus on functionality and aesthetics."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern kitchen with a U-shaped counter design, stainless steel cabinets, and wooden shelves. The space utilizes a combination of traditional and modern materials, highlighting a contemporary Indian design approach. The lighting fixture adds a touch of modernity to the otherwise traditional elements. The overall layout is compact and efficient, making it suitable for a residential kitchen space.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "U-shaped counter",
+          "Stainless steel cabinets",
+          "Wooden shelves",
+          "Maharashtrian style"
+        ],
+        "budget_indicator": "Moderate, due to the use of stainless steel and polished wood",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Modern interpretation of traditional materials and design"
+      }
+    }
+  },
+  "cached_at": 1753449381132,
+  "cache_key": "a7a6d562a1c9c1d093b8eac79783c4bd"
+}

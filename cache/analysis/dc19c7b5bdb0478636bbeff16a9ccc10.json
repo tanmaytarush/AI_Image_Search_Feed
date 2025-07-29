@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/779/image_cropper_1729415210876.jpg",
+  "analysis": {
+    "image_id": "img_275",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Glass cabinet with colorful dishes",
+        "Dark wooden detailing",
+        "Marble countertop"
+      ],
+      "objects": [
+        {
+          "type": "Glass cabinet",
+          "features": [
+            "Translucent panels",
+            "Display of colorful dishes"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Sleek, glossy finish"
+        },
+        {
+          "type": "Dark wooden cabinet",
+          "features": [
+            "Carved decorative elements",
+            "Storage space"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Rich, polished wood"
+        },
+        {
+          "type": "Marble countertop",
+          "features": [
+            "Smooth surface",
+            "Elegant design"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Shiny, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark wood tones",
+          "White cabinet frames",
+          "Colorful dishes",
+          "Neutral marble countertop"
+        ],
+        "materials": [
+          "Glass",
+          "Teak wood",
+          "Marble"
+        ],
+        "lighting": "Sufficient ambient lighting, likely from overhead lights",
+        "texture": "Smooth glass, polished wood, and glossy marble"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly regional, but could be from urban North India",
+        "traditional_elements": [
+          "Dark wood cabinetry with carved details"
+        ],
+        "modern_adaptations": [
+          "Modern glass cabinet design",
+          "Marble countertop"
+        ],
+        "space_utilization": "Efficient use of vertical space with glass cabinet for storage",
+        "cultural_significance": "The use of dark wood and marble reflects a modern take on traditional materials commonly seen in Indian interiors"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This kitchen showcases a contemporary Indian design approach, utilizing dark wood cabinets with traditional carved elements, a glass display cabinet, and a sleek marble countertop. The use of modern materials like glass and marble, combined with traditional wood, creates a blend of old and new aesthetics. The space is well-organized, maximizing vertical storage with the glass cabinet and ensuring a modern, elegant look.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Dark wood",
+          "Glass cabinet",
+          "Marble countertop",
+          "Urban kitchen"
+        ],
+        "budget_indicator": "Moderate, with a focus on quality materials like marble and polished wood",
+        "space_type": "Residential kitchen",
+        "functionality": "Storage and display",
+        "indian_specific": "Dark wood detailing with traditional carving"
+      }
+    }
+  },
+  "cached_at": 1753459887226,
+  "cache_key": "dc19c7b5bdb0478636bbeff16a9ccc10"
+}

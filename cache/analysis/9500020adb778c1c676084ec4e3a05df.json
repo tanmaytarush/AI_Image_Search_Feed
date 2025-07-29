@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/748/image_cropper_1729240265455.jpg",
+  "analysis": {
+    "image_id": "img_152",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modular Modern",
+      "primary_features": [
+        "Custom cabinetry",
+        "Undermount sinks",
+        "Recessed lighting",
+        "Kitchen counters"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Modular design",
+            "Blue finish",
+            "Metal hardware"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Glossy blue paint with metallic accents"
+        },
+        {
+          "type": "Countertops",
+          "features": [
+            "Smooth surface",
+            "Integrated sink"
+          ],
+          "materials": [
+            "Granite/Quartz"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Granite/Quartz"
+        ],
+        "lighting": "Recessed ceiling lights providing ambient illumination",
+        "texture": "Smooth surfaces with a glossy finish"
+      },
+      "indian_context": {
+        "regional_style": "Not Indian regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of Indian architectural elements with modern design"
+        ],
+        "space_utilization": "Optimized space for kitchen functionality",
+        "cultural_significance": "No Indian cultural elements visible"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern kitchen with a modular design approach. The cabinetry is painted in a glossy blue with metallic hardware, creating a contemporary feel. The countertops are smooth and polished, suggesting a sleek and functional space. The lighting is recessed, providing a clean and organized ambiance. There are no traditional Indian elements or regional styles evident in the kitchen design.",
+    "metadata": {
+      "tags": [
+        "Modern Kitchen",
+        "Glossy Blue Cabinets",
+        "Recessed Lighting",
+        "Kitchen Countertops",
+        "Modular Design"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Primary kitchen workspace",
+      "indian_specific": "No Indian-specific design features visible"
+    }
+  },
+  "cached_at": 1753449272335,
+  "cache_key": "9500020adb778c1c676084ec4e3a05df"
+}

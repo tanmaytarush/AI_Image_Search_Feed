@@ -3,72 +3,72 @@
   "analysis": {
     "image_id": "img_042",
     "ai_generated_tags": {
-      "room": "Storage",
+      "room": "Storage Area",
       "theme": "Minimalist",
       "primary_features": [
-        "Large storage cabinets",
-        "Sliding door",
-        "Flat panel design"
+        "Cabinets with sliding doors",
+        "Sleek finish"
       ],
       "objects": [
         {
-          "type": "Storage cabinet",
+          "type": "Cabinet",
           "features": [
-            "Large capacity",
-            "Sliding door",
-            "Flat panel design"
+            "Rectangular shape",
+            "Sliding doors",
+            "Horizontal handles"
           ],
           "materials": [
-            "Appearance of wood or wood-like finish"
+            "Painted wooden finish",
+            "Metallic handles"
           ],
-          "finish": "Sleek and modern"
+          "finish": "Sleek, smooth surface"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark gray",
+          "Dark gray cabinet",
           "Red accent wall",
-          "White floor tiles"
+          "White floor"
         ],
         "materials": [
-          "Wood or wood-like finish",
-          "Concealed sliding door mechanism"
+          "Painted wood",
+          "Metallic handles",
+          "Porcelain tiles"
         ],
-        "lighting": "Indirect lighting, possibly from natural light source above",
-        "texture": "Smooth and uniform surface on cabinets"
+        "lighting": "Evenly lit with no visible light source",
+        "texture": "Smooth surfaces with metallic accents"
       },
       "indian_context": {
-        "regional_style": "No regional style visible",
+        "regional_style": "Not discernible due to modern design",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Sleek and modern design with concealed sliding door mechanism"
+          "Modern interpretation of storage furniture with sleek design"
         ],
-        "space_utilization": "Efficient use of space with large storage capacity",
-        "cultural_significance": "Minimalist design approach not tied to specific cultural elements"
+        "space_utilization": "Highly organized with closed storage solution",
+        "cultural_significance": "Not relevant to the image content"
       },
       "confidence_scores": {
-        "room": 0.85,
+        "room": 0.75,
         "theme": 0.75,
-        "primary_features": 0.8,
+        "primary_features": 0.85,
         "objects": 0.9,
-        "indian_context": 0.7
+        "indian_context": 0.5
       },
-      "description": "The image shows a modern storage space with large cabinets featuring concealed sliding doors and a sleek, flat panel design. The room is characterized by a minimalist aesthetic with a dark gray cabinet finish, a red accent wall, and white floor tiles. The design is contemporary, with no visible traditional Indian elements, suggesting a modern, possibly urban, setting.",
+      "description": "The image showcases a modern storage solution with sleek, dark gray cabinets and sliding doors, providing a highly organized look. The space features a minimalist design with a smooth surface finish and metallic handles, set against a red accent wall and white floor tiles. There are no visible traditional Indian design elements, indicating a contemporary style with a touch of cultural modernity.",
       "metadata": {
         "tags": [
-          "Storage",
-          "Minimalist",
-          "Modern Design",
-          "Urban Interior",
-          "Efficient Space Utilization"
+          "Storage Solutions",
+          "Minimalist Design",
+          "Modern Furniture",
+          "Interior Storage"
         ],
-        "budget_indicator": "Moderate to high, given the materials and finish",
-        "space_type": "Residential or potentially commercial (e.g., office space)",
-        "functionality": "Primary purpose is storage and organization",
-        "indian_specific": "No Indian-specific design features"
+        "budget_indicator": "Moderate, given the painted wood and metal handles",
+        "space_type": "Residential or commercial storage area",
+        "functionality": "Primary purpose is for storage and organization",
+        "indian_specific": "No Indian-specific design features are visible"
       }
     }
   },
-  "cached_at": 1753181154309,
+  "cached_at": 1753446627517,
   "cache_key": "cb15c5fbb0743bb59951fec589298c33"
 }

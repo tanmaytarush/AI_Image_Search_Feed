@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1670/insta_assets_crop_2cebee81-d6ee-4b93-834a-ae76c385411f1951310428043321373.jpg",
+  "analysis": {
+    "image_id": "img_492",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalistic Modern",
+      "primary_features": [
+        "Cupboards with glass panels",
+        "Light-colored walls",
+        "White tiles on floor"
+      ],
+      "objects": [
+        {
+          "type": "Cupboards",
+          "features": [
+            "Rectangular design",
+            "Integrated with the wall",
+            "Glass panels for visibility"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Tiles"
+        ],
+        "lighting": "Natural light from ceiling lights",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style present",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "No culturally significant elements present"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.7
+      },
+      "description": "The image depicts a modern kitchen with a minimalist design. The space features light-colored cupboards with built-in glass panels, providing a contemporary look. The walls are painted white, and the floor is covered with white tiles, emphasizing a clean and open aesthetic.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Minimalist",
+          "Modern",
+          "Light Colors",
+          "Contemporary Design"
+        ],
+        "budget_indicator": "Moderate, as indicated by the use of glass and light materials",
+        "space_type": "Residential, specifically a kitchen",
+        "functionality": "Primary purpose is storage and preparation of food",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753462639435,
+  "cache_key": "3b47888bf966b2565259e173224098fb"
+}

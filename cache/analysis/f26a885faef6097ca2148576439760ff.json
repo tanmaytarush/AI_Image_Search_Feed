@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/222/image_cropper_1727009901876.jpg",
+  "analysis": {
+    "image_id": "img_399",
+    "ai_generated_tags": {
+      "room": "Temple or prayer room",
+      "theme": "Colonial style",
+      "primary_features": [
+        "Carved wooden paneling",
+        "Arched doorways",
+        "Decorative railings"
+      ],
+      "objects": [
+        {
+          "type": "Wooden panel",
+          "features": [
+            "Carved designs",
+            "Intricate patterns"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Smooth polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, cream, and black"
+        ],
+        "materials": [
+          "Teak, marble"
+        ],
+        "lighting": "Natural light from the open doorways",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Wooden carvings",
+          "Arched doorways"
+        ],
+        "modern_adaptations": [
+          "Minimalist approach with a classical design"
+        ],
+        "space_utilization": "Efficient use of vertical space with a focus on storage",
+        "cultural_significance": "The space likely serves as a sacred or ceremonial area, reflecting the cultural importance of spirituality and tradition"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space is characterized by colonial architecture with a blend of traditional Indian elements, evident in the ornate wooden carvings and the arched doorways. The use of teak wood for the paneling and decorative elements is a hallmark of Indian colonial interior design, often reflecting the blending of local craftsmanship with Western influences. The space appears to be a temple or a place of prayer, given the architectural features and the overall serene ambiance.",
+      "metadata": {
+        "tags": [
+          "Indian colonial interior",
+          "Maharashtra style",
+          "Temple interior",
+          "Wooden carvings",
+          "Arched doorways"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Small residential or community temple",
+        "functionality": "Serving as a sacred or prayer space",
+        "indian_specific": "Rich wooden carvings, arched doorways, and a blend of traditional and colonial design elements"
+      }
+    }
+  },
+  "cached_at": 1753461420031,
+  "cache_key": "f26a885faef6097ca2148576439760ff"
+}

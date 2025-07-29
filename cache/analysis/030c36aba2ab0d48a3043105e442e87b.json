@@ -1,0 +1,80 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.54%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_046",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Modern Indian Children's Room",
+      "primary_features": [
+        "Blue cabinets",
+        "Illustrated doors",
+        "Children's cartoon characters",
+        "Dark blue handles",
+        "Shelving units"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Closed doors with illustrated panels",
+            "Cabinet with shelves and drawers"
+          ],
+          "materials": [
+            "Blue MDF or particle board"
+          ],
+          "finish": "Glossy blue finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "Red",
+          "Yellow",
+          "Green",
+          "Brown",
+          "White"
+        ],
+        "materials": [
+          "MDF",
+          "Paint"
+        ],
+        "lighting": "Bright lighting, likely from overhead fixtures",
+        "texture": "Smooth, glossy finish on cabinets, illustrated textures on doors"
+      },
+      "indian_context": {
+        "regional_style": "Not indicative of a specific regional style",
+        "traditional_elements": [
+          "Illustrated doors with cartoon characters"
+        ],
+        "modern_adaptations": [
+          "Illustrated panels with a modern touch"
+        ],
+        "space_utilization": "Efficient use of space with multiple storage options",
+        "cultural_significance": "Illustrated characters might be from a popular Indian cartoon, adding a cultural element"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.85
+      },
+      "description": "A modern Indian children's room with blue cabinets featuring illustrated doors depicting popular cartoon characters. The room includes shelves, drawers, and a glossy blue finish. The design is vibrant and playful, utilizing modern interpretations of traditional cartoon imagery.",
+      "metadata": {
+        "tags": [
+          "Indian children's room",
+          "Cartoon design",
+          "Blue cabinets",
+          "Illustrated doors",
+          "Modern Indian interior"
+        ],
+        "budget_indicator": "Moderate, as the glossy finish and illustrated panels suggest a mid-range budget.",
+        "space_type": "Children's bedroom",
+        "functionality": "Primary purpose is storage and displaying children's items.",
+        "indian_specific": "Use of illustrated doors with cartoon characters, which is a modern adaptation of traditional values in Indian culture."
+      }
+    }
+  },
+  "cached_at": 1753446712245,
+  "cache_key": "030c36aba2ab0d48a3043105e442e87b"
+}

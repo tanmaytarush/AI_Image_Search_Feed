@@ -4,110 +4,107 @@
     "image_id": "img_058",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian Minimalist",
+      "theme": "Modular Kitchen with Contemporary Style",
       "primary_features": [
-        "Kitchen cabinets",
-        "Pink and white color scheme",
-        "White tiles",
+        "Purple and white modular cabinets",
+        "White tiled backsplash",
+        "Textured pink upper cabinets",
         "Black countertops",
-        "Metal sink"
+        "Under-cabinet lighting"
       ],
       "objects": [
         {
-          "type": "Kitchen cabinet",
+          "type": "Kitchen cabinets",
           "features": [
-            "Pink and white panels",
-            "Modern handles",
-            "U-shaped layout"
+            "Purple and white cabinets",
+            "Modular design",
+            "Textured upper cabinets",
+            "Flat-panel doors",
+            "Copper handles"
           ],
           "materials": [
-            "MDF or similar engineered wood",
-            "Acrylic finish"
+            "MDF or similar",
+            "Painted finish"
           ],
-          "finish": "Glossy"
+          "finish": "Glossy and matte finish combination"
         },
         {
-          "type": "Countertop",
+          "type": "Countertops",
           "features": [
-            "Black granite or similar material"
+            "Black countertops",
+            "Marble-like texture"
           ],
           "materials": [
-            "Granite or engineered stone"
+            "Marble or MDF with artificial marble effect"
           ],
-          "finish": "Polished"
+          "finish": "Smooth and polished"
         },
         {
-          "type": "Wall tiles",
+          "type": "Backsplash",
           "features": [
-            "White with geometric pattern",
-            "Textured backsplash"
+            "White tiles with geometric pattern",
+            "Marble-like backsplash tiles"
           ],
           "materials": [
-            "Ceramic tiles"
+            "Ceramic tiles",
+            "Marble or ceramic effect"
           ],
-          "finish": "Smooth"
-        },
-        {
-          "type": "Sink",
-          "features": [
-            "Built-in metal sink"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Shiny"
+          "finish": "Shiny and smooth"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Pink",
+          "Purple",
           "White",
           "Black",
-          "Gray"
+          "Pink",
+          "Silver"
         ],
         "materials": [
-          "MDF/Engineered Wood",
-          "Acrylic",
-          "Granite/Engineered Stone",
-          "Ceramic Tiles"
+          "Glossy MDF",
+          "Ceramic tiles",
+          "Marble",
+          "Metal",
+          "Painted finish"
         ],
-        "lighting": "Natural light from window and overhead light fixtures",
-        "texture": "Glossy finish on cabinets, smooth on tiles, shiny on sink"
+        "lighting": "Under-cabinet LED lighting",
+        "texture": "Textured upper cabinets, smooth countertops, shiny tiles"
       },
       "indian_context": {
-        "regional_style": "No regional influence",
+        "regional_style": "This kitchen does not have specific regional Indian influences but follows a modern urban style",
         "traditional_elements": [
-          "None"
+          "Missing traditional Indian elements such as wooden furniture or carved elements"
         ],
         "modern_adaptations": [
-          "Simplistic and modern design with a touch of color"
+          "Modern interpretations include modular kitchen design and contemporary color choice"
         ],
-        "space_utilization": "U-shaped layout for efficient use of space",
-        "cultural_significance": "Bright colors symbolize vitality and positivity in Indian decor"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.9,
-        "objects": 0.92,
-        "indian_context": 0.8
-      },
-      "description": "The image depicts a modern kitchen with a minimalist Indian design. The kitchen features bright pink and white cabinetry, white tiled backsplash with a geometric pattern, and black countertops. The room is illuminated by natural light from a window with traditional grill design and overhead lighting. The design incorporates a U-shaped layout, typical of efficient space utilization in Indian homes, and the use of glossy finishes adds a modern and sleek look.",
-      "metadata": {
-        "tags": [
-          "Kitchen Design",
-          "Modern Indian",
-          "Pink Kitchen",
-          "Minimalist",
-          "U-Shaped Kitchen"
-        ],
-        "budget_indicator": "Moderate, with glossy finishes and quality materials",
-        "space_type": "Residential",
-        "functionality": "Primary cooking and food preparation space",
-        "indian_specific": "Bright pink cabinets with a glossy finish"
+        "space_utilization": "The space is organized for efficient workflow with cabinets and countertop space",
+        "cultural_significance": "The color palette might be influenced by modern urban preferences rather than traditional Indian aesthetics"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image shows a modern urban kitchen with a contemporary modular design. The kitchen features glossy purple and white modular cabinets with flat-panel doors and copper handles. The countertops are black, possibly with a marble-like texture, and the backsplash is decorated with white tiles featuring a subtle geometric pattern, giving a sleek and stylish appearance. The space is organized for efficient workflow, and under-cabinet lighting is installed for illumination. The color palette of purple, white, black, and pink suggests a contemporary aesthetic influenced by modern urban design trends rather than traditional Indian design elements.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modular Design",
+        "Purple Cabinets",
+        "White Tiles",
+        "Contemporary Style",
+        "Urban Kitchen"
+      ],
+      "budget_indicator": "Moderate, given the use of painted MDF for cabinets and ceramic tiles for backsplash",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is food preparation and storage",
+      "indian_specific": "No traditional Indian-specific design features are visible"
     }
   },
-  "cached_at": 1753181173419,
+  "cached_at": 1753446972876,
   "cache_key": "a37d078ff53a91b11c5c408d5b9f0fed"
 }

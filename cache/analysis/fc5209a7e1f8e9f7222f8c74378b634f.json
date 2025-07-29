@@ -1,0 +1,42 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1358/image_cropper_1729744095718.jpg",
+  "analysis": {
+    "image_id": "img_172",
+    "ai_generated_tags": {
+      "room": "Unable to determine the room type from the image",
+      "theme": "Unable to determine the specific design style present",
+      "primary_features": [],
+      "objects": [],
+      "visual_attributes": {
+        "colors": [],
+        "materials": [],
+        "lighting": "Natural lighting from a window or similar source",
+        "texture": []
+      },
+      "indian_context": {
+        "regional_style": "Unable to identify specific regional influences from the image",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Unable to assess space organization from the image",
+        "cultural_significance": "No cultural elements are visible in the image"
+      }
+    },
+    "confidence_scores": {
+      "room": 0,
+      "theme": 0,
+      "primary_features": 0,
+      "objects": 0,
+      "indian_context": 0
+    },
+    "description": "The image appears to be a close-up of a person's face against a neutral background, with no visible interior design elements or cultural decorations.",
+    "metadata": {
+      "tags": [],
+      "budget_indicator": "No budget-level assessment can be made from the image",
+      "space_type": "Unable to identify the space type",
+      "functionality": "The image does not provide information on the primary purpose of the space",
+      "indian_specific": "No Indian-specific design features are visible"
+    }
+  },
+  "cached_at": 1753459019549,
+  "cache_key": "fc5209a7e1f8e9f7222f8c74378b634f"
+}

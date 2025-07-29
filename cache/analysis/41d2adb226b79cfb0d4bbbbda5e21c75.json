@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/335/image_cropper_1727609018074.jpg",
+  "analysis": {
+    "image_id": "img_103",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Built-in wardrobes",
+        "Pink and white color scheme",
+        "Shelving units",
+        "Modern design elements",
+        "Integrated lighting"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobes",
+          "features": [
+            "Integrated into wall cabinets",
+            "Pink and white finish",
+            "Shelving units for storage"
+          ],
+          "materials": [
+            "Wood",
+            "Paint"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Wall shelves",
+          "features": [
+            "Integrated with wardrobes",
+            "Decorative shelves",
+            "Pink and white finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Paint",
+          "Metal"
+        ],
+        "lighting": "Integrated under-cabinet lighting",
+        "texture": "Smooth, glossy"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Integration of traditional elements with modern design"
+        ],
+        "space_utilization": "Efficient use of wall space",
+        "cultural_significance": "Not applicable"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian bedroom with a contemporary design touch. The room features built-in wardrobes with a pink and white color scheme, which is a popular and vibrant choice in contemporary Indian interiors. The wardrobes are equipped with integrated shelving units for storage, emphasizing functionality and space optimization. The design incorporates modern elements with traditional influences, as evidenced by the clean lines and minimalist appeal, while the choice of materials and colors reflects a contemporary Indian aesthetic.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Contemporary Bedroom",
+        "Pink and White",
+        "Integrated Storage",
+        "Wall Cabinets",
+        "Minimalist Design",
+        "Interior Design"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Color scheme and integrated storage solutions"
+    }
+  },
+  "cached_at": 1753448198120,
+  "cache_key": "41d2adb226b79cfb0d4bbbbda5e21c75"
+}

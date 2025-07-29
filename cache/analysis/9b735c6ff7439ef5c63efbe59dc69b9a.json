@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/839/image_cropper_1729683476722.jpg",
+  "analysis": {
+    "image_id": "img_457",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Decorative partition",
+        "LED lighting",
+        "Storage niches",
+        "Curtains"
+      ],
+      "objects": [
+        {
+          "type": "Partition",
+          "features": [
+            "Carved wooden paneling",
+            "Decorative motifs"
+          ],
+          "materials": [
+            "Wood (possibly teak)",
+            "Paint"
+          ],
+          "finish": "Polished wood finish, painted accents"
+        },
+        {
+          "type": "LED panel",
+          "features": [
+            "Modern lighting design",
+            "Integrated with partition"
+          ],
+          "materials": [
+            "Metal frame",
+            "LED lights"
+          ],
+          "finish": "Metallic finish, glossy LED lights"
+        },
+        {
+          "type": "Storage niches",
+          "features": [
+            "Integrated into partition",
+            "Shelving space"
+          ],
+          "materials": [
+            "Wood (possibly teak)",
+            "Paint"
+          ],
+          "finish": "Polished wood finish, painted accents"
+        },
+        {
+          "type": "Curtains",
+          "features": [
+            "Semi-sheer fabric",
+            "partial closure"
+          ],
+          "materials": [
+            "Fabric (possibly cotton or linen)",
+            "Decorative trim"
+          ],
+          "finish": "Soft fabric texture with decorative trim"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Wood tones",
+          "Black (LED lights)",
+          "Semi-sheer fabric color"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Fabric",
+          "Paint"
+        ],
+        "lighting": "Artificial, modern LED lighting",
+        "texture": "Smooth wood surface, fabric texture, metallic finish"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but could be inspired by northern Indian aesthetics",
+        "traditional_elements": [
+          "Carved wooden paneling"
+        ],
+        "modern_adaptations": [
+          "Use of LED lighting, modern storage solutions"
+        ],
+        "space_utilization": "Optimized for storage and decorative partitioning",
+        "cultural_significance": "Partitioning and storage are culturally significant in Indian homes, symbolizing order and organization"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian entryway design featuring a decorative partition that serves as both a storage solution and a decorative element. The partition is crafted with carved wooden paneling and includes integrated LED lighting for a modern touch. Semi-sheer curtains partially cover the partition, allowing for both privacy and light, while the storage niches below provide practical space optimization. The design blends traditional Indian elements, such as the carved wood, with contemporary features like the LED panel, reflecting a trend towards modern adaptations of traditional Indian design.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Modern Indian",
+          "Partition design",
+          "LED lighting",
+          "Storage solutions",
+          "Decorative elements"
+        ],
+        "budget_indicator": "Mid-range, with the use of high-quality materials like polished wood and LED lights indicating a moderate budget.",
+        "space_type": "Entryway",
+        "functionality": "Organizing and aesthetic enhancement of the entry space",
+        "indian_specific": "Decorative partition with carved wood and storage niches"
+      }
+    }
+  },
+  "cached_at": 1753462259668,
+  "cache_key": "9b735c6ff7439ef5c63efbe59dc69b9a"
+}

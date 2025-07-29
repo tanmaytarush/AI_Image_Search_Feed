@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00576.JPG",
+  "analysis": {
+    "image_id": "img_109",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden ceiling beams",
+        "Carpeted floor",
+        "L-shaped sofa",
+        "Television unit",
+        "Decorative wall unit",
+        "Wooden door"
+      ],
+      "objects": [
+        {
+          "type": "L-shaped sofa",
+          "features": [
+            "Dark brown fabric",
+            "Patterned cushions"
+          ],
+          "materials": [
+            "Fabric for cushioning",
+            "Wooden frame"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Wooden door",
+          "features": [
+            "Dark wood finish",
+            "Carved detailing"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "Beige",
+          "White",
+          "Gold",
+          "Green"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Metal",
+          "Plastic"
+        ],
+        "lighting": "Natural light supplemented by recessed and pendant lighting",
+        "texture": "Smooth surfaces with a mix of glossy and matte finishes"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden ceiling beams",
+          "Carved wooden door",
+          "Decorative wall unit"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design",
+          "Marble flooring",
+          "Modern lighting fixtures"
+        ],
+        "space_utilization": "Efficient use of space with a combination of seating and storage",
+        "cultural_significance": "Cultural elements such as the wooden door and wall unit with religious figures"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This living room features a contemporary Indian design with a blend of traditional and modern elements. The wooden ceiling beams and carved wooden door are indicative of South Indian architectural styles, while the L-shaped sofa with patterned cushions and the marble flooring contribute to a modern aesthetic. The television unit and decorative wall unit with religious figures add cultural significance and blend seamlessly with the contemporary design. The room is well-lit with natural and artificial lighting, creating a warm and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Contemporary Indian",
+        "South Indian",
+        "Wooden Ceiling",
+        "Marble Flooring",
+        "Decorative Wall Unit",
+        "Modern Furniture"
+      ],
+      "budget_indicator": "Moderate to High",
+      "space_type": "Residential",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Carved wooden door, decorative wall unit with religious figures, wooden ceiling beams"
+    }
+  },
+  "cached_at": 1753448360093,
+  "cache_key": "f736ff22debadf70bc6e8d4e6e59d271"
+}

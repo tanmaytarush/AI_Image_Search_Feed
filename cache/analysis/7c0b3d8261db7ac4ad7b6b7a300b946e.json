@@ -3,82 +3,90 @@
   "analysis": {
     "image_id": "img_063",
     "ai_generated_tags": {
-      "room": "Living room",
-      "theme": "Modular storage and seating",
+      "room": "Foyer",
+      "theme": "Modern Indian with traditional influences",
       "primary_features": [
-        "Wall-mounted wardrobe with sliding doors",
-        "Built-in shoe rack with drawers",
-        "Decorative wall panel with vertical slats"
+        "Built-in wardrobe with sliding doors",
+        "Bench with storage units",
+        "Carved wooden elements with traditional motifs"
       ],
       "objects": [
         {
           "type": "Wardrobe",
           "features": [
-            "Wall-mounted with sliding doors",
-            "Wooden finish with light beige color"
+            "Sliding doors",
+            "Carved wooden paneling",
+            "Decorative carvings on the side panel"
           ],
           "materials": [
-            "MDF or similar wood material"
+            "Wood (likely teak)",
+            "Metal (hardware)"
           ],
-          "finish": "Smooth, matte finish with light beige color"
+          "finish": "Light wood finish with carved details, metallic hardware"
         },
         {
-          "type": "Shoe rack",
+          "type": "Bench",
           "features": [
-            "Built-in with drawers",
-            "Wooden top with white drawers below"
+            "Wooden bench with storage underneath",
+            "Matching wood finish"
           ],
           "materials": [
-            "Wooden top with white drawers below"
+            "Wood (likely teak)"
           ],
-          "finish": "White drawers with metallic handles, wooden top with natural wood finish"
+          "finish": "Solid wood with a glossy finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light beige, white, metallic gray"
+          "Light wood tone",
+          "White drawers",
+          "Off-white walls"
         ],
         "materials": [
-          "MDF, wood, metal"
+          "Wood (teak)",
+          "Metal",
+          "Plastic (drawer pulls)"
         ],
-        "lighting": "Natural daylight from window or door on the right, no visible artificial lighting",
-        "texture": "Smooth MDF finish with matte top surface, textured wood paneling on the wall"
+        "lighting": "Natural light from ceiling lights, possibly daylight",
+        "texture": "Smooth wooden surfaces, glossy finish"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but could be influenced by modern urban design",
+        "regional_style": "Not specifically regional, could be influenced by northern or central Indian styles",
         "traditional_elements": [
-          "No traditional Indian elements visible, but modern interpretations of Indian design"
+          "Carved wooden elements with Ganesha motifs",
+          "Sliding wardrobe doors"
         ],
         "modern_adaptations": [
-          "Integration of MDF and metal materials commonly used in modern Indian interiors"
+          "Use of modern materials like metal for hardware",
+          "Sleek, minimalist design"
         ],
-        "space_utilization": "Efficient use of vertical space with wall-mounted wardrobe, horizontal space with shoe rack and drawers",
-        "cultural_significance": "No specific cultural elements, but the design reflects a modern, minimalist approach in Indian interior design"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern, minimalist living room setup with a focus on efficient space utilization. A wall-mounted wardrobe with sliding doors is integrated into the wall, featuring a decorative vertical slatted panel above. Below the wardrobe, there is a built-in shoe rack with drawers, providing a neat storage solution. The design uses MDF and wood materials with a matte finish, reflecting contemporary Indian interior design trends.",
-      "metadata": {
-        "tags": [
-          "Living room",
-          "Modular storage",
-          "Wall wardrobe",
-          "Shoe rack",
-          "Minimalist design",
-          "Indian interior design"
-        ],
-        "budget_indicator": "Moderate, using MDF and metal for construction but no highly expensive materials",
-        "space_type": "Residential living space",
-        "functionality": "Primarily for storage and seating, possibly with a bench seating option (not present in the image)",
-        "indian_specific": "Modern interpretation of Indian design elements, focusing on functionality and space optimization"
+        "space_utilization": "Efficient use of space with built-in storage and seating",
+        "cultural_significance": "The carved Ganesha motifs symbolize good fortune and prosperity in Indian culture"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian foyer with a focus on traditional design elements. The built-in wardrobe features sliding doors with intricate carvings, while the bench provides seating and storage. The overall design is sleek and minimalist, using light wood tones and white drawers for a clean look. Carved wooden elements, including Ganesha motifs, add a culturally significant touch to the space, highlighting the blend of traditional and contemporary styles.",
+    "metadata": {
+      "tags": [
+        "Foyer",
+        "Indian Interior",
+        "Modern Design",
+        "Traditional Elements",
+        "Carved Wood",
+        "Sliding Doors"
+      ],
+      "budget_indicator": "Moderate to high, given the use of teak wood and metal hardware for the wardrobe",
+      "space_type": "Residential Foyer",
+      "functionality": "Storage and seating area",
+      "indian_specific": "Carved wooden panels with Ganesha motifs"
     }
   },
-  "cached_at": 1753181187376,
+  "cached_at": 1753447071298,
   "cache_key": "7c0b3d8261db7ac4ad7b6b7a300b946e"
 }

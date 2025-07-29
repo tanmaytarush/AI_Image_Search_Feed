@@ -1,0 +1,78 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/209/image_cropper_1726914865696.jpg",
+  "analysis": {
+    "image_id": "img_278",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian Design",
+      "primary_features": [
+        "Built-in wardrobe",
+        "White walls",
+        "Modern furniture"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Large storage space",
+            "Integrated with the wall"
+          ],
+          "materials": [
+            "Wood",
+            "Painted finish"
+          ],
+          "finish": "Smooth paint with potential wood texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Painted finish"
+        ],
+        "lighting": "Natural light from unseen windows",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern interpretation of traditional Indian design",
+        "traditional_elements": [
+          "Carved elements on wardrobe door (implied)",
+          "Solid wood construction"
+        ],
+        "modern_adaptations": [
+          "Contemporary white paint finish",
+          "Integrated wardrobe design"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "Combination of traditional craftsmanship with modern functionality"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian bedroom with a contemporary design that integrates traditional elements. The built-in wardrobe is a key feature, combining functionality with a polished white paint finish and wood texture. The design subtly incorporates traditional craftsmanship, as implied by the carved elements on the wardrobe door, while maintaining a sleek and minimalist aesthetic.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Contemporary Design",
+          "Built-in Wardrobe",
+          "White Paint Finish",
+          "Wooden Elements"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential Bedroom",
+        "functionality": "Storage and organization",
+        "indian_specific": "Integration of traditional woodwork with modern design"
+      }
+    }
+  },
+  "cached_at": 1753450861742,
+  "cache_key": "2a5833ee55a4746cf21e6ac56bfa5204"
+}

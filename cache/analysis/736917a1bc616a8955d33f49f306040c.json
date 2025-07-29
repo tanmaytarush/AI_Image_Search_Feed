@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1027/image_cropper_1729604953462.jpg",
+  "analysis": {
+    "image_id": "img_460",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Walk-in wardrobe",
+        "Sliding doors",
+        "Alcove for storage"
+      ],
+      "objects": [
+        {
+          "type": "Walk-in wardrobe",
+          "features": [
+            "Sliding doors with a sleek finish",
+            "Integrated storage space"
+          ],
+          "materials": [
+            "MDF, possibly with a laminate or glass finish"
+          ],
+          "finish": "Smooth and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Pink",
+          "Satin gold"
+        ],
+        "materials": [
+          "MDF, laminate, glass",
+          "Metallic accents"
+        ],
+        "lighting": "Soft ambient lighting, likely from recessed ceiling lights",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Optimized storage in a walk-in wardrobe",
+        "cultural_significance": "Does not have specific Indian cultural elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern bathroom or walk-in closet with a minimalist design. The space features a walk-in wardrobe with sleek, sliding doors and an integrated alcove for storage. The color palette includes white, pink, and satin gold, creating a clean and contemporary aesthetic. The materials used are likely MDF, laminate, and glass, with smooth and glossy finishes. The design does not exhibit any traditional Indian elements, focusing instead on modern functionality and aesthetics.",
+      "metadata": {
+        "tags": [
+          "Minimalist design",
+          "Walk-in wardrobe",
+          "Modern bathroom",
+          "Sleek finish",
+          "Contemporary design"
+        ],
+        "budget_indicator": "Mid-range, due to the use of MDF and glass materials",
+        "space_type": "Residential bathroom or walk-in closet",
+        "functionality": "Primary purpose is to provide storage and organization within the space",
+        "indian_specific": "No Indian-specific design features are present"
+      }
+    }
+  },
+  "cached_at": 1753462287858,
+  "cache_key": "736917a1bc616a8955d33f49f306040c"
+}

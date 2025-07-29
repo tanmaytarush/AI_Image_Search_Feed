@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00550.JPG",
+  "analysis": {
+    "image_id": "img_130",
+    "ai_generated_tags": {
+      "room": "Courtyard",
+      "theme": "Modern Indian Courtyard",
+      "primary_features": [
+        "Decorative ceiling with geometric patterns",
+        "Sliding wooden door",
+        "Shade and privacy structure",
+        "Indoor plants",
+        "Decorative wall shelf with religious elements"
+      ],
+      "objects": [
+        {
+          "type": "Decorative ceiling",
+          "features": "Red geometric patterned tiles",
+          "materials": "Painted tiles",
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Sliding wooden door",
+          "features": "Dark wood, panelled",
+          "materials": "Wood",
+          "finish": "Natural wood stain"
+        },
+        {
+          "type": "Shade and privacy structure",
+          "features": "White metal bars with brass accents",
+          "materials": "Metal, brass",
+          "finish": "Polished metal, gold accents"
+        },
+        {
+          "type": "Decorative wall shelf",
+          "features": "Plant pots and religious items",
+          "materials": "Stone tiles",
+          "finish": "Textured stone"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, white, red, green, gold"
+        ],
+        "materials": [
+          "Wood, metal, stone, painted tiles"
+        ],
+        "lighting": "Natural light through glass panels, hanging pendant lights",
+        "texture": "Smooth, glossy, textured"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Sliding door, decorative ceiling, religious items"
+        ],
+        "modern_adaptations": [
+          "Industrial-inspired metal structure, modern lighting"
+        ],
+        "space_utilization": "Open, multipurpose space for relaxation and prayer",
+        "cultural_significance": "Cultural reverence through religious elements and design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian courtyard featuring a decorative ceiling with geometric patterns, a sliding wooden door, and a metal shade structure providing privacy. The space is adorned with indoor plants and a decorative wall shelf holding religious items, blending traditional Indian elements with modern industrial design. The use of natural light and hanging pendant lights creates a warm and inviting atmosphere, highlighting the cultural significance of the space as a place for relaxation and prayer.",
+    "metadata": {
+      "tags": [
+        "Indian courtyard",
+        "modern design",
+        "religious elements",
+        "natural light",
+        "indoor plants"
+      ],
+      "budget_indicator": "Moderate, featuring painted tiles and metal structures",
+      "space_type": "Residential",
+      "functionality": "Relaxation, prayer, and aesthetic display",
+      "indian_specific": "Decorative ceiling, sliding door, religious items"
+    }
+  },
+  "cached_at": 1753448869561,
+  "cache_key": "5c8a7813dfb75eede5b78e26e64d7f08"
+}

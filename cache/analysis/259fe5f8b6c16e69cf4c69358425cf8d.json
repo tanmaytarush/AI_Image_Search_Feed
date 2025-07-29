@@ -1,0 +1,108 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00458.JPG",
+  "analysis": {
+    "image_id": "img_098",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Marble flooring",
+        "Wooden furniture with brass accents",
+        "Built-in wardrobes",
+        "Ceiling fan with wooden blades",
+        "Sheer curtains"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Tufted headboard",
+            "Patterned bedspread"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Smooth and polished"
+        },
+        {
+          "type": "Built-in Wardrobes",
+          "features": [
+            "Sliding doors",
+            "Marble panels",
+            "Wooden frames"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Side Table",
+          "features": [
+            "Wooden structure"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Beige",
+          "Blue",
+          "Brown"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal",
+          "Fabric"
+        ],
+        "lighting": "Bright and evenly distributed, natural light from windows, artificial light from ceiling recessed lights",
+        "texture": "Smooth marble, polished wood, metallic hardware"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but draws inspiration from Indian design aesthetics",
+        "traditional_elements": [
+          "Wooden furniture with brass accents",
+          "Sheer curtains",
+          "Built-in wardrobes"
+        ],
+        "modern_adaptations": [
+          "Contemporary style with clean lines and symmetry",
+          "Use of marble and modern materials"
+        ],
+        "space_utilization": "Efficient use of space, with built-in wardrobes and storage solutions within the bed frame",
+        "cultural_significance": "The design elements reflect a balance between traditional and modern, emphasizing functionality and aesthetic appeal"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The bedroom showcases a contemporary Indian design aesthetic with a blend of traditional and modern elements. The use of marble flooring and built-in wardrobes reflects a focus on functionality, while the wooden furniture with brass accents and sheer curtains add a touch of traditional Indian charm. The space is well-lit, with a combination of natural light from the windows and artificial light from ceiling recessed lights, creating a bright and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Marble Flooring",
+        "Wooden Furniture",
+        "Built-in Wardrobes",
+        "Sheer Curtains"
+      ],
+      "budget_indicator": "Mid-range, with the use of marble and wood indicating a higher budget",
+      "space_type": "Master Bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Traditional furniture styles with polished wood and brass accents"
+    }
+  },
+  "cached_at": 1753448085067,
+  "cache_key": "259fe5f8b6c16e69cf4c69358425cf8d"
+}

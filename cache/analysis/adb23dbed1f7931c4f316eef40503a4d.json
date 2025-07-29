@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.30%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_050",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Minimalist Indian Fusion",
+      "primary_features": [
+        "Wooden partition wall",
+        "Modern furniture",
+        "Bright wall color",
+        "Open space layout"
+      ],
+      "objects": [
+        {
+          "type": "Partition Wall",
+          "features": [
+            "Combines modern and traditional elements",
+            "Wooden frame with white and blue panels",
+            "Open shelving",
+            "Glass panels"
+          ],
+          "materials": [
+            "Teak wood",
+            "Faux marble for panels",
+            "Glass"
+          ],
+          "finish": "High gloss finish for wood and panels, clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink wall",
+          "White ceiling",
+          "Blue and white wall panel",
+          "Teak wood brown"
+        ],
+        "materials": [
+          "Teak wood",
+          "Faux marble",
+          "Glass",
+          "Concrete floor"
+        ],
+        "lighting": "Natural light from window, no visible artificial lighting",
+        "texture": "Smooth surfaces on wood and walls, reflective glass panels"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Use of wood",
+          "Open shelving",
+          "Glass panels"
+        ],
+        "modern_adaptations": [
+          "Minimalist design",
+          "Bright colors"
+        ],
+        "space_utilization": "Open and functional, maximizing space for living and storage",
+        "cultural_significance": "Reflects a mix of traditional and modern Indian design, symbolizing cultural evolution"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior showcases a minimalist Indian fusion with a wooden partition wall featuring modern and traditional elements. The wall includes open shelving and glass panels, set against a bright pink wall, white ceiling, and a modern open space layout. The design integrates South Indian regional influences through the use of wood and open shelving, while modern adaptations are evident in the bright colors and clean lines. The cultural significance lies in the blending of traditional Indian aesthetics with contemporary design, reflecting a modern interpretation of classic South Indian design.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Minimalist design",
+          "South Indian style",
+          "Wooden partition",
+          "Bright colors"
+        ],
+        "budget_indicator": "Moderate, as the design uses quality materials like teak wood and glass",
+        "space_type": "Living Room",
+        "functionality": "Living and storage",
+        "indian_specific": "Traditional elements like wood and open shelving"
+      }
+    }
+  },
+  "cached_at": 1753446795710,
+  "cache_key": "adb23dbed1f7931c4f316eef40503a4d"
+}

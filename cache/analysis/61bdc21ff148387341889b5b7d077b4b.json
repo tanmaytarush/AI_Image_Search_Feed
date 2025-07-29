@@ -3,106 +3,94 @@
   "analysis": {
     "image_id": "img_085",
     "ai_generated_tags": {
-      "room": "home office",
-      "theme": "contemporary",
+      "room": "Home office",
+      "theme": "Contemporary with Indian influences",
       "primary_features": [
-        "custom built-in shelving unit",
-        "desk with chair",
-        "cabinet storage"
+        "Built-in desk and storage unit",
+        "Green and beige color scheme",
+        "Carved wooden door"
       ],
       "objects": [
         {
-          "type": "desk",
+          "type": "Built-in desk",
           "features": [
-            "curved edge",
-            "white surface with green accents"
+            "Stylish, modern design",
+            "Incorporated storage underneath"
           ],
           "materials": [
-            "likely MDF or particle board",
-            "green material possibly acrylic or laminate"
+            "Possible MDF or laminate surfaces"
           ],
-          "finish": "smooth, glossy"
+          "finish": "Smooth and glossy"
         },
         {
-          "type": "chair",
+          "type": "Shelving unit",
           "features": [
-            "modern design",
-            "brown leatherette",
-            "metal legs"
+            "Decorative shelves with green accents",
+            "Floral patterned wallpaper behind"
           ],
           "materials": [
-            "brown synthetic leatherette",
-            "metal"
+            "Wallpaper, possibly MDF or plywood"
           ],
-          "finish": "glossy and smooth"
+          "finish": "Smooth and glossy"
         },
         {
-          "type": "cabinet",
+          "type": "Chair",
           "features": [
-            "two-toned design",
-            "sliding door",
-            "shelving inside"
+            "Modern design with curved backrest",
+            "Brown leather or faux leather upholstery"
           ],
           "materials": [
-            "likely MDF or particle board",
-            "green material possibly acrylic or laminate"
+            "Leather or synthetic leather"
           ],
-          "finish": "smooth, glossy"
+          "finish": "Glossy finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white",
-          "green",
-          "brown",
-          "beige",
-          "gray"
+          "Beige, green, white, brown"
         ],
         "materials": [
-          "MDF/particle board",
-          "acrylic/laminate",
-          "metal",
-          "synthetic leatherette"
+          "Wood, metal, MDF, laminate, wallpaper"
         ],
-        "lighting": "soft, ambient light from ceiling, natural light from window",
+        "lighting": "Natural light from the left, ambient lighting from the right",
         "texture": [
-          "smooth",
-          "glossy",
-          "textured walls"
+          "Smooth surfaces, floral patterned wallpaper"
         ]
       },
       "indian_context": {
-        "regional_style": "no specific regional style present",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "contemporary interpretation of Indian design elements"
+        "regional_style": "Not strongly regional, more of a modern take on Indian design",
+        "traditional_elements": [
+          "Carved wooden door, floral patterned wallpaper"
         ],
-        "space_utilization": "efficient use of vertical space with built-in furniture",
-        "cultural_significance": "no overt cultural elements, but modern adaptations of Indian design aesthetics"
+        "modern_adaptations": [
+          "Contemporary furniture, built-in storage units"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in storage and shelving",
+        "cultural_significance": "The floral wallpaper and carved door reflect Indian art and craftsmanship, while the modern elements represent a contemporary interpretation"
       }
     },
     "confidence_scores": {
       "room": 0.85,
       "theme": 0.8,
-      "primary_features": 0.9,
-      "objects": 0.95,
-      "indian_context": 0.75
+      "primary_features": 0.85,
+      "objects": 0.88,
+      "indian_context": 0.8
     },
-    "description": "This image depicts a modern home office space with a contemporary design. The room features a custom-built shelving unit with a white desk and green accents, a modern chair with brown leatherette, and a sliding door cabinet with shelving. The space is designed with an efficient use of vertical space, and the overall aesthetic is a mix of modern and Indian design elements, such as the use of white and green colors and materials with glossy finishes. The lighting is soft and ambient, complementing the neutral and vibrant tones used in the room. The space is well-organized, with a focus on functionality and comfort.",
+    "description": "The image depicts a modern home office space that incorporates elements of traditional Indian design. The built-in desk and shelving unit feature a contemporary design with a green and beige color scheme, reflecting a blend of traditional and modern aesthetics. The floral patterned wallpaper and carved wooden door add a touch of traditional Indian artistry, while the sleek, minimalist furniture and efficient storage solutions contribute to a contemporary feel. The space is well-lit with natural light from the left and ambient lighting from the right, emphasizing the clean, smooth surfaces and glossy finishes of the materials used.",
     "metadata": {
       "tags": [
-        "contemporary home office",
-        "modern design",
-        "efficiency",
-        "custom built-in furniture",
-        "indian design aesthetics"
+        "Contemporary Indian design",
+        "modern home office",
+        "built-in storage",
+        "floral wallpaper",
+        "carved wooden door"
       ],
-      "budget_indicator": "moderate, with modern materials and finishes",
-      "space_type": "residential",
-      "functionality": "work and storage",
-      "indian_specific": "modern adaptation of Indian design elements"
+      "budget_indicator": "Mid-range, with a mix of modern and traditional materials",
+      "space_type": "Residential home office",
+      "functionality": "Primary purpose is a workspace, with built-in storage for organization",
+      "indian_specific": "Traditional elements like floral wallpaper and carved door"
     }
   },
-  "cached_at": 1753181240523,
+  "cached_at": 1753447697068,
   "cache_key": "61bdc21ff148387341889b5b7d077b4b"
 }

@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/826/image_cropper_1729262569643.jpg",
+  "analysis": {
+    "image_id": "img_373",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian Interior",
+      "primary_features": [
+        "Built-in Wardrobe",
+        "Bed with Mattress",
+        "Bedside Table"
+      ],
+      "objects": [
+        {
+          "type": "Built-in Wardrobe",
+          "features": [
+            "Integrated with the wall",
+            "Dark wood finish",
+            "Built-in design"
+          ],
+          "materials": [
+            "Dark wood"
+          ],
+          "finish": "Satin wood finish"
+        },
+        {
+          "type": "Bed",
+          "features": [
+            "Modern design",
+            "Mattress",
+            "Simple bed frame"
+          ],
+          "materials": [
+            "Woven fabric",
+            "Metal or bentwood frame"
+          ],
+          "finish": "Unspecified"
+        },
+        {
+          "type": "Bedside Table",
+          "features": [
+            "Simple design",
+            "Minimalist",
+            "Dark wood material"
+          ],
+          "materials": [
+            "Dark wood"
+          ],
+          "finish": "Satin wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark wood, black",
+          "White",
+          "Dark gray"
+        ],
+        "materials": [
+          "Dark wood",
+          "Metal",
+          "Woven fabric"
+        ],
+        "lighting": "No direct lighting observed, likely ambient lighting",
+        "texture": "Satin wood finish, woven fabric texture, metallic smoothness"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Integration of modern design with traditional materials and color schemes"
+        ],
+        "space_utilization": "Efficient use of space with a built-in wardrobe",
+        "cultural_significance": "No overtly religious or cultural decorative elements present"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern Indian interior design in a bedroom. The space features a built-in wardrobe with a dark wood finish that complements the overall dark theme. The bed, with a simple design, is dressed with a dark fabric, while the bedside table matches the wardrobe's finish. The dark wood and metallic elements suggest a contemporary take on traditional Indian design aesthetics, emphasizing functionality and minimalism.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Interior",
+        "Bedroom Design",
+        "Dark Wood Finish",
+        "Built-in Wardrobe"
+      ],
+      "budget_indicator": "Moderate, given the use of dark wood and metal materials",
+      "space_type": "Residential Bedroom",
+      "functionality": "Sleeping and personal storage",
+      "indian_specific": "Integration of modern design with traditional Indian materials"
+    }
+  },
+  "cached_at": 1753461037189,
+  "cache_key": "cc30381dfeb6dcdde4895e55ee0f7111"
+}

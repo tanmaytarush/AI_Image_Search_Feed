@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1079/image_cropper_1729760708519.jpg",
+  "analysis": {
+    "image_id": "img_352",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Wall-mounted TV unit",
+        "Wooden wall paneling",
+        "Linear lighting",
+        "Abstract art"
+      ],
+      "objects": [
+        {
+          "type": "Wall-mounted TV unit",
+          "features": [
+            "Modern design with linear elements",
+            "Integrated lighting"
+          ],
+          "materials": [
+            "Wood, metal"
+          ],
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Wooden wall paneling",
+          "features": [
+            "Vertically aligned planks",
+            "Warm wood tones"
+          ],
+          "materials": [
+            "Teak or similar hardwood"
+          ],
+          "finish": "Natural, polished"
+        },
+        {
+          "type": "Linear lighting",
+          "features": [
+            "Integrated into the TV unit design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Abstract art",
+          "features": [
+            "Modern, geometric shapes"
+          ],
+          "materials": [
+            "Painted canvas or similar"
+          ],
+          "finish": "Visible texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Warm wood tones, neutral beige floor, white ceiling"
+        ],
+        "materials": [
+          "Wood, metal, canvas"
+        ],
+        "lighting": "Soft, ambient, linear lighting integrated into the TV unit",
+        "texture": "Smooth wood paneling, glossy finish on TV unit, visible texture on abstract art"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Wooden wall paneling"
+        ],
+        "modern_adaptations": [
+          "Contemporary linear lighting and furniture design"
+        ],
+        "space_utilization": "Efficient use of wall space for storage and display",
+        "cultural_significance": "Integration of traditional Indian woodwork elements in a modern, functional design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian living room with a contemporary fusion design. The space features a wall-mounted TV unit with integrated linear lighting, wooden wall paneling, and abstract art. The design combines traditional Indian wooden paneling with contemporary furniture and lighting, creating a harmonious and functional space. The warm wood tones and neutral color palette are typical of traditional Indian interiors, while the linear lighting and sleek furniture design reflect modern interpretations.",
+      "metadata": {
+        "tags": [
+          "Indian contemporary",
+          "wooden paneling",
+          "linear lighting",
+          "abstract art",
+          "modern Indian"
+        ],
+        "budget_indicator": "Moderate, with the use of quality materials like teak and polished metals.",
+        "space_type": "Living Room",
+        "functionality": "Entertainment and relaxation",
+        "indian_specific": "Integration of traditional woodwork elements with modern design"
+      }
+    }
+  },
+  "cached_at": 1753460788373,
+  "cache_key": "ca1e476b233deb2c6e0c773ce4dbc787"
+}

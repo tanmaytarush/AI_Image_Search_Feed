@@ -1,0 +1,107 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/690/image_cropper_1729608720028.jpg",
+  "analysis": {
+    "image_id": "img_169",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Neutral color palette",
+        "Large windows allowing natural light",
+        "Modern furniture pieces",
+        "Open layout"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Comfortable and modern design",
+            "Large seating area"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Soft texture with a clean look"
+        },
+        {
+          "type": "Coffee Table",
+          "features": [
+            "Low and sleek design",
+            "Clear glass top"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy finish on glass, metallic sheen on frame"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Large and modern design",
+            "Integrated into the wall"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished wood finish"
+        },
+        {
+          "type": "Lighting",
+          "features": [
+            "Chandelier with modern design",
+            "Rounded pendant lights"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Metallic finish with glossy or brushed texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutrals: white, gray, beige, brown",
+          "Plates with vibrant colors"
+        ],
+        "materials": [
+          "Wood, metal, glass, fabric"
+        ],
+        "lighting": "Natural light from large windows, supplemented by modern pendant lights",
+        "texture": "Soft fabric on sofa, glass surface on coffee table, polished wood wardrobe, metallic elements"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style visible",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern design elements into traditional materials like wood and glass"
+        ],
+        "space_utilization": "The space is well-organized with minimal clutter, maximizing the use of the available area",
+        "cultural_significance": "No visible elements with cultural significance, as the design is modern and contemporary"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This is a modern living room with a contemporary design approach. The furniture and decor are sleek and functional, featuring a neutral color palette with white, gray, beige, and brown tones. The room is well-lit with natural light from large windows and additional lighting from modern chandeliers and pendant lights. The wardrobe design is integrated into the wall, utilizing space efficiently. There are no traditional Indian design elements present, focusing entirely on modern aesthetics and functionality.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Modern",
+        "Contemporary",
+        "Neutral Colors",
+        "Large Windows",
+        "Sleek Furniture"
+      ],
+      "budget_indicator": "Mid-range, as seen in the quality of materials and finishes",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is for relaxation and socializing, with a focus on comfort and modern design",
+      "indian_specific": "No visible Indian-specific design features"
+    }
+  },
+  "cached_at": 1753449567563,
+  "cache_key": "af6cd80a8c3334257c7b07bae3d42d16"
+}

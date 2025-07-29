@@ -1,0 +1,95 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/726/image_cropper_1729677149591.jpg",
+  "analysis": {
+    "image_id": "img_213",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Fusion",
+      "primary_features": [
+        "Compact kitchen layout",
+        "Modern cabinetry",
+        "Sleek countertop design",
+        "Built-in storage"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "White glossy finish",
+            "Minimalist design"
+          ],
+          "materials": [
+            "MDF or painted wood"
+          ],
+          "finish": "Glossy white"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Sleek design",
+            "Integrated sink"
+          ],
+          "materials": [
+            "Marble or quartz"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Integrated into cabinetry"
+          ],
+          "materials": [
+            "Metal, plastic"
+          ],
+          "finish": "Modern design"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Moderate ambient lighting, natural light from window",
+        "texture": "Smooth and glossy surfaces, textured marble"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident, but modern adaptations of Indian design",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Clean lines, minimalism, integration of Indian materials like marble"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and minimal decorative elements",
+        "cultural_significance": "No traditional Indian cultural elements observed, but modern interpretations of Indian aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian fusion kitchen features a sleek, minimalist design with white glossy cabinetry, a polished marble countertop, and integrated modern appliances. The space utilizes efficient storage solutions, reflecting contemporary Indian design trends that blend functionality with aesthetic appeal.",
+    "metadata": {
+      "tags": [
+        "modern kitchen",
+        "Indian fusion design",
+        "marble countertop",
+        "glossy cabinetry"
+      ],
+      "budget_indicator": "Moderate to high, with use of premium materials like marble and glossy finishes",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is for cooking and food preparation, with efficient storage and counter space",
+      "indian_specific": "Modern adaptation of Indian design aesthetics in cabinetry and countertop materials"
+    }
+  },
+  "cached_at": 1753459341794,
+  "cache_key": "8a71baf18249460c893d75ccb3ce0e6c"
+}

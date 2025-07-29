@@ -1,0 +1,67 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/375/image_cropper_8B2943E8-269F-462C-A7F5-F858876DA2EB-13214-0000042162522908.jpg",
+  "analysis": {
+    "image_id": "img_274",
+    "ai_generated_tags": {
+      "room": "Flooring",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Wooden flooring with a warm tone"
+      ],
+      "objects": [
+        {
+          "type": "Wooden flooring",
+          "features": [
+            "Natural wood grain, warm color tones"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Sanded and polished surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Warm brown, beige"
+        ],
+        "materials": [
+          "Wood"
+        ],
+        "lighting": "Ambient lighting",
+        "texture": "Smooth, clean finish"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design inspired by Indian aesthetics"
+        ],
+        "space_utilization": "Space is not partitioned; it appears to be a continuous area",
+        "cultural_significance": "No culturally significant elements observed"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.95,
+        "objects": 0.9,
+        "indian_context": 0.6
+      },
+      "description": "This image showcases a close-up of a wooden flooring with a warm brown and beige color palette, reflecting a minimalist design approach. The wood grain and polished finish suggest a contemporary interpretation of traditional Indian craftsmanship, possibly inspired by the natural and earthy tones often found in Indian homes. The space is not partitioned, indicating it could be part of a larger open-plan interior or a hallway.",
+      "metadata": {
+        "tags": [
+          "Wooden flooring",
+          "Minimalist design",
+          "Indian aesthetic",
+          "Warm tones",
+          "Sanded and polished finish"
+        ],
+        "budget_indicator": "Moderate to High",
+        "space_type": "Indoor",
+        "functionality": "Space for walking or passage",
+        "indian_specific": "Minimalist interpretation of wood flooring"
+      }
+    }
+  },
+  "cached_at": 1753459877385,
+  "cache_key": "5475c9ccadab5d0bec0afaf38abce07b"
+}

@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/690/image_cropper_1729686876657.jpg",
+  "analysis": {
+    "image_id": "img_241",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "contemporary Indian",
+      "primary_features": [
+        "wooden bed frame",
+        "white bedding",
+        "modern light fixtures",
+        "rug"
+      ],
+      "objects": [
+        {
+          "type": "bed frame",
+          "features": [
+            "wooden construction",
+            "simple design"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "natural wood finish"
+        },
+        {
+          "type": "rug",
+          "features": [
+            "white",
+            "textured"
+          ],
+          "materials": [
+            "textile"
+          ],
+          "finish": "smooth"
+        },
+        {
+          "type": "light fixture",
+          "features": [
+            "modern",
+            "white"
+          ],
+          "materials": [
+            "metal"
+          ],
+          "finish": "polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "wooden brown",
+          "black",
+          "white",
+          "beige"
+        ],
+        "materials": [
+          "wood",
+          "textile",
+          "metal"
+        ],
+        "lighting": "artificial light from modern fixtures",
+        "texture": "textured rug, smooth metal and wood"
+      },
+      "indian_context": {
+        "regional_style": "Modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "use of modern materials and fixtures"
+        ],
+        "space_utilization": "efficient use of space with bed as the focal point",
+        "cultural_significance": "Modern interpretation of Indian design elements without traditional motifs"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This contemporary Indian bedroom features a minimalist design with a wooden bed frame, modern light fixtures, and a white rug. The room utilizes natural wood and modern materials, reflecting a modern interpretation of Indian design elements without traditional motifs.",
+      "metadata": {
+        "tags": [
+          "modern bedroom",
+          "contemporary design",
+          "wooden furniture",
+          "white bedding",
+          "textured rug"
+        ],
+        "budget_indicator": "moderate",
+        "space_type": "residential bedroom",
+        "functionality": "sleeping and relaxation",
+        "indian_specific": "use of modern materials and fixtures as a contemporary interpretation of Indian design"
+      }
+    }
+  },
+  "cached_at": 1753459581514,
+  "cache_key": "431a01985569e6269f7ec248799fbcb5"
+}

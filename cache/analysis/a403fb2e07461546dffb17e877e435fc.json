@@ -1,0 +1,106 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/993/image_cropper_1729416417656.jpg",
+  "analysis": {
+    "image_id": "img_434",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Modular and contemporary Indian living room",
+      "primary_features": [
+        "Custom modular wall unit with shelves and cabinets",
+        "Television embedded in the wall unit",
+        "Modern living room furniture"
+      ],
+      "objects": [
+        {
+          "type": "Television",
+          "features": [
+            "Embedded in a wall unit"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished and lacquered"
+        },
+        {
+          "type": "Lamp",
+          "features": [
+            "Modern design with geometric patterns"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Painted"
+        },
+        {
+          "type": "Shelving unit",
+          "features": [
+            "Modular design with open and closed storage compartments"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished and lacquered"
+        },
+        {
+          "type": "Furniture",
+          "features": [
+            "Modern sofa with cushioned seating"
+          ],
+          "materials": [
+            "Fabric and foam"
+          ],
+          "finish": "Fabric upholstery"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light blue walls",
+          "Brown wooden shelves",
+          "White shelves",
+          "Gold accents"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Fabric"
+        ],
+        "lighting": "Natural light from the window and artificial lighting from the lamp",
+        "texture": "Smooth wooden texture, fabric upholstery, metallic finish"
+      },
+      "indian_context": {
+        "regional_style": "Central Indian",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Modern interpretation of modular design with traditional wood and metal finishes"
+        ],
+        "space_utilization": "Efficient use of space with a focus on functionality and storage",
+        "cultural_significance": "The use of wood and metal reflects traditional craftsmanship, while the modern design speaks to contemporary living"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian living room with a focus on functionality and space optimization. The room features a custom modular wall unit with shelves and cabinets, housing a television. The furniture includes a modern sofa with cushioned seating, and the space is illuminated by natural light from the window and a modern lamp. The color palette includes light blue walls, brown wooden shelves, white shelves, and gold accents, reflecting a contemporary Indian style with traditional influences in the materials used.",
+    "metadata": {
+      "tags": [
+        "Indian living room",
+        "Modular design",
+        "Contemporary Indian interior",
+        "Modern furniture",
+        "Wooden shelves"
+      ],
+      "budget_indicator": "Moderate, with the use of wood and metal for the wall unit and furniture",
+      "space_type": "Living room",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Use of wood and metal for the wall unit and furniture"
+    }
+  },
+  "cached_at": 1753462018343,
+  "cache_key": "a403fb2e07461546dffb17e877e435fc"
+}

@@ -1,0 +1,113 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/523/image_cropper_1729341430678.jpg",
+  "analysis": {
+    "image_id": "img_248",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modular Indian Living Room",
+      "primary_features": [
+        "Teak wood flooring",
+        "Carved wooden paneling",
+        "Small side table with marble top",
+        "Wall-mounted television"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Flooring",
+          "features": [
+            "Ribbed texture",
+            "Natural wood grain"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Unfinished, natural teak finish"
+        },
+        {
+          "type": "Carved Wooden Paneling",
+          "features": [
+            "Geometric patterns",
+            "Floral carvings"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished, dark teak finish"
+        },
+        {
+          "type": "Small Side Table with Marble Top",
+          "features": [
+            "Square shape",
+            "Dark marble surface"
+          ],
+          "materials": [
+            "Teak wood",
+            "Marble"
+          ],
+          "finish": "Teak wood with dark, polished marble top"
+        },
+        {
+          "type": "Wall-mounted Television",
+          "features": [
+            "Modern design",
+            "Thin frame"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Metallic finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown (teak)",
+          "Black (marble)",
+          "Dark gray (ceiling)",
+          "Beige (wall paneling)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Metal",
+          "Painted wall paneling"
+        ],
+        "lighting": "Natural light from windows, warm indoor lighting",
+        "texture": "Ribbed wood texture, smooth marble surface"
+      },
+      "indian_context": {
+        "regional_style": "Rajasthani",
+        "traditional_elements": [
+          "Carved wooden paneling"
+        ],
+        "modern_adaptations": [
+          "Modern wall-mounted television"
+        ],
+        "space_utilization": "Compact and efficient use of space with modular furniture",
+        "cultural_significance": "Rajasthani style is known for its use of carved wood and intricate designs, symbolizing craftsmanship and cultural heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern interpretation of a Rajasthani living room, featuring traditional elements such as carved wooden paneling and teak wood flooring. The space utilizes a modular design approach, with a side table that blends traditional materials (teak and marble) with a modern wall-mounted television. The color palette is earthy, with dark teak and black marble adding a touch of sophistication, complemented by warm indoor lighting that highlights the natural textures of the materials. The overall design combines traditional Rajasthani craftsmanship with contemporary functionality, making it a perfect example of a modern Indian living room.",
+    "metadata": {
+      "tags": [
+        "Rajasthani",
+        "Teak Wood",
+        "Marble",
+        "Modern Indian Interior",
+        "Living Room"
+      ],
+      "budget_indicator": "Mid-range, with high-quality materials like teak wood and marble",
+      "space_type": "Residential Living Room",
+      "functionality": "Entertainment and relaxation space",
+      "indian_specific": "Traditional carved wooden paneling and teak wood flooring"
+    }
+  },
+  "cached_at": 1753450478603,
+  "cache_key": "cff748bf85601ee4b8331adc14d18dce"
+}

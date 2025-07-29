@@ -1,0 +1,123 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/194/image_cropper_1726821358500.jpg",
+  "analysis": {
+    "image_id": "img_147",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Comfortable seating arrangement",
+        "Large window with curtains",
+        "Modern lighting fixtures",
+        "Teak wood elements",
+        "Marble flooring"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Coffee Table",
+          "features": [
+            "Curved edges",
+            "Polished finish",
+            "Intricate carvings"
+          ],
+          "materials": [
+            "Teak Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Teak Wood Side Table",
+          "features": [
+            "Round top",
+            "Dovetail drawer",
+            "Curved legs"
+          ],
+          "materials": [
+            "Teak Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Marble Flooring",
+          "features": [
+            "Smooth surface",
+            "White marble tiles"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Natural polished"
+        },
+        {
+          "type": "Curtains",
+          "features": [
+            "Matching with room decor",
+            "Heavy fabric"
+          ],
+          "materials": [
+            "Cotton"
+          ],
+          "finish": "Woven"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black",
+          "Gold",
+          "Gray"
+        ],
+        "materials": [
+          "Teak Wood",
+          "Marble",
+          "Cotton",
+          "Metal"
+        ],
+        "lighting": "Lamp shades with warm lighting",
+        "texture": [
+          "Smooth marble",
+          "Polished wood",
+          "Textured cotton"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian Style",
+        "traditional_elements": [
+          "Teak Wood Furniture",
+          "Carved elements",
+          "Marble Flooring"
+        ],
+        "modern_adaptations": [
+          "Contemporary lighting fixtures",
+          "Minimalist design"
+        ],
+        "space_utilization": "Open and spacious layout with multiple seating areas",
+        "cultural_significance": "Use of natural materials like teak and marble reflects traditional craftsmanship and aesthetic"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The living room showcases a blend of contemporary and traditional Indian design elements. The use of teak wood for furniture, paired with marble flooring, reflects a northern Indian aesthetic. The space is well-lit with modern lighting, featuring a comfortable seating arrangement, and large windows with heavy curtains that add a touch of elegance and privacy. The overall design emphasizes a harmonious balance between traditional craftsmanship and contemporary functionality, making it suitable for a modern lifestyle with cultural significance.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Teak Wood",
+        "Marble",
+        "Northern Indian style",
+        "Contemporary furniture"
+      ],
+      "budget_indicator": "Moderate, with high-end materials like marble and teak wood",
+      "space_type": "Residential living room",
+      "functionality": "Primary purpose is for relaxation and social gatherings",
+      "indian_specific": "Use of teak wood and marble blends traditional craftsmanship with modern comforts"
+    }
+  },
+  "cached_at": 1753449194996,
+  "cache_key": "6ae07a450838e2981dd97387cb36b357"
+}

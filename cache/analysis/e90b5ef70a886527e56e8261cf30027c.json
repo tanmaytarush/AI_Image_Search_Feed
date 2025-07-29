@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/443/image_cropper_1728579200635.jpg",
+  "analysis": {
+    "image_id": "img_261",
+    "ai_generated_tags": {
+      "room": "A modern office oruli (veranda)",
+      "theme": "Contemporary Indian with a hint of regional influence",
+      "primary_features": [
+        "Glass partition",
+        "Wooden flooring",
+        "Modern lighting"
+      ],
+      "objects": [
+        {
+          "type": "Glass partition",
+          "features": [
+            "Clear glass panels",
+            "Metal frame",
+            "Transparent"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Wooden flooring",
+          "features": [
+            "Dark wood finish",
+            "Rectangular tiles",
+            "Polished"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "High-gloss"
+        },
+        {
+          "type": "Modern lighting",
+          "features": [
+            "Integrated into the ceiling",
+            "Contemporary design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark wood tones",
+          "Clear glass",
+          "White ceiling"
+        ],
+        "materials": [
+          "Glass",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Soft ambient lighting from integrated ceiling fixtures",
+        "texture": "Smooth glass, polished wood, and sleek metal"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional but with a hint of contemporary Indian design",
+        "traditional_elements": [
+          "Not visible in this image"
+        ],
+        "modern_adaptations": [
+          "Glass and modern lighting as adaptations"
+        ],
+        "space_utilization": "Efficient use of space with a clear division by glass partition",
+        "cultural_significance": "The modern design elements reflect a contemporary understanding of Indian aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern office oruli (veranda) space with a contemporary Indian design aesthetic. The room features a glass partition, dark wood flooring, and modern lighting fixtures. The design showcases a sleek and polished look, combining traditional Indian architectural elements with modern materials and techniques. The space is organized efficiently, with the glass partition dividing the area, creating a sense of openness while maintaining privacy.",
+    "metadata": {
+      "tags": [
+        "modern office",
+        "Indian design",
+        "glass partition",
+        "wooden flooring",
+        "contemporary Indian"
+      ],
+      "budget_indicator": "Moderate to high, due to the use of glass and polished wood",
+      "space_type": "Residential office oruli",
+      "functionality": "A place for informal meetings or as a separate workstation area",
+      "indian_specific": "The polished wood and glass elements are modern interpretations of traditional Indian materials and finishes"
+    }
+  },
+  "cached_at": 1753459756803,
+  "cache_key": "e90b5ef70a886527e56e8261cf30027c"
+}

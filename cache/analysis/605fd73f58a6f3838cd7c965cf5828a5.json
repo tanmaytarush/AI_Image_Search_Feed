@@ -1,0 +1,70 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.15.49%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_206",
+    "ai_generated_tags": {
+      "room": "Wardrobe",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Cabinet with decorative elements"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Multiple doors with cut-out patterns, decorative bell motifs, and small storage compartments"
+          ],
+          "materials": [
+            "Painted wood or MDF with white finish"
+          ],
+          "finish": "Matte white paint"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, brown (motifs), beige (wall and floor)"
+        ],
+        "materials": [
+          "Painted wood or MDF"
+        ],
+        "lighting": "Soft, artificial lighting from above",
+        "texture": "Smooth finish on the cabinet"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence",
+        "traditional_elements": [
+          "Decorative bell motifs, cut-out patterns"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with clean lines and minimalism"
+        ],
+        "space_utilization": "Space is optimized for storage with multiple compartments and decorative elements",
+        "cultural_significance": "Decorative elements like bells and motifs may have cultural or religious significance, though specifics are unclear without further context"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian wardrobe with a clean, minimalist design. The cabinet features multiple doors with intricate cut-out patterns and decorative bell motifs, which are common in Indian interiors. The white finish on the cabinet adds a contemporary touch, while the decorative elements maintain traditional Indian aesthetics. The space is well-organized, with a focus on storage and practical design.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "modern design",
+          "wardrobe",
+          "cabinet",
+          "cut-out patterns",
+          "decorative bells"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Storage",
+        "indian_specific": "Decorative bell motifs and cut-out patterns"
+      }
+    }
+  },
+  "cached_at": 1753449980822,
+  "cache_key": "605fd73f58a6f3838cd7c965cf5828a5"
+}

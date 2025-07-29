@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/290/image_cropper_1728319834986.jpg",
+  "analysis": {
+    "image_id": "img_459",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Sliding wardrobe doors",
+        "Blue and white color scheme"
+      ],
+      "objects": [
+        {
+          "type": "Sliding wardrobe",
+          "features": [
+            "Modern design with sleek lines",
+            "Blue and white color combination"
+          ],
+          "materials": [
+            "Unknown due to image quality"
+          ],
+          "finish": "Smooth surface finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Dark blue"
+        ],
+        "materials": [
+          "Unknown due to image quality"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not identifiable from image",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist use of traditional colors"
+        ],
+        "space_utilization": "Efficient use of space with large wardrobe",
+        "cultural_significance": "No specific cultural elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.8,
+        "theme": 0.75,
+        "primary_features": 0.85,
+        "objects": 0.8,
+        "indian_context": 0.6
+      },
+      "description": "The image depicts a modern Indian-inspired bedroom with a focus on a contemporary wardrobe. The sliding doors are a sleek, minimalist design with a color scheme of blue and white, typical of modern Indian interiors. The space appears to utilize efficient storage solutions, with the large wardrobe taking up significant wall space. The lighting suggests natural light from a window, contributing to the brightness of the room. The overall design is clean and uncluttered, with a focus on contemporary aesthetics rather than traditional Indian elements.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Bedroom",
+          "Sliding Wardrobe",
+          "Blue and White",
+          "Minimalist Design"
+        ],
+        "budget_indicator": "Budget-friendly",
+        "space_type": "Residential bedroom",
+        "functionality": "Storage and relaxation",
+        "indian_specific": "Use of blue and white in a modern context"
+      }
+    }
+  },
+  "cached_at": 1753462274213,
+  "cache_key": "c15a7ecd303fe9c981770bbf10c10151"
+}

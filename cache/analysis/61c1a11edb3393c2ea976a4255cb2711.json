@@ -1,0 +1,113 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/724/image_cropper_1729186252119.jpg",
+  "analysis": {
+    "image_id": "img_259",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Wooden flooring",
+        "Green accent wall",
+        "White paneling",
+        "Circular wooden elements"
+      ],
+      "objects": [
+        {
+          "type": "wooden flooring",
+          "features": [
+            "Light brown in color",
+            "Hardwood material"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "green accent wall",
+          "features": [
+            "Vertically aligned panels",
+            "Contrasts with white paneling"
+          ],
+          "materials": [
+            "Painted wall"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "white paneling",
+          "features": [
+            "Vertical panels",
+            "Contrasts with green accent wall"
+          ],
+          "materials": [
+            "Painted wall"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "circular wooden elements",
+          "features": [
+            "Embedded in white paneling",
+            "Circular shape"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Green",
+          "Light Brown"
+        ],
+        "materials": [
+          "Painted wall",
+          "Wood"
+        ],
+        "lighting": "Natural light from open door",
+        "texture": [
+          "Smooth",
+          "Matte",
+          "Natural wood"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, but includes classic Indian design elements",
+        "traditional_elements": [
+          "Circular wooden elements"
+        ],
+        "modern_adaptations": [
+          "Contemporary use of white and green"
+        ],
+        "space_utilization": "Efficient use of space with functional design",
+        "cultural_significance": "The circular elements may symbolize unity or wholeness, which is culturally significant in Indian design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This entryway features a contemporary design with elements of traditional Indian interior design. The use of green and white walls, contrasted with wooden flooring and circular elements embedded in the paneling, creates a balance between modern and classic aesthetics. The circular wooden elements, a nod to traditional Indian motifs, add a cultural touch to the space, which is otherwise simple and minimalistic.",
+    "metadata": {
+      "tags": [
+        "Entryway",
+        "Contemporary Indian",
+        "White and Green",
+        "Circular Elements",
+        "Wooden Flooring"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials like wood and painted surfaces",
+      "space_type": "Residential",
+      "functionality": "Welcome area for guests, providing a transition from outside to inside",
+      "indian_specific": "Circular wooden elements"
+    }
+  },
+  "cached_at": 1753450623249,
+  "cache_key": "61c1a11edb3393c2ea976a4255cb2711"
+}

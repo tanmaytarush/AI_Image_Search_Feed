@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/459/image_cropper_1728644271519.jpg",
+  "analysis": {
+    "image_id": "img_444",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Glass partition",
+        "Carved wooden paneling",
+        "Framed artwork"
+      ],
+      "objects": [
+        {
+          "type": "Glass partition",
+          "features": [
+            "Transparent glass panels with decorative etching"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear glass with etched patterns"
+        },
+        {
+          "type": "Carved wooden panel",
+          "features": [
+            "Vertical wooden panel with intricate carving"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished wood with visible grain and carved details"
+        },
+        {
+          "type": "Framed artwork",
+          "features": [
+            "Rectangular framed artwork with abstract design"
+          ],
+          "materials": [
+            "Unknown, possibly wood or metal frame"
+          ],
+          "finish": "Framed artwork with matte finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, black, white"
+        ],
+        "materials": [
+          "Glass, wood, metal"
+        ],
+        "lighting": "Natural light streaming through the glass partition",
+        "texture": "Smooth glass, polished wood, and matte artwork"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style apparent",
+        "traditional_elements": [
+          "Carved wooden paneling"
+        ],
+        "modern_adaptations": [
+          "Integration of glass and modern design elements"
+        ],
+        "space_utilization": "The space is organized to allow for both separation and visual connection",
+        "cultural_significance": "The carved wooden paneling may symbolize cultural heritage or artisanship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian living room design with a glass partition that separates two areas while allowing for interaction. The partition features decorative etched glass, and the adjacent wall has a vertical wooden panel with intricate carvings, reflecting traditional craftsmanship. A framed piece of abstract artwork adds a contemporary touch to the space. The overall design combines traditional Indian elements with modern aesthetics, creating a harmonious blend.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Glass Partition",
+        "Carved Wood",
+        "Abstract Artwork"
+      ],
+      "budget_indicator": "Moderate to high, due to the use of glass and polished wood",
+      "space_type": "Living Room",
+      "functionality": "Separator and visual connection between two areas",
+      "indian_specific": "Carved wooden panel and etched glass"
+    }
+  },
+  "cached_at": 1753462127517,
+  "cache_key": "7d752c5ed3017039e9aff3f5f3dac8c8"
+}

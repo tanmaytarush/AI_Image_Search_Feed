@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/41/36-diwali-wallpaper.1440.jpg",
+  "analysis": {
+    "image_id": "img_163",
+    "ai_generated_tags": {
+      "room": "Not applicable (This is a digital card or poster)",
+      "theme": "Festive Indian Diwali Theme",
+      "primary_features": [
+        "Traditional Diya lamps",
+        "Colorful background",
+        "Text 'Happy Diwali'"
+      ],
+      "objects": [
+        {
+          "type": "Diya lamps",
+          "features": [
+            "Handcrafted",
+            "Golden finish",
+            "Candle-like appearance"
+          ],
+          "materials": [
+            "Brass or copper"
+          ],
+          "finish": "Smooth and shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Purple, blue, red, yellow"
+        ],
+        "materials": [
+          "Golden, metallic, glossy"
+        ],
+        "lighting": "Bright and festive",
+        "texture": "Smooth and reflective"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable (Digital design)",
+        "traditional_elements": [
+          "Diya lamps"
+        ],
+        "modern_adaptations": [
+          "Digital rendering"
+        ],
+        "space_utilization": "Not applicable (Digital design)",
+        "cultural_significance": "Diwali is a significant festival in India, celebrating light, knowledge, and goodness"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.95,
+        "primary_features": 0.9,
+        "objects": 0.95,
+        "indian_context": 0.8
+      },
+      "description": "A festive digital card celebrating Diwali, featuring traditional diya lamps in a golden finish against a colorful, bokeh background with the text 'Happy Diwali'.",
+      "metadata": {
+        "tags": [
+          "Diwali",
+          "Festival",
+          "India",
+          "Festive",
+          "Traditional"
+        ],
+        "budget_indicator": "Low to moderate (Depends on digital rendering, likely low cost)",
+        "space_type": "Not applicable (Digital design)",
+        "functionality": "Decorative (Digital card)",
+        "indian_specific": "Traditional Diya lamps"
+      }
+    }
+  },
+  "cached_at": 1753458963204,
+  "cache_key": "029029a28114feab1a9ec0698f0982e0"
+}

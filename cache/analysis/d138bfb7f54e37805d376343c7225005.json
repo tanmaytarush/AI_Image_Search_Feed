@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1742/insta_assets_crop_61ed13b0-70c8-44f6-b663-2a5974a84e121046926242148801678.jpg",
+  "analysis": {
+    "image_id": "img_453",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern",
+      "primary_features": [
+        "Frosted glass partition",
+        "Shower area",
+        "Lighting fixture"
+      ],
+      "objects": [
+        {
+          "type": "Frosted glass partition",
+          "features": [
+            "Partial wall coverage",
+            "Elegant design"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Frosted"
+        },
+        {
+          "type": "Shower area",
+          "features": [
+            "Modern fixtures",
+            "Compact design"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Ceiling-mounted",
+            "Modern style"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Clear"
+        ],
+        "materials": [
+          "Glass",
+          "Ceramic tiles",
+          "Metal"
+        ],
+        "lighting": "Soft lighting by ceiling fixture",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Frosted glass partition",
+          "Compact shower design"
+        ],
+        "space_utilization": "Efficient design for a small space",
+        "cultural_significance": "Cultural relevance not applicable as it's a modern bathroom design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern bathroom with a frosted glass partition, a compact shower area with ceramic tiles, and a ceiling-mounted lighting fixture. The design emphasizes functionality and a clean, minimalist aesthetic with smooth textures and a focus on practicality.",
+      "metadata": {
+        "tags": [
+          "Bathroom",
+          "Modern",
+          "Frosted glass",
+          "Compact design",
+          "Ceramic tiles"
+        ],
+        "budget_indicator": "Moderate, as it includes modern materials and fixtures.",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is for bathing and personal hygiene.",
+        "indian_specific": "No Indian-specific design features are present in this modern bathroom design."
+      }
+    }
+  },
+  "cached_at": 1753462214908,
+  "cache_key": "d138bfb7f54e37805d376343c7225005"
+}

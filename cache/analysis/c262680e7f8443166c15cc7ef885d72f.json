@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/109/image_cropper_1726639432298.jpg",
+  "analysis": {
+    "image_id": "img_210",
+    "ai_generated_tags": {
+      "room": "Construction or Renovation Space",
+      "theme": "Modern",
+      "primary_features": [
+        "Exposed Wooden Beams",
+        "Painted Walls",
+        "Access to Outdoor Area"
+      ],
+      "objects": [
+        {
+          "type": "Construction Worker",
+          "features": [
+            "Wearing Safety Helmet",
+            "Working on Wall",
+            "Carrying Tools"
+          ],
+          "materials": [],
+          "finish": ""
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light Beige",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Paint"
+        ],
+        "lighting": "Natural Light from Window",
+        "texture": "Smooth Painted Walls, Wooden Beams"
+      },
+      "indian_context": {
+        "regional_style": "",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Modernized Space with Minimal Traditional Influences"
+        ],
+        "space_utilization": "Space appears to be under renovation, utilizing existing architectural features",
+        "cultural_significance": ""
+      },
+      "confidence_scores": {
+        "room": 0.5,
+        "theme": 0.6,
+        "primary_features": 0.7,
+        "objects": 0.7,
+        "indian_context": 0.3
+      },
+      "description": "The image depicts a space under construction or renovation, characterized by exposed wooden beams and freshly painted walls. A construction worker is visible, indicating ongoing work. The overall space has a modern feel with minimal traditional Indian design elements, suggesting a contemporary approach to interior design.",
+      "metadata": {
+        "tags": [
+          "Construction",
+          "Renovation",
+          "Modern Interior",
+          "Painted Walls",
+          "Wood Beams"
+        ],
+        "budget_indicator": "Budget is likely moderate to high due to the materials and work being done.",
+        "space_type": "Residential Space Under Renovation",
+        "functionality": "Primary purpose is to create a habitable space with ongoing work.",
+        "indian_specific": "No traditional Indian design features are apparent in the visible section."
+      }
+    }
+  },
+  "cached_at": 1753450017569,
+  "cache_key": "c262680e7f8443166c15cc7ef885d72f"
+}

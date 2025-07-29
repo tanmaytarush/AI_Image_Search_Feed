@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/675/image_cropper_D4FADCB4-5E70-4CB3-A4AA-5A91D543420C-9282-0000047100CA3ABB.jpg",
+  "analysis": {
+    "image_id": "img_427",
+    "ai_generated_tags": {
+      "room": "Master Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Arched doorframe",
+        "LED ceiling lights",
+        "Teak wardrobe",
+        "Textured wall paneling"
+      ],
+      "objects": [
+        {
+          "type": "Teak wardrobe",
+          "features": [
+            "Carved detailing",
+            "Vertical slats"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Natural teak finish"
+        },
+        {
+          "type": "Textured wall paneling",
+          "features": [
+            ".Patterned design",
+            "Cream color"
+          ],
+          "materials": [
+            "Wallpaper or painted wood"
+          ],
+          "finish": "Smooth finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Cream",
+          "Beige",
+          "Brown"
+        ],
+        "materials": [
+          "Teak",
+          "Wood",
+          "Wallpaper"
+        ],
+        "lighting": "Bright, with LED ceiling lights",
+        "texture": "Smooth and patterned texture"
+      },
+      "indian_context": {
+        "regional_style": "Central India",
+        "traditional_elements": [
+          "Carved teak wardrobe",
+          "Arched doorframe"
+        ],
+        "modern_adaptations": [
+          "LED lighting",
+          "Textured wall paneling"
+        ],
+        "space_utilization": "Efficient use of space with a clean layout",
+        "cultural_significance": "The carved teak wardrobe and arch are traditional elements that add cultural significance to the space"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian Master Bedroom features a traditional teak wardrobe with intricate carvings, complemented by a cream-colored, textured wall paneling. The space is illuminated by bright LED ceiling lights, creating a contemporary yet warm ambiance. The arched entrance and the overall color palette are indicative of Central Indian design influences.",
+      "metadata": {
+        "tags": [
+          "Master Bedroom",
+          "Modern Indian",
+          "Teak Wardrobe",
+          "Central India",
+          "LED Lighting"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential",
+        "functionality": "Sleeping and personal space",
+        "indian_specific": "Traditional teak wardrobe, arched doorframe, and textured wall paneling"
+      }
+    }
+  },
+  "cached_at": 1753461754459,
+  "cache_key": "ba23dc327892843256e3d4e2fccd7f2d"
+}

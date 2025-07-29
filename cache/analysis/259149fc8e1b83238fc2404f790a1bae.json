@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/640/image_cropper_1729689838193.jpg",
+  "analysis": {
+    "image_id": "img_245",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Indo-Western",
+      "primary_features": [
+        "Carved wooden headboard",
+        "Blue and beige color scheme",
+        "Built-in storage unit"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden headboard",
+          "features": [
+            "Decorative carving on the headboard",
+            "Traditional design elements",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Dark wood finish with intricate carvings"
+        },
+        {
+          "type": "Built-in storage unit",
+          "features": [
+            "Integrated into the wall",
+            "Rustic design with exposed wood"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Dark wood finish with a rustic look"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown, blue, beige, white"
+        ],
+        "materials": [
+          "Teak wood, wood, the headboard is likely upholstered in fabric"
+        ],
+        "lighting": "Ambient lighting with no visible direct light source, suggesting soft, diffused lighting",
+        "texture": "Smooth wood texture on the headboard and storage unit, fabric texture on the upholstered headboard"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style is evident, but the use of teak wood and traditional carved elements suggest a nod to Indian craftsmanship",
+        "traditional_elements": [
+          "Carved wooden headboard",
+          "Rustic wood finish"
+        ],
+        "modern_adaptations": [
+          "Built-in storage unit with a modern design"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and a functional design",
+        "cultural_significance": "The use of teak wood and carved elements reflects traditional Indian craftsmanship and materials"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a bedroom with a rustic, Indo-Western design. The centerpiece is a carved wooden headboard, which is a traditional element, complemented by a built-in storage unit that integrates seamlessly into the design. The color scheme uses a deep blue and beige palette, with the wooden elements showcasing a dark finish that adds a touch of elegance. The space utilizes a traditional Indian material, teak, which is both culturally significant and durable. The overall design blends traditional Indian craftsmanship with modern functional elements, creating a harmonious and visually appealing interior.",
+      "metadata": {
+        "tags": [
+          "Indo-Western",
+          "Indian interior design",
+          "Carved wooden headboard",
+          "Built-in storage unit",
+          "Rustic design",
+          "Teak wood"
+        ],
+        "budget_indicator": "Medium",
+        "space_type": "Bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Carved wooden headboard, use of teak wood"
+      }
+    }
+  },
+  "cached_at": 1753459616914,
+  "cache_key": "259149fc8e1b83238fc2404f790a1bae"
+}

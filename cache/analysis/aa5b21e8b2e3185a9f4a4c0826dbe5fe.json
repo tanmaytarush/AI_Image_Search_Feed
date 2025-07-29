@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1010/image_cropper_1729478560160.jpg",
+  "analysis": {
+    "image_id": "img_230",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Integrated kitchen design",
+        "White cabinetry",
+        "Dark countertops",
+        "Built-in appliances"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen Island",
+          "features": [
+            "Rectangular shape",
+            "Integrated sink",
+            "Integrated countertop"
+          ],
+          "materials": [
+            "Granite countertops",
+            "Copper accents"
+          ],
+          "finish": "High-gloss finish for the cabinetry and countertops"
+        },
+        {
+          "type": "Built-in Appliances",
+          "features": [
+            "Hidden range hood",
+            "Integrated microwave",
+            "Fridge"
+          ],
+          "materials": [
+            "Modern stainless steel"
+          ],
+          "finish": "Polished stainless steel for a sleek look"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White cabinetry",
+          "Dark countertops",
+          "Copper accents",
+          "Gray walls"
+        ],
+        "materials": [
+          "Granite",
+          "Copper",
+          "Stainless steel",
+          "Glass"
+        ],
+        "lighting": "Ambient lighting with recessed ceiling lights",
+        "texture": "Smooth surfaces with a polished look"
+      },
+      "indian_context": {
+        "regional_style": "Mumbai Contemporary",
+        "traditional_elements": [
+          "Absence of traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Integration of modern appliances with traditional design principles"
+        ],
+        "space_utilization": "Efficient space utilization with built-in appliances and island",
+        "cultural_significance": "The use of modern materials and design principles, reflecting a contemporary interpretation of Indian design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.87
+      },
+      "description": "This kitchen showcases a modern Indian design approach with a contemporary twist. The sleek white cabinetry and dark granite countertops provide a clean and polished look, while the addition of copper accents adds a touch of traditional Indian aesthetics. The space is efficiently designed with built-in appliances, optimizing both functionality and visual appeal.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Contemporary Indian",
+          "Mumbai Design",
+          "Kitchen Island",
+          "Built-in Appliances"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential",
+        "functionality": "Primary kitchen space",
+        "indian_specific": "Modern adaptation of traditional Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1753459493504,
+  "cache_key": "aa5b21e8b2e3185a9f4a4c0826dbe5fe"
+}

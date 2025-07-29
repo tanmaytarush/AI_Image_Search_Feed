@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1511/image_cropper_1729785964118.jpg",
+  "analysis": {
+    "image_id": "img_125",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Indian Traditional",
+      "primary_features": [
+        "Wooden Partition",
+        "Teak Furniture",
+        "Carved Headboard",
+        "Marble Fireplace"
+      ],
+      "objects": [
+        {
+          "type": "Wooden Partition",
+          "features": [
+            "Vertical slats with intricate carving",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Dark polished wood"
+        },
+        {
+          "type": "Teak Furniture",
+          "features": [
+            "Carved headboard",
+            "Curved legs"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Dark polished wood"
+        },
+        {
+          "type": "Marble Fireplace",
+          "features": [
+            "Inset design",
+            "Smooth finish"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "White marble"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark Brown",
+          "White",
+          "Black",
+          "Brown"
+        ],
+        "materials": [
+          "Teak",
+          "Marble",
+          "Wood"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth marble, polished wood"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Wooden Partition",
+          "Teak Furniture",
+          "Carved Headboard"
+        ],
+        "modern_adaptations": [
+          "Marble Fireplace, modern lighting"
+        ],
+        "space_utilization": "Open and spacious with a focus on natural light",
+        "cultural_significance": "The wooden partition and carved furniture are indicative of traditional North Indian homes, often used to separate spaces while maintaining an open flow. The marble fireplace adds a modern touch, blending traditional aesthetics with contemporary design."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior showcases a traditional North Indian design style, characterized by a wooden partition with intricate carving, teak furniture with carved headboards, and a marble fireplace. The space is well-lit with natural light, creating a warm and inviting atmosphere. The use of dark teak for the furniture and partition, paired with the white marble fireplace, highlights a contrast between traditional and modern elements, reflecting a contemporary interpretation of North Indian design aesthetics.",
+    "metadata": {
+      "tags": [
+        "Indian Traditional",
+        "North Indian",
+        "Teak Furniture",
+        "Wooden Partition",
+        "Marble Fireplace"
+      ],
+      "budget_indicator": "Mid-range, with teak and marble being premium materials but modern adaptations keeping it within a mid-range budget",
+      "space_type": "Living Room",
+      "functionality": "Reception or living space, designed for relaxation and social gatherings",
+      "indian_specific": "The use of teak for furniture and carved detailing, indicative of traditional North Indian design"
+    }
+  },
+  "cached_at": 1753448754686,
+  "cache_key": "5d22782da350cac8543dc287749013a4"
+}

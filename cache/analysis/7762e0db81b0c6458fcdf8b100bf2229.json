@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1402/image_cropper_1729756489929.jpg",
+  "analysis": {
+    "image_id": "img_341",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "White walls",
+        "Dark wooden ceiling",
+        "Rounded chandelier",
+        "Shelving unit"
+      ],
+      "objects": [
+        {
+          "type": "Round chandelier",
+          "features": [
+            "Dark glass globes",
+            "Metal structure"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Shelving unit",
+          "features": [
+            "Copper accents",
+            "Glass panels"
+          ],
+          "materials": [
+            "Copper",
+            "Glass",
+            "Wood"
+          ],
+          "finish": "Shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark brown",
+          "Gold",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Warm indoor lighting",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Copper accents"
+        ],
+        "modern_adaptations": [
+          "Round chandelier",
+          "Copper shelving unit"
+        ],
+        "space_utilization": "Optimized for storage and display",
+        "cultural_significance": "Copper is often used in North Indian interiors for its auspicious connotations"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern interpretation of North Indian interior design featuring a living room with a white wall, dark wooden ceiling, and a round chandelier with glass globes. The shelving unit incorporates copper accents and glass panels, blending traditional materials with contemporary design. The space is well-lit with warm indoor lighting, emphasizing the polished textures and smooth surfaces.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Living Room",
+          "Copper Accents",
+          "Glass Globes",
+          "North Indian"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential",
+        "functionality": "Living and display area",
+        "indian_specific": "Copper accents and warm lighting"
+      }
+    }
+  },
+  "cached_at": 1753460643968,
+  "cache_key": "7762e0db81b0c6458fcdf8b100bf2229"
+}

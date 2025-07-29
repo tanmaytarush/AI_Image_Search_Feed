@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1360/image_cropper_1729747063093.jpg",
+  "analysis": {
+    "image_id": "img_470",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Open shelving, stainless steel appliances, granite countertops, wooden kitchen island"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen Island",
+          "features": [
+            "Rectangular shape, wooden top, glossy finish, central sink"
+          ],
+          "materials": [
+            "Wood, stainless steel"
+          ],
+          "finish": "Glossy, polished"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "Open shelves, wooden, modern design"
+          ],
+          "materials": [
+            "Wood, metal"
+          ],
+          "finish": "Natural, metallic"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Stainless steel refrigerator, oven, microwave, sink"
+          ],
+          "materials": [
+            "Stainless steel, ceramic"
+          ],
+          "finish": "Metallic, glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, brown, metallic"
+        ],
+        "materials": [
+          "Wood, metal, stainless steel, granite"
+        ],
+        "lighting": "Natural light, possibly from windows not visible in the image",
+        "texture": "Smooth, polished, glossy"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, but has elements that could fit a modern urban Indian home",
+        "traditional_elements": [
+          "Open shelving, wooden furniture"
+        ],
+        "modern_adaptations": [
+          "Use of stainless steel and granite, open layout"
+        ],
+        "space_utilization": "Efficient, multi-functional, open layout",
+        "cultural_significance": "Minimal traditional elements, but open shelving and wood could be inspired by Indian design aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian kitchen with a mix of traditional and contemporary design elements. The space features open shelving, stainless steel appliances, and a wooden kitchen island with a central sink. The use of wood, metal, and stainless steel reflects both traditional and modern Indian design influences. The layout is open and efficient, with a focus on functionality and aesthetic appeal. The visible color palette includes white, brown, and metallic tones, typical of modern Indian interiors. The space is organized with vertical and horizontal storage solutions, emphasizing space optimization.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Kitchen Design",
+        "Open Shelving",
+        "Stainless Steel",
+        "Wooden Furniture",
+        "Urban Indian Home"
+      ],
+      "budget_indicator": "MEDIUM, with a focus on quality materials like stainless steel and granite, but also incorporating traditional wood elements",
+      "space_type": "Residential, kitchen",
+      "functionality": "Primary purpose is for cooking and meal preparation, with open shelving for storage and display",
+      "indian_specific": "Open shelving and wooden furniture are key Indian design features"
+    }
+  },
+  "cached_at": 1753462392935,
+  "cache_key": "7229204c64de10f28c7c8fe45dc00da5"
+}

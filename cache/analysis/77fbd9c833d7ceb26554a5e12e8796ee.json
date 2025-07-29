@@ -6,79 +6,104 @@
       "room": "Pooja room",
       "theme": "Modern Indian",
       "primary_features": [
-        "Decorative cabinet with glass doors",
-        "Carved wooden elements",
-        "Religious iconography"
+        "Umbrella stand",
+        "Mirrored cabinet",
+        "Shelves with religious items",
+        "Decorative hanging elements"
       ],
       "objects": [
         {
-          "type": "Pooja cabinet",
+          "type": "Umbrella stand",
           "features": [
-            "Glass doors with decorative patterns",
-            "Carved wooden detailing",
-            "Drawers with brass handles"
+            "Tall, with ornate details at the base"
           ],
           "materials": [
-            "Wood (likely teak)",
-            "Glass",
-            "Brass"
+            "Metallic, possibly brass or copper"
           ],
-          "finish": "Bright white paint with gold accents"
+          "finish": "Polished"
+        },
+        {
+          "type": "Mirrored cabinet",
+          "features": [
+            "Large, with glass doors and shelves"
+          ],
+          "materials": [
+            "Wood, possibly teak or pine"
+          ],
+          "finish": "Cream-colored with golden accents"
+        },
+        {
+          "type": "Shelves with religious items",
+          "features": [
+            "Decorative items, possibly religious in nature"
+          ],
+          "materials": [
+            "Not visible, inferred from items"
+          ],
+          "finish": "Not visible, inferred from items"
+        },
+        {
+          "type": "Decorative hanging elements",
+          "features": [
+            "String-like, possibly for prayer or decoration"
+          ],
+          "materials": [
+            "Not visible, inferred from context"
+          ],
+          "finish": "Not visible, inferred from context"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
+          "Cream",
           "Gold",
-          "Black",
-          "Red",
-          "Blue"
+          "White",
+          "Black"
         ],
         "materials": [
           "Wood",
-          "Glass",
-          "Brass"
+          "Metal",
+          "Glass"
         ],
-        "lighting": "Natural light filtering through the glass doors",
-        "texture": "Smooth paint surface, glossy glass, polished brass handles"
+        "lighting": "Natural light, possibly from a window out of frame",
+        "texture": [
+          "Smooth surfaces, metallic sheen, reflective glass"
+        ]
       },
       "indian_context": {
-        "regional_style": "Northern India (Hindi-speaking regions)",
+        "regional_style": "Not explicitly regional, but could be modern Indian with influences from Rajasthan or other northern regions",
         "traditional_elements": [
-          "Carved wood",
-          "Religious icons"
+          "Umbrella stand with ornate details, wooden furniture"
         ],
         "modern_adaptations": [
-          "Glass doors",
-          "Minimalist drawers"
+          "Use of mirrored surfaces, modern materials and finishes"
         ],
-        "space_utilization": "Efficient use of vertical space with pujols arranged on shelves",
-        "cultural_significance": "The pooja room is a sacred space for Hindus where religious items and iconography are displayed for worship"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.88,
-        "primary_features": 0.9,
-        "objects": 0.92,
-        "indian_context": 0.91
-      },
-      "description": "The image showcases a modern Indian pooja room with a sleek cabinet design featuring glass doors, allowing for a view of the neatly arranged religious icons inside. The cabinet is adorned with traditional carved wooden details and brass handles, blending modern and traditional elements. The white paint with gold accents provides a clean and elegant look, while the natural light enhances the vibrant colors of the religious items, creating a serene and sacred atmosphere.",
-      "metadata": {
-        "tags": [
-          "Pooja room",
-          "Modern Indian",
-          "Glass cabinet",
-          "Carved wood",
-          "Religious icons",
-          "White and gold"
-        ],
-        "budget_indicator": "Moderate, with a focus on quality materials like brass and glass",
-        "space_type": "Residential",
-        "functionality": "Sacred space for Hindu worship",
-        "indian_specific": "Carved wood and brass handles"
+        "space_utilization": "Efficient use of the cabinet for storage and display of religious items",
+        "cultural_significance": "The presence of religious items and decorative hanging elements signify a space dedicated to prayer or worship, emphasizing cultural and spiritual devotion"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern interpretation of a traditional Indian pooja room, featuring a cream-colored mirrored cabinet with gold accents, shelves displaying religious items, and an ornate umbrella stand. The design blends traditional elements with contemporary aesthetics, reflecting a modern Indian style with influences from northern regions. The space is organized to maximize storage and display, with a focus on cultural and spiritual significance.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Pooja room",
+        "Modern Indian style",
+        "Religious items",
+        "Decorative umbrella stand"
+      ],
+      "budget_indicator": "Moderate, with the use of high-quality materials and finishes",
+      "space_type": "Residential",
+      "functionality": "Space for worship or prayer",
+      "indian_specific": "Use of wood, metal, and reflective surfaces, traditional umbrella stand with modern adaptations"
     }
   },
-  "cached_at": 1753181123481,
+  "cached_at": 1753446445691,
   "cache_key": "77fbd9c833d7ceb26554a5e12e8796ee"
 }

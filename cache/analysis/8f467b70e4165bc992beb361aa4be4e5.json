@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1442/image_cropper_1729766273932.jpg",
+  "analysis": {
+    "image_id": "img_165",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Minimalist with Indian Influences",
+      "primary_features": [
+        "Wall-mounted sink",
+        "Wooden storage rack",
+        "Toiletries"
+      ],
+      "objects": [
+        {
+          "type": "Wall-mounted sink",
+          "features": [
+            "Modern design with a minimalist look"
+          ],
+          "materials": [
+            "likely ceramic or porcelain"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Wooden storage rack",
+          "features": [
+            "Horizontal bars with hooks and compartments"
+          ],
+          "materials": [
+            "Wood (possibly teak or mango)"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Toiletries",
+          "features": [
+            "Various items neatly arranged"
+          ],
+          "materials": [
+            "Plastic or metal"
+          ],
+          "finish": "Standard finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Brown (wood)",
+          "Multicolored (toiletries)"
+        ],
+        "materials": [
+          "Wood, Ceramic/porcelain, Plastic/Metal"
+        ],
+        "lighting": "Soft and natural light, possibly from a window above",
+        "texture": "Smooth surfaces of sink and storage rack, rough texture of hooks"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Wooden storage rack, hook design"
+        ],
+        "modern_adaptations": [
+          "Modern sink design, minimalist approach"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Cultural relevance in the use of wooden elements and compact storage solutions"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern minimalist bathroom with influenced Indian design elements. The wooden storage rack, likely made from teak or mango wood, adds a traditional touch to the otherwise sleek and contemporary space. The compact design focuses on efficient use of vertical space, with a wall-mounted sink and neatly arranged toiletries. The soft lighting enhances the warm tones of the wood and the neutral colors of the sink and storage area, creating a harmonious and inviting atmosphere.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Modern minimalism",
+          "Bathroom",
+          "Wooden storage",
+          "Minimalist design"
+        ],
+        "budget_indicator": "Moderate to high due to the use of polished wood and ceramic sink",
+        "space_type": "Residential bathroom",
+        "functionality": "Designed for efficient storage and water filtration",
+        "indian_specific": "Traditional elements such as the wooden storage rack"
+      }
+    }
+  },
+  "cached_at": 1753449517255,
+  "cache_key": "8f467b70e4165bc992beb361aa4be4e5"
+}

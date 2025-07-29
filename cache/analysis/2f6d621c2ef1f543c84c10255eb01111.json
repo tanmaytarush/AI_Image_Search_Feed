@@ -4,119 +4,105 @@
     "image_id": "img_016",
     "ai_generated_tags": {
       "room": "Bathroom",
-      "theme": "Modern",
+      "theme": "Contemporary Indian Style",
       "primary_features": [
-        "Marble flooring",
-        "Wooden vanity",
-        "Wall-mounted sink",
-        "Round mirror"
+        "Modern vanity with marble top",
+        "Wooden cabinet with glass doors",
+        "Round mirror with wooden frame",
+        "Pendant lights with brass finish"
       ],
       "objects": [
         {
-          "type": "Vanity",
+          "type": "Round mirror",
           "features": [
-            "Wooden finish",
-            "Wall-mounted",
-            "Open shelving"
-          ],
-          "materials": [
-            "Wood",
-            "Marble"
-          ],
-          "finish": "Natural wood and polished marble"
-        },
-        {
-          "type": "Sink",
-          "features": [
-            "Wall-mounted",
-            "Round"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Mirror",
-          "features": [
-            "Round",
+            "Circular shape",
+            "Wooden frame",
             "Wall-mounted"
           ],
           "materials": [
-            "Metal"
+            "Wood",
+            "Glass"
           ],
-          "finish": "Metallic"
+          "finish": "Natural wood finish, clear glass frame"
         },
         {
-          "type": "Lighting",
+          "type": "Vanity",
           "features": [
-            "Modern pendant lights"
+            "Marble countertop",
+            "Wooden cabinet with glass doors",
+            "Integrated sink"
           ],
           "materials": [
-            "Metal"
+            "Marble",
+            "Wood",
+            "Glass"
           ],
-          "finish": "Gold"
+          "finish": "Polished marble, stained wood, frosted glass"
         },
         {
-          "type": "Flooring",
+          "type": "Pendant lights",
           "features": [
-            "Marble tiles"
+            "Gold pendant lights",
+            "Long cords",
+            "Sleek design"
           ],
           "materials": [
-            "Marble"
+            "Metal",
+            "Glass"
           ],
-          "finish": "Polished"
+          "finish": "Gold finish, frosted glass shades"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Gold"
+          "White marble",
+          "Brown wood",
+          "Gold pendant lights",
+          "Green wall cabinets"
         ],
         "materials": [
           "Marble",
           "Wood",
+          "Glass",
           "Metal"
         ],
-        "lighting": "Modern pendant lights",
-        "texture": "Smooth"
+        "lighting": "Bright, artificial lighting from pendant lights",
+        "texture": "Smooth marble surfaces, textured wood grain"
       },
       "indian_context": {
-        "regional_style": "Modern",
+        "regional_style": "Not specific regional style visible",
         "traditional_elements": [
-          "Wooden accents"
+          "Wooden cabinet with glass doors"
         ],
         "modern_adaptations": [
-          "Marble and metallic finishes"
+          "Contemporary design with modern materials and lighting"
         ],
-        "space_utilization": "Efficient use of space",
-        "cultural_significance": "Minimalistic design with modern interpretation of traditional materials"
+        "space_utilization": "Efficient use of space with integrated cabinetry and storage",
+        "cultural_significance": "Reflects modern Indian interior design trends with a focus on functionality and aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The bathroom showcases a contemporary Indian style with a blend of modern and traditional elements. The space features a sleek vanity with a marble top and wooden cabinet with glass doors, reflecting a modern Indian aesthetic. The round mirror with a wooden frame and the gold pendant lights add traditional touches, while the overall layout and design emphasize functionality and contemporary Indian design principles. The use of white marble and brown wood creates a sophisticated and clean look, with the green wall cabinets adding a pop of color. The lighting is bright and artificial, typical of modern bathrooms.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian Style",
+          "Marble Vanity",
+          "Wooden Cabinet",
+          "Round Mirror",
+          "Gold Pendant Lights"
+        ],
+        "budget_indicator": "Mid-range to high-end, given the use of marble and modern materials",
+        "space_type": "Residential bathroom",
+        "functionality": "Primary purpose is for personal hygiene and grooming",
+        "indian_specific": "Contemporary adaptation of traditional wooden cabinet design"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This image showcases a modern bathroom with sleek and minimalist design elements. The space features marble flooring, a wooden vanity, and a wall-mounted sink with a round mirror. The lighting includes modern pendant lights, adding a touch of sophistication. The color scheme is dominated by white, brown, and gold, creating a clean and luxurious atmosphere.",
-    "metadata": {
-      "tags": [
-        "bathroom",
-        "modern",
-        "marble",
-        "wooden",
-        "wall-mounted",
-        "round mirror"
-      ],
-      "budget_indicator": "High",
-      "space_type": "Bathroom",
-      "functionality": "Efficient and stylish",
-      "indian_specific": "Modern interpretation of traditional materials"
     }
   },
-  "cached_at": 1753179488733,
+  "cached_at": 1753445994797,
   "cache_key": "2f6d621c2ef1f543c84c10255eb01111"
 }

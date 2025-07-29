@@ -1,0 +1,64 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1363/image_cropper_1729748587834.jpg",
+  "analysis": {
+    "image_id": "img_110",
+    "ai_generated_tags": {
+      "room": "Not applicable",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Lock mechanism"
+      ],
+      "objects": [
+        {
+          "type": "Door handle",
+          "features": [
+            "Metallic, lever-style handle"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Silver"
+        ],
+        "materials": [
+          "Metal"
+        ],
+        "lighting": "Neutral, even lighting",
+        "texture": "Smooth, shiny surface"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Not applicable",
+        "cultural_significance": "Not applicable"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.65,
+      "theme": 0.7,
+      "primary_features": 0.8,
+      "objects": 0.9,
+      "indian_context": 0.5
+    },
+    "description": "The image shows a close-up of a lever-style door handle, which appears to be made of metal and has a glossy, polished finish. There are no visible Indian design elements or cultural references in this image, as it is a minimalist and modern design.",
+    "metadata": {
+      "tags": [
+        "door handle",
+        "metallic",
+        "glossy",
+        "minimalist"
+      ],
+      "budget_indicator": "Low to moderate, given the polished metal finish",
+      "space_type": "Not applicable",
+      "functionality": "Aesthetics and practical use for opening a door",
+      "indian_specific": "No Indian-specific design features visible"
+    }
+  },
+  "cached_at": 1753448372396,
+  "cache_key": "77f564764c6088eef6850a3c7b625f82"
+}

@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/443/image_cropper_1728578758191.jpg",
+  "analysis": {
+    "image_id": "img_292",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern South Indian",
+      "primary_features": [
+        "Purple cabinetry",
+        "White countertops",
+        "Reddish-brown ceiling",
+        "Patterned backsplash"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Purple cabinetry, white countertops, and handles"
+          ],
+          "materials": [
+            "Purple cabinetry (likely painted wood or laminate), white countertops (possibly quartz or marble-like surface)"
+          ],
+          "finish": "Purple finish on cabinets, glossy white surface on countertops"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Purple, white, reddish-brown"
+        ],
+        "materials": [
+          "Painted wood, laminate, quartz or marble-like surface, ceramic tiles"
+        ],
+        "lighting": "Natural light from the window, evenly distributed",
+        "texture": "Smooth cabinet finish, glossy countertop, tiled backsplash"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Cabinet handles"
+        ],
+        "modern_adaptations": [
+          "Modern kitchen design with a South Indian influence"
+        ],
+        "space_utilization": "Efficient use of space with built-in cabinetry and countertop",
+        "cultural_significance": "The use of purple in the cabinetry is a modern interpretation of traditional Indian color palettes, often associated with prosperity and good luck"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This kitchen features a modern South Indian design with purple cabinetry and white countertops. The reddish-brown ceiling with a geometric pattern adds a traditional touch, while the patterned tiled backsplash maintains a contemporary aesthetic. The use of purple in the cabinetry is a modern interpretation of traditional Indian color palettes, often associated with prosperity and good luck.",
+      "metadata": {
+        "tags": [
+          "Modern South Indian",
+          "Purple cabinetry",
+          "White countertops",
+          "Reddish-brown ceiling",
+          "South Indian design",
+          "Contemporary kitchen"
+        ],
+        "budget_indicator": "Moderate to high, due to the use of purple cabinetry and white countertops",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Purple cabinetry is a modern adaptation of traditional Indian color schemes"
+      }
+    }
+  },
+  "cached_at": 1753460050264,
+  "cache_key": "93696d7c0b04075acdbc678e8b85b118"
+}

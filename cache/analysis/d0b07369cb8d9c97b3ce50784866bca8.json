@@ -3,115 +3,96 @@
   "analysis": {
     "image_id": "img_017",
     "ai_generated_tags": {
-      "room": "Living and Dining Area",
-      "theme": "Contemporary Indian Minimalism",
+      "room": "Living Room",
+      "theme": "Minimalist Modern",
       "primary_features": [
-        "Glass coffee table",
-        "Modern sofa set",
-        "Marble counter",
-        "Dining area with modern chairs"
+        "Open floor plan",
+        "Minimalist furniture",
+        "Neutral color palette"
       ],
       "objects": [
         {
-          "type": "Glass coffee table",
+          "type": "Sofa",
+          "features": [
+            "Textured upholstery",
+            "Armrests"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Coffee Table",
           "features": [
             "Round shape",
-            "Metal frame"
+            "Glass top"
           ],
           "materials": [
-            "Glass",
-            "Metal"
+            "Metal base, Glass top"
           ],
-          "finish": "Smooth glass top with metallic edge"
+          "finish": "Polished"
         },
         {
-          "type": "Modern sofa set",
+          "type": "Dining Table",
           "features": [
-            "L-shaped design",
-            "Patterned cushions",
-            "Neutral upholstery"
+            "Rectangular shape",
+            "Metal legs"
           ],
           "materials": [
-            "Fabric"
+            "Marble top",
+            "Metal legs"
           ],
-          "finish": "Smooth texture, soft touch"
-        },
-        {
-          "type": "Marble counter",
-          "features": [
-            "Decorative pattern",
-            "Cabinet underneath"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Polished marble surface"
-        },
-        {
-          "type": "Dining area with modern chairs",
-          "features": [
-            "Rectangle table",
-            "Metallic legs",
-            "Soft upholstery"
-          ],
-          "materials": [
-            "Metal",
-            "Fabric"
-          ],
-          "finish": "Metallic frame, soft upholstery"
+          "finish": "Smooth, Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Gray",
-          "Brown",
-          "Gold",
-          "Neutral"
+          "White, Light Grey, Beige, Silver, Black"
         ],
         "materials": [
           "Marble",
-          "Glass",
           "Metal",
-          "Fabric"
+          "Glass",
+          "Wood"
         ],
-        "lighting": "Natural lighting from unseen windows",
-        "texture": "Smooth surfaces with a mix of metallic, glass, and fabric textures"
+        "lighting": "Natural light from unseen windows, supplemented by hanging lights",
+        "texture": "Smooth, Polished surfaces"
       },
       "indian_context": {
-        "regional_style": "Not specifically indicative of a regional style",
+        "regional_style": "Not applicable",
         "traditional_elements": [
-          "No traditional Indian elements visible"
+          "Not applicable"
         ],
         "modern_adaptations": [
-          "Minimalist design with modern furniture and materials"
+          "Cultural elements adapted into modern designs"
         ],
-        "space_utilization": "Open plan with kitchen, living, and dining area seamlessly integrated",
-        "cultural_significance": "No traditional Indian cultural elements present"
+        "space_utilization": "Open and uncluttered, maximizing space for social interaction",
+        "cultural_significance": "Cultural relevance in terms of modern interpretations of clean and sleek living spaces"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.85,
+      "theme": 0.82,
+      "primary_features": 0.88,
+      "objects": 0.9,
+      "indian_context": 0.7
     },
-    "description": "The image showcases a modern Indian interior with a contemporary design approach. The living room features a stylish glass coffee table with a metallic frame, complementing a modern L-shaped sofa with patterned cushions. The dining area is seamlessly integrated into the living space, featuring a rectangular marble counter with a simple cabinet underneath. The room is well-lit with natural light, emphasizing clean lines and neutral tones, while modern materials like marble, glass, and metal are used throughout. The space is designed for both functionality and aesthetics, blending contemporary Indian design with minimalistic elements.",
+    "description": "The interior showcases a modern interpretation of Indian design elements, emphasizing clean lines and a neutral color palette. The living room features a minimalist sofa with textured upholstery, a sleek glass coffee table, and a dining area with a marble table and metal chairs. The design is contemporary, with a focus on open space and natural lighting, reflecting a modern take on Indian aesthetics.",
     "metadata": {
       "tags": [
-        "Modern Indian Interior",
-        "Contemporary Design",
-        "Minimalist Living",
-        "Glass Furniture",
-        "Marble Counters"
+        "Minimalist Modern",
+        "Indian Design",
+        "Neutral Color Palette",
+        "Open Floor Plan",
+        "Living Room"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential Living Area",
-      "functionality": "Mixed-use living and dining space",
-      "indian_specific": "No traditional Indian design features"
+      "budget_indicator": "Moderate, with materials like marble, metal, and glass indicating a mid-range budget.",
+      "space_type": "Residential Living Room",
+      "functionality": "Primary purpose is for socializing and relaxation, combining living and dining areas.",
+      "indian_specific": "Modern adaptions of traditional Indian elements, such as the use of marble and metal in contemporary designs."
     }
   },
-  "cached_at": 1753182359216,
+  "cached_at": 1753446023885,
   "cache_key": "d0b07369cb8d9c97b3ce50784866bca8"
 }

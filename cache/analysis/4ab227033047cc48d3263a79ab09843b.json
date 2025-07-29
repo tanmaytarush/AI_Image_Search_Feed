@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/35/6.jpg",
+  "analysis": {
+    "image_id": "img_381",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Walnut-colored sleek cabinets",
+        "Modern white sofa set",
+        "Floor-to-ceiling windows",
+        "Built-in storage shelves"
+      ],
+      "objects": [
+        {
+          "type": "Sofa set",
+          "features": [
+            "White fabric",
+            "Modern design with clean lines",
+            "Comfortable-looking cushions"
+          ],
+          "materials": [
+            "White fabric, possibly cotton or linen"
+          ],
+          "finish": "Smooth and polished"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "Walnut-colored",
+            "Sleek and modern design",
+            "Floor-to-ceiling height"
+          ],
+          "materials": [
+            "Walnut wood, possibly teak"
+          ],
+          "finish": "High-gloss, polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Walnut brown",
+          "Light gray (shades in the sofa and cushions)",
+          "Brown (wooden elements)"
+        ],
+        "materials": [
+          "Walnut wood",
+          "White fabric",
+          "Glass (windows)",
+          "Metal (hardware on cabinets)"
+        ],
+        "lighting": "Natural light from large windows, supplemented by interior lighting fixtures",
+        "texture": "Smooth and polished surfaces with a mix of natural textures from wood and fabric"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, but incorporates elements of contemporary Indian design",
+        "traditional_elements": [
+          "Not prominent"
+        ],
+        "modern_adaptations": [
+          "Contemporary interpretation of modern Indian design with sleek furniture and minimalism"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and a clean, organized layout",
+        "cultural_significance": "The clean lines and minimalism reflect a modern Indian aesthetic that emphasizes functionality and aesthetic appeal"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space is a modern interpretation of Indian design, featuring sleek cabinetry in walnut brown and a contemporary white sofa set. The living room incorporates large floor-to-ceiling windows that allow ample natural light to brighten the space. The space is characterized by a clean and organized layout with built-in storage, reflecting a modern Indian design ethos that values functionality and aesthetic appeal. The use of walnut wood and white fabric adds a contrast of warm and cool tones, creating a sophisticated and comfortable environment.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Modern Indian",
+          "Sleek Design",
+          "Walnut Cabinets",
+          "White Sofa",
+          "Contemporary Indian Design"
+        ],
+        "budget_indicator": "Moderate to high, due to the use of walnut wood and contemporary design elements",
+        "space_type": "Residential Living Room",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "Sleek contemporary furniture and the use of walnut wood"
+      }
+    }
+  },
+  "cached_at": 1753461147527,
+  "cache_key": "4ab227033047cc48d3263a79ab09843b"
+}

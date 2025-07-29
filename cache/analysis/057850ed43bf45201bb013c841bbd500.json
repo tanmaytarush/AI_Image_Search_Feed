@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1452/image_cropper_1729769716780.jpg",
+  "analysis": {
+    "image_id": "img_216",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Walls with vertical paneling",
+        "Bathroom cabinet",
+        "Glass panel window"
+      ],
+      "objects": [
+        {
+          "type": "Bathroom cabinet",
+          "features": [
+            "Rectangular shape",
+            "Vertical paneling",
+            "Integrated storage"
+          ],
+          "materials": [
+            "MDF (Medium Density Fiberboard)",
+            "Painted finish"
+          ],
+          "finish": "Matte paint finish with vertically aligned panels"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "White",
+          "Gray"
+        ],
+        "materials": [
+          "MDF",
+          "Painted finish",
+          "Glass"
+        ],
+        "lighting": "Natural light from glass panel window",
+        "texture": "Smooth, clean lines with simple textures"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style visible, but some elements might be inspired by South Indian bathrooms",
+        "traditional_elements": [
+          "No traditional elements visible"
+        ],
+        "modern_adaptations": [
+          "Integrated storage, modern paneling design"
+        ],
+        "space_utilization": "Optimized for storage and functionality with minimalistic design",
+        "cultural_significance": "Minimal adaptations to Indian cultural elements, focusing on modern minimalism"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.7
+      },
+      "description": "The image depicts a modern minimalist bathroom with a beige MDF cabinet featuring vertical paneling and integrated storage. The cabinet is painted in a matte finish, and there is a glass panel window allowing natural light to enter. The design is clean and simple, with no traditional Indian elements present, focusing on contemporary aesthetics.",
+      "metadata": {
+        "tags": [
+          "Modern Bathroom",
+          "Minimalist Design",
+          "MDF Cabinet",
+          "Beige Walls"
+        ],
+        "budget_indicator": "Low to mid-range due to standard materials and finish",
+        "space_type": "Residential Bathroom",
+        "functionality": "Primary purpose is storage and organization of bathroom items",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753459376995,
+  "cache_key": "057850ed43bf45201bb013c841bbd500"
+}

@@ -1,0 +1,68 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/716/image_cropper_1729181993694.jpg",
+  "analysis": {
+    "image_id": "img_442",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in wardrobe with sliding doors"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Sliding doors, white exterior with blue accents"
+          ],
+          "materials": [
+            "MDF, painted surfaces"
+          ],
+          "finish": "Painted finish with blue accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, blue"
+        ],
+        "materials": [
+          "MDF"
+        ],
+        "lighting": "Indirect lighting from ceiling",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Use of modern MDF materials with color accents"
+        ],
+        "space_utilization": "Efficient use of space for wardrobe",
+        "cultural_significance": "None"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image shows a modern Indian-inspired closet with a built-in wardrobe. The design focuses on functionality with a clean, minimalist aesthetic. The use of MDF with painted white and blue finish gives a contemporary touch, aligning with modern Indian decor trends.",
+      "metadata": {
+        "tags": [
+          "Closet",
+          "Modern Indian",
+          "MDF wardrobe",
+          "Blue accents"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential",
+        "functionality": "Storage",
+        "indian_specific": "Modern interpretation of MDF materials with color accents"
+      }
+    }
+  },
+  "cached_at": 1753462109307,
+  "cache_key": "48602c680668f3eb56208203764aef36"
+}

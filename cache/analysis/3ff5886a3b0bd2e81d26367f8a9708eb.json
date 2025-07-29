@@ -4,36 +4,24 @@
     "image_id": "img_020",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Minimalist",
+      "theme": "Minimalist",
       "primary_features": [
-        "L-shaped countertop",
-        "Undermount sink",
-        "Gas stove",
-        "Geometric backsplash",
-        "Knobless cabinetry"
+        "L-shaped cabinetry",
+        "geometric backsplash",
+        "modern appliances",
+        "organized workspace"
       ],
       "objects": [
         {
-          "type": "Sink",
+          "type": "Cabinets",
           "features": [
-            "Undermount",
-            "Single basin"
+            "L-shaped",
+            "dark gray finish",
+            "white upper cabinets"
           ],
           "materials": [
-            "White stone countertop",
-            "Metallic faucet"
-          ],
-          "finish": "Matte"
-        },
-        {
-          "type": "Gas Stove",
-          "features": [
-            "Black glass top",
-            "4 burners"
-          ],
-          "materials": [
-            "Metallic body",
-            "Glass top"
+            "Painted MDF",
+            "possibly laminate"
           ],
           "finish": "Glossy"
         },
@@ -41,49 +29,61 @@
           "type": "Backsplash",
           "features": [
             "Geometric pattern",
-            "White tiles"
+            "white tiles"
           ],
           "materials": [
-            "Tiles"
+            "Porcelain tiles"
           ],
           "finish": "Smooth"
         },
         {
-          "type": "Knobless Cabinets",
+          "type": "Countertop",
           "features": [
-            "Gray",
-            "Knobless"
+            "White surface"
           ],
           "materials": [
-            "MDF or similar material"
+            "Stone or solid surface"
           ],
-          "finish": "Matte"
+          "finish": "Polished"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Modern stove",
+            "sink",
+            "vent hood"
+          ],
+          "materials": [
+            "Stainless steel",
+            "glass"
+          ],
+          "finish": "Shiny"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Gray",
           "White",
+          "Dark Gray",
           "Black",
-          "Metallic"
+          "Silver"
         ],
         "materials": [
-          "Stone",
-          "Metal",
-          "Tiles",
-          "MDF"
+          "Painted MDF",
+          "Porcelain tiles",
+          "Stone/solid surface",
+          "Stainless steel"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth and clean"
+        "lighting": "Natural light from window and artificial light from above",
+        "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "Modern",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist design with modern appliances"
+          "Minimalist design with Indian touches like use of MDF for cabinetry"
         ],
-        "space_utilization": "Efficient use of L-shaped layout",
-        "cultural_significance": "Neutral color palette aligns with contemporary preferences in India"
+        "space_utilization": "Efficient use of L-shaped cabinetry for maximizing storage and workspace",
+        "cultural_significance": "This design is more aligned with modern Indian minimalist preferences rather than traditional elements"
       }
     },
     "confidence_scores": {
@@ -93,20 +93,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image showcases a modern minimalist kitchen design with a L-shaped layout. It features a sleek undermount sink, a gas stove with a black glass top, and a geometric backsplash. The cabinetry is knobless with a gray finish, and the countertops are made of white stone. The use of neutral colors and clean lines reflects a contemporary Indian aesthetic with efficient space utilization.",
+    "description": "This image depicts a modern kitchen with a minimalist design. The space features L-shaped cabinetry with a dark gray finish and white upper cabinets. The backsplash is white with a geometric pattern, and the countertop is a white stone or solid surface. Modern appliances, including a stove, sink, and vent hood, are present. The room is well-lit with natural light from a window and artificial light from the ceiling. The design is more aligned with modern Indian minimalist preferences rather than traditional elements.",
     "metadata": {
       "tags": [
-        "Kitchen Design",
-        "Modern Kitchen",
-        "Minimalist Design",
-        "Indian Kitchen"
+        "Kitchen",
+        "Minimalist",
+        "Modern",
+        "L-shaped cabinetry",
+        "Geometric backsplash"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Efficient cooking area",
-      "indian_specific": "Neutral color palette and modern adaptations to suit contemporary Indian preferences"
+      "budget_indicator": "Moderate, using painted MDF, porcelain tiles, and modern appliances",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is cooking and food preparation",
+      "indian_specific": "The use of MDF for cabinetry is a modern adaptation of Indian design, often seen in contemporary Indian kitchens"
     }
   },
-  "cached_at": 1753179488817,
+  "cached_at": 1753446100618,
   "cache_key": "3ff5886a3b0bd2e81d26367f8a9708eb"
 }

@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1340/image_cropper_1729700707569.jpg",
+  "analysis": {
+    "image_id": "img_319",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Slatted door panels",
+        "Vintage-style wall clock",
+        "Simple artwork"
+      ],
+      "objects": [
+        {
+          "type": "Slatted door panels",
+          "features": [
+            "Vertical slats with a striped pattern"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish with a matte finish"
+        },
+        {
+          "type": "Wall clock",
+          "features": [
+            "Vintage style with a metal frame and black face"
+          ],
+          "materials": [
+            "Metal (likely brass or bronze)",
+            "Glass"
+          ],
+          "finish": "Metallic sheen, glass is clear"
+        },
+        {
+          "type": "Artwork",
+          "features": [
+            "Minimalist design with a black and white color scheme"
+          ],
+          "materials": [
+            "Paper or canvas"
+          ],
+          "finish": "Matte finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black",
+          "White",
+          "Brown",
+          "Metallic"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass",
+          "Paper/Canvas"
+        ],
+        "lighting": "Warm indoor lighting, possibly from a chandelier or recessed lights",
+        "texture": "Sleek and smooth surfaces with a mix of textures from the slats and artwork"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but elements suggest a modern take on traditional Indian aesthetics",
+        "traditional_elements": [
+          "Slatted doors, metal frame of the clock"
+        ],
+        "modern_adaptations": [
+          "Minimalist design, modern clock style"
+        ],
+        "space_utilization": "Efficient use of vertical space with a simple and clean design",
+        "cultural_significance": "The use of metallic elements (clock) and the classic slatted doors could symbolize a blend of urban modernity with traditional values"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian foyer with a minimalist design. The slatted wooden door panels introduce a traditional element, while the vintage-style wall clock and simple artwork maintain a contemporary feel. The warm indoor lighting enhances the inviting atmosphere of the space.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Foyer",
+        "Modern Indian style",
+        "Minimalist design",
+        "Slatted doors"
+      ],
+      "budget_indicator": "Mid-range, with a focus on quality materials and finishes",
+      "space_type": "Residential entrance",
+      "functionality": "Entrance and reception area, providing a welcoming first impression",
+      "indian_specific": "Traditional elements like slatted doors and metal clock frame, combined with modern aesthetics"
+    }
+  },
+  "cached_at": 1753460384093,
+  "cache_key": "0fba549346574a1ad1a614f39173650c"
+}

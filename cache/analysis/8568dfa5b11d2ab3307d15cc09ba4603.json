@@ -4,125 +4,102 @@
     "image_id": "img_025",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Minimalist",
+      "theme": "Modern Indian",
       "primary_features": [
-        "L-shaped countertop",
-        "Built-in cabinetry",
+        "Purple cabinetry",
         "Marble backsplash",
-        "Stainless steel sink",
-        "Under-cabinet lighting"
+        "Black countertop",
+        "Wall-mounted oven"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "Cabinets",
           "features": [
-            "Purple finish",
-            "Square knobs"
+            "Integrated drawer handles",
+            "Modern design"
           ],
           "materials": [
-            "Purple lacquer",
-            "Metal hardware"
+            "Purple material, possibly MDF or laminate"
           ],
-          "finish": "Glossy"
+          "finish": "Smooth, glossy finish"
         },
         {
           "type": "Backsplash",
           "features": [
-            "Marble tile with light gray veining"
+            "Marble tiles with white and grey veining"
           ],
           "materials": [
             "Marble"
           ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Sink",
-          "features": [
-            "Stainless steel",
-            "Modern faucet"
-          ],
-          "materials": [
-            "Stainless steel",
-            "Black"
-          ],
-          "finish": "Glossy"
+          "finish": "Polished, glossy finish"
         },
         {
           "type": "Countertop",
           "features": [
-            "Smooth black surface"
+            "Black, possibly granite or quartz"
           ],
           "materials": [
-            "Engineered quartz"
+            "Quartz or granite"
           ],
-          "finish": "Matte"
+          "finish": "Smooth, glossy finish"
         },
         {
-          "type": "Appliances",
+          "type": "Wall-mounted Oven",
           "features": [
-            "Built-in microwave",
-            "Black gas stove"
+            "Integrated into cabinetry"
           ],
           "materials": [
-            "Stainless steel",
-            "Black"
+            "Stainless steel"
           ],
-          "finish": "Glossy"
+          "finish": "Polished, metallic finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Purple",
-          "Black",
-          "White",
-          "Light gray"
+          "Purple, white, grey, black"
         ],
         "materials": [
-          "Purple lacquer",
-          "Marble",
-          "Stainless steel",
-          "Engineered quartz"
+          "Purple material, marble, granite, stainless steel"
         ],
-        "lighting": "Integrated under-cabinet lighting",
-        "texture": "Smooth and sleek"
+        "lighting": "Artificial lighting from ceiling and under-cabinet lights",
+        "texture": "Smooth, glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "No specific regional style observed",
         "traditional_elements": [
-          "Built-in cabinetry",
-          "Marble backsplash"
+          "No traditional Indian elements present"
         ],
         "modern_adaptations": [
-          "Purple lacquer finish",
-          "Minimalist design"
+          "Contemporary interpretation of Indian design with modern materials"
         ],
-        "space_utilization": "Efficient kitchen layout with L-shape",
-        "cultural_significance": "Modern interpretation of Indian kitchen design, blending contemporary aesthetics with traditional materials"
+        "space_utilization": "Efficient, minimalist layout with space for cooking and storage",
+        "cultural_significance": "No cultural significance noted in this modern kitchen design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.75,
+        "primary_features": 0.9,
+        "objects": 0.9,
+        "indian_context": 0.85
+      },
+      "description": "A modern Indian kitchen with a focus on contemporary design elements. The space features purple cabinetry, a marble backsplash, and a black countertop, creating a sleek and stylish look. The kitchen is equipped with a wall-mounted oven, indicating a blend of traditional and modern appliances. The design emphasizes functionality and aesthetic appeal with a mix of materials and finishes, reflecting a contemporary approach to Indian interior design.",
+      "metadata": {
+        "tags": [
+          "Modern",
+          "Indian",
+          "Kitchen",
+          "Purple",
+          "Marble",
+          "Black",
+          "Contemporary"
+        ],
+        "budget_indicator": "Moderate, utilizing modern materials like marble and quartz",
+        "space_type": "Residential kitchen",
+        "functionality": "Cooking and food preparation",
+        "indian_specific": "Minimal Indian-specific design features, focusing on modern Indian aesthetics"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image showcases a modern minimalist kitchen with a contemporary design. The kitchen features a L-shaped countertop with a built-in cabinet system, providing ample storage and workspace. The backsplash is adorned with marble tiles with a light gray veining, adding a touch of elegance. The cabinetry is finished in a striking purple lacquer with square metallic knobs, while the countertops are made of engineered quartz in a matte black finish. The kitchen is equipped with stainless steel appliances and a modern faucet, with integrated under-cabinet lighting enhancing the overall aesthetic. The design seamlessly blends traditional Indian elements like the marble backsplash with modern adaptations like the purple lacquer finish, creating a harmonious and stylish kitchen space.",
-    "metadata": {
-      "tags": [
-        "Kitchen",
-        "Modern",
-        "Minimalist",
-        "Purple",
-        "Marble",
-        "Engineered Quartz"
-      ],
-      "budget_indicator": "Mid-range",
-      "space_type": "Residential",
-      "functionality": "Cooking and meal preparation",
-      "indian_specific": "Purple lacquer finish"
     }
   },
-  "cached_at": 1753179503028,
+  "cached_at": 1753446226732,
   "cache_key": "8568dfa5b11d2ab3307d15cc09ba4603"
 }

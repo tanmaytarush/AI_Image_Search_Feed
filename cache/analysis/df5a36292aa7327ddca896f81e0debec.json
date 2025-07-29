@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/194/image_cropper_1726821053189.jpg",
+  "analysis": {
+    "image_id": "img_322",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in shelves",
+        "Geometric wall panels",
+        "Circular area rug",
+        "Neutral color palette"
+      ],
+      "objects": [
+        {
+          "type": "Wall panels",
+          "features": [
+            "White with geometric patterns",
+            "Modern design"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Integrated with wall panels",
+            "Storage solution"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Similar to wall panels"
+        },
+        {
+          "type": "Rug",
+          "features": [
+            "Circular shape",
+            "Neutral tones",
+            "Textured appearance"
+          ],
+          "materials": [
+            "Polyester or cotton"
+          ],
+          "finish": "Woven texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Beige",
+          "Brown"
+        ],
+        "materials": [
+          "Painted wood",
+          "MDF",
+          "Polyester",
+          "Cotton"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth on walls, woven on rug"
+      },
+      "indian_context": {
+        "regional_style": "Moderate urban Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern design with traditional Indian materials"
+        ],
+        "space_utilization": "Efficient storage with minimal space waste, utilizing built-in shelves.",
+        "cultural_significance": "Neutral color palette is common in modern Indian design to create a serene and welcoming space."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian living room with a clean and minimalist design. The space features built-in shelves integrated with geometric wall panels, suggesting a focus on functionality and efficient use of space. A circular area rug adds a traditional touch, while the overall color palette of white, beige, and brown reflects a modern Indian aesthetic. The design uses elements like painted wood and MDF, typical in contemporary Indian interiors, to create a sophisticated yet approachable look.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Geometric design",
+          "Built-in shelves",
+          "Neutral color palette",
+          "Urban Indian design"
+        ],
+        "budget_indicator": "Moderate, due to use of painted wood and MDF for built-in shelves and geometric wall panels.",
+        "space_type": "Living room",
+        "functionality": "Storage and display area",
+        "indian_specific": "Integration of modern design with traditional Indian materials"
+      }
+    }
+  },
+  "cached_at": 1753460425246,
+  "cache_key": "df5a36292aa7327ddca896f81e0debec"
+}

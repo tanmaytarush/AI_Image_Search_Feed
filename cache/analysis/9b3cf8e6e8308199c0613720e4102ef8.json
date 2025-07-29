@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/883/image_cropper_1729269922973.jpg",
+  "analysis": {
+    "image_id": "img_179",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian with traditional influences",
+      "primary_features": [
+        "Double bed with an ornate headboard",
+        "Wall-mounted mirror",
+        "Wall art"
+      ],
+      "objects": [
+        {
+          "type": "Double bed",
+          "features": [
+            "Large, rectangular bed with striped bedding",
+            "Headboard with intricate wood carving"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "Fabric (striped bedding)"
+          ],
+          "finish": "Wood has a dark polish finish, fabric has a textured appearance"
+        },
+        {
+          "type": "Wall-mounted mirror",
+          "features": [
+            "Rectangular shape with a decorative frame"
+          ],
+          "materials": [
+            "Metal (frame)",
+            "Glass (mirror surface)"
+          ],
+          "finish": "Metal frame has a polished, metallic finish, glass has a clear appearance"
+        },
+        {
+          "type": "Wall art",
+          "features": [
+            "Circular piece with a golden border and decorative patterns"
+          ],
+          "materials": [
+            "Metal (frame)",
+            "Decorative material (likely metallic or painted)"
+          ],
+          "finish": "Metal frame has a polished finish, decorative material has a textured finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark wood tones",
+          "Striped bedding in beige and white",
+          "Gold accents",
+          "Gray rug"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Fabric",
+          "Glass"
+        ],
+        "lighting": "Natural light from a window on the left, artificial light from ceiling fixtures",
+        "texture": "Carved wood, polished metal, textured fabric, smooth glass"
+      },
+      "indian_context": {
+        "regional_style": "Central Indian with traditional woodwork and metallic accents",
+        "traditional_elements": [
+          "Ornate wood carving",
+          "Metallic mirror frame",
+          "Circular wall art"
+        ],
+        "modern_adaptations": [
+          "Contemporary furnishings",
+          "Neutral color palette"
+        ],
+        "space_utilization": "Efficient use of wall space for decorative elements and mirrors",
+        "cultural_significance": "The ornate wood carving and mirror reflect traditional craftsmanship and aesthetic preferences"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bedroom showcases a blend of contemporary design with traditional Indian influences, featuring a large bed with intricate wood carving, a wall-mounted metallic-framed mirror, and a circular wall art piece. The dark wood headboard and polished metal frame of the mirror complement the neutral color palette, while the textured wood, metallic, and fabric materials add depth and richness. The space utilizes wall space efficiently for decorative elements, reflecting a modern interpretation of traditional craftsmanship.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Traditional furniture",
+        "Wood carving",
+        "Metallic accents",
+        "Neutral color palette"
+      ],
+      "budget_indicator": "Moderate, with high-quality materials like teak and polished metal",
+      "space_type": "Residential bedroom",
+      "functionality": "Primary use as a sleeping area with additional decorative and practical functions",
+      "indian_specific": "Ornate wood carving, wall-mounted mirror with metallic frame, and circular decorative wall art"
+    }
+  },
+  "cached_at": 1753449684555,
+  "cache_key": "9b3cf8e6e8308199c0613720e4102ef8"
+}

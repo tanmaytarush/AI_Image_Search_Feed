@@ -1,0 +1,120 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00681.JPG",
+  "analysis": {
+    "image_id": "img_004",
+    "ai_generated_tags": {
+      "room": "Living Room with Staircase",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Staircase with wooden railings",
+        "Marble flooring",
+        "Wardrobe with paneling",
+        "Diwan area",
+        "Decorative wall panels",
+        "Seating area"
+      ],
+      "objects": [
+        {
+          "type": "Wooden Wardrobe",
+          "features": [
+            "Panelled design",
+            "Decorative carvings"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Diwan Area Carpet",
+          "features": [
+            "Bold floral pattern"
+          ],
+          "materials": [
+            "Woven fabric"
+          ],
+          "finish": "Textured"
+        },
+        {
+          "type": "Staircase",
+          "features": [
+            "Wooden railing",
+            "Glass panel",
+            "Shelf units"
+          ],
+          "materials": [
+            "Teak wood",
+            "Glass"
+          ],
+          "finish": "Stained wood, polished glass"
+        },
+        {
+          "type": "Seating Area",
+          "features": [
+            "Sofa with tufted backrest",
+            "Coffee table"
+          ],
+          "materials": [
+            "Fabric",
+            "Wood"
+          ],
+          "finish": "Soft upholstery, polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "White",
+          "Gold",
+          "Teal"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light with recessed ceiling lights",
+        "texture": "Smooth marble, glossy wood, textured fabric"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Diwan area",
+          "Wardrobe paneling",
+          "Decorative wall panels"
+        ],
+        "modern_adaptations": [
+          "Stained glass panels",
+          "Modern lighting fixtures"
+        ],
+        "space_utilization": "Open concept design with clear delineation of zones",
+        "cultural_significance": "The space reflects Indian hospitality with the diwan area and the use of religious icons"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a contemporary Indian living room with a staircase, featuring a mix of traditional and modern elements. The space is characterized by a use of teak wood, marble flooring, and glass railings, creating a blend of elegance and comfort. The diwan area adds a cultural touch, while decorative wall panels and religious icons contribute to the space's cultural significance. The overall design is open and inviting, reflecting the Indian ethos of hospitality and family orientation.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "South Indian Design",
+        "Marble Flooring",
+        "Teak Wood",
+        "Diwan Area",
+        "Staircase Design"
+      ],
+      "budget_indicator": "Mid to high, given the use of marble, teak wood, and glass",
+      "space_type": "Residential",
+      "functionality": "Living room with a staircase leading to an upper level",
+      "indian_specific": "Diwan area, religious icons, wooden paneling"
+    }
+  },
+  "cached_at": 1753445635447,
+  "cache_key": "cd78a4659381200c4ffbe90328ebf09d"
+}

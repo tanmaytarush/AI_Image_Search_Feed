@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1034/image_cropper_1729622870684.jpg",
+  "analysis": {
+    "image_id": "img_239",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Large window with wooden frame",
+        "Teak wood furniture",
+        "Carved wooden panels",
+        "Wall-mounted TV"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood sofa set",
+          "features": [
+            "U-shaped seating arrangement",
+            "Carved wooden arms and backrest"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak wood finish"
+        },
+        {
+          "type": "Carved wooden wall panels",
+          "features": [
+            "Vertical strips",
+            "Decorative carvings"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Painted in white"
+        },
+        {
+          "type": "Teak wood coffee table",
+          "features": [
+            "Rectangular shape",
+            "Legs with carved details"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (teak wood)",
+          "White (paint on panels)",
+          "Beige (wall and floor)",
+          "Grey (wall behind furniture)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Painted wood",
+          "Concrete"
+        ],
+        "lighting": "Natural light from window, artificial light from ceiling",
+        "texture": "Smooth teak wood, painted wood texture"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra/Bengal",
+        "traditional_elements": [
+          "Carved wooden elements",
+          "Teak wood furniture"
+        ],
+        "modern_adaptations": [
+          "Integration of modern elements like TV",
+          "Minimalist approach"
+        ],
+        "space_utilization": "Efficient use of space with large window for natural light and minimal furniture",
+        "cultural_significance": "Carved wooden elements and teak wood are traditional materials in Indian homes, symbolizing history and craftsmanship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian living room with a focus on traditional elements. The living area features a U-shaped teak wood sofa set with carved details, a matching coffee table, and wall-mounted TV. The walls are adorned with vertical, carved wooden panels painted white, and the flooring is a light beige color. The large window allows ample natural light, enhancing the bright and airy feel of the space. The overall design seamlessly blends traditional craftsmanship with contemporary living.",
+    "metadata": {
+      "tags": [
+        "Teak wood",
+        "Carved furniture",
+        "Modern Indian design",
+        "Natural wood finish",
+        "Minimalist living room"
+      ],
+      "budget_indicator": "Moderate to high, given the use of teak wood and other premium materials",
+      "space_type": "Residential living room",
+      "functionality": "Primary purpose is entertainment and relaxation, with space for social gatherings",
+      "indian_specific": "Use of teak wood and carved elements"
+    }
+  },
+  "cached_at": 1753450341978,
+  "cache_key": "e1f4471660905b6f17dfc6f567711f6b"
+}

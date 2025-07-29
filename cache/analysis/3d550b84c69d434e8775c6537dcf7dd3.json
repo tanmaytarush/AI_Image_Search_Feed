@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1365/image_cropper_1729749111621.jpg",
+  "analysis": {
+    "image_id": "img_308",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Round wooden stool",
+        "Black wall paneling",
+        "Wooden shelves"
+      ],
+      "objects": [
+        {
+          "type": "Round wooden stool",
+          "features": [
+            "Carved wooden legs",
+            "Simple geometric pattern on top"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Black wall paneling",
+          "features": [
+            "Smooth surface",
+            "Contrast with furniture"
+          ],
+          "materials": [
+            "Painted wood or similar material"
+          ],
+          "finish": "Flat black finish"
+        },
+        {
+          "type": "Wooden shelves",
+          "features": [
+            "Simple design",
+            "Integrated into wall paneling"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Same as the stool"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black",
+          "Natural wood",
+          "Neutral wall"
+        ],
+        "materials": [
+          "Wood",
+          "Painted wood"
+        ],
+        "lighting": "Soft ambient lighting",
+        "texture": "Smooth and natural"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra-style",
+        "traditional_elements": [
+          "Carved wooden legs on the stool"
+        ],
+        "modern_adaptations": [
+          "Contemporary black wall paneling and wooden shelves"
+        ],
+        "space_utilization": "Efficient use of vertical space with the shelves",
+        "cultural_significance": "The stool's design reflects traditional craftsmanship and regional artistry"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern interpretation of traditional Indian interior design, featuring a round wooden stool with intricately carved legs, placed in a room with black wall paneling and integrated wooden shelves. The design combines the rustic charm of handcrafted wood with contemporary space optimization techniques, symbolizing a blend of heritage and modernity. The natural wood finish and the smooth black paneling create a striking contrast, enhancing the overall aesthetic appeal of the space.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Maharashtra Style",
+          "Wooden Stool",
+          "Black Paneling",
+          "Integrated Shelves"
+        ],
+        "budget_indicator": "Moderate, with a focus on quality wood and finish",
+        "space_type": "Living room",
+        "functionality": "Aesthetic enhancement with space optimization",
+        "indian_specific": "Carved wooden stool and integrated shelves as traditional elements"
+      }
+    }
+  },
+  "cached_at": 1753460256390,
+  "cache_key": "3d550b84c69d434e8775c6537dcf7dd3"
+}

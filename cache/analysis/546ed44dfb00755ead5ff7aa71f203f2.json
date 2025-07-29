@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1371/image_cropper_A95F88ED-0A32-4178-BCFF-D437340D4E5D-9135-000009B699D731E4.jpg",
+  "analysis": {
+    "image_id": "img_270",
+    "ai_generated_tags": {
+      "room": "Bedroom with storage",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in wardrobe with sliding doors",
+        "Bunk bed",
+        "Storage compartments",
+        "Window with blinds"
+      ],
+      "objects": [
+        {
+          "type": "Bunk bed",
+          "features": [
+            "Metal frame",
+            "Slatted wooden slats",
+            "Elegant design"
+          ],
+          "materials": [
+            "Metal",
+            "Wood"
+          ],
+          "finish": "Metallic sheen, polished wood"
+        },
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Sliding glass doors",
+            "Integrated storage compartments",
+            "Minimalist design"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy glass, metallic hardware"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Glass",
+          "Metal",
+          "Wood"
+        ],
+        "lighting": "Natural light from the window, artificial light from the ceiling",
+        "texture": "Smooth surfaces with some texture from the wood"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but has touches of modern Indian design",
+        "traditional_elements": [
+          "Minimal use of traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Incorporation of modern materials and finishes"
+        ],
+        "space_utilization": "Optimizes the space with built-in storage and a bunk bed",
+        "cultural_significance": "No overt cultural or religious elements, but the design reflects a contemporary interpretation of Indian style"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.92,
+      "theme": 0.88,
+      "primary_features": 0.85,
+      "objects": 0.9,
+      "indian_context": 0.85
+    },
+    "description": "This image showcases a modern Indian-inspired bedroom with a focus on efficient space utilization and contemporary design elements. The room features a bunk bed with a metal frame and wooden slats, a built-in wardrobe with sliding glass doors, and storage compartments. The design includes a minimalist aesthetic with smooth surfaces and a neutral color palette, reflecting a modern interpretation of Indian design. The room exudes a sense of practicality and functional beauty, making efficient use of the available space.",
+    "metadata": {
+      "tags": [
+        "Bedroom",
+        "Modern Indian",
+        "Built-in wardrobe",
+        "Bunk bed",
+        "Storage optimization"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Contemporary interpretation of Indian design elements"
+    }
+  },
+  "cached_at": 1753459825281,
+  "cache_key": "546ed44dfb00755ead5ff7aa71f203f2"
+}

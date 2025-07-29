@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/119/FirebasePopup%20%28Updated%29.png",
+  "analysis": {
+    "image_id": "img_332",
+    "ai_generated_tags": {
+      "room": "Not applicable (image is a promotional graphic)",
+      "theme": "Modern Indian Interior Design",
+      "primary_features": [
+        "Promotional text",
+        "Smartphone display",
+        "Interior room scene"
+      ],
+      "objects": [
+        {
+          "type": "Smartphone",
+          "features": [
+            "Displaying promotional text",
+            "Showcase of a digital profile creation"
+          ],
+          "materials": [
+            "Glass screen",
+            "Metal frame"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Interior room scene",
+          "features": [
+            "Lobby or reception area design",
+            "Seating arrangement"
+          ],
+          "materials": [
+            "Carpet",
+            "Wooden furniture",
+            "Curtains"
+          ],
+          "finish": "Polished and elegant"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "Yellow",
+          "Black",
+          "White"
+        ],
+        "materials": [
+          "Glass",
+          "Metal",
+          "Wood",
+          "Carpet"
+        ],
+        "lighting": "Bright and clear lighting",
+        "texture": "Smooth surfaces with some soft textures (carpet)"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable (image is a promotional graphic)",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of digital elements with traditional design"
+        ],
+        "space_utilization": "Not applicable (image is a promotional graphic)",
+        "cultural_significance": "Promotes digital identity creation, aligning with modern Indian lifestyle trends"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.8,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.8
+    },
+    "description": "The image is a promotional graphic for digital profile creation, showcasing a modern Indian interior design setting with a smartphone display and a well-lit interior room. The design incorporates contemporary elements with a hint of traditional Indian aesthetics, such as the warm color palette and elegant furniture layout.",
+    "metadata": {
+      "tags": [
+        "Digital Profile Creation",
+        "Modern Indian Design",
+        "Interior Design",
+        "Promotional Graphic"
+      ],
+      "budget_indicator": "Mid-range (mid-end materials and finishes)",
+      "space_type": "Not applicable (image is a promotional graphic)",
+      "functionality": "Focus on digital identity creation",
+      "indian_specific": "Modern interpretation of Indian design elements"
+    }
+  },
+  "cached_at": 1753460549342,
+  "cache_key": "28588c722f7aa3e0e256126b40bb7d54"
+}

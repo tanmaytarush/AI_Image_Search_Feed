@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/238/image_cropper_1727104388157.jpg",
+  "analysis": {
+    "image_id": "img_356",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in storage cabinets",
+        "Undermount sink",
+        "Lighting fixture"
+      ],
+      "objects": [
+        {
+          "type": "Built-in storage cabinet",
+          "features": [
+            "Circular knobs",
+            "Wooden finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wooden finish"
+        },
+        {
+          "type": "Undermount sink",
+          "features": [
+            "Modern design",
+            "Integrated with countertop"
+          ],
+          "materials": [
+            "Granite"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Modern style",
+            "Flush mount"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Teak brown cabinets",
+          "Silver sink",
+          "Dark countertop"
+        ],
+        "materials": [
+          "Teak wood",
+          "Granite",
+          "Metal"
+        ],
+        "lighting": "Ambient light from ceiling fixture",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Westernized Indian",
+        "traditional_elements": [
+          "Built-in cabinets"
+        ],
+        "modern_adaptations": [
+          "Undermount sink, modern lighting"
+        ],
+        "space_utilization": "Efficient use of wall space with built-in storage",
+        "cultural_significance": "Modern interpretation of traditional built-in cabinets for storage"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian kitchen with a focus on functionality and contemporary design. Built-in cabinets in teak wood provide ample storage, while an undermount sink integrated with a granite countertop contributes to the sleek, practical look. The space is illuminated by a glossy, flush-mounted ceiling light, enhancing the clean and minimalist aesthetic. This kitchen exemplifies a blend of traditional storage solutions with modern design elements, reflecting a contemporary Indian approach to kitchen design.",
+      "metadata": {
+        "tags": [
+          "Indian kitchen",
+          "Modern Indian design",
+          "Teak",
+          "Granite countertop",
+          "Built-in cabinets"
+        ],
+        "budget_indicator": "Moderate, given the use of materials like teak and granite",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is storage and utility",
+        "indian_specific": "Use of teak wood for built-in cabinets"
+      }
+    }
+  },
+  "cached_at": 1753460838909,
+  "cache_key": "f99df0448a3717614a6a1308904b28ec"
+}

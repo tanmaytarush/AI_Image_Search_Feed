@@ -3,72 +3,73 @@
   "analysis": {
     "image_id": "img_002",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern",
+      "room": "Prayer room/shrine",
+      "theme": "Modern minimalist with Indian influences",
       "primary_features": [
-        "Marble Tile",
-        "Wooden Framing"
+        "Marble paneling",
+        "Wooden frame",
+        "Recessed lighting"
       ],
       "objects": [
         {
-          "type": "Wall Panel",
+          "type": "Marble panel",
           "features": [
-            "Marble Tiles",
-            "Lighting"
+            "Smooth surface with natural pattern",
+            "Beige and brown tones"
           ],
           "materials": [
-            "Marble Tile",
-            "Wood"
+            "Marble"
           ],
-          "finish": "Smooth, Glossy"
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Beige",
           "Brown",
-          "White"
+          "Dark brown"
         ],
         "materials": [
           "Marble",
           "Wood"
         ],
-        "lighting": "Undermount Light",
-        "texture": "Smooth, Polished"
+        "lighting": "Recessed lighting highlighting the marble panel",
+        "texture": "Smooth marble texture on the panel"
       },
       "indian_context": {
-        "regional_style": "Nehru",
+        "regional_style": "Not strongly regional",
         "traditional_elements": [
-          "Minimalistic Design"
+          "Marble paneling"
         ],
         "modern_adaptations": [
-          "Glossy Finish"
+          "Simple, modern design with traditional material"
         ],
-        "space_utilization": "Efficient",
-        "cultural_significance": "Modern Indian Interior Design"
+        "space_utilization": "Minimalistic, focused on the marble panel as the central feature",
+        "cultural_significance": "The marble panel serves a cultural and spiritual purpose, often used in Indian homes to honor deities"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.85
+      },
+      "description": "The image depicts a modern minimalist prayer room with a traditional Indian element. The focal point is a recessed marble panel framed by dark wood, illuminated by recessed lighting. The smooth marble texture and warm color palette are traditional Indian design elements, while the simple design and lighting are contemporary. The space is organized to emphasize the cultural and spiritual significance of the marble panel.",
+      "metadata": {
+        "tags": [
+          "Prayer room",
+          "Indian design",
+          "Marble panel",
+          "Modern minimalist",
+          "Cultural significance"
+        ],
+        "budget_indicator": "Moderate, as marble and wood are quality materials often used in Indian interiors",
+        "space_type": "Residential",
+        "functionality": "Spiritual or religious purpose, likely for prayer or meditation",
+        "indian_specific": "Marble paneling as a traditional element in Indian interiors"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image showcases a modern interpretation of a bathroom wall panel design, featuring a sleek marble tile backdrop with a wooden frame. The marble tiles are smooth and glossy, with a beige and brown color palette, and are illuminated by undermount lighting, creating a warm and inviting ambiance. The wood framing adds a natural touch, enhancing the overall aesthetic. The design is sharp and contemporary, reflecting modern Indian interior design trends.",
-    "metadata": {
-      "tags": [
-        "Modern Bathroom",
-        "Marble Tiles",
-        "Wooden Frame",
-        "Interior Design"
-      ],
-      "budget_indicator": "Mid-Range",
-      "space_type": "Bathroom",
-      "functionality": "Aesthetic",
-      "indian_specific": "Modern Indian Interior Design"
     }
   },
-  "cached_at": 1753179235536,
+  "cached_at": 1753445584351,
   "cache_key": "b94fbad1fd6430b46e30a8b7f175fa92"
 }

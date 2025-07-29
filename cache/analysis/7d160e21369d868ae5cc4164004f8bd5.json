@@ -1,0 +1,80 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-06-13%20at%2016.07.32%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_429",
+    "ai_generated_tags": {
+      "room": "closet",
+      "theme": "contemporary",
+      "primary_features": [
+        "wooden cabinets",
+        "sliding doors",
+        "mirrored panels",
+        "lighting fixtures"
+      ],
+      "objects": [
+        {
+          "type": "cabinet",
+          "features": [
+            "wooden finish",
+            "sliding doors",
+            "mirrored panels"
+          ],
+          "materials": [
+            "wood",
+            "glass"
+          ],
+          "finish": "high-gloss finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "brown",
+          "white",
+          "black",
+          "red"
+        ],
+        "materials": [
+          "wood",
+          "glass",
+          "metal"
+        ],
+        "lighting": "overhead lights",
+        "texture": "smooth"
+      },
+      "indian_context": {
+        "regional_style": "not identifiable",
+        "traditional_elements": [
+          "wooden finish"
+        ],
+        "modern_adaptations": [
+          "sliding doors, mirrored panels"
+        ],
+        "space_utilization": "efficient use of space within a closet",
+        "cultural_significance": "wooden finishes hold cultural significance in Indian design, often associated with durability and warmth"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.8
+      },
+      "description": "The image depicts a modern closet with wooden cabinets featuring sliding doors and mirrored panels. The design incorporates a contemporary aesthetic with a focus on functionality. The use of wood as a primary material is reminiscent of traditional Indian design, where wood is often used for its durability and aesthetic appeal. The presence of mirrors adds a modern touch, while the overall design is clean and efficient in terms of space utilization.",
+      "metadata": {
+        "tags": [
+          "modern closet",
+          "wooden cabinets",
+          "functional design",
+          "mirror panels",
+          "contemporary style"
+        ],
+        "budget_indicator": "moderate",
+        "space_type": "residential closet",
+        "functionality": "personal storage and organization",
+        "indian_specific": "wooden finish"
+      }
+    }
+  },
+  "cached_at": 1753461772070,
+  "cache_key": "7d160e21369d868ae5cc4164004f8bd5"
+}

@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/659/image_cropper_1729169558083.jpg",
+  "analysis": {
+    "image_id": "img_486",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Indian Interior",
+      "primary_features": [
+        "Wooden cabinet",
+        "Mirror on wall",
+        "Bathtub"
+      ],
+      "objects": [
+        {
+          "type": "Wooden cabinet",
+          "features": [
+            "Horizontal stripes",
+            "Rounded edges",
+            "Storage compartments"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Satin finish"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Rectangular shape",
+            "Beveled edges"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear"
+        },
+        {
+          "type": "Bathtub",
+          "features": [
+            "White ceramic",
+            "Corner design",
+            "Accessible through wooden cabinet"
+          ],
+          "materials": [
+            "Ceramic",
+            "Metallic fixture"
+          ],
+          "finish": "Glazed ceramic, metallic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teal",
+          "White",
+          "Brown",
+          "Gray"
+        ],
+        "materials": [
+          "Teak wood",
+          "Glass",
+          "Ceramic",
+          "Metallic"
+        ],
+        "lighting": "Artificial ceiling lights",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Wooden cabinet"
+        ],
+        "modern_adaptations": [
+          "Combination of traditional and modern design"
+        ],
+        "space_utilization": "Optimizing the space with a corner bathtub and storage cabinet",
+        "cultural_significance": "Use of teak wood in traditional Indian interiors, indicating durability and cultural aesthetic value"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The bathroom showcases a modern interpretation of traditional Indian design elements, with a wooden cabinet that retains the essence of teak wood, alongside a corner bathtub and a wall-mounted mirror. The use of teal and white creates a fresh and clean aesthetic, while the teak wood adds warmth and cultural relevance. The lighting is artificial, typical for indoor spaces.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Interior",
+          "Wooden Cabinet",
+          "Teal Wall",
+          "Corner Bathtub",
+          "Teak Wood"
+        ],
+        "budget_indicator": "Moderate, with the use of teak wood and ceramic materials",
+        "space_type": "Residential Bathroom",
+        "functionality": "Primary purpose is bathing and personal hygiene",
+        "indian_specific": "Teak wood, wooden cabinet design"
+      }
+    }
+  },
+  "cached_at": 1753462571542,
+  "cache_key": "74d02f68754ed4aaaab4f684c621d746"
+}

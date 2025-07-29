@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1281/image_cropper_1729702294726.jpg",
+  "analysis": {
+    "image_id": "img_197",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Carpet",
+        "Furniture",
+        "Wall decor"
+      ],
+      "objects": [
+        {
+          "type": "Carpet",
+          "features": [
+            "Patterned",
+            "Colorful",
+            "Textured"
+          ],
+          "materials": [
+            "Polyester"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Furniture",
+          "features": [
+            "Contemporary design",
+            "Sleek",
+            "Wooden"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Wall decor",
+          "features": [
+            "Painted panels",
+            "Geometric designs",
+            "Textured"
+          ],
+          "materials": [
+            "Paint",
+            "Wood"
+          ],
+          "finish": "Satin"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Paint"
+        ],
+        "lighting": "Natural light from windows",
+        "texture": "Variety of textures including smooth, glossy, and textured surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Carpet",
+          "Wooden furniture"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with traditional materials"
+        ],
+        "space_utilization": "Open and spacious with minimal furniture placement",
+        "cultural_significance": "The use of green symbolizes good fortune and prosperity in Indian culture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian living room features a combination of traditional elements and contemporary design. The use of a patterned carpet and wooden furniture with glossy finishes is typical of Northern Indian design. The green and white color palette, along with the geometric wall decor, adds a fresh and vibrant touch to the space. The open layout and minimal furniture placement highlight a modern interpretation of traditional space utilization.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Northern Indian",
+        "Contemporary design",
+        "Carpet",
+        "Wooden furniture"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Living space",
+      "indian_specific": "Carpet, Wooden furniture, Green color"
+    }
+  },
+  "cached_at": 1753449863178,
+  "cache_key": "a480906fee19674d9df6ea3106bff532"
+}

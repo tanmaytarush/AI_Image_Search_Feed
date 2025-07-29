@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/506/image_cropper_1729051068025.jpg",
+  "analysis": {
+    "image_id": "img_196",
+    "ai_generated_tags": {
+      "room": "Living Space",
+      "theme": "Modern Indian Interiors",
+      "primary_features": [
+        "Wall Decor",
+        "Lighting fixture",
+        "Seating Area"
+      ],
+      "objects": [
+        {
+          "type": "Seating Area",
+          "features": [
+            "Comfortable cushions",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood, Fabric"
+          ],
+          "finish": "Polished wood finish, soft fabric upholstery"
+        },
+        {
+          "type": "Wall Decor",
+          "features": [
+            "Carved wooden panel",
+            "Hanging mirror"
+          ],
+          "materials": [
+            "Wood, Metal"
+          ],
+          "finish": "Carved wood finish, shiny metal"
+        },
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Modern design",
+            "Glass shade"
+          ],
+          "materials": [
+            "Metal, Glass"
+          ],
+          "finish": "Shiny metal, clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Wood brown, Cream, White, Silver"
+        ],
+        "materials": [
+          "Wood, Fabric, Metal, Glass"
+        ],
+        "lighting": "Soft ambient lighting, focused light on the seating area",
+        "texture": "Smooth wood, soft fabric, shiny metal, glass"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional",
+        "traditional_elements": [
+          "Carved wooden panel"
+        ],
+        "modern_adaptations": [
+          "Integrated modern design elements"
+        ],
+        "space_utilization": "Optimized seating and decorative space",
+        "cultural_significance": "Reflects modern interpretation of traditional Indian design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space showcases a modern interpretation of traditional Indian design with contemporary elements. A carved wooden panel serves as a focal point, complemented by a comfortable seating area with polished wood and soft fabric. The warm wood tones are contrasted with metallic and glass elements, creating a balanced aesthetic. Lighting fixtures with a glass shade enhance the room's ambiance, while the overall design reflects cultural relevance and modern adaptations.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Interiors",
+          "Carved Wood",
+          "Seating Area",
+          "Wall Decor",
+          "Lighting"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Living Room",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "Carved wood panel"
+      }
+    }
+  },
+  "cached_at": 1753449852125,
+  "cache_key": "a1411a779d6bbff12a2e912f0a9a927d"
+}

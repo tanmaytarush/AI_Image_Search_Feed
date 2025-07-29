@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/260/image_cropper_1727316622222.jpg",
+  "analysis": {
+    "image_id": "img_488",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "White cabinets",
+        "Wooden flooring",
+        "Built-in shelves"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "Rectangular shape",
+            "White color",
+            "Built-in design"
+          ],
+          "materials": [
+            "Furniture finish, likely MDF"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Flooring",
+          "features": [
+            "Wooden material",
+            "Brown tone"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural, polished finish"
+        },
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Integrated with cabinets",
+            "Wooden design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural, polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Furniture finish"
+        ],
+        "lighting": "Indirect, overhead lighting",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Built-in shelves"
+        ],
+        "modern_adaptations": [
+          "Smooth furniture finish, modern lighting"
+        ],
+        "space_utilization": "Efficient storage solutions",
+        "cultural_significance": "Functionality and practicality are key, reflecting a modern approach to Indian interior design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian kitchen with white cabinetry and built-in shelves, reflecting a contemporary take on traditional Indian design elements. The use of wood flooring and smooth finishes on the cabinets creates a clean and functional space that is both aesthetically pleasing and practical.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Kitchen",
+        "White cabinets",
+        "Wooden flooring",
+        "Built-in shelves"
+      ],
+      "budget_indicator": "Moderate, as indicated by the use of MDF and wooden materials",
+      "space_type": "Residential kitchen",
+      "functionality": "Storage and cooking preparation",
+      "indian_specific": "Built-in shelves"
+    }
+  },
+  "cached_at": 1753462593910,
+  "cache_key": "749bf1ac36961afedad219659621253d"
+}

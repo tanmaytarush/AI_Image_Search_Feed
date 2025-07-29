@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/495/image_cropper_1728988289144.jpg",
+  "analysis": {
+    "image_id": "img_454",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Sofa with storage underneath",
+        "Large window with glass panel",
+        "Minimalistic decor"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Light pink upholstery",
+            "Storage underneath"
+          ],
+          "materials": [
+            "Fabric",
+            "Wood"
+          ],
+          "finish": "Smooth finish"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "Large glass panel",
+            "White frame"
+          ],
+          "materials": [
+            "Glass",
+            "PVC"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light pink",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Fabric",
+          "Wood",
+          "Glass"
+        ],
+        "lighting": "Natural light coming through the window",
+        "texture": "Smooth fabric and glossy glass"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra or Delhi",
+        "traditional_elements": [
+          "No visible traditional elements"
+        ],
+        "modern_adaptations": [
+          "Modernization of traditional storage solutions"
+        ],
+        "space_utilization": "Maximization of storage under the sofa",
+        "cultural_significance": "Sofa is a central piece in Indian homes, often used for both seating and storage"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.87
+      },
+      "description": "The image depicts a modern Indian living room with a light pink sofa that includes storage underneath, positioned in front of a large glass window. The room features minimalistic decor with white walls and a dark wooden floor, adhering to a clean and contemporary aesthetic while maintaining a touch of traditional Indian design through the use of storage solutions. The natural light from the large window creates a bright and airy feel.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Living Room",
+          "Storage Solutions",
+          "Minimalistic Design"
+        ],
+        "budget_indicator": "Moderate, with fabric for the sofa and glass for the window",
+        "space_type": "Residential living area",
+        "functionality": "Primary purpose is to serve as a comfortable seating area with additional storage",
+        "indian_specific": "Modern interpretation of traditional storage furniture"
+      }
+    }
+  },
+  "cached_at": 1753462227783,
+  "cache_key": "6d9bff500701b628f5576fff7589d724"
+}

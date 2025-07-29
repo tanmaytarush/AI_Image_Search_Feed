@@ -1,0 +1,67 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/648/image_cropper_1729157585493.jpg",
+  "analysis": {
+    "image_id": "img_441",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Open shelving units"
+      ],
+      "objects": [
+        {
+          "type": "Shelving unit",
+          "features": [
+            "White painted, floating, open shelves with wooden trim"
+          ],
+          "materials": [
+            "Painted wood, wood for trim"
+          ],
+          "finish": "Matte and glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, brown, gray"
+        ],
+        "materials": [
+          "Wood, painted wood, metal"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Mumbai/Central Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Combination of traditional and modern design elements"
+        ],
+        "space_utilization": "Efficient use of vertical space with open shelving",
+        "cultural_significance": "Modern interpretation of Indian design aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern kitchen with minimalist white shelving units featuring wooden trim. The design reflects a contemporary Indian aesthetic with a focus on functionality and aesthetic appeal. The open shelving maximizes storage space while maintaining a clean and organized look. The use of white and wood tones is characteristic of modern Indian interior design, which often blends traditional elements with modern styling.",
+      "metadata": {
+        "tags": [
+          "Indian kitchen",
+          "Modern Indian",
+          "Minimalist shelving",
+          "White and wood design",
+          "Efficient storage"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential kitchen",
+        "functionality": "Storage and food preparation",
+        "indian_specific": "Minimalistic shelving design with a modern twist"
+      }
+    }
+  },
+  "cached_at": 1753462097573,
+  "cache_key": "b1af7bccef92a594b487a3d406688c8b"
+}

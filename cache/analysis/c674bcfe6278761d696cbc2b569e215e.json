@@ -1,0 +1,82 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/297/image_cropper_1729172645955.jpg",
+  "analysis": {
+    "image_id": "img_361",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Wooden doors",
+        "Background paneling",
+        "Light switch"
+      ],
+      "objects": [
+        {
+          "type": "Door",
+          "features": [
+            "Wooden with a simple design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Background paneling",
+          "features": [
+            "Horizontal stripes"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light blue",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "Paint"
+        ],
+        "lighting": "Natural light from the side",
+        "texture": "Smooth and clean"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design elements"
+        ],
+        "space_utilization": "Efficient use of space with functional objects",
+        "cultural_significance": "Not applicable"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a minimalist entryway with a wooden door and light switch paneling. The color scheme is simple with white and light blue tones on the paneling and brown on the door. The design is functional and lacks traditional Indian elements, focusing on clean lines and natural materials.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Entryway",
+          "Wooden door",
+          "Minimalist design",
+          "Clean lines"
+        ],
+        "budget_indicator": "Moderate, considering the use of natural wood and painted elements",
+        "space_type": "Residential",
+        "functionality": "Entrance to the home",
+        "indian_specific": "No Indian-specific design features are present"
+      }
+    }
+  },
+  "cached_at": 1753460899572,
+  "cache_key": "c674bcfe6278761d696cbc2b569e215e"
+}

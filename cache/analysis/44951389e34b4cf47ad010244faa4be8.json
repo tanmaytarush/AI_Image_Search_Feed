@@ -1,0 +1,115 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/799/image_cropper_1729260149610.jpg",
+  "analysis": {
+    "image_id": "img_346",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modular Kitchen",
+      "primary_features": [
+        "L-shaped counter",
+        "black marble countertops",
+        "white tiled backsplash",
+        "modular cabinets",
+        "window with jalousie"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "modern design",
+            "white color",
+            "shaker style doors"
+          ],
+          "materials": [
+            "particle board",
+            "MDF"
+          ],
+          "finish": "glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "L-shaped",
+            "black marble"
+          ],
+          "materials": [
+            "marble"
+          ],
+          "finish": "polished"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "white tiles",
+            "geometric pattern"
+          ],
+          "materials": [
+            "ceramic tiles"
+          ],
+          "finish": "smooth"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "wooden frame",
+            "jalousie style"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "black",
+          "white",
+          "brown"
+        ],
+        "materials": [
+          "marble",
+          "ceramic tiles",
+          "wood",
+          "particle board",
+          "MDF"
+        ],
+        "lighting": "natural light from window",
+        "texture": "smooth, glossy"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "use of L-shaped counter",
+          "modular design"
+        ],
+        "space_utilization": "efficient use of space with L-shaped counter",
+        "cultural_significance": "No cultural elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.9,
+        "indian_context": 0.75
+      },
+      "description": "The image depicts a modern kitchen with a L-shaped counter, white-tiled backsplash, and L-shaped cabinetry. The countertop is made of black marble, and the cabinets are shaker-style with glossy white finishes. The window features a wooden frame with jalousie blinds. The space appears to have no distinctly Indian design elements, focusing on modern aesthetics.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "L-shaped",
+          "Modern Kitchen",
+          "White Cabinets",
+          "Black Marble Countertop",
+          "Jalousie Window"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary use for cooking and food preparation",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1753460697957,
+  "cache_key": "44951389e34b4cf47ad010244faa4be8"
+}

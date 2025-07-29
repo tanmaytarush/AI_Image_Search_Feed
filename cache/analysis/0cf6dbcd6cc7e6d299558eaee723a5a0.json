@@ -4,64 +4,57 @@
     "image_id": "img_032",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Contemporary with Indian Influences",
+      "theme": "Contemporary",
       "primary_features": [
         "Built-in wardrobe",
-        "Study desk with shelves",
-        "Rounded shelves on the wall",
-        "Bed with patterned bedding",
-        "Decorative elements such as a teddy bear and framed artwork"
+        "Study desk",
+        "Bed",
+        "Decorative shelves"
       ],
       "objects": [
         {
-          "type": "Built-in wardrobe",
+          "type": "Wardrobe",
           "features": [
-            "Pastel green and pink doors with circular gold accents",
-            "Multiple storage compartments"
+            "Double door with circular accents",
+            "Shelving units for storage"
           ],
           "materials": [
-            "Wooden frame",
-            "Glass or frosted panels for the doors"
+            "MDF, glass, metallic trim"
           ],
-          "finish": "Smooth and glossy surface finish"
+          "finish": "Satin finish with light pastel colors"
         },
         {
-          "type": "Study desk with shelves",
+          "type": "Study desk",
           "features": [
-            "Compact size with integrated shelves",
-            "Shelving for books and decorative items"
+            "Integrated with bookshelf",
+            "Minimalist design"
           ],
           "materials": [
-            "Wooden surface",
-            "Metal frame"
+            "MDF, glass top"
           ],
-          "finish": "Smooth and polished surface"
+          "finish": "Glossy finish with pastel color"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light green, pink, white, grey, beige, dark brown, black, blue"
+          "Light green, pastel pink, white, beige"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Glass or frosted panels",
-          "Fabric",
-          "Paper"
+          "MDF, glass, metal, wood"
         ],
-        "lighting": "Ambient lighting with no direct visible light sources, suggesting a soft, diffused light",
-        "texture": "Smooth surfaces with some textured elements on the bedding and wall decor"
+        "lighting": "Natural light with soft indoor lighting",
+        "texture": "Smooth surfaces with some textured patterns"
       },
       "indian_context": {
-        "regional_style": "No specific regional style evident, but some elements such as the circular gold accents suggest a blend",
+        "regional_style": "No specific regional influence visible",
         "traditional_elements": [
-          "Circular gold accents on wardrobe doors"
+          "No traditional Indian elements found"
         ],
         "modern_adaptations": [
-          "Contemporary furniture style with a mix of traditional and modern elements"
+          "Contemporary adaptations of traditional Indian design"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture, maximizing storage and functionality",
-        "cultural_significance": "The circular gold accents may have traditional Indian significance, possibly symbolizing a protective or decorative motif"
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "No culturally significant elements visible"
       }
     },
     "confidence_scores": {
@@ -69,25 +62,23 @@
       "theme": 0.87,
       "primary_features": 0.89,
       "objects": 0.92,
-      "indian_context": 0.9
+      "indian_context": 0.3
     },
-    "description": "This bedroom interior showcases a blend of contemporary design elements with some traditional Indian touches, such as the circular gold accents on the wardrobe doors. The room features a built-in wardrobe with pastel green and pink doors, a compact study desk with shelves, and a bed with patterned bedding. The space is efficiently organized, maximizing storage and functionality. The use of pastel colors and clean lines gives the room a modern feel, while the gold accents add a decorative and culturally significant element. The overall design reflects a fusion of contemporary style with subtle traditional influences, creating a modern and inviting space.",
+    "description": "This image depicts a contemporary bedroom with efficient space utilization through built-in furniture. The room features a study desk with integrated shelves, a modern wardrobe with circular accents, and a neatly arranged bed with a patterned bedspread. The color palette is soft with pastel green and pink, complemented by white and beige, creating a calm and inviting atmosphere.",
     "metadata": {
       "tags": [
-        "Bedroom",
-        "Contemporary",
-        "Indian Influences",
-        "Built-in Furniture",
-        "Pastel Colors",
-        "Circular Accents",
-        "Efficient Storage"
+        "Contemporary bedroom",
+        "Efficient space utilization",
+        "Built-in furniture",
+        "Pastel colors",
+        "Modern wardrobe"
       ],
-      "budget_indicator": "Moderate, with use of pastel colors and smooth finishes suggesting a middle-range budget",
+      "budget_indicator": "Mid-range",
       "space_type": "Residential bedroom",
-      "functionality": "Primary purpose is for sleeping and studying, with additional storage provided by the built-in furniture",
-      "indian_specific": "Circular gold accents on the wardrobe doors"
+      "functionality": "Sleeping and studying",
+      "indian_specific": "No traditional Indian elements, but contemporary adaptations of Indian design"
     }
   },
-  "cached_at": 1753181124968,
+  "cached_at": 1753446421158,
   "cache_key": "0cf6dbcd6cc7e6d299558eaee723a5a0"
 }

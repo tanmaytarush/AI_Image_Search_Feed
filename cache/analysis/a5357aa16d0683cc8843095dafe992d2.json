@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1366/image_cropper_1729749246873.jpg",
+  "analysis": {
+    "image_id": "img_345",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian Interior",
+      "primary_features": [
+        "Large mirror",
+        "Carved wooden paneling",
+        "Television unit with shelves"
+      ],
+      "objects": [
+        {
+          "type": "Carved Wooden Panel",
+          "features": [
+            "Geometric patterns",
+            "Polished finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "High gloss, shiny"
+        },
+        {
+          "type": "Television Unit",
+          "features": [
+            "Modern design",
+            "Glass shelves",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Teak wood",
+            "Glass"
+          ],
+          "finish": "Natural wood tone, clear glass"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Large rectangular shape",
+            "Frameless"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black",
+          "White",
+          "Brown",
+          "Orange"
+        ],
+        "materials": [
+          "Teak wood",
+          "Glass",
+          "Metal",
+          "Concrete"
+        ],
+        "lighting": "Natural light from windows, soft ambient light from room",
+        "texture": "Smooth wooden textures, reflective glass, smooth metal"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Carved wooden paneling",
+          "Teak wood usage"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design",
+          "Integration of modern materials"
+        ],
+        "space_utilization": "Efficient use of space with storage elements in the television unit",
+        "cultural_significance": "The use of teak wood and carved elements reflects the regional craftsmanship and a desire for aesthetic appeal"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This living room features a contemporary Indian interior design, characterized by a large mirror, a carved wooden panel, and a modern television unit with glass shelves. The use of teak wood and traditional craftsmanship elements like the paneling reflect regional influences, while the modern design of the furniture and materials like glass and metal showcase a modern adaptation of traditional aesthetics. The space is well-lit with natural light and has efficient storage solutions.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian Interior",
+        "Maharashtra Style",
+        "Teak Wood",
+        "Carved Paneling",
+        "Living Room Design"
+      ],
+      "budget_indicator": "Moderate, with usage of high-quality materials and modern design elements",
+      "space_type": "Residential Living Room",
+      "functionality": "Primary purpose is relaxation and entertainment, with a focus on modern comfort and traditional aesthetics",
+      "indian_specific": "Carved wooden paneling, use of teak wood, and modern interpretations of traditional elements"
+    }
+  },
+  "cached_at": 1753460683648,
+  "cache_key": "a5357aa16d0683cc8843095dafe992d2"
+}

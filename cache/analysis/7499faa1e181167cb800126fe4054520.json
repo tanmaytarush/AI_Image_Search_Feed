@@ -3,41 +3,47 @@
   "analysis": {
     "image_id": "img_037",
     "ai_generated_tags": {
-      "room": "bedroom",
-      "theme": "contemporary",
+      "room": "Bedroom",
+      "theme": "Modern",
       "primary_features": [
-        "fitted wardrobe system"
+        "Wall-mounted wardrobe with built-in shelves and drawers",
+        "Gray and white color scheme",
+        "Minimalist design"
       ],
       "objects": [
         {
-          "type": "wardrobe",
+          "type": "Wardrobe",
           "features": [
-            "fitted with sliding doors, multiple compartments, and drawers"
+            "Wall-mounted with sliding doors",
+            "Integrated shelves and drawers"
           ],
           "materials": [
-            "wood, melamine"
+            "MDF with laminate finish"
           ],
-          "finish": "smooth, glossy finish"
+          "finish": "Smooth and glossy laminate finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white, gray, brown"
+          "Gray",
+          "White",
+          "Black"
         ],
         "materials": [
-          "wood, melamine, glass"
+          "MDF",
+          "Laminate"
         ],
-        "lighting": "even lighting, no visible light sources",
-        "texture": "smooth surfaces, glossy finish"
+        "lighting": "Natural light from the window",
+        "texture": "Smooth and glossy surface"
       },
       "indian_context": {
-        "regional_style": "not applicable",
+        "regional_style": "Modern",
         "traditional_elements": [],
         "modern_adaptations": [
-          "contemporary design with Indian influences"
+          "Integration of traditional storage solutions with modern aesthetics"
         ],
-        "space_utilization": "efficient use of space, maximizing storage",
-        "cultural_significance": "functional and practical, no cultural elements present"
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Simplistic and functional design, reflecting contemporary Indian interior trends"
       }
     },
     "confidence_scores": {
@@ -47,21 +53,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image depicts a contemporary designed bedroom with a fitted wardrobe system. The wardrobe features sliding doors, multiple compartments, and drawers, primarily constructed with wood and melamine. The color palette consists of white, gray, and brown, creating a modern and minimalist look. The smooth, glossy finish of the materials adds a touch of elegance to the space. The contemporary design subtly incorporates Indian influences, such as the choice of wood and the overall functionality, which is a common practice in modern Indian interior design.",
+    "description": "The image shows a modern bedroom with a wall-mounted wardrobe featuring sliding doors and integrated shelves and drawers. The color scheme is a combination of gray and white, creating a clean and minimalistic look. The wardrobe is made of MDF with a glossy laminate finish. There are no traditional Indian elements present, as the design is contemporary and functional.",
     "metadata": {
       "tags": [
-        "bedroom",
-        "wardrobe",
-        "contemporary design",
-        "Indian contemporary",
-        "functional storage"
+        "Modern Bedroom",
+        "Wall-Mounted Wardrobe",
+        "Gray and White Scheme",
+        "Glossy Finish",
+        "Minimalist Design"
       ],
-      "budget_indicator": "moderate",
-      "space_type": "residential bedroom",
-      "functionality": "storage and organization",
-      "indian_specific": "contemporary style with Indian wood usage"
+      "budget_indicator": "Moderate",
+      "space_type": "Residential Bedroom",
+      "functionality": "Storage and organization",
+      "indian_specific": "No traditional Indian elements visible, focus on modern design"
     }
   },
-  "cached_at": 1753181142008,
+  "cached_at": 1753446534515,
   "cache_key": "7499faa1e181167cb800126fe4054520"
 }

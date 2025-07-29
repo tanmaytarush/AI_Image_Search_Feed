@@ -1,0 +1,55 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1297/image_cropper_1729697207980.jpg",
+  "analysis": {
+    "image_id": "img_180",
+    "ai_generated_tags": {
+      "room": "Not applicable",
+      "theme": "Neoclassical",
+      "primary_features": [
+        "Brown hair, facial hair, casual attire"
+      ],
+      "objects": [
+        {
+          "type": "Not applicable",
+          "features": [],
+          "materials": [],
+          "finish": "Not applicable"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "Black",
+          "White"
+        ],
+        "materials": [],
+        "lighting": "Indoor lighting, artificial",
+        "texture": "Skin texture"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Not applicable",
+        "cultural_significance": "Not applicable"
+      }
+    },
+    "confidence_scores": {
+      "room": 0,
+      "theme": 0,
+      "primary_features": 0,
+      "objects": 0,
+      "indian_context": 0
+    },
+    "description": "The image appears to be a close-up of a person's face. It does not provide any clear indication of an interior space or design elements.",
+    "metadata": {
+      "tags": [],
+      "budget_indicator": "Not applicable",
+      "space_type": "Not applicable",
+      "functionality": "Not applicable",
+      "indian_specific": ""
+    }
+  },
+  "cached_at": 1753459051787,
+  "cache_key": "ef8d20e8e95c5539d331184b5ea8d19c"
+}

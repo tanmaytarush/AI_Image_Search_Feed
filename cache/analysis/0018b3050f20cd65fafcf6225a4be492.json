@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1271/image_cropper_1729686120455.jpg",
+  "analysis": {
+    "image_id": "img_111",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Mughal-inspired",
+      "primary_features": [
+        "Wooden wardrobe with storage",
+        "Carved wooden bed",
+        "Teak wood flooring"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Embedded into the wall",
+            "Wooden finish with intricate carvings"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished and varnished"
+        },
+        {
+          "type": "Bed",
+          "features": [
+            "Carved wooden headboard",
+            "Teak wood frame"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished and varnished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teak brown",
+          "White"
+        ],
+        "materials": [
+          "Teak wood",
+          "Curtains"
+        ],
+        "lighting": "Natural light through the window",
+        "texture": "Smooth and polished finish"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Wooden bed",
+          "Wardrobe with carvings"
+        ],
+        "modern_adaptations": [
+          "Integrated wardrobe design"
+        ],
+        "space_utilization": "Efficient use of space with wardrobe embedded in the wall",
+        "cultural_significance": "Carved elements and wooden furniture symbolize craftsmanship and tradition in North Indian interiors"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This bedroom features a Mughal-inspired design with traditional elements. The space includes a wooden wardrobe integrated into the wall, showcasing intricate carvings, and a matching bed with a carved wooden headboard. The materials used, such as teak wood, are typical of North Indian interior design, emphasizing durability and traditional craftsmanship. The color palette of teak brown and white adds to the traditional aesthetic, while the natural light through the window creates a warm and inviting atmosphere.",
+      "metadata": {
+        "tags": [
+          "Mughal design",
+          "Teak wood",
+          "Carved furniture",
+          "North Indian style",
+          "Integrated wardrobe"
+        ],
+        "budget_indicator": "Mid-range, due to the use of teak wood and intricate carvings",
+        "space_type": "Residential",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Incorporation of traditional Indian carved wooden elements"
+      }
+    }
+  },
+  "cached_at": 1753448400851,
+  "cache_key": "0018b3050f20cd65fafcf6225a4be492"
+}

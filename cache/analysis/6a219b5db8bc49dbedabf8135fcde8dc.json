@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/227/image_cropper_1727029595464.jpg",
+  "analysis": {
+    "image_id": "img_489",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Modern furniture with traditional influences",
+        "Marble flooring",
+        "LED lighting"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Modern design with a metal frame",
+            "Dark wood headboard with traditional carving"
+          ],
+          "materials": [
+            "Metal, wood, leather"
+          ],
+          "finish": "Metallic sheen, polished wood, leather texture"
+        },
+        {
+          "type": "Marble Flooring",
+          "features": [
+            "Smooth, elegant surface"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Shiny"
+        },
+        {
+          "type": "Wall Mirror",
+          "features": [
+            "Large, rectangular shape with a modern frame"
+          ],
+          "materials": [
+            "Glass, metal"
+          ],
+          "finish": "Clear glass, metallic frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, black, brown, beige"
+        ],
+        "materials": [
+          "Marble, metal, glass, wood"
+        ],
+        "lighting": "Artificial lighting from LED strip integrated into the bed frame",
+        "texture": "Smooth marble, polished wood, metal sheen, glass clarity"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian with Mughal influences",
+        "traditional_elements": [
+          "Carved wooden headboard"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design, LED lighting"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Modern interpretation of traditional Mughal architecture elements, reflecting an elite aesthetic"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bedroom showcases a contemporary Indian design with elements of Mughal heritage. The modern bed features a dark wood headboard with intricate carvings, blending traditional craftsmanship with contemporary styling. The sleek white walls and clean lines of the furniture create a modern aesthetic, while the use of marble flooring and LED lighting enhances the luxurious feel. The overall design reflects a sophisticated and culturally rich environment, ideal for a residential space that combines traditional Indian design with modern comfort.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Modern Mughal",
+        "Marble Flooring",
+        "LED Lighting",
+        "Traditional Carvings"
+      ],
+      "budget_indicator": "High, due to use of marble and metal furnishings",
+      "space_type": "Residential Bedroom",
+      "functionality": "Sleeping and relaxation",
+      "indian_specific": "Carved wooden headboard, Mughal-inspired details"
+    }
+  },
+  "cached_at": 1753462601685,
+  "cache_key": "6a219b5db8bc49dbedabf8135fcde8dc"
+}

@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/690/image_cropper_1729243813946.jpg",
+  "analysis": {
+    "image_id": "img_267",
+    "ai_generated_tags": {
+      "room": "Commercial/Kitchen",
+      "theme": "Modern Industrial",
+      "primary_features": [
+        "Exposed ceiling beams",
+        "Metallic railings",
+        "Sliding doors"
+      ],
+      "objects": [
+        {
+          "type": "Metallic railings",
+          "features": [
+            "Curved design",
+            "Rustic finish"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Rusty metallic"
+        },
+        {
+          "type": "Exposed ceiling beams",
+          "features": [
+            "Wooden beams"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural, raw"
+        },
+        {
+          "type": "Sliding doors",
+          "features": [
+            "Glass panes",
+            "Metal frames"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Clear glass, metallic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Black ceiling beams",
+          "Rustic metallic"
+        ],
+        "materials": [
+          "Wood, Metal, Glass"
+        ],
+        "lighting": "Natural light from windows",
+        "texture": [
+          "Smooth glass",
+          "Rusty metal",
+          "Natural wood"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "None",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Rustic metal used in place of traditional wood"
+        ],
+        "space_utilization": "Efficient open space with minimalistic design",
+        "cultural_significance": "Modern interpretation of industrial style with no cultural elements"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.89,
+        "objects": 0.88,
+        "indian_context": 0.75
+      },
+      "description": "The interior space appears to be a modern commercial or kitchen area with an industrial design theme. It features exposed wooden ceiling beams, rusty metallic railings, and sliding glass doors with metal frames. The design is minimalistic and efficient, with a focus on industrial materials and textures.",
+      "metadata": {
+        "tags": [
+          "Modern Industrial",
+          "Exposed Ceiling Beams",
+          "Metal Railings",
+          "Sliding Doors"
+        ],
+        "budget_indicator": "Moderate, with industrial materials and finishes",
+        "space_type": "Commercial/Kitchen",
+        "functionality": "Efficient open space with minimalistic design",
+        "indian_specific": "No Indian-specific design features are present"
+      }
+    }
+  },
+  "cached_at": 1753450712445,
+  "cache_key": "e4927aa797f6cf4b8bc955711de87bf5"
+}

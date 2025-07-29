@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1097/image_cropper_1729590299206.jpg",
+  "analysis": {
+    "image_id": "img_139",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Black cabinetry",
+        "Marble countertops",
+        "Copper handles",
+        "Laminate flooring"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "Black with sleek design",
+            "Integrated handles"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Marble with veining pattern"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Flooring",
+          "features": [
+            "Laminate with wood-like texture"
+          ],
+          "materials": [
+            "Laminate"
+          ],
+          "finish": "High sheen"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Built-in microwave"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black, white, brown, beige, white"
+        ],
+        "materials": [
+          "Marble, laminate, metal"
+        ],
+        "lighting": "Indirect lighting, likely from under-cabinet lights",
+        "texture": "Smooth and glossy textures"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but with modern Indian influences",
+        "traditional_elements": [
+          "Copper handles"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and sleek design"
+        ],
+        "space_utilization": "Efficient use of space with built-in appliances and compact design",
+        "cultural_significance": "Copper handles signify cultural aesthetics and modern interpretations of traditional Indian design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian kitchen with sleek black cabinetry, polished marble countertops, and high-gloss laminate flooring. The space incorporates traditional Indian design elements through the use of copper handles, while the overall aesthetic is contemporary. The lighting is subtle, likely to minimize glare on the glossy surfaces. The kitchen is designed with efficient space utilization, featuring built-in appliances.",
+      "metadata": {
+        "tags": [
+          "Indian kitchen",
+          "Modern design",
+          "Black cabinets",
+          "Marble countertops",
+          "Copper details"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential kitchen",
+        "functionality": "Cooking and food preparation",
+        "indian_specific": "Copper handles on cabinetry"
+      }
+    }
+  },
+  "cached_at": 1753451788713,
+  "cache_key": "1cbcbed58464b1c038b5494f8dd93a52"
+}

@@ -4,73 +4,71 @@
     "image_id": "img_003",
     "ai_generated_tags": {
       "room": "Foyer",
-      "theme": "Contemporary",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Lattice ceiling panels",
-        "Wooden slats on walls",
-        "Embedded lighting"
+        "Decorative ceiling panels",
+        "Wooden paneling on walls",
+        "Modern lighting"
       ],
       "objects": [
         {
-          "type": "Ceiling panel",
+          "type": "Ceiling panels",
           "features": [
-            "Lattice design",
-            "White finish",
-            "Lighting integration"
+            "Geometric patterns, cut-out design"
           ],
           "materials": [
-            "MDF or similar wood material"
+            "Painted or lacquered surfaces"
           ],
-          "finish": "Matte"
+          "finish": "Smooth, glossy finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Brown",
-          "Beige"
+          "White"
         ],
         "materials": [
           "Wood",
           "Metal"
         ],
-        "lighting": "Recessed lighting",
-        "texture": "Smooth"
+        "lighting": "Natural light from ceiling panels, possibly with under-cabinet lighting",
+        "texture": "Smooth surfaces with intricate patterns"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "No specific regional style identified",
         "traditional_elements": [
-          "Lattice patterns"
+          "Not applicable"
         ],
         "modern_adaptations": [
-          "Integration of lighting"
+          "Incorporates traditional patterns in a modern context"
         ],
-        "space_utilization": "Efficient use of vertical space",
-        "cultural_significance": "Inspired by traditional lattice designs, often seen in Indian architecture"
+        "space_utilization": "Efficient use of vertical space with decorative elements",
+        "cultural_significance": "Cultural significance lies in the geometric patterns, often seen in traditional Indian architecture"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern foyer with contemporary Indian design elements, featuring decorative ceiling panels with geometric patterns and wooden paneling on the walls. The space utilizes vertical space effectively, combining traditional patterns with a modern aesthetic, creating a blend of cultural relevance and contemporary design.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Design",
+          "Foyer Design",
+          "Geometric Patterns",
+          "Wood Paneling",
+          "Decorative Ceiling"
+        ],
+        "budget_indicator": "Moderate, given the use of decorative ceiling panels and wooden elements",
+        "space_type": "Foyer",
+        "functionality": "Entrance area, likely leading to more private spaces of the house",
+        "indian_specific": "Modern interpretation of traditional Indian geometric patterns"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image showcases a modern Indian foyer with a decorative lattice ceiling panel. The panel features a white lattice design, which is integrated with recessed lighting, creating a contemporary aesthetic. The surrounding walls are accentuated with wooden slats, enhancing the traditional elements of lattice designs in a modern context. The space is well-lit, emphasizing the clean lines and smooth finishes of the materials used.",
-    "metadata": {
-      "tags": [
-        "Foyer",
-        "Contemporary Interior",
-        "Lattice Design",
-        "Lighting Integration",
-        "Modern Indian Style"
-      ],
-      "budget_indicator": "Moderate to High",
-      "space_type": "Entrance Hall",
-      "functionality": "Welcome space",
-      "indian_specific": "Traditional lattice patterns with modern adaptations"
     }
   },
-  "cached_at": 1753179235998,
+  "cached_at": 1753457532105,
   "cache_key": "d66c346d2cae869f1acd737d621fd776"
 }

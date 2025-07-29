@@ -1,0 +1,72 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1547/insta_assets_crop_a11b607e-3ef1-45f8-b04e-de0abfa410d97205265202102720157.jpg",
+  "analysis": {
+    "image_id": "img_225",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Blue cabinets",
+        "White walls",
+        "Closed door"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Blue panels",
+            "Rectangular shape",
+            "Flat surface"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Dark door"
+        ],
+        "materials": [
+          "Painted wood"
+        ],
+        "lighting": "Natural light",
+        "texture": "Smooth and flat"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design"
+        ],
+        "space_utilization": "Efficient cabinet space, but lacks traditional Indian elements",
+        "cultural_significance": "No culturally significant elements present"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A minimalist kitchen with blue painted cabinets and white walls. The space lacks traditional Indian design elements, opting for a modern, functional layout.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Kitchen",
+          "Blue cabinets",
+          "Closed door"
+        ],
+        "budget_indicator": "Low to moderate",
+        "space_type": "Kitchen",
+        "functionality": "Storage and food preparation",
+        "indian_specific": "No Indian-specific design features present"
+      }
+    }
+  },
+  "cached_at": 1753459435168,
+  "cache_key": "351393be6fed7fd680230d255fefc5a8"
+}

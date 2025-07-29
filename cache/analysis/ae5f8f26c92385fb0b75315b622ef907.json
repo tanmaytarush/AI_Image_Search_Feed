@@ -3,70 +3,81 @@
   "analysis": {
     "image_id": "img_011",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern Minimalist",
+      "room": "Entrance/Utility Area",
+      "theme": "Contemporary Indian Fusion",
       "primary_features": [
-        "Marble countertop",
-        "Wooden cabinetry",
-        "Circular mirror",
-        "Wine rack"
+        "Marble Flooring",
+        "Wooden Cabinet",
+        "Circular Mirror",
+        "Decorative Vases"
       ],
       "objects": [
         {
-          "type": "Sink",
+          "type": "Wooden Cabinet",
           "features": [
-            "Marble countertop",
-            "Wooden cabinetry"
+            "Vertical paneling",
+            "Storage shelves",
+            "Decorative glassware"
           ],
           "materials": [
-            "Marble",
-            "Wood"
+            "Wood",
+            "Glass"
           ],
-          "finish": "Polished"
+          "finish": "Matte and glossy finish"
         },
         {
-          "type": "Mirror",
+          "type": "Circular Mirror",
           "features": [
-            "Circular shape"
+            "Wooden frame",
+            "Woven texture"
           ],
           "materials": [
-            "Metal frame"
+            "Wood",
+            "Woven material"
           ],
-          "finish": "Shiny"
+          "finish": "Natural wood finish"
         },
         {
-          "type": "Wine Rack",
+          "type": "Decorative Vases",
           "features": [
-            "Glass display"
+            "Modern design",
+            "Textured surfaces"
           ],
           "materials": [
-            "Wood"
+            "Ceramic",
+            "Metal"
           ],
-          "finish": "Natural"
+          "finish": "Matte and shiny finishes"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Brown",
-          "Black"
+          "Beige",
+          "Grey",
+          "Yellow"
         ],
         "materials": [
           "Marble",
           "Wood",
+          "Glass",
+          "Ceramic",
           "Metal"
         ],
-        "lighting": "Natural",
-        "texture": "Smooth"
+        "lighting": "Natural light from the entrance",
+        "texture": "Smooth marble floor, wooden panel texture"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Combination of Indian and global design elements"
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Circular Mirror"
         ],
-        "space_utilization": "Efficient",
-        "cultural_significance": "Minimalist design with a touch of modernity reflecting contemporary Indian aesthetics"
+        "modern_adaptations": [
+          "Contemporary materials and design"
+        ],
+        "space_utilization": "Efficient use of space with wall-mounted storage",
+        "cultural_significance": "Circular mirror often symbolizes completeness and prosperity in Indian culture"
       }
     },
     "confidence_scores": {
@@ -76,21 +87,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "A modern minimalist bathroom featuring a sleek marble countertop paired with wooden cabinetry, a circular mirror, and a wine rack. The space is clean and bright, making efficient use of the available area.",
+    "description": "The image depicts a modern entrance or utility area with a contemporary Indian fusion design. The space features a wooden cabinet with storage shelves and a circular mirror with a woven wooden frame, reflecting a mix of traditional and contemporary design elements. The use of marble flooring and modern materials like glass and metal add to the contemporary aesthetic, while the circular mirror's woven frame introduces a traditional touch. The space is organized efficiently with wall-mounted storage, and the presence of decorative vases adds a modern decorative element.",
     "metadata": {
       "tags": [
-        "Modern",
-        "Minimalist",
-        "Bathroom",
-        "Indian Interior",
-        "Marble"
+        "Indian Fusion",
+        "Contemporary Design",
+        "Marble Flooring",
+        "Wooden Cabinet",
+        "Circular Mirror"
       ],
       "budget_indicator": "Mid-range",
-      "space_type": "Bathroom",
-      "functionality": "Efficient and stylish",
-      "indian_specific": "Contemporary Indian design with a blend of traditional and modern elements"
+      "space_type": "Residential",
+      "functionality": "Entrance/Utility Area",
+      "indian_specific": "Modern interpretation of traditional circular mirror"
     }
   },
-  "cached_at": 1753179464059,
+  "cached_at": 1753445854147,
   "cache_key": "ae5f8f26c92385fb0b75315b622ef907"
 }

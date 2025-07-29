@@ -1,0 +1,107 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/890/image_cropper_1729317697036.jpg",
+  "analysis": {
+    "image_id": "img_218",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Colonial Indian",
+      "primary_features": [
+        "Vanity with mirror",
+        "Sink with countertop",
+        "Mirror cabinet"
+      ],
+      "objects": [
+        {
+          "type": "Vanity",
+          "features": [
+            "Wooden frame",
+            "Glass countertop",
+            "Round sink"
+          ],
+          "materials": [
+            "Teak wood",
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Polished wood surface, glass top, metallic edge"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Rectangular shape",
+            "Beveled edges"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Beveled mirror frame"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Round shape",
+            "Porcelain or ceramic material"
+          ],
+          "materials": [
+            "Porcelain or ceramic"
+          ],
+          "finish": "Sleek, glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (teak wood)",
+          "Green (countertop)",
+          "White (sink)",
+          "Silver (mirror frame)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Glass",
+          "Metal",
+          "Porcelain or ceramic"
+        ],
+        "lighting": "Natural light from wall-mounted lamps",
+        "texture": "Smooth surfaces on sink and countertop, polished wood texture"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Vanity with mirror",
+          "Round sink"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials like glass and porcelain"
+        ],
+        "space_utilization": "Efficient use of vertical space with mirror cabinet",
+        "cultural_significance": "The symmetry and functionality are reflective of North Indian colonial design, emphasizing aesthetics and practicality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.8,
+      "primary_features": 0.75,
+      "objects": 0.9,
+      "indian_context": 0.95
+    },
+    "description": "This bathroom showcases a colonial-inspired design with a focus on traditional North Indian elements. The vanity with a round sink and beveled mirror cabinet reflects the blend of classical and modern aesthetics. The use of teak wood, glass, and porcelain or ceramic materials is characteristic of North Indian interiors, emphasizing quality and craftsmanship. The space is well-lit with natural light, enhancing the polished and sleek surfaces of the materials used.",
+    "metadata": {
+      "tags": [
+        "Colonial Indian",
+        "North Indian",
+        "Teak wood",
+        "Glass",
+        "Porcelain",
+        "Mirror cabinet",
+        "Round sink",
+        "Bathroom"
+      ],
+      "budget_indicator": "Mid-range, due to the use of quality materials like teak and brass",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is for personal grooming and hygiene activities",
+      "indian_specific": "Traditional vanity design with a modern twist"
+    }
+  },
+  "cached_at": 1753450093289,
+  "cache_key": "6d32756c271939df51fbbd6ed019611c"
+}

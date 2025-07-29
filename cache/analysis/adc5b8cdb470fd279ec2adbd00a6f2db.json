@@ -1,0 +1,84 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/500/image_cropper_1729002734803.jpg",
+  "analysis": {
+    "image_id": "img_339",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Tiled walls and floor",
+        "Exposed plumbing"
+      ],
+      "objects": [
+        {
+          "type": "Bathroom vanity",
+          "features": [
+            "Rectangular shape",
+            "Integral countertop"
+          ],
+          "materials": [
+            "Composite material",
+            "Soapstone countertop"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Toilet",
+          "features": [
+            "Modern design"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Transparent"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Gray"
+        ],
+        "materials": [
+          "Marble",
+          "Glass",
+          "Composite"
+        ],
+        "lighting": "Even and well-lit",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern design elements with traditional materials"
+        ],
+        "space_utilization": "Efficient use of space with minimal decor",
+        "cultural_significance": "No culturally significant elements observed"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.7
+      },
+      "description": "The image depicts a modern minimalist bathroom with a clean and sleek design. The walls and floor are covered in white marble tiles, giving the space a luxurious and contemporary feel. The bathroom vanity, made of a composite material with a soapstone countertop, sits against the wall, providing a functional yet stylish storage solution. A modern glass toilet adds to the overall simplicity and sophistication of the room.",
+      "metadata": {
+        "tags": [
+          "Modern bathroom",
+          "Minimalist design",
+          "White marble tiles",
+          "Glass toilet",
+          "Contemporary interior"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Bathroom",
+        "functionality": "Hygiene and storage",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1753460623087,
+  "cache_key": "adc5b8cdb470fd279ec2adbd00a6f2db"
+}

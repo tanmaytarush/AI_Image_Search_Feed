@@ -1,0 +1,130 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1686/image_cropper_1729866622373.jpg",
+  "analysis": {
+    "image_id": "img_455",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Carpet",
+        "Sofa",
+        "Coffee table",
+        "Television",
+        "Mirror"
+      ],
+      "objects": [
+        {
+          "type": "Carpet",
+          "features": [
+            "Patterned design"
+          ],
+          "materials": [
+            "Wool"
+          ],
+          "finish": "Soft texture"
+        },
+        {
+          "type": "Sofa",
+          "features": [
+            "Comfortable seating",
+            "exposed wooden frame"
+          ],
+          "materials": [
+            "Fabric",
+            "Wood"
+          ],
+          "finish": "Smooth fabric, polished wood"
+        },
+        {
+          "type": "Coffee table",
+          "features": [
+            "Rectangular shape",
+            "Metal frame"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Glossy metal, clear glass"
+        },
+        {
+          "type": "Television",
+          "features": [
+            "Flat screen"
+          ],
+          "materials": [
+            "Metal",
+            "Plastic"
+          ],
+          "finish": "Shiny metal, matte plastic"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Large size",
+            "Frameless"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Clear glass, polished metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "Beige",
+          "White",
+          "Blue",
+          "Red"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass",
+          "Fabric",
+          "Wool"
+        ],
+        "lighting": "Natural light from window, artificial light from lamp",
+        "texture": "Soft carpet, smooth fabric, shiny glass, polished metal"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to a regional style",
+        "traditional_elements": [
+          "Carpet"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design"
+        ],
+        "space_utilization": "Efficient use of space, open concept",
+        "cultural_significance": "Carpet often represents hospitality and warmth in Indian homes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian living room with a blend of traditional and contemporary elements. The room features a patterned carpet, a wooden sofa with exposed frames, a rectangular metal coffee table with a glass top, and a flat-screen television. The design incorporates elements of both modern and traditional Indian aesthetics, with a focus on comfort and functionality. The use of natural and artificial lighting, along with a mix of materials like wood, metal, glass, and fabric, creates a warm and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Modern Indian living room",
+        "Carpet",
+        "Sofa",
+        "Television",
+        "Mirrors",
+        "Contemporary furniture"
+      ],
+      "budget_indicator": "Mid-range to high, given materials like wool carpet and polished wood",
+      "space_type": "Residential living room",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Patterned carpet, wooden furniture with exposed frames"
+    }
+  },
+  "cached_at": 1753462237527,
+  "cache_key": "2e1e24dc140a0e26b38a4fb3318fdf66"
+}

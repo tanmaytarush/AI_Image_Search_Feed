@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/210/image_cropper_1728185128078.jpg",
+  "analysis": {
+    "image_id": "img_420",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern",
+      "primary_features": [
+        "L-shaped countertop",
+        "red and white cabinets",
+        "engineered stone countertops"
+      ],
+      "objects": [
+        {
+          "type": "countertop",
+          "features": [
+            "L-shaped design",
+            "engineered stone material"
+          ],
+          "materials": [
+            "Engineered stone"
+          ],
+          "finish": "Smooth and shiny finish"
+        },
+        {
+          "type": "cabinets",
+          "features": [
+            "L-shaped arrangement",
+            "red and white color scheme"
+          ],
+          "materials": [
+            "Wooden base, engineered stone countertops"
+          ],
+          "finish": "Matte and glossy finishes"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Red",
+          "White",
+          "Orange"
+        ],
+        "materials": [
+          "Wood",
+          "Engineered stone",
+          "Metal"
+        ],
+        "lighting": "Artificial lighting with overhead lights",
+        "texture": "Smooth surfaces and glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style visible",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Modern L-shaped kitchen design, use of engineered stone"
+        ],
+        "space_utilization": "Efficient use of space with L-shaped layout",
+        "cultural_significance": "No culturally significant elements observed"
+      },
+      "confidence_scores": {
+        "room": 0.8,
+        "theme": 0.9,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.7
+      },
+      "description": "The image showcases a modern kitchen with a L-shaped countertop and cabinets. The kitchen features a red and white color scheme, with engineered stone countertops and glossy finishes. The overall design is contemporary and efficient, devoid of any traditional Indian architectural elements.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "Red and white",
+          "Engineered stone",
+          "L-shaped design"
+        ],
+        "budget_indicator": "Moderate to high, due to the use of engineered stone and glossy finishes.",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage.",
+        "indian_specific": "No Indian-specific design features visible."
+      }
+    }
+  },
+  "cached_at": 1753461674348,
+  "cache_key": "64326087b62046e8ed39c7f567e20a9e"
+}

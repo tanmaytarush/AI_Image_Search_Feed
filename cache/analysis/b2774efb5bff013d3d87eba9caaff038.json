@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/308/image_cropper_1728455769088.jpg",
+  "analysis": {
+    "image_id": "img_410",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Green cabinetry",
+        "White countertop",
+        "Built-in appliances",
+        "Window with upper rail"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Closed front with sleek lines",
+            "Green color"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Smooth surface",
+            "White color"
+          ],
+          "materials": [
+            "Corian or quartz"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Appliance",
+          "features": [
+            "Built-in stove",
+            "Built-in oven"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "materials": [
+          "Painted wood/MDF",
+          "Corian/quartz",
+          "Stainless steel"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Gujarat or Southern style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Modern appliances and cabinetry"
+        ],
+        "space_utilization": "Optimized with built-in appliances",
+        "cultural_significance": "Modern interpretation of clean, minimalistic design without traditional Indian elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern kitchen with a focus on Indian design elements, showcasing sleek green cabinetry and white countertop with built-in appliances. The design incorporates contemporary Indian aesthetics with a minimalist approach, focusing on functionality and space optimization. The presence of a window with an upper rail adds a touch of traditional design, blending with the modern elements.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Green Cabinets",
+          "White Countertop",
+          "Built-in Appliances",
+          "Window with Upper Rail"
+        ],
+        "budget_indicator": "Moderate to high, with high-end materials like Corian/quartz and stainless steel",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is cooking and food preparation, with space optimization for efficient workflow",
+        "indian_specific": "Modern interpretation of Indian design with minimal traditional elements"
+      }
+    }
+  },
+  "cached_at": 1753461553321,
+  "cache_key": "b2774efb5bff013d3d87eba9caaff038"
+}

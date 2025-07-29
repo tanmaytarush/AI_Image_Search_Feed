@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/256/image_cropper_1727244094049.jpg",
+  "analysis": {
+    "image_id": "img_223",
+    "ai_generated_tags": {
+      "room": "Entryway/Hallway",
+      "theme": "Geometric Screen",
+      "primary_features": [
+        "Carved wooden doors",
+        "Geometric patterns on screens"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden door",
+          "features": [
+            "Pillared structure",
+            "Carved floral motifs"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural polished finish"
+        },
+        {
+          "type": "Geometric screen",
+          "features": [
+            "Rectangular panels",
+            "Inlaid designs"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Inlaid stones"
+          ],
+          "finish": "Polished wood and stone inlay"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "White (screen inlay)",
+          "Beige (wall color)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Inlaid stone"
+        ],
+        "lighting": "Natural lighting, bright and clear",
+        "texture": "Smooth teak wood, intricate stone inlay"
+      },
+      "indian_context": {
+        "regional_style": "Bengali / Gujarati",
+        "traditional_elements": [
+          "Carved wooden doors",
+          "Inlaid screens"
+        ],
+        "modern_adaptations": [
+          "Combination of traditional and modern aesthetic"
+        ],
+        "space_utilization": "Optimizes space by using vertical space with screens",
+        "cultural_significance": "Screens and carved doors are traditional elements representing hospitality and privacy in Indian cultures"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space features a traditional carved wooden door and geometric screens, indicative of Indian design elements. The use of teak wood and inlaid stone screens is characteristic of regional styles like Bengali or Gujarati. The space is designed to optimize vertical space, a common practice in Indian designs to make the most of limited floor area.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Carved wood",
+          "Geometric patterns",
+          "Bengali style",
+          "Inlaid screens"
+        ],
+        "budget_indicator": "Moderate to high, due to the use of teak wood and inlaid stones",
+        "space_type": "Entryway / Hallway",
+        "functionality": "Entrance and divider space, providing a welcoming yet private experience",
+        "indian_specific": "Carved wood doors and inlaid screens are distinctly Indian design features"
+      }
+    }
+  },
+  "cached_at": 1753459416997,
+  "cache_key": "40eb61fa6666f64a2658f045801c30d4"
+}

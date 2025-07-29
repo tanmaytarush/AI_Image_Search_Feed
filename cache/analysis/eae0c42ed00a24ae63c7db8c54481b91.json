@@ -1,0 +1,67 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/214/image_cropper_1728293218881.jpg",
+  "analysis": {
+    "image_id": "img_314",
+    "ai_generated_tags": {
+      "room": "Not applicable, as this appears to be a book cover image",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Book title and author name"
+      ],
+      "objects": [
+        {
+          "type": "Book",
+          "features": [
+            "Book cover, title, author name, image on the cover"
+          ],
+          "materials": [
+            "Paper, likely plastic or cardboard for the cover"
+          ],
+          "finish": "Matte finish on the cover"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black, white, green, red"
+        ],
+        "materials": [
+          "Paper, plastic, cardboard"
+        ],
+        "lighting": "Not applicable, as this is an image of a book cover",
+        "texture": "Smooth surface of the paper and matte finish"
+      },
+      "indian_context": {
+        "regional_style": "Not relevant",
+        "traditional_elements": [
+          "None present"
+        ],
+        "modern_adaptations": [
+          "Book design elements"
+        ],
+        "space_utilization": "Not applicable",
+        "cultural_significance": "Not applicable"
+      }
+    },
+    "confidence_scores": {
+      "room": 0,
+      "theme": 0.3,
+      "primary_features": 0.5,
+      "objects": 0.7,
+      "indian_context": 0
+    },
+    "description": "The image shows the cover of a book titled 'A Simple Guide to Durable Furniture'. The design is minimalistic with a black background and white text. The cover features an image of what appears to be a piece of furniture in the background.",
+    "metadata": {
+      "tags": [
+        "book cover",
+        "minimalist design",
+        "furniture guide"
+      ],
+      "budget_indicator": "Low",
+      "space_type": "Not applicable",
+      "functionality": "Not applicable",
+      "indian_specific": "None"
+    }
+  },
+  "cached_at": 1753460326119,
+  "cache_key": "eae0c42ed00a24ae63c7db8c54481b91"
+}

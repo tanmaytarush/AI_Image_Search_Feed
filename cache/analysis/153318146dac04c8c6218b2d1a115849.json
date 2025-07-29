@@ -1,0 +1,106 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/290/image_cropper_1729340098752.jpg",
+  "analysis": {
+    "image_id": "img_127",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden cabinets",
+        "Granite countertops",
+        "Lighting fixture",
+        "Wall-mounted shelves"
+      ],
+      "objects": [
+        {
+          "type": "Ceiling Light Fixture",
+          "features": [
+            "Rectangular shape with intricate metallic design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metallic finish"
+        },
+        {
+          "type": "Cabinet Doors",
+          "features": [
+            "Wooden, with a rustic finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Granite, smooth and glossy surface"
+          ],
+          "materials": [
+            "Granite"
+          ],
+          "finish": "High-gloss finish"
+        },
+        {
+          "type": "Wall-Mounted Shelves",
+          "features": [
+            "Metal brackets, with a modern design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Painted finish, likely a neutral color"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "White",
+          "Wood tones",
+          " metallic grey"
+        ],
+        "materials": [
+          "Wood",
+          "Granite",
+          "Metal"
+        ],
+        "lighting": "Ambient lighting from a ceiling light with a modern design",
+        "texture": "Combination of smooth granite countertops and textured wooden cabinets"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional style visible",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of modern Indian design elements like the ceiling light and wall-mounted shelves"
+        ],
+        "space_utilization": "Efficient and compact kitchen design with minimalistic furniture",
+        "cultural_significance": "Not culturally significant in this image, as it does not incorporate traditional Indian decorative elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian kitchen with a combination of traditional and contemporary design elements. The space features wooden cabinetry with a natural finish, granite countertops, and a modern ceiling light with a metallic design. The kitchen is organized in a compact and efficient manner, with wall-mounted shelves for storage, which is a modern adaptation of traditional Indian kitchen designs. The color palette includes beige, white, and wood tones, with a metallic accent from the ceiling light, reflecting a contemporary take on traditional Indian aesthetics.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modern Indian Interior",
+        "Wooden Cabinets",
+        "Granite Countertops",
+        "Modern Ceiling Light",
+        "Compact Kitchen"
+      ],
+      "budget_indicator": "Moderate, with the use of granite countertops and a polished metallic finish for the ceiling light",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary purpose is for cooking and food preparation",
+      "indian_specific": "Furniture design with natural wood finish and a modern interpretation of traditional kitchen shelves"
+    }
+  },
+  "cached_at": 1753448804523,
+  "cache_key": "153318146dac04c8c6218b2d1a115849"
+}

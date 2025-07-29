@@ -1,0 +1,67 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/618/image_cropper_1729781077824.jpg",
+  "analysis": {
+    "image_id": "img_324",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "White walls, wooden floor, storage unit, door"
+      ],
+      "objects": [
+        {
+          "type": "Storage unit",
+          "features": [
+            "Wooden with glass doors, modern design, includes drawers and open shelves"
+          ],
+          "materials": [
+            "Wood, glass"
+          ],
+          "finish": "Glossy finish on wood, clear glass with metallic frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls, light brown wood, dark wood storage unit, metallic accents"
+        ],
+        "materials": [
+          "Wood, glass, metallic"
+        ],
+        "lighting": "Natural light from the window, no visible artificial lighting",
+        "texture": "Smooth surfaces on walls and finish of storage unit, glass with metallic frame"
+      },
+      "indian_context": {
+        "regional_style": "",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern design elements with traditional Indian materials"
+        ],
+        "space_utilization": "Efficient use of space with a focus on storage",
+        "cultural_significance": "Modern interpretation of Indian design focusing on minimalism and functionality"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian living room with a minimalist design approach. The space features white walls and a wooden floor, emphasizing a clean and contemporary aesthetic. A storage unit with glass doors and wooden drawers is the focal point, combining the functionality of storage with a modern design. The use of light brown wood contrasts with the white walls, adding warmth to the room, while the glass doors provide a sleek and stylish finish. The overall design blends traditional Indian materials like wood with modern design elements, creating a harmonious and visually appealing space.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Living Room",
+          "Minimalist Design",
+          "Wooden Storage Unit",
+          "Glass Doors"
+        ],
+        "budget_indicator": "Moderate, with the use of high-quality materials like wood and glass",
+        "space_type": "Residential living room",
+        "functionality": "Primary purpose is storage and serving as a living space",
+        "indian_specific": "Use of wood, modern adaptation of traditional elements"
+      }
+    }
+  },
+  "cached_at": 1753460453456,
+  "cache_key": "f0dbf909e63e6d09ab72aaee8445def3"
+}

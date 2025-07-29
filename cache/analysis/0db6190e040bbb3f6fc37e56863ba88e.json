@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/443/image_cropper_1728581794259.jpg",
+  "analysis": {
+    "image_id": "img_387",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in bed storage",
+        "Wooden headboard"
+      ],
+      "objects": [
+        {
+          "type": "Built-in bed",
+          "features": [
+            "Storage space underneath",
+            "Wooden surface"
+          ],
+          "materials": [
+            "Wood, possibly teak or mango"
+          ],
+          "finish": "Natural wood polish with a glossy sheen"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light wood tone, pink wall"
+        ],
+        "materials": [
+          "Wood, pink wall paint"
+        ],
+        "lighting": "Natural light from a source not visible in the image",
+        "texture": "Smooth wood texture"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly identifiable, but modern urban Indian design with a touch of regional warmth",
+        "traditional_elements": [
+          "Wooden headboard, traditional storage solution"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with built-in storage"
+        ],
+        "space_utilization": "Efficient use of space, maximizing storage within the bed frame",
+        "cultural_significance": "The wooden headboard and storage solution reflect a practical approach to living spaces, common in Indian homes where maximizing space is essential"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern Indian bedroom with a built-in bed that incorporates storage space under the wooden headboard. The room uses a light wood tone and a pink wall, creating a warm and inviting atmosphere. The wooden headboard is a traditional element adapted into a contemporary storage solution, reflecting the practicality and cultural significance of maximizing space in Indian homes.",
+      "metadata": {
+        "tags": [
+          "modern Indian interior",
+          "bedroom design",
+          "wooden furniture",
+          "storage solutions",
+          "Indian home decor"
+        ],
+        "budget_indicator": "Moderate to high, as the wooden furniture and storage solution suggest investment in quality materials and craftsmanship",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose is for sleeping and storage of personal items",
+        "indian_specific": "Use of wood and traditional storage techniques"
+      }
+    }
+  },
+  "cached_at": 1753461277074,
+  "cache_key": "0db6190e040bbb3f6fc37e56863ba88e"
+}

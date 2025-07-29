@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1727954723922.jpg",
+  "analysis": {
+    "image_id": "img_465",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modular Contemporary",
+      "primary_features": [
+        "Built-in wardrobes",
+        "Decorative blue stripes",
+        "Modern wardrobe design"
+      ],
+      "objects": [
+        {
+          "type": "Built-in Wardrobes",
+          "features": [
+            "Modular design",
+            "Integrated storage spaces",
+            "Blue and white color scheme"
+          ],
+          "materials": [
+            "Painted wood",
+            "Plastic/Man-made panels"
+          ],
+          "finish": "Glossy painted surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Blue",
+          "Brown"
+        ],
+        "materials": [
+          "Painted wood",
+          "Plastic/Man-made panels"
+        ],
+        "lighting": "Artificial lighting from above",
+        "texture": "Smooth painted surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable (Modern design)",
+        "traditional_elements": [
+          "None (Modern design)",
+          "No visible traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design"
+        ],
+        "space_utilization": "Efficient use of space for storage",
+        "cultural_significance": "No cultural significance observed in the visible elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern bedroom with a focus on efficient storage solutions. The built-in wardrobes feature a modular design with a blue and white color scheme, utilizing painted wood and plastic/Man-made panels for the finish. The space is illuminated with artificial lighting from above, and the smooth painted surfaces contribute to a contemporary aesthetic. There are no traditional Indian elements or regional influences visible in this bedroom design.",
+      "metadata": {
+        "tags": [
+          "Modern Bedroom",
+          "Efficient Storage",
+          "Contemporary Design",
+          "White and Blue Color Scheme"
+        ],
+        "budget_indicator": "Moderate (Painted wood and plastic/Man-made panels)",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is for storage and organization of clothing and other bedroom items",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753462332591,
+  "cache_key": "2b546919e1370dda7bf6fb6e6c7f9f40"
+}

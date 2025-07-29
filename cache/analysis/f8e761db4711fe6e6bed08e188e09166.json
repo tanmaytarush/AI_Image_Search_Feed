@@ -1,0 +1,115 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1148/image_cropper_1729616378967.jpg",
+  "analysis": {
+    "image_id": "img_269",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Carved wooden elements",
+        "Marble flooring",
+        "Curtain with geometric pattern",
+        "Teak furniture",
+        "Exquisite lighting"
+      ],
+      "objects": [
+        {
+          "type": "Teak wooden chair",
+          "features": [
+            "Carved wooden backrest",
+            "Round backrest",
+            "Smooth finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Marble flooring",
+          "features": [
+            "White marble tiles",
+            "Polished surface"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Teak wooden wardrobe",
+          "features": [
+            "Carved wooden details",
+            "Round handles"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Curtain with geometric pattern",
+          "features": [
+            "White background",
+            "Geometric dark pattern",
+            "Rich fabric"
+          ],
+          "materials": [
+            "Rich fabric"
+          ],
+          "finish": "Rich texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Dark gray"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Rich fabric"
+        ],
+        "lighting": "Soft, ambient lighting with a hint of warm tones",
+        "texture": "Carved wooden textures, polished marble, rich fabric texture"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian",
+        "traditional_elements": [
+          "Carved wooden elements",
+          "Teak furniture"
+        ],
+        "modern_adaptations": [
+          "Contemporary lighting fixtures",
+          "Marble flooring"
+        ],
+        "space_utilization": "Efficient use of space with well-placed furniture and storage solutions",
+        "cultural_significance": "Reflects a blend of traditional craftsmanship and contemporary aesthetics, common in modern Indian interiors"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space showcases a contemporary Indian aesthetic with a fusion of traditional and modern elements. The living room features intricately carved teak wooden furniture that embodies the rich craftsmanship of the Maharashtrian region. The use of high-quality marble flooring and rich fabric for the curtains adds a touch of luxury and sophistication. The space is well-organized, utilizing storage solutions such as teak wardrobes, which also feature carved details, emphasizing the blend of functionality and aesthetics. The soft ambient lighting enhances the warm tones of the materials, creating a welcoming and elegant atmosphere.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Maharashtrian style",
+        "Contemporary Indian",
+        "Teak furniture",
+        "Marble flooring"
+      ],
+      "budget_indicator": "High-end, as indicated by the use of marble and rich fabric",
+      "space_type": "Living room",
+      "functionality": "Primary living and storage space",
+      "indian_specific": "Intricate wooden carvings, teak furniture, and rich fabric"
+    }
+  },
+  "cached_at": 1753450745654,
+  "cache_key": "f8e761db4711fe6e6bed08e188e09166"
+}

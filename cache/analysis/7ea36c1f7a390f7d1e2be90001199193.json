@@ -1,0 +1,83 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/384/image_cropper_1728214161342.jpg",
+  "analysis": {
+    "image_id": "img_458",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influence",
+      "primary_features": [
+        "Wooden bed frame",
+        "Carved wooden headboard",
+        "Boxspring bed",
+        "Textured wall paneling",
+        "Wall-mounted art"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Carved wooden headboard with floral patterns",
+            "Textured wooden bed frame",
+            "Boxspring bed with multiple layers"
+          ],
+          "materials": [
+            "Teak wood",
+            "Copper decorative accents"
+          ],
+          "finish": "Natural teak wood finish with copper accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "Cream (wall)",
+          "White (pillow)",
+          "Black (artwork)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Copper",
+          "Marble"
+        ],
+        "lighting": "Natural light from unseen window or artificial light from ceiling",
+        "texture": "Textured wooden paneling, carved wood texture, smooth marble"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Carved wooden headboard",
+          "Teak wood"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with marble and copper accents"
+        ],
+        "space_utilization": "Optimized for functionality with bed placement and minimal decor",
+        "cultural_significance": "Carved wooden headboard symbolizes traditional craftsmanship, important in North Indian interiors"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This bedroom features a contemporary design with strong traditional Indian influences, evident in the carved wooden headboard and use of teak wood. The room incorporates modern materials like marble and copper, blending traditional craftsmanship with modern aesthetics. The arrangement of the bed and minimal decor suggest a focus on functionality and comfort.",
+      "metadata": {
+        "tags": [
+          "bedroom",
+          "contemporary",
+          "indian",
+          "carved wood",
+          "teak",
+          "copper"
+        ],
+        "budget_indicator": "Moderate, due to the use of marble and teak wood",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and relaxation",
+        "indian_specific": "Carved wooden headboard, use of teak wood"
+      }
+    }
+  },
+  "cached_at": 1753462267227,
+  "cache_key": "7ea36c1f7a390f7d1e2be90001199193"
+}

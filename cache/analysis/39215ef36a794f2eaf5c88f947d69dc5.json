@@ -1,0 +1,111 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/290/image_cropper_1727578192424.jpg",
+  "analysis": {
+    "image_id": "img_116",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "White cabinetry",
+        "Wooden countertops",
+        "Built-in shelves",
+        "Integrated cooktop"
+      ],
+      "objects": [
+        {
+          "type": "Countertop",
+          "features": [
+            "Wooden finish",
+            "Rectangular shape"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "White color",
+            "Integrated design"
+          ],
+          "materials": [
+            "MDF or Melamine"
+          ],
+          "finish": "Painted"
+        },
+        {
+          "type": "Built-in Shelves",
+          "features": [
+            "Floating design",
+            "Integrated with cabinets"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood"
+        },
+        {
+          "type": "Integrated Cooktop",
+          "features": [
+            "Modern design",
+            "Incorporated into cabinetry"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "MDF/Melamine"
+        ],
+        "lighting": "Artificial lighting with recessed ceiling lights",
+        "texture": "Smooth surfaces with a mix of natural wood textures"
+      },
+      "indian_context": {
+        "regional_style": "N/A",
+        "traditional_elements": [
+          "N/A"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials and clean lines"
+        ],
+        "space_utilization": "Efficient use of space with built-in cabinetry and storage",
+        "cultural_significance": "N/A"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space appears to be a modern kitchen with a minimalist design, featuring built-in white cabinetry, wooden countertops, and integrated cooktop. The space is well-organized with efficient use of storage solutions, and the lighting is artificial with recessed ceiling lights. The overall aesthetic leans towards a clean and contemporary style with a focus on functionality and space optimization.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modern",
+        "Minimalist",
+        "Built-in Storage",
+        "White Cabinets",
+        "Wood Countertops"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is for cooking and food preparation",
+      "indian_specific": "N/A"
+    }
+  },
+  "cached_at": 1753448543146,
+  "cache_key": "39215ef36a794f2eaf5c88f947d69dc5"
+}

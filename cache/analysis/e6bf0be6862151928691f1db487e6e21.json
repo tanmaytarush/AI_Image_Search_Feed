@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/308/image_cropper_1728307574472.jpg",
+  "analysis": {
+    "image_id": "img_432",
+    "ai_generated_tags": {
+      "room": "Sitting Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Panelled wall design",
+        "Embedded LED lighting",
+        "Light wooden furniture"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Built-in shelving",
+            "Light wood finish",
+            "Glass doors"
+          ],
+          "materials": [
+            "Light wood",
+            "Glass"
+          ],
+          "finish": "Satin finish"
+        },
+        {
+          "type": "Wall Panel",
+          "features": [
+            "Carved wooden panels",
+            "Decorative patterns"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Side Table",
+          "features": [
+            "Light wood",
+            "Simple design"
+          ],
+          "materials": [
+            "Light wood"
+          ],
+          "finish": "Natural finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light wood tones",
+          "White",
+          "Neutral shades"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Embedded LED lighting providing ambient and accent lighting",
+        "texture": "Smooth wood textures, glass surfaces, metal accents"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Wooden paneling",
+          "Carved details"
+        ],
+        "modern_adaptations": [
+          "LED lighting",
+          "Light wood furniture"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture and paneling",
+        "cultural_significance": "Emphasizes elegance and sophistication, reflecting Indian design traditions"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space showcases a modern interpretation of traditional North Indian design elements, featuring light wood furniture, embedded LED lighting, and carved wooden paneling. The room blends contemporary functionality with classic Indian aesthetics, emphasizing elegance and cultural significance.",
+    "metadata": {
+      "tags": [
+        "Sitting Room",
+        "Modern Indian",
+        "LED Lighting",
+        "Carved Paneling",
+        "Light Wood"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Relaxation and entertainment",
+      "indian_specific": "Wooden paneling, carved details, light wood furniture"
+    }
+  },
+  "cached_at": 1753461803575,
+  "cache_key": "e6bf0be6862151928691f1db487e6e21"
+}

@@ -1,0 +1,78 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1570/insta_assets_crop_0f3ce8fb-571d-471d-9795-b8290bdd98e03284410847743187328.jpg",
+  "analysis": {
+    "image_id": "img_344",
+    "ai_generated_tags": {
+      "room": "entrée",
+      "theme": "traditional Indian",
+      "primary_features": [
+        "partition with cut-out designs",
+        "glass panels",
+        "carved wooden elements"
+      ],
+      "objects": [
+        {
+          "type": "partition",
+          "features": [
+            "glass panels",
+            "carved wooden elements",
+            "cut-out floral designs"
+          ],
+          "materials": [
+            "wood",
+            "glass"
+          ],
+          "finish": "polished wood and clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "brown (wood)",
+          "clear (glass)",
+          "white (floral designs)"
+        ],
+        "materials": [
+          "wood",
+          "glass"
+        ],
+        "lighting": "natural light",
+        "texture": "smooth wood and clear glass"
+      },
+      "indian_context": {
+        "regional_style": "northern Indian (Hindi language influence in the design)",
+        "traditional_elements": [
+          "partition with carved wooden elements"
+        ],
+        "modern_adaptations": [
+          "glass panels for aesthetic and practical purposes"
+        ],
+        "space_utilization": "small entrance space optimized with minimalist partition",
+        "cultural_significance": "partition used to provide privacy and maintain decorum in traditional Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a traditional Indian entrance, characterized by a partition with intricate carved wooden designs and glass panels. The design reflects northern Indian influences, with the partition serving both aesthetic and functional purposes. The use of wood and glass materials is typical in Indian interiors, and the partition helps in maintaining decorum while providing some privacy in a small space.",
+      "metadata": {
+        "tags": [
+          "Indian entrance",
+          "partition",
+          "carved wood",
+          "glass",
+          "northern Indian style",
+          "traditional design"
+        ],
+        "budget_indicator": "moderate, due to the use of polished wood and glass",
+        "space_type": "residential",
+        "functionality": "optimizes a small entrance space",
+        "indian_specific": "partition with carved wooden elements and glass panels"
+      }
+    }
+  },
+  "cached_at": 1753460675919,
+  "cache_key": "a26637e76603c03976baab60a7fe2ef3"
+}

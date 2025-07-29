@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Enscape_2024-03-06-13-19-55-min.png",
+  "analysis": {
+    "image_id": "img_198",
+    "ai_generated_tags": {
+      "room": "Entryway/Utility Room",
+      "theme": "Contemporary Indian Style",
+      "primary_features": [
+        "Modular storage unit",
+        "Carved door panel",
+        "Open shelving"
+      ],
+      "objects": [
+        {
+          "type": "Carved door panel",
+          "features": [
+            "Circular design with geometric patterns",
+            "Rich brown color"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Lacquered finish"
+        },
+        {
+          "type": "Modular storage unit",
+          "features": [
+            "Open shelving with black diamond tile backsplash",
+            "Closed storage units with beige panels"
+          ],
+          "materials": [
+            "MDF for panels, marble for countertop, metal for shelving brackets"
+          ],
+          "finish": "Matte finish on panels, polished surface on marble"
+        },
+        {
+          "type": "Decorative elements",
+          "features": [
+            "Bells embedded in the wall",
+            "Metallic accents on shelves"
+          ],
+          "materials": [
+            "Brass, metal"
+          ],
+          "finish": "Polished brass, metallic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige, white, brown, black, metallic gold"
+        ],
+        "materials": [
+          "Teak wood, MDF, marble, metal, brass"
+        ],
+        "lighting": "Indirect lighting from above, creating a warm ambiance",
+        "texture": "Smooth surfaces on panels, textured bakelite-like patterns on doors"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, but could be from urban areas influenced by Bengali or North Indian styles due to use of teak and carved elements",
+        "traditional_elements": [
+          "Carved door panel"
+        ],
+        "modern_adaptations": [
+          "Contemporary lines and materials in storage unit"
+        ],
+        "space_utilization": "Efficient use of vertical space with open shelving and closed storage",
+        "cultural_significance": "Use of bells could symbolize traditional Indian practices of ringing bells at the door to ward off evil spirits or to signal the entrance of guests"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern interpretation of traditional Indian design elements, featuring a carved door panel with intricate geometric patterns, blending seamlessly with a contemporary storage unit. The use of teak wood in the door panel suggests a nod to traditional craftsmanship, while the open shelving and marble countertop in the storage unit represent a modern approach. The inclusion of bells in the wall decor adds a cultural touch, symbolizing protection or welcoming. The overall design is a harmonious blend of traditional and contemporary aesthetics, making it suitable for a modern Indian living space.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Contemporary",
+        "Carved door",
+        "Modular storage",
+        "Teak wood"
+      ],
+      "budget_indicator": "Moderate, with a mix of traditional and modern materials",
+      "space_type": "Entryway/Utility Room",
+      "functionality": "Storage and decorative purposes",
+      "indian_specific": "Carved door panel, bells as decorative elements"
+    }
+  },
+  "cached_at": 1753449883745,
+  "cache_key": "a1db0756c6f644891dda205a52db1a9c"
+}

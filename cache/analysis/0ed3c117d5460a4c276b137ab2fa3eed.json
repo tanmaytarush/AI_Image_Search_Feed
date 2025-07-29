@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1382/image_cropper_1729753065358.jpg",
+  "analysis": {
+    "image_id": "img_343",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wood paneling",
+        "Television unit",
+        "Wall-mounted lighting"
+      ],
+      "objects": [
+        {
+          "type": "Television unit",
+          "features": [
+            "White color",
+            "Simple design",
+            "Rectangular shape"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Wood paneling",
+          "features": [
+            "Vertical strips",
+            "Natural wood grain",
+            "Brushed finish"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Natural"
+        },
+        {
+          "type": "Wall-mounted lighting",
+          "features": [
+            "Circular design",
+            "Illuminated glass shades",
+            "Modern style"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Warm tones"
+        ],
+        "materials": [
+          "Wood",
+          "Painted wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Warm, ambient light from wall-mounted lights",
+        "texture": "Smooth wood paneling and glossy metallic wall lights"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Teak wood paneling"
+        ],
+        "modern_adaptations": [
+          "Television unit with modern lines",
+          "Wall-mounted lighting"
+        ],
+        "space_utilization": "Efficient use of vertical space with wood paneling",
+        "cultural_significance": "Teak wood is commonly used in North Indian interiors, symbolizing strength and durability"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior showcases a modern take on traditional North Indian design, with a focus on teak wood paneling that adds warmth and natural elegance to the living space. The television unit, with its clean lines and white finish, complements the rustic charm of the wooden panels. The wall-mounted lights add a contemporary touch, enhancing the ambiance with soft, warm lighting. The use of these materials and design elements reflects the cultural significance of teak wood in North Indian homes, symbolizing strength and durability.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Teak paneling",
+          "Living Room",
+          "Warm tones",
+          "Wall-mounted lights"
+        ],
+        "budget_indicator": "Moderate, with a focus on quality materials like teak and polished finishes",
+        "space_type": "Residential",
+        "functionality": "Entertainment and relaxation area",
+        "indian_specific": "Teak wood paneling with traditional craftsmanship"
+      }
+    }
+  },
+  "cached_at": 1753460667155,
+  "cache_key": "0ed3c117d5460a4c276b137ab2fa3eed"
+}

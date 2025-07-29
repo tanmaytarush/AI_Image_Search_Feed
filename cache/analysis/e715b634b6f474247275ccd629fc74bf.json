@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/36/WhatsApp%20Image%202024-08-01%20at%2018.45.14%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_184",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden door",
+        "white modular storage unit",
+        "mirror"
+      ],
+      "objects": [
+        {
+          "type": "Storage unit",
+          "features": [
+            "Modern design, white, with multiple compartments"
+          ],
+          "materials": [
+            "MDF or particle board"
+          ],
+          "finish": "Matte white finish"
+        },
+        {
+          "type": "Door",
+          "features": [
+            "Wooden, with simple design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Large, mounted on the wall behind the door"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, brown, beige"
+        ],
+        "materials": [
+          "Wood, MDF, glass"
+        ],
+        "lighting": "Natural lighting from the door opening",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable, modern Indian style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Conemporary design with traditional Indian materials"
+        ],
+        "space_utilization": "Efficient use of space for storage and practicality",
+        "cultural_significance": "Simple, modern design with Indian aesthetics in materials"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern Indian bathroom with a focus on functionality and contemporary design. The white modular storage unit is a modern interpretation of traditional storage solutions, using modern materials like MDF for a sleek look. The wooden door adds a touch of traditional Indian aesthetics, while the mirror behind it provides both practical storage and a sense of space. The overall design is clean and minimalist, with a modern Indian flavor.",
+      "metadata": {
+        "tags": [
+          "bathroom",
+          "modern",
+          "indian design",
+          "storage",
+          "wooden door",
+          "white",
+          "minimalist"
+        ],
+        "budget_indicator": "Moderate, due to use of modern materials like MDF and glass",
+        "space_type": "Residential",
+        "functionality": "Storage and practicality",
+        "indian_specific": "Use of wooden elements and modern interpretation of Indian design"
+      }
+    }
+  },
+  "cached_at": 1753449739710,
+  "cache_key": "e715b634b6f474247275ccd629fc74bf"
+}

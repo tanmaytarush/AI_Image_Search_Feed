@@ -1,5 +1,5 @@
 import OpenAI from "openai";
-import { AutoTokenizer } from '@xenova/transformers';
+import { AutoTokenizer } from "@xenova/transformers";
 import dotenv from "dotenv";
 
 dotenv.config();
@@ -15,18 +15,25 @@ class EmbeddingService {
 
   async initializeTokenizer() {
     try {
-      this.tokenizer = await AutoTokenizer.from_pretrained('Xenova/all-MiniLM-L6-v2');
+      this.tokenizer = await AutoTokenizer.from_pretrained(
+        "Xenova/all-MiniLM-L6-v2"
+      );
     } catch (error) {
       console.error("Error initializing tokenizer:", error);
     }
   }
 
-  async createMultiVectors(aiGeneratedTags, description, metadata) {
+  async createMultiVectors(
+    aiGeneratedTags,
+    description,
+    metadata,
+    imageId = "unknown"
+  ) {
     // Add default values and validation
     const safeAiTags = aiGeneratedTags || {};
     const {
-      room = 'unknown',
-      theme = 'unknown', 
+      room = "unknown",
+      theme = "unknown",
       primary_features = [],
       objects = [],
       visual_attributes = {},
@@ -48,35 +55,45 @@ class EmbeddingService {
 
     // Safe access to nested properties
     const safeIndianContext = {
-      regional_style: indian_context.regional_style || 'unknown',
-      space_utilization: indian_context.space_utilization || 'unknown',
-      cultural_significance: indian_context.cultural_significance || '',
+      regional_style: indian_context.regional_style || "unknown",
+      space_utilization: indian_context.space_utilization || "unknown",
+      cultural_significance: indian_context.cultural_significance || "",
       modern_adaptations: indian_context.modern_adaptations || [],
-      traditional_elements: indian_context.traditional_elements || []
+      traditional_elements: indian_context.traditional_elements || [],
     };
 
     const safeVisualAttributes = {
       materials: visual_attributes.materials || [],
-      colors: visual_attributes.colors || []
+      colors: visual_attributes.colors || [],
     };
 
-    // 1. Primary Search Vector - Room, Theme, Regional Style
+    // 1. Primary Search Vector - Enhanced structured composition for better semantic understanding
     const primarySearchText =
-      `${room} ${theme} ${safeIndianContext.regional_style} ${safeIndianContext.space_utilization}`.toLowerCase();
+      `Interior Design: ${room} room in ${theme} style with ${safeIndianContext.regional_style} influences. Space Layout: ${safeIndianContext.space_utilization}.`.toLowerCase();
 
-    // 2. Semantic Description Vector - Detailed description and cultural context
-    const semanticDescText = `${description || ''} ${
+    // 2. Semantic Description Vector - Contextual relationships and cultural significance
+    const semanticDescText = `This ${room} showcases ${theme} design where ${
       safeIndianContext.cultural_significance
-    } ${safeJoin(safeIndianContext.modern_adaptations)}`.toLowerCase();
+    }. ${description || ""} ${safeJoin(
+      safeIndianContext.modern_adaptations,
+      ", "
+    )}.`.toLowerCase();
 
-    // 3. Object Focus Vector - Furniture, materials, features
-    const objectTypes = safeJoin(safeMap(objects, (obj) => obj.type || ''));
-    const objectFeatures = safeJoin(safeFlatMap(objects, (obj) => obj.features || []));
-    const materials = safeJoin(safeVisualAttributes.materials);
-    const features = safeJoin(primary_features);
+    // 3. Object Focus Vector - Structured composition with clear categories
+    const objectTypes = safeJoin(
+      safeMap(objects, (obj) => obj.type || ""),
+      ", "
+    );
+    const objectFeatures = safeJoin(
+      safeFlatMap(objects, (obj) => obj.features || []),
+      ", "
+    );
+    const materials = safeJoin(safeVisualAttributes.materials, ", ");
+    const features = safeJoin(primary_features, ", ");
+    const colors = safeJoin(safeVisualAttributes.colors, ", ");
 
     const objectFocusText =
-      `${objectTypes} ${objectFeatures} ${materials} ${features} ${safeJoin(safeVisualAttributes.colors)}`.toLowerCase();
+      `Furniture: ${objectTypes}. Materials: ${materials}. Features: ${features}. Colors: ${colors}. Object Details: ${objectFeatures}.`.toLowerCase();
 
     // Generate all three embeddings
     const [primarySearchVector, semanticDescVector, objectFocusVector] =
@@ -85,6 +102,13 @@ class EmbeddingService {
         this.getEmbedding(semanticDescText),
         this.getEmbedding(objectFocusText),
       ]);
+
+    // Quality assessment and logging
+    this.logEmbeddingQuality(imageId, {
+      primary_search: primarySearchText,
+      semantic_desc: semanticDescText,
+      object_focus: objectFocusText,
+    });
 
     return {
       primary_search: primarySearchVector,
@@ -116,7 +140,7 @@ class EmbeddingService {
     if (!this.tokenizer) {
       await this.initializeTokenizer();
     }
-    
+
     try {
       const tokens = this.tokenizer.encode(text);
       return tokens;
@@ -126,7 +150,40 @@ class EmbeddingService {
     }
   }
 
+  logEmbeddingQuality(imageId, embeddingTexts) {
+    const qualityMetrics = {};
 
+    for (const [vectorName, text] of Object.entries(embeddingTexts)) {
+      const wordCount = text.split(" ").length;
+      const hasUnknown = text.includes("unknown");
+      const hasEmpty = text.trim().length === 0;
+
+      qualityMetrics[vectorName] = {
+        wordCount,
+        hasUnknown,
+        hasEmpty,
+        quality: this.assessQuality(wordCount, hasUnknown, hasEmpty),
+      };
+    }
+
+    // Log quality assessment
+    const overallQuality = Object.values(qualityMetrics).every(
+      (m) => m.quality === "good"
+    )
+      ? "good"
+      : "needs_attention";
+
+    if (overallQuality === "needs_attention") {
+      console.log(`🔍 Quality assessment for ${imageId}:`, qualityMetrics);
+    }
+  }
+
+  assessQuality(wordCount, hasUnknown, hasEmpty) {
+    if (hasEmpty || wordCount < 3) return "poor";
+    if (hasUnknown && wordCount < 8) return "fair";
+    if (wordCount < 5) return "fair";
+    return "good";
+  }
 }
 
 export default new EmbeddingService();

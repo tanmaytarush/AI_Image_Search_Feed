@@ -1,0 +1,116 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/87/image_cropper_1726559058984.jpg",
+  "analysis": {
+    "image_id": "img_353",
+    "ai_generated_tags": {
+      "room": "Master Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Wardrobe with built-in lighting",
+        "Modern bed with low-profile frame",
+        "Wall-mounted TV",
+        "Geometric patterned carpet"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Built-in lighting",
+            "Sliding doors"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Polished surfaces"
+        },
+        {
+          "type": "Bed",
+          "features": [
+            "Low-profile frame",
+            "Comfy mattress"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Natural wood tone"
+        },
+        {
+          "type": "Wall-mounted TV",
+          "features": [
+            "Modern design",
+            "Integrated into the wall"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Metallic finish"
+        },
+        {
+          "type": "Carpet",
+          "features": [
+            "Geometric pattern",
+            "Soft texture"
+          ],
+          "materials": [
+            "Polyester"
+          ],
+          "finish": "Textured surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink",
+          "Gray",
+          "White",
+          "Blue"
+        ],
+        "materials": [
+          "Glass",
+          "Metal",
+          "Wood",
+          "Polyester"
+        ],
+        "lighting": "Natural light from the ceiling light fixture, additional built-in lighting in the wardrobe",
+        "texture": "Soft fabric of the carpet, polished surfaces of the wardrobe and bed frame"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but incorporates modern elements with traditional Indian influences",
+        "traditional_elements": [
+          "Carpet with geometric patterns"
+        ],
+        "modern_adaptations": [
+          "Contemporary wardrobe with built-in lighting"
+        ],
+        "space_utilization": "Efficient use of space with built-in wardrobes and minimalistic furniture",
+        "cultural_significance": "Geometric patterns often symbolize harmony and balance in Indian culture"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a master bedroom with a modern design aesthetic that incorporates traditional Indian elements. The space features a low-profile bed with a natural wood frame, a wardrobe with built-in lighting and sliding glass doors, a wall-mounted TV, and a geometric patterned carpet. The color palette includes pink, gray, white, and blue, with materials such as glass, metal, wood, and polyester. The lighting is a combination of natural light and built-in lighting in the wardrobe, creating a warm and inviting atmosphere. The space utilizes the wall-mounted TV to save floor space, and the geometric pattern on the carpet reflects traditional Indian design influences.",
+      "metadata": {
+        "tags": [
+          "Master Bedroom",
+          "Modern Design",
+          "Indian Influences",
+          "Geometric Patterns",
+          "Built-in Lighting",
+          "Contemporary Wardrobe"
+        ],
+        "budget_indicator": "Moderate, with the use of materials like glass and metal in the wardrobe, and a comfortable bed frame",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is for rest and relaxation, with the addition of a wall-mounted TV for entertainment",
+        "indian_specific": "Geometric patterned carpet and built-in lighting (inspired by traditional design)"
+      }
+    }
+  },
+  "cached_at": 1753460798314,
+  "cache_key": "0c5697acf55422085d8c62513d6d24ba"
+}

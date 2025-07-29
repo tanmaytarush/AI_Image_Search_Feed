@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.48%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_081",
+    "ai_generated_tags": {
+      "room": "Teenage bedroom",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Built-in furniture, white and pastel color palette, polka dot wallpaper"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "L-shaped, white base, floral bedding"
+          ],
+          "materials": [
+            "Wooden headboard, fabric bedding"
+          ],
+          "finish": "Smooth surface, decorative patterns"
+        },
+        {
+          "type": "Built-in furniture",
+          "features": [
+            "Shelving, lighting, storage compartments"
+          ],
+          "materials": [
+            "Wood, fabric"
+          ],
+          "finish": "Painted surface, glossy finish"
+        },
+        {
+          "type": "Desk",
+          "features": [
+            "White, minimalist design"
+          ],
+          "materials": [
+            "Plastic, metal"
+          ],
+          "finish": "Smooth surface, glossy finish"
+        },
+        {
+          "type": "Chair",
+          "features": [
+            "Modern design, rolling base"
+          ],
+          "materials": [
+            "Metal, fabric"
+          ],
+          "finish": "Smooth surface, glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, pastel shades, pink, green, blue, brown"
+        ],
+        "materials": [
+          "Wood, fabric, plastic, metal"
+        ],
+        "lighting": "Natural light, built-in LED lighting",
+        "texture": "Smooth surfaces with soft fabric accents"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to Indian regional styles, more contemporary",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary interpretation of Indian materials like fabric and wood"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture and desk",
+        "cultural_significance": "No traditional Indian elements, but the use of soft and comfortable fabrics aligns with Indian design aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a contemporary teenage bedroom with a focus on comfort and functionality. The space features built-in furniture with storage and lighting, a L-shaped bed with floral bedding, and a desk with a modern chair. The walls are decorated with polka dot wallpaper, and the color palette is composed of soft pastel shades, white, pink, green, blue, and brown. The overall design is modern with some contemporary Indian elements like the use of fabric and wood in furniture.",
+    "metadata": {
+      "tags": [
+        "Teenage bedroom",
+        "Contemporary design",
+        "Polka dot wallpaper",
+        "Built-in furniture",
+        "Soft colors"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and study",
+      "indian_specific": "Contemporary adaptation of Indian design aesthetics"
+    }
+  },
+  "cached_at": 1753447585399,
+  "cache_key": "58778d572f88b82d44885b26d1679c93"
+}

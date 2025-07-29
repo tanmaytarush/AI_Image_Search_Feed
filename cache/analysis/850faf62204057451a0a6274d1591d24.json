@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1648/insta_assets_crop_cda581e3-3799-4009-9307-a8701cc0ec73341984793471102461.jpg",
+  "analysis": {
+    "image_id": "img_333",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Interior",
+      "primary_features": [
+        "Built-in shelves",
+        "Vertical wooden paneling"
+      ],
+      "objects": [
+        {
+          "type": "Shelving Unit",
+          "features": [
+            "Wooden structure with glass panels and carved wooden accents"
+          ],
+          "materials": [
+            "Teak wood, glass"
+          ],
+          "finish": "Teak wood has a polished finish, glass panels are clear"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (teak wood), clear (glass), white (wall paneling)"
+        ],
+        "materials": [
+          "Teak wood, glass"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth teak wood texture, clear glass panels, slightly rough vertical paneling"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra/Mumbai style with modern adaptations",
+        "traditional_elements": [
+          "Vertical wooden paneling, carved wooden accents"
+        ],
+        "modern_adaptations": [
+          "Built-in shelves, glass panels for modern look"
+        ],
+        "space_utilization": "Optimized storage solution with built-in shelves",
+        "cultural_significance": "Vertical wooden paneling symbolizes height and spaciousness, reflecting Indian architectural traditions"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern Indian interior design in a living room. The space features a built-in shelving unit with a teak wood structure, clear glass panels, and carved wooden accents, reflecting traditional regional influences. The vertical wooden paneling on the wall adds a sense of height and spaciousness, emphasizing the cultural significance of height in Indian architecture. The use of teak wood and glass reflects a modern adaptation of traditional materials and design elements.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Maharashtra style",
+          "Teak wood",
+          "Glass panels",
+          "Vertical paneling",
+          "Modern adaptation"
+        ],
+        "budget_indicator": "Mid-range, with teak wood and glass as materials",
+        "space_type": "Living Room",
+        "functionality": "Optimized storage solution",
+        "indian_specific": "Vertical wooden paneling and carved wooden accents"
+      }
+    }
+  },
+  "cached_at": 1753460563506,
+  "cache_key": "850faf62204057451a0a6274d1591d24"
+}

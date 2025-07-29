@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/666/image_cropper_1729173526388.jpg",
+  "analysis": {
+    "image_id": "img_407",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden bed with simple headboard",
+        "Built-in wooden wardrobe",
+        "Cobblestone tile flooring",
+        "White walls",
+        "Black accent wall"
+      ],
+      "objects": [
+        {
+          "type": "Wooden bed",
+          "features": [
+            "Simple design",
+            "Straight lines",
+            "No intricate carvings"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, polished finish"
+        },
+        {
+          "type": "Built-in wooden wardrobe",
+          "features": [
+            "Integrated into the wall",
+            "Modular design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Similar to the bed, smooth and polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Cobblestone tile",
+          "Sheet rock"
+        ],
+        "lighting": "Natural light from the window, complemented by ambient lighting from the ceiling",
+        "texture": "Smooth surfaces with a contrast between the wood and the tile"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to a region, but has elements common in modern Indian design",
+        "traditional_elements": [
+          "Simple wooden furniture",
+          "Built-in wardrobes"
+        ],
+        "modern_adaptations": [
+          "Simplicity of design",
+          "Integration of modern materials"
+        ],
+        "space_utilization": "Efficient use of wall space for storage, maintaining a clean and organized look",
+        "cultural_significance": "The use of wood and simple designs aligns with traditional values of respect for natural materials and minimalism"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern Indian bedroom with a minimalist approach, featuring a simple wooden bed, built-in wardrobe, and cobblestone tile flooring. The color palette is predominantly brown, white, and black, reflecting a contemporary yet traditional aesthetic. The design uses wood as the primary material, while the built-in storage solutions maximize the use of space.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Bedroom",
+          "Wooden furniture",
+          "Built-in storage",
+          "Cobblestone tile"
+        ],
+        "budget_indicator": "Moderate, as it includes high-quality materials like wood and tile, but doesn't include costly elements like marble or exotic woods",
+        "space_type": "Residential",
+        "functionality": "Primary sleeping area with integrated storage",
+        "indian_specific": "Use of wood and simple designs, aligning with traditional Indian values"
+      }
+    }
+  },
+  "cached_at": 1753461519166,
+  "cache_key": "3f4fbd4bd561116ce4d1b35bc9c86118"
+}

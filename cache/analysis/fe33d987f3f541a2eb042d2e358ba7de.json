@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1399/image_cropper_1729756069057.jpg",
+  "analysis": {
+    "image_id": "img_364",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Casual seating arrangement",
+        "Decorative wall painting",
+        "People present"
+      ],
+      "objects": [
+        {
+          "type": "Casual Seating",
+          "features": [
+            "Wooden structure",
+            "Modern design with simple upholstery"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "Cotton fabric"
+          ],
+          "finish": "Smooth and polished wood, soft fabric texture"
+        },
+        {
+          "type": "Wall Art",
+          "features": [
+            "Abstract design",
+            "Rich colors"
+          ],
+          "materials": [
+            "Painted canvas"
+          ],
+          "finish": "Glossy and vibrant"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Red",
+          "Green",
+          "Blue"
+        ],
+        "materials": [
+          "Wood",
+          "Canvas"
+        ],
+        "lighting": "Natural light from outside the frame, possibly daylight",
+        "texture": "Smooth wood, soft fabric, glossy paint"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident, but there are Indian elements",
+        "traditional_elements": [
+          "Casual seating with a modern touch"
+        ],
+        "modern_adaptations": [
+          "Abstract wall art with vibrant colors"
+        ],
+        "space_utilization": "The space appears to be a casual living area, possibly a lounge or seating area",
+        "cultural_significance": "The wall art could be a form of modern Indian art or a way of expressing contemporary tastes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern living room with casual seating and a vibrant wall art piece. The space appears to blend contemporary design with an Indian touch, evident in the colorful wall art and the choice of materials like wood, which is common in Indian interior design. The casual furniture and the use of bold colors suggest a relaxed, contemporary aesthetic.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian Design",
+          "Casual Living Space",
+          "Wall Art",
+          "Wooden Furniture",
+          "Bold Colors"
+        ],
+        "budget_indicator": "Moderate, with the use of high-quality materials like wood and canvas",
+        "space_type": "Residential Living Room",
+        "functionality": "Seating area for relaxation and socializing",
+        "indian_specific": "Casual seating with a modern twist, vibrant wall art"
+      }
+    }
+  },
+  "cached_at": 1753460928862,
+  "cache_key": "fe33d987f3f541a2eb042d2e358ba7de"
+}

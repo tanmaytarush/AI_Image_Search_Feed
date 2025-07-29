@@ -4,124 +4,91 @@
     "image_id": "img_008",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Contemporary Indian Fusion",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Marble Flooring",
-        "Wooden Ceiling",
-        "Brown L-Shape Sofa",
-        "Staircase with Glass Railings",
-        "Decorative Pillows",
-        "Floral Tablecloth",
-        "Decorative Rugs"
+        "Wooden ceiling",
+        "Marble floor",
+        "Brown sofa set",
+        "Wooden staircase",
+        "Decorative wall shelves"
       ],
       "objects": [
         {
           "type": "Sofa",
           "features": [
-            "Brown Fabric",
-            "L-Shape Design",
-            "Soft Upholstery",
-            "Built-in Pillows"
+            "Brown fabric",
+            "Tufted backrest",
+            "U-shaped design"
           ],
           "materials": [
             "Fabric",
-            "Faux Fur"
+            "Wooden legs"
           ],
-          "finish": "Sleek and Smooth"
+          "finish": "Soft and plush texture"
         },
         {
           "type": "Table",
           "features": [
-            "Floral Tablecloth",
-            "Wooden Frame"
+            "Covered with patterned cloth",
+            "Wooden legs"
           ],
           "materials": [
             "Wood",
             "Fabric"
           ],
-          "finish": "Polished and Elegant"
-        },
-        {
-          "type": "Flooring",
-          "features": [
-            "Marble Tiles"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "High-Gloss and Reflective"
-        },
-        {
-          "type": "Ceiling",
-          "features": [
-            "Wooden Panels"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural and Warm"
+          "finish": "Smooth and glossy"
         },
         {
           "type": "Staircase",
           "features": [
-            "Glass Railings",
-            "Wooden Steps"
+            "Wooden handrail",
+            "Glass balusters",
+            "Decorative wall shelves"
           ],
           "materials": [
-            "Glass",
-            "Wood"
+            "Wood",
+            "Glass"
           ],
-          "finish": "Modern and Sleek"
+          "finish": "Polished and reflective"
         },
         {
-          "type": "Decorations",
+          "type": "Wall Shelves",
           "features": [
-            "Flower Vases",
-            "Statues",
-            "Wall Art"
+            "Wooden frames",
+            "Glass doors",
+            "Decorative items"
           ],
           "materials": [
-            "Metal",
             "Wood",
-            "Plastic"
+            "Glass"
           ],
-          "finish": "Shiny and Ornamental"
+          "finish": "Sleek and modern"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown",
-          "White",
-          "Gold",
-          "Marble Grey",
-          "Green",
-          "Red"
+          "Brown, White, Gold, Black"
         ],
         "materials": [
-          "Marble",
-          "Wood",
-          "Metal",
-          "Glass",
-          "Fabric"
+          "Wood, Marble, Glass, Fabric"
         ],
-        "lighting": "Bright and Even",
-        "texture": "Smooth and Hard"
+        "lighting": "Mix of recessed lighting and chandelier with warm tones",
+        "texture": "Combination of smooth, glossy, and plush textures"
       },
       "indian_context": {
-        "regional_style": "Kerala",
+        "regional_style": "Not explicitly regional, but could be influenced by North Indian design elements",
         "traditional_elements": [
-          "Wooden Staircase",
-          "Marble Flooring",
-          "Decorative Pillows",
-          "Floral Tablecloth"
+          "Wooden furniture",
+          "Marble flooring",
+          "Decorative wall shelves"
         ],
         "modern_adaptations": [
-          "Glass Railings",
-          "Modern Lighting",
-          "Contemporary Furniture"
+          "Contemporary light fixtures",
+          "Glass balusters",
+          "Decorative wall shelves"
         ],
-        "space_utilization": "Open and Spacious",
-        "cultural_significance": "Reflects South Indian Home Decor with a Blend of Tradition and Modernity"
+        "space_utilization": "Open and spacious with a clear delineation of zones",
+        "cultural_significance": "Elements like the wooden dividers and decorative wall shelves are common in Indian homes for both functional and aesthetic purposes"
       }
     },
     "confidence_scores": {
@@ -131,21 +98,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image showcases a contemporary Indian fusion living room with a warm and inviting ambiance. The use of marble flooring and wooden ceiling elements reflects traditional Kerala home decor, while the modern glass railings and sleek furniture bring a contemporary touch. The space is well-lit, with soft lighting enhancing the natural wood tones. The decor includes decorative pillows, floral tablecloths, and ornamental vases, creating a harmonious blend of traditional and modern elements.",
+    "description": "The interior space is a well-designed living room that incorporates contemporary Indian elements with a focus on wood and marble. The use of a wooden ceiling, marble floor, and wooden sofas create a warm and traditional feel, while the contemporary light fixtures and glass balusters add a modern twist. Decorative wall shelves, along with the use of fabric and plush textures, enhance the overall aesthetic. The space is designed to be open and spacious, with clear delineation of zones, and the presence of religious or cultural decorative elements suggests it is a home that values tradition and spirituality.",
     "metadata": {
       "tags": [
         "Living Room",
-        "Contemporary Indian",
+        "Indian Interior",
+        "Contemporary Design",
+        "Wooden Furniture",
         "Marble Flooring",
-        "Wooden Ceiling",
-        "Kerala Style"
+        "Decorative Wall Shelves"
       ],
-      "budget_indicator": "High",
+      "budget_indicator": "Mid to high budget given the use of marble flooring and wooden furniture with polished finishes",
       "space_type": "Residential",
-      "functionality": "Social and Relaxation",
-      "indian_specific": "Traditional Elements with Modern Adaptations"
+      "functionality": "Social and relaxation space",
+      "indian_specific": "Use of wood in furniture, marble flooring, and decorative wall shelves"
     }
   },
-  "cached_at": 1753179273777,
+  "cached_at": 1753456952294,
   "cache_key": "3f75d48dc1ecda29b6310e0419c00de1"
 }

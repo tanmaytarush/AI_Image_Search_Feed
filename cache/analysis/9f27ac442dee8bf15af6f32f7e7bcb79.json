@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/469/image_cropper_1728730429617.jpg",
+  "analysis": {
+    "image_id": "img_105",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian with Traditional Influences",
+      "primary_features": [
+        "wooden paneling",
+        "neutral color palette",
+        "textured wallpaper",
+        "tiled floor",
+        "simple bed frame"
+      ],
+      "objects": [
+        {
+          "type": "Bed frame",
+          "features": [
+            "simple design, no intricate carvings"
+          ],
+          "materials": [
+            "visible wood"
+          ],
+          "finish": "natural wood finish"
+        },
+        {
+          "type": "Wallpaper",
+          "features": [
+            "textured, likely for cultural decor"
+          ],
+          "materials": [
+            "fabric or vinyl"
+          ],
+          "finish": "embossed texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "neutral/taupe, beige, white",
+          "brown from wood"
+        ],
+        "materials": [
+          "wood, tile, fabric",
+          "natural materials"
+        ],
+        "lighting": "indirect, warm lighting suggesting a cozy atmosphere",
+        "texture": "mix of smooth and textured surfaces from wallpaper, wood, and tile"
+      },
+      "indian_context": {
+        "regional_style": "Mughal-inspired with a modern twist",
+        "traditional_elements": [
+          "wallpaper design"
+        ],
+        "modern_adaptations": [
+          "simplified furniture styles"
+        ],
+        "space_utilization": "efficient use of space with a focus on functionality",
+        "cultural_significance": "The textured wallpaper could be a nod to traditional Indian wall arts, possibly representing nature or geometric patterns"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The bedroom features a modern Indian design with a mix of traditional and contemporary elements. The use of wooden paneling and a simple bed frame reflects a modern interpretation of traditional Mughal-style interiors. The textured wallpaper adds a touch of cultural significance, possibly referencing traditional Indian wall arts. The overall design is neutral in color with a focus on warmth and comfort, using natural materials like wood and tile.",
+      "metadata": {
+        "tags": [
+          "modern Indian",
+          "Mughal style",
+          "textured wallpaper",
+          "neutral color palette",
+          "wooden furniture"
+        ],
+        "budget_indicator": "Moderate, as indicated by the use of wood and tile which are relatively expensive materials",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose is for rest and relaxation, with a focus on comfort and practicality",
+        "indian_specific": "Wallpaper design with potential cultural symbolism"
+      }
+    }
+  },
+  "cached_at": 1753448239655,
+  "cache_key": "9f27ac442dee8bf15af6f32f7e7bcb79"
+}

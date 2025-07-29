@@ -1,0 +1,68 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/690/image_cropper_1729687921025.jpg",
+  "analysis": {
+    "image_id": "img_137",
+    "ai_generated_tags": {
+      "room": "Jewelry Display Room",
+      "theme": "Mughal-Inspired Display",
+      "primary_features": [
+        "Shelving unit",
+        "Jewelry",
+        "Wooden shelves"
+      ],
+      "objects": [
+        {
+          "type": "Jewelry Display",
+          "features": [
+            "Necklaces, earrings, bracelets arranged on shelves"
+          ],
+          "materials": [
+            "Wood, metal"
+          ],
+          "finish": "Polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, gold, black, silver"
+        ],
+        "materials": [
+          "Wood, metal"
+        ],
+        "lighting": "Natural light, possibly from a window out of frame",
+        "texture": "Smooth wood, reflective metal"
+      },
+      "indian_context": {
+        "regional_style": "Mughal",
+        "traditional_elements": [
+          "Carved wooden shelves"
+        ],
+        "modern_adaptations": "Use of contemporary jewelry display",
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Mughal architecture and craftsmanship influence"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a jewelry display room with a Mughal-inspired aesthetic. The space features wooden shelves that are intricately carved, reminiscent of traditional Mughal designs. The jewelry, including necklaces, earrings, and bracelets, is artfully arranged on these shelves, showcasing a blend of modern jewelry display with traditional craftsmanship. The color palette is dominated by earthy tones, with the polished wood providing a warm brown backdrop that complements the metallic sheen of the jewelry.",
+    "metadata": {
+      "tags": [
+        "Jewelry Display",
+        "Mughal Style",
+        "Indian Design",
+        "Traditional Craftsmanship"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials",
+      "space_type": "Retail or Private Collection",
+      "functionality": "Focus on showcasing jewelry in an elegant and organized manner",
+      "indian_specific": "Carved wood and Mughal-inspired design elements"
+    }
+  },
+  "cached_at": 1753448987259,
+  "cache_key": "6ee135822c5187f76579afe864fe8869"
+}

@@ -1,0 +1,83 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.19%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_047",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden partition with carved elements",
+        "Lighting fixtures above the partition",
+        "Marble tiles on the floor",
+        "Blue accent wall"
+      ],
+      "objects": [
+        {
+          "type": "Wooden partition",
+          "features": [
+            "Carved with religious and traditional Indian symbols",
+            "Rectangular panels with vertical slats"
+          ],
+          "materials": [
+            "Wood",
+            "Metal for lighting fixtures"
+          ],
+          "finish": "Natural wood finish with metallic accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "Blue (wall)",
+          "White (ceiling)",
+          "Black (marble floor tiles)"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal",
+          "Plaster"
+        ],
+        "lighting": "Ambient lighting with recessed lights above the partition",
+        "texture": "Smooth marble flooring, textured wood partition"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Carved symbols",
+          "Wooden partition"
+        ],
+        "modern_adaptations": [
+          "Contemporary lighting fixtures",
+          "Blue accent wall"
+        ],
+        "space_utilization": "Partition used as a division between different spaces",
+        "cultural_significance": "Partition with carved symbols indicates cultural and religious importance in Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts an entryway that blends contemporary and traditional Indian design elements. The wooden partition, intricately carved with religious symbols, is a nod to Northern Indian architecture. The modern lighting fixtures and the blue accent wall add a contemporary touch. The space is organized with a partition serving as a division between different areas, showcasing a balance between tradition and modernity.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Contemporary design",
+          "Wooden partition",
+          "Carved symbols",
+          "Northern Indian style",
+          "Lighting fixtures"
+        ],
+        "budget_indicator": "Moderate, with visible use of marble, wood, and metal",
+        "space_type": "Residential entryway",
+        "functionality": "Dividing space and providing a welcoming entrance",
+        "indian_specific": "Intricately carved wooden partition with religious symbols"
+      }
+    }
+  },
+  "cached_at": 1753446728495,
+  "cache_key": "ada798e8a64e0ee841b57f2d24c79713"
+}

@@ -1,0 +1,113 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/363/image_cropper_1727876445828.jpg",
+  "analysis": {
+    "image_id": "img_379",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Glass panel",
+        "Carved wooden frame",
+        "Exposed brick wall",
+        "Recessed lighting"
+      ],
+      "objects": [
+        {
+          "type": "Glass panel",
+          "features": [
+            "Clear, transparent surface",
+            "Rectangular shape"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Carved wooden frame",
+          "features": [
+            "Dark wood tone",
+            "Complex design"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Exposed brick wall",
+          "features": [
+            "Reddish-brown color",
+            "Textured surface"
+          ],
+          "materials": [
+            "Brick"
+          ],
+          "finish": "Natural, unfinished"
+        },
+        {
+          "type": "Recessed lighting",
+          "features": [
+            "Embedded in the ceiling",
+            "Circular design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Reddish-brown",
+          "Dark brown",
+          "White",
+          "Black",
+          "Light brown"
+        ],
+        "materials": [
+          "Glass",
+          "Teak",
+          "Brick",
+          "Metal"
+        ],
+        "lighting": "Soft, ambient light from recessed lighting",
+        "texture": "Combination of smooth glass, polished teak, rough brick, and shiny metal"
+      },
+      "indian_context": {
+        "regional_style": "Mughal",
+        "traditional_elements": [
+          "Carved wooden frame"
+        ],
+        "modern_adaptations": [
+          "Exposure of brick wall, contemporary recessed lighting"
+        ],
+        "space_utilization": "Open and spacious, designed for social interaction",
+        "cultural_significance": "The carved wooden frame and exposed brick wall pay homage to Mughal architecture, symbolizing strength, resilience, and a connection to nature."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian living room showcases a blend of traditional and contemporary elements. The carved wooden frame and exposed brick wall are reflective of Mughal architectural influences, while the glass panel and recessed lighting add a contemporary touch. The room is open and spacious, designed for social interaction, with a balance of traditional craftsmanship and modern aesthetics.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Mughal Influence",
+        "Contemporary Design",
+        "Exposed Brick",
+        "Carved Wood"
+      ],
+      "budget_indicator": "Moderate, with use of materials like teak and glass, as well as a mix of traditional and modern design elements.",
+      "space_type": "Living Room",
+      "functionality": "Social gathering and relaxation",
+      "indian_specific": "The use of teak, a traditional Indian wood, and the Mughal influence in the design elements."
+    }
+  },
+  "cached_at": 1753461112862,
+  "cache_key": "01f81cb389b1ca0246a62c16228287f0"
+}

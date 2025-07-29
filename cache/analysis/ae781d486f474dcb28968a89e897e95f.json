@@ -1,0 +1,130 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00702.JPG",
+  "analysis": {
+    "image_id": "img_096",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Classical Indian",
+      "primary_features": [
+        "Dark wood cabinet with brass embellishments",
+        "Terracotta pot with plant",
+        "Marble floor",
+        "Carved wooden stool",
+        "Brass decorative items"
+      ],
+      "objects": [
+        {
+          "type": "Dark wood cabinet with brass embellishments",
+          "features": [
+            "Dark polished wood",
+            "Brass knobs and handles",
+            "Geometric brass accents"
+          ],
+          "materials": [
+            "Wood",
+            "Brass"
+          ],
+          "finish": "High-gloss finish on wood and metal"
+        },
+        {
+          "type": "Terracotta pot with plant",
+          "features": [
+            "Cylindrical shape",
+            "Earthen color"
+          ],
+          "materials": [
+            "Clay",
+            "Terracotta"
+          ],
+          "finish": "Natural glazed surface"
+        },
+        {
+          "type": "Marble floor",
+          "features": [
+            "White with light brown veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Carved wooden stool",
+          "features": [
+            "Brown wood",
+            "Carved design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Brass decorative items",
+          "features": [
+            "Shiny brass",
+            "Carved details"
+          ],
+          "materials": [
+            "Brass"
+          ],
+          "finish": "High-gloss polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "Gold",
+          "White",
+          "Pink",
+          "Green"
+        ],
+        "materials": [
+          "Wood",
+          "Brass",
+          "Marble",
+          "Clay"
+        ],
+        "lighting": "Soft indoor lighting",
+        "texture": "Smooth surfaces with some carved textures"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden cabinets with brass embellishments",
+          "Terracotta pots",
+          "Carved wooden furniture"
+        ],
+        "modern_adaptations": [
+          "Marble flooring",
+          "Geometric brass accents"
+        ],
+        "space_utilization": "Efficient use of vertical space with a cabinet and top shelf for decorative items",
+        "cultural_significance": "The use of brass and wood is significant in South Indian decor, symbolizing wealth, prosperity, and tradition"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a traditional South Indian entryway with a dark wood cabinet intricately adorned with brass knobs and geometric accents. A terracotta pot with a plant sits atop the cabinet, adding a natural touch. The floor is made of marble, and a carved wooden stool is visible in the foreground. Brass decorative items enhance the overall traditional aesthetic. The space is organized to utilize vertical space efficiently, reflecting a blend of tradition and modernity.",
+    "metadata": {
+      "tags": [
+        "South Indian entryway",
+        "Traditional decor",
+        "Wood and brass",
+        "Marble flooring",
+        "Carved furniture"
+      ],
+      "budget_indicator": "Mid-range, with high-quality materials like brass and polished wood",
+      "space_type": "Entryway",
+      "functionality": "Decorative and storage",
+      "indian_specific": "Dark wood cabinets with brass embellishments are a hallmark of South Indian interior design, symbolizing prosperity and tradition."
+    }
+  },
+  "cached_at": 1753458103966,
+  "cache_key": "ae781d486f474dcb28968a89e897e95f"
+}

@@ -1,0 +1,78 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1097/image_cropper_1729590411130.jpg",
+  "analysis": {
+    "image_id": "img_336",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Cabinet with glass doors",
+        "Under-cabinet lighting",
+        "Wall-mounted chimney"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet with glass doors",
+          "features": [
+            "Rectangular shape",
+            "Black frame",
+            "Glossy finish"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy black"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black",
+          "White",
+          "Silver"
+        ],
+        "materials": [
+          "Glass",
+          "Metal",
+          "Wallpaper"
+        ],
+        "lighting": "Under-cabinet LED lighting",
+        "texture": "Smooth cabinet surfaces, shiny glass"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Bringing traditional materials like teak into modern designs"
+        ],
+        "space_utilization": "Compact and efficient kitchen storage",
+        "cultural_significance": "Modern interpretation of Indian design, integrating traditional materials with contemporary aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian kitchen with a sleek, minimalist design. The prominent feature is a cabinet with black-framed glass doors, reflecting a contemporary take on traditional Indian aesthetics. The under-cabinet lighting adds functionality and a warm glow, while the wall-mounted chimney suggests an emphasis on modern cooking appliances. The color palette includes black, white, and silver, typical of modern Indian design, and the materials used (glass and metal) are clean and durable. The space is optimized for a small kitchen, with efficient storage solutions.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Kitchen",
+          "Minimalist",
+          "Under-cabinet lighting",
+          "Glass cabinets"
+        ],
+        "budget_indicator": "Moderate, due to the use of glass and metal materials",
+        "space_type": "Residential kitchen",
+        "functionality": "Storage and cooking area",
+        "indian_specific": "Modern adaptation of traditional Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1753460591499,
+  "cache_key": "1992df4a6089c7c83d68a36cd994b502"
+}

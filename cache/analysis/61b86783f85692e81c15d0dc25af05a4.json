@@ -3,69 +3,79 @@
   "analysis": {
     "image_id": "img_082",
     "ai_generated_tags": {
-      "room": "Entryway",
+      "room": "Living/Dining Space",
       "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Polka dot wallpaper",
-        "Sliding glass and black metal door",
-        "uilt-in shelving with decorative items"
+        "Polka Dot Wallpaper",
+        "Multicolored Sliding Door",
+        "Open Plan Living"
       ],
       "objects": [
         {
-          "type": "Shelving unit",
+          "type": "Sliding Door",
           "features": [
-            "Decorative items, books, star decor"
+            "Multicolored Panels",
+            "Glass Inserts",
+            "Black Frame"
           ],
           "materials": [
-            "Wood, glass, metal"
+            "Painted Wood",
+            "Glass",
+            "Metal"
           ],
-          "finish": "Matte, glossy surfaces"
+          "finish": "Matte"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, black, orange, green, gold"
+          "White",
+          "Green",
+          "Brown",
+          "Orange",
+          "Teal"
         ],
         "materials": [
-          "Metal, glass, wood"
+          "Wood",
+          "Glass",
+          "Metal"
         ],
-        "lighting": "Natural light from behind the glass, ambient indoor lighting",
-        "texture": "Smooth, glossy, textured (wallpaper)"
+        "lighting": "Natural Light",
+        "texture": "Smooth"
       },
       "indian_context": {
-        "regional_style": "Not explicitly Indian regional style",
+        "regional_style": "Marble",
         "traditional_elements": [
-          "Not traditional, but inspired by Indian color palettes"
+          "Polka Dot Design"
         ],
         "modern_adaptations": [
-          "Contemporary take on traditional Indian color schemes"
+          "Contemporary Sliding Door Design"
         ],
-        "space_utilization": "Efficient use of sliding door for room separation",
-        "cultural_significance": "Indian-inspired color palette may symbolize vibrancy and cultural richness"
-      },
-      "confidence_scores": {
-        "room": 0.8,
-        "theme": 0.7,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.75
-      },
-      "description": "The image shows a contemporary entryway with Indian design influences, featuring a sliding glass door with a black metal frame. The space includes built-in shelving with decorative items, which is an efficient use of space. The polka dot wallpaper, while not traditional, contributes to the Indian aesthetic with its vibrant and bold color palette. The use of wood, glass, and metal materials adds a modern touch to the design.",
-      "metadata": {
-        "tags": [
-          "Entryway",
-          "Contemporary Design",
-          "Indian Color Palette",
-          "Sliding Door",
-          "Built-in Shelving"
-        ],
-        "budget_indicator": "Moderate, with visible use of glass and metal for modern design",
-        "space_type": "Residential Entryway",
-        "functionality": "Organized and functional space that separates the entrance from the interior",
-        "indian_specific": "Use of vibrant colors and modern adaptations of traditional Indian design elements"
+        "space_utilization": "Open Plan with Partition",
+        "cultural_significance": "Polka Dot Design is often seen in traditional Indian garments and fabrics, symbolizing diversity and vibrancy"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern living space with a subtle incorporation of traditional Indian design elements. The polka dot wallpaper, a common motif in Indian textiles and fabrics, and the use of vibrant colors like green, brown, and orange, suggest influences from Indian regional styles. The sliding glass door with a contemporary design is a modern interpretation of traditional partition elements, blending seamlessly with the open plan layout. The space appears to be well-lit with natural light, highlighting the smooth textures and materials used in the design.",
+    "metadata": {
+      "tags": [
+        "Indian Design",
+        "Contemporary",
+        "Polka Dot",
+        "Modern Partition",
+        "Open Plan"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Living/Dining",
+      "functionality": "Social Gathering",
+      "indian_specific": "Polka Dot Wallpaper, Use of Color"
     }
   },
-  "cached_at": 1753181239244,
+  "cached_at": 1753451465016,
   "cache_key": "61b86783f85692e81c15d0dc25af05a4"
 }

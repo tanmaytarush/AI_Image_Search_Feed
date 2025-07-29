@@ -1,0 +1,69 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/509/image_cropper_1729053997458.jpg",
+  "analysis": {
+    "image_id": "img_313",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Marble tiles",
+        "White wall"
+      ],
+      "objects": [
+        {
+          "type": "Shelf",
+          "features": [
+            "Rectangular",
+            "Installed on wall"
+          ],
+          "materials": [
+            "Ceramic"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Marble gray"
+        ],
+        "materials": [
+          "Marble",
+          "Ceramic"
+        ],
+        "lighting": "Natural light",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Minimalist, no visible storage solutions",
+        "cultural_significance": "No culturally significant elements observed"
+      },
+      "confidence_scores": {
+        "room": 0.75,
+        "theme": 0.7,
+        "primary_features": 0.8,
+        "objects": 0.9,
+        "indian_context": 0.4
+      },
+      "description": "The image depicts a minimalist bathroom with a marble-tiled wall and a white wall with a rectangular ceramic shelf installed. The design is simple and functional with a focus on minimalism. There are no visible Indian design elements or cultural decorations present.",
+      "metadata": {
+        "tags": [
+          "Bathroom",
+          "Minimalist",
+          "Marble",
+          "White",
+          "Ceramic"
+        ],
+        "budget_indicator": "Moderate, due to the use of marble tiles and ceramic shelf",
+        "space_type": "Bathroom",
+        "functionality": "Storage and display",
+        "indian_specific": []
+      }
+    }
+  },
+  "cached_at": 1753460314011,
+  "cache_key": "424562e06bdaf27a106aa8a3e6320f79"
+}

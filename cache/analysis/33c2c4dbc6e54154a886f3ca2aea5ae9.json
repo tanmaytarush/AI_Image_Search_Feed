@@ -3,80 +3,73 @@
   "analysis": {
     "image_id": "img_023",
     "ai_generated_tags": {
-      "room": "Entryway",
+      "room": "Entryway or small living space",
       "theme": "Contemporary Indian",
       "primary_features": [
-        "Marble flooring",
-        "Wooden cabinet with curved designs",
+        "Sleek wooden cabinetry with decorative elements",
         "Abstract wall art",
-        "Decorative plants",
-        "Seating area"
+        "Modern lighting fixtures"
       ],
       "objects": [
         {
-          "type": "Wooden cabinet",
+          "type": "Wooden cabinetry",
           "features": [
-            "Curved and geometric patterns",
-            "Textured finish on doors"
+            "Curved panel design",
+            "Combination of wood and beige panels",
+            "Decorative carvings"
           ],
           "materials": [
             "Wood",
-            "Thick laminate or veneer"
+            "Painted finish"
           ],
-          "finish": "Smooth, natural wood finish with subtle texture"
+          "finish": "Satin finish"
         },
         {
           "type": "Abstract wall art",
           "features": [
-            "Large canvas with geometric lines",
-            "Subtle golden tones"
+            "Curved lines and organic shapes"
           ],
           "materials": [
-            "Canvas",
-            "Acrylic or oil paint"
+            "Paint on canvas"
           ],
-          "finish": "Matte finish with nuanced brushstrokes"
+          "finish": "Polished"
         },
         {
-          "type": "Seating area",
+          "type": "Decorative items",
           "features": [
-            "Textured cushion with geometric pattern",
-            "Wooden base with curved design"
+            "Small plants, vases, and figurines"
           ],
           "materials": [
-            "Fabric",
-            "Wood"
+            "Ceramic, metal"
           ],
-          "finish": "Fabric with vibrant geometric patterns, wood with natural finish"
+          "finish": "Shiny"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Peach",
-          "Brown",
-          "Beige",
-          "Light gray"
+          "Peachy pink walls",
+          "Beige and wood tones",
+          "White marble floor"
         ],
         "materials": [
-          "Marble",
           "Wood",
-          "Canvas",
-          "Fabric"
+          "Paint",
+          "Marble"
         ],
-        "lighting": "Natural light with soft ambient lighting",
-        "texture": "Marble with veining, textured wood, fabric with geometric patterns"
+        "lighting": "Soft ambient lighting from unseen fixtures",
+        "texture": "Combination of smooth and textured surfaces"
       },
       "indian_context": {
-        "regional_style": "Not strongly regional, leans towards urban contemporary",
+        "regional_style": "No specific regional style evident",
         "traditional_elements": [
-          "Curved furniture elements",
-          "Abstract wall art"
+          "Carved wooden panels"
         ],
         "modern_adaptations": [
-          "Contemporary interpretation of traditional furniture shapes"
+          "Contemporary curves and lines",
+          "Minimalist approach"
         ],
-        "space_utilization": "Efficient use of space in a small area",
-        "cultural_significance": "Abstract art represents modern urban Indian sensibilities, while furniture maintains a connection to traditional shapes"
+        "space_utilization": "Efficient use of vertical space with wall-mounted cabinets",
+        "cultural_significance": "The use of wood suggests a nod to traditional craftsmanship, but the overall design is modern and minimalistic"
       }
     },
     "confidence_scores": {
@@ -86,22 +79,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This contemporary Indian entryway features a sleek marble floor, a wooden cabinet with curved and geometric designs, and an abstract wall art piece that adds a modern, urban touch. The seating area complements the design with a textured cushion and a wooden base, maintaining a connection to traditional shapes. The use of natural wood and subtle colors creates a balanced and inviting space.",
+    "description": "This entryway showcases a modern interpretation of Indian interior design, featuring sleek wooden cabinetry with subtle curved panel designs and a decorative abstract wall art piece. The use of wood and soft pink tones reflects traditional craftsmanship, while the clean lines and modern lighting fixtures give it a contemporary feel. The space is efficiently organized, utilizing vertical space with wall-mounted cabinets to maximize the use of the available area.",
     "metadata": {
       "tags": [
         "Contemporary Indian",
-        "Marble Flooring",
-        "Wooden Cabinet",
-        "Abstract Art",
-        "Urban Contemporary",
-        "Indian Design"
+        "Minimalistic",
+        "Wooden cabinetry",
+        "Abstract art",
+        "Modern lighting"
       ],
-      "budget_indicator": "Moderate to high, given the use of marble and wooden veneer",
-      "space_type": "Entryway",
-      "functionality": "Welcome area with storage and seating",
-      "indian_specific": "Curved furniture elements and abstract art with Indian artistic influence"
+      "budget_indicator": "Moderate",
+      "space_type": "Entryway or small living space",
+      "functionality": "Entrance area, transitional space, and potentially a small living area",
+      "indian_specific": "Wooden cabinetry with carvings and a nod to traditional craftsmanship"
     }
   },
-  "cached_at": 1753181097215,
+  "cached_at": 1753446172934,
   "cache_key": "33c2c4dbc6e54154a886f3ca2aea5ae9"
 }

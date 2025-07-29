@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/611/image_cropper_1729135569998.jpg",
+  "analysis": {
+    "image_id": "img_279",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Traditional",
+      "primary_features": [
+        "Built-in shelves",
+        "Teak wood furniture",
+        "Marble flooring",
+        "Carved wood accents"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Side Table",
+          "features": [
+            "Carved detailing on legs",
+            "Round top"
+          ],
+          "materials": [
+            "Teak Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Teak Wood Coffee Table",
+          "features": [
+            "Rectangular shape",
+            "Centered design"
+          ],
+          "materials": [
+            "Teak Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Marble Flooring",
+          "features": [
+            "Polished surface with intricate designs"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High-gloss finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teak Brown",
+          "Marble Gray",
+          "Light Beige"
+        ],
+        "materials": [
+          "Teak Wood",
+          "Marble",
+          "Brass"
+        ],
+        "lighting": "Natural light from window, augmented by recessed lighting",
+        "texture": "Smooth marble, textured teak wood"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian or Marathi",
+        "traditional_elements": [
+          "Teak wood furniture",
+          "Marble flooring"
+        ],
+        "modern_adaptations": [
+          "Circular brass accents on shelves",
+          "Modern lighting fixtures"
+        ],
+        "space_utilization": "Efficient use of built-in shelves for storage and display",
+        "cultural_significance": "Teak wood and marble are traditional materials in Marathi homes, symbolizing prosperity and elegance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern interpretation of traditional Indian interior design, utilizing materials like teak wood and marble. The space features built-in shelves with circular brass accents, positioned above a polished marble floor, creating a harmonious blend of traditional craftsmanship with contemporary aesthetics. The teak wood furniture, with its carved detailing, adds a rich, warm tone to the room, while the marble flooring provides a luxurious and sophisticated look. The natural light streaming through the window enhances the overall ambiance, emphasizing the natural beauty of the materials used.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Traditional",
+        "Teak Wood",
+        "Marble Flooring",
+        "Built-in Shelves",
+        "Circular Accents"
+      ],
+      "budget_indicator": "Mid-range due to use of teak wood and marble",
+      "space_type": "Living Room",
+      "functionality": "Multipurpose space for relaxation and socializing",
+      "indian_specific": "Teak wood furniture and marble flooring"
+    }
+  },
+  "cached_at": 1753459905461,
+  "cache_key": "436d041bf122429d3ad24a7bc6b77098"
+}

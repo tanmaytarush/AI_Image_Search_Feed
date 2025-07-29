@@ -1,0 +1,113 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/224/image_cropper_1727018446307.jpg",
+  "analysis": {
+    "image_id": "img_303",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Sliding cabinet doors",
+        "Modern backsplash",
+        "Countertop with sink"
+      ],
+      "objects": [
+        {
+          "type": "Sliding cabinet doors",
+          "features": [
+            "Flush design",
+            "Light wood finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Modern design",
+            "White tiles"
+          ],
+          "materials": [
+            "Glass tiles"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Solid surface",
+            "White color"
+          ],
+          "materials": [
+            "Synthetic resin"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Inset design",
+            "Metallic finish"
+          ],
+          "materials": [
+            "Copper"
+          ],
+          "finish": "Brushed"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light wood",
+          "Gray"
+        ],
+        "materials": [
+          "Wood",
+          "Glass tiles",
+          "Synthetic resin",
+          "Copper"
+        ],
+        "lighting": "Artificial lighting overhead",
+        "texture": [
+          "Smooth",
+          "Glossy",
+          "Polished"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design with traditional materials"
+        ],
+        "space_utilization": "Efficient use of space with sliding doors for cabinets",
+        "cultural_significance": "Neutral color palette and modern design reflect contemporary living"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.85,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.8
+    },
+    "description": "The image depicts a modern kitchen with minimalist design elements. The sliding cabinet doors are made of light wood with a smooth finish, a modern backsplash of white glass tiles with a glossy finish, and a solid synthetic resin countertop with a polished surface. The sink is made of copper with a brushed finish. The overall color palette is neutral, with white, light wood, and gray tones. The design is contemporary with some traditional material adaptations, such as the use of wood and copper, reflecting a modern take on traditional Indian design elements.",
+    "metadata": {
+      "tags": [
+        "Minimalist kitchen",
+        "Modern Indian design",
+        "Light wood finishes",
+        "Glass tiles",
+        "Synthetic resin countertop",
+        "Copper sink"
+      ],
+      "budget_indicator": "Moderate, with the use of modern materials and finishes",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is functionality and efficiency in food preparation",
+      "indian_specific": "Minimal adaptations of traditional materials and design principles"
+    }
+  },
+  "cached_at": 1753460192703,
+  "cache_key": "85cae41e02b758387b649d0007d49a8d"
+}

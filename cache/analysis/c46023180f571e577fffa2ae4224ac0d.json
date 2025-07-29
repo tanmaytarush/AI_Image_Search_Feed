@@ -1,0 +1,116 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.48%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_028",
+    "ai_generated_tags": {
+      "room": "Vanity or Wet Bar",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Glass-fronted cabinet",
+        "Beverage storage",
+        "Marble countertop",
+        "Vanity sink",
+        "Decorative items"
+      ],
+      "objects": [
+        {
+          "type": "Vanity sink",
+          "features": [
+            "Gold-toned finish",
+            "Deep basin"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished gold"
+        },
+        {
+          "type": "Glass-fronted cabinet",
+          "features": [
+            "Sheer glass panels",
+            "Metal frame"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Clear and metallic"
+        },
+        {
+          "type": "Beverage storage",
+          "features": [
+            "Glass shelves",
+            "Metal frame"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Clear and metallic"
+        },
+        {
+          "type": "Marble countertop",
+          "features": [
+            "White marble with brown veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Smooth and glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Gold",
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Marble",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Dim ambient lighting with focused light under the shelves",
+        "texture": "Smooth surfaces with subtle veining on the marble"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional; modern interpretation of Indian design",
+        "traditional_elements": [
+          "Decorative items",
+          "Metallic accents"
+        ],
+        "modern_adaptations": [
+          "Glass-fronted cabinets",
+          "Marble countertop"
+        ],
+        "space_utilization": "Efficient use of vertical space with storage and functional elements",
+        "cultural_significance": "Cultural relevance in the use of gold and marble, elements reflecting luxury and elegance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian design approach in a vanity or wet bar setup. The space features a glass-fronted cabinet with clear glass panels and metallic frames, a gold-toned vanity sink with a deep basin, and a marble countertop with a white base and brown veining. Decorative items, including a vase and a spherical object, are placed on the countertop, adding to the aesthetic. The use of gold and marble reflects traditional Indian design elements with a contemporary twist, emphasizing luxury and elegance.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Vanity",
+        "Wet Bar",
+        "Marble",
+        "Gold",
+        "Glass Front"
+      ],
+      "budget_indicator": "High",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is for personal grooming or as a bar area",
+      "indian_specific": "Decorative and material choices reflect traditional Indian design elements"
+    }
+  },
+  "cached_at": 1753457025258,
+  "cache_key": "c46023180f571e577fffa2ae4224ac0d"
+}

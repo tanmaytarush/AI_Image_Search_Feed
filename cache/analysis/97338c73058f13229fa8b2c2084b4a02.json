@@ -1,0 +1,79 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/138/image_cropper_1727768662938.jpg",
+  "analysis": {
+    "image_id": "img_182",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in shelves",
+        "Black countertop",
+        "Open shelving",
+        "Green bottle"
+      ],
+      "objects": [
+        {
+          "type": "Shelving unit",
+          "features": [
+            "Built-in design",
+            "Open shelving",
+            "Wall-mounted"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Natural wood finish with metallic accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Black countertop",
+          "Green bottle label"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Black granite"
+        ],
+        "lighting": "Natural light coming from an unseen window or door",
+        "texture": "Smooth finishes on walls and countertop, textured wood grain on shelves"
+      },
+      "indian_context": {
+        "regional_style": "Mughal-inspired elements in modern design",
+        "traditional_elements": [
+          "Minimal use of traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and designs"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage",
+        "cultural_significance": "Modern adaptation of traditional Mughal design aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.9,
+        "objects": 0.95,
+        "indian_context": 0.8
+      },
+      "description": "This modern Indian kitchen showcases a blend of traditional Mughal-inspired elements with contemporary design. The built-in shelving unit, with its natural wood finish and metallic accents, makes efficient use of vertical space. The black countertop, though not traditional, complements the modern aesthetic. The presence of a green bottle adds a pop of color, reflecting the typical use of vibrant colors in Indian interiors. The space is well-lit, suggesting the inclusion of natural light, which is a common feature in modern Indian design.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Mughal design",
+          "Efficient storage",
+          "Black countertop",
+          "Green accents"
+        ],
+        "budget_indicator": "Moderate to high",
+        "space_type": "Residential kitchen",
+        "functionality": "Storage and preparation",
+        "indian_specific": "Integration of Mughal design elements in modern context"
+      }
+    }
+  },
+  "cached_at": 1753459072842,
+  "cache_key": "97338c73058f13229fa8b2c2084b4a02"
+}

@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/575/image_cropper_1729090301931.jpg",
+  "analysis": {
+    "image_id": "img_167",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Mughal Influence",
+      "primary_features": [
+        "Glass door with wooden frame",
+        "Teak shelves",
+        "Dark wood flooring"
+      ],
+      "objects": [
+        {
+          "type": "Teak shelves",
+          "features": [
+            "Carved wooden edges",
+            "Dark stain finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Dark stain, smooth finish"
+        },
+        {
+          "type": "Glass door with wooden frame",
+          "features": [
+            "Panelled glass",
+            "Teak wood frame"
+          ],
+          "materials": [
+            "Teak wood for frame, glass for panels"
+          ],
+          "finish": "Teak wood natural finish, polished glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark wood tones",
+          "Transparent glass",
+          "Black floor tiles"
+        ],
+        "materials": [
+          "Teak wood",
+          "Glass",
+          "Dark floor tiles"
+        ],
+        "lighting": "Natural light from glass door",
+        "texture": "Carved wood texture, smooth glass, dark tile texture"
+      },
+      "indian_context": {
+        "regional_style": "Mughal",
+        "traditional_elements": [
+          "Carved wood elements",
+          "Dark wood tones"
+        ],
+        "modern_adaptations": [
+          "Minimalist glass door with wooden frame"
+        ],
+        "space_utilization": "Optimized for storage with shelves",
+        "cultural_significance": "Represents richness and status often associated with Mughal architecture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a living space with Mughal-inspired design elements, featuring dark wood cabinets with intricate carvings and a glass door with a wooden frame. The space utilizes dark wood tones and a minimalist approach with a glass door, offering a blend of traditional Indian craftsmanship with modern functionality. The use of teak wood and dark stain finish reflects the Mughal influence, which is known for its grandeur and attention to detail.",
+    "metadata": {
+      "tags": [
+        "Mughal",
+        "Teak",
+        "Glass Door",
+        "Dark Wood Tones",
+        "Storage Shelves"
+      ],
+      "budget_indicator": "Mid-range, as teak wood and glass are premium materials",
+      "space_type": "Residential",
+      "functionality": "Storage and entry/exit area",
+      "indian_specific": "Carved wood elements, dark wood finish"
+    }
+  },
+  "cached_at": 1753449545583,
+  "cache_key": "288d51172c4f8bb0b552ae573e5c8bbd"
+}

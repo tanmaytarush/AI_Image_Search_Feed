@@ -1,0 +1,134 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.10%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_073",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Open-plan layout",
+        "Modern furniture with traditional accents",
+        "Framed wall display",
+        "Marble and wood elements",
+        "Luxurious lighting"
+      ],
+      "objects": [
+        {
+          "type": "Coffee Table",
+          "features": [
+            "Circular shape",
+            "Wooden material",
+            "Natural finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural, possibly teak or mango wood"
+        },
+        {
+          "type": "Sectional Sofa",
+          "features": [
+            "U-shaped design",
+            "White upholstery",
+            "Brown cushions"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth, high-quality fabric finish"
+        },
+        {
+          "type": "Wall Display Cabinet",
+          "features": [
+            "Gold-framed",
+            "Glass doors",
+            "Decorative items inside"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Gold framing, glass doors with reflective surface"
+        },
+        {
+          "type": "TV Stand",
+          "features": [
+            "Modern design",
+            "Wooden shelves",
+            "Integrated storage"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished marble with wood accents"
+        },
+        {
+          "type": "Dining Table",
+          "features": [
+            "Round shape",
+            "White base",
+            "Black metal frame"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Black metal with white base"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black",
+          "Gold",
+          "Marble grey"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Modern LED ceiling lights, hanging globe lamps",
+        "texture": "Smooth marble, polished wood, fabric upholstery"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but has influences from Marathi or Maharashtrian design",
+        "traditional_elements": [
+          "Marble and wood elements",
+          "Wall display cabinet with gold accents"
+        ],
+        "modern_adaptations": [
+          "Integration of LED lighting and modern furniture design"
+        ],
+        "space_utilization": "Open-plan layout with clear delineation of areas for living, dining, and display",
+        "cultural_significance": "Wall display cabinet with gold accents and religious items suggests a space for cultural and religious significance, possibly for home worship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This living room exemplifies a contemporary design with strong Indian influences, blending modern furniture with traditional elements such as marble and wood. The space features a harmonious color palette of white, brown, and gold, complemented by luxurious materials and lighting. The wall display cabinet with gold framing and religious items suggests a culturally significant space, possibly for home worship. The open-plan layout and modern furniture provide a comfortable and functional living area.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Contemporary style",
+        "Marble and wood",
+        "Luxurious living room",
+        "Modern furniture with traditional accents",
+        "Open-plan design",
+        "Home worship space"
+      ],
+      "budget_indicator": "Luxury",
+      "space_type": "Residential",
+      "functionality": "Living room, dining area, and display space",
+      "indian_specific": "Wall display cabinet with gold accents, religious items"
+    }
+  },
+  "cached_at": 1753447343890,
+  "cache_key": "fd8b0f4ec90a8b160fbe0d9fa293f7f1"
+}

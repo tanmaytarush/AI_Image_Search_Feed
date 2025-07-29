@@ -3,81 +3,77 @@
   "analysis": {
     "image_id": "img_001",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Contemporary Indian",
+      "room": "Guest room",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Built-in wardrobe",
-        "Window with grill",
-        "Built-in bench"
+        "Built-in bed with wooden frame",
+        "Geometric patterned wall panels",
+        "Wooden window with grill"
       ],
       "objects": [
         {
-          "type": "Built-in wardrobe",
+          "type": "Built-in bed",
           "features": [
-            "Gray textured panels",
-            "Herringbone pattern",
-            "Metallic handles"
+            "Wooden frame with storage underneath",
+            "Rectangular mattress placed on top"
           ],
           "materials": [
-            "Melamine",
-            "Metallic hardware"
+            "Wood (possibly teak or similar)",
+            "Laminate or MDF for the frame",
+            "Synthetic material for the mattress"
           ],
-          "finish": "Textured"
+          "finish": "Natural wood finish, matte laminate finish"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Geometric patterned wall panels",
+            "Sliding doors with silver handles"
+          ],
+          "materials": [
+            "Wall panels appear to be metal or wood laminate with a textured finish"
+          ],
+          "finish": "Textured geometric patterned finish"
         },
         {
           "type": "Window",
           "features": [
             "Wooden frame",
-            "Metal grill",
-            "Panoramic view"
+            "Metal grill"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "Wood for the frame",
+            "Metal for the grill"
           ],
-          "finish": "Natural"
-        },
-        {
-          "type": "Built-in bench",
-          "features": [
-            "Wooden frame",
-            "White seat",
-            "Integrated with wardrobe"
-          ],
-          "materials": [
-            "Wood",
-            "Metallic hardware"
-          ],
-          "finish": "Natural"
+          "finish": "Polished wooden finish, metallic finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Gray",
-          "White",
-          "Brown",
-          "Black"
+          "Dark gray for the wall panels",
+          "Light brown for the wooden bed frame",
+          "White for the mattress",
+          "Light gray for the wall"
         ],
         "materials": [
-          "Melamine",
+          "Wood",
           "Metal",
-          "Wood"
+          "Laminate/wooden panels"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Textured and smooth"
+        "lighting": "Natural light from the window, ceiling lights visible",
+        "texture": "Smooth for the bed frame, textured for the wall panels"
       },
       "indian_context": {
-        "regional_style": "South Indian",
+        "regional_style": "South Indian (Kerala style)",
         "traditional_elements": [
-          "Wooden window grill",
-          "Textured paneling"
+          "Built-in bed (similar to traditional chettu)",
+          "Wooden window grill"
         ],
         "modern_adaptations": [
-          "Contemporary herringbone pattern",
-          "Integrated furniture"
+          "Geometric wall panels with contemporary finish"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture",
-        "cultural_significance": "Balancing traditional elements with modern aesthetics"
+        "space_utilization": "Efficient use of space with built-in furniture and storage",
+        "cultural_significance": "The use of built-in furniture and geometric patterns reflects traditional functionality and aesthetic preferences in South Indian interiors"
       }
     },
     "confidence_scores": {
@@ -87,21 +83,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image showcases a contemporary Indian bedroom design with a focus on efficient space utilization and a blend of traditional and modern elements. The built-in wardrobe with a herringbone pattern and metallic hardware, along with the wooden window grill, are key features that reflect a South Indian aesthetic while incorporating modern design trends.",
+    "description": "The image showcases a modern interpretation of a South Indian guest room, featuring a built-in bed with a wooden frame and a synthetic mattress, complemented by geometric patterned wall panels and a traditional wooden window with a metal grill. The design emphasizes functionality with efficient space utilization, highlighting Indian regional style in a contemporary setting.",
     "metadata": {
       "tags": [
-        "Bedroom",
-        "Contemporary Indian",
-        "South Indian",
-        "Textured paneling",
-        "Built-in furniture"
+        "Indian interior design",
+        "Modern traditional style",
+        "South Indian architecture",
+        "Built-in furniture",
+        "Geometric pattern"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Bedroom",
-      "functionality": "Storage and seating",
-      "indian_specific": "Textured paneling and wooden window grill"
+      "budget_indicator": "Moderate to high, given the use of materials like wood and metal with a textured finish",
+      "space_type": "Guest room",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Use of built-in furniture and traditional window design"
     }
   },
-  "cached_at": 1753179240668,
+  "cached_at": 1753445568617,
   "cache_key": "8b39c7601757f2dd295338090d15e5a3"
 }

@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1727954630138.jpg",
+  "analysis": {
+    "image_id": "img_222",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Marble tiles",
+        "Wall-mounted vanity",
+        "Modern faucet",
+        "Mirror"
+      ],
+      "objects": [
+        {
+          "type": "Vanity",
+          "features": [
+            "Wall-mounted design",
+            "Integral sink",
+            "Modern faucet"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High-gloss polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray"
+        ],
+        "materials": [
+          "Marble",
+          "Ceramic tiles"
+        ],
+        "lighting": "Natural light from a window",
+        "texture": "Smooth marble and ceramic surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly Indian regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of modern materials and clean lines",
+          "Cultural and regional elements are minimal or absent"
+        ],
+        "space_utilization": "Space is optimized for functionality with minimal ornamentation",
+        "cultural_significance": "No cultural elements indicative of Indian design are present"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.7,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.5
+      },
+      "description": "The image depicts a modern bathroom with contemporary design elements, characterized by the use of smooth, high-gloss marble tiles and a wall-mounted vanity with a modern faucet. The space appears to be optimized for functionality with a focus on clean lines and minimal ornamentation, typical of modern design philosophies. There are no traditional Indian design elements or cultural motifs visible in this image.",
+      "metadata": {
+        "tags": [
+          "Modern",
+          "Bathroom",
+          "Marble",
+          "Wall-mounted vanity",
+          "Contemporary design"
+        ],
+        "budget_indicator": "Mid to high due to the use of high-quality materials like marble",
+        "space_type": "Residential bathroom",
+        "functionality": "Primary purpose is for personal hygiene and grooming",
+        "indian_specific": "No Indian-specific design features are visible"
+      }
+    }
+  },
+  "cached_at": 1753450128935,
+  "cache_key": "45608ed4fa30416e8cac90f29ed08ee7"
+}

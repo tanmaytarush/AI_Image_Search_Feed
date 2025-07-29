@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/166/image_cropper_1726717399373.jpg",
+  "analysis": {
+    "image_id": "img_192",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Modern with Indian Influences",
+      "primary_features": [
+        "Marble accents",
+        "Wooden paneling",
+        "Neutral color palette",
+        "Lighting fixture"
+      ],
+      "objects": [
+        {
+          "type": "Marble bench",
+          "features": [
+            "Inlaid with floral patterns",
+            "Curved design"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished and glossy"
+        },
+        {
+          "type": "Wooden paneling",
+          "features": [
+            "Dark wood finish",
+            "Horizontal design"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Smooth and rich"
+        },
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Modern design",
+            "Integrated into the paneling"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Shiny and metallic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark brown",
+          "Neutral gray",
+          "Gold"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Ambient lighting with recessed lights",
+        "texture": "Smooth surfaces on the marble and wood, glossy finish on the marble bench"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Wooden paneling"
+        ],
+        "modern_adaptations": [
+          "Inlaid marble bench with a modern design"
+        ],
+        "space_utilization": "Foyer area with a focus on seating and minimal storage",
+        "cultural_significance": "Use of wood and marble reflects Indian craftsmanship and aesthetics, with the bench's inlaid design symbolizing attention to detail and beauty"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern foyer with Indian influences, featuring a marble bench with intricate floral inlays, dark wooden paneling, and integrated lighting. The space utilizes neutral colors and smooth textures to create a sophisticated and welcoming environment. The bench's design is a modern adaptation of traditional Indian craftsmanship, with the wood providing a grounding element that is both functional and aesthetically pleasing.",
+      "metadata": {
+        "tags": [
+          "Indian design",
+          "Marble bench",
+          "Wooden paneling",
+          "Modern foyer",
+          "Neutral color palette",
+          "Craftsmanship"
+        ],
+        "budget_indicator": "Mid-range, with materials like marble and wood indicating a higher budget",
+        "space_type": "Foyer",
+        "functionality": "Entrance and seating area",
+        "indian_specific": "Inlaid marble bench, use of wood"
+      }
+    }
+  },
+  "cached_at": 1753459140829,
+  "cache_key": "cecc990f02fee4744efaab204d894300"
+}

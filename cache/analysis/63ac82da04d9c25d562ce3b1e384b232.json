@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/192/image_cropper_1726820110520.jpg",
+  "analysis": {
+    "image_id": "img_370",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Colonial Style",
+      "primary_features": [
+        "Wooden Partition Wall",
+        "Built-in Storage Shelves",
+        "Teak Wood Frame"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Partition Wall",
+          "features": [
+            "Carved wooden design",
+            "Rectangular panels"
+          ],
+          "materials": [
+            "Teak Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Teak Wood Frame",
+          "features": [
+            "Simple rectangular structure",
+            "Integration with partition"
+          ],
+          "materials": [
+            "Teak Wood"
+          ],
+          "finish": "Unfinished"
+        },
+        {
+          "type": "Built-in Storage Shelves",
+          "features": [
+            "Recessed design",
+            "Glass and wood construction"
+          ],
+          "materials": [
+            "Glass",
+            "Teak Wood"
+          ],
+          "finish": "Clear varnish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (Teak Wood)",
+          "White (Glass)",
+          "Brown (Wooden Partition)"
+        ],
+        "materials": [
+          "Teak Wood",
+          "Glass",
+          "Wooden Partition Wall"
+        ],
+        "lighting": "Natural light with no visible artificial lighting",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "North Indian (Hindi/Urdu Style)",
+        "traditional_elements": [
+          "Carved Wooden Partition",
+          "Teak Wood Framing"
+        ],
+        "modern_adaptations": [
+          "Built-in Storage Shelves with modern materials"
+        ],
+        "space_utilization": "Efficient use of the space with storage integrated into the partition",
+        "cultural_significance": "The design reflects a blend of traditional North Indian architectural elements with modern functionality"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a living room featuring a colonial-style design with a prominent wooden partition wall. The wall is intricately carved and painted in a rich brown tone, showcasing North Indian architectural influence. The partition is integrated with built-in storage shelves, using a combination of glass and teak wood, reflecting a modern adaptation of traditional elements. The overall design emphasizes functionality and integrates cultural significance through the use of traditional materials and craftsmanship.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Colonial Style",
+          "North Indian",
+          "Teak Wood",
+          "Built-in Storage"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential Living Room",
+        "functionality": "Storage and space optimization",
+        "indian_specific": "Teak Wood, Carved Partition, Built-in Shelves"
+      }
+    }
+  },
+  "cached_at": 1753460995766,
+  "cache_key": "63ac82da04d9c25d562ce3b1e384b232"
+}

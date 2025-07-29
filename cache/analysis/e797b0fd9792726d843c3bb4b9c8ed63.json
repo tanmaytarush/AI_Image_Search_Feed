@@ -1,0 +1,83 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/830/image_cropper_1729409611890.jpg",
+  "analysis": {
+    "image_id": "img_219",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Contemporary with Indian influences",
+      "primary_features": [
+        "Marble flooring",
+        "Wardrobe with glass doors",
+        "Wall-mounted shelves"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Glass doors with metal handles",
+            "Carved wooden frame"
+          ],
+          "materials": [
+            "Glass, metal, wood"
+          ],
+          "finish": "Sleek, modern finish"
+        },
+        {
+          "type": "Wall-mounted shelves",
+          "features": [
+            "Carved wooden design",
+            "Embedded lighting"
+          ],
+          "materials": [
+            "Wood, metal"
+          ],
+          "finish": "Polished, elegant finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, beige, brown"
+        ],
+        "materials": [
+          "Marble, wood, glass, metal"
+        ],
+        "lighting": "Natural light with embedded lighting in shelves",
+        "texture": "Smooth marble flooring, polished wood, glass surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not strictly regional as it blends contemporary with traditional",
+        "traditional_elements": [
+          "Carved wooden details"
+        ],
+        "modern_adaptations": [
+          "Glass doors, contemporary lighting"
+        ],
+        "space_utilization": "Efficient use of vertical space with wall-mounted shelves",
+        "cultural_significance": "The carved wood and glass doors reflect traditional craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior showcases a modern living room with Indian design influences. The space features a sleek, contemporary wardrobe with glass doors and metal handles, complemented by wall-mounted shelves with embedded lighting and carved wooden details. The marble flooring adds a touch of elegance, while the overall color palette of white, beige, and brown reflects traditional Indian aesthetics. The design effectively blends traditional craftsmanship with modern functionality, creating a culturally rich and stylish living environment.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Modern living room",
+          "Carved wood",
+          "Glass doors",
+          "Marble flooring"
+        ],
+        "budget_indicator": "Moderate to high, due to use of marble and glass",
+        "space_type": "Residential",
+        "functionality": "Storage and display space",
+        "indian_specific": "Carved wood and glass doors"
+      }
+    }
+  },
+  "cached_at": 1753450100688,
+  "cache_key": "e797b0fd9792726d843c3bb4b9c8ed63"
+}

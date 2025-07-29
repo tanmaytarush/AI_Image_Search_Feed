@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/28/image_cropper_1726487339470.jpg",
+  "analysis": {
+    "image_id": "img_195",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "White bed with patterned bedding",
+        "Large window with sheer curtains",
+        "Simple luggage rack"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "White frame",
+            "Patterned blue and white bedding"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Cotton bedding"
+          ],
+          "finish": "Smooth, glossy finish on the bed frame"
+        },
+        {
+          "type": "Luggage Rack",
+          "features": [
+            "Minimalistic design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Blue",
+          "Black",
+          "Brown",
+          "Burgundy"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Cotton",
+          "Sheer fabric"
+        ],
+        "lighting": "Natural light from the window, no artificial lighting visible",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No clear regional Indian style visible",
+        "traditional_elements": [
+          "No traditional Indian elements present"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with modern materials"
+        ],
+        "space_utilization": "Efficient use of space with a focus on functionality",
+        "cultural_significance": "No cultural elements specific to Indian design present"
+      },
+      "confidence_scores": {
+        "room": 0.9,
+        "theme": 0.8,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.7
+      },
+      "description": "The image depicts a modern minimalist bedroom with a white bed and patterned bedding, a large window with sheer curtains, and a metal luggage rack. The design focuses on simplicity and functionality, with a clean and uncluttered appearance. The use of white and blue creates a calming atmosphere, while the sheer curtains allow for natural light. The presence of a luggage rack suggests a focus on practicality, possibly for a guest room or a minimalistic lifestyle.",
+      "metadata": {
+        "tags": [
+          "Modern",
+          "Minimalist",
+          "Bedroom",
+          "White",
+          "Sheer Curtains",
+          "Luggage Rack"
+        ],
+        "budget_indicator": "Mid-range, as the materials are typical for a modern design but not luxurious",
+        "space_type": "Residential",
+        "functionality": "Sleeping space with additional storage for luggage",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1753459189347,
+  "cache_key": "752d9118e8581f9ffa998f8c9a1eab40"
+}

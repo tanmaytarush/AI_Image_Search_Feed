@@ -1,0 +1,83 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.22%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_048",
+    "ai_generated_tags": {
+      "room": "Entrance Hall",
+      "theme": "Modern Indian Contemporary",
+      "primary_features": [
+        "Marble flooring",
+        "Wall paneling with decorative elements",
+        "Lighting fixtures",
+        "Glass door"
+      ],
+      "objects": [
+        {
+          "type": "Wall panel",
+          "features": [
+            "Decorative floral design",
+            "Glass door with frame",
+            "Lighting incorporated into the design"
+          ],
+          "materials": [
+            "Wood",
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Polished and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Marble gray",
+          "Pink",
+          "Green"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Artificial lighting with spotlights and recessed lighting",
+        "texture": "Smooth and glossy"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence observed",
+        "traditional_elements": [
+          "Wall panel with floral design"
+        ],
+        "modern_adaptations": [
+          "Integration of modern lighting and materials"
+        ],
+        "space_utilization": "Open space with minimal furniture, maximizing the area for display and functionality",
+        "cultural_significance": "The decorative floral design on the wall panel reflects traditional Indian aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The space is an entrance hall featuring a modern interpretation of traditional Indian design elements. The wall panel with a floral design and glass door showcases a blend of cultural motifs with contemporary materials and lighting. The marble flooring adds a luxurious touch, while the overall layout emphasizes space optimization and aesthetic appeal.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Modern Indian style",
+          "Entrance hall",
+          "Wall panel design",
+          "Marble flooring"
+        ],
+        "budget_indicator": "Moderate to high, given the use of marble and decorative glass elements",
+        "space_type": "Residential",
+        "functionality": "Primarily serves as a transition space between the outside and other parts of the house",
+        "indian_specific": "Wall panel with floral design and glass door"
+      }
+    }
+  },
+  "cached_at": 1753446747331,
+  "cache_key": "801cdef9f50d7f15242a6d6aea3beffc"
+}

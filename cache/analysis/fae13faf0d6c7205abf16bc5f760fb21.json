@@ -1,0 +1,112 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/pexels-photo-2440471.jpeg",
+  "analysis": {
+    "image_id": "img_205",
+    "ai_generated_tags": {
+      "room": "Sitting room",
+      "theme": "Modern minimalist",
+      "primary_features": [
+        "Concrete wall, gray sofa, wooden side table, black lamp, fireplace, cityscape wall art"
+      ],
+      "objects": [
+        {
+          "type": "Side table",
+          "features": [
+            "Wooden, round, small"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Floor lamp",
+          "features": [
+            "Black, modern design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Shiny black"
+        },
+        {
+          "type": "Fireplace",
+          "features": [
+            "Exposed brick, open design"
+          ],
+          "materials": [
+            "Brick"
+          ],
+          "finish": "Natural brick"
+        },
+        {
+          "type": "Sofa",
+          "features": [
+            "Gray fabric, low-profile design"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Textured gray fabric"
+        },
+        {
+          "type": "Wall art",
+          "features": [
+            "Cityscape, black and white, large"
+          ],
+          "materials": [
+            "Canvas"
+          ],
+          "finish": "Glossy black frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Gray, black, white, brick red"
+        ],
+        "materials": [
+          "Concrete, wood, metal, fabric, brick"
+        ],
+        "lighting": "Warm ambient light from the lamp, natural light from the side",
+        "texture": "Textured sofa fabric, concrete wall, wooden side table, brick fireplace"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Not visible"
+        ],
+        "modern_adaptations": [
+          "Use of concrete and minimalism"
+        ],
+        "space_utilization": "Efficient use of space with a focus on functionality",
+        "cultural_significance": "No visible cultural elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A modern minimalist sitting room featuring a concrete wall, a gray sofa, a wooden side table, a black floor lamp, and an open fireplace. The space is adorned with a large black and white cityscape wall art, creating a contemporary yet sophisticated ambiance. The room is well-lit with a combination of natural and artificial light, emphasizing the clean lines and natural materials used throughout. Despite the absence of traditional Indian design elements, the use of texture and material contrast aligns with modern Indian interior design trends.",
+    "metadata": {
+      "tags": [
+        "Modern minimalism",
+        "Gray living room",
+        "Concrete wall",
+        "Sofa",
+        "Wooden table",
+        "Black lamp",
+        "Fireplace",
+        "Cityscape art"
+      ],
+      "budget_indicator": "Moderate to high, due to materials like concrete and modern furniture",
+      "space_type": "Residential, sitting room",
+      "functionality": "Relaxation and socializing",
+      "indian_specific": "No Indian-specific design features"
+    }
+  },
+  "cached_at": 1753459293483,
+  "cache_key": "fae13faf0d6c7205abf16bc5f760fb21"
+}

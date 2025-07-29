@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/477/image_cropper_1728831942134.jpg",
+  "analysis": {
+    "image_id": "img_162",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Built-in cabinets",
+        "Stainless steel countertop",
+        "Decorative backsplash",
+        "Built-in appliances",
+        "Undermount sink"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Built-in style, L-shaped arrangement"
+          ],
+          "materials": [
+            "Wood, possibly teak, with glossy finish"
+          ],
+          "finish": "Glossy, polished"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Stainless steel surface"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Decorative tiles with blue and white patterns"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Glazed"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, blue, white tiles, stainless steel grey"
+        ],
+        "materials": [
+          "Wood, metal, ceramic tiles"
+        ],
+        "lighting": "Natural light from windows",
+        "texture": "Smooth, glossy surfaces with a mix of matte and smooth textures"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, more of a modern Indian aesthetic",
+        "traditional_elements": [
+          "Wooden cabinets, decorative backsplash"
+        ],
+        "modern_adaptations": [
+          "Integrated appliances, modern cabinetry design"
+        ],
+        "space_utilization": "Efficient L-shaped cabinets with ample storage and workspace",
+        "cultural_significance": "Modern interpretation of traditional Indian design elements, such as the use of wood and decorative tiles"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian kitchen features a L-shaped arrangement of built-in cabinets with a glossy teak finish, a stainless steel countertop, and a decorative backsplash with blue and white patterned tiles. The space is well-lit with natural light and has a clean, contemporary aesthetic that incorporates traditional Indian design elements such as the use of wood and decorative tiles.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern Indian",
+          "Glossy Teak",
+          "Stainless Steel",
+          "Decorative Backsplash"
+        ],
+        "budget_indicator": "Moderate to high, as it includes premium materials like wood and stainless steel",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Use of teak for cabinetry and decorative tiles"
+      }
+    }
+  },
+  "cached_at": 1753449464764,
+  "cache_key": "a6bb31ea8ffb72e19e28b46ccee12260"
+}

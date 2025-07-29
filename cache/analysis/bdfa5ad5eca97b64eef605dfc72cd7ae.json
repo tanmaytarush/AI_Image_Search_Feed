@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1667/insta_assets_crop_a46907b6-2a50-4ebf-a4a3-da16145e4dfa6263437988023872189.jpg",
+  "analysis": {
+    "image_id": "img_185",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Glass shower screen with metal accents",
+        "White tiles with grey grout",
+        "Clean and organized space"
+      ],
+      "objects": [
+        {
+          "type": "Shower screen",
+          "features": [
+            "Rectangular shape",
+            "Clear glass panels",
+            "Metal frame and handles"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "High-gloss finish on metal, clear glass panels"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Grey",
+          "Metallic"
+        ],
+        "materials": [
+          "Glass",
+          "Metal",
+          "Tiles"
+        ],
+        "lighting": "Well-lit with natural light from window above",
+        "texture": "Smooth surfaces on the tiles and glass, metallic sheen on the frame"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "None visible"
+        ],
+        "modern_adaptations": [
+          "Minimal use of Indian traditional elements, embracing clean lines and modern materials"
+        ],
+        "space_utilization": "Efficient use of space with a clear focus on functionality",
+        "cultural_significance": "No prominent cultural elements noted, as it is a modern bathroom design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern minimalist bathroom with a glass shower screen and metal accents. The space is clean and organized, utilizing white and grey tiles, and features a metallic shower screen with a high-gloss finish. The design does not reflect any Indian regional style, traditional elements, or cultural significance. It focuses on clean lines and modern materials, emphasizing functionality and contemporary aesthetics.",
+      "metadata": {
+        "tags": [
+          "Modern bathroom",
+          "Minimalist design",
+          "Glass shower screen",
+          "Clean and organized space"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential bathroom",
+        "functionality": "Primary purpose is for showering and bathing",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753449748106,
+  "cache_key": "bdfa5ad5eca97b64eef605dfc72cd7ae"
+}

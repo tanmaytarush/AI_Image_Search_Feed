@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/35/cam1.jpg",
+  "analysis": {
+    "image_id": "img_143",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Modern furniture",
+        "Large television",
+        "Wooden flooring",
+        "Glass partition",
+        "Floral pattern"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood sofa",
+          "features": [
+            "Comfortable cushioning",
+            "Traditional silhouette"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak wood finish"
+        },
+        {
+          "type": "Teak wood coffee table",
+          "features": [
+            "Intricate carvings",
+            "Cylindrical legs"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak wood finish"
+        },
+        {
+          "type": "TV Unit",
+          "features": [
+            "Modern design",
+            "Glass panels"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Glossy top with matte wood"
+        },
+        {
+          "type": "Partition",
+          "features": [
+            "Divides space",
+            "See-through glass"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "Brown",
+          "Green",
+          "Red"
+        ],
+        "materials": [
+          "Teak wood",
+          "Glass",
+          "Marble"
+        ],
+        "lighting": "Natural light from large windows",
+        "texture": "Smooth glass, rough teak wood, polished marble"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Teak wood furniture",
+          "intricate carvings"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design",
+          "Glass partition"
+        ],
+        "space_utilization": "Optimized for living and entertainment",
+        "cultural_significance": "Indian furniture and decor reflect cultural heritage and comfort"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary Indian living room features a blend of traditional and modern elements. The room is dominated by teak wood furniture with intricate carvings, reflecting Northern Indian design. A large, modern TV unit with glass panels and a teak wood coffee table add a contemporary touch. The space is divided by a glass partition, maximizing the use of natural light from the large windows. The color palette includes earthy tones of beige, brown, and red, complemented by a polished marble surface. This living room exemplifies the harmonious integration of traditional Indian design elements with modern architectural trends, creating a space that is both functional and aesthetically pleasing.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Contemporary design",
+        "Northern Indian style",
+        "Teak wood furniture",
+        "Glass partition",
+        "Modern TV unit",
+        "Natural light"
+      ],
+      "budget_indicator": "Moderate to high, given the use of teak wood, glass, and polished marble",
+      "space_type": "Residential living room",
+      "functionality": "Entertainment and living space",
+      "indian_specific": "Traditional teak wood furniture with carvings and modern design elements like glass partition and contemporary furniture"
+    }
+  },
+  "cached_at": 1753449117325,
+  "cache_key": "057ea844c05bfaa1c185ae836c4027c2"
+}

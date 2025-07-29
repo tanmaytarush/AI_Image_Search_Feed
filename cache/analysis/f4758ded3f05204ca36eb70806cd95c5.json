@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/416/image_cropper_1728469314279.jpg",
+  "analysis": {
+    "image_id": "img_437",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Kitchen counter",
+        "Tiles",
+        "Cabinets"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen counter",
+          "features": [
+            "Has a smooth surface",
+            "Integrated sink"
+          ],
+          "materials": [
+            "Granite",
+            "Ceramic tiles"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Black",
+          "Beige"
+        ],
+        "materials": [
+          "Granite",
+          "Ceramic tiles",
+          "Metal"
+        ],
+        "lighting": "Bright, artificial lighting",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern appliances"
+        ],
+        "space_utilization": "Efficient use of counter space",
+        "cultural_significance": "No culturally significant elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.75,
+        "theme": 0.8,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.2
+      },
+      "description": "The image shows a modern kitchen with a clean, minimalist design. The primary feature is a sleek kitchen counter that houses a sink, with smooth surfaces and integrated appliances. The countertops are made of granite, and the backsplash is covered with ceramic tiles in a neutral tone. The cabinetry is white, contributing to the overall modern and minimalist aesthetic. The lighting is bright, creating a bright and functional space.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "Minimalist",
+          "Granite",
+          "Ceramic tiles"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary cooking and food preparation area",
+        "indian_specific": "No Indian-specific design features are visible"
+      }
+    }
+  },
+  "cached_at": 1753462054279,
+  "cache_key": "f4758ded3f05204ca36eb70806cd95c5"
+}

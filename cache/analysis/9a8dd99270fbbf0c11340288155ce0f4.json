@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/651/image_cropper_1729217327495.jpg",
+  "analysis": {
+    "image_id": "img_193",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Light blue cabinetry",
+        "White countertops",
+        "Pink accents"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Light blue",
+            "Modern design",
+            "Integrated handles"
+          ],
+          "materials": [
+            "Wood",
+            "Painted finish"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "White",
+            "Clean surface"
+          ],
+          "materials": [
+            "Stone or laminate"
+          ],
+          "finish": "Polished, smooth texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light blue",
+          "White",
+          "Pink",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "Stone",
+          "Metal"
+        ],
+        "lighting": "Natural light from window, soft, even lighting",
+        "texture": "Smooth, glossy surfaces on cabinets, polished stone countertops"
+      },
+      "indian_context": {
+        "regional_style": "Minimalist with elements of North Indian design",
+        "traditional_elements": [
+          "Light blue color often seen in North Indian homes"
+        ],
+        "modern_adaptations": [
+          "Merge of traditional and modern design elements"
+        ],
+        "space_utilization": "Efficient use of space with integrated cabinetry",
+        "cultural_significance": "Light blue may symbolize serenity and calm in North Indian culture"
+      },
+      "confidence_scores": {
+        "room": 0.9,
+        "theme": 0.85,
+        "primary_features": 0.85,
+        "objects": 0.88,
+        "indian_context": 0.83
+      },
+      "description": "A modern kitchen with a clean, minimalist design featuring light blue cabinetry with integrated handles, white countertops, and pink accents. The space utilizes a blend of traditional and contemporary elements, reflecting a subtle Indian influence, particularly in the choice of light blue as a color scheme. The design maximizes space efficiency and incorporates a touch of cultural relevance in the color choice.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Minimalist",
+          "Indian Influences",
+          "Light Blue",
+          "White",
+          "Pink"
+        ],
+        "budget_indicator": "Budget level appears moderate, with modern materials and finishes.",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage, with a focus on practicality and aesthetics.",
+        "indian_specific": "Light blue color and minimalistic approach with a hint of North Indian design"
+      }
+    }
+  },
+  "cached_at": 1753459154807,
+  "cache_key": "9a8dd99270fbbf0c11340288155ce0f4"
+}

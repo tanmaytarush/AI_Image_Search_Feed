@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/880/image_cropper_1729272626940.jpg",
+  "analysis": {
+    "image_id": "img_233",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Glass cabinets",
+        "White and gray cabinetry",
+        "Integrated appliances"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "White doors with glass panels on upper cabinets",
+            "Gray lower cabinets with soft-close drawers"
+          ],
+          "materials": [
+            "Glass, MDF, metal"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Microwave above stove",
+            "Stove with grills"
+          ],
+          "materials": [
+            "Not clearly visible"
+          ],
+          "finish": "Integrated with cabinetry"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Black",
+          "Silver"
+        ],
+        "materials": [
+          "Glass",
+          "MDF",
+          "Metal"
+        ],
+        "lighting": "Standard kitchen lighting with overhead lights",
+        "texture": "Clean and smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly indicative of a specific region",
+        "traditional_elements": [
+          "Not evident in this modern kitchen design"
+        ],
+        "modern_adaptations": [
+          "Contemporary approach to Indian kitchen design with modern materials and layout"
+        ],
+        "space_utilization": "Efficient and functional layout with ample storage",
+        "cultural_significance": "Modern Indian kitchens often reflect a blend of traditional aesthetics and modern functionality, aiming for both form and function"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian kitchen showcases a sleek, contemporary design with a blend of traditional elements and modern functionality. The space features glass and MDF cabinets with a glossy finish, integrated appliances, and efficient space utilization. The color palette includes white, gray, black, and silver, reflecting a clean and modern aesthetic typical of contemporary Indian kitchens.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Glass Cabinets",
+          "White Kitchen Cabinets",
+          "Integrated Appliances"
+        ],
+        "budget_indicator": "Moderate, with the use of modern materials and finishes",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary cooking and food preparation area",
+        "indian_specific": "Modern interpretation of Indian kitchen design"
+      }
+    }
+  },
+  "cached_at": 1753450264155,
+  "cache_key": "73d2641d19b5e6af7c2b4c20c2363161"
+}

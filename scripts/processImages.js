@@ -44,7 +44,7 @@ class ImageProcessor {
     console.log(`Processing batch of ${images.length} images...`);
 
     const batchResults = [];
-    
+
     // Process images sequentially with delays to avoid rate limiting
     for (const image of images) {
       try {
@@ -61,7 +61,7 @@ class ImageProcessor {
 
         console.log(`✓ Completed analysis for: ${image.image_id}`);
         batchResults.push(analysisResult);
-        
+
         // Add delay between individual images to avoid rate limiting
         if (images.indexOf(image) < images.length - 1) {
           console.log(`⏳ Waiting 1 second before next image...`);
@@ -99,13 +99,44 @@ class ImageProcessor {
       console.log("📊 Setting up Qdrant collection...");
       await qdrantService.createCollection();
 
-      // Process images in batches
-      for (let i = 0; i < images.length; i += this.batchSize) {
-        const batch = images.slice(i, i + this.batchSize);
+      // Check for already processed images to enable resume functionality
+      console.log("🔍 Checking for already processed images...");
+      const existingPoints = await qdrantService.client.scroll(
+        qdrantService.collectionName,
+        {
+          limit: 1000,
+          with_payload: true,
+          with_vector: false,
+        }
+      );
+
+      const processedIds = new Set(existingPoints.points.map((p) => p.id));
+      const unprocessedImages = images.filter(
+        (img) => !processedIds.has(img.image_id)
+      );
+
+      console.log(`🔄 Resume Status:`);
+      console.log(`   - Total images in CSV: ${images.length}`);
+      console.log(`   - Already processed: ${processedIds.size}`);
+      console.log(`   - Remaining to process: ${unprocessedImages.length}`);
+
+      if (unprocessedImages.length === 0) {
+        console.log("✅ All images have already been processed!");
+        return;
+      }
+
+      // Process only unprocessed images in batches
+      for (let i = 0; i < unprocessedImages.length; i += this.batchSize) {
+        const batch = unprocessedImages.slice(i, i + this.batchSize);
         console.log(
           `\n📦 Processing batch ${
             Math.floor(i / this.batchSize) + 1
-          }/${Math.ceil(images.length / this.batchSize)}`
+          }/${Math.ceil(unprocessedImages.length / this.batchSize)} (${
+            processedIds.size + i + 1
+          }-${Math.min(
+            processedIds.size + i + batch.length,
+            images.length
+          )} of ${images.length})`
         );
 
         // Process batch
@@ -125,7 +156,7 @@ class ImageProcessor {
         }
 
         // Delay between batches to avoid rate limiting
-        if (i + this.batchSize < images.length) {
+        if (i + this.batchSize < unprocessedImages.length) {
           console.log(
             `⏳ Waiting ${this.delayBetweenBatches}ms before next batch...`
           );
@@ -150,7 +181,9 @@ class ImageProcessor {
 
     // Get CDN cache statistics
     const cdnStats = cdnService.getCacheStats();
-    console.log(`📦 CDN Cache: ${cdnStats.analysis_cache_count} analysis results cached`);
+    console.log(
+      `📦 CDN Cache: ${cdnStats.analysis_cache_count} analysis results cached`
+    );
 
     if (this.errors.length > 0) {
       console.log("\n❌ Failed images:");

@@ -1,0 +1,80 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/659/image_cropper_1729169516108.jpg",
+  "analysis": {
+    "image_id": "img_231",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Ceiling design, wall paneling, television stand, seating arrangement"
+      ],
+      "objects": [
+        {
+          "type": "Television Stand",
+          "features": [
+            "Rectangular shape, wooden finish, glass display shelves"
+          ],
+          "materials": [
+            "Wood, glass"
+          ],
+          "finish": "Wood has a polished finish, glass is transparent"
+        },
+        {
+          "type": "Seating Arrangement",
+          "features": [
+            "Modern design, upholstered in fabric, arranged in a U-shape"
+          ],
+          "materials": [
+            "Fabric, metal frame"
+          ],
+          "finish": "Fabric is smooth, metal frame has a glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls, brown wooden accents, beige upholstery, golden metallic accents"
+        ],
+        "materials": [
+          "Wood, glass, metal, fabric"
+        ],
+        "lighting": "Natural light coming in from the windows, supplemented by recessed ceiling lights",
+        "texture": "Smooth surfaces with some glossy elements"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional due to modern design, but suggests a North Indian influence with Diwan-like seating arrangement",
+        "traditional_elements": [
+          "Seating arrangement with a focus on comfort and space for conversations"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design with a blend of traditional and modern aesthetics"
+        ],
+        "space_utilization": "The space is organized for living and entertainment, with a central seating area and a television stand for viewing",
+        "cultural_significance": "The seating arrangement and overall design reflect a welcoming and intimate space for family gatherings and conversations"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space is a living room that combines contemporary design with subtle Indian influences, as seen in the U-shaped seating arrangement reminiscent of a Diwan. The room features a modern wooden ceiling design with recessed lighting, wooden wall paneling, and a glass-fronted television stand that blends traditional materials with modern craftsmanship. The seating is upholstered in a fabric that suggests comfort, and the overall color palette includes warm browns and whites, complemented by golden metallic accents, reflecting a balance between tradition and modernity. The lighting is a mix of natural and artificial, creating a warm and inviting atmosphere.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Contemporary",
+          "Indian Influences",
+          "Modern Design",
+          "Comfortable Seating",
+          "Warm Colors"
+        ],
+        "budget_indicator": "Mid-range, with a mix of modern and traditional materials",
+        "space_type": "Residential",
+        "functionality": "Space is designed for relaxation, entertainment, and socializing",
+        "indian_specific": "U-shaped seating arrangement, wooden accents, and warm color palette"
+      }
+    }
+  },
+  "cached_at": 1753450218332,
+  "cache_key": "a71e86639f78620badee2012ae68e1a8"
+}

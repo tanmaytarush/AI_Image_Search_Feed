@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/35/WhatsApp%20Image%202024-07-25%20at%2017.59.44.jpeg",
+  "analysis": {
+    "image_id": "img_209",
+    "ai_generated_tags": {
+      "room": "living room",
+      "theme": "contemporary Indian style",
+      "primary_features": [
+        "ceiling design",
+        "wall paneling",
+        "furniture arrangement"
+      ],
+      "objects": [
+        {
+          "type": "furniture",
+          "features": [
+            "wooden coffee table",
+            "cushioned chairs",
+            "modern armchair"
+          ],
+          "materials": [
+            "wood",
+            "textile"
+          ],
+          "finish": "polished wood and fabric upholstery"
+        },
+        {
+          "type": "wall paneling",
+          "features": [
+            "horizontal wooden panels"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "unpainted wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white ceiling",
+          "brown wood",
+          "blue cushions",
+          "dark wooden floor"
+        ],
+        "materials": [
+          "wood",
+          "textile",
+          "concrete"
+        ],
+        "lighting": "natural light from glass panel and artificial light from ceiling",
+        "texture": "smooth ceiling, textured wood panels, soft fabric cushions"
+      },
+      "indian_context": {
+        "regional_style": "central Indian contemporary",
+        "traditional_elements": [
+          "wooden wall paneling",
+          "modern furniture"
+        ],
+        "modern_adaptations": [
+          "industrial lighting fixtures",
+          "minimalist design"
+        ],
+        "space_utilization": "efficient use of space with open layout",
+        "cultural_significance": "use of wood symbolizes warmth and traditional craftsmanship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary Indian living room features a blend of traditional and modern elements. The wooden wall panels with horizontal lines provide a touch of traditional craftsmanship, while the modern furniture and industrial-style lighting create a contemporary vibe. The space is efficiently organized with an open layout, and the use of wood in the furniture and paneling symbolizes warmth and traditional Indian design principles.",
+    "metadata": {
+      "tags": [
+        "contemporary Indian style",
+        "wooden paneling",
+        "modern furniture",
+        "industrial lighting"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "living room",
+      "functionality": "relaxation and socializing",
+      "indian_specific": "wooden wall paneling, modern interpretation of traditional furniture"
+    }
+  },
+  "cached_at": 1753450007851,
+  "cache_key": "8cdd24f32ab16db7f71153299604e4de"
+}

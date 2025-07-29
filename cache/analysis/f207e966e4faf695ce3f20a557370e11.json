@@ -1,0 +1,109 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1378/image_cropper_1729752206670.jpg",
+  "analysis": {
+    "image_id": "img_277",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Interior",
+      "primary_features": [
+        "Wooden panelled walls",
+        "TV unit with shelves",
+        "Textured curtains",
+        "Framed wall art"
+      ],
+      "objects": [
+        {
+          "type": "TV unit",
+          "features": [
+            "Rectangular design with shelves",
+            "Modern minimalist style"
+          ],
+          "materials": [
+            "Wooden panels",
+            "Metal brackets"
+          ],
+          "finish": "Matte finish on wood, glossy finish on metal brackets"
+        },
+        {
+          "type": "Wooden panelled walls",
+          "features": [
+            "Vertical panel design",
+            "Textured surface"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish, possibly teak or similar"
+        },
+        {
+          "type": "Textured curtains",
+          "features": [
+            "Dark color",
+            "Vertical panel design"
+          ],
+          "materials": [
+            "Cotton or linen blend"
+          ],
+          "finish": "Textured surface"
+        },
+        {
+          "type": "Framed wall art",
+          "features": [
+            "Abstract design",
+            "Textured surface"
+          ],
+          "materials": [
+            "Paper or canvas"
+          ],
+          "finish": "Matte finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown, white, green, black"
+        ],
+        "materials": [
+          "Wood, metal, fabric, paper"
+        ],
+        "lighting": "Natural light coming from the side, creating a soft ambiance",
+        "texture": "Variety of textures including wood grain, fabric weave, and paper surface"
+      },
+      "indian_context": {
+        "regional_style": "Western Indian style with modern elements",
+        "traditional_elements": [
+          "Textured curtains"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with shelves",
+          "Framed abstract art"
+        ],
+        "space_utilization": "Efficient use of vertical space with panelled walls and shelves",
+        "cultural_significance": "Use of dark colors and textured materials symbolizes sophistication and cultural heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space is a modern interpretation of a Western Indian living room, featuring wooden panelled walls, a minimalist TV unit with shelves, and abstract framed wall art. The use of textured curtains and natural wood elements adds a touch of traditional Indian design, while the overall layout and color palette reflect contemporary preferences. The design prioritizes space and functionality, making it suitable for a modern lifestyle while maintaining cultural aesthetics.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Interior",
+        "Living Room",
+        "Minimalist Design",
+        "Textured Curtains",
+        "Wooden Panelled Walls",
+        "Abstract Wall Art"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials like wood and metal",
+      "space_type": "Residential Living Room",
+      "functionality": "Entertainment and relaxation area",
+      "indian_specific": "Textured curtains and wooden panelled walls"
+    }
+  },
+  "cached_at": 1753450849542,
+  "cache_key": "f207e966e4faf695ce3f20a557370e11"
+}

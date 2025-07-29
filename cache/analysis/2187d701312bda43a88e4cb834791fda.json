@@ -1,0 +1,84 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1344/image_cropper_1729702916678.jpg",
+  "analysis": {
+    "image_id": "img_244",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in wardrobe with sliding doors",
+        "Platform bed",
+        "Minimalist decor",
+        "Built-in storage under the bed"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Horizontal wooden slats",
+            "Sliding wooden doors"
+          ],
+          "materials": [
+            "Wood, possibly teak"
+          ],
+          "finish": "Natural wood finish with a glossy finish"
+        },
+        {
+          "type": "Platform bed",
+          "features": [
+            "Square bed frame",
+            "Raised mattress"
+          ],
+          "materials": [
+            "Wood, possibly teak"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown, white, light brown, beige"
+        ],
+        "materials": [
+          "Wood, painted metal, fabric"
+        ],
+        "lighting": "Soft ambient lighting from bedside lamps",
+        "texture": "Smooth wood texture, painted metal, fabric cushion"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but hints of traditional elements in the wardrobe design",
+        "traditional_elements": [
+          "Carved wooden elements on the wardrobe"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with built-in storage solutions"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and wardrobe",
+        "cultural_significance": "The carved wooden elements on the wardrobe could symbolize craftsmanship and attention to detail, which are highly valued in Indian aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian bedroom features a minimalist design with traditional influences. The built-in wardrobe with sliding wooden doors and the platform bed with raised mattress are practical space-saving solutions. The dark brown wood of the wardrobe with carved details reflects traditional craftsmanship, while the overall clean and simple aesthetic aligns with contemporary design trends. The soft lighting adds a warm and inviting ambiance, typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Modern Indian",
+        "Minimalist bedroom",
+        "Built-in wardrobe",
+        "Platform bed"
+      ],
+      "budget_indicator": "Moderate, as seen through the use of wood and metal",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Carved wooden elements and natural wood finish"
+    }
+  },
+  "cached_at": 1753459606294,
+  "cache_key": "2187d701312bda43a88e4cb834791fda"
+}

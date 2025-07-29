@@ -1,0 +1,110 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1019/image_cropper_1729493575710.jpg",
+  "analysis": {
+    "image_id": "img_106",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Wardrobe with traditional carvings",
+        "Area rug",
+        "Decorative cushions",
+        "Wall-mounted lighting fixture"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Rectangular shape",
+            "Carved wood panels",
+            "Glass doors"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "Glass"
+          ],
+          "finish": "Wood with natural patina, glass panels with a glossy finish"
+        },
+        {
+          "type": "Area rug",
+          "features": [
+            "Textured design",
+            "Neutral colors"
+          ],
+          "materials": [
+            "Wool or synthetic blend"
+          ],
+          "finish": "Soft, handwoven texture"
+        },
+        {
+          "type": "Decorative cushions",
+          "features": [
+            "Round shape",
+            "Neutral tones",
+            "Embroidered detailing"
+          ],
+          "materials": [
+            "Cotton",
+            "Polyester"
+          ],
+          "finish": "Textured, embroidered"
+        },
+        {
+          "type": "Wall-mounted lighting fixture",
+          "features": [
+            "Modern design, multiple arms"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal, possibly brass or chrome"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls, neutral rug colors, wood tones, metallic accents"
+        ],
+        "materials": [
+          "Wool rug, teak wood, glass, metal"
+        ],
+        "lighting": "Natural light, supplemented by wall-mounted fixture",
+        "texture": "Soft rug, textured wood, smooth glass, metallic"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident",
+        "traditional_elements": [
+          "Carved wood panels on wardrobe"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with traditional elements"
+        ],
+        "space_utilization": "Efficient use of space with wardrobe and soft seating area",
+        "cultural_significance": "Traditional carvings on wardrobe may symbolize cultural heritage, but overall design is modern and Western-influenced"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern bedroom space with a minimalist design, featuring a large wardrobe with traditional carved wood panels, a soft area rug, and a modern wall-mounted lighting fixture. The space is organized with efficient use of vertical space for the wardrobe and a seating area with decorative cushions. The colors are neutral, with white walls, wood tones, and metallic accents, which are typical in contemporary Indian interior design. The traditional carvings on the wardrobe add a subtle touch of cultural significance, but the overall aesthetic is decidedly modern and Western-influenced.",
+    "metadata": {
+      "tags": [
+        "bedroom",
+        "minimalist design",
+        "traditional carvings",
+        "neutral color palette",
+        "modern lighting",
+        "Indian heritage"
+      ],
+      "budget_indicator": "Moderate, as the materials and finishes suggest a balance between traditional and modern elements without excessive luxury.",
+      "space_type": "Residential, bedroom",
+      "functionality": "Sleeping and storage area",
+      "indian_specific": "Traditional carvings on the wardrobe"
+    }
+  },
+  "cached_at": 1753448289906,
+  "cache_key": "7a9ef891b58941bfa01b4eeed20bea9d"
+}

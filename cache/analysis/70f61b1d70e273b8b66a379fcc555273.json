@@ -1,0 +1,65 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/486/image_cropper_1728894123092.jpg",
+  "analysis": {
+    "image_id": "img_107",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Colonial",
+      "primary_features": [
+        "Wooden cabinets"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinet",
+          "features": [
+            "Traditional design with embedded handles"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished surface with a natural wood grain"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, Beige"
+        ],
+        "materials": [
+          "Wood"
+        ],
+        "lighting": "Natural light from an unseen source",
+        "texture": "Smooth and glossy finish on wood"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "No traditional Indian elements visible"
+        ],
+        "space_utilization": "Not applicable",
+        "cultural_significance": "Not applicable"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a portion of a kitchen featuring wooden cabinets with a traditional design. The cabinets are embedded with handles, showcasing a minimalist approach to functionality. The natural wood grain and polished surface indicate a colonial style, common in European-influenced homes in India.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Colonial Style",
+          "Wooden Cabinets"
+        ],
+        "budget_indicator": "Moderate, as the polished wood suggests a mid-range budget.",
+        "space_type": "Residential",
+        "functionality": "Storage and organization",
+        "indian_specific": "No Indian-specific design features are visible."
+      }
+    }
+  },
+  "cached_at": 1753448310162,
+  "cache_key": "70f61b1d70e273b8b66a379fcc555273"
+}

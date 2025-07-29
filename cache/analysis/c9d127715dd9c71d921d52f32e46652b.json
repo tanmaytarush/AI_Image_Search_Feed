@@ -1,0 +1,115 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00626.JPG",
+  "analysis": {
+    "image_id": "img_090",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Integrated cooktop",
+        "White cabinetry",
+        "Marble countertop",
+        "Glass cabinets",
+        "Black kitchen hood"
+      ],
+      "objects": [
+        {
+          "type": "Cooktop",
+          "features": [
+            "Four burners",
+            "Modern design"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "High-gloss"
+        },
+        {
+          "type": "Cabinetry",
+          "features": [
+            "White glossy finish",
+            "Integrated storage"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Marble texture",
+            "White with brown veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Kitchen Hood",
+          "features": [
+            "Black color",
+            "Modern design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Brown",
+          "Red",
+          "Green"
+        ],
+        "materials": [
+          "Marble",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light mixed with artificial lighting from overhead lights",
+        "texture": "Smooth surfaces with glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Traditional kitchenware"
+        ],
+        "modern_adaptations": [
+          "Integrated kitchen features",
+          "Modern materials"
+        ],
+        "space_utilization": "Efficient use of space with integrated storage",
+        "cultural_significance": "Integration of traditional elements with modern functionality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This kitchen showcases a blend of modern design elements with traditional Indian touches. The sleek, white glossy cabinetry and integrated cooktop reflect a contemporary aesthetic, while the inclusion of traditional kitchenware and the use of marble countertops add a cultural depth. The modern kitchen hood and glass cabinet doors also signify a contemporary approach to functionality. The space is well-organized with efficient storage solutions, and the overall design is illuminated by a mix of natural and artificial lighting, creating a bright and airy atmosphere.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Kitchen Design",
+        "Marble Countertops",
+        "Glass Cabinets",
+        "Integrated Storage"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Cooking and Storage",
+      "indian_specific": "Traditional Kitchenware Integration"
+    }
+  },
+  "cached_at": 1753447864233,
+  "cache_key": "c9d127715dd9c71d921d52f32e46652b"
+}

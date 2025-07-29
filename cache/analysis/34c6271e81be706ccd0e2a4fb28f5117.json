@@ -1,0 +1,128 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/147/image_cropper_1726671052632.jpg",
+  "analysis": {
+    "image_id": "img_329",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian accents",
+      "primary_features": [
+        "Carved wooden headboard",
+        "Floral wall decor",
+        "Teak wooden furniture",
+        "Marble wall tiles",
+        "Television"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden headboard",
+          "features": [
+            "Elegant floral carvings",
+            "Rich wood finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Highly polished"
+        },
+        {
+          "type": "Teak wooden furniture",
+          "features": [
+            "Traditional design",
+            "Compact storage space"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Marble wall tiles",
+          "features": [
+            "Geometric patterns",
+            "High-end material"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Smooth polished surface"
+        },
+        {
+          "type": "Floral wall decor",
+          "features": [
+            "Painted floral motifs",
+            "Indian traditional style"
+          ],
+          "materials": [
+            "Paint"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Television",
+          "features": [
+            "Modern flat-screen display"
+          ],
+          "materials": [
+            "Glass (tv frame)",
+            "Metal (tv stand)"
+          ],
+          "finish": "Glossy metal and matte glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "Beige",
+          "Green"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Paint",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light with ambient lighting fixtures",
+        "texture": "Smooth, glossy, matte"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but incorporates elements typical of Indian design",
+        "traditional_elements": [
+          "Carved wooden headboard",
+          "Floral wall decor"
+        ],
+        "modern_adaptations": [
+          "Television integrated into the design",
+          "Modern furniture with traditional influences"
+        ],
+        "space_utilization": "Efficient use of space with storage units and decorative elements",
+        "cultural_significance": "The Indian design elements symbolize tradition and craftsmanship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bedroom interior blends contemporary design elements with traditional Indian touches. The space features a carved wooden headboard with floral motifs, reflecting Indian craftsmanship, while incorporated modern elements such as a flat-screen television and sleek furniture. The use of teak wood for the furniture and marble for the wall tiles symbolizes a blend of tradition and modernity, creating a harmonious and stylish living space.",
+    "metadata": {
+      "tags": [
+        "Indian design",
+        "Contemporary style",
+        "Teak wood",
+        "Marble tiles",
+        "Floral decor",
+        "Modern furniture"
+      ],
+      "budget_indicator": "Mid-range, using high-quality materials like teak wood and marble",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and relaxation area with entertainment capabilities",
+      "indian_specific": "Carved wooden headboard, floral wall decor"
+    }
+  },
+  "cached_at": 1753460510591,
+  "cache_key": "34c6271e81be706ccd0e2a4fb28f5117"
+}

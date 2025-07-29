@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/496/image_cropper_1728990358384.jpg",
+  "analysis": {
+    "image_id": "img_227",
+    "ai_generated_tags": {
+      "room": "Foyer / Entrance Hall",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Crown molding",
+        "Wooden paneling",
+        "Sliding glass door"
+      ],
+      "objects": [
+        {
+          "type": "Crown molding",
+          "features": [
+            "Decorative paneling with golden accents"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Gold leaf finish"
+        },
+        {
+          "type": "Wooden paneling",
+          "features": [
+            "Vertical wooden slats"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Sliding glass door",
+          "features": [
+            "Modern glass door with sleek frame"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Clear glass with metallic hardware"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light coming through the glass door, supplemented by recessed lighting in the ceiling",
+        "texture": "Smooth wood paneling, glossy gold accents, reflective glass"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but utilizes some common architectural features",
+        "traditional_elements": [
+          "Gold leafing for ornamental purposes"
+        ],
+        "modern_adaptations": [
+          "Sliding glass door, contemporary crown molding"
+        ],
+        "space_utilization": "The space is designed for a transitional area, likely leading to other rooms. The placement of the sliding glass door suggests it might be an entrance or a space where one can choose to open it for ventilation or to change the flow of the room",
+        "cultural_significance": "The use of gold leafing is significant in Indian design, often associated with prosperity and good fortune. The ornate crown molding adds a touch of luxury and traditional craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern foyer hall with a blend of contemporary and traditional Indian design elements. The use of gold leafing on the crown molding and the vertical wooden paneling in teak are hallmark features of Indian interior design. The sliding glass door is a modern adaptation, suggesting a preference for natural light and an open, airy feel. The overall design is aimed at creating a welcoming entrance while maintaining a luxurious and traditional aesthetic.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Contemporary",
+          "Gold leaf",
+          "Teak paneling",
+          "Sliding glass door"
+        ],
+        "budget_indicator": "Moderate to high, due to the use of materials like teak wood and gold leafing",
+        "space_type": "Residential",
+        "functionality": "Entrance/Transitional space",
+        "indian_specific": "Gold leafing, teak wood paneling"
+      }
+    }
+  },
+  "cached_at": 1753459458508,
+  "cache_key": "e90b21a5d6cce26b8228fdc0106e1e8d"
+}

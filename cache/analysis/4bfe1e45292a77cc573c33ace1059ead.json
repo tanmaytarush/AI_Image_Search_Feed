@@ -4,67 +4,62 @@
     "image_id": "img_026",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Contemporary",
+      "theme": "Contemporary Indian Fusion",
       "primary_features": [
         "Purple cabinetry",
         "Marble backsplash",
-        "Black countertops",
-        "Modern appliances"
+        "Black appliances",
+        "Open layout"
       ],
       "objects": [
         {
           "type": "Refrigerator",
           "features": [
-            "Black in color",
-            "Modern design"
+            "Modern design",
+            "Black finish"
           ],
           "materials": [
-            "Metal, glass"
+            "Metallic"
           ],
           "finish": "Glossy"
         },
         {
-          "type": "Cabinets",
+          "type": "Kitchen Countertop",
           "features": [
-            "Purple color",
-            "Flat panels"
+            "Black surface",
+            "Integrated with appliances"
           ],
           "materials": [
-            "Laminate, MDF"
-          ],
-          "finish": "Matte"
-        },
-        {
-          "type": "Backsplash",
-          "features": [
-            "Marble tiles"
-          ],
-          "materials": [
-            "Marble"
+            "Granite or similar"
           ],
           "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Purple, Black, White, Marble grey"
+          "Purple",
+          "Black",
+          "White",
+          "Silver"
         ],
         "materials": [
-          "Marble, Laminate, MDF"
+          "Marble",
+          "Granite",
+          "Metallic"
         ],
-        "lighting": "Under-cabinet lighting",
-        "texture": "Smooth"
+        "lighting": "Bright, possibly overhead lighting",
+        "texture": "Smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "No specific regional style visible, but elements of traditional Indian design are incorporated",
         "traditional_elements": [
-          "Minimal use of traditional elements"
+          "Carved elements in the frame around the television"
         ],
         "modern_adaptations": [
-          "Purple cabinets with modern design, marble backsplash"
+          "Use of contemporary materials and contemporary furniture style"
         ],
-        "space_utilization": "Efficient use of space with integrated cabinetry and appliances",
-        "cultural_significance": "Minimal emphasis on cultural elements, focusing on modern aesthetics"
+        "space_utilization": "Efficient use of space with minimalistic yet functional design",
+        "cultural_significance": "Integration of traditional Indian carving in modern kitchen design, signifying a blend of tradition and modernity"
       }
     },
     "confidence_scores": {
@@ -74,21 +69,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "A modern kitchen with purple cabinetry, a marble backsplash, and black countertops, featuring sleek and minimalist design with contemporary appliances. The space emphasizes functionality with efficient use of space and a focus on modern aesthetics.",
+    "description": "This kitchen showcases a contemporary Indian fusion design, featuring sleek purple cabinetry and a modern black refrigerator. The marble backsplash adds a touch of traditional Indian aesthetics, while the overall layout and appliances reflect a contemporary style. Traditional elements, such as the carved frame around the television, subtly integrate into the modern design, creating a harmonious blend of traditional and modern Indian interior design.",
     "metadata": {
       "tags": [
-        "Kitchen Design",
-        "Contemporary Style",
+        "Indian Interior Design",
+        "Contemporary Kitchen",
         "Purple Cabinets",
         "Marble Backsplash",
         "Modern Appliances"
       ],
-      "budget_indicator": "High",
-      "space_type": "Residential",
-      "functionality": "Efficient and Modern",
-      "indian_specific": "Modern Indian"
+      "budget_indicator": "Moderate, with high-end materials like marble and modern appliances",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary function is food preparation, with efficient space utilization and modern aesthetics",
+      "indian_specific": "Integration of traditional carving in modern kitchen design"
     }
   },
-  "cached_at": 1753179513475,
+  "cached_at": 1753446246357,
   "cache_key": "4bfe1e45292a77cc573c33ace1059ead"
 }

@@ -6,54 +6,55 @@
       "room": "Bedroom",
       "theme": "Minimalist",
       "primary_features": [
-        "Sliding wardrobe doors",
-        "Built-in storage cabinets",
-        "Window with curtains",
-        "Wooden flooring"
+        "Built-in wardrobes with sliding doors",
+        "Rounded window with curtains",
+        "Floor with wooden flooring",
+        "Simple bench at the foot of the bed"
       ],
       "objects": [
         {
-          "type": "Sliding wardrobe doors",
+          "type": "Built-in Wardrobe",
           "features": [
-            "Modern design with geometric patterns",
-            "Silver metallic accents"
+            "Sliding doors with a modern design",
+            "Panelled top section with wooden finish"
           ],
           "materials": [
-            "MDF with glossy finish"
+            "Metal frames",
+            "Painted panels"
           ],
-          "finish": "Glossy"
+          "finish": "Glossy finish on the doors"
         },
         {
-          "type": "Built-in storage cabinets",
+          "type": "Window",
           "features": [
-            "Cubed design with neutral tones",
-            "Integrated lighting within the cabinetry"
+            "Round arched top",
+            "Curtains with a mix of blue and beige colors"
           ],
           "materials": [
-            "MDF with paint finish"
+            "Fabric"
           ],
-          "finish": "Matte"
+          "finish": "Smooth fabric texture"
         },
         {
-          "type": "Window with curtains",
+          "type": "Floor",
           "features": [
-            "Simple design with a mix of blue and beige tones"
-          ],
-          "materials": [
-            "Curtains made of fabric"
-          ],
-          "finish": "Standard"
-        },
-        {
-          "type": "Wooden flooring",
-          "features": [
-            "Natural wood grain texture",
-            "Warm brown color"
+            "Wooden panelled flooring"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Natural varnish"
+          "finish": "Shiny polished surface"
+        },
+        {
+          "type": "Bench",
+          "features": [
+            "Simplicity in design",
+            "Attached to the wall"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Smooth painted finish"
         }
       ],
       "visual_attributes": {
@@ -61,51 +62,51 @@
           "White",
           "Beige",
           "Blue",
-          "Brown",
-          "Silver"
+          "Beige"
         ],
         "materials": [
-          "MDF",
+          "Painted wood",
+          "Metal",
           "Fabric",
           "Wood"
         ],
-        "lighting": "Natural light from a window with recessed lights above the wardrobes",
-        "texture": "Glossy, matte, fabric, natural wood grain"
+        "lighting": "Natural light from the window with accent lighting from the top corners",
+        "texture": "Smooth surfaces with some textures from the wood and fabric"
       },
       "indian_context": {
-        "regional_style": "Not indicative of a specific regional Indian style",
+        "regional_style": "Not clearly identifiable with Indian regional styles due to modern design elements",
         "traditional_elements": [
-          "No traditional Indian elements visible"
+          "Rounded window design"
         ],
         "modern_adaptations": [
-          "The design is modern and minimalistic with no traditional Indian adaptations"
+          "Minimalist wardrobe design with sliding doors"
         ],
-        "space_utilization": "The space is optimized for storage with built-in cabinets and a sliding wardrobe door",
-        "cultural_significance": "No cultural elements specific to Indian interiors are present"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.8
-      },
-      "description": "The image depicts a modern, minimalist bedroom with a focus on practical storage solutions. The sliding wardrobe doors and built-in storage cabinets provide efficient use of space. The design is sleek and contemporary, with neutral tones and geometric patterns that blend well with the natural wood flooring. The window with curtains adds a touch of color and softness to the otherwise stark and functional space.",
-      "metadata": {
-        "tags": [
-          "Minimalist",
-          "Bedroom",
-          "Storage",
-          "Modern",
-          "Neutral colors"
-        ],
-        "budget_indicator": "Moderate, with materials like MDF and fabric for the curtains",
-        "space_type": "Residential bedroom",
-        "functionality": "Primarily for storage and clothing organization",
-        "indian_specific": "No specific Indian design features are present"
+        "space_utilization": "Efficient use of space with built-in wardrobes",
+        "cultural_significance": "The rounded window design can be seen as a modern interpretation of traditional Indian architectural elements, but the overall design is not traditionally Indian"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.85,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.75
+    },
+    "description": "This image depicts a minimalist bedroom with modern design elements. The room features built-in wardrobes with sliding doors that have a sleek, glossy finish, complemented by a simple bench at the foot of the bed. A window with a rounded top and curtains adds a subtle traditional touch. The flooring is wooden, polished to a shine, and the overall space is organized and efficient, though it lacks strong traditional Indian design elements.",
+    "metadata": {
+      "tags": [
+        "Minimalist bedroom",
+        "Modern design",
+        "Built-in wardrobes",
+        "Rounded window",
+        "Wooden flooring"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Bedroom",
+      "functionality": "Storage and relaxation",
+      "indian_specific": "Rounded window design"
     }
   },
-  "cached_at": 1753181110723,
+  "cached_at": 1753457627328,
   "cache_key": "34507ba3cdb0667c0d7595714fce1532"
 }

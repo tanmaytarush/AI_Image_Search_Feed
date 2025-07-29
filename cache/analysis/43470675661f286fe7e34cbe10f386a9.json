@@ -4,132 +4,114 @@
     "image_id": "img_080",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Modern Indian",
+      "theme": "Contemporary Indian Kids Room",
       "primary_features": [
-        "Wall-mounted shelves with star decorations",
         "Polka dot wallpaper",
-        "Green bunny-shaped headboard",
-        "Ornamental pillows",
-        "Marble flooring"
+        "Bunny-themed bed frame",
+        "Sliding wardrobe door",
+        "Built-in study desk"
       ],
       "objects": [
         {
-          "type": "Wall-mounted shelves",
+          "type": "Built-in study desk",
           "features": [
-            "Star-shaped decorative items, books, and small plants"
+            "Green metallic surface",
+            "Integrated shelves for storage",
+            "World map on the wall"
           ],
           "materials": [
-            "Wooden shelves with orange back panel"
+            "Metal",
+            "Glass",
+            "Wood"
           ],
-          "finish": "Matte finish"
+          "finish": "Metallic sheen, glass sheen, wood grain"
         },
         {
-          "type": "Wall",
+          "type": "Bunny-themed bed frame",
           "features": [
-            "Polka dot wallpaper"
+            "Green bunny ears headboard",
+            "Comforter with floral and animal designs",
+            "Cushion with heart pattern"
           ],
           "materials": [
-            "Painted wall"
-          ],
-          "finish": "Smooth finish"
-        },
-        {
-          "type": "Headboard",
-          "features": [
-            "Green bunny-shaped design"
-          ],
-          "materials": [
+            "Fabric",
+            "Foam",
             "Fabric"
           ],
-          "finish": "Velvet finish"
+          "finish": "Velvet texture, soft fabric"
         },
         {
-          "type": "Pillows",
+          "type": "Sliding wardrobe door",
           "features": [
-            "Heart-shaped and patterned designs"
+            "Green and orange panels",
+            "Metallic frame",
+            "Glass panels"
           ],
           "materials": [
-            "Fabric"
+            "Glass",
+            "Metal",
+            "Painted wood"
           ],
-          "finish": "Soft fabric"
-        },
-        {
-          "type": "Bed",
-          "features": [
-            "Decorative bedding with floral and owl patterns"
-          ],
-          "materials": [
-            "Fabric for bedding"
-          ],
-          "finish": "Textured fabric"
-        },
-        {
-          "type": "Desk",
-          "features": [
-            "Green countertop, world map, and desk accessories"
-          ],
-          "materials": [
-            "Marble top, wood base"
-          ],
-          "finish": "Marble top, wood finish"
-        },
-        {
-          "type": "Closet",
-          "features": [
-            "Sliding glass doors with orange and green panels"
-          ],
-          "materials": [
-            "Glass, metal, and wood"
-          ],
-          "finish": "Glossy finish on glass, metallic frame"
+          "finish": "Clear glass, metallic sheen, painted wood"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Green, orange, white, black, pink, blue, yellow"
+          "Green",
+          "Orange",
+          "White",
+          "Black",
+          "Pink",
+          "Brown",
+          "Beige",
+          "Multicolor pattern"
         ],
         "materials": [
-          "Wood, glass, marble, fabric, metal"
+          "Metal",
+          "Glass",
+          "Painted wood",
+          "Fabric",
+          "Foam",
+          "Glass"
         ],
-        "lighting": "Natural light from ceiling lights",
-        "texture": "Smooth, matte, velvet, glossy"
+        "lighting": "Natural light from ceiling lights, ambient light from desk lamp",
+        "texture": "Velvet, metallic surface, painted wood, glass"
       },
       "indian_context": {
-        "regional_style": "Not clearly regional, but has elements of urban Indian design",
+        "regional_style": "Not distinctly identifiable",
         "traditional_elements": [
-          "Not explicitly traditional Indian elements"
+          "Not applicable"
         ],
         "modern_adaptations": [
-          "Decorative and functional elements, such as polka dot wallpaper and bunny headboard, adapted from contemporary styles"
+          "Polka dot wallpaper, bunny-themed bed frame, modern wardrobe design"
         ],
-        "space_utilization": "Efficient use of space with built-in storage and workspace",
-        "cultural_significance": "No explicitly cultural elements, but the use of soft colors and patterns can be associated with comfort and warmth"
+        "space_utilization": "Efficient use of space with built-in desk, sliding wardrobe, and compact bedroom layout",
+        "cultural_significance": "The design incorporates playful and thematic elements, likely reflecting a modern, family-oriented style rather than a traditional Indian context"
       }
     },
     "confidence_scores": {
-      "room": 0.85,
-      "theme": 0.8,
-      "primary_features": 0.85,
-      "objects": 0.9,
-      "indian_context": 0.7
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
     },
-    "description": "The image depicts a modern Indian-inspired bedroom with a blend of contemporary and traditional elements. The space features a polka dot wallpaper, a green bunny-shaped headboard, and a wall-mounted shelf with star decorations. The room is organized with built-in storage and a functional workspace, emphasizing efficiency and comfort. The use of soft colors and patterned textiles creates a warm and inviting atmosphere.",
+    "description": "The image depicts a contemporary Indian-inspired kids' bedroom with a playful and modern design. The room features a polka dot wallpaper, a bunny-themed bed with a green fabric headboard, and a built-in study desk with a green metallic surface and integrated shelving. The sliding wardrobe door has a vibrant green and orange color scheme. The space is well-organized, with a mix of traditional and modern elements, creating a cheerful and functional environment for a child.",
     "metadata": {
       "tags": [
-        "modern",
-        "Indian design",
-        "contemporary bedroom",
-        "polka dot",
-        "bunny headboard",
-        "wall-mounted shelves",
-        "urban Indian style"
+        "Contemporary Indian",
+        "Kids Room",
+        "Polka Dot",
+        "Bunny Theme",
+        "Built-in Desk",
+        "Sliding Wardrobe"
       ],
-      "budget_indicator": "Moderate, with a mix of materials like marble and glass, as well as patterned textiles",
-      "space_type": "Residential bedroom",
-      "functionality": "Sleeping and working",
-      "indian_specific": "Patterned textiles, polka dot wallpaper, and bunny-shaped headboard"
+      "budget_indicator": "Moderate, incorporating materials like metallic finishes, glass, and painted wood",
+      "space_type": "Single Room",
+      "functionality": "Sleeping and Studying",
+      "indian_specific": "Modern interpretation of Indian design elements with contemporary furniture and playful motifs"
     }
   },
-  "cached_at": 1753181227093,
+  "cached_at": 1753447557920,
   "cache_key": "43470675661f286fe7e34cbe10f386a9"
 }

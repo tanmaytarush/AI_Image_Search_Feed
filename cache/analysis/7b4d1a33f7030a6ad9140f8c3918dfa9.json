@@ -1,0 +1,79 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/417/image_cropper_1728471091190.jpg",
+  "analysis": {
+    "image_id": "img_115",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modular Indian Interiors",
+      "primary_features": [
+        "Wooden modular units",
+        "Built-in shelves",
+        "Panelled walls",
+        "Orange accent pillows"
+      ],
+      "objects": [
+        {
+          "type": "Modular storage unit",
+          "features": [
+            "Built-in shelves for storage",
+            "Panelled structure",
+            "Wooden finish"
+          ],
+          "materials": [
+            "Wooden panels",
+            "Metal hardware"
+          ],
+          "finish": "Natural wood finish with metallic accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown wood tones",
+          "Orange pillows",
+          "White walls"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Textiles"
+        ],
+        "lighting": "Natural light from ceiling lights",
+        "texture": "Smooth wood panels with soft fabric pillows"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian residential style with a modern twist",
+        "traditional_elements": [
+          "Panelled walls"
+        ],
+        "modern_adaptations": [
+          "Modular design and built-in storage"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage units",
+        "cultural_significance": "The use of panelled walls and built-in storage is a nod to traditional Maharashtrian homes, where functionality and storage are paramount"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern interpretation of a Maharashtrian living room, featuring panelled walls and built-in modular storage units. The natural wood finish and built-in shelves highlight a functional approach to interior design, typical in Maharashtrian homes where storage is essential. The orange accent pillows add a pop of color, bringing a contemporary touch to the traditional setting. The use of panelled walls and wooden modular units is a blend of modern design with traditional Indian elements, emphasizing efficiency and aesthetic appeal.",
+      "metadata": {
+        "tags": [
+          "Maharashtrian",
+          "Modern",
+          "Built-in storage",
+          "Panelled walls",
+          "Orange accents"
+        ],
+        "budget_indicator": "Medium to high, due to the use of quality wood and metallic hardware",
+        "space_type": "Residential Living Room",
+        "functionality": "Storage and display",
+        "indian_specific": "Panelled walls and built-in storage units"
+      }
+    }
+  },
+  "cached_at": 1753448515388,
+  "cache_key": "7b4d1a33f7030a6ad9140f8c3918dfa9"
+}

@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1341/image_cropper_1729755199316.jpg",
+  "analysis": {
+    "image_id": "img_426",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Kitchen with Indian Influences",
+      "primary_features": [
+        "Blue cabinetry",
+        "White countertops",
+        "Range hood",
+        "Appliances"
+      ],
+      "objects": [
+        {
+          "type": "Range hood",
+          "features": [
+            "Curved",
+            "Decorative"
+          ],
+          "materials": [
+            "Metallic"
+          ],
+          "finish": "Shiny, reflective"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "Blue",
+            "Modern lines"
+          ],
+          "materials": [
+            "Painted wood or laminate"
+          ],
+          "finish": "Smooth, glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Black",
+          "Metallic"
+        ],
+        "materials": [
+          "Metal",
+          "Painted wood",
+          "Granite"
+        ],
+        "lighting": "Bright, artificial lighting with recessed lights in ceiling",
+        "texture": "Smooth, glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Non-specific regional influence, more of a modern interpretation of Indian design",
+        "traditional_elements": [
+          "Range hood with decorative elements, which are commonly seen in traditional Indian kitchens"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and design aesthetics"
+        ],
+        "space_utilization": "Open and efficient use of space with a central island and ample counter space",
+        "cultural_significance": "The range hood with decorative elements aims to blend traditional craftsmanship with modern functionality"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.9,
+        "objects": 0.88,
+        "indian_context": 0.78
+      },
+      "description": "A modern kitchen that incorporates elements of traditional Indian design, such as the decorative range hood, into a contemporary kitchen layout and color scheme. The blue cabinetry and white countertops create a fresh and clean look, while the metallic finish on the hood adds a touch of traditional craftsmanship.",
+      "metadata": {
+        "tags": [
+          "Modern Kitchen",
+          "Indian Influences",
+          "Blue Cabinets",
+          "White Countertops",
+          "Decorative Range Hood",
+          "Contemporary Design"
+        ],
+        "budget_indicator": "Moderate to high, given the use of materials like metal and possibly granite or high-quality laminate for countertops",
+        "space_type": "Residential Kitchen",
+        "functionality": "Cooking and food preparation area with storage and workspace",
+        "indian_specific": "Range hood with decorative elements"
+      }
+    }
+  },
+  "cached_at": 1753461742446,
+  "cache_key": "68c01eafebaef97fe9b9280daced6b8c"
+}

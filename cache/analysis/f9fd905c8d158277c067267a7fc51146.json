@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/523/image_cropper_1729483436589.jpg",
+  "analysis": {
+    "image_id": "img_243",
+    "ai_generated_tags": {
+      "room": "Child's bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Bunk bed with storage underneath",
+        "Wooden flooring",
+        "Built-in staircase"
+      ],
+      "objects": [
+        {
+          "type": "Bunk bed",
+          "features": [
+            "Two-tiered design",
+            "Built-in staircase",
+            "Storage underneath"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Wood with a natural finish, metal with a glossy finish"
+        },
+        {
+          "type": "Built-in staircase",
+          "features": [
+            "Staircase with wooden steps and metal handrail"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Wood with a natural finish, metal with a glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light brown (wood)",
+          "White (walls)",
+          "Brown (flooring)",
+          "Multicolor (pillows)",
+          "Blue (rug)"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "White paint",
+          "Carpet"
+        ],
+        "lighting": "Natural light from the window, artificial light from lamp",
+        "texture": "Smooth wood texture, soft carpet, smooth metal"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, appears to be a modern interpretation",
+        "traditional_elements": [
+          "Carved wooden elements on the bed frame"
+        ],
+        "modern_adaptations": [
+          "Built-in staircase, storage underneath, modern lighting"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture and storage",
+        "cultural_significance": "The bunk bed design might be inspired by traditional Indian family living spaces, but the modern adaptations suggest a contemporary interpretation."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior of a modern Indian child's bedroom featuring a bunk bed with built-in storage and a staircase, emphasizing functionality and space optimization. The wooden bunk bed and storage area under each bed are typical elements of modern Indian interiors, while the built-in staircase adds to the contemporary feel. The use of natural wood for the bed frame, combined with white walls and a brown carpet, creates a warm and inviting atmosphere. The natural light from the window paired with the artificial light from a lamp ensures that the space is well-lit and comfortable.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Bunk bed",
+        "Built-in staircase",
+        "Child's bedroom",
+        "Wooden interior"
+      ],
+      "budget_indicator": "Moderate, as it features wood and metal, but the built-in design suggests a focus on functionality and quality materials.",
+      "space_type": "Residential, specifically a child's bedroom",
+      "functionality": "The primary purpose of this space is for a child to sleep and store items efficiently.",
+      "indian_specific": "The bunk bed and storage elements are distinctly Indian design features, though the overall modern adaptation gives it a contemporary look."
+    }
+  },
+  "cached_at": 1753459590593,
+  "cache_key": "f9fd905c8d158277c067267a7fc51146"
+}

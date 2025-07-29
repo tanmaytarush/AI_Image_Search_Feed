@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/356/image_cropper_5CB5BFA0-188C-4AB8-8E31-69E24A71C104-32441-00000ECA94320E56.jpg",
+  "analysis": {
+    "image_id": "img_114",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Modular shelves",
+        "Digital displays"
+      ],
+      "objects": [
+        {
+          "type": "Digital Display",
+          "features": [
+            "Vertical orientation",
+            "Text labels"
+          ],
+          "materials": [
+            "Composite",
+            "Plastic"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Modular Shelves",
+          "features": [
+            "Minimalistic design",
+            "Stackable units"
+          ],
+          "materials": [
+            "MDF",
+            "Metal"
+          ],
+          "finish": "Painted"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "materials": [
+          "Composite",
+          "Plastic",
+          "MDF",
+          "Metal"
+        ],
+        "lighting": "Artificial, even lighting",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalistic design with digital displays"
+        ],
+        "space_utilization": "Highly functional, optimized for storage",
+        "cultural_significance": "Not applicable"
+      },
+      "confidence_scores": {
+        "room": 0.65,
+        "theme": 0.8,
+        "primary_features": 0.75,
+        "objects": 0.85,
+        "indian_context": 0.5
+      },
+      "description": "The image depicts a section of a modern kitchen with a minimalist design. The focus is on modular shelves and digital display units, which are likely used for storing kitchen items and displaying information. The design is sleek and functional with a monochromatic color scheme, featuring black and white tones. The materials used include composite wood, plastic, MDF, and metal, with a matte finish on the plastic and painted finish on the MDF.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Minimalist",
+          "Modular Shelves",
+          "Digital Displays"
+        ],
+        "budget_indicator": "Moderate, due to the use of composite and painted materials",
+        "space_type": "Residential Kitchen",
+        "functionality": "Storage and information display",
+        "indian_specific": "No Indian-specific design features are visible in this image."
+      }
+    }
+  },
+  "cached_at": 1753448484077,
+  "cache_key": "8c59953f3807052372e4fd19be8af83b"
+}

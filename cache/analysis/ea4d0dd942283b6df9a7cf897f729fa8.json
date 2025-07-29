@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/901%20dinning.jpg",
+  "analysis": {
+    "image_id": "img_249",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Modular kitchen with glass doors",
+        "Marble backsplash",
+        "Rattan screen",
+        "Circle mirror"
+      ],
+      "objects": [
+        {
+          "type": "Refrigerator",
+          "features": [
+            "Gray door with wave pattern"
+          ],
+          "materials": [
+            "Metallic surface"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Modular kitchen",
+          "features": [
+            "Glass doors",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Glass",
+            "Wood"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Circular shape",
+            "Gold frame"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Gold",
+          "Brown"
+        ],
+        "materials": [
+          "Marble",
+          "Metal",
+          "Wood",
+          "Glass"
+        ],
+        "lighting": "Soft ambient lighting with recessed lights in the ceiling",
+        "texture": "Smooth surfaces with some textured elements like the rattan screen"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to any regional style",
+        "traditional_elements": [
+          "Circle mirror"
+        ],
+        "modern_adaptations": [
+          "Glass doors with wooden frame"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves and cabinets",
+        "cultural_significance": "Circle mirror often symbolizes completeness and unity in Indian culture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.9,
+      "primary_features": 0.92,
+      "objects": 0.89,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary kitchen features a sleek design with a blend of modern and traditional Indian elements. The modular kitchen with glass doors and wooden frame showcases a modern twist on traditional craftsmanship. A circular mirror with a gold frame adds a touch of elegance, while the rattan screen introduces a natural and warm element, reflecting Indian weaving traditions. The white marble backsplash and gold accents on the hardware emphasize the sophistication of the space. The soft ambient lighting enhances the overall aesthetic, creating a warm and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Contemporary Kitchen",
+        "Indian Influences",
+        "Modular Design",
+        "Circle Mirror",
+        "Marble Backsplash"
+      ],
+      "budget_indicator": "Moderate to High, due to the use of high-quality materials like marble and glass",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary purpose is for food preparation and storage, with additional space for casual dining and entertaining",
+      "indian_specific": "Circle mirror and rattan screen, reflecting traditional Indian craftsmanship and design"
+    }
+  },
+  "cached_at": 1753450497430,
+  "cache_key": "ea4d0dd942283b6df9a7cf897f729fa8"
+}

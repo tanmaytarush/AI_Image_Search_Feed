@@ -1,0 +1,106 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/115/insta_assets_crop_fcc12b9f-6145-43ad-844b-61260dc5a5848556728731824537555.jpg",
+  "analysis": {
+    "image_id": "img_377",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Green cabinetry",
+        "White countertops",
+        "Wooden ceiling beams",
+        "Wall-mounted shelves"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Green with matte finish",
+            "L-shaped design"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "White, smooth surface"
+          ],
+          "materials": [
+            "Granite or composite stone"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Ceiling beams",
+          "features": [
+            "Exposed wooden beams"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural finish"
+        },
+        {
+          "type": "Wall-mounted shelves",
+          "features": [
+            "White, wooden shelves"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Matte finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Brown"
+        ],
+        "materials": [
+          "Painted wood",
+          "Granite/Composite stone",
+          "Wood"
+        ],
+        "lighting": "Natural light from large windows",
+        "texture": "Smooth surfaces with natural wood grain"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly evident",
+        "traditional_elements": [
+          "Wooden ceiling beams"
+        ],
+        "modern_adaptations": [
+          "Combination of modern design with traditional elements"
+        ],
+        "space_utilization": "Utilizing space efficiently with L-shaped cabinets and wall-mounted shelves",
+        "cultural_significance": "Use of wooden elements, often associated with natural and traditional materials in Indian architecture"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.92,
+        "indian_context": 0.8
+      },
+      "description": "This kitchen showcases a modern Indian design approach, blending contemporary elements with traditional Indian architectural features like wooden ceiling beams. The L-shaped green cabinetry and white countertops create a fresh, clean look, while the wooden beams add a touch of warmth and cultural significance. The use of green and white is a common color palette in many Indian interiors, symbolizing renewal and purity.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Green Kitchen",
+          "Wooden Beams",
+          "L-Shaped Cabinets"
+        ],
+        "budget_indicator": "Mid-range, as the use of painted wood and granite suggests a cost-effective material choice.",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary kitchen workspace for food preparation and storage",
+        "indian_specific": "Green cabinetry and wooden ceiling beams are indicative of modern interpretations of traditional Indian design elements."
+      }
+    }
+  },
+  "cached_at": 1753461090320,
+  "cache_key": "8d25bfc09d18ff99ccb8c4d9f273e28a"
+}
