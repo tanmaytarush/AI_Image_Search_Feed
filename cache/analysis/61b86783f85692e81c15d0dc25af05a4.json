@@ -3,6 +3,7 @@
   "analysis": {
     "image_id": "img_082",
     "ai_generated_tags": {
+<<<<<<< HEAD
       "room": "Living/Dining Space",
       "theme": "Contemporary with Indian Influences",
       "primary_features": [
@@ -24,10 +25,30 @@
             "Metal"
           ],
           "finish": "Matte"
+=======
+      "room": "Entryway",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Polka dot wallpaper",
+        "Sliding glass and black metal door",
+        "uilt-in shelving with decorative items"
+      ],
+      "objects": [
+        {
+          "type": "Shelving unit",
+          "features": [
+            "Decorative items, books, star decor"
+          ],
+          "materials": [
+            "Wood, glass, metal"
+          ],
+          "finish": "Matte, glossy surfaces"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "White",
           "Green",
           "Brown",
@@ -77,5 +98,50 @@
     }
   },
   "cached_at": 1753451465016,
+=======
+          "White, black, orange, green, gold"
+        ],
+        "materials": [
+          "Metal, glass, wood"
+        ],
+        "lighting": "Natural light from behind the glass, ambient indoor lighting",
+        "texture": "Smooth, glossy, textured (wallpaper)"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly Indian regional style",
+        "traditional_elements": [
+          "Not traditional, but inspired by Indian color palettes"
+        ],
+        "modern_adaptations": [
+          "Contemporary take on traditional Indian color schemes"
+        ],
+        "space_utilization": "Efficient use of sliding door for room separation",
+        "cultural_significance": "Indian-inspired color palette may symbolize vibrancy and cultural richness"
+      },
+      "confidence_scores": {
+        "room": 0.8,
+        "theme": 0.7,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.75
+      },
+      "description": "The image shows a contemporary entryway with Indian design influences, featuring a sliding glass door with a black metal frame. The space includes built-in shelving with decorative items, which is an efficient use of space. The polka dot wallpaper, while not traditional, contributes to the Indian aesthetic with its vibrant and bold color palette. The use of wood, glass, and metal materials adds a modern touch to the design.",
+      "metadata": {
+        "tags": [
+          "Entryway",
+          "Contemporary Design",
+          "Indian Color Palette",
+          "Sliding Door",
+          "Built-in Shelving"
+        ],
+        "budget_indicator": "Moderate, with visible use of glass and metal for modern design",
+        "space_type": "Residential Entryway",
+        "functionality": "Organized and functional space that separates the entrance from the interior",
+        "indian_specific": "Use of vibrant colors and modern adaptations of traditional Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1753181239244,
+>>>>>>> origin/main
   "cache_key": "61b86783f85692e81c15d0dc25af05a4"
 }

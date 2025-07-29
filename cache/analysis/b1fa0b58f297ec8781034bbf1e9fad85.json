@@ -3,17 +3,26 @@
   "analysis": {
     "image_id": "img_030",
     "ai_generated_tags": {
+<<<<<<< HEAD
       "room": "Closet",
       "theme": "Modern Minimalist",
       "primary_features": [
         "Wardrobe with four doors",
         "Storage shelves with lights",
         "Minimal decor"
+=======
+      "room": "Hallway",
+      "theme": "Minimalist",
+      "primary_features": [
+        "White wardrobe with four doors",
+        "Built-in shelving unit"
+>>>>>>> origin/main
       ],
       "objects": [
         {
           "type": "Wardrobe",
           "features": [
+<<<<<<< HEAD
             "White with a clean minimalist design",
             "Simple silver handles"
           ],
@@ -22,10 +31,21 @@
             "Wooden shelves"
           ],
           "finish": "Matte white finish with smooth surfaces"
+=======
+            "Four doors with simple handles",
+            "White color"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Painted finish"
+          ],
+          "finish": "Matte"
+>>>>>>> origin/main
         },
         {
           "type": "Shelving Unit",
           "features": [
+<<<<<<< HEAD
             "Built-in shelving system",
             "Integrated lighting"
           ],
@@ -33,11 +53,22 @@
             "Wooden shelves"
           ],
           "finish": "Natural wood finish with a warm tone"
+=======
+            "Open shelving unit with compartments",
+            "Integrated with wardrobe"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Light-colored finish"
+          ],
+          "finish": "Matte"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
+<<<<<<< HEAD
           "Natural wood",
           "Black",
           "Light beige"
@@ -82,5 +113,48 @@
     }
   },
   "cached_at": 1753446363450,
+=======
+          "Light wooden tones",
+          "Dark brown"
+        ],
+        "materials": [
+          "Wood",
+          "Painted surfaces"
+        ],
+        "lighting": "Natural light with subtle artificial illumination",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Western-style",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Efficient use of wall space",
+        "cultural_significance": "No specific cultural elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A modern and minimalist hallway featuring a white wardrobe with four doors and an open shelving unit integrated with the wardrobe, providing ample storage space. The walls and door are finished in a light beige color, complemented by a dark brown wooden door on the left.",
+    "metadata": {
+      "tags": [
+        "minimalist",
+        "hallway",
+        "wardrobe",
+        "storage",
+        "interior design"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Storage and organization",
+      "indian_specific": "No specific Indian features"
+    }
+  },
+  "cached_at": 1753179512944,
+>>>>>>> origin/main
   "cache_key": "b1fa0b58f297ec8781034bbf1e9fad85"
 }

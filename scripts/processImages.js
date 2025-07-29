@@ -44,7 +44,11 @@ class ImageProcessor {
     console.log(`Processing batch of ${images.length} images...`);
 
     const batchResults = [];
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> origin/main
     // Process images sequentially with delays to avoid rate limiting
     for (const image of images) {
       try {
@@ -61,7 +65,11 @@ class ImageProcessor {
 
         console.log(`✓ Completed analysis for: ${image.image_id}`);
         batchResults.push(analysisResult);
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> origin/main
         // Add delay between individual images to avoid rate limiting
         if (images.indexOf(image) < images.length - 1) {
           console.log(`⏳ Waiting 1 second before next image...`);
@@ -99,6 +107,7 @@ class ImageProcessor {
       console.log("📊 Setting up Qdrant collection...");
       await qdrantService.createCollection();
 
+<<<<<<< HEAD
       // Check for already processed images to enable resume functionality
       console.log("🔍 Checking for already processed images...");
       const existingPoints = await qdrantService.client.scroll(
@@ -137,6 +146,15 @@ class ImageProcessor {
             processedIds.size + i + batch.length,
             images.length
           )} of ${images.length})`
+=======
+      // Process images in batches
+      for (let i = 0; i < images.length; i += this.batchSize) {
+        const batch = images.slice(i, i + this.batchSize);
+        console.log(
+          `\n📦 Processing batch ${
+            Math.floor(i / this.batchSize) + 1
+          }/${Math.ceil(images.length / this.batchSize)}`
+>>>>>>> origin/main
         );
 
         // Process batch
@@ -156,7 +174,11 @@ class ImageProcessor {
         }
 
         // Delay between batches to avoid rate limiting
+<<<<<<< HEAD
         if (i + this.batchSize < unprocessedImages.length) {
+=======
+        if (i + this.batchSize < images.length) {
+>>>>>>> origin/main
           console.log(
             `⏳ Waiting ${this.delayBetweenBatches}ms before next batch...`
           );
@@ -181,9 +203,13 @@ class ImageProcessor {
 
     // Get CDN cache statistics
     const cdnStats = cdnService.getCacheStats();
+<<<<<<< HEAD
     console.log(
       `📦 CDN Cache: ${cdnStats.analysis_cache_count} analysis results cached`
     );
+=======
+    console.log(`📦 CDN Cache: ${cdnStats.analysis_cache_count} analysis results cached`);
+>>>>>>> origin/main
 
     if (this.errors.length > 0) {
       console.log("\n❌ Failed images:");

@@ -4,17 +4,26 @@
     "image_id": "img_018",
     "ai_generated_tags": {
       "room": "Kitchen",
+<<<<<<< HEAD
       "theme": "Minimalist with Indian Influences",
       "primary_features": [
         "Compact kitchen layout",
         "Modern appliances",
         "Symmetrical table arrangement",
         "Wooden door with vertical slats"
+=======
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Compact dining area",
+        "Integrated fridge",
+        "Cabinet storage"
+>>>>>>> origin/main
       ],
       "objects": [
         {
           "type": "Dining Table",
           "features": [
+<<<<<<< HEAD
             "Rectangular shape",
             "Metallic base with vertical gold stripes",
             "White top"
@@ -35,10 +44,22 @@
             "Fabric for upholstery"
           ],
           "finish": "Smooth and clean"
+=======
+            "Four chairs",
+            "Metallic legs",
+            "White top"
+          ],
+          "materials": [
+            "Metallic",
+            "White"
+          ],
+          "finish": "Polished"
+>>>>>>> origin/main
         },
         {
           "type": "Refrigerator",
           "features": [
+<<<<<<< HEAD
             "Modern design",
             "Large capacity"
           ],
@@ -46,10 +67,20 @@
             "Metallic body"
           ],
           "finish": "Glossy"
+=======
+            "Integrated into cabinetry",
+            "Digital display"
+          ],
+          "materials": [
+            "Metallic"
+          ],
+          "finish": "Polished"
+>>>>>>> origin/main
         },
         {
           "type": "Cabinet",
           "features": [
+<<<<<<< HEAD
             "Vertical wooden slats",
             "Double doors"
           ],
@@ -80,10 +111,21 @@
             "Natural dried plant"
           ],
           "finish": "Simple and natural"
+=======
+            "Wooden doors",
+            "Glass panels"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Natural, Frosted"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "Gray",
           "White",
           "Gold",
@@ -113,6 +155,31 @@
         ],
         "space_utilization": "Efficient use of space with built-in appliances and compact furniture arrangement",
         "cultural_significance": "The wooden door with vertical slats may have a traditional Indian influence in its design"
+=======
+          "White",
+          "Wood",
+          "Black"
+        ],
+        "materials": [
+          "Metal",
+          "Wood",
+          "Glass"
+        ],
+        "lighting": "Under-cabinet, Pendant lights",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Contemporary",
+        "traditional_elements": [
+          "Cabinet doors with glass panels"
+        ],
+        "modern_adaptations": [
+          "Integrated fridge",
+          "Compact layout"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Modern interpretation of Indian cabinetry"
+>>>>>>> origin/main
       }
     },
     "confidence_scores": {
@@ -122,6 +189,7 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
+<<<<<<< HEAD
     "description": "This image showcases a modern kitchen with a minimalist design, featuring a compact layout and efficient space utilization. The kitchen includes a sleek refrigerator, a rectangular dining table with a metallic base and white top, and matching chairs with high backrests and light beige upholstery. The wooden door with vertical slats adds a touch of traditional Indian design to the otherwise contemporary setting. The use of natural wood tones, metallic finishes, and a gray and white color palette creates a clean and sophisticated look. The artificial lighting from the pendant lights provides ample illumination, enhancing the modern and minimalistic feel of the space.",
     "metadata": {
       "tags": [
@@ -138,5 +206,24 @@
     }
   },
   "cached_at": 1753446045955,
+=======
+    "description": "This image showcases a modern minimalist kitchen design with a compact dining area integrated into the cabinetry. The space features a sleek, metallic fridge that blends seamlessly into the cabinetry, with glass-paneled doors adding a touch of traditional elegance. The dining table and chairs have a contemporary design with metallic legs, and the kitchen is well-lit with under-cabinet lighting and pendant lights. The use of white, wood, and black creates a clean, sophisticated look, while the glass panels on the cabinet doors add a subtle Indian touch. The space is designed for efficient use of vertical space, making it ideal for a modern home.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modern",
+        "Minimalist",
+        "Compact",
+        "Integrated Fridge",
+        "Glass Doors"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Compact Home",
+      "functionality": "Efficient Dining and Kitchen Combo",
+      "indian_specific": "Modern Indian Cabinetry"
+    }
+  },
+  "cached_at": 1753179488737,
+>>>>>>> origin/main
   "cache_key": "f2d3370821cddc38179243e79637a34d"
 }

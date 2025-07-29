@@ -3,6 +3,7 @@
   "analysis": {
     "image_id": "img_045",
     "ai_generated_tags": {
+<<<<<<< HEAD
       "room": "Storage space",
       "theme": "Modular design with modern Indian influences",
       "primary_features": [
@@ -49,10 +50,45 @@
             "Metallic frame"
           ],
           "finish": "Matte finish with metallic frame"
+=======
+      "room": "Bedroom",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Large wardrobe",
+        "Built-in storage"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "White and orange panels",
+            "Rectangular mirrors",
+            "Sleek handles"
+          ],
+          "materials": [
+            "Painted MDF",
+            "Orange MDF"
+          ],
+          "finish": "Matt finish"
+        },
+        {
+          "type": "Built-in Storage",
+          "features": [
+            "Open shelves",
+            "Drawers",
+            "Mirror cabinet"
+          ],
+          "materials": [
+            "Painted MDF",
+            "Metal"
+          ],
+          "finish": "Matt finish"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "Orange",
           "White",
           "Gray"
@@ -74,6 +110,30 @@
         ],
         "space_utilization": "Optimized storage and functional design for a compact space",
         "cultural_significance": "Modern adaptation of Indian design principles focusing on practicality and functionality"
+=======
+          "White",
+          "Orange",
+          "Gray",
+          "Beige"
+        ],
+        "materials": [
+          "Painted MDF",
+          "Metal"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth, flat surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Minimal use of traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Modern interpretation of storage solutions"
+        ],
+        "space_utilization": "Optimized storage with minimal decor",
+        "cultural_significance": "No significant cultural elements"
+>>>>>>> origin/main
       }
     },
     "confidence_scores": {
@@ -83,6 +143,7 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
+<<<<<<< HEAD
     "description": "The image depicts a modern Indian storage space featuring a modular wardrobe with a contemporary design. The wardrobe is painted in orange and white, with frosted glass doors on the upper section, providing a contrast to the metallic handles and the matte finish. The lower section includes open shelving and a mirror with a shelf, enhancing both storage and display options. The design is clean and functional, reflecting a modern Indian aesthetic.",
     "metadata": {
       "tags": [
@@ -99,5 +160,23 @@
     }
   },
   "cached_at": 1753446689243,
+=======
+    "description": "This image depicts a modern, minimalist bedroom with a built-in wardrobe and storage system. The design incorporates contemporary elements with a touch of Indian aesthetic, highlighted by the bright orange and white color scheme. The wardrobe features sleek, modern handles, and the storage system includes open shelves and drawers, optimized for efficient use of space. The built-in mirror cabinet adds a practical and aesthetic touch, typical of modern Indian interior designs. The natural light from the window enhances the bright and airy feel of the room.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Indian interior",
+        "Bedroom",
+        "Built-in storage",
+        "Orange and white"
+      ],
+      "budget_indicator": "Moderate to high, due to painted MDF and metal",
+      "space_type": "Residential bedroom",
+      "functionality": "Storage and organization",
+      "indian_specific": "Modern adaptation of storage solutions"
+    }
+  },
+  "cached_at": 1753181154449,
+>>>>>>> origin/main
   "cache_key": "f70f5ed3195a394c8a758e5f576043da"
 }

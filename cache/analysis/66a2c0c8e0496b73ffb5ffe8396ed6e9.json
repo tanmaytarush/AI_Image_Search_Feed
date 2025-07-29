@@ -3,6 +3,7 @@
   "analysis": {
     "image_id": "img_015",
     "ai_generated_tags": {
+<<<<<<< HEAD
       "room": "Living room",
       "theme": "Modern Indian Contemporary",
       "primary_features": [
@@ -35,11 +36,43 @@
           "materials": [
             "Marble",
             "Dark wood",
+=======
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Sofa",
+        "Coffee table",
+        "Wine rack",
+        "Marble floor",
+        "Wooden partition"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Beige fabric",
+            "Patterned cushions"
+          ],
+          "materials": [
+            "Leather"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Coffee table",
+          "features": [
+            "Black glass",
+            "Gold rim"
+          ],
+          "materials": [
+            "Glass",
+>>>>>>> origin/main
             "Metal"
           ],
           "finish": "Matte"
         },
         {
+<<<<<<< HEAD
           "type": "Sofa",
           "features": [
             "Cream fabric",
@@ -50,10 +83,24 @@
             "Cushion covers"
           ],
           "finish": "Matte"
+=======
+          "type": "Wine rack",
+          "features": [
+            "Lighting",
+            "Shelving",
+            "Wine glasses"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Polished"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "Cream",
           "Dark brown",
           "White",
@@ -78,6 +125,35 @@
         ],
         "space_utilization": "Efficient use of vertical space with shelving and wardrobe",
         "cultural_significance": "Cultural elements are modern interpretations of traditional Indian design elements"
+=======
+          "Beige",
+          "Black",
+          "Gold",
+          "White",
+          "Brown"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal",
+          "Leather"
+        ],
+        "lighting": "Ambient",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden partition",
+          "Marble flooring"
+        ],
+        "modern_adaptations": [
+          "Wine rack with lighting",
+          "Contemporary furniture"
+        ],
+        "space_utilization": "Efficient",
+        "cultural_significance": "Elegance and hospitality in Indian homes"
+>>>>>>> origin/main
       }
     },
     "confidence_scores": {
@@ -87,6 +163,7 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
+<<<<<<< HEAD
     "description": "The image depicts a modern Indian contemporary living room with a focus on traditional Indian design elements. The room features a walk-in wardrobe with dark wood, a shelving unit with illuminated shelves and a marble counter, and a cream-colored sofa with patterned cushions. The design integrates traditional Indian materials and color schemes with modern aesthetics, creating a luxurious and functional space.",
     "metadata": {
       "tags": [
@@ -104,5 +181,22 @@
     }
   },
   "cached_at": 1753445955860,
+=======
+    "description": "The living room features a modern Indian theme with a blend of traditional and contemporary elements. The room includes a sleek sofa with patterned cushions, a glass coffee table with a gold rim, and a wall-mounted wine rack with built-in lighting and shelving for wine glasses. The space is characterized by beige and black tones with white marble flooring and wooden accents, creating an elegant and sophisticated atmosphere.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Modern Indian",
+        "Elegance",
+        "Contemporary Furniture"
+      ],
+      "budget_indicator": "High",
+      "space_type": "Residential",
+      "functionality": "Relaxation and entertainment",
+      "indian_specific": "Wooden partition and marble flooring"
+    }
+  },
+  "cached_at": 1753179296938,
+>>>>>>> origin/main
   "cache_key": "66a2c0c8e0496b73ffb5ffe8396ed6e9"
 }

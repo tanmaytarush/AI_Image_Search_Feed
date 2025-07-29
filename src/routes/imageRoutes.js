@@ -13,6 +13,7 @@ router.get("/search", imageController.searchImages);
 router.get("/simple-search", async (req, res) => {
   try {
     const { query = "bedroom", limit = 5 } = req.query;
+<<<<<<< HEAD
 
     // Import services
     const qdrantService = await import("../services/qdrantService.js");
@@ -20,6 +21,15 @@ router.get("/simple-search", async (req, res) => {
     // Get embedding for query
     const queryVector = await qdrantService.default.getEmbedding(query);
 
+=======
+    
+    // Import services
+    const qdrantService = await import("../services/qdrantService.js");
+    
+    // Get embedding for query
+    const queryVector = await qdrantService.default.getEmbedding(query);
+    
+>>>>>>> origin/main
     // Simple search on primary_search vector only
     const searchResults = await qdrantService.default.client.search(
       "interior_images",
@@ -30,7 +40,11 @@ router.get("/simple-search", async (req, res) => {
         with_vector: false,
       }
     );
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> origin/main
     // Format results
     const formattedResults = searchResults.map((result) => ({
       image_id: result.payload.image_id,
@@ -45,13 +59,21 @@ router.get("/simple-search", async (req, res) => {
       data: formattedResults,
       query: query,
       message: `Found ${formattedResults.length} matching images`,
+<<<<<<< HEAD
       mode: "simple_search",
+=======
+      mode: "simple_search"
+>>>>>>> origin/main
     });
   } catch (error) {
     res.json({
       success: false,
       error: error.message,
+<<<<<<< HEAD
       stack: error.stack,
+=======
+      stack: error.stack
+>>>>>>> origin/main
     });
   }
 });
@@ -60,24 +82,40 @@ router.get("/simple-search", async (req, res) => {
 router.get("/debug-search", async (req, res) => {
   try {
     const { query = "bedroom" } = req.query;
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> origin/main
     // Test each component step by step
     const testResults = {
       step1_query: query,
       step2_qdrant_service: null,
       step3_search_result: null,
+<<<<<<< HEAD
       step4_error: null,
+=======
+      step4_error: null
+>>>>>>> origin/main
     };
 
     try {
       // Test qdrant service import
       const qdrantService = await import("../services/qdrantService.js");
       testResults.step2_qdrant_service = "✅ Imported successfully";
+<<<<<<< HEAD
 
       // Test simple embedding
       const embedding = await qdrantService.default.getEmbedding("test");
       testResults.step2_qdrant_service += " | ✅ Embedding works";
 
+=======
+      
+      // Test simple embedding
+      const embedding = await qdrantService.default.getEmbedding("test");
+      testResults.step2_qdrant_service += " | ✅ Embedding works";
+      
+>>>>>>> origin/main
       // Test basic search (bypass AI enhancement)
       const simpleSearchResult = await qdrantService.default.client.search(
         "interior_images",
@@ -88,20 +126,31 @@ router.get("/debug-search", async (req, res) => {
           with_vector: false,
         }
       );
+<<<<<<< HEAD
 
       testResults.step3_search_result = `✅ Found ${simpleSearchResult.length} results`;
+=======
+      
+      testResults.step3_search_result = `✅ Found ${simpleSearchResult.length} results`;
+      
+>>>>>>> origin/main
     } catch (error) {
       testResults.step4_error = error.message;
     }
 
     res.json({
       success: true,
+<<<<<<< HEAD
       debug_results: testResults,
+=======
+      debug_results: testResults
+>>>>>>> origin/main
     });
   } catch (error) {
     res.json({
       success: false,
       debug_error: error.message,
+<<<<<<< HEAD
       stack: error.stack,
     });
   }
@@ -198,6 +247,9 @@ router.get("/test-hierarchical", async (req, res) => {
       success: false,
       test_error: error.message,
       stack: error.stack,
+=======
+      stack: error.stack
+>>>>>>> origin/main
     });
   }
 });
@@ -206,6 +258,7 @@ router.get("/test-hierarchical", async (req, res) => {
 router.get("/query-insights", async (req, res) => {
   try {
     const insights = await imageService.getQueryInsights();
+<<<<<<< HEAD
     res.json({
       success: true,
       data: insights,
@@ -217,6 +270,11 @@ router.get("/query-insights", async (req, res) => {
       error: "Failed to get query insights",
       message: error.message,
     });
+=======
+    res.json({ success: true, data: insights, message: "Query intelligence insights retrieved successfully" });
+  } catch (error) {
+    res.status(500).json({ success: false, error: "Failed to get query insights", message: error.message });
+>>>>>>> origin/main
   }
 });
 

@@ -3,6 +3,7 @@
   "analysis": {
     "image_id": "img_042",
     "ai_generated_tags": {
+<<<<<<< HEAD
       "room": "Storage Area",
       "theme": "Minimalist",
       "primary_features": [
@@ -22,10 +23,32 @@
             "Metallic handles"
           ],
           "finish": "Sleek, smooth surface"
+=======
+      "room": "Storage",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Large storage cabinets",
+        "Sliding door",
+        "Flat panel design"
+      ],
+      "objects": [
+        {
+          "type": "Storage cabinet",
+          "features": [
+            "Large capacity",
+            "Sliding door",
+            "Flat panel design"
+          ],
+          "materials": [
+            "Appearance of wood or wood-like finish"
+          ],
+          "finish": "Sleek and modern"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "Dark gray cabinet",
           "Red accent wall",
           "White floor"
@@ -70,5 +93,51 @@
     }
   },
   "cached_at": 1753446627517,
+=======
+          "Dark gray",
+          "Red accent wall",
+          "White floor tiles"
+        ],
+        "materials": [
+          "Wood or wood-like finish",
+          "Concealed sliding door mechanism"
+        ],
+        "lighting": "Indirect lighting, possibly from natural light source above",
+        "texture": "Smooth and uniform surface on cabinets"
+      },
+      "indian_context": {
+        "regional_style": "No regional style visible",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Sleek and modern design with concealed sliding door mechanism"
+        ],
+        "space_utilization": "Efficient use of space with large storage capacity",
+        "cultural_significance": "Minimalist design approach not tied to specific cultural elements"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.8,
+        "objects": 0.9,
+        "indian_context": 0.7
+      },
+      "description": "The image shows a modern storage space with large cabinets featuring concealed sliding doors and a sleek, flat panel design. The room is characterized by a minimalist aesthetic with a dark gray cabinet finish, a red accent wall, and white floor tiles. The design is contemporary, with no visible traditional Indian elements, suggesting a modern, possibly urban, setting.",
+      "metadata": {
+        "tags": [
+          "Storage",
+          "Minimalist",
+          "Modern Design",
+          "Urban Interior",
+          "Efficient Space Utilization"
+        ],
+        "budget_indicator": "Moderate to high, given the materials and finish",
+        "space_type": "Residential or potentially commercial (e.g., office space)",
+        "functionality": "Primary purpose is storage and organization",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1753181154309,
+>>>>>>> origin/main
   "cache_key": "cb15c5fbb0743bb59951fec589298c33"
 }

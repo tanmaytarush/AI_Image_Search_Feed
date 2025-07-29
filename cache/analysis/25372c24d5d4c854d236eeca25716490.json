@@ -4,6 +4,7 @@
     "image_id": "img_019",
     "ai_generated_tags": {
       "room": "Kitchen/Dining",
+<<<<<<< HEAD
       "theme": "Modern Minimalist",
       "primary_features": [
         "Dining table with tufted chairs",
@@ -61,10 +62,52 @@
             "Metal"
           ],
           "finish": "Natural wood with black metal"
+=======
+      "theme": "Modern Contemporary",
+      "primary_features": [
+        "Modern cabinetry",
+        "Smart appliances",
+        "Elegant dining setup"
+      ],
+      "objects": [
+        {
+          "type": "Refrigerator",
+          "features": [
+            "Dual temperature zones",
+            "Digital display"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "Metallic"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "Integrated design",
+            "Black laminate finish"
+          ],
+          "materials": [
+            "Laminate"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Dining Set",
+          "features": [
+            "White table with modern legs",
+            "Tufted beige chairs"
+          ],
+          "materials": [
+            "Wood, fabric"
+          ],
+          "finish": "White, Beige"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "White walls",
           "Dark grey cabinets",
           "Beige chairs",
@@ -91,6 +134,29 @@
         ],
         "space_utilization": "Efficient use of space with built-in cabinets and minimalistic decor",
         "cultural_significance": "Cultural significance not evident in the space"
+=======
+          "White",
+          "Beige",
+          "Black",
+          "Gold"
+        ],
+        "materials": [
+          "Laminate, Stainless steel, Wood, Fabric"
+        ],
+        "lighting": "Ambient ceiling lights",
+        "texture": "Smooth, glossy"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Minimalist design"
+        ],
+        "modern_adaptations": [
+          "Use of modern appliances and furniture"
+        ],
+        "space_utilization": "Efficient use of limited space",
+        "cultural_significance": "Adaptation of modern aesthetics with a touch of minimalism"
+>>>>>>> origin/main
       }
     },
     "confidence_scores": {
@@ -100,6 +166,7 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
+<<<<<<< HEAD
     "description": "The space showcases a modern minimalist design in a kitchen-dining area. It features a sleek, dark grey refrigerator, tufted beige dining chairs with metallic legs, and built-in cabinets seamlessly integrated into the wall. A minimalist wall-mounted light fixture with a linear design and natural wood accents adds a contemporary touch. The color palette is neutral with white walls, dark grey cabinets, and beige chairs, complemented by a gold circular decor element on the wall. The space is efficiently utilized with minimalistic decor, focusing on functionality and clean lines.",
     "metadata": {
       "tags": [
@@ -117,5 +184,24 @@
     }
   },
   "cached_at": 1753446073511,
+=======
+    "description": "This image showcases a modern kitchen-dining area with a contemporary design aesthetic. It features sleek cabinetry with a glossy black finish, a smart refrigerator with a dual temperature zone, and a minimalist dining set with a white table and tufted beige chairs. The space is illuminated by ambient ceiling lights, and the overall color palette is dominated by white, beige, black, and gold, creating a sophisticated and elegant look. The modern Indian theme is evident in the adaptation of minimalistic design elements and the efficient use of space.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Dining",
+        "Modern",
+        "Contemporary",
+        "Minimalist",
+        "Smart Appliances"
+      ],
+      "budget_indicator": "Moderate to High",
+      "space_type": "Combined Kitchen and Dining",
+      "functionality": "Efficient cooking and dining area",
+      "indian_specific": "Modern adaptation of minimalistic design"
+    }
+  },
+  "cached_at": 1753179488729,
+>>>>>>> origin/main
   "cache_key": "25372c24d5d4c854d236eeca25716490"
 }

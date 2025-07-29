@@ -4,6 +4,7 @@
     "image_id": "img_077",
     "ai_generated_tags": {
       "room": "Kitchen",
+<<<<<<< HEAD
       "theme": "Modern Indian Contemporary",
       "primary_features": [
         "Open kitchen design with a central island",
@@ -79,6 +80,67 @@
             "Metal"
           ],
           "finish": "Glass and metal"
+=======
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Island counter",
+        "Modular cabinets",
+        "Multicolored cabinetry",
+        "Neon light fixture",
+        "TV unit"
+      ],
+      "objects": [
+        {
+          "type": "Island counter",
+          "features": [
+            "White countertop",
+            "Wooden base",
+            "Geometric pattern on doors"
+          ],
+          "materials": [
+            "Wood",
+            "Laminate"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Modular cabinets",
+          "features": [
+            "Bespoke design",
+            "Contrasting colors (pink and white)",
+            "Integrated hardware"
+          ],
+          "materials": [
+            "MDF",
+            "Painted finish"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Neon light fixture",
+          "features": [
+            "Abstract design",
+            "Two neon tubes"
+          ],
+          "materials": [
+            "Metal",
+            "Electric wiring"
+          ],
+          "finish": "Metallic"
+        },
+        {
+          "type": "TV unit",
+          "features": [
+            "Marble-like top",
+            "Wooden side panels",
+            "Integrated TV stand"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Laminate"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
@@ -86,13 +148,20 @@
           "White",
           "Pink",
           "Brown",
+<<<<<<< HEAD
           "Gold",
           "Blue"
+=======
+          "Blue",
+          "Gray",
+          "Automatic lighting"
+>>>>>>> origin/main
         ],
         "materials": [
           "Wood",
           "Marble",
           "Metal",
+<<<<<<< HEAD
           "Glass"
         ],
         "lighting": "Modern lighting fixture with a combination of white and gold",
@@ -106,6 +175,23 @@
         ],
         "space_utilization": "Space is optimally utilized with a central island for storage and work, and a TV stand integrated with the wall paneling",
         "cultural_significance": "Modern Indian design elements blend with contemporary aesthetics, reflecting a fusion of traditional and modern sensibilities"
+=======
+          "Laminate"
+        ],
+        "lighting": "Bright, evenly distributed artificial lighting",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Regional variations may include this space being a fusion of different styles due to the modern context.",
+        "traditional_elements": [
+          "Absence of traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Contemporary Indian design with a modern twist"
+        ],
+        "space_utilization": "Efficient home office space combined with a kitchen setting with minimal visible clutter",
+        "cultural_significance": "The design reflects a modern interpretation of Indian design, which often embraces a blend of traditional and contemporary aesthetics."
+>>>>>>> origin/main
       }
     },
     "confidence_scores": {
@@ -115,6 +201,7 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
+<<<<<<< HEAD
     "description": "The image depicts a modern Indian kitchen with a contemporary design, featuring an open layout with a central island. The space incorporates a combination of white and pink cabinetry with geometric patterns, and white marble countertops. A modern pendant light with a white and gold finish hangs above the kitchen island. Teak wood is used for paneling on the wall beside the TV, creating a warm and natural finish. The kitchen is well-lit with recessed ceiling lights and ambient lighting from the pendant light, emphasizing the sleek and contemporary aesthetic.",
     "metadata": {
       "tags": [
@@ -134,5 +221,24 @@
     }
   },
   "cached_at": 1753447452011,
+=======
+    "description": "This image showcases a contemporary kitchen with a modern Indian twist. The space features a central island counter with a white and wooden base, complemented by modular cabinets in a pink and white color scheme, reflecting a blend of traditional and modern influences. A neon light fixture adds a futuristic element, while the TV unit on the right merges modern aesthetics with a touch of traditional Indian marble and wood. The overall design emphasizes clean lines, bright colors, and a mix of materials, creating a functional yet stylish home office-kitchen hybrid.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Modern Kitchen",
+        "Pink Cabinets",
+        "Neon Lighting",
+        "TV Unit",
+        "Home Office"
+      ],
+      "budget_indicator": "Moderate to high, given the use of materials like marble and the bespoke design",
+      "space_type": "Residential",
+      "functionality": "Combined home office and kitchen space",
+      "indian_specific": "Modern adaptation of Indian design elements without traditional features"
+    }
+  },
+  "cached_at": 1753181226412,
+>>>>>>> origin/main
   "cache_key": "d4bb0204c0c42db914fed0b052184cc8"
 }

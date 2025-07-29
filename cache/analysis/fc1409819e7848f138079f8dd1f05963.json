@@ -4,6 +4,7 @@
     "image_id": "img_060",
     "ai_generated_tags": {
       "room": "Living Room",
+<<<<<<< HEAD
       "theme": "Modern Indian",
       "primary_features": [
         "Large wardrobe with carved designs",
@@ -34,12 +35,45 @@
             "Dark wood, white MDF"
           ],
           "finish": "Glossy finish"
+=======
+      "theme": "Modern Indian Minimalist",
+      "primary_features": [
+        "White glossy cupboards",
+        "Carved motifs on doors",
+        "Television stand with storage",
+        "Minimalistic decor"
+      ],
+      "objects": [
+        {
+          "type": "Cupboard",
+          "features": [
+            "Glossy finish",
+            "Carved motifs on doors",
+            "Om and Swastika symbols"
+          ],
+          "materials": [
+            "MDF or similar wood composite"
+          ],
+          "finish": "Glossy white"
+        },
+        {
+          "type": "Television Stand",
+          "features": [
+            "Dark wood finish",
+            "Storage compartments"
+          ],
+          "materials": [
+            "Dark wood, possibly teak or similar"
+          ],
+          "finish": "Polished dark wood"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Dark brown",
+<<<<<<< HEAD
           "Gold"
         ],
         "materials": [
@@ -58,6 +92,29 @@
         ],
         "space_utilization": "Efficient use of space with storage and decorative elements",
         "cultural_significance": "Symbolic elements like Om and Swastika indicate spiritual and cultural significance"
+=======
+          "Black"
+        ],
+        "materials": [
+          "MDF/wood composite",
+          "Dark wood",
+          "Metallic elements"
+        ],
+        "lighting": "Natural light with artificial overhead lighting",
+        "texture": "Smooth glossy finish on white, textured dark wood"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to a regional style, but includes modern Indian elements",
+        "traditional_elements": [
+          "Carved motifs on doors",
+          "Om symbol"
+        ],
+        "modern_adaptations": [
+          "Minimalistic approach with modern materials"
+        ],
+        "space_utilization": "Efficient storage with modern design",
+        "cultural_significance": "The symbols on the doors (Om and Swastika) are significant in Hindu culture, representing spiritual and auspicious elements"
+>>>>>>> origin/main
       }
     },
     "confidence_scores": {
@@ -67,6 +124,7 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
+<<<<<<< HEAD
     "description": "This image showcases a modern living room with a focus on Indian design elements. The wardrobe features intricate carvings and symbolic designs such as Om and Swastika, indicative of traditional Indian spirituality. The TV unit is a blend of modern minimalism with storage solutions, incorporating dark wood and white MDF. The overall design is clean and contemporary with a nod to traditional Indian aesthetics.",
     "metadata": {
       "tags": [
@@ -84,5 +142,23 @@
     }
   },
   "cached_at": 1753447011165,
+=======
+    "description": "The interior space is a modern Indian living room featuring a glossy white cupboard with intricately carved motifs on the doors, symbolizing spiritual and auspicious elements. The space includes a dark wood television stand with built-in storage, creating a harmonious blend of traditional and contemporary design elements. The lighting is bright, highlighting the smooth finish of the materials used.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Minimalist",
+        "Carved motifs",
+        "White glossy finish",
+        "Dark wood storage"
+      ],
+      "budget_indicator": "Moderate to high, as indicated by the use of glossy finishes and dark wood",
+      "space_type": "Living Room",
+      "functionality": "Entertainment and storage",
+      "indian_specific": "Carved motifs and religious symbols"
+    }
+  },
+  "cached_at": 1753181173213,
+>>>>>>> origin/main
   "cache_key": "fc1409819e7848f138079f8dd1f05963"
 }

@@ -4,6 +4,7 @@
     "image_id": "img_009",
     "ai_generated_tags": {
       "room": "Living Room",
+<<<<<<< HEAD
       "theme": "Modern Indian Fusion",
       "primary_features": [
         "Popcorn ceiling with recessed lights",
@@ -35,20 +36,75 @@
             "Fabric"
           ],
           "finish": "Smooth and matte"
+=======
+      "theme": "Contemporary",
+      "primary_features": [
+        "TV Unit",
+        "Bookshelves",
+        "Ceiling Lights",
+        "Marble Flooring",
+        "Furniture"
+      ],
+      "objects": [
+        {
+          "type": "TV Unit",
+          "features": [
+            "Recessed Lighting",
+            "Marble Backsplash",
+            "LED Lights"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal"
+          ],
+          "finish": "High Gloss"
+        },
+        {
+          "type": "Bookshelves",
+          "features": [
+            "Modular Design",
+            "Open Shelves"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Matt"
+        },
+        {
+          "type": "Ceiling Lights",
+          "features": [
+            "Modern Design",
+            "Round Shape"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Polished"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "White",
           "Beige",
           "Green",
           "Gold",
+=======
+          "Marble White",
+          "Wood Brown",
+          "Metal Gold",
+>>>>>>> origin/main
           "Black"
         ],
         "materials": [
           "Marble",
           "Wood",
           "Metal",
+<<<<<<< HEAD
           "Fabric",
           "Acrylic"
         ],
@@ -92,5 +148,48 @@
     }
   },
   "cached_at": 1753445792487,
+=======
+          "Glass"
+        ],
+        "lighting": "Recessed and Task Lighting",
+        "texture": "Smooth and Polished"
+      },
+      "indian_context": {
+        "regional_style": "Hyderabad Modern",
+        "traditional_elements": [
+          "Wood Paneling"
+        ],
+        "modern_adaptations": [
+          "Marble and Metal Elements"
+        ],
+        "space_utilization": "Efficient Use of Storage",
+        "cultural_significance": "Modern Interpretation of Local Materials"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A modern living room with a well-integrated TV unit that features a marble backsplash and recessed lighting, complemented by a sleek design that combines marble, wood, and metal. The room includes a bookshelf with open storage, creating a contemporary yet functional space. The ceiling lights contribute to the overall contemporary aesthetic.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Modern",
+        "Marble",
+        "Wood",
+        "Metal",
+        "Contemporary"
+      ],
+      "budget_indicator": "Mid-Range",
+      "space_type": "Residential",
+      "functionality": "Entertainment and Storage",
+      "indian_specific": "Hyderabad Modern Style"
+    }
+  },
+  "cached_at": 1753179450750,
+>>>>>>> origin/main
   "cache_key": "01dca13ddb41e1eb7c1706ab80782987"
 }

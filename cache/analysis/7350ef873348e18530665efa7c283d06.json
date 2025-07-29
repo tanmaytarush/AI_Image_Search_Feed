@@ -3,36 +3,68 @@
   "analysis": {
     "image_id": "img_022",
     "ai_generated_tags": {
+<<<<<<< HEAD
       "room": "Bedroom",
       "theme": "Minimalist",
       "primary_features": [
         "Integrated wardrobe and desk setup",
         "Storage shelves"
+=======
+      "room": "Bedroom with Study Area",
+      "theme": "Minimalist Modern",
+      "primary_features": [
+        "Built-in Wardrobe",
+        "Desk with Chair",
+        "Open Shelving"
+>>>>>>> origin/main
       ],
       "objects": [
         {
           "type": "Desk",
           "features": [
+<<<<<<< HEAD
             "Fitted with a laptop and notebooks"
           ],
           "materials": [
             "Wooden top, metal frame"
           ],
           "finish": "Matte finish with a natural wood texture"
+=======
+            "Wooden Top",
+            "Integrated Drawer"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Satin Finish"
+>>>>>>> origin/main
         },
         {
           "type": "Chair",
           "features": [
+<<<<<<< HEAD
             "Gray upholstery, metal legs"
           ],
           "materials": [
             "Fabric, metal"
           ],
           "finish": "Smooth fabric, metallic sheen"
+=======
+            "Textured Upholstery",
+            "Metal Frame"
+          ],
+          "materials": [
+            "Textile",
+            "Metal"
+          ],
+          "finish": "Matte Finish"
+>>>>>>> origin/main
         },
         {
           "type": "Wardrobe",
           "features": [
+<<<<<<< HEAD
             "Sliding doors, multi-shelf interior"
           ],
           "materials": [
@@ -49,10 +81,21 @@
             "Wood"
           ],
           "finish": "Natural wood, matte finish"
+=======
+            "Sliding Doors",
+            "Integrated Shelving"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Painted Finish"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "White, light gray, natural wood, metallic, cream"
         ],
         "materials": [
@@ -94,5 +137,55 @@
     }
   },
   "cached_at": 1753446146119,
+=======
+          "White",
+          "Light Wood",
+          "Grey"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Textile"
+        ],
+        "lighting": "Indirect Lighting",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Modular Bedroom Design",
+        "traditional_elements": [
+          "No Traditional Elements"
+        ],
+        "modern_adaptations": [
+          "Integrated Storage Solutions",
+          "Compact Design"
+        ],
+        "space_utilization": "Efficient Use of Space",
+        "cultural_significance": "No Cultural Significance Specific to Indian Context"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern minimalist bedroom with a built-in wardrobe and a desk with a chair, all integrated into a single unit. The design emphasizes clean lines and efficient use of space, with a color palette that includes white, light wood, and grey tones. The desk is equipped with a wooden top and integrated drawer, while the chair boasts textured upholstery with a metallic frame. The wardrobe features sliding doors and integrated shelving, all painted in a light wood finish.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Modern",
+        "Bedroom",
+        "Built-in Storage",
+        "Integrated Design"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Bedroom",
+      "functionality": "Living and Working",
+      "indian_specific": "No Indian-Specific Features"
+    }
+  },
+  "cached_at": 1753179501732,
+>>>>>>> origin/main
   "cache_key": "7350ef873348e18530665efa7c283d06"
 }

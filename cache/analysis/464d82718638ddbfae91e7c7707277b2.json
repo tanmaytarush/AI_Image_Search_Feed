@@ -3,6 +3,7 @@
   "analysis": {
     "image_id": "img_040",
     "ai_generated_tags": {
+<<<<<<< HEAD
       "room": "Bedroom",
       "theme": "Modern Indian",
       "primary_features": [
@@ -19,10 +20,28 @@
             "Wood, possibly teak or a similar hardwood"
           ],
           "finish": "High-gloss finish, likely lacquered or varnished"
+=======
+      "room": "Storage",
+      "theme": "Modular Modern",
+      "primary_features": [
+        "Integrated wardrobe system, light-colored flooring"
+      ],
+      "objects": [
+        {
+          "type": "Built-in Wardrobe",
+          "features": [
+            "Paneling, multiple compartments, sliding doors"
+          ],
+          "materials": [
+            "Wood, possibly teak or similar hardwood, metal handles"
+          ],
+          "finish": "High-gloss, shiny, with visible wood grain"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "Brown (wood)",
           "White (walls)",
           "Light gray (floor tiles)"
@@ -46,6 +65,24 @@
         ],
         "space_utilization": "Efficient use of vertical space with multiple storage compartments",
         "cultural_significance": "Built-in wardrobes are common in Indian homes, symbolizing a practical and organized lifestyle"
+=======
+          "Light beige walls, dark brown wood, off-white flooring"
+        ],
+        "materials": [
+          "Wood, metal, tiles"
+        ],
+        "lighting": "Natural light from an unseen window, possibly with artificial overhead lights",
+        "texture": "Smooth wood paneling, glossy finish, tiled floor"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but could align with urban Indian design",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modular design, glossy finish, modern sliding doors"
+        ],
+        "space_utilization": "Efficient use of space for storage",
+        "cultural_significance": "Not culturally significant in terms of Indian design elements"
+>>>>>>> origin/main
       },
       "confidence_scores": {
         "room": 0.95,
@@ -54,6 +91,7 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
+<<<<<<< HEAD
       "description": "The image shows a bedroom with a modern Indian design, featuring a large built-in wardrobe with multiple compartments. The wardrobe is made of polished wood, likely teak, with a high-gloss finish and metallic handles. The room has a simple color palette with white walls, light gray floor tiles, and the warm brown tones of the wood. The design emphasizes practicality and efficiency in space utilization, with the wardrobe serving as the central piece. The presence of built-in wardrobes is culturally significant in Indian homes, symbolizing order and organization.",
       "metadata": {
         "tags": [
@@ -71,5 +109,23 @@
     }
   },
   "cached_at": 1753446595012,
+=======
+      "description": "The image depicts a storage area featuring a built-in wardrobe system with multiple compartments and sliding doors. The wardrobe is constructed from wood, showcasing a glossy finish with visible wood grain, and is installed against light-colored walls with off-white flooring. The space appears to be designed with a focus on modern functionality and space optimization, utilizing a high-gloss finish to enhance the overall aesthetic appeal.",
+      "metadata": {
+        "tags": [
+          "Built-in wardrobe",
+          "Modular design",
+          "High-gloss finish",
+          "Urban Indian interior"
+        ],
+        "budget_indicator": "Moderate, with high-quality materials and finishes",
+        "space_type": "Bedroom",
+        "functionality": "Primary purpose is for storage and organization of clothing and other items",
+        "indian_specific": "No distinctly Indian design features are visible."
+      }
+    }
+  },
+  "cached_at": 1753181142423,
+>>>>>>> origin/main
   "cache_key": "464d82718638ddbfae91e7c7707277b2"
 }

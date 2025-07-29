@@ -4,15 +4,24 @@
     "image_id": "img_068",
     "ai_generated_tags": {
       "room": "Bedroom",
+<<<<<<< HEAD
       "theme": "Modern minimalist",
       "primary_features": [
         "Sliding wardrobe doors with light beige and dark gray patterned panels",
         "Contemporary bed with geometric patterned pillows"
+=======
+      "theme": "Contemporary",
+      "primary_features": [
+        "Sliding wardrobe doors with wavy patterns",
+        "Dark horizontal panels",
+        "White walls"
+>>>>>>> origin/main
       ],
       "objects": [
         {
           "type": "Sliding wardrobe doors",
           "features": [
+<<<<<<< HEAD
             "Large, floor-to-ceiling doors with a modern design featuring wavy patterns and dark gray accents"
           ],
           "materials": [
@@ -29,10 +38,23 @@
             "Bed frame appears to be made of dark metal or wood with a polished finish"
           ],
           "finish": "Metallic and sleek, with a shiny surface"
+=======
+            "Wavy wainscoting pattern",
+            "Vertical silver strips between panels",
+            "Dark horizontal panels with textured appearance"
+          ],
+          "materials": [
+            "Laminate or MDF with printed wainscoting",
+            "Metallic finish on strips",
+            "Dark wood or composite material for panels"
+          ],
+          "finish": "Glossy with metallic accents"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "Light beige, dark gray, white, black"
         ],
         "materials": [
@@ -51,6 +73,28 @@
         ],
         "space_utilization": "The space is organized with a focus on maximizing storage, as indicated by the large sliding wardrobe doors",
         "cultural_significance": "The design does not have a direct cultural significance in Indian interior design, as it is a modern interpretation rather than a traditional style"
+=======
+          "White",
+          "Black",
+          "Silver"
+        ],
+        "materials": [
+          "Laminate/MDF",
+          "Metallic",
+          "Dark wood/composite"
+        ],
+        "lighting": "Natural light from off-frame source, creating soft shadows",
+        "texture": "Smooth wainscoting, metallic sheen, and textured dark panels"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, more modern with Indian influences",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of Indian wainscoting patterns in contemporary style"
+        ],
+        "space_utilization": "Efficient use of sliding doors for storage, maximizing space in a bedroom",
+        "cultural_significance": "Wainscoting patterns and metallic elements could be modern interpretations of traditional Indian craftsmanship"
+>>>>>>> origin/main
       },
       "confidence_scores": {
         "room": 0.95,
@@ -59,6 +103,7 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
+<<<<<<< HEAD
       "description": "The image depicts a modern minimalist bedroom with contemporary furniture. The prominent feature is a large sliding wardrobe with light beige and dark gray patterned doors, showcasing a sleek and contemporary design. The bed, with its geometric patterned pillows, complements the modern aesthetic. The room is well-lit with natural light, creating a bright and airy atmosphere.",
       "metadata": {
         "tags": [
@@ -77,5 +122,24 @@
     }
   },
   "cached_at": 1753447208116,
+=======
+      "description": "This image showcases a contemporary bedroom with sliding wardrobe doors featuring a wavy, wainscoting pattern in a white base with dark horizontal panels. The design incorporates elements that could be interpreted as modern adaptations of traditional Indian craftsmanship, such as the wainscoting pattern, though the overall aesthetic is distinctly modern. The metallic strips add a touch of sophistication, and the sliding doors maximize the use of space efficiently.",
+      "metadata": {
+        "tags": [
+          "Contemporary",
+          "Indian Influences",
+          "Wainscoting",
+          "Sliding Doors",
+          "Modern Bedroom"
+        ],
+        "budget_indicator": "Moderate, with materials that are not overly expensive but offer a stylish look",
+        "space_type": "Residential Bedroom",
+        "functionality": "Storage solution for a bedroom",
+        "indian_specific": "Wainscoting pattern as a modern interpretation of traditional design"
+      }
+    }
+  },
+  "cached_at": 1753181200233,
+>>>>>>> origin/main
   "cache_key": "ff6175b7bfb1ba134e5abd9437008be9"
 }

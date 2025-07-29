@@ -4,6 +4,7 @@
     "image_id": "img_010",
     "ai_generated_tags": {
       "room": "Living Room",
+<<<<<<< HEAD
       "theme": "Modern Indian",
       "primary_features": [
         "Marble flooring",
@@ -25,10 +26,53 @@
             "Fabric"
           ],
           "finish": "Smooth, matte"
+=======
+      "theme": "Contemporary",
+      "primary_features": [
+        "Open-plan layout",
+        "Ceiling fan",
+        "Marble flooring"
+      ],
+      "objects": [
+        {
+          "type": "Bar counter",
+          "features": [
+            "Bottle storage",
+            "Glassware"
+          ],
+          "materials": [
+            "Wood",
+            "Marble"
+          ],
+          "finish": "polished"
+        },
+        {
+          "type": "Sofa",
+          "features": [
+            "Wooden legs",
+            "Textured upholstery"
+          ],
+          "materials": [
+            "Cloth",
+            "wood"
+          ],
+          "finish": "soft"
+        },
+        {
+          "type": "Ceiling fan",
+          "features": [
+            "Flush mount"
+          ],
+          "materials": [
+            "metal"
+          ],
+          "finish": "bare metal"
+>>>>>>> origin/main
         },
         {
           "type": "Coffee table",
           "features": [
+<<<<<<< HEAD
             "Round",
             "Glass top",
             "Metal frame"
@@ -62,10 +106,21 @@
             "Metal"
           ],
           "finish": "Warm, polished"
+=======
+            "Glass top",
+            "Metal base"
+          ],
+          "materials": [
+            "Glass",
+            "metal"
+          ],
+          "finish": "polished"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "White",
           "Brown",
           "Gold",
@@ -95,6 +150,30 @@
         ],
         "space_utilization": "Efficient use of space with a combination of seating and functional areas, optimized for entertaining",
         "cultural_significance": "The use of a ceiling fan is a traditional element in Indian interiors, indicating a nod to comfort and style."
+=======
+          "white",
+          "brown",
+          "black",
+          "green"
+        ],
+        "materials": [
+          "wood",
+          "marble",
+          "glass"
+        ],
+        "lighting": "indirect",
+        "texture": "smooth, matte"
+      },
+      "indian_context": {
+        "regional_style": "Modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalistic design",
+          "Use of modern materials"
+        ],
+        "space_utilization": "optimal",
+        "cultural_significance": ""
+>>>>>>> origin/main
       }
     },
     "confidence_scores": {
@@ -104,6 +183,7 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
+<<<<<<< HEAD
     "description": "The image depicts a contemporary living room that incorporates traditional Indian design elements, such as a ceiling fan, with modern adaptations. The space is well-organized, featuring a sofa, coffee table, rug, and a bar area, all of which are designed in a modern Indian style. The materials used, such as marble flooring and wood for the bar, are typical in higher-end Indian homes. The color palette is neutral with pops of color, and the lighting is soft and ambient, creating a warm and inviting atmosphere.",
     "metadata": {
       "tags": [
@@ -120,5 +200,23 @@
     }
   },
   "cached_at": 1753445836446,
+=======
+    "description": "A modern living room with an open-plan layout, featuring a bar counter, a sofa, a ceiling fan, and a coffee table. The design combines contemporary elements with minimalistic decor, using a combination of wood, marble, and glass materials, and incorporating a clean color palette with white, brown, black, and green tones.",
+    "metadata": {
+      "tags": [
+        "living room",
+        "modern",
+        "contemporary",
+        "marble flooring",
+        "ceiling fan"
+      ],
+      "budget_indicator": "high",
+      "space_type": "residential",
+      "functionality": "living and entertaining",
+      "indian_specific": "No specific Indian features"
+    }
+  },
+  "cached_at": 1753179268552,
+>>>>>>> origin/main
   "cache_key": "e35f363e11fd50ff5c78c3326e06f708"
 }

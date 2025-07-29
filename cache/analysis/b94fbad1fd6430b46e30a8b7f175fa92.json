@@ -3,6 +3,7 @@
   "analysis": {
     "image_id": "img_002",
     "ai_generated_tags": {
+<<<<<<< HEAD
       "room": "Prayer room/shrine",
       "theme": "Modern minimalist with Indian influences",
       "primary_features": [
@@ -21,18 +22,43 @@
             "Marble"
           ],
           "finish": "Polished"
+=======
+      "room": "Bathroom",
+      "theme": "Modern",
+      "primary_features": [
+        "Marble Tile",
+        "Wooden Framing"
+      ],
+      "objects": [
+        {
+          "type": "Wall Panel",
+          "features": [
+            "Marble Tiles",
+            "Lighting"
+          ],
+          "materials": [
+            "Marble Tile",
+            "Wood"
+          ],
+          "finish": "Smooth, Glossy"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
           "Beige",
           "Brown",
+<<<<<<< HEAD
           "Dark brown"
+=======
+          "White"
+>>>>>>> origin/main
         ],
         "materials": [
           "Marble",
           "Wood"
         ],
+<<<<<<< HEAD
         "lighting": "Recessed lighting highlighting the marble panel",
         "texture": "Smooth marble texture on the panel"
       },
@@ -71,5 +97,44 @@
     }
   },
   "cached_at": 1753445584351,
+=======
+        "lighting": "Undermount Light",
+        "texture": "Smooth, Polished"
+      },
+      "indian_context": {
+        "regional_style": "Nehru",
+        "traditional_elements": [
+          "Minimalistic Design"
+        ],
+        "modern_adaptations": [
+          "Glossy Finish"
+        ],
+        "space_utilization": "Efficient",
+        "cultural_significance": "Modern Indian Interior Design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern interpretation of a bathroom wall panel design, featuring a sleek marble tile backdrop with a wooden frame. The marble tiles are smooth and glossy, with a beige and brown color palette, and are illuminated by undermount lighting, creating a warm and inviting ambiance. The wood framing adds a natural touch, enhancing the overall aesthetic. The design is sharp and contemporary, reflecting modern Indian interior design trends.",
+    "metadata": {
+      "tags": [
+        "Modern Bathroom",
+        "Marble Tiles",
+        "Wooden Frame",
+        "Interior Design"
+      ],
+      "budget_indicator": "Mid-Range",
+      "space_type": "Bathroom",
+      "functionality": "Aesthetic",
+      "indian_specific": "Modern Indian Interior Design"
+    }
+  },
+  "cached_at": 1753179235536,
+>>>>>>> origin/main
   "cache_key": "b94fbad1fd6430b46e30a8b7f175fa92"
 }

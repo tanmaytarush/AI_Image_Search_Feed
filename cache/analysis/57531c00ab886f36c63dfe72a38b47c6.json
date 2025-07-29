@@ -3,6 +3,7 @@
   "analysis": {
     "image_id": "img_014",
     "ai_generated_tags": {
+<<<<<<< HEAD
       "room": "Foyer",
       "theme": "Contemporary Indian Fusion",
       "primary_features": [
@@ -18,10 +19,33 @@
             "Painted wood or MDF with gold leaf or metallic coating"
           ],
           "finish": "High-gloss with gold accents"
+=======
+      "room": "wardrobe",
+      "theme": "contemporary",
+      "primary_features": [
+        "mirror",
+        "glass",
+        "geometric pattern",
+        "sleek lines"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe door",
+          "features": [
+            "reflective",
+            "transparent"
+          ],
+          "materials": [
+            "acrylic",
+            "glass"
+          ],
+          "finish": "high-gloss"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "Brown, white, gold"
         ],
         "materials": [
@@ -66,5 +90,56 @@
     }
   },
   "cached_at": 1753445934275,
+=======
+          "neutral tones",
+          "brown",
+          "gold",
+          "white",
+          "gray"
+        ],
+        "materials": [
+          "acrylic",
+          "glass",
+          "wood",
+          "marble"
+        ],
+        "lighting": "reflective",
+        "texture": "smooth"
+      },
+      "indian_context": {
+        "regional_style": "modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "geometric patterns",
+          "high-gloss finish"
+        ],
+        "space_utilization": "optimized",
+        "cultural_significance": "modern lifestyle"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A sleek, contemporary wardrobe with reflective glass doors and geometric golden patterns, set against a modern backdrop.",
+    "metadata": {
+      "tags": [
+        "wardrobe",
+        "contemporary",
+        "modern",
+        "glass doors",
+        "geometric"
+      ],
+      "budget_indicator": "high",
+      "space_type": "bedroom",
+      "functionality": "storage",
+      "indian_specific": "modern fusion decor"
+    }
+  },
+  "cached_at": 1753179463124,
+>>>>>>> origin/main
   "cache_key": "57531c00ab886f36c63dfe72a38b47c6"
 }

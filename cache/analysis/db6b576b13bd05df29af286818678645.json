@@ -3,6 +3,7 @@
   "analysis": {
     "image_id": "img_012",
     "ai_generated_tags": {
+<<<<<<< HEAD
       "room": "Indian kitchen",
       "theme": "Modern Indian",
       "primary_features": [
@@ -52,10 +53,52 @@
             "Wood, glass"
           ],
           "finish": "White lattice, dark frame, decorative carving"
+=======
+      "room": "Kitchen",
+      "theme": "Indian Contemporary",
+      "primary_features": [
+        "Marble flooring",
+        "Wooden cabinetry",
+        "Modern appliances",
+        "Decorative shelf"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Wooden finish",
+            "Open shelf for storage"
+          ],
+          "materials": [
+            "Wood, Metal"
+          ],
+          "finish": "Wooden"
+        },
+        {
+          "type": "Shelf",
+          "features": [
+            "Decorative, open for display"
+          ],
+          "materials": [
+            "Metal, Glass"
+          ],
+          "finish": "Metallic, Translucent"
+        },
+        {
+          "type": "Appliance",
+          "features": [
+            "Modern design, stainless steel finish"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Stainless Steel"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
+<<<<<<< HEAD
           "White, grey, black, light brown, green"
         ],
         "materials": [
@@ -74,6 +117,28 @@
         ],
         "space_utilization": "Efficient use of vertical space for storage, open layout for functionality",
         "cultural_significance": "Swastik and om symbol are auspicious in Indian culture, often used in religious spaces or as decorative elements"
+=======
+          "White, Brown, Black, Gold"
+        ],
+        "materials": [
+          "Marble, Wood, Metal, Glass"
+        ],
+        "lighting": "Natural light, ceiling fan light",
+        "texture": "Smooth, glossy"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Swastika symbol",
+          "Om symbol"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design",
+          "Marble flooring"
+        ],
+        "space_utilization": "Efficient, open plan",
+        "cultural_significance": "Indian religious symbols (Swastika, Om)"
+>>>>>>> origin/main
       }
     },
     "confidence_scores": {
@@ -83,6 +148,7 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
+<<<<<<< HEAD
     "description": "The image depicts a modern Indian kitchen with a minimalist aesthetic. The space features light-colored marble countertops and light wood cabinetry, creating a clean and bright look. A decorative wooden panel with a Swastik symbol and an om symbol serves as a focal point, adding cultural significance to the space. The overall design blends traditional Indian elements with contemporary finishes and layout.",
     "metadata": {
       "tags": [
@@ -99,5 +165,19 @@
     }
   },
   "cached_at": 1753445880966,
+=======
+    "description": "This image showcases a modern kitchen with a blend of traditional Indian elements. The space features contemporary kitchen cabinetry with a wooden finish, an open shelf for storage, and a decorative shelf that adds a touch of Indian culture with religious symbols like the Swastika and Om. The marble flooring enhances the aesthetic appeal, while the kitchen appliances have a sleek, stainless steel design. The room is well-lit with natural light and a ceiling fan, creating a comfortable and functional space that respects Indian cultural elements.",
+    "metadata": {
+      "tags": [
+        "Kitchen, Indian, Contemporary, Marble, Wood, Modern Appliances, Cultural Symbols"
+      ],
+      "budget_indicator": "High",
+      "space_type": "Residential",
+      "functionality": "Efficient cooking space with cultural decor",
+      "indian_specific": "Traditional symbols, Indian style elements"
+    }
+  },
+  "cached_at": 1753179297025,
+>>>>>>> origin/main
   "cache_key": "db6b576b13bd05df29af286818678645"
 }

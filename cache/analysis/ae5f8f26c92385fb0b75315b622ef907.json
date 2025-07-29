@@ -3,6 +3,7 @@
   "analysis": {
     "image_id": "img_011",
     "ai_generated_tags": {
+<<<<<<< HEAD
       "room": "Entrance/Utility Area",
       "theme": "Contemporary Indian Fusion",
       "primary_features": [
@@ -48,19 +49,66 @@
             "Metal"
           ],
           "finish": "Matte and shiny finishes"
+=======
+      "room": "Bathroom",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Marble countertop",
+        "Wooden cabinetry",
+        "Circular mirror",
+        "Wine rack"
+      ],
+      "objects": [
+        {
+          "type": "Sink",
+          "features": [
+            "Marble countertop",
+            "Wooden cabinetry"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Circular shape"
+          ],
+          "materials": [
+            "Metal frame"
+          ],
+          "finish": "Shiny"
+        },
+        {
+          "type": "Wine Rack",
+          "features": [
+            "Glass display"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural"
+>>>>>>> origin/main
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Brown",
+<<<<<<< HEAD
           "Beige",
           "Grey",
           "Yellow"
+=======
+          "Black"
+>>>>>>> origin/main
         ],
         "materials": [
           "Marble",
           "Wood",
+<<<<<<< HEAD
           "Glass",
           "Ceramic",
           "Metal"
@@ -78,6 +126,21 @@
         ],
         "space_utilization": "Efficient use of space with wall-mounted storage",
         "cultural_significance": "Circular mirror often symbolizes completeness and prosperity in Indian culture"
+=======
+          "Metal"
+        ],
+        "lighting": "Natural",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Combination of Indian and global design elements"
+        ],
+        "space_utilization": "Efficient",
+        "cultural_significance": "Minimalist design with a touch of modernity reflecting contemporary Indian aesthetics"
+>>>>>>> origin/main
       }
     },
     "confidence_scores": {
@@ -87,6 +150,7 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
+<<<<<<< HEAD
     "description": "The image depicts a modern entrance or utility area with a contemporary Indian fusion design. The space features a wooden cabinet with storage shelves and a circular mirror with a woven wooden frame, reflecting a mix of traditional and contemporary design elements. The use of marble flooring and modern materials like glass and metal add to the contemporary aesthetic, while the circular mirror's woven frame introduces a traditional touch. The space is organized efficiently with wall-mounted storage, and the presence of decorative vases adds a modern decorative element.",
     "metadata": {
       "tags": [
@@ -103,5 +167,23 @@
     }
   },
   "cached_at": 1753445854147,
+=======
+    "description": "A modern minimalist bathroom featuring a sleek marble countertop paired with wooden cabinetry, a circular mirror, and a wine rack. The space is clean and bright, making efficient use of the available area.",
+    "metadata": {
+      "tags": [
+        "Modern",
+        "Minimalist",
+        "Bathroom",
+        "Indian Interior",
+        "Marble"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Bathroom",
+      "functionality": "Efficient and stylish",
+      "indian_specific": "Contemporary Indian design with a blend of traditional and modern elements"
+    }
+  },
+  "cached_at": 1753179464059,
+>>>>>>> origin/main
   "cache_key": "ae5f8f26c92385fb0b75315b622ef907"
 }

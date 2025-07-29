@@ -21,9 +21,13 @@ class QdrantService {
       );
 
       if (collectionExists) {
+<<<<<<< HEAD
         console.log(
           `Collection ${this.collectionName} already exists, skipping creation`
         );
+=======
+        console.log(`Collection ${this.collectionName} already exists, skipping creation`);
+>>>>>>> origin/main
         return;
       }
 
@@ -103,6 +107,7 @@ class QdrantService {
         console.log(`✅ Successfully upserted ${points.length} points`);
         return;
       } catch (error) {
+<<<<<<< HEAD
         console.error(
           `❌ Attempt ${attempt}/${maxRetries} failed to upsert points:`,
           error.message
@@ -129,6 +134,25 @@ class QdrantService {
             `⏳ Connection error detected. Retrying in ${delay}ms...`
           );
           await new Promise((resolve) => setTimeout(resolve, delay));
+=======
+        console.error(`❌ Attempt ${attempt}/${maxRetries} failed to upsert points:`, error.message);
+        
+        // Check if it's a connection error
+        const isConnectionError = error.message.includes('fetch failed') || 
+                                error.message.includes('SocketError') || 
+                                error.message.includes('other side closed') ||
+                                error.message.includes('UND_ERR_SOCKET');
+        
+        if (attempt === maxRetries) {
+          console.error(`❌ All ${maxRetries} attempts failed. Final error:`, error);
+          throw error;
+        }
+        
+        if (isConnectionError) {
+          const delay = baseDelay * Math.pow(2, attempt - 1); // Exponential backoff
+          console.log(`⏳ Connection error detected. Retrying in ${delay}ms...`);
+          await new Promise(resolve => setTimeout(resolve, delay));
+>>>>>>> origin/main
         } else {
           // Non-connection error, don't retry
           throw error;
@@ -146,6 +170,7 @@ class QdrantService {
     try {
       let enhancedQuery;
       let useEnhancement = true;
+<<<<<<< HEAD
 
       // Check if query is already enhanced or needs enhancement
       if (typeof query === "string") {
@@ -158,11 +183,38 @@ class QdrantService {
             intent: "general",
           },
         };
+=======
+      
+      // Check if query is already enhanced or needs enhancement
+      if (typeof query === 'string') {
+        try {
+          // Get AI-enhanced query using the new Search Intelligence Service
+          const searchIntelligenceService = await import("../services/searchIntelligenceService.js");
+          enhancedQuery = await searchIntelligenceService.default.enhanceSearchQuery(query);
+          
+          // Use dynamic weights from AI if available
+          if (enhancedQuery.search_weights) {
+            weights = enhancedQuery.search_weights;
+          }
+        } catch (enhancementError) {
+          console.log("AI enhancement failed, falling back to simple search:", enhancementError.message);
+          useEnhancement = false;
+          enhancedQuery = {
+            enhanced_query: {
+              primary_search: query,
+              semantic_desc: query,
+              object_focus: query,
+              intent: "general"
+            }
+          };
+        }
+>>>>>>> origin/main
       } else {
         enhancedQuery = query;
       }
 
       // Generate embeddings for all three query types
+<<<<<<< HEAD
       const [primarySearchVector, semanticDescVector, objectFocusVector] =
         await Promise.all([
           this.getEmbedding(
@@ -210,6 +262,39 @@ class QdrantService {
                 : undefined,
           }),
         ]);
+=======
+      const [primarySearchVector, semanticDescVector, objectFocusVector] = 
+        await Promise.all([
+          this.getEmbedding(enhancedQuery.enhanced_query?.primary_search || query),
+          this.getEmbedding(enhancedQuery.enhanced_query?.semantic_desc || query),
+          this.getEmbedding(enhancedQuery.enhanced_query?.object_focus || query),
+        ]);
+
+      // Perform searches on all three vectors
+      const [primaryResults, semanticResults, objectResults] = await Promise.all([
+        this.client.search(this.collectionName, {
+          vector: { name: "primary_search", vector: primarySearchVector },
+          limit: limit * 2, // Get more results for fusion
+          with_payload: true,
+          with_vector: false,
+          filter: Object.keys(filters).length > 0 ? this.buildFilter(filters) : undefined,
+        }),
+        this.client.search(this.collectionName, {
+          vector: { name: "semantic_desc", vector: semanticDescVector },
+          limit: limit * 2,
+          with_payload: true,
+          with_vector: false,
+          filter: Object.keys(filters).length > 0 ? this.buildFilter(filters) : undefined,
+        }),
+        this.client.search(this.collectionName, {
+          vector: { name: "object_focus", vector: objectFocusVector },
+          limit: limit * 2,
+          with_payload: true,
+          with_vector: false,
+          filter: Object.keys(filters).length > 0 ? this.buildFilter(filters) : undefined,
+        }),
+      ]);
+>>>>>>> origin/main
 
       // Fusion scoring: combine results from all vectors
       const fusedResults = this.fuseSearchResults(
@@ -225,12 +310,21 @@ class QdrantService {
       return {
         results: fusedResults,
         search_metadata: {
+<<<<<<< HEAD
           original_query: typeof query === "string" ? query : "enhanced_query",
           enhanced_query: useEnhancement ? enhancedQuery : null,
           weights_used: weights,
           vectors_searched: ["primary_search", "semantic_desc", "object_focus"],
           enhancement_used: useEnhancement,
         },
+=======
+          original_query: typeof query === 'string' ? query : 'enhanced_query',
+          enhanced_query: useEnhancement ? enhancedQuery : null,
+          weights_used: weights,
+          vectors_searched: ['primary_search', 'semantic_desc', 'object_focus'],
+          enhancement_used: useEnhancement
+        }
+>>>>>>> origin/main
       };
     } catch (error) {
       console.error("Error in search:", error);
@@ -248,12 +342,21 @@ class QdrantService {
     searchResults.forEach(({ results, weight }) => {
       results.forEach((result, index) => {
         const id = result.id;
+<<<<<<< HEAD
         const currentScore = scoreMap.get(id) || {
           totalScore: 0,
           payload: result.payload,
           id: result.id,
         };
 
+=======
+        const currentScore = scoreMap.get(id) || { 
+          totalScore: 0, 
+          payload: result.payload,
+          id: result.id 
+        };
+        
+>>>>>>> origin/main
         // Add weighted score (higher rank = lower index = higher score)
         const normalizedScore = result.score * weight;
         currentScore.totalScore += normalizedScore;
@@ -265,10 +368,17 @@ class QdrantService {
     const sortedResults = Array.from(scoreMap.values())
       .sort((a, b) => b.totalScore - a.totalScore)
       .slice(0, limit)
+<<<<<<< HEAD
       .map((result) => ({
         id: result.id,
         payload: result.payload,
         score: result.totalScore,
+=======
+      .map(result => ({
+        id: result.id,
+        payload: result.payload,
+        score: result.totalScore
+>>>>>>> origin/main
       }));
 
     return sortedResults;
