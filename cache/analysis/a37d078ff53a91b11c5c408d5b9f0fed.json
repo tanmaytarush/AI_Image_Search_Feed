@@ -1,0 +1,110 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.53%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_058",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modular Kitchen with Contemporary Style",
+      "primary_features": [
+        "Purple and white modular cabinets",
+        "White tiled backsplash",
+        "Textured pink upper cabinets",
+        "Black countertops",
+        "Under-cabinet lighting"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Purple and white cabinets",
+            "Modular design",
+            "Textured upper cabinets",
+            "Flat-panel doors",
+            "Copper handles"
+          ],
+          "materials": [
+            "MDF or similar",
+            "Painted finish"
+          ],
+          "finish": "Glossy and matte finish combination"
+        },
+        {
+          "type": "Countertops",
+          "features": [
+            "Black countertops",
+            "Marble-like texture"
+          ],
+          "materials": [
+            "Marble or MDF with artificial marble effect"
+          ],
+          "finish": "Smooth and polished"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "White tiles with geometric pattern",
+            "Marble-like backsplash tiles"
+          ],
+          "materials": [
+            "Ceramic tiles",
+            "Marble or ceramic effect"
+          ],
+          "finish": "Shiny and smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Purple",
+          "White",
+          "Black",
+          "Pink",
+          "Silver"
+        ],
+        "materials": [
+          "Glossy MDF",
+          "Ceramic tiles",
+          "Marble",
+          "Metal",
+          "Painted finish"
+        ],
+        "lighting": "Under-cabinet LED lighting",
+        "texture": "Textured upper cabinets, smooth countertops, shiny tiles"
+      },
+      "indian_context": {
+        "regional_style": "This kitchen does not have specific regional Indian influences but follows a modern urban style",
+        "traditional_elements": [
+          "Missing traditional Indian elements such as wooden furniture or carved elements"
+        ],
+        "modern_adaptations": [
+          "Modern interpretations include modular kitchen design and contemporary color choice"
+        ],
+        "space_utilization": "The space is organized for efficient workflow with cabinets and countertop space",
+        "cultural_significance": "The color palette might be influenced by modern urban preferences rather than traditional Indian aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image shows a modern urban kitchen with a contemporary modular design. The kitchen features glossy purple and white modular cabinets with flat-panel doors and copper handles. The countertops are black, possibly with a marble-like texture, and the backsplash is decorated with white tiles featuring a subtle geometric pattern, giving a sleek and stylish appearance. The space is organized for efficient workflow, and under-cabinet lighting is installed for illumination. The color palette of purple, white, black, and pink suggests a contemporary aesthetic influenced by modern urban design trends rather than traditional Indian design elements.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modular Design",
+        "Purple Cabinets",
+        "White Tiles",
+        "Contemporary Style",
+        "Urban Kitchen"
+      ],
+      "budget_indicator": "Moderate, given the use of painted MDF for cabinets and ceramic tiles for backsplash",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is food preparation and storage",
+      "indian_specific": "No traditional Indian-specific design features are visible"
+    }
+  },
+  "cached_at": 1753446972876,
+  "cache_key": "a37d078ff53a91b11c5c408d5b9f0fed"
+}

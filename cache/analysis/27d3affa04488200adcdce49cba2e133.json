@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.11.13%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_065",
+    "ai_generated_tags": {
+      "room": "Living Room / Dining Area",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Central TV Unit",
+        "Open Plan",
+        "Marble Flooring",
+        "Combination of White and Dark Wood"
+      ],
+      "objects": [
+        {
+          "type": "TV Unit",
+          "features": [
+            "Design with vertical wooden panels",
+            "Integrated shelves",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Wood",
+            "Marble"
+          ],
+          "finish": "Glossy, polished"
+        },
+        {
+          "type": "Dining Table",
+          "features": [
+            "Dark wood table",
+            "White cushioned chairs",
+            "Chic design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark Brown",
+          "Beige",
+          "Marble Gray"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Metal"
+        ],
+        "lighting": "Natural light from window, recessed ceiling lights",
+        "texture": "Smooth, polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra or Tamil Nadu",
+        "traditional_elements": [
+          "Vertical slatted design inspired by jharokha"
+        ],
+        "modern_adaptations": [
+          "Sleek, contemporary design with Indian influences"
+        ],
+        "space_utilization": "Efficient use of open plan for multiple purposes",
+        "cultural_significance": "Vertical slats and clean lines reflect a modern interpretation of traditional Indian aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian living and dining area with a sleek, open-plan design. The central feature is a TV unit with vertical wooden slats, reminiscent of jharokha, a traditional element. The room is well-lit with natural light from a large window and recessed ceiling lights. The furniture includes a dark wood dining table and white cushioned chairs, creating a harmonious blend of traditional and contemporary styles. The flooring is white marble, adding a touch of elegance and lightness to the space. The overall aesthetic is clean and minimalist, reflecting a modern interpretation of Indian design elements.",
+      "metadata": {
+        "tags": [
+          "Indian Design",
+          "Modern Indian",
+          "Open Plan",
+          "Marble Flooring",
+          "Jharokha Design",
+          "Contemporary Living"
+        ],
+        "budget_indicator": "Moderate to High, given the use of marble and polished materials",
+        "space_type": "Residential",
+        "functionality": "Living and Dining Area",
+        "indian_specific": "Vertical slatted design with a modern twist, reflecting Indian architectural elements"
+      }
+    }
+  },
+  "cached_at": 1753447131684,
+  "cache_key": "27d3affa04488200adcdce49cba2e133"
+}

@@ -1,0 +1,82 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/739/image_cropper_1729675863998.jpg",
+  "analysis": {
+    "image_id": "img_234",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Storage cabinets",
+        "Sliding door wardrobe",
+        "Built-in shelves"
+      ],
+      "objects": [
+        {
+          "type": "Sliding door wardrobe",
+          "features": [
+            "Sliding doors with frosted glass panels",
+            "Modern design with contemporary handles"
+          ],
+          "materials": [
+            "Wooden frame with frosted glass"
+          ],
+          "finish": "Satin finish on wood and frosted glass"
+        },
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Wall-mounted shelves with modern fixtures"
+          ],
+          "materials": [
+            "Wooden frame with metal brackets"
+          ],
+          "finish": "Satin finish on wood with metallic brackets"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Satin Mahogany, Frosted Glass"
+        ],
+        "materials": [
+          "Wood, Glass, Metal"
+        ],
+        "lighting": "Natural light from a window not visible in the image",
+        "texture": "Smooth surfaces with a minimalist finish"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence visible",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials and design techniques in a traditional form"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage solutions",
+        "cultural_significance": "Modern interpretation of Indian design elements, focusing on functionality and contemporary aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian bedroom with a focus on contemporary design elements. The space features a sliding door wardrobe with frosted glass panels and a modern handle design, along with wall-mounted built-in shelves with a satin finish. The room utilizes a minimalist color palette and smooth textures, reflecting a contemporary style with a nod to modern Indian aesthetics. The design emphasizes efficient storage solutions and functionality within a space that is free from overt traditional Indian design elements.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Minimalist",
+          "Efficient Storage",
+          "Contemporary Design",
+          "Bedroom"
+        ],
+        "budget_indicator": "Mid-range, utilizing modern materials with a contemporary finish",
+        "space_type": "Residential Bedroom",
+        "functionality": "Primary purpose is storage and organization of personal items within a bedroom setting",
+        "indian_specific": "Modern adaptation of Indian design principles, focusing on modern materials and a minimalist aesthetic"
+      }
+    }
+  },
+  "cached_at": 1753450277337,
+  "cache_key": "e1d7c9b0889764c3cc6b8ca6952c9dbd"
+}

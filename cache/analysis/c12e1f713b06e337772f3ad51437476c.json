@@ -1,0 +1,111 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/498/image_cropper_1729000027320.jpg",
+  "analysis": {
+    "image_id": "img_330",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Flat-screen TV on wall",
+        "Cabinet with shelves",
+        "Carpeted flooring",
+        "Furniture in progress"
+      ],
+      "objects": [
+        {
+          "type": "Flat-screen TV",
+          "features": [
+            "Mounted on the wall",
+            "Modern design"
+          ],
+          "materials": [],
+          "finish": "Not visible"
+        },
+        {
+          "type": "Cabinet with shelves",
+          "features": [
+            "Wooden construction",
+            "Decorative top",
+            "Multiple shelves"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Carpeted flooring",
+          "features": [
+            "Visible under furniture"
+          ],
+          "materials": [
+            "Carpet"
+          ],
+          "finish": "Not visible"
+        },
+        {
+          "type": "Furniture in progress",
+          "features": [
+            "Unfinished pieces",
+            "Various shapes and sizes"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Not visible"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Wooden tones",
+          "White walls",
+          "Light brown carpet"
+        ],
+        "materials": [
+          "Wood",
+          "Carpet"
+        ],
+        "lighting": "Natural light from windows, ceiling lights",
+        "texture": [
+          "Smooth walls",
+          "Carpeted texture"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not identifiable due to modern setup",
+        "traditional_elements": [
+          "Not identifiable"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials and design"
+        ],
+        "space_utilization": "Space appears to be multi-functional, possibly under construction or renovation",
+        "cultural_significance": "No traditional Indian cultural elements are visible in the image"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image shows a living room in the process of being set up or renovated. The space includes a wall-mounted flat-screen TV, a wooden cabinet with shelves, and carpeted flooring. No traditional Indian furniture or design elements are visible, suggesting a modern design approach with influences from Indian regions. The room is illuminated by natural light and ceiling lights, creating a bright atmosphere. The area appears to be a combination of living and workspaces, possibly under construction or renovation.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Contemporary Design",
+        "Indian Influences",
+        "Carpeted Flooring",
+        "Flat-screen TV",
+        "Innovation in Indian Interiors"
+      ],
+      "budget_indicator": "Mid-range, considering the use of modern materials and finishes",
+      "space_type": "Residential",
+      "functionality": "Living and working space, possibly under construction or renovation",
+      "indian_specific": "No traditional Indian design features are visible"
+    }
+  },
+  "cached_at": 1753460519483,
+  "cache_key": "c12e1f713b06e337772f3ad51437476c"
+}

@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1349/image_cropper_1729738981100.jpg",
+  "analysis": {
+    "image_id": "img_242",
+    "ai_generated_tags": {
+      "room": "Study area or small office",
+      "theme": "Minimalist Indian-inspired",
+      "primary_features": [
+        "Patterned wallpaper",
+        "Small desk",
+        "Chair"
+      ],
+      "objects": [
+        {
+          "type": "Chair",
+          "features": [
+            "Simple design with solid wood frame",
+            "Red fabric upholstery"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Natural wood finish, polished fabric"
+        },
+        {
+          "type": "Small desk",
+          "features": [
+            "Compact size",
+            "Metal frame"
+          ],
+          "materials": [
+            "Metal",
+            "Glass top"
+          ],
+          "finish": "Metallic finish with a clear glass top"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown wallpaper pattern",
+          "Red chair fabric",
+          "Gray metallic desk frame"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from an unseen window",
+        "texture": "Wallpaper with a textured pattern, smooth metal and glass"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style identified",
+        "traditional_elements": [
+          "Wooden chair with upholstery"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with modern materials"
+        ],
+        "space_utilization": "Efficient use of small space for work or study",
+        "cultural_significance": "Use of fabric upholstery on the chair reflects traditional craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.85
+      },
+      "description": "This image depicts a small study area or office space with a minimalist Indian-inspired design. The room features a patterned wallpaper with a dark brown color scheme, a simple wooden chair with red upholstery, and a compact desk with a metal frame and glass top. The design incorporates traditional elements like the wooden chair and fabric upholstery, while utilizing modern materials for the desk and chair frame. The space is efficiently organized for functionality, with natural light coming from an unseen window, contributing to a bright and airy atmosphere.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Indian interior",
+          "Small office",
+          "Study area",
+          "Wooden chair",
+          "Red upholstery"
+        ],
+        "budget_indicator": "Moderate, with a mix of traditional and modern materials",
+        "space_type": "Residential office",
+        "functionality": "Primary use as a workspace for studying or working",
+        "indian_specific": "Usage of traditional wooden chair with fabric upholstery"
+      }
+    }
+  },
+  "cached_at": 1753450398269,
+  "cache_key": "39c7a57166d1b31dab5edd556590668c"
+}

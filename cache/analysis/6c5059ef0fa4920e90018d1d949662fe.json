@@ -1,0 +1,109 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/77/image_cropper_1726548786966.jpg",
+  "analysis": {
+    "image_id": "img_164",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian eclectic",
+      "primary_features": [
+        "Exposed brick wall",
+        "Quartz countertop",
+        "Diwali-themed decorations"
+      ],
+      "objects": [
+        {
+          "type": "Chair",
+          "features": [
+            "Red cushions",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Wooden finish with fabric upholstery"
+        },
+        {
+          "type": "Coffee table",
+          "features": [
+            "Quartz top",
+            "Metal frame"
+          ],
+          "materials": [
+            "Quartz",
+            "Metal"
+          ],
+          "finish": "High-gloss quartz top with a metallic base"
+        },
+        {
+          "type": "Ladder",
+          "features": [
+            "Wooden rungs",
+            "Metal frame"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Wooden and metal construction"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Red",
+          "Blue",
+          "White",
+          "Black",
+          "Brown",
+          "Silver",
+          "Green"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Quartz",
+          "Fabric",
+          "Brick"
+        ],
+        "lighting": "Natural light from large windows",
+        "texture": "Mix of smooth quartz, metallic, and textured brick"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly regional, but hints of southern Indian design with the use of quartz and metal",
+        "traditional_elements": [
+          "Diwali decorations",
+          "Wooden chair frame"
+        ],
+        "modern_adaptations": [
+          "Exposed brick wall, quartz countertop"
+        ],
+        "space_utilization": "Efficient use of space with furniture pieces placed strategically",
+        "cultural_significance": "Diwali-themed decorations add a cultural touch, symbolizing celebration and prosperity"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian eclectic living room with a mix of traditional and contemporary elements. The room features an exposed brick wall, which is a modern interpretation of regional design, paired with a quartz countertop and metal ladder, emphasizing a blend of traditional and contemporary aesthetics. The room is decorated with Diwali-themed items, adding a cultural touch, and includes a wooden chair and a ladder, both traditional Indian elements that are adapted into modern furniture. The space is well-lit with natural light coming through large windows, and the room is organized to maximize space, with furniture pieces placed to create a functional yet stylish living area.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Eclectic",
+        "Quartz",
+        "Diwali",
+        "Exposed Brick Wall",
+        "Wooden Furniture"
+      ],
+      "budget_indicator": "Moderate, as quartz and metal materials are used, indicating a mid-range budget.",
+      "space_type": "Living Room",
+      "functionality": "Primary purpose is for relaxation and socializing, with a festive touch added by the Diwali decorations.",
+      "indian_specific": "Traditional furniture pieces and Diwali decorations are used, highlighting Indian design elements."
+    }
+  },
+  "cached_at": 1753449502104,
+  "cache_key": "6c5059ef0fa4920e90018d1d949662fe"
+}

@@ -1,0 +1,109 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.38%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_013",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Clean lines",
+        "Monochromatic color scheme",
+        "Integrated storage"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Smooth finish",
+            "Natural wood texture"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "High-gloss, light natural wood"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Black surface",
+            "Speckled texture"
+          ],
+          "materials": [
+            "Artificial stone"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Patterned texture",
+            "Speckled design"
+          ],
+          "materials": [
+            "Artificial stone"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Integrated design",
+            "Modern look"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "Polished chrome"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black",
+          "White",
+          "Natural wood tones",
+          "Speckled gray"
+        ],
+        "materials": [
+          "Wood",
+          "Artificial stone",
+          "Stainless steel"
+        ],
+        "lighting": "Well-lit, soft ambient lighting",
+        "texture": "Smooth, polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No clear regional influence",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of traditional Indian craftsmanship with modern design"
+        ],
+        "space_utilization": "Efficient use of space with integrated storage solutions",
+        "cultural_significance": "Minimal use of culturally specific elements, more focus on modern aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The kitchen showcases a modern minimalist design with clean lines, monochromatic color scheme, and integrated storage solutions. The use of smooth, polished surfaces and natural wood textures gives it a contemporary yet warm feel. There are no clear Indian regional influences or traditional elements present, focusing instead on a sleek, functional design that adheres to modern aesthetic trends.",
+    "metadata": {
+      "tags": [
+        "Modern kitchen",
+        "Minimalist design",
+        "Integrated storage",
+        "Natural wood",
+        "Black countertops",
+        "Speckled backsplash"
+      ],
+      "budget_indicator": "Moderate, with use of high-quality materials like polished wood and artificial stone",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is cooking and food preparation",
+      "indian_specific": "No Indian-specific design features are visible; however, the use of natural wood textures can have cultural significance as wood has been traditionally used in Indian interiors for its durability and warmth."
+    }
+  },
+  "cached_at": 1753445916826,
+  "cache_key": "a05ddda4783500ecda7cc2939c420666"
+}

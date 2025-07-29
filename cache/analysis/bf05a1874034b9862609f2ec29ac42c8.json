@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/8/image_cropper_43516510-8524-4D17-A877-A0185C096574-388-00000035D6A1838E.jpg",
+  "analysis": {
+    "image_id": "img_315",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Minimalist with Indian Influences",
+      "primary_features": [
+        "Wooden bed frame",
+        "Built-in storage unit",
+        "LED wall sconces"
+      ],
+      "objects": [
+        {
+          "type": "Bed frame",
+          "features": [
+            "Carved wooden headboard",
+            "Modern minimalist Design",
+            "Elegant lines"
+          ],
+          "materials": [
+            "Wood (likely teak or similar)",
+            "Painted finish"
+          ],
+          "finish": "Smooth, glossy paint finish"
+        },
+        {
+          "type": "Built-in storage unit",
+          "features": [
+            "Integrated into the wall",
+            "Storage space for clothing or accessories"
+          ],
+          "materials": [
+            "Wood and possibly metal or painted frame"
+          ],
+          "finish": "Matching paint finish to the bed frame"
+        },
+        {
+          "type": "LED wall sconces",
+          "features": [
+            "Modern design",
+            "Mounted on the wall",
+            "Elevate the room design"
+          ],
+          "materials": [
+            "Metal for the fixture",
+            "Glass or acrylic for the light cover"
+          ],
+          "finish": "Matte metallic finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral tones (beige, brown)",
+          "Yellow accent",
+          "Black details"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Acrylic",
+          "Paint"
+        ],
+        "lighting": "Ambient lighting from wall sconces",
+        "texture": "Smooth surfaces with contrast in finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional",
+        "traditional_elements": [
+          "Wooden bed frame with carved details",
+          "Built-in storage unit"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with modern materials and LED lighting"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Indian design elements are integrated into a modern setting, reflecting a fusion of traditional and contemporary aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The space is a modern bedroom with a minimalist design that incorporates traditional Indian elements, such as the carved wooden bed frame and built-in storage unit. The use of teak wood and painted finishes reflects regional design influences, while the LED wall sconces and simple layout exemplify contemporary design. The neutral color palette and efficient space utilization make it a functional and stylish space.",
+      "metadata": {
+        "tags": [
+          "Modern Bedroom",
+          "Minimalist Design",
+          "Indian Influence",
+          "Wooden Furniture",
+          "LED Lighting",
+          "Built-in Storage"
+        ],
+        "budget_indicator": "Moderate to High (due to wood and LED fixtures)",
+        "space_type": "Residential Bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Carved wooden bed frame and built-in storage unit"
+      }
+    }
+  },
+  "cached_at": 1753460335995,
+  "cache_key": "bf05a1874034b9862609f2ec29ac42c8"
+}

@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.08%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_017",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Minimalist Modern",
+      "primary_features": [
+        "Open floor plan",
+        "Minimalist furniture",
+        "Neutral color palette"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Textured upholstery",
+            "Armrests"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Coffee Table",
+          "features": [
+            "Round shape",
+            "Glass top"
+          ],
+          "materials": [
+            "Metal base, Glass top"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Dining Table",
+          "features": [
+            "Rectangular shape",
+            "Metal legs"
+          ],
+          "materials": [
+            "Marble top",
+            "Metal legs"
+          ],
+          "finish": "Smooth, Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Light Grey, Beige, Silver, Black"
+        ],
+        "materials": [
+          "Marble",
+          "Metal",
+          "Glass",
+          "Wood"
+        ],
+        "lighting": "Natural light from unseen windows, supplemented by hanging lights",
+        "texture": "Smooth, Polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Cultural elements adapted into modern designs"
+        ],
+        "space_utilization": "Open and uncluttered, maximizing space for social interaction",
+        "cultural_significance": "Cultural relevance in terms of modern interpretations of clean and sleek living spaces"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.82,
+      "primary_features": 0.88,
+      "objects": 0.9,
+      "indian_context": 0.7
+    },
+    "description": "The interior showcases a modern interpretation of Indian design elements, emphasizing clean lines and a neutral color palette. The living room features a minimalist sofa with textured upholstery, a sleek glass coffee table, and a dining area with a marble table and metal chairs. The design is contemporary, with a focus on open space and natural lighting, reflecting a modern take on Indian aesthetics.",
+    "metadata": {
+      "tags": [
+        "Minimalist Modern",
+        "Indian Design",
+        "Neutral Color Palette",
+        "Open Floor Plan",
+        "Living Room"
+      ],
+      "budget_indicator": "Moderate, with materials like marble, metal, and glass indicating a mid-range budget.",
+      "space_type": "Residential Living Room",
+      "functionality": "Primary purpose is for socializing and relaxation, combining living and dining areas.",
+      "indian_specific": "Modern adaptions of traditional Indian elements, such as the use of marble and metal in contemporary designs."
+    }
+  },
+  "cached_at": 1753446023885,
+  "cache_key": "d0b07369cb8d9c97b3ce50784866bca8"
+}

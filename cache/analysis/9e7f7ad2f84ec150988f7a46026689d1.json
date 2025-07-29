@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/704/image_cropper_1729179241505.jpg",
+  "analysis": {
+    "image_id": "img_368",
+    "ai_generated_tags": {
+      "room": "Master Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Built-in wardrobe",
+        "Modern furnishings",
+        "Mirrored wardrobe door"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Storage space for clothes and accessories"
+          ],
+          "materials": [
+            "Wood, modern finish"
+          ],
+          "finish": "Sleek, painted finish"
+        },
+        {
+          "type": "Furniture",
+          "features": [
+            "Modern design with clean lines"
+          ],
+          "materials": [
+            "Wood, painted finish"
+          ],
+          "finish": "Sleek, painted finish"
+        },
+        {
+          "type": "Mirrored wardrobe door",
+          "features": [
+            "Large size, reflective surface"
+          ],
+          "materials": [
+            "Metal frame, mirrored glass"
+          ],
+          "finish": "Polished, metallic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue, white, black"
+        ],
+        "materials": [
+          "Wood, metal, glass"
+        ],
+        "lighting": "Natural light from window, artificial light from ceiling",
+        "texture": "Smooth surfaces, reflective glass"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, more contemporary with Indian touches",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary wardrobe design with Indian blue color and mirrored elements"
+        ],
+        "space_utilization": "Efficient use of space, maximizing storage with built-in wardrobe",
+        "cultural_significance": "Not directly related to traditional Indian elements, but the blue color may resonate with some regional color palettes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.8,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.7
+    },
+    "description": "The image depicts a modern master bedroom with a contemporary design, featuring a built-in wardrobe in Indian blue, a reflective mirrored wardrobe door, and modern furniture with a sleek finish. The space utilizes space efficiently by incorporating storage solutions within the wardrobe, and the color palette includes Indian-inspired blue, enhancing the overall aesthetic with a touch of traditional color preferences.",
+    "metadata": {
+      "tags": [
+        "Master Bedroom",
+        "Contemporary Design",
+        "Indian Blue",
+        "Built-in Wardrobe",
+        "Modern Furniture"
+      ],
+      "budget_indicator": "Moderate, as seen in the use of painted wood and glass",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is for sleeping and storage, with additional functionality for display purposes with the mirrored wardrobe door",
+      "indian_specific": "Blue color and use of mirrored elements have an Indian influence, though the overall design is contemporary"
+    }
+  },
+  "cached_at": 1753460972837,
+  "cache_key": "9e7f7ad2f84ec150988f7a46026689d1"
+}

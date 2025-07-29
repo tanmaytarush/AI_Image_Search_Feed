@@ -1,0 +1,112 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.29%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_086",
+    "ai_generated_tags": {
+      "room": "Hallway",
+      "theme": "Modern Contemporary",
+      "primary_features": [
+        "White walls with green accents",
+        "Wooden door with grid pattern",
+        "Built-in cabinet",
+        "Decorative wall paneling"
+      ],
+      "objects": [
+        {
+          "type": "Wooden door",
+          "features": [
+            "Has a grid pattern",
+            "Painted in a warm brown tone"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Satin"
+        },
+        {
+          "type": "Decorative wall paneling",
+          "features": [
+            "Vertical striped pattern",
+            "Partially covered with green botanical design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Unpolished, natural wood finish"
+        },
+        {
+          "type": "Built-in cabinet",
+          "features": [
+            "Green and white paneling",
+            "Modern design with a minimalist look"
+          ],
+          "materials": [
+            "Board"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Table",
+          "features": [
+            "Minimalistic design with a smooth top and a gold base"
+          ],
+          "materials": [
+            "Metal and glass"
+          ],
+          "finish": "Metallic gold with a reflective surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Green",
+          "Brown",
+          "Gold"
+        ],
+        "materials": [
+          "Wood",
+          "Board",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Artificial lighting with a recessed ceiling light",
+        "texture": "Smooth surfaces with a natural wood grain texture on the paneling"
+      },
+      "indian_context": {
+        "regional_style": "Not indicative of a specific regional Indian style",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Adaptation of traditional materials (wood) in a modern design style"
+        ],
+        "space_utilization": "Optimized for functionality with storage and aesthetic appeal",
+        "cultural_significance": "No culturally significant elements visible, but modern interpretations of traditional Indian craftsmanship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.78,
+      "primary_features": 0.82,
+      "objects": 0.88,
+      "indian_context": 0.65
+    },
+    "description": "This image depicts a modern hallway with a blend of contemporary and traditional Indian design elements. The space features a wooden door with a grid pattern, a built-in cabinet with green and white paneling, and decorative wall paneling with a vertical striped pattern partially covered by a green botanical design. The minimalistic table with a metallic gold base and smooth white top adds a modern touch. The overall design is clean and functional, with a focus on natural wood and green accents to create a visually appealing space.",
+    "metadata": {
+      "tags": [
+        "Modern",
+        "Contemporary",
+        "Indian Design",
+        "Hallway",
+        "Wooden Door",
+        "Decorative Wall Paneling"
+      ],
+      "budget_indicator": "Moderate, with materials like wood, metal, and glass indicating a mid-range budget",
+      "space_type": "Residential",
+      "functionality": "Entryway/hallway with storage and aesthetic appeal",
+      "indian_specific": "Modern adaptation of traditional Indian wood paneling"
+    }
+  },
+  "cached_at": 1753447727228,
+  "cache_key": "6d5b664d101d575e21943db6132bd695"
+}

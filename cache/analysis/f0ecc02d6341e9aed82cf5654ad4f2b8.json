@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00623.JPG",
+  "analysis": {
+    "image_id": "img_007",
+    "ai_generated_tags": {
+      "room": "Open-plan kitchen and dining area",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Large kitchen island with white countertop",
+        "Round wooden dining table",
+        "Teak wood staircase",
+        "Glass cabinets in kitchen",
+        "Copper pendant lights"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood dining table",
+          "features": [
+            "Circular shape",
+            "Polished finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "High-gloss polished finish"
+        },
+        {
+          "type": "White kitchen island",
+          "features": [
+            "Integrated with cooktops and sink",
+            "Countertop with handles for storage"
+          ],
+          "materials": [
+            "Granite"
+          ],
+          "finish": "Smooth granite finish"
+        },
+        {
+          "type": "Teak wood staircase",
+          "features": [
+            "Modern design with glass panels",
+            "Wooden handrails"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak wood finish"
+        },
+        {
+          "type": "Copper pendant lights",
+          "features": [
+            "Sleek and modern design",
+            "Refined finish"
+          ],
+          "materials": [
+            "Copper"
+          ],
+          "finish": "Shiny copper finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light brown",
+          "Teak brown",
+          "Green"
+        ],
+        "materials": [
+          "Teak wood",
+          "Granite",
+          "Copper",
+          "Glass"
+        ],
+        "lighting": "Natural light from windows and glossy finishes from artificial lighting",
+        "texture": "Smooth and glossy surfaces from materials"
+      },
+      "indian_context": {
+        "regional_style": "Mysore-style or South Indian colonial influence with modern adaptations",
+        "traditional_elements": [
+          "Teak wood furniture",
+          "Copper objects",
+          "Carved wooden elements on stairs"
+        ],
+        "modern_adaptations": [
+          "Glass cabinets and countertops",
+          "Contemporary lighting"
+        ],
+        "space_utilization": "Efficient use of open space, blending kitchen and dining areas",
+        "cultural_significance": "Cultural significance through use of copper, traditional woodwork, and religious decor"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian kitchen and dining area showcases a blend of traditional and contemporary elements. The use of teak wood for the staircase and dining table, along with copper accents, reflects regional influences. The glass cabinets and white countertops suggest a modern approach. The space is well-organized, promoting efficient use of the indoor area, with religious decor adding cultural relevance.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Teak wood",
+        "Copper",
+        "Glass cabinets",
+        "Open-plan kitchen",
+        "Mysore-style"
+      ],
+      "budget_indicator": "High-end, given the use of teak wood, copper, and granite",
+      "space_type": "Residential",
+      "functionality": "Combined kitchen and dining area",
+      "indian_specific": "Teak wood, copper, and religious decor"
+    }
+  },
+  "cached_at": 1753445738577,
+  "cache_key": "f0ecc02d6341e9aed82cf5654ad4f2b8"
+}

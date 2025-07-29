@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/599/image_cropper_1729099229154.jpg",
+  "analysis": {
+    "image_id": "img_411",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Door with frosted glass design",
+        "Panelled doors"
+      ],
+      "objects": [
+        {
+          "type": "Door",
+          "features": [
+            "Frosted glass panels",
+            "Panelled design",
+            "Modern minimalist style"
+          ],
+          "materials": [
+            "Glass",
+            "Wood"
+          ],
+          "finish": "High-gloss finish on glass, natural wood tone"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Brown"
+        ],
+        "materials": [
+          "Glass",
+          "Wood"
+        ],
+        "lighting": "Natural light from frosted glass panels",
+        "texture": "Smooth glass and panelled wood"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary use of glass and wood paneling"
+        ],
+        "space_utilization": "Efficient use of space with a single door feature",
+        "cultural_significance": "Minimalist design approach does not directly reflect Indian cultural elements"
+      },
+      "confidence_scores": {
+        "room": 0.8,
+        "theme": 0.75,
+        "primary_features": 0.8,
+        "objects": 0.85,
+        "indian_context": 0.65
+      },
+      "description": "This image depicts a modern minimalist entryway with a single door featuring frosted glass panels and panelled wood design. The space is characterized by a clean and simple aesthetic with a focus on contemporary materials and finishes.",
+      "metadata": {
+        "tags": [
+          "Entryway",
+          "Minimalist",
+          "Glass Door",
+          "Panelled Design"
+        ],
+        "budget_indicator": "Moderate, with use of glass and wood paneling",
+        "space_type": "Residential",
+        "functionality": "Access point to the home",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753461564057,
+  "cache_key": "3543baa77d24c7d20ce3b547431fae2a"
+}

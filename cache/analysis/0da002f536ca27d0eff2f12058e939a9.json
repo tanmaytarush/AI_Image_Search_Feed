@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/404/image_cropper_1728376012754.jpg",
+  "analysis": {
+    "image_id": "img_309",
+    "ai_generated_tags": {
+      "room": "Walk-in closet",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Built-in wardrobe with sliding doors",
+        "Built-in shelves",
+        "Window with partial curtain"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Sliding doors with sleek handles",
+            "Structured and organized design"
+          ],
+          "materials": [
+            "Wood or wood-like material",
+            "Metallic hardware"
+          ],
+          "finish": "Smooth and polished surface"
+        },
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Integrated with wardrobe",
+            "Space-saving design"
+          ],
+          "materials": [
+            "Wood or wood-like material"
+          ],
+          "finish": "Smooth and polished surface"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "Simple frame",
+            "Natural light source"
+          ],
+          "materials": [
+            "Painted wooden frame"
+          ],
+          "finish": "White painted finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Wood tone",
+          "Blue curtains"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Painted wood"
+        ],
+        "lighting": "Natural light from window, no artificial lighting visible",
+        "texture": [
+          "Smooth and polished surfaces",
+          "Textured wooden details"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not indicative of any specific regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Highly functional and organized with efficient use of space",
+        "cultural_significance": "Minimal presence of cultural elements, focusing on modern functionality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern walk-in closet with a minimalist design. The space features a built-in wardrobe with sleek sliding doors and integrated shelves, all in a white and wood tone finish. A window with a simple frame allows for natural light to enter, complemented by a partial curtain in a contrasting color. The design focuses on functionality and space optimization, with no traditional Indian elements visible.",
+    "metadata": {
+      "tags": [
+        "walk-in closet",
+        "minimalist design",
+        "modern interior",
+        "organized space",
+        "space-saving design"
+      ],
+      "budget_indicator": "Moderate, as it features materials like wood and metal with a polished finish.",
+      "space_type": "Residential, likely a bedroom or a secondary bedroom space.",
+      "functionality": "Primary purpose is to provide a structured and organized storage space for clothing and accessories.",
+      "indian_specific": "No Indian-specific design features are present, focusing on modern and functional elements."
+    }
+  },
+  "cached_at": 1753460264161,
+  "cache_key": "0da002f536ca27d0eff2f12058e939a9"
+}

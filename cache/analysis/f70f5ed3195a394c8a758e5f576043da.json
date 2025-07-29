@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.54%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_045",
+    "ai_generated_tags": {
+      "room": "Storage space",
+      "theme": "Modular design with modern Indian influences",
+      "primary_features": [
+        "Modular wardrobe with storage compartments",
+        "Mirror with shelf",
+        "Open shelving",
+        "Simple yet functional design"
+      ],
+      "objects": [
+        {
+          "type": "Modular wardrobe",
+          "features": [
+            "Orange and white color scheme",
+            "Horizontal stripes for design",
+            "Frosted glass doors on top section",
+            "Metallic handles"
+          ],
+          "materials": [
+            "Painted wood or MDF",
+            "Metallic handles"
+          ],
+          "finish": "Matte finish with metallic handles adding a subtle shine"
+        },
+        {
+          "type": "Mirror with shelf",
+          "features": [
+            "Integrated into the wardrobe design",
+            "Provides additional storage and display space"
+          ],
+          "materials": [
+            "Painted wood or MDF",
+            "Metallic frame"
+          ],
+          "finish": "Matte finish with metallic frame"
+        },
+        {
+          "type": "Open shelving",
+          "features": [
+            "Integrated into the wardrobe design",
+            "Provides additional storage and display space"
+          ],
+          "materials": [
+            "Painted wood or MDF",
+            "Metallic frame"
+          ],
+          "finish": "Matte finish with metallic frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Orange",
+          "White",
+          "Gray"
+        ],
+        "materials": [
+          "Painted wood or MDF",
+          "Metallic handles"
+        ],
+        "lighting": "Natural light from the window and ambient light from the space",
+        "texture": "Matte finish with smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian design with influences from urban residential spaces",
+        "traditional_elements": [
+          "No visible traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Integration of modern storage solutions with traditional Indian aesthetic"
+        ],
+        "space_utilization": "Optimized storage and functional design for a compact space",
+        "cultural_significance": "Modern adaptation of Indian design principles focusing on practicality and functionality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian storage space featuring a modular wardrobe with a contemporary design. The wardrobe is painted in orange and white, with frosted glass doors on the upper section, providing a contrast to the metallic handles and the matte finish. The lower section includes open shelving and a mirror with a shelf, enhancing both storage and display options. The design is clean and functional, reflecting a modern Indian aesthetic.",
+    "metadata": {
+      "tags": [
+        "Modern Indian design",
+        "Modular wardrobe",
+        "Urban residential space",
+        "Functional storage",
+        "Orange and white color scheme"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Bedroom or utility room",
+      "functionality": "Storage and display solutions",
+      "indian_specific": "Modern adaptation of Indian design focusing on practicality"
+    }
+  },
+  "cached_at": 1753446689243,
+  "cache_key": "f70f5ed3195a394c8a758e5f576043da"
+}

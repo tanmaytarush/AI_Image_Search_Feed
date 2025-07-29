@@ -1,0 +1,112 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1039/image_cropper_1729499723734.jpg",
+  "analysis": {
+    "image_id": "img_316",
+    "ai_generated_tags": {
+      "room": "Retail or showroom",
+      "theme": "Modern retail interior",
+      "primary_features": [
+        "Framed product display",
+        "Shelving units",
+        "Lighting fixtures",
+        "Customer seating"
+      ],
+      "objects": [
+        {
+          "type": "Framed product display",
+          "features": [
+            "Visibility of products",
+            "organized arrangement"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Polished, reflective"
+        },
+        {
+          "type": "Shelving units",
+          "features": [
+            "Storage capacity",
+            "style of shelving"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Painted"
+        },
+        {
+          "type": "Lighting fixtures",
+          "features": [
+            "Bright, overhead lighting"
+          ],
+          "materials": [
+            "Metal",
+            "Plastic"
+          ],
+          "finish": "Nickel, painted"
+        },
+        {
+          "type": "Customer seating",
+          "features": [
+            "Seating arrangement",
+            "comfort"
+          ],
+          "materials": [
+            "Fabric",
+            "Metal"
+          ],
+          "finish": "Comfortable, durable"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Blue fabric",
+          "Multi-colored product labels"
+        ],
+        "materials": [
+          "Metal",
+          "Glass",
+          "Fabric",
+          "Wooden accents"
+        ],
+        "lighting": "Bright overhead lighting, enhancing visibility of products",
+        "texture": "Smooth surfaces with some texture from product displays"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of modern retail technologies",
+          "minimalistic approach"
+        ],
+        "space_utilization": "Efficient use of space with clear product presentation",
+        "cultural_significance": "No specific cultural elements visible"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern retail or showroom interior with a focus on product display and customer engagement. The space features organized shelving, bright overhead lighting, and comfortable seating, all designed to enhance the shopping experience. There is no evident Indian design influence or cultural elements, as the focus is on a contemporary retail setup.",
+    "metadata": {
+      "tags": [
+        "Retail",
+        "Showroom",
+        "Modern Interior",
+        "Product Display",
+        "Customer Experience"
+      ],
+      "budget_indicator": "Moderate, with a focus on functionality and visibility of products",
+      "space_type": "Commercial retail",
+      "functionality": "Product presentation and customer interaction",
+      "indian_specific": "No Indian-specific design features"
+    }
+  },
+  "cached_at": 1753460351121,
+  "cache_key": "b29c4bfa6ff67e40b9aca3bd488e4dbd"
+}

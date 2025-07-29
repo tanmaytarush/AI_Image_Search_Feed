@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1261/image_cropper_1729679421302.jpg",
+  "analysis": {
+    "image_id": "img_158",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "White cabinetry",
+        "Integrated appliances",
+        "Linear lighting"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "Compact design",
+            "Integrated drawers",
+            "White finish"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "Painted finish"
+          ],
+          "finish": "Smooth and glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Paint"
+        ],
+        "lighting": "Linear overhead lighting",
+        "texture": "Glossy and smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable - modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern appliances with traditional Indian materials"
+        ],
+        "space_utilization": "Effective use of compact space for storage",
+        "cultural_significance": "Modern adaptation of Indian design elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian kitchen showcases a contemporary interpretation of Indian design with compact white cabinetry and integrated appliances. The use of white as the primary color for the cabinetry aligns with the modern Indian aesthetic that often emphasizes clean lines and minimalism. The smooth finish and glossy appearance of the cabinetry suggest the use of high-quality materials, likely teak or a similar wood, painted white. The linear lighting above the cabinets is a modern design choice that complements the overall contemporary look. The design emphasizes space optimization, which is a key aspect of modern Indian interior design, especially in smaller residential spaces.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Compact Design",
+          "White Cabinets",
+          "Integrated Appliances",
+          "Linear Lighting"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential Kitchen",
+        "functionality": "Storage",
+        "indian_specific": "Integration of modern design with traditional Indian materials"
+      }
+    }
+  },
+  "cached_at": 1753449396177,
+  "cache_key": "db4ba0f6ee91e325b37f044c6a771f56"
+}

@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1452/image_cropper_1729770597990.jpg",
+  "analysis": {
+    "image_id": "img_119",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Modern bed with wooden headboard",
+        "Dark grey bedding set",
+        "Wooden flooring"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Modern design with visible wooden headboard",
+            "Dark grey fabric bedding"
+          ],
+          "materials": [
+            "Wooden headboard",
+            "Fabric bedding"
+          ],
+          "finish": "Wooden headboard with a smooth finish, fabric bedding with a matte finish"
+        },
+        {
+          "type": "Flooring",
+          "features": [
+            "Wooden planks with a light grey finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Light grey finish on wooden planks"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark grey",
+          "Light grey",
+          "Brown",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric",
+          "Metal"
+        ],
+        "lighting": "Indirect lighting suggesting a dim atmosphere",
+        "texture": "Smooth finish on the wooden headboard and wooden floor, matte finish on fabric bedding"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style visible",
+        "traditional_elements": [
+          "Wooden headboard"
+        ],
+        "modern_adaptations": [
+          "Minimalist and modern design with traditional wooden elements"
+        ],
+        "space_utilization": "Efficient use of space with a bed as the central focus",
+        "cultural_significance": "The wooden headboard may have traditional significance in terms of craftsmanship and material usage"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern bedroom with a contemporary design, featuring a dark grey bed with a wooden headboard, which incorporates traditional Indian elements like the wooden craftsmanship. The room has a light grey wooden floor, enhancing the modern aesthetic with a touch of traditional Indian interiors. The overall ambiance is calm and sophisticated, with an emphasis on quality materials and a mix of traditional and modern design elements.",
+      "metadata": {
+        "tags": [
+          "Modern Bedroom",
+          "Indian Elements",
+          "Wooden Headboard",
+          "Dark Grey Bedding",
+          "Contemporary Design",
+          "Indoor Decor"
+        ],
+        "budget_indicator": "Moderate, with quality materials and a mix of traditional and modern finishes",
+        "space_type": "Residential Bedroom",
+        "functionality": "Sleeping and relaxation area",
+        "indian_specific": "Wooden headboard with traditional craftsmanship"
+      }
+    }
+  },
+  "cached_at": 1753448613481,
+  "cache_key": "c17901d071d02d2a43eb2d7499095c01"
+}

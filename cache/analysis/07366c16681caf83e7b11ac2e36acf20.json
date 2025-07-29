@@ -1,0 +1,81 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/496/image_cropper_1729099324356.jpg",
+  "analysis": {
+    "image_id": "img_301",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Wainscoting panels",
+        "Marble floor",
+        "Neutral color scheme"
+      ],
+      "objects": [
+        {
+          "type": "Wainscoting panels",
+          "features": [
+            "Panelled walls with raised decorative trim"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Smooth and glossy paint finish"
+        },
+        {
+          "type": "Marble floor",
+          "features": [
+            "High-gloss finish reflective surface"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished marble with a reflective surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral tones (white, gray, beige)"
+        ],
+        "materials": [
+          "Painted wood, marble"
+        ],
+        "lighting": "Soft ambient lighting with recessed ceiling lights",
+        "texture": "Smooth surfaces with a mix of flat and raised textures"
+      },
+      "indian_context": {
+        "regional_style": "Not indicative of any specific Indian regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "The image is a modern interpretation of traditional Indian elements like wainscoting, which is often seen in traditional Indian homes"
+        ],
+        "space_utilization": "The space is organized for a practical and aesthetically pleasing entrance, with the wainscoting serving as a decorative element that adds depth and texture to the space",
+        "cultural_significance": "The wainscoting paneling, a traditional feature, is reimagined in a modern setting to maintain cultural relevance while adapting to contemporary design trends"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.75,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.8
+      },
+      "description": "This image showcases a modern minimalist foyer with wainscoting paneling that subtly references traditional Indian design elements. The use of neutral colors and high-gloss marble flooring creates a clean, contemporary look. The wainscoting adds a layer of texture and depth, reflecting cultural heritage in a modern setting.",
+      "metadata": {
+        "tags": [
+          "foyer",
+          "modern",
+          "minimalist",
+          "neutral colors",
+          "wainscoting",
+          "marble floor",
+          "indian modern"
+        ],
+        "budget_indicator": "Moderate to high, given the use of polished marble and wainscoting",
+        "space_type": "Residential entrance hallway",
+        "functionality": "Entrance space designed for practical use and aesthetic appeal",
+        "indian_specific": "Modern adaptation of traditional wainscoting"
+      }
+    }
+  },
+  "cached_at": 1753460177332,
+  "cache_key": "07366c16681caf83e7b11ac2e36acf20"
+}

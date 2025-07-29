@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/618/image_cropper_1729780939988.jpg",
+  "analysis": {
+    "image_id": "img_140",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian Interior",
+      "primary_features": [
+        "Marble flooring",
+        "Modern lighting fixtures",
+        "Wall paneling",
+        "Wooden door"
+      ],
+      "objects": [
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Modern design, recessed into ceiling"
+          ],
+          "materials": [
+            "Plastic or metal"
+          ],
+          "finish": "Smooth, metallic"
+        },
+        {
+          "type": "Wall paneling",
+          "features": [
+            "Decorative, intricate design"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Wooden door",
+          "features": [
+            "Dark wood, solid construction"
+          ],
+          "materials": [
+            "Solid wood"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, grey, dark wood"
+        ],
+        "materials": [
+          "Marble, wood, plastic"
+        ],
+        "lighting": "Recessed ceiling lights, providing even illumination",
+        "texture": "Smooth marble, matte wall paint, glossy wood"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly identifiable due to modern elements",
+        "traditional_elements": [
+          "Wall paneling"
+        ],
+        "modern_adaptations": [
+          "Recessed lighting, contemporary door design"
+        ],
+        "space_utilization": "Open layout, minimal furniture, maximizing floor space",
+        "cultural_significance": "Wall paneling represents traditional craftsmanship but in a modern setting"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.8,
+        "objects": 0.9,
+        "indian_context": 0.65
+      },
+      "description": "The image depicts a modern interpretation of an Indian living room with contemporary elements. The space features marble flooring, modern recessed ceiling lights, and wall paneling with intricate designs. The wooden door adds a traditional touch to the otherwise modern setup, suggesting a blend of traditional craftsmanship with contemporary design. The overall aesthetic is clean and minimalist, with a focus on functionality and modernity.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Modern Indian Interior",
+          "Marble Flooring",
+          "Recessed Lighting",
+          "Wall Paneling",
+          "Wooden Door"
+        ],
+        "budget_indicator": "Mid-range, due to the use of marble and modern fixtures",
+        "space_type": "Residential",
+        "functionality": "Primary living area, likely designed for relaxation and socializing",
+        "indian_specific": "Wall paneling and wooden door as traditional elements"
+      }
+    }
+  },
+  "cached_at": 1753449058426,
+  "cache_key": "00c7dd7a1f513d64071f1c89191753c1"
+}

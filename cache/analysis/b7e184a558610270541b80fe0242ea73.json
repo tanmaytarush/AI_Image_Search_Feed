@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/53/image_cropper_1726667605475.jpg",
+  "analysis": {
+    "image_id": "img_393",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Wooden bed frame",
+        "Light-colored mattress",
+        "Simple window with white frames"
+      ],
+      "objects": [
+        {
+          "type": "Wooden bed frame",
+          "features": [
+            "Curved headboard",
+            "Simple legs"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "White",
+          "Wooden tone"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Textile"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth wood texture, soft fabric"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly indicative of a specific regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Simple design with minimal Indian embellishments"
+        ],
+        "space_utilization": "Basic bedroom layout with bed as the central piece",
+        "cultural_significance": "No strongly Indian cultural elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.6
+      },
+      "description": "The image depicts a minimalist bedroom with a simple wooden bed frame and a light-colored mattress. The room features a natural light source from a window with white frames, emphasizing a clean and contemporary aesthetic. The design lacks strong Indian elements, focusing on simplicity and functionality.",
+      "metadata": {
+        "tags": [
+          "Minimalist bedroom",
+          "Simple design",
+          "Natural light",
+          "Wooden bed frame"
+        ],
+        "budget_indicator": "Moderate, with wood and metal as primary materials",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping area",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753461345616,
+  "cache_key": "b7e184a558610270541b80fe0242ea73"
+}

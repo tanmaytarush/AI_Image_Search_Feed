@@ -1,0 +1,72 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1341/image_cropper_1729755557251.jpg",
+  "analysis": {
+    "image_id": "img_229",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in storage unit",
+        "Modern minimalist design"
+      ],
+      "objects": [
+        {
+          "type": "Built-in storage unit",
+          "features": [
+            "White color with black accents",
+            "Rectangular shape with sliding doors"
+          ],
+          "materials": [
+            "Painted wood or MDF with a glossy finish"
+          ],
+          "finish": "Glossy, smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Brown"
+        ],
+        "materials": [
+          "Painted wood or MDF",
+          "Glossy finish"
+        ],
+        "lighting": "Ambient light with recessed ceiling lights",
+        "texture": "Smooth surfaces with a contemporary feel"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but has elements of urban modern Indian design",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern design elements while maintaining a clean and simple aesthetic"
+        ],
+        "space_utilization": "Efficient use of space with a built-in storage unit for storage",
+        "cultural_significance": "Minimalist design often reflects contemporary urban Indian values, prioritizing functionality and aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.88,
+        "indian_context": 0.8
+      },
+      "description": "This image depicts a modern Indian bathroom with a minimalist design. The built-in storage unit is a key feature, showcasing a sleek and efficient use of space. The white and black color scheme with glossy finishes aligns with contemporary urban Indian design trends, emphasizing cleanliness and contemporary aesthetics. The use of built-in storage is a modern adaptation of traditional Indian storage solutions, which often included furniture designed for functionality and utility within the home.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Minimalist",
+          "Bathroom Design",
+          "Urban Indian Design",
+          "Glossy Finish"
+        ],
+        "budget_indicator": "Medium to High",
+        "space_type": "Residential",
+        "functionality": "Storage and space optimization",
+        "indian_specific": "Modern adaptation of traditional storage solutions"
+      }
+    }
+  },
+  "cached_at": 1753459482498,
+  "cache_key": "ea86a5f41497b5b9e083b07bb719ae78"
+}

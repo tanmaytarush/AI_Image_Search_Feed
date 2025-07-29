@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/36/WhatsApp%20Image%202024-08-01%20at%2018.45.04%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_283",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian Interior",
+      "primary_features": [
+        "Modern furniture with Indian accents",
+        "Colorful and textured wall paneling",
+        "Built-in shelving unit"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood coffee table",
+          "features": [
+            "Carved floral motifs",
+            "Round shape"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth, natural teak finish"
+        },
+        {
+          "type": "Teak wood side table",
+          "features": [
+            "Carved floral motifs",
+            "Rectangular shape"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth, natural teak finish"
+        },
+        {
+          "type": "Built-in shelving unit",
+          "features": [
+            "Teak wood frames with glass doors",
+            "Outer cabinetry with decorative embellishments"
+          ],
+          "materials": [
+            "Teak wood, glass, decorative metal"
+          ],
+          "finish": "Teak wood has a natural finish, glass is clear, metal has polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teal, white, beige, green, brown, silver"
+        ],
+        "materials": [
+          "Teak wood, glass, metal, concrete"
+        ],
+        "lighting": "Natural light from large windows, accent lighting on the wall",
+        "texture": "Smooth teak wood, textured wall paneling, glass surfaces, metallic embellishments"
+      },
+      "indian_context": {
+        "regional_style": "Mughal-inspired with modern interpretations",
+        "traditional_elements": [
+          "Carved woodwork",
+          "Decorative embellishments"
+        ],
+        "modern_adaptations": [
+          "Integrated modern lighting and shelving elements",
+          "Use of contemporary materials like glass and metal"
+        ],
+        "space_utilization": "Efficiente use of wall space for storage and display, open floor plan with a focus on central wall feature",
+        "cultural_significance": "The use of teak wood, traditional carvings, and glass doors may reflect a cultural trend towards blending modern and traditional aesthetics for a timeless look"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This living room showcases a blend of contemporary and traditional Indian design elements. The room features modern furniture like the teak wood coffee table with carved floral motifs, complemented by a built-in shelving unit with glass doors and decorative metal, all in a Mughal-inspired aesthetic. The teal wall paneling and white ceiling add a modern touch, while the natural teak finish and traditional carvings provide a timeless Indian charm. The use of natural light from large windows enhances the spaciousness and open feel of the room, with accent lighting highlighting the wall paneling and shelving unit.",
+    "metadata": {
+      "tags": [
+        "modern",
+        "indian",
+        "contemporary",
+        "teak wood",
+        "Mughal-inspired",
+        "cultural interior"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials like teak wood and glass",
+      "space_type": "Living Room",
+      "functionality": "Relaxation and socializing area",
+      "indian_specific": "Use of traditional carvings, teak wood, and glass doors with decorative metal"
+    }
+  },
+  "cached_at": 1753459952457,
+  "cache_key": "08d6dfe73265a219d2f2a95568cae18b"
+}

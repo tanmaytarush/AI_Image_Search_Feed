@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1185/image_cropper_1729611094350.jpg",
+  "analysis": {
+    "image_id": "img_253",
+    "ai_generated_tags": {
+      "room": "worship room",
+      "theme": "religious",
+      "primary_features": [
+        "god statue",
+        "prayer mat",
+        "altar"
+      ],
+      "objects": [
+        {
+          "type": "god statue",
+          "features": [
+            "carved, golden statue of a deity"
+          ],
+          "materials": [
+            "gold leaf, wood"
+          ],
+          "finish": "polished, reflective"
+        },
+        {
+          "type": "altar",
+          "features": [
+            "carved wooden structure with intricate details"
+          ],
+          "materials": [
+            "wood, brass"
+          ],
+          "finish": "polished, glossy"
+        },
+        {
+          "type": "prayer mat",
+          "features": [
+            "simple, white mat"
+          ],
+          "materials": [
+            "cotton"
+          ],
+          "finish": "smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "gold, white, brown, red"
+        ],
+        "materials": [
+          "gold, wood, brass, cotton"
+        ],
+        "lighting": "natural, bright lighting from a window",
+        "texture": "smooth, polished surfaces, intricate carvings"
+      },
+      "indian_context": {
+        "regional_style": "northern India (Punjabi style)",
+        "traditional_elements": [
+          "god statue, altar, prayer mat"
+        ],
+        "modern_adaptations": [],
+        "space_utilization": "efficient use of space for worship",
+        "cultural_significance": "religious significance, dedicated to honoring deities"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a worship room in Northern India, featuring a beautifully carved golden god statue placed on a polished wooden altar. The room is lit by natural light, enhancing the reflective surfaces of the god statue and the altar. A simple prayer mat is placed before the altar, indicating a space designed for devotion and reverence. The design elements are typical of Northern India, with intricate carvings and a focus on the spiritual aspect of the room.",
+    "metadata": {
+      "tags": [
+        "worship room",
+        "religious space",
+        "deity worship",
+        "Northern Indian design",
+        "gold leaf"
+      ],
+      "budget_indicator": "affordable, using materials like brass and wood",
+      "space_type": "residential",
+      "functionality": "dedicated to prayer and worship",
+      "indian_specific": "use of traditional Indian materials and design elements"
+    }
+  },
+  "cached_at": 1753459684484,
+  "cache_key": "23e051bf66aa2fa5e1147dc5603e0e51"
+}

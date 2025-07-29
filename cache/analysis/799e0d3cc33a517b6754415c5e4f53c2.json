@@ -1,0 +1,72 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/460/image_cropper_1728648325046.jpg",
+  "analysis": {
+    "image_id": "img_118",
+    "ai_generated_tags": {
+      "room": "Storage or closet",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Sliding doors with frosted glass panels",
+        "Sleek, modern hardware"
+      ],
+      "objects": [
+        {
+          "type": "Furniture",
+          "features": [
+            "Sliding doors with frosted glass panels",
+            "Sleek, modern hardware"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Frosted glass and brushed metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Frosted glass"
+        ],
+        "materials": [
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Interior lighting with no visible natural light source",
+        "texture": "Smooth and reflective surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No Indian regional influences present",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Glass is a modern material used for Indian interiors"
+        ],
+        "space_utilization": "Efficient use of space with sliding doors for storage",
+        "cultural_significance": "No cultural relevance as this is a modern design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a minimalist storage or closet space featuring frosted glass sliding doors and sleek metal hardware. The design is modern and does not reflect traditional Indian design elements. The use of glass and metal suggests a contemporary approach to Indian interior design, which may have been influenced by modern adaptations of traditional materials.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Storage",
+        "Frosted Glass",
+        "Metal Hardware",
+        "Modern Design"
+      ],
+      "budget_indicator": "Moderate, as glass and metal are quality materials but not the most expensive options",
+      "space_type": "Residential closet",
+      "functionality": "Primary purpose is to provide efficient storage space",
+      "indian_specific": "No specific Indian-specific design features are present in this image"
+    }
+  },
+  "cached_at": 1753448592928,
+  "cache_key": "799e0d3cc33a517b6754415c5e4f53c2"
+}

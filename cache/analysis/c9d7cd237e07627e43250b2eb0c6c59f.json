@@ -1,0 +1,69 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/718/image_cropper_1729182795914.jpg",
+  "analysis": {
+    "image_id": "img_347",
+    "ai_generated_tags": {
+      "room": "Indoor space",
+      "theme": "Contemporary with traditional Indian influences",
+      "primary_features": [
+        "Framed artwork"
+      ],
+      "objects": [
+        {
+          "type": "Framed artwork",
+          "features": [
+            "Abstract design, likely depicting natural elements"
+          ],
+          "materials": [
+            "Unspecified, but likely wood or metal frame"
+          ],
+          "finish": "Glossy or matte finish, depending on the media"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown, black, and white"
+        ],
+        "materials": [
+          "Non-specific, but likely modern materials"
+        ],
+        "lighting": "Dim, focused lighting that highlights the framed artwork",
+        "texture": "Smooth surfaces with abstract patterns"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly regional, but could be inspired by Mughal or Rajasthani art styles",
+        "traditional_elements": [
+          "Abstract designs often found in Indian art"
+        ],
+        "modern_adaptations": [
+          "Contemporary style with traditional Indian art elements"
+        ],
+        "space_utilization": "The space appears to be a hallway or entrance area, possibly leading to a living room or bedroom",
+        "cultural_significance": "The framed artwork may represent cultural motifs or themes significant to Indian art and design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.78,
+      "primary_features": 0.83,
+      "objects": 0.88,
+      "indian_context": 0.75
+    },
+    "description": "This image showcases a contemporary indoor space with a framed abstract artwork that incorporates elements of traditional Indian art. The dark color palette and glossy finish of the frame suggest a modern interpretation of Indian design aesthetics, possibly inspired by Mughal or Rajasthani art styles. The lighting is dim, focusing on the artwork, which enhances its visual impact. The space appears to be a hallway or entrance area, possibly leading to a more traditionally decorated room within the house.",
+    "metadata": {
+      "tags": [
+        "abstract art",
+        "contemporary design",
+        "Indian art",
+        "hallway",
+        "traditional elements"
+      ],
+      "budget_indicator": "Moderate to high, given the quality of materials and finishes",
+      "space_type": "Residential entrance or hallway",
+      "functionality": "Decoration and aesthetics",
+      "indian_specific": "Abstract designs and color palette inspired by traditional Indian art"
+    }
+  },
+  "cached_at": 1753460708800,
+  "cache_key": "c9d7cd237e07627e43250b2eb0c6c59f"
+}

@@ -1,0 +1,83 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00645.JPG",
+  "analysis": {
+    "image_id": "img_091",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Glass cabinets",
+        "Marble countertops",
+        "Open space design"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen countertops",
+          "features": [
+            "White marble with brown veining",
+            "Integrated sink and stove"
+          ],
+          "materials": [
+            "Marble, glass"
+          ],
+          "finish": "High-gloss finish"
+        },
+        {
+          "type": "Glass cabinets",
+          "features": [
+            "Clear glass panels",
+            "Black frames"
+          ],
+          "materials": [
+            "Glass, metal"
+          ],
+          "finish": "High-gloss finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, green, brown, black, yellow, red"
+        ],
+        "materials": [
+          "Marble, glass, metal"
+        ],
+        "lighting": "Natural light with artificial ceiling lights",
+        "texture": "Smooth surfaces with glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian with a touch of traditional elements",
+        "traditional_elements": [
+          "Decorative plants, colorful jars"
+        ],
+        "modern_adaptations": [
+          "Glass cabinets, contemporary furniture"
+        ],
+        "space_utilization": "Open and functional kitchen design",
+        "cultural_significance": "The use of plants and colorful elements reflects a connection to nature and vibrancy in Indian decor"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian kitchen showcases a blend of contemporary design with traditional Indian aesthetics. The use of glass cabinets and marble countertops exemplifies modern functionality, while the inclusion of green cabinets introduces a traditional color that is commonly seen in Indian interiors. The space is well-lit with natural light from the window and artificial overhead lighting. Decorative plants and colorful jars add a touch of vibrancy and cultural significance, reflecting the importance of nature and color in Indian design. The open layout maximizes space and functionality, creating a welcoming and efficient cooking area.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Kitchen",
+        "Glass Cabinets",
+        "Marble Countertops",
+        "Green Cabinets",
+        "Open Space"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Cooking and dining area",
+      "indian_specific": "High-gloss finishes, traditional colors, and decorative plants"
+    }
+  },
+  "cached_at": 1753447902364,
+  "cache_key": "580d710c4f68f9ff64d7d99c64cfb30b"
+}

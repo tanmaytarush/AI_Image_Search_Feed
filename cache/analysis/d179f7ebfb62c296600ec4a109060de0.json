@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/810/image_cropper_1729261741160.jpg",
+  "analysis": {
+    "image_id": "img_500",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Contemporary",
+      "primary_features": [
+        "Customized wardrobe with sliding doors",
+        "Headboard with integrated lighting",
+        "Minimalist decor"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Sliding doors with a sleek design",
+            "Integrated cabinetry with storage"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Polished, smooth finish"
+        },
+        {
+          "type": "Headboard",
+          "features": [
+            "Integrated lighting with a modern design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished, smooth finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Dark Wood"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Textiles"
+        ],
+        "lighting": "Ambient lighting with integrated headboard lighting",
+        "texture": "Smooth, minimalist textures"
+      },
+      "indian_context": {
+        "regional_style": "Not indicative of any specific regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern design elements into traditional Indian furniture and materials"
+        ],
+        "space_utilization": "Optimal use of space with a focus on storage and a clean, uncluttered look",
+        "cultural_significance": "Not applicable to Indian design elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern contemporary bedroom with a focus on clean lines and minimalism. The room features a customized wardrobe with sliding doors and integrated lighting in the headboard, creating a sleek and functional space. The use of white, black, and dark wood tones contributes to a modern yet sophisticated aesthetic, with the materials used reflecting a contemporary design sensibility. There are no traditional Indian design elements visible, and the space is optimized for storage and a clean look. The overall design is indicative of modern Indian interior trends that blend traditional and contemporary styles.",
+      "metadata": {
+        "tags": [
+          "Modern Contemporary",
+          "Bedroom",
+          "Minimalist Decor",
+          "Integrated Lighting",
+          "Sleek Design"
+        ],
+        "budget_indicator": "Moderate to High",
+        "space_type": "Residential",
+        "functionality": "Sleeping and Storage",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1753462724439,
+  "cache_key": "d179f7ebfb62c296600ec4a109060de0"
+}

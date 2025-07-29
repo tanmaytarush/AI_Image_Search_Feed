@@ -1,0 +1,95 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1372/image_cropper_1729819015381.jpg",
+  "analysis": {
+    "image_id": "img_290",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "White tiled walls",
+        "Wooden vanity with mirror",
+        "Large storage cabinets",
+        "Window with frosted glass"
+      ],
+      "objects": [
+        {
+          "type": "Vanity",
+          "features": [
+            "Built-in mirror above",
+            "Wooden frame",
+            "Simple design"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Smooth polished finish"
+        },
+        {
+          "type": "Storage Cabinets",
+          "features": [
+            "White tiled exterior",
+            "Large capacity",
+            "Metal hardware"
+          ],
+          "materials": [
+            "Metal",
+            "Tiled"
+          ],
+          "finish": "Glossy white"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black",
+          "Frosted glass"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Tiled",
+          "Glass"
+        ],
+        "lighting": "Natural light from frosted glass window",
+        "texture": "Smooth and shiny surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Built-in mirror"
+        ],
+        "modern_adaptations": [
+          "Frosted glass window instead of traditional lattice"
+        ],
+        "space_utilization": "Efficient storage and functional design with minimal ornamentation",
+        "cultural_significance": "Modern interpretation of traditional Indian elements like the built-in mirror"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian bathroom features a sleek, white-tiled design with a wooden vanity that includes an integrated mirror. The space is designed with large storage cabinets for efficient organization, and a frosted glass window allows for natural light while maintaining privacy. The overall design combines traditional Indian elements like the built-in mirror with contemporary materials and finishes, creating a culturally rich yet contemporary aesthetic.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Bathroom",
+          "White Tiled",
+          "Wooden Vanity",
+          "Frosted Glass",
+          "Storage Cabinets"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential Bathroom",
+        "functionality": "Storage and vanity area",
+        "indian_specific": "Built-in mirror and efficient storage solutions"
+      }
+    }
+  },
+  "cached_at": 1753460025131,
+  "cache_key": "4b568d3c02a8c4b1df28846de95d3d5f"
+}

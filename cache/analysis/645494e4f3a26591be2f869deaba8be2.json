@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/626/image_cropper_1729148792119.jpg",
+  "analysis": {
+    "image_id": "img_350",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Interior",
+      "primary_features": [
+        "Wooden cabinets",
+        "Built-in shelves",
+        "White paneling"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "Vertical orientation",
+            "Dark wood tone",
+            "Curved design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, polished surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark brown",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Paneling"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth, clean surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not directly identifiable",
+        "traditional_elements": [
+          "Carved wood elements"
+        ],
+        "modern_adaptations": [
+          "Simplistic shapes, clean lines"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Minimal traditional elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space features a modern take on Indian design with a focus on clean lines and natural wood tones. The wooden cabinets and built-in shelves utilize vertical space efficiently, blending traditional Indian craftsmanship with contemporary design. The use of white paneling adds a clean, modern touch to the room while the dark wood of the cabinets provides a warm, traditional accent. The overall aesthetic is elegant and functional, suitable for a living room in a contemporary home.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Interior",
+          "Contemporary Living Room",
+          "Wooden Cabinets",
+          "White Paneling",
+          "Vertical Storage"
+        ],
+        "budget_indicator": "Moderate to High, due to the use of quality materials like wood and paneling",
+        "space_type": "Residential Living Room",
+        "functionality": "Primary purpose is for living and storage, providing a relaxing environment for residents and guests",
+        "indian_specific": "The use of carved wood elements suggests an attempt to incorporate traditional Indian design, although this is minimal."
+      }
+    }
+  },
+  "cached_at": 1753460761339,
+  "cache_key": "645494e4f3a26591be2f869deaba8be2"
+}

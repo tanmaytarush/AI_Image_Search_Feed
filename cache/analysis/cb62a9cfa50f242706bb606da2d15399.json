@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/559/image_cropper_1729073072225.jpg",
+  "analysis": {
+    "image_id": "img_146",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Colonial Indian",
+      "primary_features": [
+        "Built-in shelves",
+        "Teak wood furniture",
+        "Brass accents",
+        "Curtains"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood chair",
+          "features": [
+            "Carved wooden design",
+            "Traditional silhouette"
+          ],
+          "materials": [
+            "Teak wood",
+            "Cushions"
+          ],
+          "finish": "Natural teak wood finish with a protective varnish"
+        },
+        {
+          "type": "Teak wood coffee table",
+          "features": [
+            "Rectangular shape",
+            "Inlaid brass details"
+          ],
+          "materials": [
+            "Teak wood",
+            "Brass"
+          ],
+          "finish": "Teak wood with brass inlays"
+        },
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Integrated into the wall",
+            "Wooden construction"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Teak wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "White",
+          "Golden"
+        ],
+        "materials": [
+          "Teak wood",
+          "Brass",
+          "Cotton"
+        ],
+        "lighting": "Ambient light from window",
+        "texture": "Smooth teak wood, polished brass, soft cotton curtains"
+      },
+      "indian_context": {
+        "regional_style": "Madhaya Pradesh",
+        "traditional_elements": [
+          "Teak wood furniture",
+          "Brass accents"
+        ],
+        "modern_adaptations": [
+          "Integration of built-in shelves",
+          "Modern lighting"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in shelves",
+        "cultural_significance": "Cultural relevance lies in the use of teak wood, which is a symbol of durability and strength in Indian homes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space showcases a colonial style with traditional Indian design elements. The living room features teak wood furniture including a chair and a coffee table, both adorned with intricate brass inlays. Built-in shelves are integrated into the wall, demonstrating an efficient use of space. The use of teak wood and brass reflects the regional style of Madhaya Pradesh, while the modern addition of built-in shelves and ambient lighting maintains a balance between tradition and modernity.",
+    "metadata": {
+      "tags": [
+        "Colonial Indian",
+        "Teak wood",
+        "Brass accents",
+        "Built-in shelves",
+        "Madhaya Pradesh"
+      ],
+      "budget_indicator": "Moderate, with the use of quality materials like teak wood and brass",
+      "space_type": "Living room",
+      "functionality": "Primary use as a relaxation and social space",
+      "indian_specific": "Use of teak wood and brass, integration of traditional elements with modern design"
+    }
+  },
+  "cached_at": 1753449177347,
+  "cache_key": "cb62a9cfa50f242706bb606da2d15399"
+}

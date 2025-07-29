@@ -1,0 +1,70 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1043/image_cropper_1729503131747.jpg",
+  "analysis": {
+    "image_id": "img_456",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Arched doorways",
+        "Shelving units"
+      ],
+      "objects": [
+        {
+          "type": "Shelving unit",
+          "features": [
+            "Arched doorways, light-colored finish"
+          ],
+          "materials": [
+            "Wood, possibly painted"
+          ],
+          "finish": "Smooth, light-colored paint finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light beige, white"
+        ],
+        "materials": [
+          "Wood, painted finish"
+        ],
+        "lighting": "Even, natural lighting",
+        "texture": "Smooth, matte finish"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with minimal arches"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "No cultural elements specific to Indian design observed"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a closet with a minimalist design, featuring arched doorways and shelving units. The arches are a modern adaptation of traditional Indian architectural elements, but the overall design is contemporary with a focus on functionality and space optimization. The light-colored finish and smooth texture suggest a modern aesthetic with influences from Indian regional design in terms of the arches.",
+      "metadata": {
+        "tags": [
+          "closet",
+          "minimalist design",
+          "arched doorways",
+          "modern Indian design",
+          "efficient space"
+        ],
+        "budget_indicator": "Moderate, with visible use of painted wood",
+        "space_type": "Residential closet",
+        "functionality": "Storage space",
+        "indian_specific": "Contemporary interpretation of traditional arches"
+      }
+    }
+  },
+  "cached_at": 1753462244431,
+  "cache_key": "caff08c90a742c664807814d7fc26173"
+}

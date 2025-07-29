@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/55/image_cropper_1726476703662.jpg",
+  "analysis": {
+    "image_id": "img_499",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "White marble countertops",
+        "Wooden cabinets",
+        "Glass paneling",
+        "Green leafy plants"
+      ],
+      "objects": [
+        {
+          "type": "Bar stool",
+          "features": [
+            "Modern design with cushioned seat",
+            "Wooden legs"
+          ],
+          "materials": [
+            "Fabric for seat cushion",
+            "Wood for legs"
+          ],
+          "finish": "Smooth and polished"
+        },
+        {
+          "type": "Kitchen counter",
+          "features": [
+            "Marble countertop",
+            "Integrated sink",
+            "Integrated oven"
+          ],
+          "materials": [
+            "Marble",
+            "Stainless steel"
+          ],
+          "finish": "Glossy and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Wood tone",
+          "Green",
+          "Silver"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from windows, supplemented by overhead lights, creating a bright and airy atmosphere",
+        "texture": "Smooth and polished surfaces with a mix of textures from the plants and wood"
+      },
+      "indian_context": {
+        "regional_style": "Mumbai or Kolkata",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of Indian design aesthetics with modern furnishings and materials"
+        ],
+        "space_utilization": "The kitchen is designed to maximize counter space for food preparation and dining, with a bar stool for casual dining or snacks.",
+        "cultural_significance": "The clean lines and modern materials reflect a contemporary Indian lifestyle, yet the green plants subtly hint at traditional elements like nature in home decor."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian kitchen features a clean and contemporary design with white marble countertops, wooden cabinets, and integrated appliances, complemented by a modern bar stool and green leafy plants. The space is well-lit with natural light and has a polished finish, reflecting a blend of traditional Indian design elements with modern interpretations.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Kitchen",
+          "Marble Countertops",
+          "Wooden Cabinets",
+          "Green Plants"
+        ],
+        "budget_indicator": "Moderate to high, as indicated by the use of marble countertops and modern furnishings",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary use is food preparation and casual dining",
+        "indian_specific": "Modern design elements with subtle traditional Indian inspirations, such as the use of green plants"
+      }
+    }
+  },
+  "cached_at": 1753462717146,
+  "cache_key": "ae1a07b4d4d6d046630f94e5875de8cd"
+}

@@ -1,0 +1,81 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.12.13%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_068",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern minimalist",
+      "primary_features": [
+        "Sliding wardrobe doors with light beige and dark gray patterned panels",
+        "Contemporary bed with geometric patterned pillows"
+      ],
+      "objects": [
+        {
+          "type": "Sliding wardrobe doors",
+          "features": [
+            "Large, floor-to-ceiling doors with a modern design featuring wavy patterns and dark gray accents"
+          ],
+          "materials": [
+            "The doors appear to be made of MDF or similar particle board with a textured finish, possibly lacquered or painted with a glossy finish"
+          ],
+          "finish": "Glossy and smooth, with a subtle texture from the wavy pattern design"
+        },
+        {
+          "type": "Bed",
+          "features": [
+            "Modern design with a simple frame and geometric patterned pillows"
+          ],
+          "materials": [
+            "Bed frame appears to be made of dark metal or wood with a polished finish"
+          ],
+          "finish": "Metallic and sleek, with a shiny surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light beige, dark gray, white, black"
+        ],
+        "materials": [
+          "MDF, lacquered finish, metal"
+        ],
+        "lighting": "Natural light illuminating the space, creating a bright and airy feel",
+        "texture": "Wavy pattern on doors, smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident, more of a modern interpretation",
+        "traditional_elements": [
+          "No traditional Indian elements are visible in this image"
+        ],
+        "modern_adaptations": [
+          "The design is a modern adaptation of Indian aesthetics, focusing on clean lines and neutral color palettes"
+        ],
+        "space_utilization": "The space is organized with a focus on maximizing storage, as indicated by the large sliding wardrobe doors",
+        "cultural_significance": "The design does not have a direct cultural significance in Indian interior design, as it is a modern interpretation rather than a traditional style"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern minimalist bedroom with contemporary furniture. The prominent feature is a large sliding wardrobe with light beige and dark gray patterned doors, showcasing a sleek and contemporary design. The bed, with its geometric patterned pillows, complements the modern aesthetic. The room is well-lit with natural light, creating a bright and airy atmosphere.",
+      "metadata": {
+        "tags": [
+          "Bedroom",
+          "Modern",
+          "Minimalist",
+          "Sliding Doors",
+          "Neutral Colors",
+          "Contemporary Design"
+        ],
+        "budget_indicator": "Mid-range, with materials like MDF and metal indicating a moderate budget",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose is for bedroom storage and as a sleeping space",
+        "indian_specific": "No Indian-specific design features are visible, as this is a modern interpretation"
+      }
+    }
+  },
+  "cached_at": 1753447208116,
+  "cache_key": "ff6175b7bfb1ba134e5abd9437008be9"
+}

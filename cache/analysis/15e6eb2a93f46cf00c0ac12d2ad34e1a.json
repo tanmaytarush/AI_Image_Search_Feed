@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/193/image_cropper_1726818376701.jpg",
+  "analysis": {
+    "image_id": "img_156",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Blue cabinets",
+        "Marble countertops",
+        "Tile backsplash"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Blue finish, sleek design"
+          ],
+          "materials": [
+            "Painted wood, possibly MDF"
+          ],
+          "finish": "Glossy blue paint"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Marble top, glossy finish"
+          ],
+          "materials": [
+            "Natural marble"
+          ],
+          "finish": "Polished marble"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Tile pattern with geometric designs"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Matte tile finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue, white, brown"
+        ],
+        "materials": [
+          "Painted wood, marble, ceramic tiles"
+        ],
+        "lighting": "Natural light with overhead lighting",
+        "texture": "Mix of smooth and textured surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly Indian regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of Indian colors and materials in a modern setting"
+        ],
+        "space_utilization": "Efficient use of space with cabinet storage and countertop workspace",
+        "cultural_significance": "The blue color is commonly used in Indian decor and can signify trustworthiness and stability"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This kitchen features modern Indian design elements with a focus on functionality. The blue cabinets and marble countertops are emblematic of a contemporary yet culturally relevant approach to kitchen design. The use of geometric tile patterns adds a modern aesthetic to the traditional color palette often seen in Indian homes.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Kitchen Design",
+          "Blue Cabinets",
+          "Marble Countertops"
+        ],
+        "budget_indicator": "Moderate, materials suggest a balance between style and affordability",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is storage and food preparation",
+        "indian_specific": "Blue cabinets and marble countertops with geometric tile backsplash"
+      }
+    }
+  },
+  "cached_at": 1753449358830,
+  "cache_key": "15e6eb2a93f46cf00c0ac12d2ad34e1a"
+}

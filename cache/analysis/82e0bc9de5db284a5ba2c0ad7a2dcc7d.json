@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1728128755685.jpg",
+  "analysis": {
+    "image_id": "img_262",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Dark wood paneling",
+        "Glass partition",
+        "Carved wood elements",
+        "Teak furniture",
+        "Marble flooring",
+        "Copper accents"
+      ],
+      "objects": [
+        {
+          "type": "Teak furniture",
+          "features": [
+            "Carved wood design",
+            "Rich brown color"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "High gloss"
+        },
+        {
+          "type": "Teak sofa",
+          "features": [
+            "Carved details",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "High gloss"
+        },
+        {
+          "type": "Glass partition",
+          "features": [
+            "Translucent glass panels",
+            "Gold accents"
+          ],
+          "materials": [
+            "Glass",
+            "Copper"
+          ],
+          "finish": "High polish"
+        },
+        {
+          "type": "Flooring",
+          "features": [
+            "Marble tiles"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Smooth, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown",
+          "Gold",
+          "Green",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Teak",
+          "Glass",
+          "Copper",
+          "Marble"
+        ],
+        "lighting": "Ambient lighting with accent lighting on the glass partition",
+        "texture": "Combination of smooth and textured (carved wood)"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Carved wood (diwan style)"
+        ],
+        "modern_adaptations": [
+          "Contemporary glass partition, modern lighting"
+        ],
+        "space_utilization": "Open layout with a focus on symmetry and clean lines",
+        "cultural_significance": "Use of natural materials like teak and marble, along with gold accents, reflects a blend of traditional and modern values"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space features a contemporary take on traditional North Indian design. Dark wood paneling and carved teak furniture are prominent, creating a rich and luxurious feel. A glass partition with gold accents adds a modern touch, while the space is well-lit with both ambient and accent lighting. The use of marble flooring and natural materials like teak and copper emphasizes a blend of traditional craftsmanship and modern aesthetics.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Contemporary design",
+        "Teak furniture",
+        "Glass partition",
+        "North Indian style",
+        "Marble flooring",
+        "Gold accents"
+      ],
+      "budget_indicator": "Higher",
+      "space_type": "Living Room",
+      "functionality": "Social and relaxation area",
+      "indian_specific": "Carved wood accents, natural wood materials, and gold accents"
+    }
+  },
+  "cached_at": 1753459772173,
+  "cache_key": "82e0bc9de5db284a5ba2c0ad7a2dcc7d"
+}

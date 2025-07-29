@@ -1,0 +1,107 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00640.JPG",
+  "analysis": {
+    "image_id": "img_006",
+    "ai_generated_tags": {
+      "room": "Living Room with Prayer Area",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden staircase",
+        "Diwan area",
+        "Marble flooring",
+        "Prayer altar"
+      ],
+      "objects": [
+        {
+          "type": "Wooden staircase",
+          "features": [
+            "Curved design",
+            "Shallow steps",
+            "Wooden railings"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Glossy polished finish"
+        },
+        {
+          "type": "Diwan",
+          "features": [
+            "Enclosed area with glass doors",
+            "Carved wooden frame"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Rich polished brown finish"
+        },
+        {
+          "type": "Prayer altar",
+          "features": [
+            "Embedded in wooden frame",
+            "Decorative carvings"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Rich polished brown finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White marble floor",
+          "Brown wooden accents",
+          "Blue kitchen cabinets",
+          "Gold accents"
+        ],
+        "materials": [
+          "Marble",
+          "Teak wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light from windows and artificial light from chandeliers",
+        "texture": "Smooth polished textures"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra style with a modern twist",
+        "traditional_elements": [
+          "Wooden carved frames",
+          "Diwan structure",
+          "Prayer altar"
+        ],
+        "modern_adaptations": [
+          "Contemporary lighting fixtures",
+          "Minimalist kitchen design"
+        ],
+        "space_utilization": "Open plan with staircase acting as a dividing element",
+        "cultural_significance": "The prayer area highlights Indian family-oriented cultural practices"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian living space with a wooden staircase as a central feature. The room includes a prayer area within a wooden framed structure, typical of Indian homes, and a contemporary kitchen in the background. The use of teak wood and marble highlights traditional Indian design elements with a modern twist. The space is well-lit, featuring both natural and artificial light sources, and the overall design reflects a balance between tradition and modernity.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Modern Indian design",
+          "Teak wood",
+          "Marble floor",
+          "Wooden staircase",
+          "Prayer area",
+          "Diwan"
+        ],
+        "budget_indicator": "High-end, likely reflecting the use of premium materials like marble and teak wood",
+        "space_type": "Residential",
+        "functionality": "Combines a living area, a prayer space, and a kitchen",
+        "indian_specific": "Traditional prayer area, wooden staircase with a modern finish"
+      }
+    }
+  },
+  "cached_at": 1753445707988,
+  "cache_key": "3e823e85dfb9ad6f9f640089667cb6ed"
+}

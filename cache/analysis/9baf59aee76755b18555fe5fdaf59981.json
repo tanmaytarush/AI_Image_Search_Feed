@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.24%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_036",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in wardrobe with sliding doors",
+        "Storage with drawers",
+        "Simple design with minimal embellishment"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Sliding doors, multiple compartments, sleek design"
+          ],
+          "materials": [
+            "MDF with laminate finish"
+          ],
+          "finish": "Laminate with glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, brown, beige"
+        ],
+        "materials": [
+          "MDF, laminate, metal hardware"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces with glossy finish"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Modern interpretation of Indian design"
+        ],
+        "modern_adaptations": [
+          "Use of MDF and laminate materials for a contemporary look"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in storage",
+        "cultural_significance": "Modern adaptation of Indian design elements aimed at functionality and space optimization"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.9,
+      "theme": 0.85,
+      "primary_features": 0.88,
+      "objects": 0.86,
+      "indian_context": 0.82
+    },
+    "description": "The image depicts a modern Indian closet with built-in storage units featuring sliding doors and drawers. The design incorporates a simple yet elegant style with a combination of white and brown tones, and glossy finishes. The space is well-lit with natural light, emphasizing the practical use of vertical space in contemporary Indian interior design.",
+    "metadata": {
+      "tags": [
+        "modern",
+        "Indian design",
+        "closet",
+        "built-in storage",
+        "minimalist"
+      ],
+      "budget_indicator": "Moderate, utilizing MDF and laminate materials",
+      "space_type": "Residential (bedroom)",
+      "functionality": "Storage and organization",
+      "indian_specific": "Modern interpretation of Indian design with efficient space utilization"
+    }
+  },
+  "cached_at": 1753446507792,
+  "cache_key": "9baf59aee76755b18555fe5fdaf59981"
+}

@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/520/image_cropper_1BBCA024-1BE9-4286-9185-0F937C8BF986-2922-000000E292C750D0.jpg",
+  "analysis": {
+    "image_id": "img_101",
+    "ai_generated_tags": {
+      "room": "Garage",
+      "theme": "Minimalistic",
+      "primary_features": [
+        "Concrete walls",
+        "Parking spaces",
+        "Metal poles",
+        "Green accents"
+      ],
+      "objects": [
+        {
+          "type": "Parking pole",
+          "features": [
+            "Black color",
+            "Vertical design",
+            "Reflective surface"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Parking bollard",
+          "features": [
+            "Teal color",
+            "Textured",
+            "Cylindrical shape"
+          ],
+          "materials": [
+            "Concrete"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teal",
+          "White",
+          "Gray",
+          "Black"
+        ],
+        "materials": [
+          "Concrete",
+          "Metal"
+        ],
+        "lighting": "Natural light",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design"
+        ],
+        "space_utilization": "Efficient parking space management",
+        "cultural_significance": "None applicable to the given image"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a garage with concrete walls and parking spaces. The parking poles are black with a glossy finish, and the parking bollards are teal with a smooth and textured surface. The overall design is minimalistic, with no visible Indian regional influences or cultural elements.",
+      "metadata": {
+        "tags": [
+          "Garage",
+          "Minimalistic",
+          "Parking",
+          "Concrete",
+          "Teal"
+        ],
+        "budget_indicator": "Low",
+        "space_type": "Residential Garage",
+        "functionality": "Parking vehicle",
+        "indian_specific": "None"
+      }
+    }
+  },
+  "cached_at": 1753448153625,
+  "cache_key": "94f0f12008b26b3a36bb539e1be10323"
+}

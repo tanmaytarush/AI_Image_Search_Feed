@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.29.jpeg",
+  "analysis": {
+    "image_id": "img_001",
+    "ai_generated_tags": {
+      "room": "Guest room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in bed with wooden frame",
+        "Geometric patterned wall panels",
+        "Wooden window with grill"
+      ],
+      "objects": [
+        {
+          "type": "Built-in bed",
+          "features": [
+            "Wooden frame with storage underneath",
+            "Rectangular mattress placed on top"
+          ],
+          "materials": [
+            "Wood (possibly teak or similar)",
+            "Laminate or MDF for the frame",
+            "Synthetic material for the mattress"
+          ],
+          "finish": "Natural wood finish, matte laminate finish"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Geometric patterned wall panels",
+            "Sliding doors with silver handles"
+          ],
+          "materials": [
+            "Wall panels appear to be metal or wood laminate with a textured finish"
+          ],
+          "finish": "Textured geometric patterned finish"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "Wooden frame",
+            "Metal grill"
+          ],
+          "materials": [
+            "Wood for the frame",
+            "Metal for the grill"
+          ],
+          "finish": "Polished wooden finish, metallic finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark gray for the wall panels",
+          "Light brown for the wooden bed frame",
+          "White for the mattress",
+          "Light gray for the wall"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Laminate/wooden panels"
+        ],
+        "lighting": "Natural light from the window, ceiling lights visible",
+        "texture": "Smooth for the bed frame, textured for the wall panels"
+      },
+      "indian_context": {
+        "regional_style": "South Indian (Kerala style)",
+        "traditional_elements": [
+          "Built-in bed (similar to traditional chettu)",
+          "Wooden window grill"
+        ],
+        "modern_adaptations": [
+          "Geometric wall panels with contemporary finish"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture and storage",
+        "cultural_significance": "The use of built-in furniture and geometric patterns reflects traditional functionality and aesthetic preferences in South Indian interiors"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern interpretation of a South Indian guest room, featuring a built-in bed with a wooden frame and a synthetic mattress, complemented by geometric patterned wall panels and a traditional wooden window with a metal grill. The design emphasizes functionality with efficient space utilization, highlighting Indian regional style in a contemporary setting.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Modern traditional style",
+        "South Indian architecture",
+        "Built-in furniture",
+        "Geometric pattern"
+      ],
+      "budget_indicator": "Moderate to high, given the use of materials like wood and metal with a textured finish",
+      "space_type": "Guest room",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Use of built-in furniture and traditional window design"
+    }
+  },
+  "cached_at": 1753445568617,
+  "cache_key": "8b39c7601757f2dd295338090d15e5a3"
+}

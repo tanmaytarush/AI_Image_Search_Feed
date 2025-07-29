@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/823/image_cropper_1729262318827.jpg",
+  "analysis": {
+    "image_id": "img_482",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Built-in shelves",
+        "Modular storage unit",
+        "Teak finish furniture"
+      ],
+      "objects": [
+        {
+          "type": "Teak cabinet",
+          "features": [
+            "Built-in shelves",
+            "Storage compartments"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Teak finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Teak brown",
+          "Dark green"
+        ],
+        "materials": [
+          "Teak wood",
+          "White panels",
+          "Dark green upholstery"
+        ],
+        "lighting": "Natural light through window",
+        "texture": "Smooth teak surface, crisp white panels"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra or Gujarat",
+        "traditional_elements": [
+          "Teak furniture",
+          "Built-in shelves"
+        ],
+        "modern_adaptations": [
+          "Contemporary finish and color palette"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Teak is commonly used in traditional Indian furniture for its durability and cultural significance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A contemporary Indian living room featuring a modular storage unit with built-in shelves and a teak cabinet. The space utilizes a modern yet traditional approach with a teak finish, crisp white panels, and dark green upholstery. The design integrates efficient space utilization and cultural elements such as teak furniture.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Teak",
+        "Storage Solution",
+        "Contemporary Indian",
+        "Maharashtra Style"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality teak and modern finishes",
+      "space_type": "Residential Living Space",
+      "functionality": "Storage and display area, efficient space utilization",
+      "indian_specific": "Use of teak and built-in storage solutions"
+    }
+  },
+  "cached_at": 1753462534274,
+  "cache_key": "4400b8a4880b935d47abf6ed59f339bf"
+}

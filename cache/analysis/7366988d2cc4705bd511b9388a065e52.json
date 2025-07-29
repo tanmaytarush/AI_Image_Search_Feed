@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/830/image_cropper_1729263189019.jpg",
+  "analysis": {
+    "image_id": "img_355",
+    "ai_generated_tags": {
+      "room": "Living room or entrance hall",
+      "theme": "Indian traditional style",
+      "primary_features": [
+        "Wooden flooring",
+        "Carved wooden screens",
+        "Teak furniture"
+      ],
+      "objects": [
+        {
+          "type": "Teak bench",
+          "features": [
+            "Carved wooden design",
+            "Gilt accents",
+            "Comfortable seating"
+          ],
+          "materials": [
+            "Teak wood",
+            "Brass"
+          ],
+          "finish": "Gilded and polished"
+        },
+        {
+          "type": "Carved wooden screens",
+          "features": [
+            "Decorative patterns",
+            "Lattice design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "Gold (gilt)",
+          "White (walls)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Brass",
+          "Wood"
+        ],
+        "lighting": "Soft, ambient lighting",
+        "texture": "Smooth surfaces on furniture, textured wood on screens"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian style (Mughal influence)",
+        "traditional_elements": [
+          "Teak furniture",
+          "Carved wooden screens",
+          "Gilt accents"
+        ],
+        "modern_adaptations": [
+          "Minimalist approach to space and lighting"
+        ],
+        "space_utilization": "Open and airy design with a balance between functional and decorative spaces",
+        "cultural_significance": "Emphasis on craftsmanship and natural materials reflects Indian cultural values of beauty and functionality"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This living room features a traditional Indian design with Mughal influences, characterized by the use of teak wood, carved wooden screens, and gilt accents. The room has a warm and inviting atmosphere, enhanced by the natural wood tones and ambient lighting. The space is organized to blend functionality with aesthetic appeal, reflecting Indian cultural values of craftsmanship and natural materials.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Mughal style",
+          "teak furniture",
+          "carved wooden screens",
+          "gilt accents"
+        ],
+        "budget_indicator": "Mid-range, with a focus on high-quality materials and craftsmanship",
+        "space_type": "Living room or entrance hall",
+        "functionality": "Primary purpose is for relaxation and social interaction, with a secondary function of serving as an entrance area",
+        "indian_specific": "Teak furniture, carved wooden screens, and gilt accents"
+      }
+    }
+  },
+  "cached_at": 1753460828063,
+  "cache_key": "7366988d2cc4705bd511b9388a065e52"
+}

@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/321/image_cropper_8B471245-C52B-4793-8179-E8596FD2E189-62920-000051EF929FE61B.jpg",
+  "analysis": {
+    "image_id": "img_342",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Glass shower, modern fixtures, tiled walls, wooden door, white paneling"
+      ],
+      "objects": [
+        {
+          "type": "Shower Door",
+          "features": [
+            "Translucent glass panels, modern sleek design, horizontal lines"
+          ],
+          "materials": [
+            "Glass, metal"
+          ],
+          "finish": "Smooth, glossy surface on glass panels"
+        },
+        {
+          "type": "Paneling",
+          "features": [
+            "White wooden panels, vertical lines, modern aesthetic"
+          ],
+          "materials": [
+            "Wood, paint"
+          ],
+          "finish": "Matte finish on panels"
+        },
+        {
+          "type": "Door",
+          "features": [
+            "Blue wooden door, smooth surface, modern design"
+          ],
+          "materials": [
+            "Wood, paint"
+          ],
+          "finish": "Glossy paint on door"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, blue, transparent glass"
+        ],
+        "materials": [
+          "Glass, wood, metal"
+        ],
+        "lighting": "Natural light is visible, suggesting sunlight or artificial light from the outside",
+        "texture": "Smooth, glossy glass, matte wood panels"
+      },
+      "indian_context": {
+        "regional_style": "No regional Indian style influences are evident",
+        "traditional_elements": [
+          "No traditional Indian elements such as carvings or motifs"
+        ],
+        "modern_adaptations": [
+          "Minimalist design reflects modern interpretations of Indian design principles"
+        ],
+        "space_utilization": "Efficient use of space with clean lines and minimal decor",
+        "cultural_significance": "The image does not contain elements with specific cultural significance"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.78,
+        "primary_features": 0.83,
+        "objects": 0.9,
+        "indian_context": 0.47
+      },
+      "description": "The image depicts a modern minimalist bathroom with clean lines and a focus on functional design. The space features a glass shower with translucent panels, white wooden paneling, and a modern blue wooden door. The minimalist aesthetic is further emphasized by the use of glossy materials and the absence of traditional Indian design elements.",
+      "metadata": {
+        "tags": [
+          "Modern bathroom, minimalist design, glass shower, wooden paneling, blue door"
+        ],
+        "budget_indicator": "The visible materials suggest a mid-range budget, with glass and wood being relatively costly",
+        "space_type": "Residential bathroom",
+        "functionality": "Primary purpose is for personal hygiene and showering",
+        "indian_specific": "No Indian-specific design features are present"
+      }
+    }
+  },
+  "cached_at": 1753460652163,
+  "cache_key": "8589c23818a8c3c61d682e3a35ca0b9c"
+}

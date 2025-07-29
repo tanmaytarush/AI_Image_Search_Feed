@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.50%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_044",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Modern cabinetry",
+        "Patterned sliding doors",
+        "Wall-mounted shelves"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Green color",
+            "Simple handles"
+          ],
+          "materials": [
+            "Painted finish"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Sliding Doors",
+          "features": [
+            "Off-white with floral design",
+            "Decorative"
+          ],
+          "materials": [
+            "MDF or similar"
+          ],
+          "finish": "Flat"
+        },
+        {
+          "type": "Shelving Unit",
+          "features": [
+            "Wall-mounted",
+            "Green accents"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Green floral design"
+        ],
+        "materials": [
+          "Painted wood",
+          "Painted MDF",
+          "Metal handles"
+        ],
+        "lighting": "Natural light from left side",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Not identifiable",
+        "traditional_elements": [
+          "No traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Integration of modern cabinetry with traditional floral motifs"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves and sliding doors",
+        "cultural_significance": "No specific cultural relevance, as the design is contemporary"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.7
+      },
+      "description": "This image showcases a modern kitchen with contemporary design elements. The space features sleek, green-painted cabinetry with simple handles, off-white sliding doors adorned with floral patterns, and wall-mounted shelves with green accents. The design is minimalistic and functional, with a focus on efficient use of space.",
+      "metadata": {
+        "tags": [
+          "Contemporary kitchen",
+          "Modern design",
+          "Green cabinets",
+          "Floral motifs",
+          "Wall shelves"
+        ],
+        "budget_indicator": "Moderate, as seen in the painted finishes and modern materials",
+        "space_type": "Residential kitchen",
+        "functionality": "Storage and organization",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1753446667728,
+  "cache_key": "14dea3b8f8e49bfc433a8ddc3b962043"
+}

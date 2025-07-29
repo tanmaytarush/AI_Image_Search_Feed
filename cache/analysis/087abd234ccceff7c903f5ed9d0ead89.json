@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/945/image_cropper_1729360868687.jpg",
+  "analysis": {
+    "image_id": "img_202",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Green cabinetry",
+        "White countertop",
+        "Built-in shelving",
+        "Modern lighting"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Green, sleek design",
+            "Integrated handles",
+            "Modular design"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "White, smooth surface"
+          ],
+          "materials": [
+            "Marble or Quartz"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Shelving",
+          "features": [
+            "Built-in, modern style",
+            "Match the cabinetry color"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Lighting",
+          "features": [
+            "Modern, recessed ceiling lights"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green, White, Brown, Black"
+        ],
+        "materials": [
+          "Wood, Marble, Metal"
+        ],
+        "lighting": "Recessed ceiling lights",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Modern interpretations of minimalism"
+        ],
+        "space_utilization": "Optimized for functionality with built-in storage",
+        "cultural_significance": "No visible elements with cultural or religious significance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The kitchen features a modern minimalist design with green cabinetry, white countertops, and built-in shelving. The space is well-organized with sleek, contemporary features and recessed ceiling lights, lacking any traditional Indian design elements.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modern",
+        "Minimalist",
+        "Green Cabinets",
+        "White Countertops",
+        "Built-in Shelving",
+        "Recessed Lighting"
+      ],
+      "budget_indicator": "Mid-range, with modern materials like marble and polished finishes.",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is food preparation and storage, with optimized space for modern living.",
+      "indian_specific": []
+    }
+  },
+  "cached_at": 1753459261176,
+  "cache_key": "087abd234ccceff7c903f5ed9d0ead89"
+}

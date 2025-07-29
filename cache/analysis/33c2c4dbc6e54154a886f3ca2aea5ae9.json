@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.00.57%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_023",
+    "ai_generated_tags": {
+      "room": "Entryway or small living space",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Sleek wooden cabinetry with decorative elements",
+        "Abstract wall art",
+        "Modern lighting fixtures"
+      ],
+      "objects": [
+        {
+          "type": "Wooden cabinetry",
+          "features": [
+            "Curved panel design",
+            "Combination of wood and beige panels",
+            "Decorative carvings"
+          ],
+          "materials": [
+            "Wood",
+            "Painted finish"
+          ],
+          "finish": "Satin finish"
+        },
+        {
+          "type": "Abstract wall art",
+          "features": [
+            "Curved lines and organic shapes"
+          ],
+          "materials": [
+            "Paint on canvas"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Decorative items",
+          "features": [
+            "Small plants, vases, and figurines"
+          ],
+          "materials": [
+            "Ceramic, metal"
+          ],
+          "finish": "Shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Peachy pink walls",
+          "Beige and wood tones",
+          "White marble floor"
+        ],
+        "materials": [
+          "Wood",
+          "Paint",
+          "Marble"
+        ],
+        "lighting": "Soft ambient lighting from unseen fixtures",
+        "texture": "Combination of smooth and textured surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident",
+        "traditional_elements": [
+          "Carved wooden panels"
+        ],
+        "modern_adaptations": [
+          "Contemporary curves and lines",
+          "Minimalist approach"
+        ],
+        "space_utilization": "Efficient use of vertical space with wall-mounted cabinets",
+        "cultural_significance": "The use of wood suggests a nod to traditional craftsmanship, but the overall design is modern and minimalistic"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This entryway showcases a modern interpretation of Indian interior design, featuring sleek wooden cabinetry with subtle curved panel designs and a decorative abstract wall art piece. The use of wood and soft pink tones reflects traditional craftsmanship, while the clean lines and modern lighting fixtures give it a contemporary feel. The space is efficiently organized, utilizing vertical space with wall-mounted cabinets to maximize the use of the available area.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Minimalistic",
+        "Wooden cabinetry",
+        "Abstract art",
+        "Modern lighting"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Entryway or small living space",
+      "functionality": "Entrance area, transitional space, and potentially a small living area",
+      "indian_specific": "Wooden cabinetry with carvings and a nod to traditional craftsmanship"
+    }
+  },
+  "cached_at": 1753446172934,
+  "cache_key": "33c2c4dbc6e54154a886f3ca2aea5ae9"
+}

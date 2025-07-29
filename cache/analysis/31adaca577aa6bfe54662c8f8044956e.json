@@ -1,0 +1,84 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1041/image_cropper_1729522086593.jpg",
+  "analysis": {
+    "image_id": "img_221",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "modern minimal",
+      "primary_features": [
+        "closed wardrobe",
+        "organized shelves",
+        "plain walls"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe",
+          "features": [
+            "closed doors",
+            "storage shelves"
+          ],
+          "materials": [
+            "wooden"
+          ],
+          "finish": "polished"
+        },
+        {
+          "type": "shelves",
+          "features": [
+            "tall structure",
+            "organized"
+          ],
+          "materials": [
+            "wooden"
+          ],
+          "finish": "natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "brown",
+          "neutral"
+        ],
+        "materials": [
+          "wood",
+          "paint"
+        ],
+        "lighting": "soft, indoor",
+        "texture": "smooth, clean"
+      },
+      "indian_context": {
+        "regional_style": "pan-Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "simple, clean design"
+        ],
+        "space_utilization": "efficient and organized",
+        "cultural_significance": "functional, modern approach"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.75,
+      "primary_features": 0.8,
+      "objects": 0.9,
+      "indian_context": 0.5
+    },
+    "description": "This image depicts a modern minimal bedroom with a simple design focused on functionality and organization. The room features a tall, closed wardrobe with a polished wooden finish and a set of shelves with a natural wood texture, arranged neatly for storage. The walls are plain and painted in a neutral color, complementing the wooden furniture. The lighting appears soft, and the overall space is designed with a clean, minimalistic aesthetic.",
+    "metadata": {
+      "tags": [
+        "bedroom",
+        "modern interior",
+        "minimalist design",
+        "organized space",
+        "wooden furniture"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential bedroom",
+      "functionality": "storage and organizational space",
+      "indian_specific": "no traditional Indian design elements visible"
+    }
+  },
+  "cached_at": 1753450121583,
+  "cache_key": "31adaca577aa6bfe54662c8f8044956e"
+}

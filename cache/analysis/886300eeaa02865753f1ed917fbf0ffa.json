@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/556/image_cropper_1729072386499.jpg",
+  "analysis": {
+    "image_id": "img_294",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Traditional Elements",
+      "primary_features": [
+        "Television unit with decorative carvings",
+        "Wooden paneling with geometric patterns",
+        "Gold and black color scheme",
+        "Wooden door with geometric design"
+      ],
+      "objects": [
+        {
+          "type": "Television unit",
+          "features": [
+            "Carved wooden frame",
+            "Decorative carvings on the top panel",
+            "Integrated shelving for storage"
+          ],
+          "materials": [
+            "Wood",
+            "Brass"
+          ],
+          "finish": "Polished wood and shiny brass accents"
+        },
+        {
+          "type": "Wooden door",
+          "features": [
+            "Gold and black geometric design",
+            "Paneling with geometric patterns"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Gold",
+          "Black",
+          "White",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "Brass",
+          "Metal"
+        ],
+        "lighting": "Natural light from the window and artificial light from the ceiling fan",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Mughal-inspired with modern adaptations",
+        "traditional_elements": [
+          "Wooden paneling",
+          "Carved wooden frames",
+          "Geometric designs"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design",
+          "Monochrome color scheme"
+        ],
+        "space_utilization": "Optimized for storage with integrated shelving in the television unit",
+        "cultural_significance": "The design elements reflect Mughal architecture, which is often associated with grandeur and luxury in Indian interiors"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space features a modern living room with a contemporary design that incorporates traditional Indian elements such as carved wooden frames and geometric patterns. The room utilizes a rich gold and black color scheme, creating a luxurious and elegant atmosphere. The television unit, with its decorative carvings and integrated shelving, serves both functional and aesthetic purposes. The wooden door with its geometric design adds a touch of traditional craftsmanship to the modern setting.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Contemporary",
+          "Traditional Elements",
+          "Gold and Black",
+          "Wooden Paneling",
+          "Carved Frames",
+          "Geometric Patterns"
+        ],
+        "budget_indicator": "Mid-range, with a focus on quality materials like wood and brass",
+        "space_type": "Residential",
+        "functionality": "Entertainment and relaxation",
+        "indian_specific": "Cultural elements like carved wooden frames and geometric designs"
+      }
+    }
+  },
+  "cached_at": 1753460071811,
+  "cache_key": "886300eeaa02865753f1ed917fbf0ffa"
+}

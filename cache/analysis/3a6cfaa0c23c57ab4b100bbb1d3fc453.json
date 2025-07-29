@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/618/image_cropper_1729594812251.jpg",
+  "analysis": {
+    "image_id": "img_220",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influence",
+      "primary_features": [
+        "Double bed with carved headboard",
+        "Wall clock collection",
+        "Rounded mirror frames"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden bed",
+          "features": [
+            "Elegant design with intricate carvings",
+            "Rich brown finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished teak"
+        },
+        {
+          "type": "Wall clocks",
+          "features": [
+            "Circular frames",
+            "Varied sizes",
+            "Material appears to be brass or bronze"
+          ],
+          "materials": [
+            "Brass or bronze"
+          ],
+          "finish": "Shiny metallic"
+        },
+        {
+          "type": "Rounded mirror",
+          "features": [
+            "Silver finish",
+            "Curved edges",
+            "Embedded decorative elements"
+          ],
+          "materials": [
+            "Glass and metal"
+          ],
+          "finish": "Shiny silver"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (bed)",
+          "White (walls, bedding)",
+          "Silver (mirrors, frames)",
+          "Multicolored (clocks)"
+        ],
+        "materials": [
+          "Teak wood, brass or bronze, glass, metal"
+        ],
+        "lighting": "Soft ambient lighting with recessed ceiling lights",
+        "texture": "Smooth wood, shiny metal, reflective glass"
+      },
+      "indian_context": {
+        "regional_style": "Rajasthan (due to the round mirror and carved bed)",
+        "traditional_elements": [
+          "Carved wooden bed",
+          "Wall clock collection"
+        ],
+        "modern_adaptations": [
+          "Contemporary lighting and white bedding"
+        ],
+        "space_utilization": "Efficient use of space with double beds and minimal decor",
+        "cultural_significance": "The wall clock collection and carved bed reflect traditional Indian craftsmanship and aesthetic"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bedroom showcases a contemporary design with traditional Indian influences. The centerpiece is a beautifully carved wooden bed, reflecting Rajasthani design aesthetics. The room features a collection of wall clocks with round frames, adding a cultural touch. The furniture is complemented by a modern white color scheme, suggesting a balance between traditional craftsmanship and contemporary living. The use of circular mirror frames and metallic finishes adds to the traditional Indian appeal.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Rajasthani style",
+        "Carved bed",
+        "Wall clocks",
+        "Contemporary design"
+      ],
+      "budget_indicator": "Mid-range, utilizing teak wood for the bed and brass for decorative elements",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and relaxation space",
+      "indian_specific": "Carved wooden bed, wall clock collection, round mirror frames"
+    }
+  },
+  "cached_at": 1753450114967,
+  "cache_key": "3a6cfaa0c23c57ab4b100bbb1d3fc453"
+}

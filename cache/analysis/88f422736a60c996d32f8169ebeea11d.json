@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.33%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_034",
+    "ai_generated_tags": {
+      "room": "Closet or storage area",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Four-paned white upper section",
+        "Wooden lower section with vertical slats",
+        "Black vertical bars separating the panes"
+      ],
+      "objects": [
+        {
+          "type": "Closet doors",
+          "features": [
+            "Four panes with a clean, minimalist design",
+            "Upper panes are white",
+            "Lower section is wooden with vertical slats"
+          ],
+          "materials": [
+            "Wood, likely teak or similar hardwood",
+            "White finished material for the upper panes"
+          ],
+          "finish": "Smooth finish on the white panes, natural wood texture on the lower section"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Painted material"
+        ],
+        "lighting": "Even, ambient lighting conditions",
+        "texture": "Smooth upper panes, natural wood texture on the lower section"
+      },
+      "indian_context": {
+        "regional_style": "Not apparent, but could be modern Indian with minimalist influences",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design, blending traditional elements with modern simplicity"
+        ],
+        "space_utilization": "Optimizes vertical space for storage or display",
+        "cultural_significance": "Cultural elements are not explicitly present, but the design can be considered modern and contemporary"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern, minimalist closet with a clean design. The top section features white, paneled doors while the lower section is made of vertical slatted wood, likely teak. The black vertical bars add a modern touch to the traditional wooden slats, blending classic Indian materials with contemporary design.",
+      "metadata": {
+        "tags": [
+          "Minimalist design",
+          "Modern Indian",
+          "Wooden closet",
+          "White panes",
+          "Vertical slats",
+          "Black bars"
+        ],
+        "budget_indicator": "Moderate to high, considering the materials and finish quality",
+        "space_type": "Residential interior, likely a bedroom or walk-in closet",
+        "functionality": "Primary purpose is storage, with a focus on organizational design and aesthetic appeal",
+        "indian_specific": "Modern adaptation of traditional Indian woodwork and materials"
+      }
+    }
+  },
+  "cached_at": 1753446470642,
+  "cache_key": "88f422736a60c996d32f8169ebeea11d"
+}

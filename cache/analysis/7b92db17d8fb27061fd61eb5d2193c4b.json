@@ -1,0 +1,130 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/138/image_cropper_1727768447595.jpg",
+  "analysis": {
+    "image_id": "img_264",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian Interior",
+      "primary_features": [
+        "Carved wooden elements",
+        "Brass accents",
+        "Marble floors",
+        "Curtained window",
+        "Wall-mounted storage"
+      ],
+      "objects": [
+        {
+          "type": "Carved Wooden Panel",
+          "features": [
+            "Elegant decorative patterns",
+            "Traditional craftsmanship"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Polished wooden finish"
+        },
+        {
+          "type": "Brass Furniture Accents",
+          "features": [
+            "Shiny metallic look",
+            "Curved armrests"
+          ],
+          "materials": [
+            "Brass"
+          ],
+          "finish": "High-gloss brass"
+        },
+        {
+          "type": "Marble Floor",
+          "features": [
+            "Smooth surface",
+            "Elegant appearance"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished marble"
+        },
+        {
+          "type": "Curtained Window",
+          "features": [
+            "Fabric material",
+            "Elegant draping"
+          ],
+          "materials": [
+            "Cotton or linen"
+          ],
+          "finish": "Textured fabric"
+        },
+        {
+          "type": "Wall-Mounted Storage Unit",
+          "features": [
+            "Open shelves",
+            "Exhibiting items"
+          ],
+          "materials": [
+            "Wood and metal"
+          ],
+          "finish": "Wooden with metallic hardware"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Teak",
+          "Brass",
+          "Marble",
+          "Cotton/Linen"
+        ],
+        "lighting": "Ambient light with natural light from the window, possibly enhanced by ceiling lights",
+        "texture": [
+          "Smooth marble",
+          "Textured fabric",
+          "Polished wood and brass"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Mughal-inspired with a modern twist",
+        "traditional_elements": [
+          "Carved wooden panels",
+          "Brass accents"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture designs",
+          "Open shelving"
+        ],
+        "space_utilization": "Efficient use of floor space with wall-mounted storage and open seating",
+        "cultural_significance": "The use of brass and carved wood reflects a blend of Mughal and modern Indian design, symbolizing prosperity and traditional craftsmanship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space showcases a modern interpretation of traditional Indian design elements, featuring carved wooden panels and brass accents. The room is organized with efficient storage solutions on the walls and contemporary furniture, blending seamlessly with the Mughal-inspired aesthetics. The use of teak, brass, and marble reflects the cultural significance of traditional materials in modern Indian interiors, emphasizing luxury and craftsmanship.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Interior",
+        "Contemporary Living Room",
+        "Mughal Style",
+        "Brass Accents",
+        "Carved Wood",
+        "Marble Flooring"
+      ],
+      "budget_indicator": "Mid to high-end",
+      "space_type": "Living Room",
+      "functionality": "Used for relaxation, entertainment, and social gatherings",
+      "indian_specific": "Use of traditional materials and design elements in a modern context"
+    }
+  },
+  "cached_at": 1753459789083,
+  "cache_key": "7b92db17d8fb27061fd61eb5d2193c4b"
+}

@@ -1,0 +1,95 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.21%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_056",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Blue and white wall cabinets",
+        "An L-shaped countertop with black granite finish",
+        "Under-cabinet lighting",
+        "Modern faucet",
+        "Window with bars"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen countertop",
+          "features": [
+            "L-shaped design",
+            "Black granite finish",
+            "Integrated sink"
+          ],
+          "materials": [
+            "Granite",
+            "Metallic undercountertop supports"
+          ],
+          "finish": "High-gloss black granite"
+        },
+        {
+          "type": "Wall cabinets",
+          "features": [
+            "Blue cabinets with white accents",
+            "Modern handles",
+            "Recessed lighting"
+          ],
+          "materials": [
+            "Wood or engineered wood",
+            "Metallic handles"
+          ],
+          "finish": "Glossy blue and white"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Black",
+          "Gray"
+        ],
+        "materials": [
+          "Granite",
+          "Metal",
+          "Wood/Engineered Wood"
+        ],
+        "lighting": "Recessed under-cabinet lighting and ceiling lights",
+        "texture": "Smooth and glossy finishes on cabinets and countertops"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly Indian regional style, but modern interpretations of Indian design",
+        "traditional_elements": [
+          "Modern interpretations of traditional Indian color schemes (blue and white)",
+          "Integration of metallic and stone materials"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials like granite and white acrylic finishes"
+        ],
+        "space_utilization": "Efficient use of space with L-shaped countertop design",
+        "cultural_significance": "Modern adaptation of Indian color palettes and material preferences"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian kitchen with a focus on a sleek, contemporary design. The space features blue and white wall cabinets with glossy finishes, an L-shaped black granite countertop, and modern under-cabinet lighting. The overall aesthetic combines traditional Indian color influences with modern materials and design elements.",
+      "metadata": {
+        "tags": [
+          "Modern Kitchen",
+          "Indian Color Scheme",
+          "Blue and White",
+          "Granite Countertop",
+          "Efficient Space Utilization"
+        ],
+        "budget_indicator": "Moderate due to use of modern materials like granite and metal",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Modern adaptation of traditional Indian color and material preferences"
+      }
+    }
+  },
+  "cached_at": 1753446926888,
+  "cache_key": "da0c4ed0fbaed5efc4d68067c202e76c"
+}

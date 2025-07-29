@@ -1,0 +1,539 @@
+{
+  "processed_at": "2025-07-18T18:49:27.351Z",
+  "total_processed": 9,
+  "errors": [
+    {
+      "image_id": "Screenshot_2024-07-11_at_5_54_38_PM",
+      "error": "Failed to analyze image: Failed to perform inference: "
+    }
+  ],
+  "results": [
+    {
+      "image_id": "image_cropper_1729176750910",
+      "ai_generated_tags": {
+        "room": "Bedroom",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Platform Bed",
+          "Built-in Storage Units"
+        ],
+        "objects": [
+          {
+            "type": "Platform Bed",
+            "features": [
+              "Large",
+              "Low Profile",
+              "Compact Storage"
+            ],
+            "materials": [
+              "MDF",
+              "Laminate"
+            ],
+            "finish": "Laminate"
+          },
+          {
+            "type": "Built-in Storage Units",
+            "features": [
+              "Wall-mounted",
+              "Cabinet-style",
+              "Space-saving"
+            ],
+            "materials": [
+              "MDF",
+              "Laminate"
+            ],
+            "finish": "Laminate"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Brown",
+            "Light Gray"
+          ],
+          "materials": [
+            "White Laminate",
+            "Brown Wood"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "North Indian",
+          "traditional_elements": [
+            "Toran (not visible)",
+            "Rangoli (not visible)",
+            "Brass Items (not visible)"
+          ],
+          "modern_adaptations": [
+            "Minimalist Design",
+            "Built-in Storage Solutions"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Modern adaptations of traditional furniture, emphasizing functionality and space optimization"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This bedroom showcases a modern interpretation of traditional Indian design principles, focusing on functionality and space optimization. The platform bed with built-in storage units is a hallmark of contemporary Indian interiors, reflecting a desire for efficient use of limited space. The use of laminate for both the bed and storage units is common in modern Indian homes, offering durability and ease of maintenance. The color palette of white and brown is widely used in Indian interiors, symbolizing purity and tradition. The natural daylight from the window enhances the brightness of the room, creating a welcoming atmosphere.",
+        "metadata": {
+          "tags": [
+            "Indian Interior Design",
+            "Modern Indian Style",
+            "Compact Bedroom",
+            "Built-in Storage",
+            "Platform Bed"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "1BHK",
+          "functionality": "Relaxation",
+          "indian_specific": "Modular Storage Solutions"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/671/image_cropper_1729176750910.jpg"
+    },
+    {
+      "image_id": "image_cropper_A3317CE1-0548-4495-97DB-A5C5408F36BB-26705-00002055437EC03B",
+      "ai_generated_tags": {
+        "room": "Kitchen",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Marble Countertops",
+          "Modular Cabinets",
+          "Open Shelving"
+        ],
+        "objects": [
+          {
+            "type": "Island Counter",
+            "features": [
+              "Integrated Sink",
+              "Stainless Steel Finish"
+            ],
+            "materials": [
+              "Marble",
+              "Stainless Steel"
+            ],
+            "finish": "Polished"
+          },
+          {
+            "type": "Cabinets",
+            "features": [
+              "Modular Design",
+              "Integrated Hardware"
+            ],
+            "materials": [
+              "Solid Wood",
+              "Marble"
+            ],
+            "finish": "Matte"
+          },
+          {
+            "type": "Appliances",
+            "features": [
+              "Built-in Range Hood",
+              "Gas Stove"
+            ],
+            "materials": [
+              "Black",
+              "Metal"
+            ],
+            "finish": "Metallic"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Beige",
+            "White",
+            "Brown"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Polished"
+        },
+        "indian_context": {
+          "regional_style": "North Indian",
+          "traditional_elements": [
+            "None visible"
+          ],
+          "modern_adaptations": [
+            "Modern adaptations of traditional elements such as modular cabinets and clean lines"
+          ],
+          "space_utilization": "Spacious",
+          "cultural_significance": "The design reflects a minimalist approach to modern Indian kitchens, focusing on functionality and aesthetic appeal rather than traditional cultural elements."
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This kitchen showcases a modern Indian interior design approach, characterized by sleek, minimalist cabinetry and open shelving. The use of marble countertops and backsplash adds a touch of elegance, while the built-in range hood and stainless steel appliances provide a functional and contemporary look. The overall design is spacious and well-lit, reflecting a balance between practicality and style. This kitchen does not prominently feature traditional Indian elements, which is common in more contemporary urban settings, but it does incorporate modern adaptations of regional design trends.",
+      "metadata": {
+        "tags": [
+          "modern kitchen",
+          "minimalist design",
+          "marble countertops",
+          "modular cabinets",
+          "spacious kitchen"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Apartment",
+        "functionality": "Work",
+        "indian_specific": "No traditional Indian features prominently featured"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1350/image_cropper_A3317CE1-0548-4495-97DB-A5C5408F36BB-26705-00002055437EC03B.jpg"
+    },
+    {
+      "image_id": "image_cropper_1726674520405",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Glass Partition",
+          "Mosaic Tiles",
+          "Decorative Wall Panels"
+        ],
+        "objects": [
+          {
+            "type": "Wall Art",
+            "features": [
+              "Abstract Artwork"
+            ],
+            "materials": [
+              "Painted Glass"
+            ],
+            "finish": "Painted"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Gold",
+            "Pink"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Abstract Artwork"
+          ],
+          "modern_adaptations": [
+            "Glass Partition, Mosaic Tiles"
+          ],
+          "space_utilization": "Spacious",
+          "cultural_significance": "Abstract Artwork - Modern Expression"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "The image showcases a modern Indian living room with a glass partition and mosaic tiles. The space features abstract artwork on the wall, incorporating a mix of white, gold, and pink colors. The smooth texture of the materials and the use of glass and metal highlight a contemporary design approach. The inclusion of abstract art signifies a modern expression within the traditional South Indian context, reflecting a blend of tradition and innovation.",
+        "metadata": {
+          "tags": [
+            "Modern Indian",
+            "South Indian",
+            "Abstract Artwork",
+            "Glass Partition"
+          ],
+          "budget_indicator": "Mid-Range",
+          "space_type": "Living Room",
+          "functionality": "Relaxation",
+          "indian_specific": "Glass Partition, Mosaic Tiles"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/155/image_cropper_1726674520405.jpg"
+    },
+    {
+      "image_id": "image_cropper_1729825012625",
+      "raw_response": "{\n  \"image_id\": \"image_cropper_1729825012625\",\n  \"ai_generated_tags\": {\n    \"room\": \"Entrance Hall\",\n    \"theme\": \"Contemporary Indian\",\n    \"primary_features\": [\"Wrought iron grill\", \"Marble flooring\", \"Embedded lighting\"]\n  },\n  \"objects\": [\n    {\n      \"type\": \"Wrought iron grill\",\n      \"features\": [\"Decorative\", \"Architectural\"]\n    },\n    {\n      \"type\": \"Marble flooring\",\n      \"features\": [\"Smooth\", \"Elegant\"]\n    },\n    {\n      \"type\": \"Embedded lighting\",\n      \"features\": [\"Contemporary\", \"Functional\"]\n    }\n  ],\n  \"visual_attributes\": {\n    \"colors\": [\"Neutral\"},\n    \"materials\": [\"Marble\", \"Wrought iron\"],\n    \"lighting\": \"LED strips\",\n    \"texture\": \"Smooth\"\n  },\n  \"indian_context\": {\n    \"regional_style\": \"South Indian\",\n    \"traditional_elements\": [\"Wrought iron grill\"],\n    \"modern_adaptations\": [\"Embedded lighting\"],\n    \"space_utilization\": \"Compact\",\n    \"cultural_significance\": \"Cultural significance of using wrought iron grills in traditional Indian architecture\"\n  },\n  \"confidence_scores\": {\n    \"room\": 0.95,\n    \"theme\": 0.87,\n    \"primary_features\": 0.89,\n    \"objects\": 0.92,\n    \"indian_context\": 0.90\n  },\n  \"description\": \"This entrance hall exemplifies a contemporary take on traditional Indian design, featuring a wrought iron grill that echoes traditional South Indian architectural elements. The smooth marble flooring adds elegance, while embedded lighting provides functional and aesthetic illumination. The compact space utilization is evident, catering to the needs of modern living while preserving cultural significance.\",\n  \"metadata\": {\n    \"tags\": [\"Indian interior design\", \"Contemporary Indian\", \"Marble flooring\", \"Wrought iron grill\", \"Embedded lighting\"],\n    \"budget_indicator\": \"Mid-range\",\n    \"space_type\": \"Entrance Hall\",\n    \"functionality\": \"Welcome area\",\n    \"indian_specific\": \"Traditional elements\"\n  }\n}",
+      "error": "Failed to parse JSON response",
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1541/image_cropper_1729825012625.jpg"
+    },
+    {
+      "image_id": "image_cropper_1729136638145",
+      "ai_generated_tags": {
+        "room": "Home Office",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Built-in Desk",
+          "Wall Mounted Shelves",
+          "Wall Drawers"
+        ]
+      },
+      "objects": [
+        {
+          "type": "Desk",
+          "features": [
+            "Built-in Storage",
+            "Wood Texture",
+            "Sleek Design"
+          ],
+          "materials": [
+            "Solid Wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Shelving Unit",
+          "features": [
+            "Wall Mount",
+            "Open Storage",
+            "Storage Compartment"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Laminate"
+        },
+        {
+          "type": "Wall Drawers",
+          "features": [
+            "Integrated Storage",
+            "Modular Design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light Brown",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Plastic"
+        ],
+        "lighting": "Natural Daylight",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Minimalistic Design"
+        ],
+        "modern_adaptations": [
+          "Integration of modern and traditional elements"
+        ],
+        "space_utilization": "Compact",
+        "cultural_significance": "Space optimization for practicality and functionality"
+      },
+      "confidence_scores": {
+        "room": 0.9,
+        "theme": 0.85,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.87
+      },
+      "description": "This image showcases a modern Indian home office setup with a sleek, built-in desk and wall-mounted shelving unit. The design focuses on maximizing space and functionality, incorporating traditional Indian elements like the wooden finish and minimalistic design. The use of built-in drawers and shelves not only optimizes storage but also contributes to a clean, organized appearance. The natural light from the window enhances the brightness of the room, making it conducive for work or study. The color scheme of white and light brown wood creates a calm and inviting atmosphere, ideal for a home office environment.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Home Office",
+          "Compact Space",
+          "Wall Storage"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Apartment",
+        "functionality": "Work",
+        "indian_specific": "Modular furniture and integration of storage solutions"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/611/image_cropper_1729136638145.jpg"
+    },
+    {
+      "image_id": "image_cropper_1728635170902",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Comfortable Blue Sofa",
+          "Decorative Hanging Flowers",
+          "Wall Art"
+        ],
+        "objects": [
+          {
+            "type": "Sofa",
+            "features": [
+              "Comfortable and spacious",
+              "Soft upholstery"
+            ],
+            "materials": [
+              "Fabric"
+            ],
+            "finish": "Fabric"
+          },
+          {
+            "type": "Wall Art",
+            "features": [
+              "Floral design"
+            ],
+            "materials": [
+              "Painted on wall"
+            ],
+            "finish": "Printed"
+          },
+          {
+            "type": "Hanging Flowers",
+            "features": [
+              "Decorative",
+              "Artificial flowers"
+            ],
+            "materials": [
+              "Fabric, floral foam"
+            ],
+            "finish": "Fabric"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "Blue",
+            "Brown",
+            "White"
+          ],
+          "materials": [
+            "Fabric",
+            "Painted Wall"
+          ],
+          "lighting": "Ambient lighting",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "South Indian",
+          "traditional_elements": [
+            "Mandir Unit"
+          ],
+          "modern_adaptations": [
+            "Contemporary upholstery and wall decor"
+          ],
+          "space_utilization": "Compact",
+          "cultural_significance": "Cultural significance of design elements"
+        },
+        "confidence_scores": {
+          "room": 0.95,
+          "theme": 0.87,
+          "primary_features": 0.89,
+          "objects": 0.92,
+          "indian_context": 0.9
+        },
+        "description": "This image showcases a modern take on South Indian interior design in a living room setting. The comfortable blue sofa serves as the focal point, complemented by wall art and decorative hanging flowers, creating a cozy and inviting atmosphere. The use of blue and brown colors, along with the smooth texture of the fabric and painted wall, reflects regional influences. The compact space utilization highlights the efficiency and style of modern Indian homes, where every element is carefully chosen to maximize comfort and aesthetics.",
+        "metadata": {
+          "tags": [
+            "living room",
+            "modern indian",
+            "contemporary design",
+            "south indian"
+          ],
+          "budget_indicator": "Mid-range",
+          "space_type": "1BHK",
+          "functionality": "Relaxation",
+          "indian_specific": "Comfortable sofa, wall art, hanging flowers"
+        }
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/454/image_cropper_1728635170902.jpg"
+    },
+    {
+      "image_id": "image_cropper_1727029267016",
+      "raw_response": "```json\n{\n  \"image_id\": \"image_cropper_1727029267016\",\n  \"ai_generated_tags\": {\n    \"room\": \"Staircase\",\n    \"theme\": \"Modern Indian\",\n    \"primary_features\": [\"Staircase\", \"Corrugated metal wall\", \"Floor tiles\"],\n    \"objects\": [\n      {\n        \"type\": \"Staircase\",\n        \"features\": [\"Rustic design\", \"Metal handrail\", \"Painted green steps\"],\n        \"materials\": [\"Metal\", \"Paint\"],\n        \"finish\": \"Painted\"\n      },\n      {\n        \"type\": \"Corrugated metal wall\",\n        \"features\": [\"Textured surface\", \"Metallic look\"],\n        \"materials\": [\"Metal\"],\n        \"finish\": \"Textured\"\n      },\n      {\n        \"type\": \"Floor tiles\",\n        \"features\": [\"Marble-like pattern\", \"Smooth surface\"],\n        \"materials\": [\"Marble\"],\n        \"finish\": \"Marble-like\"\n      }\n    ],\n    \"visual_attributes\": {\n      \"colors\": [\"Green\", \"White\", \"Gray\"],\n      \"materials\": [\"Metal\", \"Marble\"],\n      \"lighting\": \"Natural daylight\",\n      \"texture\": \"Smooth\"\n    },\n    \"indian_context\": {\n      \"regional_style\": \"Modern Indian\",\n      \"traditional_elements\": [],\n      \"modern_adaptations\": [\"Textured metal, smooth marble-like tiles\"],\n      \"space_utilization\": \"Compact\",\n      \"cultural_significance\": \"Cultural significance not applicable as it's a staircase\"\n    },\n    \"confidence_scores\": {\n      \"room\": 0.85,\n      \"theme\": 0.90,\n      \"primary_features\": 0.92,\n      \"objects\": 0.88,\n      \"indian_context\": 0.80\n    },\n    \"description\": \"This image showcases a modern Indian staircase design. The staircase features a rustic, painted green design with metal handrails, highlighting a contemporary adaptation of traditional Indian aesthetic elements. The adjacent wall is covered in textured, metallic corrugated metal, adding a unique contrast. The floor is covered in marble-like tiles, providing a smooth and modern finish. The space is compact, typical of many Indian homes, optimizing the use of vertical space. The lighting appears to be natural daylight, enhancing the clean and modern look of the design.\",\n    \"metadata\": {\n      \"tags\": [\"Staircase\", \"Modern Indian\", \"Compact Design\", \"Textured Metal\", \"Marble-like Tiles\"],\n      \"budget_indicator\": \"Mid-range\",\n      \"space_type\": \"Apartment\",\n      \"functionality\": \"Access and circulation\",\n      \"indian_specific\": \"Compact staircase design\"\n    }\n}\n```",
+      "error": "Failed to parse JSON response",
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/227/image_cropper_1727029267016.jpg"
+    },
+    {
+      "image_id": "image_cropper_1728130413618",
+      "ai_generated_tags": {
+        "room": "Living Room",
+        "theme": "Modern Indian",
+        "primary_features": [
+          "Built-in Media Unit",
+          "Wall-Mounted Display Shelf"
+        ],
+        "objects": [
+          {
+            "type": "Storage Unit",
+            "features": [
+              "Drawers",
+              "Cabinet Doors"
+            ],
+            "materials": [
+              "Laminated Wood",
+              "Glass"
+            ],
+            "finish": "Laminated"
+          }
+        ],
+        "visual_attributes": {
+          "colors": [
+            "White",
+            "Black",
+            "Brown"
+          ],
+          "materials": [
+            "Laminated Wood",
+            "Glass"
+          ],
+          "lighting": "Natural Daylight",
+          "texture": "Smooth"
+        },
+        "indian_context": {
+          "regional_style": "North Indian",
+          "traditional_elements": [
+            "Toran"
+          ],
+          "modern_adaptations": [
+            "Modern adaptation of traditional Toran with a minimalist design"
+          ],
+          "space_utilization": "Spacious",
+          "cultural_significance": "The presence of the Toran signifies cultural heritage and is often used as a decorative element to welcome good fortune and prosperity in North Indian homes."
+        }
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern interpretation of a North Indian living room, featuring a built-in media unit with a storage system and a wall-mounted display shelf. The design utilizes white and black laminated wood with glass elements, creating a clean and contemporary look. The integration of a minimalist Toran in the unit adds a touch of traditional North Indian cultural significance, blending modern aesthetics with cultural heritage. The space is designed to be spacious, optimizing the use of the available area with modular furniture that maximizes functionality and storage. The natural daylight enhances the brightness and open feel of the room, making it ideal for relaxation and entertainment.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "North Indian",
+          "Living Room",
+          "Built-in Media Unit",
+          "Toran"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "1BHK",
+        "functionality": "Entertainment",
+        "indian_specific": "Modular storage solutions"
+      },
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1728130413618.jpg"
+    },
+    {
+      "image_id": "image_cropper_1726820279935",
+      "raw_response": "```json\n{\n  \"image_id\": \"image_cropper_1726820279935\",\n  \"ai_generated_tags\": {\n    \"room\": \"Bedroom\",\n    \"theme\": \"Modern Indian\",\n    \"primary_features\": [\"Sliding Wardrobe Doors\", \"Glass Door Panels\", \"Dark Frame\"],\n    \"objects\": [\n      {\n        \"type\": \"Sliding Wardrobe Doors\",\n        \"features\": [\"Glass Door Panels\", \"Dark Frame\", \"Flush Design\"],\n        \"materials\": [\"Glass\", \"Metal Frame\"],\n        \"finish\": \"Polished\"\n      }\n    ],\n    \"visual_attributes\": {\n      \"colors\": [\"Dark Gray\", \"Yellow\", \"White\"],\n      \"materials\": [\"Glass\", \"Metal\"],\n      \"lighting\": \"Natural Daylight\",\n      \"texture\": \"Smooth\"\n    },\n    \"indian_context\": {\n      \"regional_style\": \"Modern Indian\",\n      \"traditional_elements\": [\"Not applicable\"],\n      \"modern_adaptations\": [\"Glass Door Panels\"],\n      \"space_utilization\": \"Compact\",\n      \"cultural_significance\": \"Not applicable\"\n    },\n    \"confidence_scores\": {\n      \"room\": 0.95,\n      \"theme\": 0.87,\n      \"primary_features\": 0.89,\n      \"objects\": 0.92,\n      \"indian_context\": 0.90\n    },\n    \"description\": \"The image showcases a modern Indian bedroom with a sleek, contemporary design. The sliding wardrobe doors feature glass panels with a dark metal frame, creating a minimalist yet functional look. The color scheme includes dark gray and yellow, with white accents, reflecting a contemporary aesthetic. The sliding doors optimize the space by maximizing storage while maintaining a clean and uncluttered appearance. This design is typical of modern Indian interior design, which often incorporates clean lines, neutral colors, and glass materials to create a modern, yet comfortable atmosphere.\",\n    \"metadata\": {\n      \"tags\": [\"Modern Indian\", \"Bedroom\", \"Sliding Wardrobe\", \"Glass Doors\", \"Compact Space\"],\n      \"budget_indicator\": \"Mid-range\",\n      \"space_type\": \"Apartment\",\n      \"functionality\": \"Relaxation\",\n      \"indian_specific\": \"Modern Adaptations\"\n    }\n}\n```",
+      "error": "Failed to parse JSON response",
+      "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/194/image_cropper_1726820279935.jpg"
+    }
+  ]
+}

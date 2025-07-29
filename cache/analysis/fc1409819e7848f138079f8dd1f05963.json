@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.32%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_060",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Large wardrobe with carved designs",
+        "TV unit with storage",
+        "Om and Swastika symbols"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "White with intricate carvings",
+            "Gold handles",
+            "Storage space"
+          ],
+          "materials": [
+            "MDF, possibly with a metallic finish"
+          ],
+          "finish": "Glossy finish with gold highlights"
+        },
+        {
+          "type": "TV Unit",
+          "features": [
+            "Dark wood with white panels",
+            "Open and closed storage compartments",
+            "Modern design"
+          ],
+          "materials": [
+            "Dark wood, white MDF"
+          ],
+          "finish": "Glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark brown",
+          "Gold"
+        ],
+        "materials": [
+          "MDF, wood, glass"
+        ],
+        "lighting": "Natural light from a window (not visible in the image)",
+        "texture": "Smooth finishes with some carved textures"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but modern interpretations",
+        "traditional_elements": [
+          "Om and Swastika symbols, carved designs"
+        ],
+        "modern_adaptations": [
+          "Minimalist modern style with traditional motifs"
+        ],
+        "space_utilization": "Efficient use of space with storage and decorative elements",
+        "cultural_significance": "Symbolic elements like Om and Swastika indicate spiritual and cultural significance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern living room with a focus on Indian design elements. The wardrobe features intricate carvings and symbolic designs such as Om and Swastika, indicative of traditional Indian spirituality. The TV unit is a blend of modern minimalism with storage solutions, incorporating dark wood and white MDF. The overall design is clean and contemporary with a nod to traditional Indian aesthetics.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Living Room",
+        "Wardrobe",
+        "TV Unit",
+        "Om Symbol",
+        "Swastika Symbol"
+      ],
+      "budget_indicator": "Mid-range, due to the use of MDF and dark wood",
+      "space_type": "Residential Living Room",
+      "functionality": "Entertainment and storage",
+      "indian_specific": "Intricate carvings and spiritual symbols"
+    }
+  },
+  "cached_at": 1753447011165,
+  "cache_key": "fc1409819e7848f138079f8dd1f05963"
+}

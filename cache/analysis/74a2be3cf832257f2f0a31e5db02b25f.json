@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/618/image_cropper_1729140780842.jpg",
+  "analysis": {
+    "image_id": "img_238",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "White walls",
+        "Light-colored wooden floor",
+        "Modern minimalist furniture",
+        "Open shelving unit",
+        "Wall-mounted air conditioner"
+      ],
+      "objects": [
+        {
+          "type": "Wall-mounted air conditioner",
+          "features": [
+            "Rectangular design",
+            "Built into the wall"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        },
+        {
+          "type": "Open shelving unit",
+          "features": [
+            "Built-in storage",
+            "Light-colored wooden finish",
+            "Modern design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Light wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light brown",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from windows, artificial light from ceiling",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly regional",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of modern furniture and materials",
+          "Integrating traditional elements in a minimalist way"
+        ],
+        "space_utilization": "Minimalist design with an open shelving unit for storage and a wall-mounted air conditioner",
+        "cultural_significance": "Modern Indian design reflecting contemporary lifestyle with a touch of traditional Indian aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern Indian living room with a minimalist design. The room features white walls, a light-colored wooden floor, and a built-in shelving unit for storage. The wall-mounted air conditioner adds a modern touch. The space is designed with open shelving and simple, clean lines, reflecting a contemporary Indian design approach that integrates traditional elements in a modern way.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Minimalist Design",
+          "Living Room",
+          "Wall-Mounted AC"
+        ],
+        "budget_indicator": "Moderate, with the use of quality materials like wood and metal for the air conditioner",
+        "space_type": "Residential",
+        "functionality": "Living Room",
+        "indian_specific": "Modern adaptation of traditional Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1753459567292,
+  "cache_key": "74a2be3cf832257f2f0a31e5db02b25f"
+}

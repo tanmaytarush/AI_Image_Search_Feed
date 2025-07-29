@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.26%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_037",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern",
+      "primary_features": [
+        "Wall-mounted wardrobe with built-in shelves and drawers",
+        "Gray and white color scheme",
+        "Minimalist design"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Wall-mounted with sliding doors",
+            "Integrated shelves and drawers"
+          ],
+          "materials": [
+            "MDF with laminate finish"
+          ],
+          "finish": "Smooth and glossy laminate finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Gray",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "MDF",
+          "Laminate"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth and glossy surface"
+      },
+      "indian_context": {
+        "regional_style": "Modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of traditional storage solutions with modern aesthetics"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Simplistic and functional design, reflecting contemporary Indian interior trends"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image shows a modern bedroom with a wall-mounted wardrobe featuring sliding doors and integrated shelves and drawers. The color scheme is a combination of gray and white, creating a clean and minimalistic look. The wardrobe is made of MDF with a glossy laminate finish. There are no traditional Indian elements present, as the design is contemporary and functional.",
+    "metadata": {
+      "tags": [
+        "Modern Bedroom",
+        "Wall-Mounted Wardrobe",
+        "Gray and White Scheme",
+        "Glossy Finish",
+        "Minimalist Design"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential Bedroom",
+      "functionality": "Storage and organization",
+      "indian_specific": "No traditional Indian elements visible, focus on modern design"
+    }
+  },
+  "cached_at": 1753446534515,
+  "cache_key": "7499faa1e181167cb800126fe4054520"
+}

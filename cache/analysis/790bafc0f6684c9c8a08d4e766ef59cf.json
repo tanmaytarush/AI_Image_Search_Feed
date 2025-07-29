@@ -1,0 +1,78 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1193/image_cropper_1729744049220.jpg",
+  "analysis": {
+    "image_id": "img_145",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Cabinetry with glass doors",
+        "Integrated sink and countertop",
+        "Modular shelving"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "White matte finish",
+            "Glass doors with metal handles",
+            "Integrated countertops and sink"
+          ],
+          "materials": [
+            "White painted wood",
+            "Metal for handles",
+            "Composite or solid surface for countertops"
+          ],
+          "finish": "Matte white paint on wooden cabinets, metal hardware, and smooth countertop"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Black",
+          "Blue"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Composite/solid surface"
+        ],
+        "lighting": "Natural light from a window",
+        "texture": "Smooth surfaces on cabinets and countertops, matte finish on cabinets"
+      },
+      "indian_context": {
+        "regional_style": "Not significantly evident",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary design with clean lines and modern materials"
+        ],
+        "space_utilization": "Efficient use of space with built-in units",
+        "cultural_significance": "No culturally significant elements observed"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern kitchen with clean lines and contemporary design elements. The cabinets feature a white matte finish with glass doors and metal handles. The countertops and sink are integrated into a single unit, and there is modular shelving for storage. The overall design is minimalistic and functional, with a focus on practicality and aesthetics.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Contemporary",
+          "White cabinetry",
+          "Integrated sink",
+          "Modular shelving"
+        ],
+        "budget_indicator": "Moderate, with materials like painted wood and metal handles that are cost-effective",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is food preparation and storage",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753449156519,
+  "cache_key": "790bafc0f6684c9c8a08d4e766ef59cf"
+}

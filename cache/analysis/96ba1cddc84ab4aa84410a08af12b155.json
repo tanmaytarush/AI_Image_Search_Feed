@@ -1,0 +1,106 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/134/image_cropper_F222D4CA-92EE-42B6-8121-CF5ABBEDDD7F-2931-00000128C27C1231.jpg",
+  "analysis": {
+    "image_id": "img_466",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Queen-sized bed",
+        "Carpeted flooring",
+        "Wall-mounted mirror with wooden frame",
+        "Built-in wardrobes"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Queen-sized",
+            "White bedding",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Smooth, polished wood finish"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Built-in",
+            "Shelving and hanging space"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Same as bed frame"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Wall-mounted",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light through door, artificial light from ceiling fixtures",
+        "texture": [
+          "Smooth wood",
+          "Soft fabric",
+          "Glass panel"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not distinct regional style visible",
+        "traditional_elements": [
+          "Carved elements on mirror frame"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design with traditional materials"
+        ],
+        "space_utilization": "Efficient use of built-in wardrobes and carpeted flooring for comfort",
+        "cultural_significance": "Traditional elements like the carved mirror frame add a cultural touch to the modern bedroom design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This contemporary bedroom features a queen-sized bed with a wooden frame, complemented by built-in wardrobes and a wall-mounted mirror with a carved wooden frame. The space utilizes modern elements like glass and metal, while incorporating traditional Indian design touches. The color palette is a harmonious blend of white, brown, and beige, creating a calm and inviting atmosphere. The use of natural light and artificial ceiling fixtures ensures adequate lighting.",
+      "metadata": {
+        "tags": [
+          "Contemporary Bedroom",
+          "Indian Design Elements",
+          "Carved Wood Frame",
+          "Built-in Wardrobes",
+          "Queen-sized Bed"
+        ],
+        "budget_indicator": "Moderate, with visible use of wood and fabric for the bed, and glass for the mirror",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Carved wood frame on the mirror"
+      }
+    }
+  },
+  "cached_at": 1753462352124,
+  "cache_key": "96ba1cddc84ab4aa84410a08af12b155"
+}

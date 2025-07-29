@@ -1,0 +1,110 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.46.55%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_070",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Modern Minimalist with Indian Influences",
+      "primary_features": [
+        "Circular mirror",
+        "Statue of Buddha",
+        "Green shoe cabinet",
+        "Artwork on wall"
+      ],
+      "objects": [
+        {
+          "type": "Circular mirror",
+          "features": [
+            "Gold rim",
+            "Sleek design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Statue of Buddha",
+          "features": [
+            "Seated posture",
+            "Gold finish"
+          ],
+          "materials": [
+            "Bronze"
+          ],
+          "finish": "Rounded and smooth"
+        },
+        {
+          "type": "Green shoe cabinet",
+          "features": [
+            "Modern design",
+            "Gold accents",
+            "Shoe storage"
+          ],
+          "materials": [
+            "Painted wood, metal"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Artwork",
+          "features": [
+            "Abstract designs",
+            "Neutral color palette"
+          ],
+          "materials": [
+            "Canvas"
+          ],
+          "finish": "Matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green, white, gold, beige, brown, black, gray"
+        ],
+        "materials": [
+          "Painted wood, metal, brass, marble, canvas"
+        ],
+        "lighting": "Natural light from the environment, accentuated by ceiling lights",
+        "texture": [
+          "Smooth, matte, gloss finish"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Mumbai Contemporary",
+        "traditional_elements": [
+          "Statue of Buddha"
+        ],
+        "modern_adaptations": [
+          "Circular mirror, modern shoe cabinet"
+        ],
+        "space_utilization": "Efficient use of vertical space for shoe storage",
+        "cultural_significance": "Statue of Buddha indicates a nod to Indian spirituality and cultural heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern minimalist foyer with Indian cultural elements. The focus is on a circular mirror with a gold rim, a statue of Buddha, and a green shoe cabinet with gold accents. The walls are adorned with abstract artwork, and the space is illuminated by natural light and ceiling-mounted spotlights. The use of green and white creates a fresh and vibrant atmosphere, while the gold accents add a touch of luxury. The space is a blend of modern and traditional Indian design, reflecting a contemporary interpretation of Indian cultural motifs.",
+    "metadata": {
+      "tags": [
+        "Foyer",
+        "Modern Minimalist",
+        "Indian Design",
+        "Circular Mirror",
+        "Buddha Statue",
+        "Green Shoe Cabinet"
+      ],
+      "budget_indicator": "Moderate to High, given the materials and finishes used",
+      "space_type": "Residential",
+      "functionality": "Entrance, storage, and decorative space",
+      "indian_specific": "Circular mirror, Buddha statue, traditional furniture style"
+    }
+  },
+  "cached_at": 1753447264454,
+  "cache_key": "ccdf56ecab910ecfe264f905ceaeccfc"
+}

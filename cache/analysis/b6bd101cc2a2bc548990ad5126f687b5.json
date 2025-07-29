@@ -1,0 +1,83 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/890/image_cropper_1729361592410.jpg",
+  "analysis": {
+    "image_id": "img_394",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Modern wardrobe with sliding doors",
+        "Marble flooring",
+        "Bunk bed"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe",
+          "features": [
+            "Sliding door design",
+            "Ivory color with blue accents"
+          ],
+          "materials": [
+            "Wooden frame, likely teak, with painted finish"
+          ],
+          "finish": "Smooth, glossy paint finish"
+        },
+        {
+          "type": "bunk bed",
+          "features": [
+            "Stacked bed system",
+            "Simple design"
+          ],
+          "materials": [
+            "Wooden frame, likely teak, with painted finish"
+          ],
+          "finish": "Smooth, glossy paint finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Ivory, blue, pink, black, white"
+        ],
+        "materials": [
+          "Wood, marble, painted wood"
+        ],
+        "lighting": "Soft, ambient lighting from natural light source",
+        "texture": "Smooth, polished textures in wood and marble"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian with a touch of traditional influences",
+        "traditional_elements": [
+          "Carved elements on wardrobe"
+        ],
+        "modern_adaptations": [
+          "Sliding doors, contemporary bunk bed design"
+        ],
+        "space_utilization": "Efficient use of space with bunk bed and wardrobe",
+        "cultural_significance": "The wardrobe and bunk bed reflect a blend of practicality and traditional aesthetics, common in Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern Indian bedroom with a blend of traditional and contemporary elements. The space features a wardrobe with sliding doors in ivory and blue, and a bunk bed with simple design elements. The room incorporates a mix of materials like wood, marble flooring, and painted finishes, reflecting a modern take on traditional Indian design. The lighting is soft and ambient, enhancing the calm and functional aesthetic of the room.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Bedroom",
+          "Wardrobe",
+          "Bunk Bed",
+          "Marble Flooring"
+        ],
+        "budget_indicator": "Mid-range, with modern materials and finishes",
+        "space_type": "Residential",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Carved elements on wardrobe handle traditional influences"
+      }
+    }
+  },
+  "cached_at": 1753461367417,
+  "cache_key": "b6bd101cc2a2bc548990ad5126f687b5"
+}

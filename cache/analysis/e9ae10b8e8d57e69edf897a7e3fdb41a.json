@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/65/image_cropper_1726496452573.jpg",
+  "analysis": {
+    "image_id": "img_351",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Indian Contemporary",
+      "primary_features": [
+        "Wooden shelves",
+        "Carved mirror",
+        "Blue and white tiles",
+        "Stone sink"
+      ],
+      "objects": [
+        {
+          "type": "Wooden shelves",
+          "features": [
+            "Horizontal and vertical arrangement",
+            "Carved design"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Carved mirror",
+          "features": [
+            "Rectangular shape",
+            "Vertical hanging"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Carved wood finish"
+        },
+        {
+          "type": "Stone sink",
+          "features": [
+            "Round design",
+            "Elegant finish"
+          ],
+          "materials": [
+            "Marble or granite"
+          ],
+          "finish": "Polished surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Brown",
+          "Beige"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Granite",
+          "Metal"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth tiles, polished stone, carved wood"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Carved wood mirror",
+          "Stone sink"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design",
+          "Blue and white tiles"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves",
+        "cultural_significance": "Use of carved wood and stone elements symbolizes traditional craftsmanship and reverence for natural materials"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bathroom showcases a blend of traditional Indian design elements with a modern touch. The use of teak wood for shelves and a carved mirror reflects Northern Indian regional style, while the blue and white tiled walls and stone sink add a contemporary feel. The efficient use of vertical space and natural light emphasizes the room's functionality and cultural significance in using natural and traditional materials.",
+    "metadata": {
+      "tags": [
+        "Indian Bathroom",
+        "Teak Wood",
+        "Carved Mirror",
+        "Blue and White Tiles",
+        "Stone Sink"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Private Bathroom",
+      "functionality": "Personal hygiene and relaxation",
+      "indian_specific": "Traditional wooden and stone elements"
+    }
+  },
+  "cached_at": 1753460774024,
+  "cache_key": "e9ae10b8e8d57e69edf897a7e3fdb41a"
+}

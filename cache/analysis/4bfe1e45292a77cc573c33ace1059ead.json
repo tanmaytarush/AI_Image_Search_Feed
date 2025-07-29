@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.24%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_026",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Purple cabinetry",
+        "Marble backsplash",
+        "Black appliances",
+        "Open layout"
+      ],
+      "objects": [
+        {
+          "type": "Refrigerator",
+          "features": [
+            "Modern design",
+            "Black finish"
+          ],
+          "materials": [
+            "Metallic"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Kitchen Countertop",
+          "features": [
+            "Black surface",
+            "Integrated with appliances"
+          ],
+          "materials": [
+            "Granite or similar"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Purple",
+          "Black",
+          "White",
+          "Silver"
+        ],
+        "materials": [
+          "Marble",
+          "Granite",
+          "Metallic"
+        ],
+        "lighting": "Bright, possibly overhead lighting",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style visible, but elements of traditional Indian design are incorporated",
+        "traditional_elements": [
+          "Carved elements in the frame around the television"
+        ],
+        "modern_adaptations": [
+          "Use of contemporary materials and contemporary furniture style"
+        ],
+        "space_utilization": "Efficient use of space with minimalistic yet functional design",
+        "cultural_significance": "Integration of traditional Indian carving in modern kitchen design, signifying a blend of tradition and modernity"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This kitchen showcases a contemporary Indian fusion design, featuring sleek purple cabinetry and a modern black refrigerator. The marble backsplash adds a touch of traditional Indian aesthetics, while the overall layout and appliances reflect a contemporary style. Traditional elements, such as the carved frame around the television, subtly integrate into the modern design, creating a harmonious blend of traditional and modern Indian interior design.",
+    "metadata": {
+      "tags": [
+        "Indian Interior Design",
+        "Contemporary Kitchen",
+        "Purple Cabinets",
+        "Marble Backsplash",
+        "Modern Appliances"
+      ],
+      "budget_indicator": "Moderate, with high-end materials like marble and modern appliances",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary function is food preparation, with efficient space utilization and modern aesthetics",
+      "indian_specific": "Integration of traditional carving in modern kitchen design"
+    }
+  },
+  "cached_at": 1753446246357,
+  "cache_key": "4bfe1e45292a77cc573c33ace1059ead"
+}

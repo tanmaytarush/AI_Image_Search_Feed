@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1065/image_cropper_1729517741573.jpg",
+  "analysis": {
+    "image_id": "img_246",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Contemporary",
+      "primary_features": [
+        "Exposed beams",
+        "geometric patterned rug",
+        "modular furniture",
+        "indoor plants"
+      ],
+      "objects": [
+        {
+          "type": "Indoor plants",
+          "features": [
+            "Greenery, adding life to the space"
+          ],
+          "materials": [
+            "Not identifiable from image"
+          ],
+          "finish": "Natural, vibrant green"
+        },
+        {
+          "type": "Modular furniture",
+          "features": [
+            "Compact and functional design"
+          ],
+          "materials": [
+            "Not identifiable from image"
+          ],
+          "finish": "Not identifiable from image"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Natural wood tones",
+          "Green plants"
+        ],
+        "materials": [
+          "Exposed wood beams",
+          "Geometric patterned rug",
+          "Indoor plants"
+        ],
+        "lighting": "Artificial lighting, possibly recessed or overhead",
+        "texture": "Natural wood textures, geometric rug patterns"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable, modern interpretation",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Integration of indoor plants, modular furniture"
+        ],
+        "space_utilization": "Efficient and compact, maximizing use of available space",
+        "cultural_significance": "Modern Indian contemporary style, blending traditional materials with contemporary design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space is a modern interpretation of Indian design, featuring geometric patterns, indoor plants, and modular furniture. The natural wood tones and indoor plants add a touch of traditional warmth to the contemporary design. The space is efficiently organized, maximizing the use of available space.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Contemporary Design",
+          "Geometric Patterns",
+          "Indoor Plants",
+          "Compact Furniture"
+        ],
+        "budget_indicator": "Moderate, with potential for higher if using specific modern materials and high-end indoor plants",
+        "space_type": "Living Room",
+        "functionality": "Relaxation and casual living",
+        "indian_specific": "Indoor plants and use of natural wood tones"
+      }
+    }
+  },
+  "cached_at": 1753459627883,
+  "cache_key": "dced43f6ea37549b11b431cb010c22cb"
+}

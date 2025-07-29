@@ -1,0 +1,112 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.08%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_024",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "High ceiling",
+        "Tall wall paneling",
+        "Large window with curtains",
+        "Framed artwork",
+        "Marble accent wall",
+        "Television unit",
+        "L-shaped sofa",
+        "Coffee table"
+      ],
+      "objects": [
+        {
+          "type": "Television unit",
+          "features": [
+            "Curved design",
+            "Built-in shelves"
+          ],
+          "materials": [
+            "Marble",
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "L-shaped sofa",
+          "features": [
+            "Cozy design",
+            "Soft upholstery"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Coffee table",
+          "features": [
+            "Modern design",
+            "Geometric pattern"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "White",
+          "Gold",
+          "Black",
+          "Green",
+          "Brown"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal",
+          "Fabric",
+          "Glass"
+        ],
+        "lighting": "Natural light from large window, warm ambient light from chandelier",
+        "texture": "Smooth surfaces with some textured wall paneling"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Framed artwork"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture with traditional accents"
+        ],
+        "space_utilization": "Open layout with minimal space, maximizing visual impact",
+        "cultural_significance": "Framed artwork with cultural significance, reflecting Indian artistic heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This living room features a contemporary design with modern furniture and sleek finishes, yet it incorporates traditional Indian elements, particularly in the framed artwork, which is a common practice in Indian interior design. The use of marble and gold accents, along with the high ceiling and tall wall paneling, reflect Northern Indian architectural styles. The space is organized with an open layout, maximizing the visual impact of the large window and the grandeur of the room's design. The color palette is soft and harmonious, with beige, white, and gold tones, complemented by the natural green of the plant, creating a calming and luxurious atmosphere.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Contemporary Design",
+        "Northern Indian Style",
+        "Marble Accents",
+        "Gold Tones",
+        "Open Layout",
+        "Framed Artwork"
+      ],
+      "budget_indicator": "Mid to high, as indicated by the use of materials like marble and gold finishes",
+      "space_type": "Residential",
+      "functionality": "Entertainment and relaxation space",
+      "indian_specific": "Framed artwork, use of marble and gold accents, high ceiling and wall paneling"
+    }
+  },
+  "cached_at": 1753446193423,
+  "cache_key": "caf867dc101fb7f3e8c066a04c581d2a"
+}

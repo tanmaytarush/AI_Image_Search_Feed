@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1011/image_cropper_1729479263000.jpg",
+  "analysis": {
+    "image_id": "img_498",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden wardrobe",
+        "Built-in storage",
+        "Neutral color palette"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Modern design",
+            "Cabinet doors with handles",
+            "Mirror on the inside"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown wood, white wall, gray panel, black handles"
+        ],
+        "materials": [
+          "Wood, metal"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth surfaces of wood, glossy finish"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian",
+        "traditional_elements": [
+          "Wardrobe design with storage"
+        ],
+        "modern_adaptations": [
+          "Minimalist and functional design"
+        ],
+        "space_utilization": "Efficient use of wall space for storage",
+        "cultural_significance": "Wardrobe as a symbol of organization and practicality in Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a contemporary Indian bedroom with a focus on practicality and functionality. The modern wardrobe with built-in storage and a glossy finish is a hallmark of efficient space utilization. The neutral color palette and polished wood materials reflect a modern yet traditional Indian aesthetic, with an emphasis on practicality and comfort. The design incorporates elements commonly seen in Maharashtrian homes, where functionality is prioritized in furniture design.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Bedroom",
+          "Wardrobe",
+          "Maharashtrian",
+          "Functional design"
+        ],
+        "budget_indicator": "Moderate, as the materials used are quality but not luxury",
+        "space_type": "Residential",
+        "functionality": "Storage and organization",
+        "indian_specific": "Modern interpretation of traditional storage furniture"
+      }
+    }
+  },
+  "cached_at": 1753462703797,
+  "cache_key": "43462b8a8d796aaf0f8d70c4b18c11ed"
+}

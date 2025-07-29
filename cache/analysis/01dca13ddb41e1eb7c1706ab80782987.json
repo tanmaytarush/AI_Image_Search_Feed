@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.03%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_009",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Fusion",
+      "primary_features": [
+        "Popcorn ceiling with recessed lights",
+        "Marble TV unit",
+        "Wooden accent wall",
+        "Shelving unit with integrated lighting",
+        "Ottoman seating"
+      ],
+      "objects": [
+        {
+          "type": "Marble TV unit",
+          "features": [
+            "White marble surface with gold veining",
+            "Integrated LED lighting beneath"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "High-gloss and polished"
+        },
+        {
+          "type": "Ottoman",
+          "features": [
+            "Beige fabric cover",
+            "Rectangular shape"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth and matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Beige",
+          "Green",
+          "Gold",
+          "Black"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal",
+          "Fabric",
+          "Acrylic"
+        ],
+        "lighting": "Combination of recessed ceiling lights and LED lights within the TV unit",
+        "texture": "Smooth, polished surfaces with a mix of glossy and matte finishes"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influences visible, more of a modern interpretation",
+        "traditional_elements": [
+          "Marble TV unit",
+          "Wooden accent wall"
+        ],
+        "modern_adaptations": [
+          "Integrated lighting",
+          "Minimalist design"
+        ],
+        "space_utilization": "Efficient use of space with integrated storage and lighting",
+        "cultural_significance": "Marble and wood are traditional materials in Indian interiors, symbolizing luxury and durability"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian fusion living room features a sleek, minimalist design with a marble TV unit and wooden accents. The use of white marble with gold veining, combined with the smooth finish of light wood and fabric, creates a luxurious yet contemporary look. The integrated lighting within the TV unit and recessed lights in the ceiling enhance the modern aesthetic while maintaining a traditional Indian emphasis on quality materials.",
+      "metadata": {
+        "tags": [
+          "Modern Indian fusion",
+          "Marble TV unit",
+          "Wooden accent wall",
+          "Minimalist design",
+          "Interior design"
+        ],
+        "budget_indicator": "High, due to the use of marble and polished wood finishes",
+        "space_type": "Living Room",
+        "functionality": "Entertainment and relaxation",
+        "indian_specific": "Use of marble and wood, high-gloss finishes, and integrated lighting"
+      }
+    }
+  },
+  "cached_at": 1753445792487,
+  "cache_key": "01dca13ddb41e1eb7c1706ab80782987"
+}

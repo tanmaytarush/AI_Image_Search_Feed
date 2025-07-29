@@ -1,0 +1,109 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.03%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_083",
+    "ai_generated_tags": {
+      "room": "Study",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "designed shelves",
+        "study table",
+        "cushioned chair",
+        "map"
+      ],
+      "objects": [
+        {
+          "type": "designed shelves",
+          "features": [
+            "organized storage",
+            "backlit",
+            "crafted with panels"
+          ],
+          "materials": [
+            "wood",
+            "fabric"
+          ],
+          "finish": "matte, fabric-embossed"
+        },
+        {
+          "type": "study table",
+          "features": [
+            "compartions",
+            "world map",
+            "open book"
+          ],
+          "materials": [
+            "wood",
+            "marble top"
+          ],
+          "finish": "smooth, polished"
+        },
+        {
+          "type": "cushioned chair",
+          "features": [
+            "rolling",
+            "modern design",
+            "wooden arms"
+          ],
+          "materials": [
+            "wood",
+            "fabric"
+          ],
+          "finish": "textured, upholstered"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "green",
+          "orange",
+          "brown",
+          "beige"
+        ],
+        "materials": [
+          "wood",
+          "marble",
+          "metal",
+          "textured fabric"
+        ],
+        "lighting": "natural light from window, built-in under-shelf lighting",
+        "texture": "smooth, matte, textured"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra/Goa",
+        "traditional_elements": [
+          "patterned design on wall"
+        ],
+        "modern_adaptations": [
+          "interior lighting",
+          " verstaspace design"
+        ],
+        "space_utilization": "efficient use of vertical space with built-in shelves",
+        "cultural_significance": "The use of patterns and organized storage reflects a blend of modern functionality and traditional craftsmanship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This study room showcases a modern interpretation of traditional Indian design, featuring a blend of functional furniture and cultural elements. The shelves are organized with books and decorative items, reflecting a blend of functionality and traditional craftsmanship. The study table includes a world map, symbolizing a focus on learning and exploration. The cushioned chair and the overall design utilize materials like wood and fabric, with a neutral color palette accented by orange, green, and beige, creating a serene and inviting space. The patterned wall adds a touch of cultural significance, while the use of built-in shelves maximizes space in a way that is both functional and visually appealing.",
+    "metadata": {
+      "tags": [
+        "Indian design",
+        "modern study",
+        "organized shelves",
+        "cultural elements",
+        "neutral color palette"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Working and studying",
+      "indian_specific": "Typical Indian craftsmanship with modern adaptations"
+    }
+  },
+  "cached_at": 1753447636206,
+  "cache_key": "8f27ab7562028ceca654b39506def748"
+}

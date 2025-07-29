@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/606/image_cropper_1729164058786.jpg",
+  "analysis": {
+    "image_id": "img_282",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern-Traditional",
+      "primary_features": [
+        "Carpet",
+        "Teak Wood Furniture",
+        "Cushions",
+        "Glass Table"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Furniture",
+          "features": [
+            "Carved details",
+            "Curved legs",
+            "Sleek design"
+          ],
+          "materials": [
+            "Teak Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Glass Table",
+          "features": [
+            "Translucent glass top",
+            "Wooden base"
+          ],
+          "materials": [
+            "Glass",
+            "Teak Wood"
+          ],
+          "finish": "Clear glass, natural wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "White",
+          "Black",
+          "Clear Glass"
+        ],
+        "materials": [
+          "Teak Wood",
+          "Glass",
+          "Copper"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth glass, textured teak wood"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian",
+        "traditional_elements": [
+          "Teak Wood Furniture",
+          "Carved Details"
+        ],
+        "modern_adaptations": [
+          "Glass Table"
+        ],
+        "space_utilization": "Open and spacious with minimal clutter",
+        "cultural_significance": "The use of teak wood and carved elements signifies traditional craftsmanship and durability, often associated with homes in Maharashtra."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This living room showcases a blend of modern and traditional Indian design. The teak wood furniture with intricate carvings reflects the rich craftsmanship of the Maharashtrian region. The glass table introduces a contemporary touch, while the white and black accents maintain a clean and modern look. The natural wood finish and the carved details highlight the cultural significance of using durable, traditional materials in Indian homes.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Teak Wood",
+          "Maharashtrian",
+          "Carved Furniture",
+          "Modern-Traditional"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential",
+        "functionality": "Entertainment and relaxation",
+        "indian_specific": "Teak Wood Furniture, Carved Details"
+      }
+    }
+  },
+  "cached_at": 1753459934957,
+  "cache_key": "832bcdd6669373f77ef9e7dd7a926928"
+}

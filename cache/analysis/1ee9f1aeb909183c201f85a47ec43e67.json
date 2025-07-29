@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/390/image_cropper_1728293972799.jpg",
+  "analysis": {
+    "image_id": "img_121",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Circular coffee table",
+        "Stacked boxes",
+        "Wooden shelves"
+      ],
+      "objects": [
+        {
+          "type": "Circular Coffee Table",
+          "features": [
+            "Dark wood finish",
+            "Circular shape",
+            "Minimalistic design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Dark polished wood"
+        },
+        {
+          "type": "Stacked Boxes",
+          "features": [
+            "Natural wood material",
+            "Rectangular shape",
+            "Stacked arrangement"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Wooden Shelves",
+          "features": [
+            "Light wood finish",
+            "Open shelving design",
+            "Decorative display"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Light polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, Natural Wood, White",
+          "Dark Wood"
+        ],
+        "materials": [
+          "Wood",
+          "Natural Wood"
+        ],
+        "lighting": "Soft ambient lighting from the background",
+        "texture": "Smooth wood texture"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but incorporates elements of traditional Indian design",
+        "traditional_elements": [
+          "Stacked boxes, open shelving"
+        ],
+        "modern_adaptations": [
+          "Minimalistic design, modern layout"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves and horizontal space with the coffee table",
+        "cultural_significance": "The stacked boxes and open shelving are reminiscent of traditional storage methods in Indian homes, which often incorporate natural wood finishes and minimalistic designs"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern interpretation of Indian interior design in a living room setting. The space features a dark polished wood circular coffee table as the centerpiece, surrounded by light polished wooden shelves and neatly stacked natural wood boxes. The design incorporates traditional elements like open shelving and stacked boxes while maintaining a contemporary, minimalist aesthetic. The use of natural wood and ambient lighting is characteristic of modern Indian interior design, reflecting an appreciation for traditional craftsmanship and natural materials.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Living Room",
+          "Minimalist",
+          "Natural Wood",
+          "Stacked Boxes",
+          "Open Shelving"
+        ],
+        "budget_indicator": "Moderate, due to the use of polished wood and neatly arranged furniture",
+        "space_type": "Residential Living Room",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "Stacked boxes as storage, open shelving as decorative display, natural wood finishes"
+      }
+    }
+  },
+  "cached_at": 1753448673971,
+  "cache_key": "1ee9f1aeb909183c201f85a47ec43e67"
+}

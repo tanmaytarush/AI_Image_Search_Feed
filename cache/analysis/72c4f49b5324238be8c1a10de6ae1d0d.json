@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1463/image_cropper_1729776243616.jpg",
+  "analysis": {
+    "image_id": "img_390",
+    "ai_generated_tags": {
+      "room": "Cabinet or Storage Room",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Geometric pattern on doors",
+        "Vertical paneling"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet doors",
+          "features": [
+            "Geometric pattern",
+            "Vertical paneling",
+            "High gloss finish"
+          ],
+          "materials": [
+            "Painted wood or MDF",
+            "High gloss paint"
+          ],
+          "finish": "High gloss finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gray"
+        ],
+        "materials": [
+          "Painted wood",
+          "High gloss paint"
+        ],
+        "lighting": "Dim indoor lighting",
+        "texture": "Smooth high gloss finish"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Minimal traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Geometric patterns and high gloss finish"
+        ],
+        "space_utilization": "Efficient storage solution",
+        "cultural_significance": "No cultural elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.88,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.9,
+        "indian_context": 0.65
+      },
+      "description": "The image depicts a cabinet or storage room with a minimalist design. The doors feature a geometric pattern and vertical paneling with a high gloss finish, suggesting a modern interpretation of traditional Indian design elements. The color palette is composed of white, brown, and gray, with smooth, high gloss surfaces. The space appears to be efficiently utilized for storage purposes, with no indication of traditional Indian regional influences or cultural decorative elements.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Geometric Pattern",
+          "High Gloss Finish",
+          "Storage Cabinet"
+        ],
+        "budget_indicator": "Moderate, as the high gloss finish and geometric pattern suggest quality materials.",
+        "space_type": "Residential Apartment",
+        "functionality": "Storage",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753461313749,
+  "cache_key": "72c4f49b5324238be8c1a10de6ae1d0d"
+}

@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.30%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_039",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Indian Modern",
+      "primary_features": [
+        "Built-in wardrobes",
+        "Carpeted flooring",
+        "Ceiling fan"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobes",
+          "features": [
+            "Pink and white panels",
+            "Sliding doors",
+            "Integrated storage"
+          ],
+          "materials": [
+            "MDF",
+            "Painted finish"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Carpeted flooring",
+          "features": [
+            "Soft texture",
+            "Neutral color"
+          ],
+          "materials": [
+            "Polypropylene"
+          ],
+          "finish": "Textured"
+        },
+        {
+          "type": "Ceiling fan",
+          "features": [
+            "Traditional design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Powder coated"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink",
+          "White",
+          "Brown",
+          "Beige"
+        ],
+        "materials": [
+          "MDF",
+          "Paint",
+          "Polypropylene",
+          "Metal"
+        ],
+        "lighting": "Natural light through window, ceiling fan light",
+        "texture": "Smooth and glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Built-in wardrobes"
+        ],
+        "modern_adaptations": [
+          "Glossy finishes, modern materials"
+        ],
+        "space_utilization": "Efficient use of space with built-in wardrobes",
+        "cultural_significance": "Built-in wardrobes are common in Northern Indian homes for practical storage and space optimization"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern Indian bedroom with a focus on efficiency and practicality. The space features built-in wardrobes with a pink and white color scheme, which is a common color combination in many Indian homes. The flooring is carpeted, providing a soft and comfortable surface, while the ceiling fan adds a traditional touch. The room is well-organized, maximizing space with built-in storage solutions.",
+    "metadata": {
+      "tags": [
+        "Indian bedroom",
+        "Modern Indian interior",
+        "Built-in wardrobes",
+        "Pink and white color scheme",
+        "Carpeted flooring"
+      ],
+      "budget_indicator": "Medium to high, due to the glossy finishes and choice of materials",
+      "space_type": "Residential bedroom",
+      "functionality": "Primarily for sleeping and storage, with built-in wardrobes for practicality",
+      "indian_specific": "Glossy finish, pink and white color scheme, built-in wardrobes"
+    }
+  },
+  "cached_at": 1753446573158,
+  "cache_key": "a4f97637b390151f185c62aedb4bea06"
+}

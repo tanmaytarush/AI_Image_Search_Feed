@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/951/image_cropper_1729398616693.jpg",
+  "analysis": {
+    "image_id": "img_431",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Sliding frosted glass door",
+        "Bathroom vanity area",
+        "Mirror with frame"
+      ],
+      "objects": [
+        {
+          "type": "Frosted glass door",
+          "features": [
+            "Translucent, frosted finish",
+            "Sleek, modern design"
+          ],
+          "materials": [
+            "Glass, frosted finish"
+          ],
+          "finish": "Frosted glass with a smooth finish"
+        },
+        {
+          "type": "Bathroom vanity",
+          "features": [
+            "Compact design",
+            "White finish",
+            "Integrated lighting"
+          ],
+          "materials": [
+            "White ceramic or engineered stone",
+            "Lighting fixture"
+          ],
+          "finish": "Smooth, high-gloss ceramic or stone finish"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Rectangular shape",
+            "Frameless design",
+            "Integrated light above"
+          ],
+          "materials": [
+            "Metal frame, possibly brass or chrome"
+          ],
+          "finish": "Metallic finish with polished surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Frosted glass",
+          "Metallic frame"
+        ],
+        "materials": [
+          "Glass, ceramic or stone, metal"
+        ],
+        "lighting": "Integrated lighting above the mirror",
+        "texture": "Smooth surfaces with frosted glass texture"
+      },
+      "indian_context": {
+        "regional_style": "Not directly applicable, modern design with influences",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern materials like frosted glass and LED lighting"
+        ],
+        "space_utilization": "Efficient use of space with compact vanity area",
+        "cultural_significance": "Minimal traditional Indian elements, focusing on modern aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian bathroom design. The space features a compact vanity area with a frosted glass sliding door, a sleek white bathroom vanity with integrated lighting, and a rectangular mirror with a metallic frame. The design integrates contemporary aesthetics with smooth, high-gloss materials, focusing on efficient space utilization and modern functionality.",
+      "metadata": {
+        "tags": [
+          "Bathroom",
+          "Modern",
+          "Indian Design",
+          "Compact Space"
+        ],
+        "budget_indicator": "Moderate, utilizing modern materials like frosted glass and LED lighting",
+        "space_type": "Residential, bathroom",
+        "functionality": "Personal hygiene and grooming",
+        "indian_specific": "Modern interpretation of contemporary Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1753461796190,
+  "cache_key": "5fe889a1b94e24408dfed481668571b5"
+}

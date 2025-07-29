@@ -1,0 +1,110 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/683/image_cropper_1729177925969.jpg",
+  "analysis": {
+    "image_id": "img_117",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Large wooden floor",
+        "Television unit",
+        "Modern furniture",
+        "Wooden door"
+      ],
+      "objects": [
+        {
+          "type": "Television unit",
+          "features": [
+            "Rectangular shape",
+            "Wooden frame",
+            "Built-in shelves"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Television",
+          "features": [
+            "Flat-screen",
+            "Integrated into the unit"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Glossy surface"
+        },
+        {
+          "type": "Modern sofa",
+          "features": [
+            "Contemporary design"
+          ],
+          "materials": [
+            "Fabric, foam"
+          ],
+          "finish": "Smooth fabric surface"
+        },
+        {
+          "type": "Wooden door",
+          "features": [
+            "Solid wood",
+            "Modern design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light beige walls",
+          "Dark wooden accents",
+          "White ceiling",
+          "Multicolored rug"
+        ],
+        "materials": [
+          "Wood",
+          "Plaster",
+          "Metal"
+        ],
+        "lighting": "Natural light from window, ambient lighting from ceiling",
+        "texture": "Smooth plaster, Lacquered wood, Soft fabric, Textured rug"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Wooden door"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture and lighting"
+        ],
+        "space_utilization": "Optimal use of the space with open layout",
+        "cultural_significance": "Modern interpretation of traditional Indian design elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This space features a contemporary Indian design with a modern living room setup. The living room is defined by a large wooden floor, a television unit with a built-in shelf, and a sleek modern sofa. The wooden door provides a traditional touch, while the rest of the room demonstrates a contemporary Indian style with clean lines, modern furniture, and a mix of natural and artificial lighting. The color palette includes light beige walls, dark wooden accents, white ceiling, and a multicolored rug, reflecting Indian design principles.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Modern Living Room",
+        "Wooden Accents",
+        "Functional Space"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential Living Room",
+      "functionality": "Relaxation and entertainment",
+      "indian_specific": "Contemporary interpretation of traditional wooden elements"
+    }
+  },
+  "cached_at": 1753448565430,
+  "cache_key": "d3e28001293ec01ebba72fb8be9bcfff"
+}

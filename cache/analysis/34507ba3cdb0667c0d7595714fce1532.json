@@ -1,0 +1,112 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.01%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_029",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Built-in wardrobes with sliding doors",
+        "Rounded window with curtains",
+        "Floor with wooden flooring",
+        "Simple bench at the foot of the bed"
+      ],
+      "objects": [
+        {
+          "type": "Built-in Wardrobe",
+          "features": [
+            "Sliding doors with a modern design",
+            "Panelled top section with wooden finish"
+          ],
+          "materials": [
+            "Metal frames",
+            "Painted panels"
+          ],
+          "finish": "Glossy finish on the doors"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "Round arched top",
+            "Curtains with a mix of blue and beige colors"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth fabric texture"
+        },
+        {
+          "type": "Floor",
+          "features": [
+            "Wooden panelled flooring"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Shiny polished surface"
+        },
+        {
+          "type": "Bench",
+          "features": [
+            "Simplicity in design",
+            "Attached to the wall"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Smooth painted finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Beige",
+          "Blue",
+          "Beige"
+        ],
+        "materials": [
+          "Painted wood",
+          "Metal",
+          "Fabric",
+          "Wood"
+        ],
+        "lighting": "Natural light from the window with accent lighting from the top corners",
+        "texture": "Smooth surfaces with some textures from the wood and fabric"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly identifiable with Indian regional styles due to modern design elements",
+        "traditional_elements": [
+          "Rounded window design"
+        ],
+        "modern_adaptations": [
+          "Minimalist wardrobe design with sliding doors"
+        ],
+        "space_utilization": "Efficient use of space with built-in wardrobes",
+        "cultural_significance": "The rounded window design can be seen as a modern interpretation of traditional Indian architectural elements, but the overall design is not traditionally Indian"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.85,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.75
+    },
+    "description": "This image depicts a minimalist bedroom with modern design elements. The room features built-in wardrobes with sliding doors that have a sleek, glossy finish, complemented by a simple bench at the foot of the bed. A window with a rounded top and curtains adds a subtle traditional touch. The flooring is wooden, polished to a shine, and the overall space is organized and efficient, though it lacks strong traditional Indian design elements.",
+    "metadata": {
+      "tags": [
+        "Minimalist bedroom",
+        "Modern design",
+        "Built-in wardrobes",
+        "Rounded window",
+        "Wooden flooring"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Bedroom",
+      "functionality": "Storage and relaxation",
+      "indian_specific": "Rounded window design"
+    }
+  },
+  "cached_at": 1753457627328,
+  "cache_key": "34507ba3cdb0667c0d7595714fce1532"
+}

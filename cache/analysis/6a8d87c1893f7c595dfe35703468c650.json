@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/464/image_cropper_1728666362578.jpg",
+  "analysis": {
+    "image_id": "img_401",
+    "ai_generated_tags": {
+      "room": "Entrance",
+      "theme": "Minimalist with Indian Influence",
+      "primary_features": [
+        "Glass panel door",
+        "Modern white paneling"
+      ],
+      "objects": [
+        {
+          "type": "Glass panel door",
+          "features": [
+            "Transparent glass panels",
+            "Silver metallic frame"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Smooth glass and polished metallic frame"
+        },
+        {
+          "type": "Modern white paneling",
+          "features": [
+            "Geometric patterns",
+            "Smooth finish"
+          ],
+          "materials": [
+            "Painted wood or composite paneling"
+          ],
+          "finish": "Matte finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Silver",
+          "Transparent"
+        ],
+        "materials": [
+          "Glass",
+          "Metal",
+          "Painted wood"
+        ],
+        "lighting": "Natural light from the glass panels, no artificial lighting observed",
+        "texture": "Smooth and clean surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Minimal use of traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Combination of glass and metal in a traditional Indian context"
+        ],
+        "space_utilization": "Efficient use of space with a clean and modern design",
+        "cultural_significance": "Reinforces the modern interpretation of Indian design principles"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern entrance with a glass panel door featuring silver metallic frames and a clean, minimalist design. The use of glass and metal is a modern interpretation of traditional Indian design elements, such as the emphasis on clean lines and the use of reflective surfaces. The room appears to be a contemporary take on an Indian entryway, possibly influenced by the minimalist trend. The space is well-organized, with a focus on functionality and aesthetics.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Minimalist design",
+          "Entryway",
+          "Glass door",
+          "Silver accents"
+        ],
+        "budget_indicator": "Mid-range due to the use of glass and metal materials, but potentially higher if luxury glass or metallic finishes are used",
+        "space_type": "Residential entrance",
+        "functionality": "Primarily for entry and exit, with a modern aesthetic",
+        "indian_specific": "Modern interpretation of Indian design principles"
+      }
+    }
+  },
+  "cached_at": 1753461452503,
+  "cache_key": "6a8d87c1893f7c595dfe35703468c650"
+}

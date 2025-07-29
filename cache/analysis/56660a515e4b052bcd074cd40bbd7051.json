@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/110/image_cropper_1727508469596.jpg",
+  "analysis": {
+    "image_id": "img_208",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "contemporary",
+      "primary_features": [
+        "builtin wardrobe",
+        "door with glass panel",
+        "bed frame"
+      ],
+      "objects": [
+        {
+          "type": "builtin wardrobe",
+          "features": [
+            "white color",
+            "rectangular shape",
+            "storage space"
+          ],
+          "materials": [
+            "wood",
+            "paint"
+          ],
+          "finish": "smooth, matte"
+        },
+        {
+          "type": "door with glass panel",
+          "features": [
+            "wooden frame",
+            "clear glass",
+            "scroll design"
+          ],
+          "materials": [
+            "wood",
+            "glass"
+          ],
+          "finish": "polished wood, clear glass"
+        },
+        {
+          "type": "bed frame",
+          "features": [
+            "wooden structure",
+            "scroll design"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "wooden brown",
+          "clear"
+        ],
+        "materials": [
+          "wood",
+          "glass",
+          "paint"
+        ],
+        "lighting": "natural light from outside",
+        "texture": "smooth, matte, polished"
+      },
+      "indian_context": {
+        "regional_style": "not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "contemporary design with traditional wood and glass elements"
+        ],
+        "space_utilization": "optimized storage and access to the bed area",
+        "cultural_significance": "no specific cultural elements visible"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern bedroom with a focus on contemporary design. The space features a built-in wardrobe and a door with a glass panel, both showcasing polished wood and glass materials. The bed frame also incorporates wooden scroll designs, reflecting a modern adaptation of traditional Indian elements. The overall color palette is clean and bright, with white walls and natural light emphasizing the clean lines and minimalist approach.",
+    "metadata": {
+      "tags": [
+        "modern",
+        "contemporary",
+        "bedroom",
+        "builtin wardrobe",
+        "glass panel"
+      ],
+      "budget_indicator": "affordable, given the use of mass-produced materials",
+      "space_type": "residential",
+      "functionality": "sleeping and storage",
+      "indian_specific": "modern interpretation of traditional wood and glass elements"
+    }
+  },
+  "cached_at": 1753450000742,
+  "cache_key": "56660a515e4b052bcd074cd40bbd7051"
+}

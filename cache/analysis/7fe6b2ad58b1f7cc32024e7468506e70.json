@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1726723069281.jpg",
+  "analysis": {
+    "image_id": "img_138",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Minimalist with Indian Influence",
+      "primary_features": [
+        "Wooden door with geometric pattern",
+        "Wardrobe with sliding doors"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Sliding wooden doors with geometric pattern",
+            "Horizontal and vertical wood paneling"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "Metal hardware for doors"
+          ],
+          "finish": "Natural wood finish with a polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "White (wall)",
+          "Black (door frame)"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from outside the frame, no visible artificial lighting",
+        "texture": "Rough wood texture on doors, smooth wall texture"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but influenced by Indian design",
+        "traditional_elements": [
+          "Geometric patterns on wood"
+        ],
+        "modern_adaptations": [
+          "Minimalist design elements combined with traditional materials"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage",
+        "cultural_significance": "The design elements reflect a blend of traditional craftsmanship and modern simplicity, emphasizing functionality and aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts an entryway with a minimalist approach, featuring a wardrobe with wooden sliding doors adorned with geometric patterns, typical of traditional Indian designs. The natural wood finish and the use of vertical wood paneling are indicative of regional craftsmanship. The design balances traditional elements with modern simplicity, utilizing natural light and minimal materials to create an elegant yet practical space.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Indian Design",
+          "Entryway",
+          "Wardrobe",
+          "Wooden Doors"
+        ],
+        "budget_indicator": "Mid-range, with a mix of traditional and modern materials",
+        "space_type": "Residential",
+        "functionality": "Storage and entryway space",
+        "indian_specific": "Geometric patterns and wood paneling"
+      }
+    }
+  },
+  "cached_at": 1753449012860,
+  "cache_key": "7fe6b2ad58b1f7cc32024e7468506e70"
+}

@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/276/image_cropper_1727274703801.jpg",
+  "analysis": {
+    "image_id": "img_112",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist Modern",
+      "primary_features": [
+        "Blue wardrobe with wooden drawers",
+        "Teal headboard",
+        "White bedding"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Light blue color with four doors",
+            "Wooden drawers with brass handles"
+          ],
+          "materials": [
+            "Painted MDF or similar",
+            "Wooden drawers"
+          ],
+          "finish": "Smooth and glossy finish"
+        },
+        {
+          "type": "Headboard",
+          "features": [
+            "Teal color",
+            "Textured surface"
+          ],
+          "materials": [
+            "Fabric or leatherette"
+          ],
+          "finish": "Textured and embossed"
+        },
+        {
+          "type": "Bedding",
+          "features": [
+            "White sheets and a pillow"
+          ],
+          "materials": [
+            "Cotton or similar fabric"
+          ],
+          "finish": "Smooth and plain"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teal, light blue, white, brown"
+        ],
+        "materials": [
+          "MDF, wood, fabric, leatherette"
+        ],
+        "lighting": "Natural light coming from the left side",
+        "texture": "Glossy wardrobe finish, textured headboard, smooth bedding"
+      },
+      "indian_context": {
+        "regional_style": "Not indicative of a specific regional Indian style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design with modern materials"
+        ],
+        "space_utilization": "Efficient use of vertical space with wardrobe",
+        "cultural_significance": "No culturally significant elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.7,
+        "primary_features": 0.83,
+        "objects": 0.87,
+        "indian_context": 0.6
+      },
+      "description": "A modern bedroom with a minimalist design, featuring a light blue wardrobe with wooden drawers and a teal headboard. The room uses a combination of smooth, glossy finishes and textured materials, with a focus on efficient space utilization. The absence of traditional Indian elements suggests a modern interpretation of Indian design principles.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Modern",
+          "Bedroom",
+          "Blue",
+          "Teal",
+          "Wooden",
+          "Minimalist Modern"
+        ],
+        "budget_indicator": "Moderate, with the use of modern materials and finishes",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose of sleeping and possibly minimal storage",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753448425535,
+  "cache_key": "873651b290b23cf0b3d73b93ed9b6e7f"
+}

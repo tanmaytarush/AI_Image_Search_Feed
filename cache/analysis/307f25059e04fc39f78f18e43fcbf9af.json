@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1132/image_cropper_1729608738706.jpg",
+  "analysis": {
+    "image_id": "img_136",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian Interior",
+      "primary_features": [
+        "Built-in wardrobe",
+        "Mirrored cabinet",
+        "Television unit"
+      ],
+      "objects": [
+        {
+          "type": "Television unit",
+          "features": [
+            "Built-in storage",
+            "Modern design",
+            "Minimalist style"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Large storage capacity",
+            "Modern design",
+            "Integrated into the walls"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Mirrored cabinet",
+          "features": [
+            "Space-saving design",
+            "Reflective surface"
+          ],
+          "materials": [
+            "MDF",
+            "Mirror"
+          ],
+          "finish": "Glossy, reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "White",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Mirror"
+        ],
+        "lighting": "Subtle, ambient lighting",
+        "texture": "Smooth, glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Mughal-inspired (Middle India)",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary design with traditional elements"
+        ],
+        "space_utilization": "Optimized space with built-in furniture",
+        "cultural_significance": "Simplicity and functionality in modern Indian interiors"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior features a modern take on traditional Indian design, with a contemporary wardrobe and television unit seamlessly integrated into the wall. The use of wood and metal materials, along with a glossy finish, reflects a blend of traditional craftsmanship and contemporary minimalism. The color palette of beige, white, and brown enhances the space's modern yet grounded aesthetic, while the subtle lighting creates a warm and inviting atmosphere. This space embodies modern Indian interior design principles, focusing on functionality and space optimization.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Contemporary design",
+        "Modern Indian",
+        "Built-in furniture",
+        "Bedroom"
+      ],
+      "budget_indicator": "Mid-range, with high-quality materials and finishes suggesting a moderate budget",
+      "space_type": "Residential bedroom",
+      "functionality": "Storage and entertainment",
+      "indian_specific": "Modern adaptation of traditional Indian design elements"
+    }
+  },
+  "cached_at": 1753448969382,
+  "cache_key": "307f25059e04fc39f78f18e43fcbf9af"
+}

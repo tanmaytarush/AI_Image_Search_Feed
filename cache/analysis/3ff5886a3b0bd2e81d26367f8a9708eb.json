@@ -1,0 +1,113 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.25%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_020",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist",
+      "primary_features": [
+        "L-shaped cabinetry",
+        "geometric backsplash",
+        "modern appliances",
+        "organized workspace"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "L-shaped",
+            "dark gray finish",
+            "white upper cabinets"
+          ],
+          "materials": [
+            "Painted MDF",
+            "possibly laminate"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Geometric pattern",
+            "white tiles"
+          ],
+          "materials": [
+            "Porcelain tiles"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "White surface"
+          ],
+          "materials": [
+            "Stone or solid surface"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Modern stove",
+            "sink",
+            "vent hood"
+          ],
+          "materials": [
+            "Stainless steel",
+            "glass"
+          ],
+          "finish": "Shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark Gray",
+          "Black",
+          "Silver"
+        ],
+        "materials": [
+          "Painted MDF",
+          "Porcelain tiles",
+          "Stone/solid surface",
+          "Stainless steel"
+        ],
+        "lighting": "Natural light from window and artificial light from above",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design with Indian touches like use of MDF for cabinetry"
+        ],
+        "space_utilization": "Efficient use of L-shaped cabinetry for maximizing storage and workspace",
+        "cultural_significance": "This design is more aligned with modern Indian minimalist preferences rather than traditional elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern kitchen with a minimalist design. The space features L-shaped cabinetry with a dark gray finish and white upper cabinets. The backsplash is white with a geometric pattern, and the countertop is a white stone or solid surface. Modern appliances, including a stove, sink, and vent hood, are present. The room is well-lit with natural light from a window and artificial light from the ceiling. The design is more aligned with modern Indian minimalist preferences rather than traditional elements.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Minimalist",
+        "Modern",
+        "L-shaped cabinetry",
+        "Geometric backsplash"
+      ],
+      "budget_indicator": "Moderate, using painted MDF, porcelain tiles, and modern appliances",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is cooking and food preparation",
+      "indian_specific": "The use of MDF for cabinetry is a modern adaptation of Indian design, often seen in contemporary Indian kitchens"
+    }
+  },
+  "cached_at": 1753446100618,
+  "cache_key": "3ff5886a3b0bd2e81d26367f8a9708eb"
+}

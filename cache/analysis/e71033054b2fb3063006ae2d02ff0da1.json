@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/443/image_cropper_1728568504777.jpg",
+  "analysis": {
+    "image_id": "img_190",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Mughal-Inspired",
+      "primary_features": [
+        "Decorative ceiling panel",
+        "Carved wooden frame"
+      ],
+      "objects": [
+        {
+          "type": "Ceiling Panel",
+          "features": [
+            "Decorative with floral motifs",
+            "Material appears to be lacquered wood"
+          ],
+          "materials": [
+            "Wood",
+            "Lacquer"
+          ],
+          "finish": "High-gloss lacquered finish"
+        },
+        {
+          "type": "Wooden Frame",
+          "features": [
+            "Decorative frame surrounding the ceiling",
+            "Material appears to be teak"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Natural teak finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Gold"
+        ],
+        "materials": [
+          "Wood",
+          "Lacquer"
+        ],
+        "lighting": "Ambient lighting with a warm tone, possibly from incandescent bulbs",
+        "texture": "Smooth lacquered wood finish, detailed carvings"
+      },
+      "indian_context": {
+        "regional_style": "Mughal",
+        "traditional_elements": [
+          "Decorative ceiling panels",
+          "Carved wooden frames",
+          "Lacquered finishes"
+        ],
+        "modern_adaptations": [
+          "Minimalist interpretation of traditional elements"
+        ],
+        "space_utilization": "The space is highly decorative but does not show a clear functional arrangement.",
+        "cultural_significance": "The design elements reflect the grandeur of Mughal architecture, often associated with royalty and opulence. The use of lacquer and carved wood symbolizes skill and craftsmanship."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a Mughal-inspired living room with a focus on traditional Indian design elements. The decorative ceiling panel, adorned with floral motifs, is a hallmark of Mughal architecture, while the carved wooden frame adds to the ornamental richness. The use of lacquered wood and natural teak finish reflects the high level of craftsmanship typical in Indian interiors. The warm lighting enhances the elegant and luxurious atmosphere of the space.",
+      "metadata": {
+        "tags": [
+          "Mughal Style",
+          "Decorative Ceiling",
+          "Carved Wooden Frame",
+          "Lacquered Wood",
+          "Living Room"
+        ],
+        "budget_indicator": "High, due to the use of materials like lacquer and high-quality wood",
+        "space_type": "Living Room",
+        "functionality": "Decorative space, possibly a living room or a formal area for guests",
+        "indian_specific": "The Mughal-inspired design features traditional Indian craftsmanship and aesthetics."
+      }
+    }
+  },
+  "cached_at": 1753459123748,
+  "cache_key": "e71033054b2fb3063006ae2d02ff0da1"
+}

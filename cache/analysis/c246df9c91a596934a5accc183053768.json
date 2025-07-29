@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.49%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_043",
+    "ai_generated_tags": {
+      "room": "Walk-in closet",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Built-in wardrobe with sliding doors",
+        "Contrasting wood and white panels",
+        "Simple metal handles"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Four-door design",
+            "Wooden texture with golden stripes",
+            "White lower三分段",
+            "Silver metal handles"
+          ],
+          "materials": [
+            "Wood (imitation)",
+            "Painted wood",
+            "Metal"
+          ],
+          "finish": "High-gloss finish on wood, matte finish on white panels, metallic handles"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown with golden stripes, white, silver"
+        ],
+        "materials": [
+          "Wood (imitation)",
+          "Painted wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from an unseen window",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style visible",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Combination of traditional wood with modern sliding doors and painted panels"
+        ],
+        "space_utilization": "Efficient use of vertical space with a sliding door wardrobe",
+        "cultural_significance": "The presence of wood might indicate regional influences, but the design is purely functional and modern"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.65
+      },
+      "description": "The image showcases a modern walk-in closet with a minimalist design. The built-in wardrobe features a combination of dark brown wood with golden stripes and white panels, all with a high-gloss finish. The sliding doors are equipped with simple metallic handles, adding a touch of modernity. The entire design is clean and functional, typical of contemporary interior design trends in Indian homes.",
+      "metadata": {
+        "tags": [
+          "Modern closet",
+          "Minimalist design",
+          "Indian interior",
+          "Functional furniture",
+          "Sliding doors",
+          "Wood and white"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Storage and organization",
+        "indian_specific": "Use of wood (imitation) and sliding doors"
+      }
+    }
+  },
+  "cached_at": 1753446651087,
+  "cache_key": "c246df9c91a596934a5accc183053768"
+}

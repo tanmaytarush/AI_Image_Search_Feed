@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/640/image_cropper_1729690053070.jpg",
+  "analysis": {
+    "image_id": "img_189",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Textured wall panels",
+        "Simple bed frame",
+        "Minimalist decor"
+      ],
+      "objects": [
+        {
+          "type": "Bed frame",
+          "features": [
+            "Curved design",
+            "White finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Wall panels",
+          "features": [
+            "Textured design",
+            "Muted beige color"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "White",
+          "Gold"
+        ],
+        "materials": [
+          "Painted wood",
+          "Metallic accents"
+        ],
+        "lighting": "Natural light from off-screen",
+        "texture": "Smooth and textured surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically identifiable",
+        "traditional_elements": [
+          "Minimalistic design"
+        ],
+        "modern_adaptations": [
+          "Integration of traditional textural elements"
+        ],
+        "space_utilization": "Efficient use of small space",
+        "cultural_significance": "Modern interpretation of clean, minimalist design in Indian interiors"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian bedroom with a minimalist approach. The design features a simple, white bed frame with a curved top, complemented by textured beige wall panels. The color palette is composed of white, beige, and gold, reflecting a contemporary take on traditional Indian aesthetics. The space is well-lit with natural light, emphasizing the clean lines and textural elements of the decor.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Minimalist bedroom",
+          "Textured walls",
+          "Beige and white color scheme",
+          "Simple furniture"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and relaxation",
+        "indian_specific": "Integration of minimalist design with traditional Indian textural elements"
+      }
+    }
+  },
+  "cached_at": 1753459107878,
+  "cache_key": "6ecfea751b1e472b32f9e7a3407cdaf9"
+}

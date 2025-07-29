@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/484/image_cropper_1728969605496.jpg",
+  "analysis": {
+    "image_id": "img_178",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Arched door frame",
+        "Painted wall panel"
+      ],
+      "objects": [
+        {
+          "type": "Door",
+          "features": [
+            "Arch design",
+            "Light wood material"
+          ],
+          "materials": [
+            "Light wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Wall panel",
+          "features": [
+            "Painted in purple",
+            "Rectangular shape"
+          ],
+          "materials": [
+            "Painted wall"
+          ],
+          "finish": "Smooth paint finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Purple",
+          "White",
+          "Light wood brown"
+        ],
+        "materials": [
+          "Light wood",
+          "Paint"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Arched door frame"
+        ],
+        "modern_adaptations": [
+          "Painted panel with modern color choice"
+        ],
+        "space_utilization": "Simple and functional design",
+        "cultural_significance": "Arched door frames are traditional in Indian architecture, often seen in historical buildings, but not commonly in modern minimalist designs."
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.85,
+        "objects": 0.88,
+        "indian_context": 0.6
+      },
+      "description": "This image shows a minimalist entryway with a light wood arched door frame and a rectangular painted wall panel in purple. The design elements are simple, with no traditional Indian motifs or materials used, indicating a modern interpretation. The use of color and smooth surfaces suggests a contemporary aesthetic.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Entryway",
+          "Arched door frame",
+          "Painted wall",
+          "Purple"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is to serve as an entrance and transition space.",
+        "indian_specific": "The arched door frame hints at a traditional architectural element."
+      }
+    }
+  },
+  "cached_at": 1753449676516,
+  "cache_key": "7cbb07c7d63f03b24261786fa9cc42fd"
+}

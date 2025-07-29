@@ -1,0 +1,84 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.17%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_032",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Built-in wardrobe",
+        "Study desk",
+        "Bed",
+        "Decorative shelves"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Double door with circular accents",
+            "Shelving units for storage"
+          ],
+          "materials": [
+            "MDF, glass, metallic trim"
+          ],
+          "finish": "Satin finish with light pastel colors"
+        },
+        {
+          "type": "Study desk",
+          "features": [
+            "Integrated with bookshelf",
+            "Minimalist design"
+          ],
+          "materials": [
+            "MDF, glass top"
+          ],
+          "finish": "Glossy finish with pastel color"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light green, pastel pink, white, beige"
+        ],
+        "materials": [
+          "MDF, glass, metal, wood"
+        ],
+        "lighting": "Natural light with soft indoor lighting",
+        "texture": "Smooth surfaces with some textured patterns"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence visible",
+        "traditional_elements": [
+          "No traditional Indian elements found"
+        ],
+        "modern_adaptations": [
+          "Contemporary adaptations of traditional Indian design"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "No culturally significant elements visible"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.3
+    },
+    "description": "This image depicts a contemporary bedroom with efficient space utilization through built-in furniture. The room features a study desk with integrated shelves, a modern wardrobe with circular accents, and a neatly arranged bed with a patterned bedspread. The color palette is soft with pastel green and pink, complemented by white and beige, creating a calm and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Contemporary bedroom",
+        "Efficient space utilization",
+        "Built-in furniture",
+        "Pastel colors",
+        "Modern wardrobe"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and studying",
+      "indian_specific": "No traditional Indian elements, but contemporary adaptations of Indian design"
+    }
+  },
+  "cached_at": 1753446421158,
+  "cache_key": "0cf6dbcd6cc7e6d299558eaee723a5a0"
+}

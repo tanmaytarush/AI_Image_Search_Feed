@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.06%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_030",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Wardrobe with four doors",
+        "Storage shelves with lights",
+        "Minimal decor"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "White with a clean minimalist design",
+            "Simple silver handles"
+          ],
+          "materials": [
+            "White paint on MDF or similar material",
+            "Wooden shelves"
+          ],
+          "finish": "Matte white finish with smooth surfaces"
+        },
+        {
+          "type": "Shelving Unit",
+          "features": [
+            "Built-in shelving system",
+            "Integrated lighting"
+          ],
+          "materials": [
+            "Wooden shelves"
+          ],
+          "finish": "Natural wood finish with a warm tone"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Natural wood",
+          "Black",
+          "Light beige"
+        ],
+        "materials": [
+          "White paint",
+          "Wood",
+          "Metallic hardware"
+        ],
+        "lighting": "Integrated LED lights in the shelving unit",
+        "texture": "Smooth surfaces with a matte finish on the wardrobe, natural grain on the shelving"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence noted",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design, modern lighting"
+        ],
+        "space_utilization": "Efficient use of vertical space with a built-in shelving unit",
+        "cultural_significance": "No culturally significant elements are present"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern minimalist closet with a clean white wardrobe and a built-in shelving unit with integrated lighting. The space is organized with a focus on efficient vertical storage. The design incorporates contemporary materials and finishes, suitable for a contemporary Indian home.",
+      "metadata": {
+        "tags": [
+          "Minimalist Closet",
+          "Efficient Storage",
+          "Modern Design",
+          "Interior Closet"
+        ],
+        "budget_indicator": "Moderate, suitable for a modern home renovation",
+        "space_type": "Residential",
+        "functionality": "Storage and organization",
+        "indian_specific": "No Indian-specific design features are present"
+      }
+    }
+  },
+  "cached_at": 1753446363450,
+  "cache_key": "b1fa0b58f297ec8781034bbf1e9fad85"
+}

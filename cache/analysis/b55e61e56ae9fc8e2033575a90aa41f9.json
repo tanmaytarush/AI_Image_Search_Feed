@@ -1,0 +1,108 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.11.08%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_064",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Modern sofa set",
+        "Marble floor",
+        "Wall-mounted shelves",
+        "Abstract art piece",
+        "Circular coffee table"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "U-shaped design",
+            "Neutral beige color",
+            "Brown wooden base"
+          ],
+          "materials": [
+            "Fabric upholstery",
+            "Wood"
+          ],
+          "finish": "Fabric has a matte finish, wood has a polished finish"
+        },
+        {
+          "type": "Coffee Table",
+          "features": [
+            "Circular shape",
+            "Wooden material"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished wood finish"
+        },
+        {
+          "type": "Shelves",
+          "features": [
+            "Wall-mounted",
+            "Multi-layered",
+            "Wooden shelves with white doors"
+          ],
+          "materials": [
+            "Wood",
+            "MDF or similar material"
+          ],
+          "finish": "Dark wood with white glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "Brown",
+          "White",
+          "Black",
+          "Green",
+          "Blue",
+          "Marble gray"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal",
+          "Fabric"
+        ],
+        "lighting": "Natural light from the window, supplemented by recessed lights in the ceiling",
+        "texture": "Smooth surfaces of furniture and walls, patterned rug, glossy marble floor"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly Indian regional style",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture and minimalist design, inspiration possibly from modern Indian homes"
+        ],
+        "space_utilization": "Efficient use of space with a focus on functionality and aesthetics. Shelves provide storage and utility.",
+        "cultural_significance": "The modern design reflects a blend of Indian contemporary tastes, likely influenced by global modern designs."
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.9,
+        "objects": 0.95,
+        "indian_context": 0.6
+      },
+      "description": "This living room showcases a modern and minimalist design with a hint of contemporary Indian aesthetics. The neutral color palette, sleek furniture, and efficient use of space are indicative of a contemporary style. However, the absence of traditional Indian elements suggests this is not a purely Indian design but rather a modern interpretation with global influences.",
+      "metadata": {
+        "tags": [
+          "Modern Living",
+          "Minimalist Interior",
+          "Contemporary Style",
+          "Indian Contemporary"
+        ],
+        "budget_indicator": "Moderate, with a focus on high-quality materials like marble and polished wood",
+        "space_type": "Residential Living Room",
+        "functionality": "Social and relaxation area",
+        "indian_specific": "The design elements are not distinctly Indian, with a modern and global influence"
+      }
+    }
+  },
+  "cached_at": 1753451341968,
+  "cache_key": "b55e61e56ae9fc8e2033575a90aa41f9"
+}

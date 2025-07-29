@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.30%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_021",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist Modern",
+      "primary_features": [
+        "Wardrobe with sliding doors",
+        "Wall-mounted lighting",
+        "Modern furniture"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Sliding glass doors",
+            "Frosted glass panels",
+            "Metal frame",
+            "Arched window design"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Sofa",
+          "features": [
+            "Modern design",
+            "Comfortable cushions",
+            "Light fabric"
+          ],
+          "materials": [
+            "Fabric",
+            "Foam"
+          ],
+          "finish": "Soft and plush"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Gray",
+          "White",
+          "Brown",
+          "Metallic"
+        ],
+        "materials": [
+          "Glass",
+          "Metal",
+          "Fabric",
+          "Foam"
+        ],
+        "lighting": "Wall-mounted recessed lighting",
+        "texture": "Smooth, glossy, and fabric textures"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design with Indian influences in furniture and lighting"
+        ],
+        "space_utilization": "Efficient use of space with integrated wardrobe and furniture",
+        "cultural_significance": "Cultural relevance is minimal in this modern Indian design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.6
+      },
+      "description": "This interior space is a contemporary bedroom with a minimalist modern design. The wardrobe features sliding glass doors with frosted glass panels and metallic frames, reflecting a blend of modern and Indian aesthetics. The space utilizes a neutral color palette of gray, white, and brown. Modern furniture, including a comfortable sofa, complements the overall design. The integration of wall-mounted lighting adds a touch of sophistication.",
+      "metadata": {
+        "tags": [
+          "Minimalist Modern",
+          "Bedroom",
+          "Contemporary Design",
+          "Glass Doors",
+          "Wall Lighting"
+        ],
+        "budget_indicator": "Mid-range due to the use of modern materials like glass and metallic frames",
+        "space_type": "Residential",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Mild Indian influence in the modern wardrobe design"
+      }
+    }
+  },
+  "cached_at": 1753446118012,
+  "cache_key": "c969f81b1a69fa059a1fea1712a74d96"
+}

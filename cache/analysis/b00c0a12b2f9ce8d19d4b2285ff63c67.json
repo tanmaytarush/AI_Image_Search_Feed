@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/131/image_cropper_1726667550245.jpg",
+  "analysis": {
+    "image_id": "img_320",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Built-in wardrobe",
+        "Bunk bed",
+        "Simple bedside table"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "White color",
+            "Modern design",
+            "Vented doors"
+          ],
+          "materials": [
+            "MDF or wood"
+          ],
+          "finish": "Matte paint"
+        },
+        {
+          "type": "Bunk bed",
+          "features": [
+            "White color",
+            "Simple design",
+            "Metal frame"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Painted"
+        },
+        {
+          "type": "Bedside table",
+          "features": [
+            "White color",
+            "Simple design",
+            "Drawers"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Painted"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Beige",
+          "Brown"
+        ],
+        "materials": [
+          "MDF, wood, metal"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Minimalist furniture design, modern materials"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "Not applicable"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a minimalist bedroom with a built-in wardrobe, a bunk bed, and a simple bedside table. The overall design is modern with a focus on efficiency and cleanliness, lacking any traditional Indian elements or cultural significance. The use of white and beige colors, along with simple designs and modern materials like MDF and metal, reflects a contemporary approach to interior design. The space is organized for practicality and functionality, with built-in furniture for storage.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Bedroom",
+          "Modern",
+          "Built-in furniture",
+          "Efficient space"
+        ],
+        "budget_indicator": "Moderate, with the use of modern materials but simple designs",
+        "space_type": "Residential",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "None"
+      }
+    }
+  },
+  "cached_at": 1753460393773,
+  "cache_key": "b00c0a12b2f9ce8d19d4b2285ff63c67"
+}

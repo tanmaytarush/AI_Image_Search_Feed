@@ -1,0 +1,42 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/764/image_cropper_1729248986928.jpg",
+  "analysis": {
+    "image_id": "img_149",
+    "ai_generated_tags": {
+      "room": "Not applicable - This appears to be a close-up portrait of a person's face.",
+      "theme": "Not applicable - This image does not depict an interior space.",
+      "primary_features": [],
+      "objects": [],
+      "visual_attributes": {
+        "colors": [],
+        "materials": [],
+        "lighting": "Ambient light with no specific sources visible.",
+        "texture": []
+      },
+      "indian_context": {
+        "regional_style": "Not applicable - This is not an Indian interior design scene.",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "N/A - This is not a space but a portrait.",
+        "cultural_significance": "N/A - This does not depict cultural elements."
+      },
+      "confidence_scores": {
+        "room": 0,
+        "theme": 0,
+        "primary_features": 0,
+        "objects": 0,
+        "indian_context": 0
+      },
+      "description": "This is a close-up portrait of a person's face, with no discernible Indian design elements, interior space, or cultural significance. The image focuses solely on a person's face, with no visible furniture, architectural elements, or cultural decorations.",
+      "metadata": {
+        "tags": [],
+        "budget_indicator": "N/A - A portrait of a person's face does not provide information about budget level.",
+        "space_type": "N/A - This is not an interior space.",
+        "functionality": "N/A - A portrait of a person's face does not serve a functional purpose.",
+        "indian_specific": "N/A - There are no Indian-specific design features in this image."
+      }
+    }
+  },
+  "cached_at": 1753449236943,
+  "cache_key": "4e7e115e7e2e9c7d0b09aa74dde0dc30"
+}

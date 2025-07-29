@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/111/image_cropper_1726652899708.jpg",
+  "analysis": {
+    "image_id": "img_148",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Dark wood paneling",
+        "Modern furniture",
+        "Large wardrobe",
+        "Dark paint"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Dark wood finish",
+            "Modern design",
+            "Large size with multiple compartments"
+          ],
+          "materials": [
+            "Dark wood"
+          ],
+          "finish": "Shiny dark wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown",
+          "Black",
+          "White"
+        ],
+        "materials": [
+          "Dark wood",
+          "Laminate"
+        ],
+        "lighting": "Natural light from a window on the left side",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Rounded edges",
+          "Modern wardrobe design"
+        ],
+        "space_utilization": "Efficient use of vertical space with large wardrobe",
+        "cultural_significance": "No specific cultural elements present in the image"
+      },
+      "confidence_scores": {
+        "room": 0.78,
+        "theme": 0.85,
+        "primary_features": 0.85,
+        "objects": 0.88,
+        "indian_context": 0.65
+      },
+      "description": "The image depicts a modern bedroom with a minimalist design. The room features dark wood paneling and a large wardrobe, which are modern adaptations of traditional Indian elements. The space is efficiently organized, utilizing vertical space with the wardrobe, and the overall color palette is dark with black and dark brown tones, complemented by white accents. The lighting is natural, coming from a window on the left side, and the surfaces are smooth and polished.",
+      "metadata": {
+        "tags": [
+          "Minimalist Bedroom",
+          "Modern Design",
+          "Dark Wood",
+          "Large Wardrobe",
+          "Modern Adaptation"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential Bedroom",
+        "functionality": "Storage and sleeping area",
+        "indian_specific": "Modern interpretation of traditional Indian elements such as wardrobe design and wood materials"
+      }
+    }
+  },
+  "cached_at": 1753449221627,
+  "cache_key": "93c0e838004d134da6d7d7ee9bb3db76"
+}

@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/209/image_cropper_1726914156967.jpg",
+  "analysis": {
+    "image_id": "img_226",
+    "ai_generated_tags": {
+      "room": "Master Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden bed frame",
+        "Wall-mounted wardrobe",
+        "Flat-screen TV"
+      ],
+      "objects": [
+        {
+          "type": "Bed frame",
+          "features": [
+            "Elevated",
+            "Modern design with clean lines"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish with a glossy top coat"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Wall-mounted",
+            "Integrated with the bed frame"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Matte finish with white doors"
+        },
+        {
+          "type": "TV",
+          "features": [
+            "Flat-screen",
+            "Integrated into the wardrobe design"
+          ],
+          "materials": [
+            "Glass, metal"
+          ],
+          "finish": "Metal frame with a matte glass front"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gray"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from the window and artificial light from the ceiling",
+        "texture": "Smooth wood texture, glossy wood finish, matte glass"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian",
+        "traditional_elements": [
+          "Wooden bed frame"
+        ],
+        "modern_adaptations": [
+          "Wall-mounted wardrobe, flat-screen TV"
+        ],
+        "space_utilization": "Optimized for a small room, with furniture designed to maximize vertical space",
+        "cultural_significance": "The wooden bed frame reflects traditional craftsmanship, while the modern elements symbolize contemporary living"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This contemporary Indian master bedroom features a sleek wooden bed frame with an elevated design, wall-mounted wardrobes that blend seamlessly with the room's aesthetic, and a flat-screen TV integrated into the wardrobe, maximizing space while maintaining a modern look. The color palette consists of earthy browns and whites, reflecting traditional elements with a twist of modernity.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Master Bedroom",
+          "Wooden Bed",
+          "Wall-Mounted Wardrobe",
+          "Maharashtrian Style"
+        ],
+        "budget_indicator": "Mid-range, with a focus on quality materials and design",
+        "space_type": "Residential, private suite",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Traditional woodwork in a modern setting"
+      }
+    }
+  },
+  "cached_at": 1753459450753,
+  "cache_key": "da660a4453fb6b8e4f5a2c87dc7e72d3"
+}

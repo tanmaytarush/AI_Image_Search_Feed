@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/53/image_cropper_1726467433786.jpg",
+  "analysis": {
+    "image_id": "img_382",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian Interior",
+      "primary_features": [
+        "Double bed",
+        "Curtains",
+        "Bedspread",
+        "Curtains"
+      ],
+      "objects": [
+        {
+          "type": "Double bed",
+          "features": [
+            "Wooden frame",
+            "Fabric upholstery"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Smooth wooden finish and soft fabric"
+        },
+        {
+          "type": "Curtains",
+          "features": [
+            "Sheer fabric",
+            "Fringed edge",
+            "Matching bedspread"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth fabric with decorative fringes"
+        },
+        {
+          "type": "Bedspread",
+          "features": [
+            "White with blue stripes"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Embroidered fabric with patterned design"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Blue",
+          "Brown",
+          "Gray"
+        ],
+        "materials": [
+          "Fabric",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from windows, dim indoor lighting",
+        "texture": "Smooth fabric textures, polished wood"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Fringed curtains",
+          "Embroidered bedspread"
+        ],
+        "modern_adaptations": [
+          "Minimalist furniture design",
+          "Neutral color palette"
+        ],
+        "space_utilization": "Efficient use of vertical space with curtains",
+        "cultural_significance": "Curtains and bedspreads are traditional elements symbolizing comfort and hospitality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The bedroom showcases a modern take on traditional North Indian interior design, featuring a double bed with a wooden frame and fabric upholstery, fringed curtains in matching colors, and an embroidered bedspread. The space utilizes neutral tones with white and blue accents, emphasizing comfort and cultural relevance through traditional elements.",
+    "metadata": {
+      "tags": [
+        "Bedroom",
+        "Modern Indian",
+        "Double Bed",
+        "Furniture",
+        "Curtains",
+        "Bedspread",
+        "North Indian Design"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials like fabric and wood",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and resting area",
+      "indian_specific": "Fringed curtains and embroidered bedspread"
+    }
+  },
+  "cached_at": 1753461173135,
+  "cache_key": "9fcc901071abda98342ccadc4bae1892"
+}

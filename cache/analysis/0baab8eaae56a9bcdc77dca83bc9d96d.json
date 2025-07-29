@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1052/image_cropper_1729510854349.jpg",
+  "analysis": {
+    "image_id": "img_358",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "modern",
+      "primary_features": [
+        "wardrobe with sliding doors",
+        "door with wooden finish",
+        "white ceiling with recessed lighting"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe",
+          "features": [
+            "sliding door with frosted panels",
+            "storage compartments"
+          ],
+          "materials": [
+            "MDF with matte finish",
+            "glass for doors"
+          ],
+          "finish": "matte finish"
+        },
+        {
+          "type": "door",
+          "features": [
+            "wooden finish",
+            "smooth surface"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "brown",
+          "white",
+          "black"
+        ],
+        "materials": [
+          "wood",
+          "MDF",
+          "glass",
+          "metal"
+        ],
+        "lighting": "recessed downlights",
+        "texture": "smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": null,
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "frosted glass panels for wardrobe doors",
+          "modern wardrobe design"
+        ],
+        "space_utilization": "efficient use of vertical space with wardrobe",
+        "cultural_significance": null
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern bedroom with simple and functional design elements. The space features a wardrobe with sliding doors, a wooden door, and a white ceiling with recessed lighting. The wardrobe has frosted glass panels for the doors, adding a touch of modernity to the traditional wardrobe design. The room utilizes efficient vertical space with a wardrobe, indicating a modern approach to bedroom design. The materials used include MDF for the wardrobe, glass for the doors, and wood for the door, with a polished and matte finish. The color palette is neutral with brown, white, and black tones. There are no traditional Indian elements present, and the design appears to be a modern interpretation of Indian interior design, possibly influenced by urban contemporary styles.",
+      "metadata": {
+        "tags": [
+          "bedroom",
+          "modern design",
+          "wardrobe",
+          "frosted glass",
+          "wooden door",
+          "recessed lighting"
+        ],
+        "budget_indicator": "moderate, with use of MDF, glass, and polished wood",
+        "space_type": "residential bedroom",
+        "functionality": "storage and organization",
+        "indian_specific": "no Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1753460865893,
+  "cache_key": "0baab8eaae56a9bcdc77dca83bc9d96d"
+}

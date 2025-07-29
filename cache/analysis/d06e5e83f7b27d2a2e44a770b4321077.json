@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/330/image_cropper_E7F6EC54-C265-4659-9FDF-F5020B544D97-75373-00000CF0BFF33267.jpg",
+  "analysis": {
+    "image_id": "img_126",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Dark cabinetry",
+        "White countertops",
+        "Island counter",
+        "Modern lighting"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen Island",
+          "features": [
+            "Sleek design",
+            "Integrated sink",
+            "Bar stools underneath"
+          ],
+          "materials": [
+            "Wooden surface",
+            "Metal frame"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown, white, black"
+        ],
+        "materials": [
+          "Wood, metal, glass"
+        ],
+        "lighting": "Bright indoor lighting, overhead pendant lights",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary design blending traditional Indian aesthetics"
+        ],
+        "space_utilization": "Efficient use of space with an island counter for additional workspace",
+        "cultural_significance": "No traditional Indian elements, concentrating on a modern, minimalist look"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The kitchen features a modern, minimalist design with a sleek kitchen island as the centerpiece. The cabinetry is dark brown, contrasting with the white countertops and modern pendant lights overhead. The island includes a built-in sink and bar stools, creating a functional and stylish space.",
+      "metadata": {
+        "tags": [
+          "Contemporary Kitchen",
+          "Modern Design",
+          "Minimalist",
+          "Island Counter",
+          "Dark Brown Cabinets"
+        ],
+        "budget_indicator": "Mid to high budget due to the use of high-quality materials and finishes",
+        "space_type": "Residential",
+        "functionality": "Primary kitchen space with additional bar seating",
+        "indian_specific": "No visible Indian-specific design features, adhering to modern aesthetics."
+      }
+    }
+  },
+  "cached_at": 1753448773167,
+  "cache_key": "d06e5e83f7b27d2a2e44a770b4321077"
+}

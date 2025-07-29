@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/975/image_cropper_1729409250434.jpg",
+  "analysis": {
+    "image_id": "img_421",
+    "ai_generated_tags": {
+      "room": "Office",
+      "theme": "Modern",
+      "primary_features": [
+        "Green marble desk",
+        "Wooden chairs",
+        "Computer monitors"
+      ],
+      "objects": [
+        {
+          "type": "Desk",
+          "features": [
+            "Green marble top",
+            "Wooden frame",
+            "Integrated drawers"
+          ],
+          "materials": [
+            "Marble, Wood"
+          ],
+          "finish": "High gloss finish"
+        },
+        {
+          "type": "Chair",
+          "features": [
+            "Wooden construction",
+            "Brown upholstery"
+          ],
+          "materials": [
+            "Wood, Fabric"
+          ],
+          "finish": "Natural wood finish, fabric upholstery"
+        },
+        {
+          "type": "Monitor",
+          "features": [
+            "Computer monitors placed on the desk"
+          ],
+          "materials": [
+            "Plastic, glass"
+          ],
+          "finish": "Standard computer monitor finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green, Brown, White, Black"
+        ],
+        "materials": [
+          "Marble, Wood, Plastic, Fabric"
+        ],
+        "lighting": "Artificial lighting, likely from overhead fixtures",
+        "texture": "Smooth marble, natural wood grain, fabric upholstery, flat computer screens"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional Indian style evident",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Modern materials and design with no traditional Indian elements"
+        ],
+        "space_utilization": "Efficient space usage with desk and chairs arranged for work",
+        "cultural_significance": "No culturally significant elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.85
+      },
+      "description": "The image depicts a modern office space with a green marble desk and wooden chairs. The design is minimalistic with no Indian-specific elements, focusing on functionality and contemporary aesthetics. The lighting appears to be artificial, likely from overhead fixtures, and the space is organized for work purposes.",
+      "metadata": {
+        "tags": [
+          "Office",
+          "Modern",
+          "Green Desk",
+          "Wooden Chairs",
+          "Computer Monitors"
+        ],
+        "budget_indicator": "Moderate, with use of materials like marble and wood",
+        "space_type": "Residential Office",
+        "functionality": "Workstation for office personnel",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1753461688359,
+  "cache_key": "d05789f3b476a4be50df4d44c25bdc0c"
+}

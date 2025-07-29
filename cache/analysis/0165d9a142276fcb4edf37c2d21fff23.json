@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/820/image_cropper_1729262195519.jpg",
+  "analysis": {
+    "image_id": "img_326",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Geometric patterned wall panels",
+        "Modern furniture design",
+        "Black and white color scheme"
+      ],
+      "objects": [
+        {
+          "type": "Wall panel",
+          "features": [
+            "Geometric patterned design",
+            "Black and white color scheme",
+            "Modern aesthetic"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Furniture",
+          "features": [
+            "Modern design with clean lines",
+            "Black and white color scheme"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Smooth and glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black",
+          "White",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light with soft indoor illumination",
+        "texture": "Smooth and glossy"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern design with traditional Indian color palettes"
+        ],
+        "space_utilization": "Optimized use of space with wall panels for storage",
+        "cultural_significance": "Modern interpretation of traditional Indian color schemes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a contemporary interpretation of Indian interior design, characterized by a modern living room with geometric patterned wall panels in black and white. The design incorporates traditional Indian color schemes and materials in a modern context. The room features sleek, minimalist furniture with a focus on clean lines and a glossy finish, reflecting a blend of traditional aesthetics and modern simplicity.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Geometric design",
+          "Black and white",
+          "Modern furniture",
+          "Interior design"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Living Room",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "Modern adaptation of traditional colors and patterns"
+      }
+    }
+  },
+  "cached_at": 1753460482191,
+  "cache_key": "0165d9a142276fcb4edf37c2d21fff23"
+}

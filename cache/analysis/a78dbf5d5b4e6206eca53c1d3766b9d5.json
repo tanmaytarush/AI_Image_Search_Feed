@@ -1,0 +1,121 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.19%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_075",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Large sectional sofa",
+        "Round wooden coffee table",
+        "Multi-tier floating shelves",
+        "Marble and wood dining table",
+        "Marble flooring"
+      ],
+      "objects": [
+        {
+          "type": "Sectional sofa",
+          "features": [
+            "U-shaped design",
+            "Tufted upholstery",
+            "Soft cushions"
+          ],
+          "materials": [
+            "Fabric",
+            "Wood"
+          ],
+          "finish": "Smooth, matte"
+        },
+        {
+          "type": "Round coffee table",
+          "features": [
+            "Solid round design",
+            "Natural wood finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural, polished"
+        },
+        {
+          "type": "Multi-tier floating shelves",
+          "features": [
+            "Geometric design",
+            "Black metal frame"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy, black"
+        },
+        {
+          "type": "Marble and wood dining table",
+          "features": [
+            "Rectangular shape",
+            "Combination of marble and wood"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Marble polished, wood natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black",
+          "Blue",
+          "Green",
+          "Marble grey"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Metal",
+          "Fabric",
+          "Glass"
+        ],
+        "lighting": "Natural light from windows, contemporary pendant lights",
+        "texture": "Smooth, polished, matte, natural"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Sectional sofa design",
+          "Marble flooring"
+        ],
+        "modern_adaptations": [
+          "Geometric floating shelves",
+          "Sleek dining table design"
+        ],
+        "space_utilization": "Open-plan living, dining, and kitchen area with practical storage solutions",
+        "cultural_significance": "Indian design elements like marble flooring celebrate traditional materials, while modern furniture and lighting reflect contemporary styles"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary Indian living room integrates traditional Indian materials like marble and wood with modern design elements, creating a harmonious blend of tradition and innovation. The space features a large U-shaped sectional sofa, a round wooden coffee table, multi-tier floating shelves, and a sleek marble and wood dining table. The use of natural lighting and contemporary pendant lights enhances the room's airy and spacious feel.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Living Room",
+        "Marble Flooring",
+        "Wooden Furniture",
+        "Geometric Shelves"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Entertainment and dining",
+      "indian_specific": "Marble flooring and modern interpretation of traditional furniture"
+    }
+  },
+  "cached_at": 1753451430776,
+  "cache_key": "a78dbf5d5b4e6206eca53c1d3766b9d5"
+}

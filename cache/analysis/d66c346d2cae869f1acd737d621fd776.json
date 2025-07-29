@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.21%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_003",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Decorative ceiling panels",
+        "Wooden paneling on walls",
+        "Modern lighting"
+      ],
+      "objects": [
+        {
+          "type": "Ceiling panels",
+          "features": [
+            "Geometric patterns, cut-out design"
+          ],
+          "materials": [
+            "Painted or lacquered surfaces"
+          ],
+          "finish": "Smooth, glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from ceiling panels, possibly with under-cabinet lighting",
+        "texture": "Smooth surfaces with intricate patterns"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style identified",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Incorporates traditional patterns in a modern context"
+        ],
+        "space_utilization": "Efficient use of vertical space with decorative elements",
+        "cultural_significance": "Cultural significance lies in the geometric patterns, often seen in traditional Indian architecture"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern foyer with contemporary Indian design elements, featuring decorative ceiling panels with geometric patterns and wooden paneling on the walls. The space utilizes vertical space effectively, combining traditional patterns with a modern aesthetic, creating a blend of cultural relevance and contemporary design.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Design",
+          "Foyer Design",
+          "Geometric Patterns",
+          "Wood Paneling",
+          "Decorative Ceiling"
+        ],
+        "budget_indicator": "Moderate, given the use of decorative ceiling panels and wooden elements",
+        "space_type": "Foyer",
+        "functionality": "Entrance area, likely leading to more private spaces of the house",
+        "indian_specific": "Modern interpretation of traditional Indian geometric patterns"
+      }
+    }
+  },
+  "cached_at": 1753457532105,
+  "cache_key": "d66c346d2cae869f1acd737d621fd776"
+}

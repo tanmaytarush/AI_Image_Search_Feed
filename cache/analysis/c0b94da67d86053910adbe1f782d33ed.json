@@ -1,0 +1,111 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/637/image_cropper_1729238861629.jpg",
+  "analysis": {
+    "image_id": "img_317",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Dark wood cabinets",
+        "White countertops",
+        "Inset shelving",
+        "Minimalist design",
+        "Lighting fixture"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Dark wood with simple lines",
+            "Plywood or engineered wood finish"
+          ],
+          "materials": [
+            "Dark wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Smooth, polished surface",
+            "Dark color contrasts with cabinets"
+          ],
+          "materials": [
+            "Granite or quartz"
+          ],
+          "finish": "Highly polished"
+        },
+        {
+          "type": "Shelving",
+          "features": [
+            "Inset shelves with wooden frames",
+            "Simple design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Modern, sleek design with multiple bulbs"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Chrome"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark wood tones",
+          "White walls",
+          "Black countertops",
+          "Neutral wall color"
+        ],
+        "materials": [
+          "Wood",
+          "Granite or quartz",
+          "Metal"
+        ],
+        "lighting": "Artificial lighting with recessed ceiling lights and a modern wall-mounted fixture",
+        "texture": "Smooth surfaces with glossy and matte finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, as this is a modern interpretation",
+        "traditional_elements": [
+          "Minimal traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Use of dark wood for modern appeal"
+        ],
+        "space_utilization": "Efficient use of space with in-built shelving and minimalistic design",
+        "cultural_significance": "Modern Indian kitchens often aim for functionality and aesthetics, reflecting contemporary preferences"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern Indian kitchen with a sleek, minimalist design. Dark wood cabinets with a glossy finish are paired with white walls and black countertops, creating a striking contrast. Inset shelving and a modern lighting fixture contribute to the contemporary feel, while the absence of traditional Indian elements like carved wood or marble inlays indicates a focus on modern aesthetics. The kitchen appears to be optimized for functionality with efficient space utilization.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Dark Wood Cabinets",
+          "White Walls",
+          "Black Countertops",
+          "Minimalist Design"
+        ],
+        "budget_indicator": "Moderate, as dark wood and polished materials are used but still within a modern budget range",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is meal preparation and storage",
+        "indian_specific": "Minimal traditional Indian design elements, focusing on modern appeal"
+      }
+    }
+  },
+  "cached_at": 1753460359843,
+  "cache_key": "c0b94da67d86053910adbe1f782d33ed"
+}

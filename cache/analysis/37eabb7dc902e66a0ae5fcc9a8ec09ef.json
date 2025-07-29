@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/792/image_cropper_1729258957694.jpg",
+  "analysis": {
+    "image_id": "img_129",
+    "ai_generated_tags": {
+      "room": "Sitting Area",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Sofa with tufted backrest",
+        "Wall-mounted shelves",
+        "Artwork"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Tufted backrest",
+            "Textured fabric"
+          ],
+          "materials": [
+            "Fabric, upholstery material"
+          ],
+          "finish": "Soft and plush texture"
+        },
+        {
+          "type": "Wall-mounted shelves",
+          "features": [
+            "Elegant design",
+            "Blue finish"
+          ],
+          "materials": [
+            "Painted wood or metal"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Artwork",
+          "features": [
+            "Simplistic design",
+            "Abstract pattern"
+          ],
+          "materials": [
+            "Canvas, frame"
+          ],
+          "finish": "Matte and vibrant colors"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue, white, beige, metallic accents"
+        ],
+        "materials": [
+          "Fabric, wood, metal, canvas"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Soft fabric, smooth wood, glossy metal"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regionalized, but influenced by modern Indian design",
+        "traditional_elements": [
+          "Tufted backrest"
+        ],
+        "modern_adaptations": [
+          "Wall-mounted shelves, contemporary artwork"
+        ],
+        "space_utilization": "Efficient use of space with wall-mounted shelves for storage",
+        "cultural_significance": "The tufted backrest is a traditional element adapted to modern settings"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern Indian sitting area featuring a tufted backrest sofa, wall-mounted shelves, and abstract artwork, blending traditional elements with contemporary design.",
+      "metadata": {
+        "tags": [
+          "Sofa",
+          "Sitting Area",
+          "Contemporary Indian",
+          "Wall-mounted shelves"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Living Room",
+        "functionality": "Reception or relaxation space",
+        "indian_specific": "Tufted backrest"
+      }
+    }
+  },
+  "cached_at": 1753448841460,
+  "cache_key": "37eabb7dc902e66a0ae5fcc9a8ec09ef"
+}

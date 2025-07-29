@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/618/image_cropper_1729140069382.jpg",
+  "analysis": {
+    "image_id": "img_247",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian with traditional accents",
+      "primary_features": [
+        "Modern furniture, traditional carved headboard, wooden door, weathered wall texture"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Modern design with a traditional carved headboard"
+          ],
+          "materials": [
+            "Wood, fabric"
+          ],
+          "finish": "Fabric with a textured pattern, wood with a natural finish"
+        },
+        {
+          "type": "Door",
+          "features": [
+            "Wooden, rectangular, with a minimalist design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral tones like beige, brown, and grey, with pops of wood and metallic accents"
+        ],
+        "materials": [
+          "Wood, fabric, metal"
+        ],
+        "lighting": "Soft, ambient lighting with a modern fixture above the bed",
+        "texture": "Weathered wall texture, soft fabric texture, wood grain"
+      },
+      "indian_context": {
+        "regional_style": "This appears to be a modern take on a Rajasthan or Northern Indian style, given the weathered texture and the traditional carved headboard.",
+        "traditional_elements": [
+          "Carved headboard"
+        ],
+        "modern_adaptations": [
+          "Contemporary lines and materials like wood and fabric in a modern design"
+        ],
+        "space_utilization": "The space is organized with a focus on comfort and functionality, with the bed as the central element.",
+        "cultural_significance": "The carved headboard and weathered wall texture reflect traditional craftsmanship and a connection to regional architectural elements, indicating a respect for heritage while embracing modernity."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This bedroom blends a modern design aesthetic with traditional Indian elements, such as the carved headboard and the weathered wall texture. The use of neutral colors and natural materials, along with a simple yet elegant fixture, creates a serene and inviting atmosphere. The minimalist wooden door complements the overall modern yet traditional style of the space.",
+      "metadata": {
+        "tags": [
+          "Modern Indian, contemporary, carved headboard, weathered walls, wooden door, neutral tones"
+        ],
+        "budget_indicator": "Moderate to high, given the use of high-quality materials and craftsmanship",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose is for rest and relaxation, with the design focusing on a comfortable and stylish sleeping area.",
+        "indian_specific": "The carved headboard and weathered wall texture highlight traditional Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1753450460704,
+  "cache_key": "e91f5abb03fa5c3726dc9f99535a4065"
+}

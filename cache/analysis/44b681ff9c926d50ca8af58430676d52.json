@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/307/image_cropper_1727700379835.jpg",
+  "analysis": {
+    "image_id": "img_123",
+    "ai_generated_tags": {
+      "room": "Living Area",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Wall-mounted shelves",
+        "Modern furniture",
+        "Mirror"
+      ],
+      "objects": [
+        {
+          "type": "Shelving Unit",
+          "features": [
+            "Wall-mounted, multi-tiered, modern design"
+          ],
+          "materials": [
+            "Metal frame, glass panels"
+          ],
+          "finish": "Polished metal finish, clear glass"
+        },
+        {
+          "type": "Furniture",
+          "features": [
+            "Minimalistic, modern design with clean lines"
+          ],
+          "materials": [
+            "Wood, metal"
+          ],
+          "finish": "Warm wood tones, metallic accents"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Large rectangular mirror with modern frame"
+          ],
+          "materials": [
+            "Glass, metal frame"
+          ],
+          "finish": "Clear glass, metallic frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, gold, brown, black"
+        ],
+        "materials": [
+          "Metal, glass, wood"
+        ],
+        "lighting": "Natural light from the window, diffused indoor lighting",
+        "texture": "Smooth metal, polished glass, matte wood"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary interpretation of modern furniture and storage solutions"
+        ],
+        "space_utilization": "Efficient use of vertical space with wall-mounted shelves",
+        "cultural_significance": "No culturally significant elements visible, more of a modern take on Indian aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The space features a contemporary fusion design with modern furniture, wall-mounted shelving, and a large mirror, blending traditional Indian elements with a modern twist. The use of metal shelving, glass, and polished wood creates a sleek, minimalist aesthetic. The color palette of white, gold, and brown adds warmth to the otherwise contemporary setting.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian Fusion",
+          "Modern Furniture",
+          "Wall Shelves",
+          "Mirror"
+        ],
+        "budget_indicator": "Moderate, with modern materials like glass and polished wood",
+        "space_type": "Living Area",
+        "functionality": "Storage and display space, with a focus on organization and aesthetics",
+        "indian_specific": "Minimal traditional elements; modern adaptation of Indian design aesthetics"
+      }
+    }
+  },
+  "cached_at": 1753448710763,
+  "cache_key": "44b681ff9c926d50ca8af58430676d52"
+}

@@ -1,0 +1,6 @@
+transformers 
+optimum[onnxruntime]
+accelerate
+sentence_transformers
+torch
+numpy

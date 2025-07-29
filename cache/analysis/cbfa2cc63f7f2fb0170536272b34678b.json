@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/290/image_cropper_1729340146010.jpg",
+  "analysis": {
+    "image_id": "img_328",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Glass partition",
+        "Wooden door",
+        "Vanity mirror"
+      ],
+      "objects": [
+        {
+          "type": "Bathroom vanity mirror",
+          "features": [
+            "Rectangular shape",
+            "Enclosed frame"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Mahogany finish on wood, metallic frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood), Black (paint), White (glass partition)"
+        ],
+        "materials": [
+          "Wood, metal, glass"
+        ],
+        "lighting": "Natural light from outside",
+        "texture": "Smooth wood finish, reflective glass"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically identifiable",
+        "traditional_elements": [
+          "None visible"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials and design for a traditional function"
+        ],
+        "space_utilization": "Efficient use of space with a glass partition for separation",
+        "cultural_significance": "No specific cultural elements visible in the design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern bathroom with a glass partition and a wooden door leading to a vanity area. The vanity features a rectangular mirror enclosed in a wooden frame with a metallic finish. The space uses modern materials like wood, metal, and glass, reflecting a contemporary take on traditional bathroom design.",
+      "metadata": {
+        "tags": [
+          "Bathroom",
+          "Modern",
+          "Indian Design",
+          "Glass Partition",
+          "Wooden Door",
+          "Vanity Mirror"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Personal grooming and hygiene",
+        "indian_specific": "Modern adaptation of traditional materials (wood) for a bathroom setting"
+      }
+    }
+  },
+  "cached_at": 1753460501543,
+  "cache_key": "cbfa2cc63f7f2fb0170536272b34678b"
+}

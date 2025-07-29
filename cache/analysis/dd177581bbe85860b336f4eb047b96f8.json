@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1464/image_cropper_1729776325021.jpg",
+  "analysis": {
+    "image_id": "img_258",
+    "ai_generated_tags": {
+      "room": "Entrance",
+      "theme": "Indian Colonial",
+      "primary_features": [
+        "Wooden doors",
+        "Stone walls",
+        "Carved details"
+      ],
+      "objects": [
+        {
+          "type": "Wooden doors",
+          "features": [
+            "Carved wooden panels",
+            "Dark brown color"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth, polished finish"
+        },
+        {
+          "type": "Stone walls",
+          "features": [
+            "White plastered stones"
+          ],
+          "materials": [
+            "Natural stone"
+          ],
+          "finish": "Smooth plastered"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark brown",
+          "Brown"
+        ],
+        "materials": [
+          "Teak wood",
+          "Stone",
+          "Metal"
+        ],
+        "lighting": "Natural light from above",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Andhra Pradesh",
+        "traditional_elements": [
+          "Carved wooden panels",
+          "Stone walls"
+        ],
+        "modern_adaptations": [
+          "Modern lighting fixtures"
+        ],
+        "space_utilization": "Open layout with doors as the main feature",
+        "cultural_significance": "Entrance in Indian homes often symbolizes welcoming and hospitality"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a traditional Indian colonial entrance with a focus on wood and stone materials. The wooden doors are intricately carved, a hallmark of Andhra Pradesh's regional style, with a dark brown finish. The surrounding stone walls are plastered and painted white, a common practice to reflect light and keep the space cool. The entrance serves as a welcoming point with its traditional craftsmanship and strong cultural significance.",
+      "metadata": {
+        "tags": [
+          "Indian design",
+          "Colonial style",
+          "Andhra Pradesh",
+          "Wooden doors",
+          "Stone entrance"
+        ],
+        "budget_indicator": "Moderate, with visible use of teak wood and stone, indicating a mid-range budget.",
+        "space_type": "Residential",
+        "functionality": "Entrance to a home, serving as a welcoming space.",
+        "indian_specific": "Carved wooden doors and stone walls are distinctly Indian features."
+      }
+    }
+  },
+  "cached_at": 1753459731806,
+  "cache_key": "dd177581bbe85860b336f4eb047b96f8"
+}

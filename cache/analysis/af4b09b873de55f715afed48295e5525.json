@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1106/image_cropper_1729602556775.jpg",
+  "analysis": {
+    "image_id": "img_161",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Gujarati Traditional",
+      "primary_features": [
+        "Diwan",
+        "Jharokha",
+        "Carved wood elements"
+      ],
+      "objects": [
+        {
+          "type": "Diwan",
+          "features": [
+            "Carved wood design",
+            "Cushioned seating area"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished wood finish"
+        },
+        {
+          "type": "Jharokha",
+          "features": [
+            "Arched window",
+            "Decorative grille"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "Beige",
+          "Red"
+        ],
+        "materials": [
+          "Teak wood",
+          "Cushions",
+          "Brick wall"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth wood texture, soft fabric, rough brick wall"
+      },
+      "indian_context": {
+        "regional_style": "Gujarati Traditional",
+        "traditional_elements": [
+          "Diwan",
+          "Jharokha",
+          "Carved wood"
+        ],
+        "modern_adaptations": [
+          "Contemporary upholstery"
+        ],
+        "space_utilization": "Optimized for seating and aesthetic appeal",
+        "cultural_significance": "Diwan and Jharokha are significant in Gujarati homes, representing hospitality and architectural aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior showcases a traditional Gujarati living space with a Diwan and Jharokha, both intricately carved in teak wood, reflecting the region's rich architectural heritage. The warm brown and beige color palette, complemented by rich fabric cushions, creates a welcoming and traditional ambiance. The brick wall in the background adds a rustic touch, while the natural light streaming in through the Jharokha enhances the overall charm of the space.",
+      "metadata": {
+        "tags": [
+          "Gujarati",
+          "Traditional",
+          "Diwan",
+          "Jharokha",
+          "Carved wood",
+          "Teak"
+        ],
+        "budget_indicator": "Moderate, as teak wood and detailed craftsmanship indicate a higher cost",
+        "space_type": "Living Room",
+        "functionality": "Seating and relaxation area",
+        "indian_specific": "Carved wood, Diwan, Jharokha"
+      }
+    }
+  },
+  "cached_at": 1753458947816,
+  "cache_key": "af4b09b873de55f715afed48295e5525"
+}

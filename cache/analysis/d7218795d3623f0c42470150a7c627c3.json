@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/460/image_cropper_1729074809647.jpg",
+  "analysis": {
+    "image_id": "img_357",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Contemporary Indian Residential Interior",
+      "primary_features": [
+        "Large TV unit with glass and wood finishes",
+        "Modern seating arrangement with a central coffee table",
+        "Neutral color palette with brass accents"
+      ],
+      "objects": [
+        {
+          "type": "TV unit",
+          "features": [
+            "Modern design with glass front and wooden frame",
+            "Embedded shelves for storage"
+          ],
+          "materials": [
+            "Glass, Wood"
+          ],
+          "finish": "Smooth glass and polished wood"
+        },
+        {
+          "type": "Seating",
+          "features": [
+            "Contemporary style with clean lines",
+            "No visible traditional furniture elements"
+          ],
+          "materials": [
+            "Not clearly visible"
+          ],
+          "finish": "Not clearly visible"
+        },
+        {
+          "type": "Coffee table",
+          "features": [
+            "Modern design with a minimalist aesthetic"
+          ],
+          "materials": [
+            "Not clearly visible"
+          ],
+          "finish": "Not clearly visible"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral tones (beige, brown, black)",
+          "Gold accents"
+        ],
+        "materials": [
+          "Glass, Wood, Metal"
+        ],
+        "lighting": "Soft ambient lighting with no visible direct light sources",
+        "texture": [
+          "Smooth surfaces from glass and polished wood"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, leans towards modern Indian design",
+        "traditional_elements": [
+          "No visible traditional Indian elements like jharokha or carved wood"
+        ],
+        "modern_adaptations": [
+          "Usage of modern materials and design principles with Indian influences"
+        ],
+        "space_utilization": "The space is organized with a focus on modern functionality and comfort, utilizing space around the TV unit and seating area.",
+        "cultural_significance": "The color palette and materials reflect contemporary Indian design trends, possibly influenced by modern urban lifestyles."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space showcases a modern approach to Indian residential design, with a focus on contemporary furniture and a neutral color palette accented with gold. The TV unit with a glass front and wooden frame reflects a blend of traditional and modern aesthetics, while the seating area and coffee table are clean and simple in design. The overall ambiance is one of sophistication and comfort, with a modern Indian twist.",
+      "metadata": {
+        "tags": [
+          "Modern Indian interior",
+          "Contemporary living room",
+          "Neutral color palette",
+          "Gold accents",
+          "Glass and wood finishes"
+        ],
+        "budget_indicator": "Mid-high, due to the use of glass and polished wood, which are typically higher-end materials.",
+        "space_type": "Living room",
+        "functionality": "Relaxation and entertainment, with the TV unit serving as a central focal point for the living space.",
+        "indian_specific": "The use of glass and polished wood, combined with the modern design principles, reflects a contemporary Indian design approach."
+      }
+    }
+  },
+  "cached_at": 1753460847565,
+  "cache_key": "d7218795d3623f0c42470150a7c627c3"
+}

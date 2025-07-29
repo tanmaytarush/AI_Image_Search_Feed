@@ -1,0 +1,82 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/569/image_cropper_1729079648618.jpg",
+  "analysis": {
+    "image_id": "img_217",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Interior",
+      "primary_features": [
+        "Walls with shelves",
+        "Teak finish furniture",
+        "Marble surface details",
+        "Dark wood accents",
+        "LED lighting"
+      ],
+      "objects": [
+        {
+          "type": "Teak TV Unit",
+          "features": [
+            "Built-in shelves for storage",
+            "Marble top",
+            "Dark wood frame"
+          ],
+          "materials": [
+            "Teak wood",
+            "Marble",
+            "Dark wood"
+          ],
+          "finish": "High polish, smooth texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (teak), White (marble), Black (LED strips)",
+          "Dark wood, Warm wood tones, Neutral"
+        ],
+        "materials": [
+          "Teak, Marble, Dark wood, Metal"
+        ],
+        "lighting": "LED under-cabinet lighting with dark wood frame",
+        "texture": "Smooth and glossy"
+      },
+      "indian_context": {
+        "regional_style": "Rajasthani or Western Indian Influence",
+        "traditional_elements": [
+          "Teak furniture",
+          "Marble accents"
+        ],
+        "modern_adaptations": [
+          "LED lighting",
+          "Minimalist design"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage, open layout",
+        "cultural_significance": "Teak and marble are traditional materials symbolizing strength and elegance in Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior features a modern take on traditional Indian design with a focus on warm teak wood and marble accents. A centrally placed TV unit with shelves and drawers demonstrates efficient space utilization, while LED lighting adds a contemporary touch. The black and white color scheme of the LED strips contrasts with the warm wood tones, creating a visually appealing and culturally authentic space.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Teak furniture",
+          "Marble accents",
+          "Modern Indian design",
+          "Rajasthani style",
+          "Living room",
+          "Cultural elements"
+        ],
+        "budget_indicator": "Mid-range, with high-quality materials like teak and marble",
+        "space_type": "Residential Living Room",
+        "functionality": "Entertainment and storage",
+        "indian_specific": "Teak wood and marble, cultural significance in design elements"
+      }
+    }
+  },
+  "cached_at": 1753459390757,
+  "cache_key": "febd7ac88097e459d33893457f808daf"
+}

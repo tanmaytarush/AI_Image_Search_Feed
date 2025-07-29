@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00678.JPG",
+  "analysis": {
+    "image_id": "img_005",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden ceiling beams",
+        "Brown sofa",
+        "Marble flooring",
+        "Curtains with tree pattern",
+        "Decorative wall lights"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Brown fabric",
+            "Tufted cushions",
+            "Pillow with sequin embellishment"
+          ],
+          "materials": [
+            "Fabric",
+            "Wooden legs"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Decorative Wall Lights",
+          "features": [
+            "Golden color",
+            "Shaped like a peacock",
+            "With gemstone accents"
+          ],
+          "materials": [
+            "Metal",
+            "Gemstones"
+          ],
+          "finish": "Polished and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gold",
+          "Green",
+          "Beige"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Textile",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from window, supplemented by wall-mounted lights",
+        "texture": "Smooth marble floors, textured curtains, plush sofa"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden door with brass inlays",
+          "Tree-patterned curtains",
+          "Carnival-style sofa"
+        ],
+        "modern_adaptations": [
+          "Marble flooring",
+          "Contemporary sofa design"
+        ],
+        "space_utilization": "Efficient use of space with a mix of traditional and modern elements",
+        "cultural_significance": "The room reflects traditional Indian craftsmanship and aesthetic values, incorporating cultural motifs and decorative elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This living room exemplifies a contemporary Indian design, blending traditional elements with modern aesthetics. The space features a rich brown sofa with tufted cushions, adorned with a decorative pillow, set against a backdrop of marble flooring and wooden ceiling beams. The room is enhanced by tree-patterned curtains and a carved wooden door with brass inlays, reflecting South Indian architectural influences. Contemporary touches include sleek wall-mounted lights and a polished metal peacock decoration, which adds a touch of elegance and cultural significance.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "South Indian",
+          "Marble Flooring",
+          "Wooden Ceiling",
+          "Carnival Style Sofa"
+        ],
+        "budget_indicator": "Moderate, utilizing high-quality materials like marble and polished wood",
+        "space_type": "Residential Living Room",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "Traditional furniture styles, use of wood, brass accents, and cultural motifs"
+      }
+    }
+  },
+  "cached_at": 1753445678678,
+  "cache_key": "ce27d1bac24ece493a84a711e15f0199"
+}

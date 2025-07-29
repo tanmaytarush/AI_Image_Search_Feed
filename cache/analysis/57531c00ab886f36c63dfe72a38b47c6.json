@@ -1,0 +1,70 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.49%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_014",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Glossy brown and white sliding doors with geometric gold accents"
+      ],
+      "objects": [
+        {
+          "type": "Sliding Door",
+          "features": [
+            "Glossy finish, geometric gold lines in a chevron pattern, vertical gold stripes, white lower panel"
+          ],
+          "materials": [
+            "Painted wood or MDF with gold leaf or metallic coating"
+          ],
+          "finish": "High-gloss with gold accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, white, gold"
+        ],
+        "materials": [
+          "Painted wood or MDF, metallic gold coating"
+        ],
+        "lighting": "Natural light from the left, bright and even",
+        "texture": "Smooth glossy finish with geometric patterns"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but likely Northern Indian influence due to the use of gold and carving motifs",
+        "traditional_elements": [
+          "Gold accents often associated with luxury and tradition in Indian interiors"
+        ],
+        "modern_adaptations": [
+          "Contemporary interpretation of traditional gold motifs in the geometric pattern"
+        ],
+        "space_utilization": "Minimal, likely serving as a divider or decorative feature in a larger space",
+        "cultural_significance": "Gold is a symbol of wealth and prosperity in Indian culture, often used in interiors to enhance the space's aesthetic and cultural value"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.92,
+        "primary_features": 0.88,
+        "objects": 0.95,
+        "indian_context": 0.8
+      },
+      "description": "The image showcases a contemporary interpretation of Indian design elements, featuring glossy sliding doors with a geometric gold chevron pattern and vertical gold stripes, set against a white lower panel. The use of gold accents and smooth glossy finish reflects traditional Indian aesthetics with a modern twist, emphasizing luxury and cultural symbolism.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Contemporary",
+          "Gold accents",
+          "Glossy finish",
+          "Geometric patterns",
+          "Foyer"
+        ],
+        "budget_indicator": "Mid-range to high, given the use of glossy finishes and metallic gold coating",
+        "space_type": "Foyer or entrance hall",
+        "functionality": "Serves as a decorative divider or accent piece, potentially leading to another area",
+        "indian_specific": "Geometric gold patterns with a smooth glossy finish"
+      }
+    }
+  },
+  "cached_at": 1753445934275,
+  "cache_key": "57531c00ab886f36c63dfe72a38b47c6"
+}

@@ -1,0 +1,82 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1738/insta_assets_crop_2783ff24-e371-45e3-b2c5-1c3748da1dbb7186717012756637841.jpg",
+  "analysis": {
+    "image_id": "img_388",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Panelled doors",
+        "Carpeted floor"
+      ],
+      "objects": [
+        {
+          "type": "Panelled doors",
+          "features": [
+            "Vertical stripes",
+            "Wooden texture"
+          ],
+          "materials": [
+            "Teak or similar wood"
+          ],
+          "finish": "Natural wood polish"
+        },
+        {
+          "type": "Carpeted floor",
+          "features": [
+            "Soft texture",
+            "Neutral color scheme"
+          ],
+          "materials": [
+            "Wool or synthetic blend"
+          ],
+          "finish": "Clean and smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Neutral"
+        ],
+        "materials": [
+          "Wood",
+          "Carpet"
+        ],
+        "lighting": "Ambient light from the adjacent room",
+        "texture": "Smooth and soft"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Panelled doors with modern design"
+        ],
+        "space_utilization": "Efficient use of entrance space",
+        "cultural_significance": "Minimalist approach may not have direct cultural significance in Indian design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.6,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.3
+      },
+      "description": "The image depicts a modern foyer with panelled doors and a carpeted floor, blending contemporary design with a minimalist aesthetic. The focus on clean lines and neutral colors suggests a modern approach rather than traditional Indian design elements.",
+      "metadata": {
+        "tags": [
+          "Foyer",
+          "Minimalist",
+          "Panelled Doors",
+          "Carpeted Floor"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Entrance and transition space",
+        "indian_specific": "No Indian-specific design features are visible"
+      }
+    }
+  },
+  "cached_at": 1753461297018,
+  "cache_key": "fbdccf3f531d9df39468bde253fad1db"
+}

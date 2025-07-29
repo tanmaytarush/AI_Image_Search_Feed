@@ -1,0 +1,80 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1150/image_cropper_1729608808379.jpg",
+  "analysis": {
+    "image_id": "img_159",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Green cabinets",
+        "White countertops",
+        "Integrated appliances"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Green color, glossy finish, mounted on the wall"
+          ],
+          "materials": [
+            "Green Lacquer"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "White, smooth, rectangular design"
+          ],
+          "materials": [
+            "Man-made composite material"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Green Lacquer",
+          "Man-made composite",
+          "Metal"
+        ],
+        "lighting": "Natural light from the left, artificial light from the ceiling",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not indicative of a specific regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Efficient use of wall space for cabinets and countertops",
+        "cultural_significance": "Minimal involvement of traditional Indian elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.2
+      },
+      "description": "The image depicts a modern kitchen with a focus on minimalism. The kitchen features green lacquered cabinets mounted on the wall, white countertops, and integrated appliances. The design is clean and contemporary, with a focus on functionality and a modern aesthetic. There are no traditional Indian elements visible, indicating a departure from regional design influences.",
+      "metadata": {
+        "tags": [
+          "Modern Kitchen",
+          "Green Cabinets",
+          "Minimalist Design",
+          "White Countertops"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is food preparation",
+        "indian_specific": "No Indian-specific design features are present"
+      }
+    }
+  },
+  "cached_at": 1753449410679,
+  "cache_key": "957c9093e66fc02f90a1c0fcdfd75038"
+}

@@ -1,0 +1,83 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/468/image_cropper_1729262047080.jpg",
+  "analysis": {
+    "image_id": "img_166",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden floor",
+        "Teak furniture",
+        "Carpeted area"
+      ],
+      "objects": [
+        {
+          "type": "Carved teak furniture",
+          "features": [
+            "Intricate wood carvings",
+            "Dark brown color"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished surface"
+        },
+        {
+          "type": "Carpeted area",
+          "features": [
+            "Light beige carpet"
+          ],
+          "materials": [
+            "Cotton or wool"
+          ],
+          "finish": "Smooth surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown",
+          "Beige",
+          "White"
+        ],
+        "materials": [
+          "Teak wood",
+          "Carpet"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Carved teak furniture"
+        ],
+        "modern_adaptations": [],
+        "space_utilization": "Compact and functional arrangement",
+        "cultural_significance": "Furniture carved with traditional motifs often symbolizes hospitality and cultural heritage"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a compact living space with contemporary Indian elements. The room features carved teak furniture, a common feature in Northern Indian design, giving it a traditional yet modern feel. The dark brown carved teak furniture contrasts with the light beige carpet, creating a visually appealing color palette. The space appears to be well-utilized for functionality, with a balance of traditional and modern aesthetics. The cultural significance of the carved furniture is evident, as it often symbolizes hospitality and cultural heritage in Indian homes.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Northern Indian",
+          "Teak furniture",
+          "Carved motifs",
+          "Compact living space"
+        ],
+        "budget_indicator": "Moderate, as teak wood and quality craftsmanship are involved",
+        "space_type": "Living Room",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "Carved teak furniture, carpeted area"
+      }
+    }
+  },
+  "cached_at": 1753458977711,
+  "cache_key": "d50eff02d76dcf8100ef3cb76f8301ee"
+}

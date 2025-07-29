@@ -1,0 +1,65 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1187/image_cropper_1729611107446.jpg",
+  "analysis": {
+    "image_id": "img_132",
+    "ai_generated_tags": {
+      "room": "N/A",
+      "theme": "N/A",
+      "primary_features": [
+        "N/A"
+      ],
+      "objects": [
+        {
+          "type": "N/A",
+          "features": [
+            "N/A"
+          ],
+          "materials": [
+            "N/A"
+          ],
+          "finish": "N/A"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "N/A"
+        ],
+        "materials": [
+          "N/A"
+        ],
+        "lighting": "N/A",
+        "texture": "N/A"
+      },
+      "indian_context": {
+        "regional_style": "N/A",
+        "traditional_elements": [
+          "N/A"
+        ],
+        "modern_adaptations": [
+          "N/A"
+        ],
+        "space_utilization": "N/A",
+        "cultural_significance": "N/A"
+      }
+    },
+    "confidence_scores": {
+      "room": 0,
+      "theme": 0,
+      "primary_features": 0,
+      "objects": 0,
+      "indian_context": 0
+    },
+    "description": "The image appears to be a portrait of a person, not an interior space, making it impossible to analyze Indian interior design elements.",
+    "metadata": {
+      "tags": [
+        "N/A"
+      ],
+      "budget_indicator": "N/A",
+      "space_type": "N/A",
+      "functionality": "N/A",
+      "indian_specific": "N/A"
+    }
+  },
+  "cached_at": 1753448881808,
+  "cache_key": "30dccf55ef9142f39334e00e14e5e414"
+}

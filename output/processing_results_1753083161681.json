@@ -1,0 +1,47 @@
+{
+  "processed_at": "2025-07-21T07:32:41.681Z",
+  "total_processed": 0,
+  "errors": [
+    {
+      "image_id": "image_cropper_1729825012625",
+      "error": "Failed to analyze image: Failed to perform inference: Cannot connect to host cdn.example.com:443 ssl:default [Name or service not known]"
+    },
+    {
+      "image_id": "image_cropper_1729176750910",
+      "error": "Failed to analyze image: Failed to perform inference: Cannot connect to host cdn.example.com:443 ssl:default [Name or service not known]"
+    },
+    {
+      "image_id": "image_cropper_A3317CE1-0548-4495-97DB-A5C5408F36BB-26705-00002055437EC03B",
+      "error": "Failed to analyze image: Failed to perform inference: Cannot connect to host cdn.example.com:443 ssl:default [Name or service not known]"
+    },
+    {
+      "image_id": "Screenshot_2024-07-11_at_5_54_38_PM",
+      "error": "Failed to analyze image: Failed to perform inference: Cannot connect to host cdn.example.com:443 ssl:default [Name or service not known]"
+    },
+    {
+      "image_id": "image_cropper_1726674520405",
+      "error": "Failed to analyze image: Failed to perform inference: Cannot connect to host cdn.example.com:443 ssl:default [Name or service not known]"
+    },
+    {
+      "image_id": "image_cropper_1726820279935",
+      "error": "Failed to analyze image: Failed to perform inference: Cannot connect to host cdn.example.com:443 ssl:default [Name or service not known]"
+    },
+    {
+      "image_id": "image_cropper_1729136638145",
+      "error": "Failed to analyze image: Failed to perform inference: Cannot connect to host cdn.example.com:443 ssl:default [Name or service not known]"
+    },
+    {
+      "image_id": "image_cropper_1727029267016",
+      "error": "Failed to analyze image: Failed to perform inference: Cannot connect to host cdn.example.com:443 ssl:default [Name or service not known]"
+    },
+    {
+      "image_id": "image_cropper_1728635170902",
+      "error": "Failed to analyze image: Failed to perform inference: Cannot connect to host cdn.example.com:443 ssl:default [Name or service not known]"
+    },
+    {
+      "image_id": "image_cropper_1728130413618",
+      "error": "Failed to analyze image: Failed to perform inference: Cannot connect to host cdn.example.com:443 ssl:default [Name or service not known]"
+    }
+  ],
+  "results": []
+}

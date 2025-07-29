@@ -1,0 +1,113 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.11.21%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_066",
+    "ai_generated_tags": {
+      "room": "Home Office",
+      "theme": "Indian Contemporary",
+      "primary_features": [
+        "Built-in storage shelves",
+        "Carved wooden partition",
+        "Marble flooring",
+        "Modern furniture"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden partition",
+          "features": [
+            "Decorative carvings",
+            "Sculpted edges",
+            "Vertical lines"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Satin"
+        },
+        {
+          "type": "Built-in storage shelves",
+          "features": [
+            "Built-in design",
+            "Shelving units",
+            "Integral to wall"
+          ],
+          "materials": [
+            "Wood",
+            "MDF"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Marble flooring",
+          "features": [
+            "Rich, polished surface",
+            "White with grey veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High gloss"
+        },
+        {
+          "type": "Modern furniture",
+          "features": [
+            "Integrated into storage unit"
+          ],
+          "materials": [
+            "Wood, MDF"
+          ],
+          "finish": "Satin"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Grey",
+          "Red"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "MDF"
+        ],
+        "lighting": "Natural light from window, artificial light from ceiling",
+        "texture": "Smooth, polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Carved wooden partition"
+        ],
+        "modern_adaptations": [
+          "Integration of modern furniture with traditional elements"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Partition reflects traditional Indian design with cultural motifs"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This home office features a modern take on traditional North Indian design. A carved wooden partition serves as both a decorative and functional element, housing a small home shrine area. The space is organized with built-in storage shelves that seamlessly integrate into the partition, maximizing utility. The marble flooring adds a touch of elegance and sophistication. The overall design is contemporary yet respects Indian aesthetic elements, making it both functional and culturally significant.",
+    "metadata": {
+      "tags": [
+        "Home Office",
+        "Indian Contemporary",
+        "Marble Flooring",
+        "Wooden Partition",
+        "Built-in Storage"
+      ],
+      "budget_indicator": "Moderate, with use of higher-end materials like marble and wood",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is a workspace with additional storage",
+      "indian_specific": "Traditional carved wooden partition and cultural motifs"
+    }
+  },
+  "cached_at": 1753447161984,
+  "cache_key": "b8a3b14112bbf20aea2caab31649f1f9"
+}

@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/665/image_cropper_32F783A4-D6B5-431F-9E7E-86E39AC3CF26-5121-0000034B5FFA235E.jpg",
+  "analysis": {
+    "image_id": "img_321",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Cupboard with sliding doors",
+        "Built-in storage"
+      ],
+      "objects": [
+        {
+          "type": "Cupboard",
+          "features": [
+            "Sliding doors",
+            "Built-in storage"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Smooth finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light gray",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light",
+        "texture": "Smooth and clean"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design"
+        ],
+        "space_utilization": "Efficient use of space",
+        "cultural_significance": "Not applicable"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern, minimalist closet with built-in storage solutions, featuring sliding doors and a clean, smooth finish. The use of light gray and white colors is characteristic of contemporary design. There are no visible traditional Indian elements, indicating a modern interpretation of space optimization.",
+      "metadata": {
+        "tags": [
+          "Closet",
+          "Minimalist",
+          "Built-in storage",
+          "Modern design"
+        ],
+        "budget_indicator": "Affordable",
+        "space_type": "Residential",
+        "functionality": "Storage",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1753460402882,
+  "cache_key": "9d177916a05674b171bb278004f5b179"
+}

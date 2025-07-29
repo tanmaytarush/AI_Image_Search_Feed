@@ -1,0 +1,83 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/134/image_cropper_6EAE14BF-E738-4A16-AB55-F6BA3E5D7003-2931-00000128904C2FBE.jpg",
+  "analysis": {
+    "image_id": "img_257",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Wooden cabinetry",
+        "Modern appliances",
+        "White countertops"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Wooden finish",
+            "Curved handles"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, polished finish"
+        },
+        {
+          "type": "Appliance",
+          "features": [
+            "Modern design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "White",
+          "Gray"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Granite"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of traditional Indian design elements like wood with modern appliances"
+        ],
+        "space_utilization": "Efficient use of space with minimalistic approach",
+        "cultural_significance": "Minimalist design can be seen in various Indian homes where space is optimized"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.75,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.8
+    },
+    "description": "This image depicts a modern kitchen with a minimalist design approach. The kitchen features wooden cabinetry with curved handles, modern appliances, and a white countertop. The space is well-lit, likely with natural light coming from a window out of frame. The design utilizes wood as a primary material, which is a nod to traditional Indian aesthetics, but the overall look is contemporary and sleek. The kitchen appears to be efficiently organized, maximizing space without clutter.",
+    "metadata": {
+      "tags": [
+        "Minimalist Kitchen",
+        "Modern Design",
+        "Wooden Cabinetry",
+        "White Countertops"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Cooking and food preparation",
+      "indian_specific": "Modern adaptation of traditional Indian use of wood"
+    }
+  },
+  "cached_at": 1753450586157,
+  "cache_key": "7d36d393f0bde166c34c8a3d37fdc738"
+}

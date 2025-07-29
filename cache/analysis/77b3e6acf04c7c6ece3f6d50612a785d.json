@@ -1,0 +1,112 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00619.JPG",
+  "analysis": {
+    "image_id": "img_089",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Ceiling with exposed beams",
+        "Television wall unit",
+        "Wooden door with decorative panel",
+        "Marble flooring",
+        "Chandelier"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "U-shaped design",
+            "Brown upholstery",
+            "Patterned cushions"
+          ],
+          "materials": [
+            "Microfiber",
+            "Polyester"
+          ],
+          "finish": "Textured, smooth"
+        },
+        {
+          "type": "Television Stand",
+          "features": [
+            "Wooden structure",
+            "Cabinet drawers"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished, glossy"
+        },
+        {
+          "type": "Door",
+          "features": [
+            "Wooden with metal accents",
+            "Decorative panel"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Lacquered, shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gold",
+          "Beige",
+          "Green",
+          "Blue"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Metal",
+          "Glass",
+          "Polyester"
+        ],
+        "lighting": "Natural light from window, chandelier, and recessed ceiling lights",
+        "texture": "Smooth marble, polished wood, patterned cushions"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden door with decorative panel",
+          "Wall-mounted shelves"
+        ],
+        "modern_adaptations": [
+          "Chandelier",
+          "Television wall unit"
+        ],
+        "space_utilization": "Open floor plan with multipurpose furniture arrangement",
+        "cultural_significance": "Use of deity figurines and cultural motifs suggests a blend of modern living with traditional Indian values"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This living room features a blend of modern and traditional Indian design elements. The exposed wooden ceiling beams and the use of wood in the door and wall shelves evoke South Indian architecture, while the chandelier and television wall unit introduce contemporary touches. The room is organized with an open floor plan, allowing for a multipurpose use of the space. Cultural significance is evident in the placement of deity figurines and the incorporation of traditional motifs, such as the tree sculpture and the decorative panel on the door. The color palette, dominated by whites and browns, along with the glossy finishes, creates a warm and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Indian living room",
+        "Modern Indian design",
+        "South Indian influence",
+        "Wooden ceiling beams",
+        "Television wall unit",
+        "Decorative elements",
+        "Multipurpose furniture"
+      ],
+      "budget_indicator": "High-end",
+      "space_type": "Residential living area",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Wooden door with decorative panel, wall-mounted shelves, and use of deity figurines"
+    }
+  },
+  "cached_at": 1753451525888,
+  "cache_key": "77b3e6acf04c7c6ece3f6d50612a785d"
+}

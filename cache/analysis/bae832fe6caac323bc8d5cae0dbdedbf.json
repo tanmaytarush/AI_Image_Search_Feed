@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.33%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_041",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in wardrobes",
+        "Storage units",
+        "Desk"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Double doors",
+            "Mirror panel",
+            "Shelves"
+          ],
+          "materials": [
+            "Painted wood",
+            "Metal hardware"
+          ],
+          "finish": "Glossy paint with metallic knobs"
+        },
+        {
+          "type": "Desk",
+          "features": [
+            "Built-in design",
+            "Storage drawers"
+          ],
+          "materials": [
+            "Painted wood",
+            "Metal hardware"
+          ],
+          "finish": "Glossy paint with metallic knobs"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Green",
+          "Yellow",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Paint"
+        ],
+        "lighting": "Natural light with ambient lighting from the wardrobe",
+        "texture": "Smooth, glossy finish"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident, but a modern interpretation of traditional design",
+        "traditional_elements": [
+          "Built-in furniture",
+          "Mirror panel"
+        ],
+        "modern_adaptations": [
+          "Minimalistic design",
+          "Glossy finish"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage",
+        "cultural_significance": "Reflects a contemporary approach to Indian interior design, merging functionality with aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian bedroom with efficient use of space through built-in wardrobes and a desk. The design features a mix of traditional Indian elements, such as the mirror panel, and modern adaptations, like the glossy finish and minimalist design. The color palette, primarily white with green and yellow accents, is typical of contemporary Indian interiors, reflecting both tradition and modernity. The space is well-lit with both natural light and ambient lighting from the wardrobe, creating a bright and functional environment.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Bedroom",
+        "Built-in furniture",
+        "Efficient storage",
+        "Glossy finish"
+      ],
+      "budget_indicator": "Moderate, with a focus on functional and aesthetic elements",
+      "space_type": "Residential",
+      "functionality": "Storage and workspace",
+      "indian_specific": "Efficiency and functionality in a modern interpretation of traditional Indian design"
+    }
+  },
+  "cached_at": 1753446612836,
+  "cache_key": "bae832fe6caac323bc8d5cae0dbdedbf"
+}

@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/839/image_cropper_1729683453817.jpg",
+  "analysis": {
+    "image_id": "img_102",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Indian Contemporary",
+      "primary_features": [
+        "Carved wooden paneling",
+        "Teak wood furniture",
+        "Television unit with storage",
+        "Built-in shelves"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Cabinetry",
+          "features": [
+            "Horizontal and vertical wood paneling",
+            "Cabinet doors with white trim"
+          ],
+          "materials": [
+            "Teak wood, white paint"
+          ],
+          "finish": "Smooth finish on teak wood, glossy white paint"
+        },
+        {
+          "type": "Teak Wood Television Unit",
+          "features": [
+            "Central storage compartment",
+            "Built-in shelves"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth finish on teak wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (teak wood), white (paint), dark brown (wooden paneling)"
+        ],
+        "materials": [
+          "Teak wood, painted white surfaces, wooden paneling"
+        ],
+        "lighting": "Ambient lighting from surrounding area",
+        "texture": "Smooth and polished textures on teak wood and paneling"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra or Gujarat",
+        "traditional_elements": [
+          "Carved wood paneling",
+          "Teak wood furniture"
+        ],
+        "modern_adaptations": [
+          "Integrated built-in storage and shelving"
+        ],
+        "space_utilization": "Efficient use of space with built-in shelves and storage",
+        "cultural_significance": "Indicates a living space with emphasis on functionality and aesthetic appeal, reflecting contemporary Indian interior design trends"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian living room with a focus on traditional Indian elements, such as carved wooden paneling and teak wood furniture. The space features a built-in television unit with storage and additional shelving, reflecting a contemporary approach to space utilization. The use of teak wood and white painted panels highlights a blend of traditional and modern styles, typical of Indian contemporary design.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Teak wood furniture",
+          "Maharashtra style",
+          "Contemporary Indian design",
+          "Carved wooden paneling",
+          "Built-in storage"
+        ],
+        "budget_indicator": "Mid-range, considering the use of teak wood and painted surfaces",
+        "space_type": "Living Room",
+        "functionality": "Entertainment and storage",
+        "indian_specific": "Use of teak wood and carved paneling"
+      }
+    }
+  },
+  "cached_at": 1753451624335,
+  "cache_key": "7ac4582d94f66a1ecc600dbb62004d53"
+}

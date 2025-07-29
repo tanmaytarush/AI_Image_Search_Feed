@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/651/image_cropper_1729169556835.jpg",
+  "analysis": {
+    "image_id": "img_104",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Wall-mounted cabinets",
+        "Countertop",
+        "Sink"
+      ],
+      "objects": [
+        {
+          "type": "Wall-mounted cabinets",
+          "features": [
+            "Rectangular shape",
+            "Blue and white color scheme",
+            "Metallic hardware"
+          ],
+          "materials": [
+            "Wood (likely teak or similar)",
+            "Metal (hardware)"
+          ],
+          "finish": "Matte surface finish"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Smooth surface",
+            "White color"
+          ],
+          "materials": [
+            "Marble or quartz"
+          ],
+          "finish": "Polished surface finish"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "White color",
+            "Integrated with countertop"
+          ],
+          "materials": [
+            "Ceramic or porcelain"
+          ],
+          "finish": "Smooth surface finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Blue",
+          "Brown (wood tone)"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Marble/Quartz"
+        ],
+        "lighting": "Natural light from windows",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of wall-mounted cabinets for space optimization"
+        ],
+        "space_utilization": "Efficient use of wall space",
+        "cultural_significance": "Minimalist design approach may be influenced by modern Indian interior trends, not specifically traditional"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The kitchen features a minimalist design with wall-mounted cabinets in a blue and white color scheme. The cabinets are made of wood, likely teak, and have a metallic finish, reflecting a modern adaptation of traditional Indian wooden furniture. The countertop is made of marble or quartz, providing a smooth and polished surface. The sink is integrated with the countertop, maintaining the minimalist aesthetic. The space is well-lit with natural light, emphasizing the clean and simple design.",
+    "metadata": {
+      "tags": [
+        "Minimalist Kitchen",
+        "Wall-mounted cabinets",
+        "Blue and White",
+        "Modern Indian Interior",
+        "Marble Countertop"
+      ],
+      "budget_indicator": "Moderate to high, given the materials used (wood, marble/quartz, metallic finishes)",
+      "space_type": "Residential kitchen",
+      "functionality": "Storage and preparation area",
+      "indian_specific": "Modern interpretation of space optimization through wall-mounted cabinets"
+    }
+  },
+  "cached_at": 1753448215601,
+  "cache_key": "c88082c1e2f061007bc9c79494b44218"
+}

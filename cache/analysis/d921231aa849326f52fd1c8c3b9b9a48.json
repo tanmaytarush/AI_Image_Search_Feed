@@ -1,0 +1,137 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/406/image_cropper_1728379361430.jpg",
+  "analysis": {
+    "image_id": "img_491",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Classical Indian Interior",
+      "primary_features": [
+        "Carved wooden paneling",
+        "Inlaid designs",
+        "Brass accents",
+        "Traditional floor lamps",
+        "Curtains with geometric patterns",
+        "Furniture with intricate carvings"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden paneling",
+          "features": [
+            "Detailed floral and geometric carvings",
+            "Golden detailing"
+          ],
+          "materials": [
+            "Teak wood",
+            "Brass"
+          ],
+          "finish": "Highly polished and lacquered"
+        },
+        {
+          "type": "Inlaid designs",
+          "features": [
+            "Marble and brass inlays",
+            "Geometric patterns"
+          ],
+          "materials": [
+            "Marble",
+            "Brass"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Traditional floor lamps",
+          "features": [
+            "Golden brass bases",
+            "Decorative shades"
+          ],
+          "materials": [
+            "Brass"
+          ],
+          "finish": "Shiny and reflective"
+        },
+        {
+          "type": "Curtains with geometric patterns",
+          "features": [
+            "Red and gold color scheme",
+            "Embroidered designs"
+          ],
+          "materials": [
+            "Silk"
+          ],
+          "finish": "Soft and draped"
+        },
+        {
+          "type": "Furniture with intricate carvings",
+          "features": [
+            "Wooden frames with brass inlays and embellishments",
+            "Detailed floral motifs"
+          ],
+          "materials": [
+            "Teak wood",
+            "Brass"
+          ],
+          "finish": "Polished and lacquered"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Red",
+          "Gold",
+          "White",
+          "Green",
+          "Brown"
+        ],
+        "materials": [
+          "Teak wood",
+          "Brass",
+          "Marble",
+          "Silk",
+          "Copper"
+        ],
+        "lighting": "Ambient and warm lighting from floor lamps and natural light",
+        "texture": "Smooth polished surfaces, intricate carvings, soft drapery"
+      },
+      "indian_context": {
+        "regional_style": "North Indian with Mughal influences",
+        "traditional_elements": [
+          "Carved wooden paneling",
+          "Inlaid designs",
+          "Traditional floor lamps",
+          "Curtains with geometric patterns"
+        ],
+        "modern_adaptations": [
+          "Combination of traditional elements with modern materials and finishes"
+        ],
+        "space_utilization": "The space is organized with clear zones for seating, storage, and display of decorative items",
+        "cultural_significance": "The use of red and gold colors, along with intricate carvings and inlays, reflects the opulence and grandeur of traditional Indian design, often seen in Mughal architecture and interiors"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space features a richly decorated living room with North Indian Mughal influences. The walls are adorned with intricately carved wooden paneling and inlaid designs of marble and brass, creating a luxurious and traditional atmosphere. Traditional brass floor lamps and curtains with geometric patterns in red and gold further enhance the opulent feel. The furniture, crafted from polished teak wood with brass inlays, complements the overall grandeur. The space is well-lit with a combination of natural and ambient lighting, highlighting the detailed carvings and textures. The use of red and gold colors, along with the Mughal-inspired designs, reflects the cultural significance and historical grandeur associated with traditional Indian interiors.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Mughal style",
+        "Teak wood",
+        "Brass inlays",
+        "Red and gold color scheme",
+        "Traditional furniture",
+        "Carved paneling",
+        "Geometric patterns",
+        "Luxury home interiors"
+      ],
+      "budget_indicator": "High-end, with the use of expensive materials like brass, marble, and silk",
+      "space_type": "Living Room",
+      "functionality": "Primary purpose is for relaxation, socializing, and displaying traditional decor items",
+      "indian_specific": "Intricate carvings, inlaid designs, and use of red and gold colors are characteristic of traditional Indian interior design"
+    }
+  },
+  "cached_at": 1753462626384,
+  "cache_key": "d921231aa849326f52fd1c8c3b9b9a48"
+}

@@ -1,0 +1,119 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00593.JPG",
+  "analysis": {
+    "image_id": "img_008",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden ceiling",
+        "Marble floor",
+        "Brown sofa set",
+        "Wooden staircase",
+        "Decorative wall shelves"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Brown fabric",
+            "Tufted backrest",
+            "U-shaped design"
+          ],
+          "materials": [
+            "Fabric",
+            "Wooden legs"
+          ],
+          "finish": "Soft and plush texture"
+        },
+        {
+          "type": "Table",
+          "features": [
+            "Covered with patterned cloth",
+            "Wooden legs"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Staircase",
+          "features": [
+            "Wooden handrail",
+            "Glass balusters",
+            "Decorative wall shelves"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Polished and reflective"
+        },
+        {
+          "type": "Wall Shelves",
+          "features": [
+            "Wooden frames",
+            "Glass doors",
+            "Decorative items"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Sleek and modern"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, White, Gold, Black"
+        ],
+        "materials": [
+          "Wood, Marble, Glass, Fabric"
+        ],
+        "lighting": "Mix of recessed lighting and chandelier with warm tones",
+        "texture": "Combination of smooth, glossy, and plush textures"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but could be influenced by North Indian design elements",
+        "traditional_elements": [
+          "Wooden furniture",
+          "Marble flooring",
+          "Decorative wall shelves"
+        ],
+        "modern_adaptations": [
+          "Contemporary light fixtures",
+          "Glass balusters",
+          "Decorative wall shelves"
+        ],
+        "space_utilization": "Open and spacious with a clear delineation of zones",
+        "cultural_significance": "Elements like the wooden dividers and decorative wall shelves are common in Indian homes for both functional and aesthetic purposes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space is a well-designed living room that incorporates contemporary Indian elements with a focus on wood and marble. The use of a wooden ceiling, marble floor, and wooden sofas create a warm and traditional feel, while the contemporary light fixtures and glass balusters add a modern twist. Decorative wall shelves, along with the use of fabric and plush textures, enhance the overall aesthetic. The space is designed to be open and spacious, with clear delineation of zones, and the presence of religious or cultural decorative elements suggests it is a home that values tradition and spirituality.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Indian Interior",
+        "Contemporary Design",
+        "Wooden Furniture",
+        "Marble Flooring",
+        "Decorative Wall Shelves"
+      ],
+      "budget_indicator": "Mid to high budget given the use of marble flooring and wooden furniture with polished finishes",
+      "space_type": "Residential",
+      "functionality": "Social and relaxation space",
+      "indian_specific": "Use of wood in furniture, marble flooring, and decorative wall shelves"
+    }
+  },
+  "cached_at": 1753456952294,
+  "cache_key": "3f75d48dc1ecda29b6310e0419c00de1"
+}

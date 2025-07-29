@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/842/image_cropper_1729263976875.jpg",
+  "analysis": {
+    "image_id": "img_354",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Built-in wardrobe, mirror, lighting fixture"
+      ],
+      "objects": [
+        {
+          "type": "Closet",
+          "features": [
+            "Built-in design, white finish, sliding doors"
+          ],
+          "materials": [
+            "Painted wood, glass"
+          ],
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Large, rectangular, sleek design"
+          ],
+          "materials": [
+            "Glass, metal frame"
+          ],
+          "finish": "Polished, reflective"
+        },
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Modern, minimalist design, mounted on the wall"
+          ],
+          "materials": [
+            "Metal, glass"
+          ],
+          "finish": "Metallic, transparent"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, metallic, transparent"
+        ],
+        "materials": [
+          "Wood, glass, metal"
+        ],
+        "lighting": "Natural light with ambient lighting from the fixture",
+        "texture": "Smooth, glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No prominent regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design, modern materials"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "No culturally significant elements identified"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern, minimalist closet featuring a built-in wardrobe with white painted wood slides. A large, rectangular mirror and a modern wall-mounted lighting fixture are also present. The room has a clean, sleek design with smooth, glossy finishes and a focus on efficient space utilization. There are no traditional Indian elements visible, indicating a contemporary approach to interior design.",
+    "metadata": {
+      "tags": [
+        "closet",
+        "modern",
+        "minimalist",
+        "white",
+        "glass",
+        "metal",
+        "efficient"
+      ],
+      "budget_indicator": "Moderate, as it features modern materials like glass and polished wood",
+      "space_type": "Residential, bedroom or walk-in closet",
+      "functionality": "Storage space, designed for practical use",
+      "indian_specific": "No Indian-specific design features are present"
+    }
+  },
+  "cached_at": 1753460807805,
+  "cache_key": "789d8601fe505d6244f49d55586b2288"
+}

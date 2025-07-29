@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1707/insta_assets_crop_eb1ca908-273f-4231-8067-e60cd0ac285e3208393112771921132.jpg",
+  "analysis": {
+    "image_id": "img_438",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen with Contemporary Elements",
+      "primary_features": [
+        "Modern cabinets with teal finish",
+        "Backsplash with yellow stone tiles",
+        "Stainless steel appliances"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Teal finish",
+            "Modern design with sleek lines"
+          ],
+          "materials": [
+            "Teak or similar wood for inner lining",
+            "Painted exterior for teal finish"
+          ],
+          "finish": "Teal painted finish with wood texture"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Yellow stone tiles",
+            "Geometric pattern"
+          ],
+          "materials": [
+            "Natural stone tiles"
+          ],
+          "finish": "Polished stone finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teal",
+          "Yellow",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Teak or wood",
+          "Painted finish",
+          "Yellow stone tiles",
+          "Metal"
+        ],
+        "lighting": "Natural light from window and artificial light from ceiling fixtures",
+        "texture": "Smooth paint finish on cabinets, polished stone on backsplash, shiny metal appliance surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable - modern interpretation",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of modern materials like stone and metal in traditional kitchen design"
+        ],
+        "space_utilization": "Efficient use of space with cabinets for storage and open area for working",
+        "cultural_significance": "Modern adaptation of Indian kitchen design principles with contemporary materials and aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern Indian kitchen with a contemporary design approach. The space features teal painted cabinets with a wood-like inner lining, yellow stone tiles with a geometric pattern for the backsplash, and stainless steel appliances. The design combines traditional Indian kitchen aesthetics with modern materials and finishes, reflecting a contemporary interpretation of Indian design principles. The space is well-organized with efficient storage solutions and a clean, polished aesthetic.",
+      "metadata": {
+        "tags": [
+          "Indian Kitchen",
+          "Modern Design",
+          "Teal Cabinets",
+          "Yellow Stone Tiles",
+          "Stainless Steel Appliances"
+        ],
+        "budget_indicator": "Moderate to High - due to use of modern materials like stone and metal",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Contemporary adaptation of traditional Indian kitchen design elements"
+      }
+    }
+  },
+  "cached_at": 1753462065403,
+  "cache_key": "adf87c81910b89b95a2014cd97080a96"
+}

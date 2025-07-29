@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/8/image_cropper_1729586762495.jpg",
+  "analysis": {
+    "image_id": "img_187",
+    "ai_generated_tags": {
+      "room": "Not applicable",
+      "theme": "Not applicable",
+      "primary_features": [
+        "Logo text",
+        "Contact information",
+        "Social media icons"
+      ],
+      "objects": [
+        {
+          "type": "Text",
+          "features": [
+            "Mano M Interior logo text",
+            "Contact details",
+            "Social media icons"
+          ],
+          "materials": [
+            "Not applicable"
+          ],
+          "finish": "Not applicable"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black",
+          "White",
+          "Red",
+          "Blue"
+        ],
+        "materials": [
+          "Not applicable"
+        ],
+        "lighting": "Not applicable",
+        "texture": "Not applicable"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Not applicable"
+        ],
+        "space_utilization": "Not applicable",
+        "cultural_significance": "Not applicable"
+      }
+    },
+    "confidence_scores": {
+      "room": 0,
+      "theme": 0,
+      "primary_features": 0,
+      "objects": 0,
+      "indian_context": 0
+    },
+    "description": "The image appears to be a business card or promotional graphic for 'Mano M Interior' containing their contact information and social media links. It does not depict an interior space or traditional Indian design elements.",
+    "metadata": {
+      "tags": [
+        "Interior Design",
+        "Business Card",
+        "Contact Information",
+        "Social Media",
+        "Modern Design"
+      ],
+      "budget_indicator": "Not applicable",
+      "space_type": "Not applicable",
+      "functionality": "Not applicable",
+      "indian_specific": "Not applicable"
+    }
+  },
+  "cached_at": 1753449772646,
+  "cache_key": "f97d3f34bafa67d659c4f82c55fe10bd"
+}

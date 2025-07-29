@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/554/image_cropper_1729071248438.jpg",
+  "analysis": {
+    "image_id": "img_142",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Large window with sheer curtains",
+        "Black leather sofa set",
+        "Round dining table with wooden chairs",
+        "Built-in shelves"
+      ],
+      "objects": [
+        {
+          "type": "Black leather sofa set",
+          "features": [
+            "Modern design, minimalist style"
+          ],
+          "materials": [
+            "Leather"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Round dining table with wooden chairs",
+          "features": [
+            "Light wood finish",
+            "Minimalist design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural, polished"
+        },
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Integrated with the wall",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Rich, glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls and ceiling",
+          "Dark wood tones",
+          "Light upholstery"
+        ],
+        "materials": [
+          "Wood, leather, metal, glass"
+        ],
+        "lighting": "Natural light from large window, ambient ceiling lights",
+        "texture": "Smooth leather, polished wood, glass"
+      },
+      "indian_context": {
+        "regional_style": "Mumbai contemporary",
+        "traditional_elements": [
+          "No prominent traditional elements"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with Indian materials"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture and large windows",
+        "cultural_significance": "Modern interpretation of Indian design with a focus on comfort and functionality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space is a modern, contemporary Indian living room characterized by a sleek and minimalist design. The room features a large window with sheer curtains, allowing ample natural light. The seating area includes a black leather sofa set and a round dining table with wooden chairs. Built-in shelves are integrated into the wall, adding to the efficiency and modernity of the space. The color palette consists of white walls and ceiling, contrasted with dark wood furniture and light upholstery, creating a balanced and inviting atmosphere. The lighting is a mix of natural light from the window and ambient ceiling lights, enhancing the overall ambiance. The space showcases a modern interpretation of Indian design elements, focusing on comfort and functionality.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Mumbai design",
+        "Modern living room",
+        "Minimalist design",
+        "Sleek furniture"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential living room",
+      "functionality": "Social and relaxation space",
+      "indian_specific": "Modern adaptation of Indian design materials and aesthetics"
+    }
+  },
+  "cached_at": 1753449098971,
+  "cache_key": "8d4774a48ac111c4ce5b78f8f840f568"
+}

@@ -1,0 +1,107 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.16%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_011",
+    "ai_generated_tags": {
+      "room": "Entrance/Utility Area",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Marble Flooring",
+        "Wooden Cabinet",
+        "Circular Mirror",
+        "Decorative Vases"
+      ],
+      "objects": [
+        {
+          "type": "Wooden Cabinet",
+          "features": [
+            "Vertical paneling",
+            "Storage shelves",
+            "Decorative glassware"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Matte and glossy finish"
+        },
+        {
+          "type": "Circular Mirror",
+          "features": [
+            "Wooden frame",
+            "Woven texture"
+          ],
+          "materials": [
+            "Wood",
+            "Woven material"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Decorative Vases",
+          "features": [
+            "Modern design",
+            "Textured surfaces"
+          ],
+          "materials": [
+            "Ceramic",
+            "Metal"
+          ],
+          "finish": "Matte and shiny finishes"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Beige",
+          "Grey",
+          "Yellow"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Glass",
+          "Ceramic",
+          "Metal"
+        ],
+        "lighting": "Natural light from the entrance",
+        "texture": "Smooth marble floor, wooden panel texture"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Circular Mirror"
+        ],
+        "modern_adaptations": [
+          "Contemporary materials and design"
+        ],
+        "space_utilization": "Efficient use of space with wall-mounted storage",
+        "cultural_significance": "Circular mirror often symbolizes completeness and prosperity in Indian culture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern entrance or utility area with a contemporary Indian fusion design. The space features a wooden cabinet with storage shelves and a circular mirror with a woven wooden frame, reflecting a mix of traditional and contemporary design elements. The use of marble flooring and modern materials like glass and metal add to the contemporary aesthetic, while the circular mirror's woven frame introduces a traditional touch. The space is organized efficiently with wall-mounted storage, and the presence of decorative vases adds a modern decorative element.",
+    "metadata": {
+      "tags": [
+        "Indian Fusion",
+        "Contemporary Design",
+        "Marble Flooring",
+        "Wooden Cabinet",
+        "Circular Mirror"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Entrance/Utility Area",
+      "indian_specific": "Modern interpretation of traditional circular mirror"
+    }
+  },
+  "cached_at": 1753445854147,
+  "cache_key": "ae5f8f26c92385fb0b75315b622ef907"
+}

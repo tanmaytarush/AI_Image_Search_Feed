@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.12.04%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_067",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influence",
+      "primary_features": [
+        "Sliding wardrobe doors",
+        "Wave-patterned wallpaper",
+        "Dark wood frames"
+      ],
+      "objects": [
+        {
+          "type": "Sliding wardrobe doors",
+          "features": [
+            "Wave-patterned wallpaper as the door material",
+            "Dark wood frames with metal accents"
+          ],
+          "materials": [
+            "Wave-patterned wallpaper",
+            "Dark wood",
+            "Metal"
+          ],
+          "finish": "Matte finish on the wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White and dark brown",
+          "Black accents"
+        ],
+        "materials": [
+          "Paper",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from ceiling lights",
+        "texture": "Wave-patterned texture on wallpaper"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regionalized",
+        "traditional_elements": [
+          "Wave-patterned design elements"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and finishes"
+        ],
+        "space_utilization": "Efficient use of wardrobe space",
+        "cultural_significance": "Wave patterns can be found in traditional Indian art and architecture, symbolizing fluidity and movement"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.92,
+        "indian_context": 0.8
+      },
+      "description": "The image depicts a modern bedroom with a contemporary design that incorporates elements of traditional Indian aesthetics. The sliding wardrobe doors feature a wave-patterned wallpaper with dark wood frames, a style reminiscent of traditional jharokhas and carved doorways. The use of dark wood and metal accents gives a touch of modernity, while the wave patterns subtly echo Indian art and architecture, suggesting a cultural blend. The space appears well-organized, utilizing the wardrobe space efficiently.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Wave design",
+          "Modern wardrobe",
+          "Dark wood",
+          "Indian influence"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential bedroom",
+        "functionality": "Storage and organization",
+        "indian_specific": "Wave-patterned wallpaper as a nod to traditional Indian designs"
+      }
+    }
+  },
+  "cached_at": 1753447185659,
+  "cache_key": "03863e0a01c26dedfc7154b5825ac9d1"
+}

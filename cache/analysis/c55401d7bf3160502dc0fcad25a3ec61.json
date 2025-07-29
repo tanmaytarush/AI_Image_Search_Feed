@@ -1,0 +1,58 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1595/insta_assets_crop_20ab041d-dd77-4af6-b3ee-4e4fe9883f036221420655321949684.jpg",
+  "analysis": {
+    "image_id": "img_214",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Classic Indian Interior",
+      "primary_features": [
+        "Man wearing a white shirt with a mustache"
+      ],
+      "objects": [
+        {
+          "type": "Man",
+          "features": [
+            "Wearing a white shirt and has a mustache"
+          ],
+          "materials": [],
+          "finish": "Not applicable"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White"
+        ],
+        "materials": [],
+        "lighting": "Indoor lighting, possibly artificial",
+        "texture": "Not applicable"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Not applicable",
+        "cultural_significance": "Not applicable"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.75,
+      "theme": 0.65,
+      "primary_features": 0.55,
+      "objects": 0.8,
+      "indian_context": 0.7
+    },
+    "description": "The image shows a man wearing a white shirt with a mustache. There are no visible traditional Indian elements, furniture, or cultural decorations in the image.",
+    "metadata": {
+      "tags": [
+        "Man with white shirt",
+        "Mustache"
+      ],
+      "budget_indicator": "Low",
+      "space_type": "Living Room",
+      "functionality": "Photograph",
+      "indian_specific": "No Indian-specific design features visible"
+    }
+  },
+  "cached_at": 1753459359330,
+  "cache_key": "c55401d7bf3160502dc0fcad25a3ec61"
+}

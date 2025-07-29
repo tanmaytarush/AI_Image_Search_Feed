@@ -1,0 +1,124 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.08%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_010",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Marble flooring",
+        "Ceiling fan",
+        "Bar area",
+        "Sofa",
+        "Coffee table",
+        "Rug"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Modern design",
+            "L-shaped",
+            "Neutral color"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth, matte"
+        },
+        {
+          "type": "Coffee table",
+          "features": [
+            "Round",
+            "Glass top",
+            "Metal frame"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy, metallic"
+        },
+        {
+          "type": "Rug",
+          "features": [
+            "Textured",
+            "Multicolored"
+          ],
+          "materials": [
+            "Textile"
+          ],
+          "finish": "Soft, plush"
+        },
+        {
+          "type": "Bar area",
+          "features": [
+            "Compact",
+            "Light wood finish",
+            "Metallic stool legs"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Warm, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gold",
+          "Black",
+          "Green"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal",
+          "Textile"
+        ],
+        "lighting": "Soft ambient lighting from recessed ceiling lights",
+        "texture": [
+          "Smooth",
+          "Polished",
+          "Textured"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not definitively identifiable from this image, but it leans towards Northern or Western India due to the use of marble and modern Indian furniture styles.",
+        "traditional_elements": [
+          "Ceiling fan"
+        ],
+        "modern_adaptations": [
+          "Contemporary sofa design and bar setup"
+        ],
+        "space_utilization": "Efficient use of space with a combination of seating and functional areas, optimized for entertaining",
+        "cultural_significance": "The use of a ceiling fan is a traditional element in Indian interiors, indicating a nod to comfort and style."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a contemporary living room that incorporates traditional Indian design elements, such as a ceiling fan, with modern adaptations. The space is well-organized, featuring a sofa, coffee table, rug, and a bar area, all of which are designed in a modern Indian style. The materials used, such as marble flooring and wood for the bar, are typical in higher-end Indian homes. The color palette is neutral with pops of color, and the lighting is soft and ambient, creating a warm and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Living Room",
+        "Contemporary Design",
+        "Marble Flooring",
+        "Ceiling Fan"
+      ],
+      "budget_indicator": "Medium to High, given the use of marble and modern furniture.",
+      "space_type": "Residential",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Modern adaptation of traditional elements like the ceiling fan and marble flooring"
+    }
+  },
+  "cached_at": 1753445836446,
+  "cache_key": "e35f363e11fd50ff5c78c3326e06f708"
+}

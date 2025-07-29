@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/757/image_cropper_1729243947920.jpg",
+  "analysis": {
+    "image_id": "img_349",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Indian Contemporary",
+      "primary_features": [
+        "Modern cabinetry",
+        "Lighting fixture",
+        "Countertop"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Closed storage",
+            "White finish"
+          ],
+          "materials": [
+            "MDF"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Flush mount",
+            "Modern design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Sink",
+            "Mixer tap"
+          ],
+          "materials": [
+            "Granite"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Brown",
+          "Gray"
+        ],
+        "materials": [
+          "MDF",
+          "Metal",
+          "Granite"
+        ],
+        "lighting": "Natural light from windows",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design with traditional color palettes"
+        ],
+        "space_utilization": "Efficient storage with modern fixtures",
+        "cultural_significance": "No culturally significant elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.9,
+        "objects": 0.85,
+        "indian_context": 0.7
+      },
+      "description": "The image depicts a modern kitchen space with a focus on minimalistic design elements, featuring contemporary cabinetry, a lighting fixture, and a polished countertop. The space utilizes efficient storage solutions and incorporates modern interpretations of Indian style, with a blend of traditional and modern materials and color palettes. The room appears to be a residential kitchen designed for functionality and aesthetics, with no culturally significant elements visible.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "Minimalistic",
+          "Indian Contemporary",
+          "Efficient Storage"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is cooking and food preparation",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753460748010,
+  "cache_key": "82b3ad8526344e203b355ba48145950f"
+}

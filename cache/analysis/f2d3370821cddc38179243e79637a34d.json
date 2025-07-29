@@ -1,0 +1,142 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.18%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_018",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Compact kitchen layout",
+        "Modern appliances",
+        "Symmetrical table arrangement",
+        "Wooden door with vertical slats"
+      ],
+      "objects": [
+        {
+          "type": "Dining Table",
+          "features": [
+            "Rectangular shape",
+            "Metallic base with vertical gold stripes",
+            "White top"
+          ],
+          "materials": [
+            "Metal for base",
+            "Glass or clear material for top"
+          ],
+          "finish": "Polished and reflective"
+        },
+        {
+          "type": "Chairs",
+          "features": [
+            "High backrest",
+            "Light beige upholstery"
+          ],
+          "materials": [
+            "Fabric for upholstery"
+          ],
+          "finish": "Smooth and clean"
+        },
+        {
+          "type": "Refrigerator",
+          "features": [
+            "Modern design",
+            "Large capacity"
+          ],
+          "materials": [
+            "Metallic body"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Cabinet",
+          "features": [
+            "Vertical wooden slats",
+            "Double doors"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood tone"
+        },
+        {
+          "type": "Rug",
+          "features": [
+            "Rectangular shape",
+            "Gray and white pattern"
+          ],
+          "materials": [
+            "Textile"
+          ],
+          "finish": "Textured"
+        },
+        {
+          "type": "Plant",
+          "features": [
+            "White vase",
+            "Dried grass plant"
+          ],
+          "materials": [
+            "Ceramic for vase",
+            "Natural dried plant"
+          ],
+          "finish": "Simple and natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Gray",
+          "White",
+          "Gold",
+          "Natural wood tone"
+        ],
+        "materials": [
+          "Metal",
+          "Glass",
+          "Wood",
+          "Fabric",
+          "Textile"
+        ],
+        "lighting": "Artificial lighting with pendant lights overhead",
+        "texture": [
+          "Polished metal",
+          "Textured rug",
+          "Natural wood grain"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, more modern with Indian touches",
+        "traditional_elements": [
+          "Vertical wooden slats on cabinet doors"
+        ],
+        "modern_adaptations": [
+          "Compact and functional design"
+        ],
+        "space_utilization": "Efficient use of space with built-in appliances and compact furniture arrangement",
+        "cultural_significance": "The wooden door with vertical slats may have a traditional Indian influence in its design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern kitchen with a minimalist design, featuring a compact layout and efficient space utilization. The kitchen includes a sleek refrigerator, a rectangular dining table with a metallic base and white top, and matching chairs with high backrests and light beige upholstery. The wooden door with vertical slats adds a touch of traditional Indian design to the otherwise contemporary setting. The use of natural wood tones, metallic finishes, and a gray and white color palette creates a clean and sophisticated look. The artificial lighting from the pendant lights provides ample illumination, enhancing the modern and minimalistic feel of the space.",
+    "metadata": {
+      "tags": [
+        "Modern Kitchen",
+        "Compact Space",
+        "Minimalist Design",
+        "Indian Influence",
+        "Efficient Layout"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Kitchen and dining area",
+      "indian_specific": "Vertical wooden slats on cabinet doors"
+    }
+  },
+  "cached_at": 1753446045955,
+  "cache_key": "f2d3370821cddc38179243e79637a34d"
+}

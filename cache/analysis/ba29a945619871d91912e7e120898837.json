@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/626/image_cropper_1729160208464.jpg",
+  "analysis": {
+    "image_id": "img_375",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Blue and white color scheme",
+        "Compact layout",
+        "Open shelving",
+        "Integrated appliances"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Blue upper cabinets",
+            "White lower cabinets",
+            "Glossy finish"
+          ],
+          "materials": [
+            "MDF or engineered wood",
+            "Glossy paint"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertops",
+          "features": [
+            "Black countertops"
+          ],
+          "materials": [
+            "Granite or quartz"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "MDF/Engineered wood",
+          "Glossy paint",
+          "Granite/Quartz"
+        ],
+        "lighting": "Even lighting with no visible light sources",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style present",
+        "traditional_elements": [
+          "Minimal traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Modern interpretations of traditional blue and white color scheme"
+        ],
+        "space_utilization": "Efficient use of space with open shelving and compact layout",
+        "cultural_significance": "The color scheme may resonate with traditional Indian concepts of purity and simplicity, but the overall design is contemporary"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.8
+      },
+      "description": "The kitchen features a modern Indian design with a blue and white color scheme. The cabinets are sleek with a glossy finish, and the countertops are black, creating a striking contrast. The space is compact yet efficiently designed with open shelving and integrated appliances, reflecting contemporary Indian architectural trends. The overall design emphasizes simplicity and functionality, aligning with modern Indian interior aesthetics.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Blue and White Kitchen",
+          "Contemporary Design",
+          "Compact Kitchen",
+          "Glossy Finish"
+        ],
+        "budget_indicator": "Moderate, as it includes glossy materials and modern appliances",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Minimal Indian-specific design features, but the color scheme is reflective of traditional Indian values"
+      }
+    }
+  },
+  "cached_at": 1753461055731,
+  "cache_key": "ba29a945619871d91912e7e120898837"
+}

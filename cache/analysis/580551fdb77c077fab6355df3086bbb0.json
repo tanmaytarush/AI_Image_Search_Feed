@@ -1,0 +1,72 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/849/image_cropper_1729264001134.jpg",
+  "analysis": {
+    "image_id": "img_207",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "White wardrobe with sliding doors",
+        "Built-in storage",
+        "Neutral color palette"
+      ],
+      "objects": [
+        {
+          "type": "Sliding wardrobe doors",
+          "features": [
+            "Smooth, sleek design",
+            "Minimal handles"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Glossy white finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Cream",
+          "Neutral tones"
+        ],
+        "materials": [
+          "Painted wood or MDF"
+        ],
+        "lighting": "Soft, ambient lighting visible through a doorway",
+        "texture": "Smooth, minimal textures"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of traditional Indian elements into modern design"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage solutions",
+        "cultural_significance": "No culturally significant elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern minimalist bedroom with a built-in wardrobe featuring sleek, sliding white doors. The room uses a neutral color palette with white and cream tones, emphasizing a clean and uncluttered space. The design is contemporary and lacks any traditional Indian elements, focusing on functionality and simplicity.",
+      "metadata": {
+        "tags": [
+          "Modern",
+          "Minimalist",
+          "Bedroom",
+          "Built-in Wardrobe",
+          "Neutrals"
+        ],
+        "budget_indicator": "Mid-range, as it features painted wood or MDF doors with a glossy finish.",
+        "space_type": "Residential Bedroom",
+        "functionality": "Primary purpose is to provide storage and organization in a bedroom setting.",
+        "indian_specific": "No Indian-specific design features are visible."
+      }
+    }
+  },
+  "cached_at": 1753449987932,
+  "cache_key": "580551fdb77c077fab6355df3086bbb0"
+}

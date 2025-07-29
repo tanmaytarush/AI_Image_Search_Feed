@@ -1,0 +1,109 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.26%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_033",
+    "ai_generated_tags": {
+      "room": "Pooja room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Umbrella stand",
+        "Mirrored cabinet",
+        "Shelves with religious items",
+        "Decorative hanging elements"
+      ],
+      "objects": [
+        {
+          "type": "Umbrella stand",
+          "features": [
+            "Tall, with ornate details at the base"
+          ],
+          "materials": [
+            "Metallic, possibly brass or copper"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Mirrored cabinet",
+          "features": [
+            "Large, with glass doors and shelves"
+          ],
+          "materials": [
+            "Wood, possibly teak or pine"
+          ],
+          "finish": "Cream-colored with golden accents"
+        },
+        {
+          "type": "Shelves with religious items",
+          "features": [
+            "Decorative items, possibly religious in nature"
+          ],
+          "materials": [
+            "Not visible, inferred from items"
+          ],
+          "finish": "Not visible, inferred from items"
+        },
+        {
+          "type": "Decorative hanging elements",
+          "features": [
+            "String-like, possibly for prayer or decoration"
+          ],
+          "materials": [
+            "Not visible, inferred from context"
+          ],
+          "finish": "Not visible, inferred from context"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Cream",
+          "Gold",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light, possibly from a window out of frame",
+        "texture": [
+          "Smooth surfaces, metallic sheen, reflective glass"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but could be modern Indian with influences from Rajasthan or other northern regions",
+        "traditional_elements": [
+          "Umbrella stand with ornate details, wooden furniture"
+        ],
+        "modern_adaptations": [
+          "Use of mirrored surfaces, modern materials and finishes"
+        ],
+        "space_utilization": "Efficient use of the cabinet for storage and display of religious items",
+        "cultural_significance": "The presence of religious items and decorative hanging elements signify a space dedicated to prayer or worship, emphasizing cultural and spiritual devotion"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern interpretation of a traditional Indian pooja room, featuring a cream-colored mirrored cabinet with gold accents, shelves displaying religious items, and an ornate umbrella stand. The design blends traditional elements with contemporary aesthetics, reflecting a modern Indian style with influences from northern regions. The space is organized to maximize storage and display, with a focus on cultural and spiritual significance.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Pooja room",
+        "Modern Indian style",
+        "Religious items",
+        "Decorative umbrella stand"
+      ],
+      "budget_indicator": "Moderate, with the use of high-quality materials and finishes",
+      "space_type": "Residential",
+      "functionality": "Space for worship or prayer",
+      "indian_specific": "Use of wood, metal, and reflective surfaces, traditional umbrella stand with modern adaptations"
+    }
+  },
+  "cached_at": 1753446445691,
+  "cache_key": "77fbd9c833d7ceb26554a5e12e8796ee"
+}

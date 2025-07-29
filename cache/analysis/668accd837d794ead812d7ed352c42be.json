@@ -1,0 +1,52 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/39/357e0881-4705-4040-b26e-6dd35197ad9b2472179051890747112.jpg",
+  "analysis": {
+    "image_id": "img_237",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Smooth wooden floor"
+      ],
+      "objects": [],
+      "visual_attributes": {
+        "colors": [
+          "Light brown"
+        ],
+        "materials": [
+          "Wood"
+        ],
+        "lighting": "Neutral, possibly natural light from an unseen source",
+        "texture": "Smooth and polished"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Minimal, likely used for transition",
+        "cultural_significance": "Not culturally significant as this is a modern interpretation of a space, not a traditional Indian design element"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.9,
+        "objects": 0.95,
+        "indian_context": 0.6
+      },
+      "description": "The image depicts a modern interpretation of a traditional Indian foyer with a smooth wooden floor. The design is minimalist, lacking any traditional Indian elements. The smooth finish of the wood suggests a contemporary approach to the material, which is often used in Indian interiors, but in a simplified form.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Wooden Floor",
+          "Foyer"
+        ],
+        "budget_indicator": "Mid-range, as polished wood can be cost-effective",
+        "space_type": "Residential",
+        "functionality": "Transition space",
+        "indian_specific": "Simplified wood usage"
+      }
+    }
+  },
+  "cached_at": 1753459554539,
+  "cache_key": "668accd837d794ead812d7ed352c42be"
+}

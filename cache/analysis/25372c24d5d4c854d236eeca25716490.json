@@ -1,0 +1,121 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.22%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_019",
+    "ai_generated_tags": {
+      "room": "Kitchen/Dining",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Dining table with tufted chairs",
+        "Refrigerator",
+        "Built-in cabinets",
+        "Wall-mounted light fixture with artistic decor"
+      ],
+      "objects": [
+        {
+          "type": "Dining table",
+          "features": [
+            "Rectangular shape",
+            "Tufted beige chairs",
+            "Metallic legs"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric",
+            "Metal"
+          ],
+          "finish": "Tufted upholstery on chairs, metallic finish on legs"
+        },
+        {
+          "type": "Refrigerator",
+          "features": [
+            "Large, modern design",
+            "Black finish"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy black"
+        },
+        {
+          "type": "Built-in cabinets",
+          "features": [
+            "Integrated into wall",
+            "Dark grey color"
+          ],
+          "materials": [
+            "Particle board",
+            "Painted finish"
+          ],
+          "finish": "Matte dark grey"
+        },
+        {
+          "type": "Wall-mounted light fixture",
+          "features": [
+            "Linear design",
+            "Wooden accents",
+            "Black metal frame"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Natural wood with black metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Dark grey cabinets",
+          "Beige chairs",
+          "Black refrigerator",
+          "Gold circular decor",
+          "Neutral rug"
+        ],
+        "materials": [
+          "Metal",
+          "Wood",
+          "Fabric",
+          "Marble"
+        ],
+        "lighting": "Strong artificial lighting from ceiling fixture",
+        "texture": "Tufted fabric texture, metallic sheen"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly Indian",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Contemporary interpretations of traditional craftsmanship"
+        ],
+        "space_utilization": "Efficient use of space with built-in cabinets and minimalistic decor",
+        "cultural_significance": "Cultural significance not evident in the space"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The space showcases a modern minimalist design in a kitchen-dining area. It features a sleek, dark grey refrigerator, tufted beige dining chairs with metallic legs, and built-in cabinets seamlessly integrated into the wall. A minimalist wall-mounted light fixture with a linear design and natural wood accents adds a contemporary touch. The color palette is neutral with white walls, dark grey cabinets, and beige chairs, complemented by a gold circular decor element on the wall. The space is efficiently utilized with minimalistic decor, focusing on functionality and clean lines.",
+    "metadata": {
+      "tags": [
+        "Modern Kitchen",
+        "Minimalist Design",
+        "Beige Chairs",
+        "Dark Grey Cabinets",
+        "Gold Decor",
+        "Neutral Color Palette"
+      ],
+      "budget_indicator": "Moderate, with high-quality materials like metal and wood with a painted finish",
+      "space_type": "Residential, kitchen-dining area",
+      "functionality": "Primary purpose is for dining and food preparation",
+      "indian_specific": "No Indian-specific design features visible"
+    }
+  },
+  "cached_at": 1753446073511,
+  "cache_key": "25372c24d5d4c854d236eeca25716490"
+}

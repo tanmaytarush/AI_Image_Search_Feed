@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.46%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_080",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian Kids Room",
+      "primary_features": [
+        "Polka dot wallpaper",
+        "Bunny-themed bed frame",
+        "Sliding wardrobe door",
+        "Built-in study desk"
+      ],
+      "objects": [
+        {
+          "type": "Built-in study desk",
+          "features": [
+            "Green metallic surface",
+            "Integrated shelves for storage",
+            "World map on the wall"
+          ],
+          "materials": [
+            "Metal",
+            "Glass",
+            "Wood"
+          ],
+          "finish": "Metallic sheen, glass sheen, wood grain"
+        },
+        {
+          "type": "Bunny-themed bed frame",
+          "features": [
+            "Green bunny ears headboard",
+            "Comforter with floral and animal designs",
+            "Cushion with heart pattern"
+          ],
+          "materials": [
+            "Fabric",
+            "Foam",
+            "Fabric"
+          ],
+          "finish": "Velvet texture, soft fabric"
+        },
+        {
+          "type": "Sliding wardrobe door",
+          "features": [
+            "Green and orange panels",
+            "Metallic frame",
+            "Glass panels"
+          ],
+          "materials": [
+            "Glass",
+            "Metal",
+            "Painted wood"
+          ],
+          "finish": "Clear glass, metallic sheen, painted wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "Orange",
+          "White",
+          "Black",
+          "Pink",
+          "Brown",
+          "Beige",
+          "Multicolor pattern"
+        ],
+        "materials": [
+          "Metal",
+          "Glass",
+          "Painted wood",
+          "Fabric",
+          "Foam",
+          "Glass"
+        ],
+        "lighting": "Natural light from ceiling lights, ambient light from desk lamp",
+        "texture": "Velvet, metallic surface, painted wood, glass"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly identifiable",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Polka dot wallpaper, bunny-themed bed frame, modern wardrobe design"
+        ],
+        "space_utilization": "Efficient use of space with built-in desk, sliding wardrobe, and compact bedroom layout",
+        "cultural_significance": "The design incorporates playful and thematic elements, likely reflecting a modern, family-oriented style rather than a traditional Indian context"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a contemporary Indian-inspired kids' bedroom with a playful and modern design. The room features a polka dot wallpaper, a bunny-themed bed with a green fabric headboard, and a built-in study desk with a green metallic surface and integrated shelving. The sliding wardrobe door has a vibrant green and orange color scheme. The space is well-organized, with a mix of traditional and modern elements, creating a cheerful and functional environment for a child.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Kids Room",
+        "Polka Dot",
+        "Bunny Theme",
+        "Built-in Desk",
+        "Sliding Wardrobe"
+      ],
+      "budget_indicator": "Moderate, incorporating materials like metallic finishes, glass, and painted wood",
+      "space_type": "Single Room",
+      "functionality": "Sleeping and Studying",
+      "indian_specific": "Modern interpretation of Indian design elements with contemporary furniture and playful motifs"
+    }
+  },
+  "cached_at": 1753447557920,
+  "cache_key": "43470675661f286fe7e34cbe10f386a9"
+}

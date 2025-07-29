@@ -1,0 +1,69 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/732/image_cropper_F56A7A44-95D9-4D99-B07B-542F5D1633FE-8275-0000053C613B1C11.jpg",
+  "analysis": {
+    "image_id": "img_168",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden shoe cabinet with glass panel doors"
+      ],
+      "objects": [
+        {
+          "type": "Shoe cabinet",
+          "features": [
+            "Double doors with glass panels, wooden frame"
+          ],
+          "materials": [
+            "Wood (likely teak), glass"
+          ],
+          "finish": "Natural wood finish with clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light brown (wood), clear glass, beige (wall), white (door trim), floral pattern (wallpaper)"
+        ],
+        "materials": [
+          "Wood, glass, wall paint, wallpaper"
+        ],
+        "lighting": "Natural lighting with ambient light from unseen windows",
+        "texture": "Smooth wood texture, reflective glass surface, painted wall texture, patterned wallpaper"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but contemporary Indian with traditional elements",
+        "traditional_elements": [
+          "Wooden shoe cabinet with traditional design cues"
+        ],
+        "modern_adaptations": [
+          "Integration of contemporary materials like glass and modern finishes"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage",
+        "cultural_significance": "The wooden shoe cabinet represents practicality and resourcefulness in traditional Indian design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a contemporary Indian entryway with a wooden shoe cabinet featuring glass panel doors. The cabinet is designed with traditional Indian sensibilities, using wood as the primary material for a durable and natural look. The glass panels add modernity and allow for visibility and ventilation. The surrounding walls are painted in a beige tone with a subtle floral wallpaper, enhancing the traditional aesthetic. The space is well-organized and optimized for storage, reflecting practicality and resourcefulness in Indian design.",
+      "metadata": {
+        "tags": [
+          "Indian entryway",
+          "contemporary design",
+          "wooden furniture",
+          "glass panels",
+          "storage cabinet"
+        ],
+        "budget_indicator": "Low to moderate, as wood and glass are accessible materials but require craftsmanship",
+        "space_type": "Entryway",
+        "functionality": "Storage solution for shoes",
+        "indian_specific": "Use of wooden elements with traditional design cues"
+      }
+    }
+  },
+  "cached_at": 1753449553392,
+  "cache_key": "7572dff58d603206ee85d0b897268b73"
+}

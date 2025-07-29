@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/459/image_cropper_1728741950604.jpg",
+  "analysis": {
+    "image_id": "img_265",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden wall paneling",
+        "Double bed with mattress",
+        "Built-in wardrobe"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Vertical slatted design",
+            "Multi-tiered storage"
+          ],
+          "materials": [
+            "Solid wood"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Double bed",
+          "features": [
+            "Mattress with dual layers",
+            "Simple headboard design"
+          ],
+          "materials": [
+            "Fabric for mattress cover",
+            "Wood for headboard"
+          ],
+          "finish": "Fabric in light tone, wood in natural finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Light beige"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric",
+          "Metal"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth wall paneling, fabric texture, metallic hardware"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Built-in wardrobe with vertical slats"
+        ],
+        "modern_adaptations": [
+          "Simplicity in design to match modern aesthetics"
+        ],
+        "space_utilization": "Optimized use of space with built-in furniture",
+        "cultural_significance": "Built-in wardrobes are a common feature in South Indian homes, symbolizing practicality and family unity"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bedroom showcases a modern Indian design, blending traditional elements with contemporary aesthetics. The built-in wardrobe features vertical slatted wooden panels, a hallmark of South Indian design, and is finished with a glossy finish. The double bed incorporates a simple headboard design with a fabric cover in light tones. The room utilizes natural light from a window with blinds, creating a bright and airy atmosphere. The materials used, such as wood and fabric, emphasize the cultural significance of practicality and family unity in South Indian homes.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Built-in wardrobe",
+        "South Indian design",
+        "Double bed",
+        "Wooden wall paneling",
+        "Natural lighting"
+      ],
+      "budget_indicator": "Moderate, with high-quality wood and fabric used for the built-in wardrobe and bed",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Built-in wardrobe design, use of wood as a primary material"
+    }
+  },
+  "cached_at": 1753459803247,
+  "cache_key": "6f1182fd5b348f99d9297c615dfbc310"
+}

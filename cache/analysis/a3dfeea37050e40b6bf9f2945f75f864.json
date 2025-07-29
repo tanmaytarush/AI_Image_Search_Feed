@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/690/image_cropper_1729355702509.jpg",
+  "analysis": {
+    "image_id": "img_335",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Compact kitchen layout",
+        "Open shelving",
+        "Cooking area with stove"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen Island",
+          "features": [
+            "Large countertop space",
+            "Integrated sink"
+          ],
+          "materials": [
+            "Granite countertops",
+            "Copper accents"
+          ],
+          "finish": "Smooth and shiny"
+        },
+        {
+          "type": "Kitchen Cabinets",
+          "features": [
+            "Open shelving design",
+            "Wooden doors"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Light wood tones",
+          "Granite grey",
+          "Copper"
+        ],
+        "materials": [
+          "Teak, granite, copper, wood, glass"
+        ],
+        "lighting": "Natural light from window, artificial light from overhead fixtures",
+        "texture": "Smooth surfaces, wooden textures, metallic finish"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, modern interpretation",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern appliances and materials"
+        ],
+        "space_utilization": "Efficient use of compact space with open shelving",
+        "cultural_significance": "Minimal use of traditional Indian design elements, focusing on functionality and modern aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian kitchen with a focus on functionality and contemporary design elements. The kitchen features a large kitchen island with granite countertops and a copper sink, open shelving for storage, and a compact cooking area with a stove. The wooden cabinets contribute to a warm, natural feel, while the overall design is clean and organized, reflecting a modern interpretation of Indian interior design.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Compact Living",
+          "Granite Countertops",
+          "Teak Wood",
+          "Open Shelving"
+        ],
+        "budget_indicator": "Mid-range, considering modern materials and finishes",
+        "space_type": "Residential Kitchen",
+        "functionality": "Cooking and storage",
+        "indian_specific": "Modern interpretation of Indian design, minimal traditional elements"
+      }
+    }
+  },
+  "cached_at": 1753460584976,
+  "cache_key": "a3dfeea37050e40b6bf9f2945f75f864"
+}

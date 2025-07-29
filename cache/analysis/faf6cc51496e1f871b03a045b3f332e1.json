@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/830/image_cropper_1729275726355.jpg",
+  "analysis": {
+    "image_id": "img_419",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in shelves",
+        "Rattan furniture",
+        "Carved wooden elements",
+        "Marble flooring"
+      ],
+      "objects": [
+        {
+          "type": "Rattan sofa",
+          "features": [
+            "Curved shape",
+            "Textured surface",
+            "Natural color"
+          ],
+          "materials": [
+            "Rattan"
+          ],
+          "finish": "Natural finish, likely untreated"
+        },
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Sleek design",
+            "Integrated into wall"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Matte white paint"
+        },
+        {
+          "type": "Carved wooden panels",
+          "features": [
+            "Traditional design",
+            "Elegant curves"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished teak finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Natural wood tones"
+        ],
+        "materials": [
+          "Painted wood",
+          "Teak wood",
+          "Marble",
+          "Rattan"
+        ],
+        "lighting": "Natural light from unseen windows",
+        "texture": "Combination of smooth and natural textures"
+      },
+      "indian_context": {
+        "regional_style": "Southern Indian",
+        "traditional_elements": [
+          "Carved wooden panels"
+        ],
+        "modern_adaptations": [
+          "Rattan sofa, built-in shelves"
+        ],
+        "space_utilization": "Efficient use of wall space with shelves, open layout",
+        "cultural_significance": "The carved wooden panels symbolize craftsmanship and regional heritage"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern interpretation of a Southern Indian living room, featuring a rattan sofa, built-in shelves, and intricately carved wooden panels. The space utilizes the wall efficiently with shelves, and the natural elements like rattan and teak wood complement the sleek, modern design. The use of natural light and the combination of textures add to the aesthetic appeal.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Southern Style",
+          "Rattan furniture",
+          "Built-in shelves",
+          "Carved wood"
+        ],
+        "budget_indicator": "Moderate, with a focus on natural and semi-precious materials",
+        "space_type": "Living Room",
+        "functionality": "Relaxation and entertainment",
+        "indian_specific": "Rattan sofa with a Southern Indian influence, built-in shelves for storage and display"
+      }
+    }
+  },
+  "cached_at": 1753461665978,
+  "cache_key": "faf6cc51496e1f871b03a045b3f332e1"
+}

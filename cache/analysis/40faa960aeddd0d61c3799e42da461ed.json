@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/256/image_cropper_1727243566255.jpg",
+  "analysis": {
+    "image_id": "img_367",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Bed with wooden frame",
+        "Arched window",
+        "Pink and white bedding",
+        "Wooden headboard"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Cozy mattress",
+            "Embroidered bedding",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Weathered wood, soft fabric"
+        },
+        {
+          "type": "Bedside table",
+          "features": [
+            "Small, simple design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink",
+          "White",
+          "Red",
+          "Brown",
+          "Purple"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth fabric, rough wood, reflective glass"
+      },
+      "indian_context": {
+        "regional_style": "Mughal influence",
+        "traditional_elements": [
+          "Arched window",
+          "Carved wood"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture",
+          "Bright color palette"
+        ],
+        "space_utilization": "Efficient use of space with a focus on functionality",
+        "cultural_significance": "Arched window symbolizes traditional Mughal architecture, while bright colors are often used to evoke joy and positivity"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary Indian bedroom features a bed with a wooden frame and pink and white bedding. An arched window adds a traditional touch, while the bright color palette and modern furniture create a vibrant and welcoming space. The room's organization maximizes the available space, and the use of natural light enhances the overall ambiance.",
+    "metadata": {
+      "tags": [
+        "Bedroom",
+        "Contemporary Indian",
+        "Mughal Style",
+        "Bright Colors",
+        "Arched Window"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Sleeping and relaxation area",
+      "indian_specific": "Arched window, wooden bed frame, bright color palette"
+    }
+  },
+  "cached_at": 1753460964605,
+  "cache_key": "40faa960aeddd0d61c3799e42da461ed"
+}

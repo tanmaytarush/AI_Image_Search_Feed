@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/991/image_cropper_14690E24-6C96-4279-A259-3DB166098522-930-0000006B10762046.jpg",
+  "analysis": {
+    "image_id": "img_409",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Wooden bed with a simple design",
+        "Light-colored flooring",
+        "Neutral color scheme"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Simple design with no elaborate carvings",
+            "Rectangular wooden frame",
+            "Bed frame with a flat headboard"
+          ],
+          "materials": [
+            "Wood (likely teak or similar)",
+            "Metal (possibly for bed frame support)"
+          ],
+          "finish": "Smooth and polished wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral tones like white, beige, and light brown"
+        ],
+        "materials": [
+          "Wood, metal, possibly cotton for bedding"
+        ],
+        "lighting": "Natural light from an unseen window",
+        "texture": "Smooth wood texture, soft fabric for bedding"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Minimal use of traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Modern interpretation of Indian minimalist style"
+        ],
+        "space_utilization": "Simple and efficient use of space with a focus on comfort",
+        "cultural_significance": "No culturally significant elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a minimalist bedroom with a wooden bed frame and light-colored flooring. The bed is simple in design, focusing on functionality and comfort. The room lacks elaborate traditional Indian elements, suggesting a modern interpretation of Indian interior design principles.",
+      "metadata": {
+        "tags": [
+          "Minimalist bedroom",
+          "Indian minimalist design",
+          "Simple bed frame",
+          "Neutral color palette"
+        ],
+        "budget_indicator": "Low to moderate, due to the use of simple materials and design",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping area",
+        "indian_specific": "No traditional Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753461545750,
+  "cache_key": "11d011ad280b7183fb209252b59562b3"
+}

@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1738/insta_assets_crop_d47d4daf-c404-4452-ad59-fb59499101e47312030079720566930.jpg",
+  "analysis": {
+    "image_id": "img_256",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Large window with built-in blinds",
+        "Wall-mounted television",
+        "Comfortable seating arrangement"
+      ],
+      "objects": [
+        {
+          "type": "Comforter",
+          "features": [
+            "Patterned design with colors of red, gold, and white"
+          ],
+          "materials": [
+            "Cotton or synthetic blend"
+          ],
+          "finish": "Textured with a subtle sheen"
+        },
+        {
+          "type": "Television",
+          "features": [
+            "Modern frameless design"
+          ],
+          "materials": [
+            "Metal (likely brass or copper)"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Window Coverings",
+          "features": [
+            "Built-in blinds with geometric patterns"
+          ],
+          "materials": [
+            "Fabric and metal tracks"
+          ],
+          "finish": "Fabric with metallic accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Red, gold, white, beige, white"
+        ],
+        "materials": [
+          "Cotton or synthetic blend, metal, fabric"
+        ],
+        "lighting": "Natural light coming through the window, complemented by interior lighting",
+        "texture": "Textured comforter, smooth metal finish, fabric blinds"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Carved wooden window frames (not visible in this image)"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture with Indian textiles and color schemes"
+        ],
+        "space_utilization": "Efficient use of space with a focus on comfort and functionality",
+        "cultural_significance": "The use of red and gold in textiles is significant in Indian culture, symbolizing prosperity and happiness"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space features a contemporary Indian design, blending traditional elements with modern aesthetics. The room includes a large window with built-in blinds, a wall-mounted television with a polished metal frame, and a seating area with a patterned comforter. The color palette is dominated by red, gold, and white, reflecting cultural significance. The space is organized for comfort and functionality, with the television serving as a focal point.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "contemporary",
+          "traditional textiles",
+          "red and gold color scheme",
+          "modern furniture"
+        ],
+        "budget_indicator": "High-end, with the use of materials like polished metal and cotton or synthetic blend textiles",
+        "space_type": "Living Room",
+        "functionality": "Relaxation and entertainment",
+        "indian_specific": "Carved wooden window frames, traditional textile patterns, and the use of red and gold colors"
+      }
+    }
+  },
+  "cached_at": 1753450575781,
+  "cache_key": "640d5e2b77874092817a4df9b26f7dad"
+}

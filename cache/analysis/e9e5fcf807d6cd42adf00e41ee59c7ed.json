@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.28%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_038",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in wardrobes",
+        "Shelf unit",
+        "Hardwood flooring",
+        "Ceiling fan"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Dark brown finish",
+            "Marble accents",
+            "Sliding doors"
+          ],
+          "materials": [
+            "PVC",
+            "Marble"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Shelf unit",
+          "features": [
+            "Dark brown finish",
+            "Multiple shelves",
+            "Integrated drawers"
+          ],
+          "materials": [
+            "PVC",
+            "Wood"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown",
+          "Gray",
+          "White",
+          "Marble pattern"
+        ],
+        "materials": [
+          "PVC",
+          "Wood",
+          "Marble",
+          "Metal"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Sleek and modern"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style visible",
+        "traditional_elements": [
+          "No traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials (PVC, Metal) with traditional design elements"
+        ],
+        "space_utilization": "Efficient use of space with built-in wardrobes and shelf unit",
+        "cultural_significance": "No traditional cultural elements are visible"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian bedroom with a focus on sleek and efficient space utilization. The built-in wardrobes feature a dark brown finish with marble accents, blending contemporary aesthetics with traditional Indian design elements. The space is illuminated by natural light from the window on the right, and the wooden flooring adds a warm touch to the modern design.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Bedroom",
+        "Built-in wardrobes",
+        "Marble accents",
+        "Hardwood flooring"
+      ],
+      "budget_indicator": "Moderate, as the use of PVC and metal indicates a balance between modern and traditional materials, with no extravagant finishes.",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is storage and organization, with a secondary focus on aesthetics and comfort.",
+      "indian_specific": "The integration of modern materials with traditional design elements is a key feature."
+    }
+  },
+  "cached_at": 1753446555825,
+  "cache_key": "e9e5fcf807d6cd42adf00e41ee59c7ed"
+}

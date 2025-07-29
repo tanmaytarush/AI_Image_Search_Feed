@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1570/insta_assets_crop_5ae2e1c0-e3ff-4635-b36b-9d05b23fadcd7084070613397781011.jpg",
+  "analysis": {
+    "image_id": "img_295",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Teak wood furniture",
+        "Marble flooring",
+        "Television unit"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood sofa",
+          "features": [
+            "Carved details",
+            "Traditional design"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Aged finish"
+        },
+        {
+          "type": "Teak wood coffee table",
+          "features": [
+            "Carved details",
+            "Traditional design"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Aged finish"
+        },
+        {
+          "type": "Teak wood TV unit",
+          "features": [
+            "Traditional design",
+            "Storage provisions"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Aged finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teal",
+          "White",
+          "Brown"
+        ],
+        "materials": [
+          "Teak",
+          "Marble",
+          "Metal"
+        ],
+        "lighting": "Natural light from windows",
+        "texture": "Smooth marble flooring, carved teak wood"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Carved teak wood"
+        ],
+        "modern_adaptations": [
+          "Integrated modern technology like TV"
+        ],
+        "space_utilization": "Optimized for seating and storage",
+        "cultural_significance": "Teak wood is traditionally used in Indian homes for its durability and aesthetic appeal. The presence of intricate carvings symbolizes craftsmanship and cultural heritage."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian living room features a sleek and contemporary design with traditional Indian elements. The use of teak wood for both the sofa and TV unit showcases a blend of traditional craftsmanship and modern lifestyle. The room benefits from natural light streaming in from large windows, and the marble flooring provides a luxurious touch. The space is well-organized with storage provisions, and the cultural significance of the materials used is evident in the intricate carvings on the furniture.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "modern Indian living room",
+          "teak wood furniture",
+          "marble flooring",
+          "carved elements"
+        ],
+        "budget_indicator": "Medium to high, due to the use of teak wood and marble",
+        "space_type": "Residential",
+        "functionality": "Seating area with television viewing and storage",
+        "indian_specific": "Traditional craftsmanship in teak wood furniture"
+      }
+    }
+  },
+  "cached_at": 1753460086814,
+  "cache_key": "5b096cdb041b7a7c5da7a396d4b1809e"
+}

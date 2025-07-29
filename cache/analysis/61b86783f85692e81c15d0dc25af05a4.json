@@ -1,0 +1,81 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.58%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_082",
+    "ai_generated_tags": {
+      "room": "Living/Dining Space",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Polka Dot Wallpaper",
+        "Multicolored Sliding Door",
+        "Open Plan Living"
+      ],
+      "objects": [
+        {
+          "type": "Sliding Door",
+          "features": [
+            "Multicolored Panels",
+            "Glass Inserts",
+            "Black Frame"
+          ],
+          "materials": [
+            "Painted Wood",
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Green",
+          "Brown",
+          "Orange",
+          "Teal"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural Light",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Marble",
+        "traditional_elements": [
+          "Polka Dot Design"
+        ],
+        "modern_adaptations": [
+          "Contemporary Sliding Door Design"
+        ],
+        "space_utilization": "Open Plan with Partition",
+        "cultural_significance": "Polka Dot Design is often seen in traditional Indian garments and fabrics, symbolizing diversity and vibrancy"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern living space with a subtle incorporation of traditional Indian design elements. The polka dot wallpaper, a common motif in Indian textiles and fabrics, and the use of vibrant colors like green, brown, and orange, suggest influences from Indian regional styles. The sliding glass door with a contemporary design is a modern interpretation of traditional partition elements, blending seamlessly with the open plan layout. The space appears to be well-lit with natural light, highlighting the smooth textures and materials used in the design.",
+    "metadata": {
+      "tags": [
+        "Indian Design",
+        "Contemporary",
+        "Polka Dot",
+        "Modern Partition",
+        "Open Plan"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Living/Dining",
+      "functionality": "Social Gathering",
+      "indian_specific": "Polka Dot Wallpaper, Use of Color"
+    }
+  },
+  "cached_at": 1753451465016,
+  "cache_key": "61b86783f85692e81c15d0dc25af05a4"
+}

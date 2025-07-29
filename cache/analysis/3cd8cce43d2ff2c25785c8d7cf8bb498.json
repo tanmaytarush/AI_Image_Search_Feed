@@ -1,0 +1,122 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.30%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_076",
+    "ai_generated_tags": {
+      "room": "Home Office",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Built-in storage unit",
+        "Computer desk",
+        "Religious altar",
+        "Living area seating"
+      ],
+      "objects": [
+        {
+          "type": "Built-in storage unit",
+          "features": [
+            "White and cream color scheme",
+            "Modular design",
+            "Fitted with glass doors and open shelves"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Glass doors"
+          ],
+          "finish": "Matte finish on wood and smooth glass doors"
+        },
+        {
+          "type": "Computer desk",
+          "features": [
+            "Built-in drawers",
+            "Wooden top with white panels",
+            "Embedded monitor stand"
+          ],
+          "materials": [
+            "Wooden surface",
+            "White panels"
+          ],
+          "finish": "Satin finish on wood and glossy on white panels"
+        },
+        {
+          "type": "Religious altar",
+          "features": [
+            "Gold accents",
+            "Arched design",
+            "Bell-shaped decorations"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Gold detailing"
+          ],
+          "finish": "Lustrous gold finish"
+        },
+        {
+          "type": "Living area seating",
+          "features": [
+            "Rattan chair",
+            "Cushion with geometric pattern"
+          ],
+          "materials": [
+            "Rattan",
+            "Fabric"
+          ],
+          "finish": "Rattan natural, fabric with printed patterns"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Cream",
+          "Wooden tones",
+          "Black",
+          "Gold",
+          "Blue"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Metal",
+          "Rattan",
+          "Fabric"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces on furniture, textured walls, rattan texture"
+      },
+      "indian_context": {
+        "regional_style": "Not identifiable from this image",
+        "traditional_elements": [
+          "Religious altar with arched design and bell-shaped decorations"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture with built-in storage and geometric patterns"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture and minimalistic design",
+        "cultural_significance": "The religious altar suggests a space for worship, blending functionality with cultural practices"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian home office with a blend of traditional and contemporary elements. The space features a built-in storage unit with glass doors and wooden framing, a computer desk with embedded drawers, and a religious altar adorned with gold accents and bell-shaped decorations. The living area includes a rattan chair with a geometric patterned cushion, adding a touch of traditional Indian craftsmanship. The overall design incorporates a mix of natural wooden tones, white panels, and gold accents, creating a harmonious blend of modern functionality and cultural significance.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Modern Home Office",
+        "Built-in Storage",
+        "Religious Altar",
+        "Living Area Seating"
+      ],
+      "budget_indicator": "Mid-range, with a focus on quality materials and craftsmanship",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is a home office with a secondary living area",
+      "indian_specific": "Religious altar with cultural significance, rattan chair with traditional design"
+    }
+  },
+  "cached_at": 1753447419975,
+  "cache_key": "3cd8cce43d2ff2c25785c8d7cf8bb498"
+}

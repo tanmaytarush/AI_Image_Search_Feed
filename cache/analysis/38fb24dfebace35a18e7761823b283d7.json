@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/774/image_cropper_1729253115310.jpg",
+  "analysis": {
+    "image_id": "img_272",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Cabinetry",
+        "Appliances",
+        "Backsplash",
+        "Lighting"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "U-shaped design",
+            "Cupboard doors with paneling"
+          ],
+          "materials": [
+            "Wooden panels, possibly teak"
+          ],
+          "finish": "Matt or slightly glossy paint finish"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Modern oven",
+            "Refrigerator"
+          ],
+          "materials": [
+            "Metal and plastic"
+          ],
+          "finish": "Metallic and glossy"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Tile work"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Lighting",
+          "features": [
+            "Under-cabinet lighting"
+          ],
+          "materials": [
+            "Not visible"
+          ],
+          "finish": "Not applicable"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light wood tones",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Wood, ceramic, metal"
+        ],
+        "lighting": "Artificial, likely LED under-cabinet lighting",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, but aligns with urban modern Indian design",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of modern appliances, kitchen design"
+        ],
+        "space_utilization": "Efficient use of space with a U-shaped cabinetry layout",
+        "cultural_significance": "Modern interpretation of Indian household design, focusing on functionality and contemporary aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian kitchen with a U-shaped cabinetry layout, featuring light wood-toned cabinetry with paneling, modern appliances like an oven and refrigerator, a ceramic tile backsplash, and under-cabinet lighting. The design is functional and contemporary, with no overt traditional Indian elements, reflecting an urban modern interpretation of Indian household design.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modern Indian",
+        "U-shaped cabinetry",
+        "Appliances",
+        "Ceramic tile backsplash"
+      ],
+      "budget_indicator": "Mid-range, with modern materials and finishes",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is food preparation and storage",
+      "indian_specific": "Modern adaptation of Indian design aesthetics in a kitchen setting"
+    }
+  },
+  "cached_at": 1753459850240,
+  "cache_key": "38fb24dfebace35a18e7761823b283d7"
+}

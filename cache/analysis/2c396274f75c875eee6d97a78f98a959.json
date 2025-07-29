@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1084/image_cropper_1729578614508.jpg",
+  "analysis": {
+    "image_id": "img_188",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Double bed with built-in storage",
+        "Built-in wardrobes",
+        "Wooden door"
+      ],
+      "objects": [
+        {
+          "type": "Bed with built-in storage",
+          "features": [
+            "Double-sized",
+            "Storage drawers underneath"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "Metal"
+          ],
+          "finish": "Polished and smooth"
+        },
+        {
+          "type": "Built-in wardrobes",
+          "features": [
+            "Integrated into the wall",
+            "White with wooden accents"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "MDF"
+          ],
+          "finish": "Matte white with wood grain finish"
+        },
+        {
+          "type": "Wooden door",
+          "features": [
+            "Double doors with a geometric design"
+          ],
+          "materials": [
+            "Wood (likely teak)"
+          ],
+          "finish": "Natural wood with a glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gold",
+          "Beige"
+        ],
+        "materials": [
+          "Wood (teak, bamboo, MDF)",
+          "Metal"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth surfaces with some matte finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically indicative of a regional style, but contemporary",
+        "traditional_elements": [
+          "Carved wooden elements on the bed frame"
+        ],
+        "modern_adaptations": [
+          "Integrated storage solutions, minimalist design"
+        ],
+        "space_utilization": "Efficient use of space with built-in wardrobes and storage",
+        "cultural_significance": "The use of wood (likely teak) is significant in Indian interiors for its durability and cultural association with quality and tradition"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary Indian bedroom features a stylish blend of traditional and modern elements. The double bed with built-in storage showcases a functional design, while the built-in wardrobes offer efficient space utilization. The use of wood (likely teak) highlights the cultural significance of this material in Indian interiors, emphasizing quality and tradition. The combination of smooth and matte finishes, along with the geometric design on the wooden door, adds a modern twist to the traditional elements.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Bedroom",
+        "Built-in Storage",
+        "Wooden Door",
+        "Teak",
+        "Minimalist Design"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential - Bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Carved wooden elements, use of wood (likely teak), built-in storage solutions"
+    }
+  },
+  "cached_at": 1753449780151,
+  "cache_key": "2c396274f75c875eee6d97a78f98a959"
+}

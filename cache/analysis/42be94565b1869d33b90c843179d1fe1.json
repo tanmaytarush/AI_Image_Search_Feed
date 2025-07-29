@@ -1,0 +1,106 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/487/image_cropper_1728896307779.jpg",
+  "analysis": {
+    "image_id": "img_293",
+    "ai_generated_tags": {
+      "room": "living room",
+      "theme": "contemporary with traditional influences",
+      "primary_features": [
+        "dark navy blue upholstered seating",
+        "wooden storage units",
+        "white curved bench",
+        "marble countertop"
+      ],
+      "objects": [
+        {
+          "type": "armchair",
+          "features": [
+            "pair of cream-colored armchairs with tufted cushions"
+          ],
+          "materials": [
+            "upholstered in cream fabric"
+          ],
+          "finish": "smooth and plush"
+        },
+        {
+          "type": "storage unit",
+          "features": [
+            "dark navy blue wooden storage unit with glass doors"
+          ],
+          "materials": [
+            "wooden frame, glass doors"
+          ],
+          "finish": "polished wood with transparent glass"
+        },
+        {
+          "type": "bench",
+          "features": [
+            "white curved bench along the wall"
+          ],
+          "materials": [
+            "wooden frame, upholstered cushion"
+          ],
+          "finish": "smooth and clean"
+        },
+        {
+          "type": "countertop",
+          "features": [
+            "marble countertop with backsplash"
+          ],
+          "materials": [
+            "marble"
+          ],
+          "finish": "polished marble"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "dark navy blue",
+          "cream",
+          "white",
+          "marble beige"
+        ],
+        "materials": [
+          "wood, glass, marble"
+        ],
+        "lighting": "indirect lighting from above, creating a warm atmosphere",
+        "texture": "smooth surfaces with a mix of soft and hard textures"
+      },
+      "indian_context": {
+        "regional_style": "Andhra Pradesh style with modern adaptations",
+        "traditional_elements": [
+          "dark navy blue as an accent color, traditional storage unit with glass doors"
+        ],
+        "modern_adaptations": [
+          "contemporary furniture with soft textures, curved bench with modern lines"
+        ],
+        "space_utilization": "efficient use of the space with built-in storage and seating area",
+        "cultural_significance": "Dark navy blue is often used in Andhra Pradesh to signify sophistication and luxury, reflecting cultural aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern living room with a contemporary design aesthetic, incorporating traditional Indian elements. The space features dark navy blue as an accent color, mimicking the traditional storage units and glass doors often seen in Andhra Pradesh. The room includes cream-colored armchairs for comfort, a white curved bench for additional seating, and a marble countertop that reflects light, enhancing the contemporary feel. The space is organized with efficient storage, and the overall design is culturally relevant, highlighting the sophistication and luxury often depicted in Andhra Pradesh interiors.",
+    "metadata": {
+      "tags": [
+        "living room",
+        "Indian interior design",
+        "contemporary style",
+        "dark navy blue",
+        "marble countertop",
+        "Andhra Pradesh style"
+      ],
+      "budget_indicator": "Mid-range to high, due to the use of marble and the craftsmanship of the furniture",
+      "space_type": "residential living area",
+      "functionality": "mainly for relaxation and socializing, with storage for the living room",
+      "indian_specific": "dark navy blue accent, traditional storage unit design, marble countertop"
+    }
+  },
+  "cached_at": 1753460061989,
+  "cache_key": "42be94565b1869d33b90c843179d1fe1"
+}

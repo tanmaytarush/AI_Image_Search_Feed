@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/8/image_cropper_39674B79-4282-4777-A3CE-B431AA62882C-1402-000001696AD7F75F.jpg",
+  "analysis": {
+    "image_id": "img_374",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden flooring",
+        "Carved wooden panels",
+        "Modern lighting fixture",
+        "Built-in wardrobe"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Carved wooden panels, mirrored glass doors"
+          ],
+          "materials": [
+            "Wood (likely teak), glass"
+          ],
+          "finish": "Polished wooden finish, mirrored glass"
+        },
+        {
+          "type": "Ceiling Light",
+          "features": [
+            "Curved, modern design with warm lighting"
+          ],
+          "materials": [
+            "Plastic or metal"
+          ],
+          "finish": "Matte finish, warm glow"
+        },
+        {
+          "type": "Bed",
+          "features": [
+            "Partially visible, modern design"
+          ],
+          "materials": [
+            "Metal frame, possibly with wooden or fabric headboard"
+          ],
+          "finish": "Modern matte finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Warm browns, whites, beige, gold accents"
+        ],
+        "materials": [
+          "Wood, glass, metal, plastic"
+        ],
+        "lighting": "Warm, ambient lighting from the ceiling fixture",
+        "texture": "Smooth wood texture, reflective glass, metallic surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly identifiable, but could suggest North Indian influences due to the use of wood and carvings.",
+        "traditional_elements": [
+          "Wooden carvings, mirrored panels"
+        ],
+        "modern_adaptations": [
+          "Use of modern lighting, minimalistic design elements"
+        ],
+        "space_utilization": "Efficient use of space with a built-in wardrobe, maximizing floor space for movement.",
+        "cultural_significance": "The use of wood and mirrors is common in Indian interiors, symbolizing warmth and reflection."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian bedroom with a blend of contemporary and traditional elements. The use of warm browns and beige tones, along with wooden carvings and mirrored panels, creates a traditional yet modern ambiance. The ceiling light fixture adds a contemporary touch, while the built-in wardrobe efficiently utilizes the space, allowing for a clean and organized look. The overall design is a sophisticated take on traditional Indian aesthetics, using modern materials and finishes.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "contemporary design",
+          "bedroom",
+          "wooden finish",
+          "mirror",
+          "contemporary lighting"
+        ],
+        "budget_indicator": "Medium to high, due to the use of wooden carvings, mirrors, and modern lighting fixtures.",
+        "space_type": "Residential",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Carved wooden panels, mirrored glass doors, warm color palette"
+      }
+    }
+  },
+  "cached_at": 1753461046109,
+  "cache_key": "b901363ab5f0f65c504eef6243a8966c"
+}

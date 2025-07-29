@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/830/image_cropper_1729409797469.jpg",
+  "analysis": {
+    "image_id": "img_215",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Contemporary",
+      "primary_features": [
+        "Carpeted flooring",
+        "Glass-enclosed shelves",
+        "Television"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Modern design with glass panels",
+            "Light wood finish"
+          ],
+          "materials": [
+            "Light wood",
+            "Glass"
+          ],
+          "finish": "Sleek and glossy"
+        },
+        {
+          "type": "Television",
+          "features": [
+            "Flat-screen",
+            "Glass stand"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light wood brown",
+          "White",
+          "Grey",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light with artificial overhead lighting",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional",
+        "traditional_elements": [
+          "Not visible"
+        ],
+        "modern_adaptations": [
+          "Use of glass and modern materials"
+        ],
+        "space_utilization": "Open and functional, maximizing the use of wall space",
+        "cultural_significance": "Modern interpretation of Indian contemporary style, using clean lines and materials"
+      },
+      "confidence_scores": {
+        "room": 0.92,
+        "theme": 0.85,
+        "primary_features": 0.93,
+        "objects": 0.94,
+        "indian_context": 0.88
+      },
+      "description": "The living room features a modern interpretation of Indian design with a clean, minimalist aesthetic. The use of light wood, glass, and metal creates a contemporary look. The open shelves are a modern adaptation of traditional storage solutions, while the clean lines and use of glass reflect a modern Indian design approach. The overall space is open and functional, maximizing the use of wall space and creating a bright and airy feel.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Contemporary",
+          "Living Room",
+          "Glass Shelves",
+          "Light Wood",
+          "Television"
+        ],
+        "budget_indicator": "Moderate, with a focus on modern materials and finishes",
+        "space_type": "Residential",
+        "functionality": "Entertainment and storage",
+        "indian_specific": "Modern adaptation of Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1753459367681,
+  "cache_key": "8493a8df3b17c5773520ac4ed94bda89"
+}

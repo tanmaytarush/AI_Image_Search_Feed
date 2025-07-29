@@ -1,0 +1,114 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/244/image_cropper_1727176306416.jpg",
+  "analysis": {
+    "image_id": "img_469",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Modern bed with a contemporary design",
+        "Wardrobe with wooden panels",
+        "Television unit with wooden accents",
+        "Rug with geometric patterns"
+      ],
+      "objects": [
+        {
+          "type": "Contemporary bed",
+          "features": [
+            "Minimalist design with a dark finish",
+            "Integrated lighting underneath"
+          ],
+          "materials": [
+            "Wood, metal"
+          ],
+          "finish": "Shiny, lacquered surface"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Rectangular shape",
+            "Wooden panels with a natural finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood"
+        },
+        {
+          "type": "Television unit",
+          "features": [
+            "Wooden frame with clean lines",
+            "Integrated storage space"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood"
+        },
+        {
+          "type": "Rug",
+          "features": [
+            "Geometric patterns with a modern aesthetic",
+            "Machine-woven texture"
+          ],
+          "materials": [
+            "Cotton"
+          ],
+          "finish": "Soft, woven texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Dark bed frame",
+          "Wooden brown wardrobe",
+          "Black television unit",
+          "Geometric patterned rug"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Metal",
+          "Wood",
+          "Cotton"
+        ],
+        "lighting": "Ambient lighting from ceiling lights and integrated lighting under the bed",
+        "texture": "Smooth surfaces of the bed and television unit, woven texture of the rug"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, more a contemporary interpretation",
+        "traditional_elements": [
+          "Wooden wardrobe with carved panels"
+        ],
+        "modern_adaptations": [
+          "Integration of modern furniture and design elements"
+        ],
+        "space_utilization": "Efficient use of space with minimalistic furniture and storage solutions",
+        "cultural_significance": "The use of wood symbolizes strength and longevity in Indian culture, although the design is contemporary"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bedroom features a contemporary design with subtle Indian elements. The modern bed includes a dark frame with integrated lighting, while the wardrobe and television unit showcase wooden panels with a natural finish. The geometric patterned rug adds a touch of traditional design. The overall aesthetic blends modern furniture with Indian cultural significance, particularly the use of wood as a material.",
+    "metadata": {
+      "tags": [
+        "Contemporary Bedroom",
+        "Indian Influences",
+        "Modern Furniture",
+        "Wooden Wardrobe",
+        "Geometric Rug"
+      ],
+      "budget_indicator": "Moderate to high due to the use of wood and metal",
+      "space_type": "Residential Bedroom",
+      "functionality": "Primary function is as a place to rest and sleep, with additional storage for clothing and electronic devices",
+      "indian_specific": "Use of wood and clean lines with traditional wooden wardrobe"
+    }
+  },
+  "cached_at": 1753462380862,
+  "cache_key": "f294bbfe0d88717c4b5fc0e65beccef0"
+}

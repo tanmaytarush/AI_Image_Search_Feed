@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1695/insta_assets_crop_d8e81cfe-d37d-488b-a9da-b678b97662b4312934723258718739.jpg",
+  "analysis": {
+    "image_id": "img_154",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden flooring",
+        "Modern furniture",
+        "Teak wood accents",
+        "Lighting fixtures",
+        "Glass shelves"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Bench",
+          "features": [
+            "Carved details",
+            "Comfortable seating"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Glass Shelves",
+          "features": [
+            "Modern design",
+            "Minimalist style"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear glass"
+        },
+        {
+          "type": "Lighting Fixtures",
+          "features": [
+            "Modern",
+            "LED strip lights"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "White",
+          "Brown",
+          "Green"
+        ],
+        "materials": [
+          "Teak wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Soft ambient lighting with accent lighting from LED strips",
+        "texture": "Smooth surfaces with natural wood grain of teak"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, focuses on modern interpretation of Indian design",
+        "traditional_elements": [
+          "Teak wood bench with carved details"
+        ],
+        "modern_adaptations": [
+          "Minimalist glass shelves and modern LED lighting"
+        ],
+        "space_utilization": "Efficient use of space with clear lines and open layout",
+        "cultural_significance": "Embraces modern aesthetics while incorporating natural materials like teak, reflecting an appreciation for traditional craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.85
+      },
+      "description": "This contemporary Indian living room combines traditional elements like the teak wood bench with modern aesthetics. The use of teak wood for the bench adds a natural and warm touch, while the minimalist glass shelves and LED lighting fixtures introduce a contemporary feel. The overall design is clean and spacious, utilizing natural light and modern materials to create a comfortable and stylish living area.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Teak Wood",
+          "Modern Design",
+          "Living Room",
+          "Minimalist Furniture"
+        ],
+        "budget_indicator": "Moderate, utilizing both natural and modern materials",
+        "space_type": "Residential",
+        "functionality": "Entertainment or relaxing space",
+        "indian_specific": "Natural wood elements and handcrafted details"
+      }
+    }
+  },
+  "cached_at": 1753449318231,
+  "cache_key": "1e9e197a9a88250ede7e78758c4455fb"
+}

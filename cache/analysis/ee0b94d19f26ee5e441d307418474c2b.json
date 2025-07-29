@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.55%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_054",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Dark wood partition",
+        "Wall-mounted photo frames",
+        "Decorative shelf unit",
+        "Staircase with glass balustrade"
+      ],
+      "objects": [
+        {
+          "type": "Partition",
+          "features": [
+            "Dark wood finish",
+            "Modern design with glass balustrade"
+          ],
+          "materials": [
+            "Wood, glass"
+          ],
+          "finish": "Matte dark wood finish with glossy glass"
+        },
+        {
+          "type": "Shelf Unit",
+          "features": [
+            "Wall-mounted",
+            "Decorative with photo frames and items"
+          ],
+          "materials": [
+            "Wood, metal accents"
+          ],
+          "finish": "Smooth wood finish with metallic accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown wood, white walls, black marble countertop, purple pillow"
+        ],
+        "materials": [
+          "Wood, glass, metal, marble"
+        ],
+        "lighting": "Natural light through a window",
+        "texture": "Smooth wood texture, glossy glass, fabric surface"
+      },
+      "indian_context": {
+        "regional_style": "Moderate modern interpretations of traditional elements",
+        "traditional_elements": [
+          "Dark wood partition, wall-mounted shelves"
+        ],
+        "modern_adaptations": [
+          "Sleek glass balustrade, modern shelf design"
+        ],
+        "space_utilization": "Efficient use of vertical space with partition and shelf unit",
+        "cultural_significance": "The partition and shelves serve as both functional and decorative elements, reflecting a blend of practicality and aesthetics in Indian interior design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian foyer with a dark wood partition and glass balustrade. The space features a wall-mounted shelf unit with photo frames and decorative items, reflecting a blend of traditional and contemporary design elements. The use of dark wood and glass creates a sleek, elegant look, while the placement of the storage unit maximizes the use of vertical space, typical of modern Indian interior design.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Foyer design",
+        "Dark wood partition",
+        "Modern Indian style",
+        "Glass balustrade",
+        "Wall-mounted shelf"
+      ],
+      "budget_indicator": "Moderate, with use of wood and glass for partitions, and decorative shelves.",
+      "space_type": "Residential entryway",
+      "functionality": "Entrance and utility space for storage and decor",
+      "indian_specific": "Modern interpretation of traditional wooden partitions and wall-mounted shelves"
+    }
+  },
+  "cached_at": 1753446881200,
+  "cache_key": "ee0b94d19f26ee5e441d307418474c2b"
+}

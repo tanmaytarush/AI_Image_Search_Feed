@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/799/image_cropper_1729260135305.jpg",
+  "analysis": {
+    "image_id": "img_497",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Large bed with minimalistic design",
+        "Bare floor",
+        "Wall-mounted shelf"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Flat surface",
+            "Minimalistic design",
+            "No headboard"
+          ],
+          "materials": [
+            "Possible wood or metal frame"
+          ],
+          "finish": "Smooth, plain finish"
+        },
+        {
+          "type": "Wall-mounted shelf",
+          "features": [
+            "Built-in design",
+            "Simple structure",
+            "Wall-mounted"
+          ],
+          "materials": [
+            "Possible metal or wood"
+          ],
+          "finish": "Shiny, reflective finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Tan",
+          "Gray",
+          "Brown"
+        ],
+        "materials": [
+          "Walls - painted, possibly wood or paneling; Floor - bare wood or similar; Shelving - metal or wood; Bed - metal or wood"
+        ],
+        "lighting": "Natural light from window, suggesting daytime with soft lighting",
+        "texture": "Smooth and minimal texture, with bare floor and minimalistic furniture"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly indicative of a specific regional style; minimal and modern design",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalistic design with modern lines, lack of traditional elements"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage, maximizing functionality",
+        "cultural_significance": "Minimalist design reflects modern trends and simplicity, not culturally specific elements"
+      },
+      "confidence_scores": {
+        "room": 0.9,
+        "theme": 0.85,
+        "primary_features": 0.85,
+        "objects": 0.88,
+        "indian_context": 0.7
+      },
+      "description": "The image showcases a minimalist bedroom with a large bed, a bare floor, and a wall-mounted shelf. The design is modern and functional, with no traditional Indian elements visible. The use of natural light and simple materials suggests a contemporary aesthetic.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Bedroom",
+          "Modern",
+          "Functionality",
+          "Bare Floor",
+          "Wall-mounted shelf"
+        ],
+        "budget_indicator": "Budget-friendly with simple materials and minimalistic design",
+        "space_type": "Residential",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1753462693372,
+  "cache_key": "a6a4e2cd43237458ba64482d6a8654b7"
+}

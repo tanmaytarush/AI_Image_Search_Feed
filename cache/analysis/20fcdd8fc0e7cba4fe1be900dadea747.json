@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1570/insta_assets_crop_3d60aa68-73e0-4ce6-855c-773c3b5bc92f7969811577975803943.jpg",
+  "analysis": {
+    "image_id": "img_153",
+    "ai_generated_tags": {
+      "room": "Entryway or Hallway",
+      "theme": "Modern Indian Interior",
+      "primary_features": [
+        "Wardrobe with sliding doors",
+        "Built-in storage shelves",
+        "Mirror above the storage"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Sliding glass doors, modern design, integrated lighting inside"
+          ],
+          "materials": [
+            "Glass, metal for frame, possibly MDF or wood for panels"
+          ],
+          "finish": "Smooth glass finish, metallic frame with a glossy sheen"
+        },
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Wooden construction, multiple shelves for storage"
+          ],
+          "materials": [
+            "Wood, possibly teak or pine"
+          ],
+          "finish": "Natural wood finish, matte appearance"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Rectangular shape, frameless design, mounted on the wall"
+          ],
+          "materials": [
+            "Glass for the mirror, metal or wood for the frame"
+          ],
+          "finish": "Clear glass, metallic frame with a polished look"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Brown, Silver, Clear"
+        ],
+        "materials": [
+          "Glass, Metal, Wood, Wood"
+        ],
+        "lighting": "Integrated LED lighting within the wardrobe, enhancing modern look",
+        "texture": "Smooth surfaces on glass, matte finish on wood, shiny metallic accents"
+      },
+      "indian_context": {
+        "regional_style": "Modern Maharashtrian",
+        "traditional_elements": [
+          "Built-in storage, sliding wardrobe"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and design techniques"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage, maintaining aesthetic appeal",
+        "cultural_significance": "Represents contemporary interpretation of Indian craftsmanship and space optimization"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian interior design in a hallway or entryway. It features a wardrobe with sliding glass doors, built-in wooden shelves for storage, and a mirror above the shelves. The use of glass, metal, and wood materials reflects a contemporary take on Indian craftsmanship. The design emphasizes functionality and space optimization, with a focus on creating a cohesive and visually appealing aesthetic.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Interior",
+        "Hallway Design",
+        "Built-in Storage",
+        "Glass Wardrobe",
+        "Wooden Shelves"
+      ],
+      "budget_indicator": "Moderate, due to the use of glass, metal, and natural wood",
+      "space_type": "Hallway",
+      "functionality": "Storage and entryway organization",
+      "indian_specific": "Integration of traditional storage solutions with modern materials"
+    }
+  },
+  "cached_at": 1753449281625,
+  "cache_key": "20fcdd8fc0e7cba4fe1be900dadea747"
+}

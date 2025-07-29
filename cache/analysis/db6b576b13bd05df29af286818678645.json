@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.29%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_012",
+    "ai_generated_tags": {
+      "room": "Indian kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Marble countertop",
+        "Wooden cabinetry",
+        "Minimal decor",
+        "Swastik symbol"
+      ],
+      "objects": [
+        {
+          "type": "Wooden cabinetry",
+          "features": [
+            "Light wood finish",
+            "Open and closed storage sections"
+          ],
+          "materials": [
+            "Wood, likely teak"
+          ],
+          "finish": "Smooth, natural wood finish"
+        },
+        {
+          "type": "Marble countertop",
+          "features": [
+            "White with grey veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Swastik symbol",
+          "features": [
+            "Carved wooden panel, black and white color scheme"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Carved and painted"
+        },
+        {
+          "type": "Decorative door",
+          "features": [
+            "White lattice design, black frame, om symbol"
+          ],
+          "materials": [
+            "Wood, glass"
+          ],
+          "finish": "White lattice, dark frame, decorative carving"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, grey, black, light brown, green"
+        ],
+        "materials": [
+          "Marble, wood, glass"
+        ],
+        "lighting": "Natural light from ceiling lights",
+        "texture": "Smooth surfaces of marble, wood grain, and decorative textures"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but could be from Northern Indian influence due to the Swastik symbol",
+        "traditional_elements": [
+          "Swastik symbol, wooden cabinetry"
+        ],
+        "modern_adaptations": [
+          "Minimal decor, modern finishes"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage, open layout for functionality",
+        "cultural_significance": "Swastik and om symbol are auspicious in Indian culture, often used in religious spaces or as decorative elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian kitchen with a minimalist aesthetic. The space features light-colored marble countertops and light wood cabinetry, creating a clean and bright look. A decorative wooden panel with a Swastik symbol and an om symbol serves as a focal point, adding cultural significance to the space. The overall design blends traditional Indian elements with contemporary finishes and layout.",
+    "metadata": {
+      "tags": [
+        "Indian kitchen",
+        "Modern style",
+        "Swastik",
+        "Omm symbol",
+        "Minimal decor"
+      ],
+      "budget_indicator": "Moderate, with use of marble and wood",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is for food preparation and storage, with a focus on aesthetics and cultural meanings",
+      "indian_specific": "Swastik and om symbols, wooden cabinetry, decorative panel"
+    }
+  },
+  "cached_at": 1753445880966,
+  "cache_key": "db6b576b13bd05df29af286818678645"
+}

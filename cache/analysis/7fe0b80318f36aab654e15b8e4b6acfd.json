@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1131/image_cropper_1729608597445.jpg",
+  "analysis": {
+    "image_id": "img_380",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Simplistic Modern with Traditional Elements",
+      "primary_features": [
+        "Wall-mounted TV unit",
+        "Rounded door design",
+        "Wooden flooring",
+        "Framed wall art"
+      ],
+      "objects": [
+        {
+          "type": "TV Unit",
+          "features": [
+            "Rectangular shape",
+            "Open shelves with glass doors",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Polished wood and glossy glass"
+        },
+        {
+          "type": "Rounded Door",
+          "features": [
+            "Dark wood finish",
+            "Carved design on door panel"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown wood",
+          "Light brown wood",
+          "Dark gray flooring",
+          "White wall",
+          "Multicolored framed art"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Metal",
+          "Marble"
+        ],
+        "lighting": "Natural light coming from outside the frame",
+        "texture": "Smooth wood surfaces, glossy glass, textured wall art"
+      },
+      "indian_context": {
+        "regional_style": "Mughal-inspired",
+        "traditional_elements": [
+          "Rounded door design",
+          "Carved wooden elements"
+        ],
+        "modern_adaptations": [
+          "Simplistic modern lines with traditional motifs"
+        ],
+        "space_utilization": "Efficient use of space with a focus on openness",
+        "cultural_significance": "The rounded door and carved designs reflect Mughal architectural influences, symbolizing harmony and balance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This interior space features a modern design with traditional Indian influences, most notably in the rounded door design and carved wooden elements, reflecting a Mughal-inspired aesthetic. The living room includes a wall-mounted TV unit with glass doors and open shelves, complemented by dark wood flooring and framed wall art. The overall color palette is a blend of earthy tones with a touch of modern simplicity.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Mughal architecture",
+        "Wooden furniture",
+        "Carved elements",
+        "Modern decor"
+      ],
+      "budget_indicator": "Moderate to high, due to the use of polished wood, glass, and possibly marble",
+      "space_type": "Residential Living Room",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Rounded door design, carved wooden elements"
+    }
+  },
+  "cached_at": 1753461121401,
+  "cache_key": "7fe0b80318f36aab654e15b8e4b6acfd"
+}

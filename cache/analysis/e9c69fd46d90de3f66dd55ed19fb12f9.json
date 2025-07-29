@@ -1,0 +1,79 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00478.JPG",
+  "analysis": {
+    "image_id": "img_100",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Modern",
+      "primary_features": [
+        "Marble flooring",
+        "Sliding wardrobe doors",
+        "Recessed lighting",
+        "Wooden accents"
+      ],
+      "objects": [
+        {
+          "type": "Sliding wardrobe",
+          "features": [
+            "Marble sliding doors",
+            "Wooden frame",
+            "Modern handles"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Marble beige",
+          "Brown",
+          "Blue and white pattern on edge"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Glass"
+        ],
+        "lighting": "Recessed lighting, providing bright illumination",
+        "texture": "Glossy finish on marble and wood"
+      },
+      "indian_context": {
+        "regional_style": "Not indicative of a specific regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Marble and modern hardware as adaptations"
+        ],
+        "space_utilization": "Efficient use of space with a minimalist wardrobe",
+        "cultural_significance": "Not culturally significant as it does not include traditional Indian elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern entryway with a sleek design. It features a sliding wardrobe with marble sliding doors and wooden framing, complemented by a glossy finish. The space is illuminated by recessed lighting, and the floor is covered with marble tiles. The corner of a table with a blue and white patterned cover is visible, indicating the presence of a dining or living area adjacent to the entryway.",
+      "metadata": {
+        "tags": [
+          "Entryway",
+          "Modern",
+          "Marble",
+          "Wood",
+          "Sliding Wardrobe",
+          "Recessed Lighting"
+        ],
+        "budget_indicator": "Moderate to high, given the use of marble and wood",
+        "space_type": "Residential",
+        "functionality": "Entrance storage solution",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1753448139583,
+  "cache_key": "e9c69fd46d90de3f66dd55ed19fb12f9"
+}

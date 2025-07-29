@@ -1,0 +1,80 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.33%20PM%20%283%29.jpeg",
+  "analysis": {
+    "image_id": "img_061",
+    "ai_generated_tags": {
+      "room": "worship room",
+      "theme": "contemporary Indian home temple",
+      "primary_features": [
+        "marble paneling",
+        "glass top",
+        "religious symbols"
+      ],
+      "objects": [
+        {
+          "type": "temple unit",
+          "features": [
+            "two doors with bell motifs",
+            "Om and Swastika symbols",
+            "glass panel with religious emblems"
+          ],
+          "materials": [
+            "marble",
+            "glass"
+          ],
+          "finish": "polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white marble",
+          "brown marble",
+          "black marble",
+          "clear glass"
+        ],
+        "materials": [
+          "marble",
+          "glass"
+        ],
+        "lighting": "indirect lighting from above, creating a warm ambiance",
+        "texture": "smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Om symbol",
+          "Swastika symbol",
+          "bell motifs"
+        ],
+        "modern_adaptations": [
+          "contemporary glass and marble design"
+        ],
+        "space_utilization": "optimized for storage with decorative elements",
+        "cultural_significance": "representation of Hindu religious symbols, signifying devotion and spirituality"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a contemporary interpretation of a North Indian home temple. The design features a marble panel with glass top, adorned with religious symbols like Om and Swastika, and bell motifs. The use of marble and glass creates a sleek and elegant look, while the symbols signify spiritual and cultural significance. The space is well-lit, enhancing the polished surfaces and making the temple unit a focal point in the room.",
+      "metadata": {
+        "tags": [
+          "Indian temple",
+          "marble design",
+          "religious symbols",
+          "contemporary",
+          "home temple"
+        ],
+        "budget_indicator": "moderate to high, given the use of marble and glass",
+        "space_type": "residential",
+        "functionality": "dedicated to prayer and spiritual practices",
+        "indian_specific": "use of traditional symbols and marble craftsmanship"
+      }
+    }
+  },
+  "cached_at": 1753447033240,
+  "cache_key": "c0081b7c78c1d1873b39d79f7a6858f9"
+}

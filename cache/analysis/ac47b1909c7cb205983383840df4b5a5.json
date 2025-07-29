@@ -1,0 +1,79 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/452/image_cropper_1729415392253.jpg",
+  "analysis": {
+    "image_id": "img_133",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist with Indian Influence",
+      "primary_features": [
+        "Bed with wooden frame",
+        "White bedding",
+        "Window with wooden frame",
+        "Tile flooring"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Wooden frame",
+            "White bedding"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gray"
+        ],
+        "materials": [
+          "Teak wood",
+          "White bedding",
+          "Grey tile flooring",
+          "Wooden window frame"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth wooden texture of the bed frame, glossy tile flooring, and soft bedding"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but shows elements of traditional Indian design",
+        "traditional_elements": [
+          "Wooden bed frame"
+        ],
+        "modern_adaptations": [
+          "Minimalist modern design mixed with traditional wood elements"
+        ],
+        "space_utilization": "Optimized for maximum comfort with a small footprint",
+        "cultural_significance": "The wooden bed frame symbolizes traditional craftsmanship and strength, common in Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This bedroom showcases a minimalist design with traditional Indian influences. The wooden bed frame is a key feature, reflecting traditional craftsmanship and strength, while the white bedding adds a modern touch. The natural light and tile flooring enhance the overall aesthetic, creating a serene and comfortable space.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Minimalist",
+          "Wooden bed",
+          "White bedding",
+          "Tile flooring",
+          "Natural light"
+        ],
+        "budget_indicator": "Moderate, with quality materials used for the bed frame and tile flooring",
+        "space_type": "Bedroom",
+        "functionality": "Sleeping and relaxation space",
+        "indian_specific": "Use of wood as a primary material and incorporation of traditional bed designs"
+      }
+    }
+  },
+  "cached_at": 1753448902950,
+  "cache_key": "ac47b1909c7cb205983383840df4b5a5"
+}

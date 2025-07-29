@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/722/image_cropper_1729185089880.jpg",
+  "analysis": {
+    "image_id": "img_150",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Contemporary bed frames",
+        "Decorative headboard",
+        "Minimalist wall decor"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Tufted design",
+            "Tufted headboard"
+          ],
+          "materials": [
+            "Pink upholstery fabric",
+            "Wooden frame"
+          ],
+          "finish": "Tufted upholstery with contrast stitching"
+        },
+        {
+          "type": "Wall Decor",
+          "features": [
+            "Geometric wall paneling"
+          ],
+          "materials": [
+            "Wood with painted finish"
+          ],
+          "finish": "Smooth painted surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink upholstery fabric",
+          "White wall paneling",
+          "Blue headboard"
+        ],
+        "materials": [
+          "Wood",
+          "Upholstery fabric"
+        ],
+        "lighting": "Natural light from out of frame",
+        "texture": "Tufted upholstery, smooth painted wood"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, leans towards North Indian influence with modern interpretation",
+        "traditional_elements": [
+          "Geometric wall paneling",
+          "Tufted upholstery"
+        ],
+        "modern_adaptations": [
+          "Minimalist wall decor, contemporary bed frame"
+        ],
+        "space_utilization": "Focused on the bed as the centerpiece",
+        "cultural_significance": "Modern adaptation of traditional Indian craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This bedroom features a contemporary take on traditional Indian design elements. The tufted pink bed with a wooden frame reflects a modern interpretation of traditional craftsmanship. The smooth, painted wood used for the wall paneling and headboard adds a touch of sophistication, while the geometric patterns on the wall paneling draw inspiration from Indian art forms. The overall design blends traditional elements with modern aesthetics, creating a harmonious and contemporary space.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Tufted upholstery",
+          "Modern Indian design",
+          "Minimalist wall decor",
+          "Bedroom"
+        ],
+        "budget_indicator": "Moderate, utilizing upholstered furniture and painted wood",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and relaxation",
+        "indian_specific": "Tufted upholstery, wood paneling with geometric designs"
+      }
+    }
+  },
+  "cached_at": 1753449249388,
+  "cache_key": "9bf2cdd5087c5d4ababefd7a0d332fa7"
+}

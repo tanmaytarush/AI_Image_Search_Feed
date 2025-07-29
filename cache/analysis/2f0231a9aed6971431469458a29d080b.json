@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/290/image_cropper_1727357662682.jpg",
+  "analysis": {
+    "image_id": "img_260",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Large window with views",
+        "Simple wooden flooring",
+        "Minimalist furniture"
+      ],
+      "objects": [
+        {
+          "type": "Window",
+          "features": [
+            "Tall and narrow",
+            "Glass panels"
+          ],
+          "materials": [
+            "Glass",
+            "Metal frame"
+          ],
+          "finish": "Clear glass with metallic frame"
+        },
+        {
+          "type": "Flooring",
+          "features": [
+            "Wooden",
+            "Natural finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Light brown, polished"
+        },
+        {
+          "type": "Furniture",
+          "features": [
+            "Simple, sleek design",
+            "Metal legs"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light brown",
+          "Metallic"
+        ],
+        "materials": [
+          "Glass",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from window, artificial light on ceiling",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable (modern)",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Modern interpretation of clean lines and minimal design"
+        ],
+        "space_utilization": "Open and uncluttered, maximizing space",
+        "cultural_significance": "Not applicable (modern)"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior features a modern minimalist living room with a large window providing ample natural light. The flooring is light brown polished wood, complemented by sleek metal-framed furniture. The design is clean and uncluttered, emphasizing functionality and contemporary style. There are no traditional Indian design elements visible in this space.",
+    "metadata": {
+      "tags": [
+        "Modern Living Room",
+        "Minimalist Design",
+        "Natural Light",
+        "Sleek Furniture"
+      ],
+      "budget_indicator": "Moderate (uses metal and light wood)",
+      "space_type": "Living Room",
+      "functionality": "Primary living and relaxation area",
+      "indian_specific": "No Indian-specific design features present"
+    }
+  },
+  "cached_at": 1753459748410,
+  "cache_key": "2f0231a9aed6971431469458a29d080b"
+}

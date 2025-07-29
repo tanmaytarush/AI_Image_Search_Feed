@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1082/image_cropper_1729578278820.jpg",
+  "analysis": {
+    "image_id": "img_181",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Indian Regional Style",
+      "primary_features": [
+        "Carved wooden elements",
+        "Marble tiles"
+      ],
+      "objects": [
+        {
+          "type": "Carved Wooden Console Table",
+          "features": [
+            "Polished finish",
+            "Rustic design"
+          ],
+          "materials": [
+            "Teak Wood"
+          ],
+          "finish": "Smooth polished teak finish"
+        },
+        {
+          "type": "Marble Flooring",
+          "features": [
+            "Elegant pattern",
+            "White and grey tones"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High-gloss polished marble"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Grey",
+          "Brown",
+          "Wooden tones"
+        ],
+        "materials": [
+          "Wood",
+          "Marble"
+        ],
+        "lighting": "Natural light with soft ambient lighting",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "North Indian Style",
+        "traditional_elements": [
+          "Carved wooden elements"
+        ],
+        "modern_adaptations": [
+          "Minimalistic marble flooring"
+        ],
+        "space_utilization": "Efficient space with functional furniture arrangement",
+        "cultural_significance": "The use of carved wooden elements represents traditional craftsmanship and hospitality"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern interpretation of North Indian interior design, featuring a carved wooden console table with a smooth polished finish, set against marble tiled flooring. The space utilizes traditional Indian craftsmanship elements while incorporating contemporary design aesthetics, such as the clean lines and minimalist use of marble. The room appears to be a living area, emphasizing a blend of traditional and modern influences in a refined and luxurious setting.",
+      "metadata": {
+        "tags": [
+          "Indian Interior",
+          "North Indian Style",
+          "Carved Wood",
+          "Marble Flooring",
+          "Living Room"
+        ],
+        "budget_indicator": "High",
+        "space_type": "Residential",
+        "functionality": "Living Area",
+        "indian_specific": "Carved wooden elements, polished teak finish"
+      }
+    }
+  },
+  "cached_at": 1753459065154,
+  "cache_key": "9f589cf12aaf0385ad3a38c814381ce3"
+}

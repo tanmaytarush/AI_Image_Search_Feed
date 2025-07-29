@@ -1,0 +1,109 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1165/image_cropper_1729612787721.jpg",
+  "analysis": {
+    "image_id": "img_389",
+    "ai_generated_tags": {
+      "room": "entryway",
+      "theme": "contemporary minimal",
+      "primary_features": [
+        "wooden flooring",
+        "glass door",
+        "wooden wall paneling",
+        "wooden staircase"
+      ],
+      "objects": [
+        {
+          "type": "wooden flooring",
+          "features": [
+            "natural wood grain pattern",
+            "dark brown finish"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "polished"
+        },
+        {
+          "type": "glass door",
+          "features": [
+            "rectangular",
+            "sliding"
+          ],
+          "materials": [
+            "glass",
+            "metal"
+          ],
+          "finish": "clear"
+        },
+        {
+          "type": "wooden wall paneling",
+          "features": [
+            "vertical slats",
+            "dark brown finish"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "polished"
+        },
+        {
+          "type": "wooden staircase",
+          "features": [
+            "railing on one side",
+            "dark wooden steps"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "brown",
+          "black",
+          "gray"
+        ],
+        "materials": [
+          "wood",
+          "glass",
+          "metal"
+        ],
+        "lighting": "natural light from the glass door",
+        "texture": "smooth"
+      },
+      "indian_context": {
+        "regional_style": "not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "contemporary design with Indian influence"
+        ],
+        "space_utilization": "linear arrangement, efficient use of space for minimal functionality",
+        "cultural_significance": "modern Indian design with a focus on clean lines and natural materials"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern minimal entryway in an Indian-style home, featuring a wooden staircase, a glass door, and wooden wall paneling. The design uses natural wood tones and a clean, linear aesthetic. There are no overtly traditional Indian elements, but the use of wood and simple forms could suggest a modern interpretation of traditional Indian design.",
+      "metadata": {
+        "tags": [
+          "entryway",
+          "modern",
+          "minimal",
+          "wooden",
+          "glass"
+        ],
+        "budget_indicator": "moderate to high",
+        "space_type": "residential",
+        "functionality": "entryway for a home, serving a practical purpose of guiding entry into the house",
+        "indian_specific": "use of wood in a contemporary context"
+      }
+    }
+  },
+  "cached_at": 1753461304288,
+  "cache_key": "b0639e9597bc7bbddd5b534d19055045"
+}

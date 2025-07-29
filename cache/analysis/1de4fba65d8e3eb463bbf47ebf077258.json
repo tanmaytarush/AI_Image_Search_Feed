@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00728.JPG",
+  "analysis": {
+    "image_id": "img_097",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Sliding door wardrobe",
+        "Marble floor",
+        "Circular mirror",
+        "Geometric patterned wall"
+      ],
+      "objects": [
+        {
+          "type": "Sliding door wardrobe",
+          "features": [
+            "White finish",
+            "Geometric patterns in gold",
+            "Black handles"
+          ],
+          "materials": [
+            "Wood or MDF",
+            "Gold paint",
+            "Metal"
+          ],
+          "finish": "Shiny"
+        },
+        {
+          "type": "Circular mirror",
+          "features": [
+            "White frame",
+            "Geometric patterns on the frame"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Marble",
+          "Metal",
+          "Wood",
+          "Glass"
+        ],
+        "lighting": "Bright and even, natural light coming from the side and above",
+        "texture": "Smooth surfaces with glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Circular mirror (inspired by traditional Indian mirrors)",
+          "Geometric patterns"
+        ],
+        "modern_adaptations": [
+          "Use of geometric patterns in a contemporary setting"
+        ],
+        "space_utilization": "Efficient use of space with a focus on functionality and aesthetics",
+        "cultural_significance": "The circular mirror is often used in Indian homes to reflect good fortune and to ward off evil spirits. The geometric patterns are a modern interpretation of traditional Indian motifs."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern Indian entryway characterized by a sleek, contemporary design. The sliding door wardrobe features a white finish with gold geometric patterns and black handles, creating a striking contrast. A circular mirror with a white frame and geometric designs adds a unique and stylish element. The space is defined by a marble floor and a brown wooden panel, blending traditional and modern aesthetics. The bright and even lighting enhances the glossy finishes and smooth surfaces, creating a welcoming and sophisticated atmosphere.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Entryway",
+        "Modern Indian",
+        "Geometric Patterns",
+        "Circular Mirror",
+        "Marble Floor",
+        "Wood Panel"
+      ],
+      "budget_indicator": "Mid to high, due to the use of marble and polished materials",
+      "space_type": "Entryway",
+      "functionality": "Primary purpose is to serve as a functional and stylish transition area from the outside to the interior of the home",
+      "indian_specific": "The use of a circular mirror and geometric patterns reflects traditional Indian design elements adapted in a contemporary context"
+    }
+  },
+  "cached_at": 1753448055665,
+  "cache_key": "1de4fba65d8e3eb463bbf47ebf077258"
+}

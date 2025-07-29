@@ -1,0 +1,72 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/275/image_cropper_1727274545895.jpg",
+  "analysis": {
+    "image_id": "img_307",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Lighting fixtures",
+        "Cabinetry",
+        "Countertops"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen Island",
+          "features": [
+            "Built-in seating",
+            "Storage drawers"
+          ],
+          "materials": [
+            "Wood, metal"
+          ],
+          "finish": "Polished, metallic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Dark Wood, Metallic"
+        ],
+        "materials": [
+          "Wood, Metal, Marble, Glass"
+        ],
+        "lighting": "Warm, ambient lighting from overhead fixtures",
+        "texture": "Smooth surfaces, glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, possibly urban",
+        "traditional_elements": [
+          "Carved wooden panels (implied design elements)",
+          "Jharokha elements (implied design elements)"
+        ],
+        "modern_adaptations": [
+          "Combination of traditional and modern design elements"
+        ],
+        "space_utilization": "Efficient use of space with storage and seating options",
+        "cultural_significance": "The design reflects a blend of modern functionality with traditional Indian design inspiration, such as the use of wood and metal, which are often associated with Indian craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The kitchen features a contemporary design with a mix of traditional Indian elements, such as the use of wood and metal, while offering modern functionality with efficient space utilization. The kitchen island includes built-in seating and storage drawers, emphasizing practicality. The design utilizes a combination of materials like wood, metal, marble, and glass, with polished finishes and warm, ambient lighting to create a visually appealing and culturally relevant space.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Urban Kitchen Design",
+          "Wood and Metal Interiors",
+          "Efficient Space Utilization"
+        ],
+        "budget_indicator": "Moderate, utilizing materials like wood, metal, and marble, which are mid-tier",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is a kitchen with additional seating and storage options",
+        "indian_specific": "Combination of traditional and modern Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1753460245280,
+  "cache_key": "11bdc23d3da5f31e33f48051363726f6"
+}

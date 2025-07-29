@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/260/image_cropper_1727317128879.jpg",
+  "analysis": {
+    "image_id": "img_472",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Modern cabinetry",
+        "Quartz countertops",
+        "Glass backsplash",
+        "LED under-cabinet lighting"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Modern design with sleek lines",
+            "Integrated handles",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Dark wood, possibly teak or ebony",
+            "Metallic hardware"
+          ],
+          "finish": "High-gloss paint"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Quartz surface",
+            "Smooth and polished"
+          ],
+          "materials": [
+            "Quartz"
+          ],
+          "finish": "High-quality polish"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Glass tiles with yellow and white pattern",
+            "Stainless steel panels at bottom"
+          ],
+          "materials": [
+            "Glass tiles",
+            "Stainless steel"
+          ],
+          "finish": "Glossy and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark wood brown",
+          "Yellow and white tiles",
+          "White walls",
+          "Black countertops"
+        ],
+        "materials": [
+          "Dark wood, quartz, glass tiles, stainless steel"
+        ],
+        "lighting": "LED under-cabinet lighting",
+        "texture": "Glossy and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style identified, but Indian elements are present",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and finishes, such as quartz countertops"
+        ],
+        "space_utilization": "Efficient use of space with modern cabinetry and countertop",
+        "cultural_significance": "No culturally significant elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern kitchen with a contemporary Indian fusion design. The space features sleek, dark wood cabinetry, quartz countertops, and a glass backsplash with a yellow and white pattern, paired with LED under-cabinet lighting. The design balances traditional Indian aesthetics with modern functionality and materials, resulting in a polished and high-end kitchen environment.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern Design",
+          "Indian Fusion",
+          "Contemporary",
+          "Dark Wood",
+          "Quartz Countertops",
+          "Glass Backsplash"
+        ],
+        "budget_indicator": "High",
+        "space_type": "Residential Kitchen",
+        "functionality": "Cooking and food preparation",
+        "indian_specific": "Modern interpretation of Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1753462415666,
+  "cache_key": "bd157af1c0591c29f44b5763f98e8210"
+}

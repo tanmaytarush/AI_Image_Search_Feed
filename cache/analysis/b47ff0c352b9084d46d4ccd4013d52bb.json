@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1426/image_cropper_1729781946834.jpg",
+  "analysis": {
+    "image_id": "img_312",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Countertop",
+        "Appliances",
+        "Wall unit"
+      ],
+      "objects": [
+        {
+          "type": "Countertop",
+          "features": [
+            "Smooth surface",
+            "Light color"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Stainless steel finish",
+            "Integrated design"
+          ],
+          "materials": [
+            "Stainless steel",
+            "Copper"
+          ],
+          "finish": "High gloss"
+        },
+        {
+          "type": "Wall unit",
+          "features": [
+            "Decorative shelves",
+            "Storage space"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Carved and polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Blue",
+          "Teal"
+        ],
+        "materials": [
+          "Marble",
+          "Stainless steel",
+          "Wood"
+        ],
+        "lighting": "Bright and even lighting, possibly from overhead fixtures",
+        "texture": "Smooth surfaces with some carved textures on the wall unit"
+      },
+      "indian_context": {
+        "regional_style": "South Indian traditional design",
+        "traditional_elements": [
+          "Carved wood elements"
+        ],
+        "modern_adaptations": [
+          "Integration of modern appliances and materials"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage and display",
+        "cultural_significance": "Cultural elements like wood carving reflect regional craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The kitchen space is designed in a modern Indian style with a blend of traditional and contemporary elements. The countertop is made of polished marble, complementing the stainless steel appliances finished in a high-gloss copper-like material. A wall unit with carved wooden elements and storage shelves adds a traditional touch, reflecting regional craftsmanship. The color palette includes white, black, blue, and teal, creating a vibrant and modern look. The space is well-lit, emphasizing the sleek and functional design.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Kitchen Design",
+          "Marble Countertop",
+          "Wood Carving",
+          "South Indian Style"
+        ],
+        "budget_indicator": "Mid to high-end, considering the use of marble and polished wood",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Traditional wood carvings and use of marble"
+      }
+    }
+  },
+  "cached_at": 1753460301657,
+  "cache_key": "b47ff0c352b9084d46d4ccd4013d52bb"
+}

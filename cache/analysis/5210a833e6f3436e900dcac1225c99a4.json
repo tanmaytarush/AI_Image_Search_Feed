@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.13%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_031",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Large wardrobe with sliding doors",
+        "Built-in shelves",
+        "Decorative mirror"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Sliding doors with light blue panels and silver horizontal stripes",
+            "Integrated with built-in shelves"
+          ],
+          "materials": [
+            "Light blue paneling",
+            "Silver stripes"
+          ],
+          "finish": "Smooth finish on panels, reflective finish on stripes"
+        },
+        {
+          "type": "Built-in Shelves",
+          "features": [
+            "White shelves with open compartments"
+          ],
+          "materials": [
+            "White paneling"
+          ],
+          "finish": "Smooth finish"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Oval-shaped, decorative frame"
+          ],
+          "materials": [
+            "Glass, metal frame"
+          ],
+          "finish": "Polished metal frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light blue, white, silver, beige"
+        ],
+        "materials": [
+          "Paneling: light blue, silver, white, metal, glass"
+        ],
+        "lighting": "Natural light with shadows indicating sunlight",
+        "texture": "Smooth paneling, reflective stripes, textured wallpaper"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but modern interpretations of traditional Indian design",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary color palette",
+          "Integrated storage solutions"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and wardrobe",
+        "cultural_significance": "Indian design principles in modern form, focusing on functionality and aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian bedroom features a large, light blue wardrobe with sliding doors and integrated built-in shelves. The room includes a decorative oval mirror and emphasizes efficient space utilization with minimalistic and functional furniture. The design incorporates contemporary elements while maintaining a clean, organized look.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Wardrobe",
+        "Built-in shelves",
+        "Decorative mirror",
+        "Light blue",
+        "Modern Indian"
+      ],
+      "budget_indicator": "Moderate, using contemporary materials with a focus on functionality",
+      "space_type": "Residential bedroom",
+      "functionality": "Primary purpose is storage and organization, with additional functionality of the wardrobe and shelves.",
+      "indian_specific": "Modern interpretation of traditional Indian design elements like color and organization."
+    }
+  },
+  "cached_at": 1753446395364,
+  "cache_key": "5210a833e6f3436e900dcac1225c99a4"
+}

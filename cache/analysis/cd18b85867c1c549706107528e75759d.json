@@ -1,0 +1,95 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/415/image_cropper_1728459478041.jpg",
+  "analysis": {
+    "image_id": "img_286",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden bed frame",
+        "Sliding wardrobe doors",
+        "Carved wooden headboard",
+        "Ceiling fan"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Wooden frame with curved legs",
+            "Carved wooden headboard with intricate designs"
+          ],
+          "materials": [
+            "Teak wood",
+            "Carved wood"
+          ],
+          "finish": "Polished teak wood with natural finish"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Sliding wooden doors",
+            "Built-in storage space"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Teak wood with glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (teak wood)",
+          "White (wardrobe doors)",
+          "Gold (wall accents)",
+          "Off-white (ceiling fan)",
+          "Black (ceiling fan blades)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Wood",
+          "Metal (sliding doors)",
+          "Metal (ceiling fan)"
+        ],
+        "lighting": "Soft ambient light with a lamp on the bedside table",
+        "texture": "Smooth teak wood texture, glossy sliding doors, metallic sheen of the ceiling fan"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional",
+        "traditional_elements": [
+          "Carved wooden headboard",
+          "Sliding wooden wardrobe doors"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with minimalistic lines",
+          "Use of modern materials like metal for the ceiling fan"
+        ],
+        "space_utilization": "Efficient use of space with a built-in wardrobe and minimal furniture",
+        "cultural_significance": "The carved headboard and sliding wardrobe doors reflect traditional Indian craftsmanship and the emphasis on functionality and aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a contemporary Indian bedroom with a focus on traditional Indian design elements. The room features a carved wooden headboard on a wooden bed frame, which is a traditional Indian architectural feature. The built-in sliding wardrobe doors are also typical of Indian design, where functionality and space optimization are highly valued. The use of teak wood for the bed frame and wardrobe doors is a common material in Indian interiors for its durability and natural beauty. The contemporary design is evident in the clean lines and the integration of modern materials like metal for the ceiling fan, which adds a modern touch to the traditional elements. The room is well-lit with soft ambient light and features a lamp on the bedside table, creating a cozy and inviting atmosphere.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Teak wood",
+          "Carved headboard",
+          "Sliding wardrobe",
+          "Bedroom design",
+          "Indian interior design"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential Bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Carved wooden headboard, teak wood, sliding wardrobe doors"
+      }
+    }
+  },
+  "cached_at": 1753459987208,
+  "cache_key": "cd18b85867c1c549706107528e75759d"
+}

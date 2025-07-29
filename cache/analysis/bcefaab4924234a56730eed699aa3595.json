@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/611/image_cropper_1729136533726.jpg",
+  "analysis": {
+    "image_id": "img_160",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Modern furniture",
+        "Built-in shelving",
+        "Flat-screen TV"
+      ],
+      "objects": [
+        {
+          "type": "Built-in shelving",
+          "features": [
+            "Rectangular shelves",
+            "Integrated lighting",
+            "White finish"
+          ],
+          "materials": [
+            "MDF",
+            "Acrylic"
+          ],
+          "finish": "Glossy white"
+        },
+        {
+          "type": "Modern furniture",
+          "features": [
+            "Sleek design",
+            "Geometric shapes",
+            "Light gray upholstery"
+          ],
+          "materials": [
+            "Fabric",
+            "Metal"
+          ],
+          "finish": "Soft touch upholstery, metallic accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Light brown (wall paint)"
+        ],
+        "materials": [
+          "MDF",
+          "Acrylic",
+          "Metal",
+          "Fabric"
+        ],
+        "lighting": "Ambient lighting from built-in shelving",
+        "texture": "Smooth surfaces with some tactile elements"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style",
+        "traditional_elements": [
+          "No traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Minimalist adaptation of traditional storage solutions"
+        ],
+        "space_utilization": "Efficient use of space with integrated furniture",
+        "cultural_significance": "Cultural significance not applicable to minimalist design"
+      },
+      "confidence_scores": {
+        "room": 0.75,
+        "theme": 0.85,
+        "primary_features": 0.8,
+        "objects": 0.85,
+        "indian_context": 0.65
+      },
+      "description": "The image showcases a modern living room with a minimalist design, featuring sleek built-in shelving for storage and a contemporary side table with a light gray upholstered seat and metallic legs. The color palette is dominated by white and light gray, with a touch of light brown on the walls. The design emphasizes clean lines, smooth textures, and integrated lighting from the shelving unit, reflecting a contemporary aesthetic.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Living Room",
+          "Modern",
+          "Integrated Storage",
+          "Lighting"
+        ],
+        "budget_indicator": "Moderate to high, due to use of materials like MDF, acrylic, and upholstered furniture.",
+        "space_type": "Residential",
+        "functionality": "Entertainment, relaxation, and storage",
+        "indian_specific": "No Indian-specific design features present."
+      }
+    }
+  },
+  "cached_at": 1753449432721,
+  "cache_key": "bcefaab4924234a56730eed699aa3595"
+}

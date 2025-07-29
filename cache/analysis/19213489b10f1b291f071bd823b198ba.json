@@ -1,0 +1,114 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/347/image_cropper_1727693499061.jpg",
+  "analysis": {
+    "image_id": "img_252",
+    "ai_generated_tags": {
+      "room": "Master Bedroom",
+      "theme": "Contemporary Indian with Traditional Influences",
+      "primary_features": [
+        "Double bed with a carved headboard",
+        "wooden wardrobe",
+        "wooden floor",
+        "ceiling lights",
+        "fitted bedspread",
+        "wooden furniture",
+        "mirror above the wardrobe"
+      ],
+      "objects": [
+        {
+          "type": "Double bed",
+          "features": [
+            "Carved wooden headboard with intricate designs",
+            "Fitted bedspread with gold embroidery"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Carved wood with polished finish, fabric with intricate embroidery"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Wooden with mirrored doors",
+            "Carved wooden frame around the mirror"
+          ],
+          "materials": [
+            "Wood",
+            "Mirror"
+          ],
+          "finish": "Wooden with polished finish, mirror with metallic frame"
+        },
+        {
+          "type": "Wooden furniture",
+          "features": [
+            "Carved wooden bench",
+            "Wooden table with a glass top"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Carved wood with polished finish, glass top with polished metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "White (bedspread)",
+          "Gold (embroidery)",
+          "Black (wall)",
+          "Gray (ceiling lights)"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Ambient ceiling lights with warm lighting",
+        "texture": "Carved wood textures, smooth fabric, reflective glass"
+      },
+      "indian_context": {
+        "regional_style": "North Indian (Himachal Pradesh)",
+        "traditional_elements": [
+          "Carved wooden headboard",
+          "Wooden wardrobe with mirrored doors",
+          "Carved wooden bench",
+          "Woven textiles"
+        ],
+        "modern_adaptations": [
+          "Contemporary lighting fixtures",
+          "Teak wood finish"
+        ],
+        "space_utilization": "Efficient use of space with a focus on storage and comfort",
+        "cultural_significance": "The use of wood and intricate carvings reflects the regional craftsmanship and cultural heritage of the area"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The space is a master bedroom that blends contemporary and traditional Indian design elements. The master suite features a double bed with a carved wooden headboard, a wooden wardrobe with mirrored doors, and a wooden floor. The room includes a wooden bench and a glass-top table, all with polished finishes. The color palette is dominated by the warm tones of wood, complemented by white and gold accents. The room is well-lit with ambient ceiling lights, creating a cozy and inviting atmosphere. The design elements reflect the cultural significance of woodcraft and craftsmanship in North Indian regions.",
+    "metadata": {
+      "tags": [
+        "Master Bedroom",
+        "Contemporary Indian",
+        "Wooden Furniture",
+        "Carved Headboard",
+        "Mirrored Wardrobe",
+        "North Indian Design",
+        "Craftsmanship"
+      ],
+      "budget_indicator": "High, due to the use of high-quality materials like wood and glass",
+      "space_type": "Residential",
+      "functionality": "Sleeping and relaxation",
+      "indian_specific": "Intricate woodcarvings and polished wood finishes"
+    }
+  },
+  "cached_at": 1753459667836,
+  "cache_key": "19213489b10f1b291f071bd823b198ba"
+}

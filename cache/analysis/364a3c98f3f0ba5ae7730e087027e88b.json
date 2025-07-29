@@ -1,0 +1,125 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/901%20MBR%202.jpg",
+  "analysis": {
+    "image_id": "img_236",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Bed with white headboard",
+        "Sliding wardrobes with black and gold accents",
+        "Window seat with laptop and books",
+        "Bulb-shaped table lamp",
+        "Black and white rug"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "White upholstered headboard",
+            "Patterned cushions",
+            "Black and white bedding"
+          ],
+          "materials": [
+            "Fabric",
+            "Faux fur"
+          ],
+          "finish": "Soft, textured surfaces"
+        },
+        {
+          "type": "Sliding Wardrobes",
+          "features": [
+            "Black and gold paneling",
+            "Modern sliding doors"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Textured, possibly lacquered"
+        },
+        {
+          "type": "Window Seat",
+          "features": [
+            "Built-in bench",
+            "Wooden backrest",
+            "White countertop"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Sleek, polished"
+        },
+        {
+          "type": "Bulb-shaped Table Lamp",
+          "features": [
+            "White lampshade",
+            "Wooden base"
+          ],
+          "materials": [
+            "Plastic",
+            "Wood"
+          ],
+          "finish": "Glossy, matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Gold",
+          "Brown",
+          "Gray",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Fabric",
+          "Plastic",
+          "Lacquer"
+        ],
+        "lighting": "Natural light from large window, artificial light from bulb lamp",
+        "texture": "Mix of smooth and textured surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional Indian style visible, more contemporary with subtle influences",
+        "traditional_elements": [
+          "Carved wood effect in sliding doors",
+          "Textured black and white fabric elements"
+        ],
+        "modern_adaptations": [
+          "Contemporary wardrobe design",
+          "Sleek furniture finishes"
+        ],
+        "space_utilization": "Efficient use of space with a built-in window seat and open shelving",
+        "cultural_significance": "The use of black and gold accents is often associated with Indian aesthetics, especially in traditional designs"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern bedroom with subtle Indian design influences. The room features a contemporary design with a mix of sleek, polished materials and traditional Indian accents like the black and gold sliding doors. The space is efficiently organized with a built-in window seat and open shelving, combining functionality with aesthetic appeal. The use of black and gold detailing, as well as the textured fabric elements, reflects a modern interpretation of traditional Indian design elements.",
+    "metadata": {
+      "tags": [
+        "Modern",
+        "Contemporary",
+        "Bedroom",
+        "Black and Gold",
+        "Indian Influence",
+        "Efficient Space Utilization"
+      ],
+      "budget_indicator": "Mid-range to high, with the use of polished materials and contemporary design",
+      "space_type": "Residential Bedroom",
+      "functionality": "Primary use for sleeping and possibly working or studying, with a built-in window seat for additional use",
+      "indian_specific": "Subtle use of black and gold accents, traditional fabric textures"
+    }
+  },
+  "cached_at": 1753459548023,
+  "cache_key": "364a3c98f3f0ba5ae7730e087027e88b"
+}

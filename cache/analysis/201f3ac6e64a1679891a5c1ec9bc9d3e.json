@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/36/WhatsApp%20Image%202024-08-01%20at%2018.45.01%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_203",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Colonial-Style with Modern Adaptations",
+      "primary_features": [
+        "Exposed brick walls",
+        "Built-in shelves",
+        "Wooden window frames"
+      ],
+      "objects": [
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Deep shelving unit",
+            "Organized storage space"
+          ],
+          "materials": [
+            "Concrete or plaster for walls, wood for shelves"
+          ],
+          "finish": "Smooth concrete walls, painted wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Floors with light wood tones"
+        ],
+        "materials": [
+          "Exposed brick, concrete or plaster, wood"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Rough textures from brick and smooth textures from concrete"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, but some elements like window frames hint at traditional colonial design",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of concrete and modern storage solutions"
+        ],
+        "space_utilization": "Efficient use of walls for shelving, maximizing storage space",
+        "cultural_significance": "The window frames might symbolize openness and light, common in traditional design, but the overall modern look lacks strong cultural elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.6
+      },
+      "description": "The image depicts a living room interior with a modern take on traditional colonial design. The space features exposed brick walls, a built-in shelving unit for storage, and wooden window frames. The design prioritizes functionality with efficient use of wall space and natural light from the window, while the modern materials and finishes suggest a contemporary interpretation of the colonial style. There are no overtly traditional Indian elements visible, but the window frames and window latticework subtly evoke a sense of tradition.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Modern Colonial",
+          "Exposed Brick",
+          "Built-in Shelves",
+          "Wooden Window Frames"
+        ],
+        "budget_indicator": "Moderate, as it includes materials like wood and concrete",
+        "space_type": "Residential Living Room",
+        "functionality": "Storage and display",
+        "indian_specific": "Some regional design elements are hinted at, but the overall style is modern colonial"
+      }
+    }
+  },
+  "cached_at": 1753459269773,
+  "cache_key": "201f3ac6e64a1679891a5c1ec9bc9d3e"
+}

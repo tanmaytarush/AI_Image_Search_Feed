@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/799/image_cropper_1729783213466.jpg",
+  "analysis": {
+    "image_id": "img_415",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "contemporary",
+      "primary_features": [
+        "wardrobe",
+        "modern furniture"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe",
+          "features": [
+            "sliding doors",
+            "simple design"
+          ],
+          "materials": [
+            "wood",
+            "glass"
+          ],
+          "finish": "matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "slate gray",
+          "cream"
+        ],
+        "materials": [
+          "wood",
+          "glass"
+        ],
+        "lighting": "even, natural light from a window",
+        "texture": "smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "not applicable",
+        "traditional_elements": [
+          "none"
+        ],
+        "modern_adaptations": [
+          "simple design with modern materials"
+        ],
+        "space_utilization": "efficient use of space with a single wardrobe",
+        "cultural_significance": "not applicable"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.5,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.05
+      },
+      "description": "The image shows a modern bedroom with a minimalist wardrobe design, utilizing white and gray tones. The wardrobe features sliding doors with a glass panel, suggesting a contemporary style. The room appears to be well-lit, possibly due to a window not visible in the image. There are no traditional Indian design elements present, indicating a modern interpretation of space optimization.",
+      "metadata": {
+        "tags": [
+          "modern bedroom",
+          "wardrobe",
+          "sliding doors",
+          "contemporary design"
+        ],
+        "budget_indicator": "moderate to high, due to the use of glass and modern materials",
+        "space_type": "residential bedroom",
+        "functionality": "storage and organization of personal items",
+        "indian_specific": "none"
+      }
+    }
+  },
+  "cached_at": 1753461615874,
+  "cache_key": "9d421becdcd5321283ec45f7e49be2bc"
+}

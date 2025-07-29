@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1706/insta_assets_crop_5729fad3-173e-44d7-84e1-98323020b2a93799756653538878697.jpg",
+  "analysis": {
+    "image_id": "img_376",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Slatted wooden partition",
+        "Television mounted on the wall",
+        "Wooden cabinet"
+      ],
+      "objects": [
+        {
+          "type": "Wooden cabinet",
+          "features": [
+            "Rectangular shape",
+            "Light brown finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Television",
+          "features": [
+            "Flat screen",
+            "Mounted on the wall"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Sleek"
+        },
+        {
+          "type": "Slatted wooden partition",
+          "features": [
+            "Dividing the space",
+            "Decorative slats"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural, lightly varnished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light brown (wood)",
+          "White (partition)",
+          "Black (television stand)",
+          "Brown (wall)",
+          "White (cabinet)"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from the side, supplemented by indoor lighting",
+        "texture": "Smooth surfaces with slatted texture on the partition"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but contemporary design with Indian elements",
+        "traditional_elements": [
+          "Slatted wooden partition"
+        ],
+        "modern_adaptations": [
+          "Minimalistic design",
+          "Use of modern materials like metal"
+        ],
+        "space_utilization": "Efficient use of space with a partition for division and a cabinet for storage",
+        "cultural_significance": "The partition may symbolize a traditional screen or divider, often used in Indian homes for privacy or aesthetic separation"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian living room with a contemporary design. The slatted wooden partition serves both as a decorative element and a divider, a nod to traditional Indian design. The television is mounted on the wall, a modern adaptation of the traditional hanging display. The wooden cabinet provides storage while maintaining a sleek and polished aesthetic. The color palette is neutral with warm tones, typical in contemporary Indian interiors. The use of natural light and indoor lighting creates a bright and inviting space.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Slatted partition",
+          "Wooden cabinet",
+          "Television mounted",
+          "Modern Indian design"
+        ],
+        "budget_indicator": "Moderate, with the use of natural wood and metal for a polished look",
+        "space_type": "Living Room",
+        "functionality": "Entertainment and storage",
+        "indian_specific": "Traditional partition style in a modern context"
+      }
+    }
+  },
+  "cached_at": 1753461075399,
+  "cache_key": "76852edba2ad0197f52e0abfa542ad69"
+}

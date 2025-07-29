@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1178/image_cropper_1729610991420.jpg",
+  "analysis": {
+    "image_id": "img_348",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "LED lighting",
+        "mirror",
+        "decorative wall paneling",
+        "vase"
+      ],
+      "objects": [
+        {
+          "type": "wall mirror",
+          "features": [
+            "Rectangular shape",
+            "framed with LED lights",
+            "reflects light"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "High-gloss reflective surface"
+        },
+        {
+          "type": "vase",
+          "features": [
+            "Single stem",
+            "ornate detailing",
+            "placed on wooden surface"
+          ],
+          "materials": [
+            "Brass",
+            "Wood"
+          ],
+          "finish": "Polished metal and varnished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Glass",
+          "Metal",
+          "Wood",
+          "Brass"
+        ],
+        "lighting": "Warm LED lighting illuminating the mirror and wall paneling",
+        "texture": "High-gloss smooth surfaces on mirror, wood, and metal"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but modern interpretations of traditional elements",
+        "traditional_elements": [
+          "Decorative wall paneling",
+          "metallic details"
+        ],
+        "modern_adaptations": [
+          "Contemporary lighting and materials",
+          "clean, minimal lines"
+        ],
+        "space_utilization": "Efficient space use with focus on reflective surfaces and minimal decor",
+        "cultural_significance": "Cultural elements like metal detailing and reflective surfaces symbolize prosperity and elegance in Indian aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian living room features a sleek design with LED lighting reflecting off a large mirror, creating a bright and elegant atmosphere. The space incorporates traditional Indian elements like a decorative wall panel and metallic accents, while maintaining a contemporary aesthetic. The use of brass and wood for the vase and paneling adds a touch of cultural significance, symbolizing prosperity and refinement.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Living Room",
+          "LED Lighting",
+          "Mirror",
+          "Decorative Wall Paneling",
+          "Brass",
+          "Wood"
+        ],
+        "budget_indicator": "Mid-range, with high-end materials like brass and high-gloss finishes",
+        "space_type": "Residential Living Room",
+        "functionality": "Aesthetic and decorative, possibly used for reception or displaying decorative items",
+        "indian_specific": "Decorative wall panel with traditional motifs, metallic details on the vase, and the use of brass and wood"
+      }
+    }
+  },
+  "cached_at": 1753460728963,
+  "cache_key": "faa2c058ad97d9ecd8eafee4723d62cf"
+}

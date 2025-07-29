@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/446/image_cropper_1728570104952.jpg",
+  "analysis": {
+    "image_id": "img_276",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden headboard",
+        "Patterned wallpaper",
+        "Bedside table",
+        "Window with curtains"
+      ],
+      "objects": [
+        {
+          "type": "Wooden headboard",
+          "features": [
+            "Carved design",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Bedside table",
+          "features": [
+            "Simple design",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Teak",
+            "Mica"
+          ],
+          "finish": "Shiny"
+        },
+        {
+          "type": "Window with curtains",
+          "features": [
+            "Sheer curtain",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Polyester",
+            "Teak"
+          ],
+          "finish": "Natural wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown",
+          "Light gray",
+          "White"
+        ],
+        "materials": [
+          "Teak",
+          "Mica",
+          "Polyester",
+          "Cement"
+        ],
+        "lighting": "Dim ambient lighting",
+        "texture": "Smooth polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian",
+        "traditional_elements": [
+          "Carved wooden headboard",
+          "Teak furniture"
+        ],
+        "modern_adaptations": [
+          "Contemporary lighting and furniture"
+        ],
+        "space_utilization": "Efficient use of space with minimal decor",
+        "cultural_significance": "Decorative elements reflect traditional craftsmanship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian bedroom with a traditional touch. The dark wood headboard and bedside table feature intricate carved designs, indicative of Maharashtrian regional style. The patterned wallpaper adds a contemporary twist, while the sheer curtain and wooden frame maintain a connection to traditional elements. The overall design combines modern minimalism with traditional craftsmanship, resulting in a visually appealing and culturally rich space.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Maharashtrian style",
+        "Contemporary design",
+        "Teak furniture",
+        "Carved elements"
+      ],
+      "budget_indicator": "Medium-high, due to the use of teak and polished materials",
+      "space_type": "Residential",
+      "functionality": "Sleeping and relaxation",
+      "indian_specific": "Carved wooden headboard, teak furniture"
+    }
+  },
+  "cached_at": 1753450825340,
+  "cache_key": "ae5a4a2c8b0d643b16b3864c2df4801d"
+}

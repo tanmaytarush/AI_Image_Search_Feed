@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1134/image_cropper_1729613899466.jpg",
+  "analysis": {
+    "image_id": "img_305",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Cabinetry",
+        "Countertops",
+        "Backsplash"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen Cabinets",
+          "features": [
+            "Integrated lighting",
+            "Glass panels",
+            "Metallic handles"
+          ],
+          "materials": [
+            "Wood",
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Matte and glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Stone-like appearance"
+          ],
+          "materials": [
+            "Ceramic or Composite stone"
+          ],
+          "finish": "Smooth, shiny"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Printed or patterned design"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Textured"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Warm browns",
+          "Greys",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Stone",
+          "Glass"
+        ],
+        "lighting": "Integrated under-cabinet lighting",
+        "texture": "Matt, glossy, textured"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of traditional design elements like intricate patterns in modern materials"
+        ],
+        "space_utilization": "Efficient use of vertical space with cabinets",
+        "cultural_significance": "Minimalist design with modern interpretations of Indian aesthetics, possibly suggesting a fusion of traditional and contemporary tastes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern kitchen with a blend of Indian design elements. The cabinets feature integrated lighting and metallic handles, while the countertops and backsplash display a warm, earthy color palette with a hint of traditional patterns. The use of glass panels and smooth, shiny finishes aligns with contemporary trends, while the materials suggest a modern adaptation of traditional Indian aesthetics, such as the inclusion of metallic and stone elements.",
+    "metadata": {
+      "tags": [
+        "Indian kitchen design",
+        "Minimalism",
+        "Modern Indian kitchen",
+        "Cabinet design",
+        "Backsplash patterns"
+      ],
+      "budget_indicator": "Mid-range to high, due to the use of materials like glass and composite stone",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary cooking and food preparation space",
+      "indian_specific": "Modern interpretation of traditional Indian design elements"
+    }
+  },
+  "cached_at": 1753460223055,
+  "cache_key": "fd54bd7f89396e3ae3c9edb11b7d159f"
+}

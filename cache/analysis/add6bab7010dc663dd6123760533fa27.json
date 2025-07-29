@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/443/image_cropper_1728568657882.jpg",
+  "analysis": {
+    "image_id": "img_177",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Wooden wardrobe with sliding doors",
+        "Carved wooden headboard",
+        "Wooden wall paneling"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden headboard",
+          "features": [
+            "Detailed carvings",
+            "Rajasthani or North Indian style"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish with varnish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "White (wardrobe)",
+          "Blue (pillow)"
+        ],
+        "materials": [
+          "Wood",
+          "Metal (wardrobe hardware)"
+        ],
+        "lighting": "Natural light from unseen windows, suggesting daytime",
+        "texture": "Smooth wood finish with intricate carvings"
+      },
+      "indian_context": {
+        "regional_style": "North Indian Rajasthani",
+        "traditional_elements": [
+          "Carved headboard",
+          "Wooden wardrobe"
+        ],
+        "modern_adaptations": [
+          "Contemporary wardrobe design with sliding doors"
+        ],
+        "space_utilization": "Efficient use of vertical space with sliding wardrobe doors",
+        "cultural_significance": "The carved headboard and wooden wardrobe reflect traditional craftsmanship and regional styles, often used in North Indian interiors to add elegance and cultural richness"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern bedroom with a focus on traditional Indian design elements. The carved wooden headboard is a hallmark of North Indian craftsmanship, likely influenced by Rajasthani styles. The wooden wardrobe with sliding doors is a modern adaptation, making efficient use of space while maintaining a traditional aesthetic. The natural wood finish and intricate carvings highlight the cultural significance of these elements in Indian interiors.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Bedroom",
+          "Rajasthani Style",
+          "Carved Wood",
+          "Sliding Wardrobe",
+          "North Indian"
+        ],
+        "budget_indicator": "Moderate, with a focus on quality wood and craftsmanship",
+        "space_type": "Residential Bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Carved wooden headboard, wooden wardrobe with sliding doors"
+      }
+    }
+  },
+  "cached_at": 1753449659465,
+  "cache_key": "add6bab7010dc663dd6123760533fa27"
+}

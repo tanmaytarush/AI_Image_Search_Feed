@@ -1,0 +1,115 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/680/image_cropper_1729177970341.jpg",
+  "analysis": {
+    "image_id": "img_199",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "White walls",
+        "Wooden flooring",
+        "Linear ceiling",
+        "Built-in shelves",
+        "Modern lighting"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Upholstered headboard",
+            "Wooden frame",
+            "Green fabric"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Shelving Unit",
+          "features": [
+            "Built-in",
+            "Wooden shelves",
+            "Decorative items"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood tone"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "Large window",
+            "Blinds",
+            "Decorative wall art"
+          ],
+          "materials": [
+            "Glass",
+            "Metal",
+            "Paint"
+          ],
+          "finish": "Clear glass, metallic frame, painted walls"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Green",
+          "Beige",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric",
+          "Glass",
+          "Metal",
+          "Paint"
+        ],
+        "lighting": "Soft, ambient lighting from ceiling lights and natural light from window",
+        "texture": "Smooth surfaces, wooden textures, fabric textures"
+      },
+      "indian_context": {
+        "regional_style": "Mughal-inspired",
+        "traditional_elements": [
+          "Upholstered headboard"
+        ],
+        "modern_adaptations": [
+          "Linear ceiling design",
+          "Built-in shelves",
+          "Modern lighting"
+        ],
+        "space_utilization": "Efficient use of space with built-in shelving and minimalistic decor",
+        "cultural_significance": "The use of soft, calming colors and traditional furniture elements like the upholstered headboard pay homage to Indian interior design traditions, while the modern adaptation of the ceiling design and shelving demonstrates a contemporary approach"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a contemporary Indian fusion bedroom with a modern twist on traditional elements. The room features a white-walled bedroom with a built-in wooden shelving unit and a large window with blinds, bringing in natural light. The bed has a green upholstered headboard and a wooden frame, combining traditional and modern elements. The ceiling is designed with a linear pattern, adding a modern touch to the space. The overall color palette includes white, green, beige, and brown, reflecting a calm and serene setting. The space utilizes efficient storage solutions with the built-in shelves, and the decor includes minimalistic and modern lighting fixtures.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Fusion Design",
+        "Bedroom",
+        "White Walls",
+        "Wooden Flooring",
+        "Linear Ceiling",
+        "Built-in Shelves",
+        "Modern Lighting",
+        "Upholstered Headboard"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Upholstered headboard with traditional design elements"
+    }
+  },
+  "cached_at": 1753459224324,
+  "cache_key": "b5337e2ad20335251aca9856dbfd4f72"
+}

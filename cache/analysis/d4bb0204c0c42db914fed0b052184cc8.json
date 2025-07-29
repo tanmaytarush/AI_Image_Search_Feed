@@ -1,0 +1,138 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.32%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_077",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Contemporary",
+      "primary_features": [
+        "Open kitchen design with a central island",
+        "Combination of white and pink cabinetry",
+        "Marble countertops",
+        "Modern lighting fixture",
+        "Teak wood accents"
+      ],
+      "objects": [
+        {
+          "type": "Central Island",
+          "features": [
+            "Geometric white cabinets with black hardware",
+            "Geometric pattern on the front panel"
+          ],
+          "materials": [
+            "White painted wood cabinets",
+            "Light wooden countertop"
+          ],
+          "finish": "Glossy white paint on cabinets, natural wood finish on countertop"
+        },
+        {
+          "type": "Cabinetry",
+          "features": [
+            "Pink and white cabinetry with a combination of matte and glossy finishes"
+          ],
+          "materials": [
+            "Pink painted wood cabinetry",
+            "White painted wood cabinetry"
+          ],
+          "finish": "Glossy and matte finishes"
+        },
+        {
+          "type": "Lighting Fixture",
+          "features": [
+            "Modern design with white and gold finish",
+            "Curved lines on the fixture"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "White and gold finish"
+        },
+        {
+          "type": "Teak Wood Accents",
+          "features": [
+            "Paneling on the wall beside the TV"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "TV Stand",
+          "features": [
+            "Teak wood with a modern design",
+            "Integrated with the teak wood paneling"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Television",
+          "features": [
+            "Flat screen with a modern design",
+            "Embedded within the teak wood paneling"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glass and metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Pink",
+          "Brown",
+          "Gold",
+          "Blue"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Modern lighting fixture with a combination of white and gold",
+        "texture": "Smooth surfaces on cabinets and countertops, natural texture on teak wood"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to any regional style, but elements of modern Indian design",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of modern materials and design elements in a traditional setting"
+        ],
+        "space_utilization": "Space is optimally utilized with a central island for storage and work, and a TV stand integrated with the wall paneling",
+        "cultural_significance": "Modern Indian design elements blend with contemporary aesthetics, reflecting a fusion of traditional and modern sensibilities"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian kitchen with a contemporary design, featuring an open layout with a central island. The space incorporates a combination of white and pink cabinetry with geometric patterns, and white marble countertops. A modern pendant light with a white and gold finish hangs above the kitchen island. Teak wood is used for paneling on the wall beside the TV, creating a warm and natural finish. The kitchen is well-lit with recessed ceiling lights and ambient lighting from the pendant light, emphasizing the sleek and contemporary aesthetic.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Kitchen",
+        "Open Layout",
+        "Central Island",
+        "White Marble Countertops",
+        "Pink Cabinets",
+        "Teak Wood Accents",
+        "Contemporary Design",
+        "Lighting Fixture"
+      ],
+      "budget_indicator": "Moderate, with a mix of modern materials and finishes",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary purpose is for cooking and dining, with a central island providing workspace and storage. The inclusion of a TV stand and entertainment area suggests a multi-functional space for entertainment and relaxation.",
+      "indian_specific": "Modern interpretation of Indian design elements, such as the use of teak wood and a combination of white and pink colors"
+    }
+  },
+  "cached_at": 1753447452011,
+  "cache_key": "d4bb0204c0c42db914fed0b052184cc8"
+}

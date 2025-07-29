@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/259/image_cropper_1727251569090.jpg",
+  "analysis": {
+    "image_id": "img_480",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist Modern",
+      "primary_features": [
+        "Drawers with glass inserts",
+        "White cabinetry",
+        "Black countertops",
+        "Modern fixtures"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen drawer",
+          "features": [
+            "Glass inserts",
+            "Metal handles"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Clear (glass)"
+        ],
+        "materials": [
+          "Glass",
+          "Metal",
+          "Ceramic"
+        ],
+        "lighting": "Bright ambient lighting",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern design principles in Indian context"
+        ],
+        "space_utilization": "Optimized for functionality with minimal storage solutions",
+        "cultural_significance": "No culturally significant elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.92,
+        "primary_features": 0.8,
+        "objects": 0.95,
+        "indian_context": 0.6
+      },
+      "description": "The image depicts a modern kitchen interior with minimalist design elements. The focus is on a drawer with glass inserts, showcasing a sleek and contemporary aesthetic. The cabinetry is white, with black countertops that provide a striking contrast. The overall design emphasizes functionality and a clean, uncluttered look, with no traditional Indian elements present. The lighting is bright, enhancing the smooth surfaces of the materials used.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Minimalist",
+          "Modern",
+          "Glass Inserts",
+          "White Cabinets",
+          "Black Countertops"
+        ],
+        "budget_indicator": "Moderate to High",
+        "space_type": "Residential",
+        "functionality": "Storage and preparation space",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1753462497571,
+  "cache_key": "1e6ec2bd06050bfdbfd4637a49daf886"
+}

@@ -1,0 +1,82 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/498/image_cropper_1729000436790.jpg",
+  "analysis": {
+    "image_id": "img_273",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Built-in wardrobe",
+        "Window with louvered shutters"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Aid in space optimization",
+            "Compact design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth and polished finish"
+        },
+        {
+          "type": "Window with louvered shutters",
+          "features": [
+            "Aids in natural light control",
+            "Traditional design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Aged and weathered look"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, White, Beige"
+        ],
+        "materials": [
+          "Wood, Metal"
+        ],
+        "lighting": "Natural light from the window, no visible artificial lighting",
+        "texture": "Smooth wood surface, textured metal shutters"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly identifiable, but could be Western India due to louvered shutters",
+        "traditional_elements": [
+          "Window with louvered shutters"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with Indian elements"
+        ],
+        "space_utilization": "The wardrobe maximizes storage space in a confined area",
+        "cultural_significance": "The louvered shutters are a traditional element in Indian architecture, often seen in older homes and temples"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image shows a bedroom with a built-in wardrobe and a window with louvered shutters. The wardrobe is a compact solution that maximizes storage space in a confined area, using a minimalist design with Indian influences such as the traditional louvered shutters. The color palette consists of earthy tones like brown and beige, with the wooden wardrobe showcasing a smooth and polished finish, and the shutters having a weathered look. The natural light is controlled by the shutters, and there is no visible artificial lighting, emphasizing the traditional and functional aspects of the room.",
+      "metadata": {
+        "tags": [
+          "Indian Interior",
+          "Minimalist Design",
+          "Bedroom",
+          "Built-in Wardrobe",
+          "Louvered Shutters"
+        ],
+        "budget_indicator": "Moderate, with the use of wood and metal suggesting a balance between budget and quality",
+        "space_type": "Residential Bedroom",
+        "functionality": "Storage and natural light control",
+        "indian_specific": "Traditional louvered shutters, wood as a primary material"
+      }
+    }
+  },
+  "cached_at": 1753459864781,
+  "cache_key": "8a4f0b76d043566727bfb3a4e5e672cf"
+}

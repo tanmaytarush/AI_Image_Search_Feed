@@ -1,0 +1,82 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/946/image_cropper_1729389327219.jpg",
+  "analysis": {
+    "image_id": "img_412",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Fitted wardrobe",
+        "White and grey color scheme",
+        "Modern lighting fixture"
+      ],
+      "objects": [
+        {
+          "type": "Fitted wardrobe",
+          "features": [
+            "Panelled doors with a combination of white and grey finish",
+            "Lacquer finish visible on the doors"
+          ],
+          "materials": [
+            "MDF or particle board for the structure, MDF or particle board for the doors, lacquer for the finish"
+          ],
+          "finish": "Lacquer finish"
+        },
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Modern design, sleek, with a round base and vertical light bars"
+          ],
+          "materials": [
+            "Metallic finish, possibly brass or chrome"
+          ],
+          "finish": "Metallic polish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, grey, metallic gold"
+        ],
+        "materials": [
+          "MDF or particle board, lacquer, metallic"
+        ],
+        "lighting": "Modern, overhead lighting with a contemporary design",
+        "texture": "Smooth surfaces with a polished look"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly indicative of a specific regional style due to modern materials and design",
+        "traditional_elements": [
+          "No traditional Indian elements are evident"
+        ],
+        "modern_adaptations": [
+          "Modern interpretation of Indian interior design with a focus on minimalism and functionality"
+        ],
+        "space_utilization": "The space is optimized for storage and functionality, with the fitted wardrobe providing ample storage space",
+        "cultural_significance": "The design reflects a modern, minimalist approach, which is common in contemporary Indian interior design, emphasizing clean lines and functionality"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern bedroom with a contemporary design that incorporates subtle Indian influences. The fitted wardrobe features a combination of white and grey panelled doors with a lacquer finish, reflecting a clean and minimalist aesthetic. The lighting fixture is modern, with a sleek, round base and vertical light bars, suggesting a contemporary design approach. The overall color palette is neutral, with white, grey, and metallic gold tones, which are common in contemporary Indian interior design. The design emphasizes functionality and storage, with the fitted wardrobe providing ample space for clothing and personal items.",
+      "metadata": {
+        "tags": [
+          "modern bedroom",
+          "contemporary design",
+          "lacquer finish",
+          "fitted wardrobe",
+          "neutral color palette"
+        ],
+        "budget_indicator": "Moderate, with modern materials and finishes",
+        "space_type": "Residential bedroom",
+        "functionality": "Storage and personal use",
+        "indian_specific": "Minimal Indian design elements, focusing on modern functionality and aesthetics"
+      }
+    }
+  },
+  "cached_at": 1753461577912,
+  "cache_key": "d1b1d653bfae1aae3c2af6f1ab59af76"
+}

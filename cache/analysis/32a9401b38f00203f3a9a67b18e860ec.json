@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/47/image_cropper_1726458925787.jpg",
+  "analysis": {
+    "image_id": "img_186",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "White cabinetry with dark blue accents",
+        "Granite countertops",
+        "Wall-mounted shelves",
+        "Modern appliances"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen Island",
+          "features": [
+            "Sleek countertop",
+            "Integrated sink",
+            "Storage compartments"
+          ],
+          "materials": [
+            "Granite",
+            "Painted wood"
+          ],
+          "finish": "High-gloss, polished surfaces"
+        },
+        {
+          "type": "Wall-Mounted Shelving",
+          "features": [
+            "Decorative display items",
+            "Organized storage"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Matte, finished paint"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Modern design",
+            "Built-in oven"
+          ],
+          "materials": [
+            "Metal",
+            "Painted wood"
+          ],
+          "finish": "Brushed metal, painted wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark blue",
+          "Gray",
+          "Silver"
+        ],
+        "materials": [
+          "Granite",
+          "Painted wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from windows, accent lighting from pendant lamps",
+        "texture": "Smooth surfaces, polished edges"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian kitchen with regional influences, possibly from urban areas like Mumbai or Delhi",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern appliances",
+          "Minimalist design with traditional accents"
+        ],
+        "space_utilization": "Optimized with wall-mounted shelves and storage solutions in the kitchen island",
+        "cultural_significance": "Modern adaptation of traditional Indian kitchen layouts, emphasizing functionality and storage efficiency"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian kitchen showcases a sleek and contemporary design with a dark blue and white color scheme. The kitchen features white cabinetry with dark blue accents, granite countertops, integrated wall-mounted shelves, and modern appliances. The overall design emphasizes functionality and storage efficiency with a focus on clean lines and a polished aesthetic. The use of dark blue adds a touch of traditional Indian design sensibilities, while the modern appliances and clean lines reflect a contemporary approach.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Urban Kitchen",
+          "Contemporary Design",
+          "Dark Blue Cabinets",
+          "Granite Countertops"
+        ],
+        "budget_indicator": "Moderate to high, due to the use of granite countertops and modern appliances",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose is for food preparation and storage, with a focus on organization and efficiency",
+        "indian_specific": "Dark blue cabinets and organized storage solutions reflect modern adaptations of traditional Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1753449756120,
+  "cache_key": "32a9401b38f00203f3a9a67b18e860ec"
+}

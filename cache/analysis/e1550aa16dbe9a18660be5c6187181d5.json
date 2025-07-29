@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/496/image_cropper_1729098715147.jpg",
+  "analysis": {
+    "image_id": "img_323",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Fusion",
+      "primary_features": [
+        "Large screen TV",
+        "Built-in shelves",
+        "Decorative wall paneling"
+      ],
+      "objects": [
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Stylistic, angular design",
+            "Integrated into wall unit"
+          ],
+          "materials": [
+            "Looks like wood and metal"
+          ],
+          "finish": "Glossy, polished finish"
+        },
+        {
+          "type": "Wall paneling",
+          "features": [
+            "Decorative, with intricate patterns"
+          ],
+          "materials": [
+            "Looks like wood or acrylic"
+          ],
+          "finish": "Shiny, reflective surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "Black",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Acrylic",
+          "Paint"
+        ],
+        "lighting": "Indirect, ambient lighting highlighting the wall paneling",
+        "texture": "Smooth surfaces with a mix of glossy and matte finishes"
+      },
+      "indian_context": {
+        "regional_style": "Mughal Influence",
+        "traditional_elements": [
+          "Decorative wall paneling imitates jharokha design"
+        ],
+        "modern_adaptations": [
+          "Integration of modern technology like screen TV"
+        ],
+        "space_utilization": "Efficient, multi-purpose space for entertainment",
+        "cultural_significance": "Wall paneling with intricate patterns is a nod to traditional Indian craftsmanship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A modern fusion living room featuring a large screen TV integrated into a wall unit with built-in shelves and decorative wall paneling with intricate patterns reminiscent of Mughal architectural elements. The space showcases a blend of traditional craftsmanship and contemporary design, with a focus on efficient space utilization and cultural aesthetics.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Fusion",
+        "Living Room",
+        "Mughal Influences",
+        "Decorative Wall Paneling",
+        "Built-in Shelves"
+      ],
+      "budget_indicator": "Moderate, with a mix of traditional and modern materials",
+      "space_type": "Residential",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Decorative wall paneling with traditional patterns"
+    }
+  },
+  "cached_at": 1753460439249,
+  "cache_key": "e1550aa16dbe9a18660be5c6187181d5"
+}

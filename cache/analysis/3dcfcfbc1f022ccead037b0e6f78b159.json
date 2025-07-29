@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/72/image_cropper_1726537265092.jpg",
+  "analysis": {
+    "image_id": "img_287",
+    "ai_generated_tags": {
+      "room": "Not applicable",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Selfie",
+        "Person",
+        "Background with signage"
+      ],
+      "objects": [
+        {
+          "type": "Person",
+          "features": [
+            "Casual attire",
+            "smiling",
+            "carrying a bag"
+          ],
+          "materials": [
+            "Cloth",
+            "Plastic"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Background with signage",
+          "features": [
+            "Text on sign",
+            "Images on sign"
+          ],
+          "materials": [
+            "Metal",
+            "Plastic"
+          ],
+          "finish": "Reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Green",
+          "Red"
+        ],
+        "materials": [
+          "Cloth",
+          "Metal",
+          "Plastic",
+          "Wood"
+        ],
+        "lighting": "Natural light from the environment",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary design elements"
+        ],
+        "space_utilization": "Not applicable",
+        "cultural_significance": "Not applicable"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a person taking a selfie in a public space with signage in the background. The person is wearing casual clothing and has a bag. The background features a sign with text and images, suggesting a modern, public setting. There are no prominent Indian design elements visible in this image.",
+    "metadata": {
+      "tags": [
+        "Selfie",
+        "Casual Attire",
+        "Public Space",
+        "Signage"
+      ],
+      "budget_indicator": "Low to moderate",
+      "space_type": "Public",
+      "functionality": "Selfie capture",
+      "indian_specific": "No Indian-specific design features"
+    }
+  },
+  "cached_at": 1753459994358,
+  "cache_key": "3dcfcfbc1f022ccead037b0e6f78b159"
+}
