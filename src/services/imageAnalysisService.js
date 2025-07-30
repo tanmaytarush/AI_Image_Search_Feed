@@ -1,5 +1,7 @@
 import dotenv from "dotenv";
 import cdnService from "./cdnService.js";
+import embeddingService from "./embeddingService.js";
+import qdrantService from "./qdrantService.js";
 
 dotenv.config();
 
@@ -21,65 +23,6 @@ class ImageAnalysisService {
       // Get optimized CDN URL for the image
       const cdnUrl = await cdnService.getCDNUrl(imageUrl);
       console.log(`🔄 Using CDN optimized URL: ${cdnUrl}`);
-
-      //       const prompt = `Analyze this interior image with strong focus on Indian interior design context and provide detailed analysis in JSON format:
-
-      // {
-      //   "image_id": "${imageId}",
-      //   "ai_generated_tags": {
-      //     "room": "Room Type (Living Room, Bedroom, Kitchen, Dining Room, Bathroom, Study Room, Home Office, Balcony, Terrace, Pooja Room, Mandir, Drawing Room, Family Room, etc.)",
-      //     "theme": "Design Theme (Traditional Indian, Indo-Western, Modern Indian, Contemporary Indian, South Indian, North Indian, Coastal Indian, Rajasthani, Gujarati, Bengali, Marathi, Punjabi, Kerala, Tamil Nadu, Karnataka, Maharashtra, etc.)",
-      //     "primary_features": ["Most prominent feature 1", "Most prominent feature 2", "Most prominent feature 3"],
-      //     "objects": [
-      //       {
-      //         "type": "Object Type (Sofa, Bed, Island Counter, Dining Table, TV Unit, Storage Unit, Mandir Unit, Jharokha, Diwan, Charpai, Swing, Pooja Thali, Toran, Wall Art, Brass Items, Wooden Furniture, etc.)",
-      //         "features": ["Feature 1", "Feature 2", "Feature 3"],
-      //         "materials": ["Material 1", "Material 2"],
-      //         "finish": "Finish type (laminated, veneer, solid wood, glass, metal, fabric, leather, brass, copper, etc.)"
-      //       }
-      //     ],
-      //     "visual_attributes": {
-      //       "colors": ["Primary color 1", "Secondary color 2", "Accent color 3"],
-      //       "materials": ["Primary material 1", "Secondary material 2"],
-      //       "lighting": "Lighting type (natural daylight, warm lighting, cool lighting, LED strips, pendant lights, wall sconces, table lamps, floor lamps, diyas, etc.)",
-      //       "texture": "Texture description (smooth, textured, rustic, polished, matte, glossy, etc.)"
-      //     },
-      //     "indian_context": {
-      //       "regional_style": "Regional influence (South Indian, North Indian, East Indian, West Indian, Coastal, Himalayan, Desert, etc.)",
-      //       "traditional_elements": ["Traditional elements present - Toran, Rangoli, Brass items, Wooden carvings, etc."],
-      //       "modern_adaptations": ["Modern adaptations of traditional elements"],
-      //       "space_utilization": "Space utilization style (compact, spacious, modular, open-plan, etc.)",
-      //       "cultural_significance": "Cultural significance of design elements"
-      //     }
-      //   },
-      //   "confidence_scores": {
-      //     "room": 0.95,
-      //     "theme": 0.87,
-      //     "primary_features": 0.89,
-      //     "objects": 0.92,
-      //     "indian_context": 0.90
-      //   },
-      //   "description": "Detailed description focusing on Indian interior design elements, cultural significance, and space utilization patterns",
-      //   "metadata": {
-      //     "tags": ["tag1", "tag2", "tag3", "tag4"],
-      //     "budget_indicator": "Budget category (economy, mid-range, premium, luxury)",
-      //     "space_type": "Space type (1BHK, 2BHK, 3BHK, apartment, villa, studio, duplex, penthouse, etc.)",
-      //     "functionality": "Primary function (entertainment, relaxation, work, dining, pooja, etc.)",
-      //     "indian_specific": "Indian-specific features (modular kitchen, storage solutions, pooja room, etc.)"
-      //   }
-      // }
-
-      // Focus on identifying:
-      // 1. Indian design elements and regional cultural influences
-      // 2. Traditional Indian furniture and decorative items
-      // 3. Space optimization techniques common in Indian homes
-      // 4. Material preferences (teak, rosewood, brass, copper, marble, granite)
-      // 5. Color schemes popular in Indian interiors
-      // 6. Storage solutions and modular furniture preferences
-      // 7. Cultural and religious elements (mandir, pooja items, etc.)
-      // 8. Regional variations in design and furniture styles
-
-      // Please ensure the response is valid JSON format.`;
 
       const prompt = `You are an expert interior design analyst specializing in Indian interior design. Analyze this image and return ONLY a JSON object with your actual analysis of what you see.
 
@@ -267,11 +210,14 @@ class ImageAnalysisService {
         // Cache the analysis result
         await cdnService.cacheAnalysis(imageUrl, jsonResponse);
 
-              // Validate that the analysis result is compatible with 384-dimensional embedding system
-      this.validateAnalysisForEmbedding(jsonResponse);
+        // Validate that the analysis result is compatible with 384-dimensional embedding system
+        this.validateAnalysisForEmbedding(jsonResponse);
 
-      return jsonResponse;
-    } catch (parseError) {
+        // Auto inference: Generate embeddings and store in Qdrant
+        await this.performAutoInference(imageUrl, imageId, jsonResponse);
+
+        return jsonResponse;
+      } catch (parseError) {
         console.error(
           `❌ JSON parsing error for ${imageId}:`,
           parseError.message
@@ -303,6 +249,153 @@ class ImageAnalysisService {
       }
 
       throw new Error(errorMessage);
+    }
+  }
+
+  /**
+   * Perform auto inference: Generate embeddings and store in Qdrant
+   */
+  async performAutoInference(imageUrl, imageId, analysisResult) {
+    try {
+      console.log(`🤖 Starting auto inference for image: ${imageId}`);
+
+      // Generate embeddings from analysis result
+      const embeddings = await this.generateEmbeddingsFromAnalysis(analysisResult);
+      
+      // Create point for Qdrant storage
+      const point = {
+        id: imageId,
+        vectors: {
+          primary_search: embeddings.primary_search,
+          semantic_desc: embeddings.semantic_desc,
+          object_focus: embeddings.object_focus
+        },
+        payload: {
+          image_url: imageUrl,
+          analysis: analysisResult,
+          room_type: analysisResult.ai_generated_tags?.room || null,
+          budget_category: analysisResult.metadata?.budget_indicator || null,
+          space_type: analysisResult.metadata?.space_type || null,
+          design_theme: analysisResult.ai_generated_tags?.theme || null,
+          created_at: new Date().toISOString(),
+          embedding_dimensions: this.expectedEmbeddingDimension
+        }
+      };
+
+      // Store in Qdrant
+      await qdrantService.upsertPoints([point]);
+      
+      console.log(`✅ Auto inference completed for image: ${imageId}`);
+      console.log(`📊 Stored with ${this.expectedEmbeddingDimension}-dimensional embeddings`);
+      
+      return point;
+    } catch (error) {
+      console.error(`❌ Auto inference failed for image ${imageId}:`, error.message);
+      throw error;
+    }
+  }
+
+  /**
+   * Generate 384-dimensional embeddings from analysis result
+   */
+  async generateEmbeddingsFromAnalysis(analysisResult) {
+    try {
+      const tags = analysisResult.ai_generated_tags;
+      
+      // Generate primary search embedding
+      const primarySearchText = this.buildPrimarySearchText(tags);
+      const primary_search = await embeddingService.getEmbedding(
+        primarySearchText,
+        "Generate primary search embeddings for interior design images"
+      );
+
+      // Generate semantic description embedding
+      const semanticDescText = this.buildSemanticDescText(tags, analysisResult.description);
+      const semantic_desc = await embeddingService.getEmbedding(
+        semanticDescText,
+        "Generate semantic description embeddings for interior design analysis"
+      );
+
+      // Generate object focus embedding
+      const objectFocusText = this.buildObjectFocusText(tags);
+      const object_focus = await embeddingService.getEmbedding(
+        objectFocusText,
+        "Generate object focus embeddings for interior design objects and features"
+      );
+
+      // Validate all embeddings are 384-dimensional
+      this.validateEmbeddingDimensions(primary_search, "primary_search");
+      this.validateEmbeddingDimensions(semantic_desc, "semantic_desc");
+      this.validateEmbeddingDimensions(object_focus, "object_focus");
+
+      console.log(`✅ Generated 384-dimensional embeddings for all vector types`);
+
+      return {
+        primary_search,
+        semantic_desc,
+        object_focus
+      };
+    } catch (error) {
+      console.error("❌ Failed to generate embeddings from analysis:", error.message);
+      throw error;
+    }
+  }
+
+  /**
+   * Build primary search text from analysis tags
+   */
+  buildPrimarySearchText(tags) {
+    const elements = [
+      tags.room,
+      tags.theme,
+      ...(tags.primary_features || []),
+      ...(tags.visual_attributes?.colors || []),
+      ...(tags.visual_attributes?.materials || [])
+    ].filter(Boolean);
+
+    return elements.join(" ");
+  }
+
+  /**
+   * Build semantic description text from analysis tags and description
+   */
+  buildSemanticDescText(tags, description) {
+    const elements = [
+      description,
+      tags.room,
+      tags.theme,
+      ...(tags.indian_context?.traditional_elements || []),
+      ...(tags.indian_context?.modern_adaptations || []),
+      tags.indian_context?.regional_style,
+      tags.indian_context?.cultural_significance
+    ].filter(Boolean);
+
+    return elements.join(" ");
+  }
+
+  /**
+   * Build object focus text from analysis tags
+   */
+  buildObjectFocusText(tags) {
+    const elements = [
+      ...(tags.objects?.map(obj => `${obj.type} ${obj.materials?.join(" ")} ${obj.finish}`) || []),
+      ...(tags.primary_features || []),
+      ...(tags.visual_attributes?.materials || []),
+      tags.visual_attributes?.lighting,
+      tags.visual_attributes?.texture
+    ].filter(Boolean);
+
+    return elements.join(" ");
+  }
+
+  /**
+   * Validate embedding dimensions
+   */
+  validateEmbeddingDimensions(embedding, context) {
+    if (!Array.isArray(embedding) || embedding.length !== this.expectedEmbeddingDimension) {
+      throw new Error(
+        `Invalid ${context} embedding dimensions: expected ${this.expectedEmbeddingDimension}, got ${embedding?.length || 'undefined'}`
+      );
     }
   }
 

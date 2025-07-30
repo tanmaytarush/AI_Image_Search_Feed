@@ -4,134 +4,47 @@
     "image_id": "img_056",
     "ai_generated_tags": {
       "room": "Kitchen",
-<<<<<<< HEAD
-      "theme": "Modern Indian Kitchen",
+      "theme": "Modern Indian Minimalist",
       "primary_features": [
-        "Blue and white wall cabinets",
-        "An L-shaped countertop with black granite finish",
-        "Under-cabinet lighting",
-        "Modern faucet",
-        "Window with bars"
+        "Blue and white color scheme",
+        "Linear kitchen cabinet design",
+        "Integrated countertop and storage"
       ],
       "objects": [
         {
-          "type": "Kitchen countertop",
+          "type": "Kitchen Cabinet",
           "features": [
-            "L-shaped design",
-            "Black granite finish",
-            "Integrated sink"
+            "Hanging storage with pull-out handles",
+            "Integrated hanging units above counter"
           ],
           "materials": [
-            "Granite",
-            "Metallic undercountertop supports"
+            "Blue and white glossy finish"
           ],
-          "finish": "High-gloss black granite"
-        },
-        {
-          "type": "Wall cabinets",
-          "features": [
-            "Blue cabinets with white accents",
-            "Modern handles",
-            "Recessed lighting"
-          ],
-          "materials": [
-            "Wood or engineered wood",
-            "Metallic handles"
-          ],
-          "finish": "Glossy blue and white"
-=======
-      "theme": "Contemporary Indian",
-      "primary_features": [
-        "Blue and white cabinets",
-        "Black countertops",
-        "Built-in sink",
-        "Modern appliances"
-      ],
-      "objects": [
-        {
-          "type": "Cabinets",
-          "features": [
-            "Blue and white in color",
-            "Modern design with handles"
-          ],
-          "materials": [
-            "PVC or similar material"
-          ],
-          "finish": "Glossy finish"
-        },
-        {
-          "type": "Countertops",
-          "features": [
-            "Black in color",
-            "Smooth surface"
-          ],
-          "materials": [
-            "Marble or composite material"
-          ],
-          "finish": "Polished finish"
-        },
-        {
-          "type": "Sink",
-          "features": [
-            "Built-in design",
-            "Modern faucet"
-          ],
-          "materials": [
-            "Sink material not visible"
-          ],
-          "finish": "Metallic finish"
->>>>>>> origin/main
+          "finish": "High-gloss finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Blue",
           "White",
-<<<<<<< HEAD
-          "Black",
-          "Gray"
-        ],
-        "materials": [
-          "Granite",
-          "Metal",
-          "Wood/Engineered Wood"
-        ],
-        "lighting": "Recessed under-cabinet lighting and ceiling lights",
-        "texture": "Smooth and glossy finishes on cabinets and countertops"
-      },
-      "indian_context": {
-        "regional_style": "Not clearly Indian regional style, but modern interpretations of Indian design",
-        "traditional_elements": [
-          "Modern interpretations of traditional Indian color schemes (blue and white)",
-          "Integration of metallic and stone materials"
-        ],
-        "modern_adaptations": [
-          "Use of modern materials like granite and white acrylic finishes"
-        ],
-        "space_utilization": "Efficient use of space with L-shaped countertop design",
-        "cultural_significance": "Modern adaptation of Indian color palettes and material preferences"
-=======
           "Black"
         ],
         "materials": [
-          "PVC",
-          "Marble/Composite",
-          "Metallic"
+          "Glossy finish on cabinetry, smooth countertop, wall tiles"
         ],
-        "lighting": "Artificial lighting from ceiling fixtures",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "Artificial lighting with overhead fixtures",
+        "texture": "Smooth and sleek surfaces"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but leans towards urban Indian style",
+        "regional_style": "Modern interpretation of traditional Indian kitchens",
         "traditional_elements": [
-          "Modern interpretation of traditional Indian colors and symmetry"
+          "Linear design reminiscent of traditional Indian architecture"
         ],
         "modern_adaptations": [
-          "Use of contemporary materials and design"
+          "Integration of modern appliances and finishes"
         ],
-        "space_utilization": "Efficient use of space with built-in cabinets and countertops",
-        "cultural_significance": "The color palette and symmetry draw inspiration from traditional Indian aesthetics"
->>>>>>> origin/main
+        "space_utilization": "Efficient use of space with integrated storage solutions",
+        "cultural_significance": "Modern attempt to marry aesthetic appeal with functional space, reflecting contemporary Indian design trends"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -140,42 +53,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-<<<<<<< HEAD
-      "description": "The image depicts a modern Indian kitchen with a focus on a sleek, contemporary design. The space features blue and white wall cabinets with glossy finishes, an L-shaped black granite countertop, and modern under-cabinet lighting. The overall aesthetic combines traditional Indian color influences with modern materials and design elements.",
+      "description": "The image showcases a modern Indian kitchen with a minimalist design, featuring blue and white glossy cabinets with linear designs. The space is well-organized with integrated storage solutions, reflecting contemporary Indian design trends by integrating traditional aesthetics with contemporary finishes and functional space planning.",
       "metadata": {
         "tags": [
-          "Modern Kitchen",
-          "Indian Color Scheme",
+          "Indian Kitchen",
+          "Modern Minimalist",
           "Blue and White",
-          "Granite Countertop",
-          "Efficient Space Utilization"
+          "Linear Design",
+          "Integrated Storage"
         ],
-        "budget_indicator": "Moderate due to use of modern materials like granite and metal",
-        "space_type": "Residential Kitchen",
-        "functionality": "Primary purpose is for food preparation and storage",
-        "indian_specific": "Modern adaptation of traditional Indian color and material preferences"
-      }
-    }
-  },
-  "cached_at": 1753446926888,
-=======
-      "description": "The interior space features a modern interpretation of traditional Indian design principles, with a contemporary twist. The kitchen showcases a sleek, efficient layout with blue and white cabinets, black countertops, and a built-in sink. The use of glossy finishes and minimalistic design elements reflects a focus on functionality and modern aesthetics, while the color palette and symmetry nod to traditional Indian design motifs.",
-      "metadata": {
-        "tags": [
-          "Kitchen",
-          "Indian",
-          "Modern",
-          "Contemporary",
-          "Blue and White"
-        ],
-        "budget_indicator": "Moderate, with use of contemporary materials",
+        "budget_indicator": "Moderate, utilizing modern materials with a touch of traditional finish",
         "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is to serve as a functional cooking and food preparation area",
-        "indian_specific": "Glossy finishes and color contrast inspired by traditional Indian design"
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Use of blue and white color palette and linear design elements"
       }
     }
   },
-  "cached_at": 1753181172855,
->>>>>>> origin/main
+  "cached_at": 1753878052633,
   "cache_key": "da0c4ed0fbaed5efc4d68067c202e76c"
 }

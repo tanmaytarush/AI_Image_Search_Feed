@@ -3,164 +3,75 @@
   "analysis": {
     "image_id": "img_044",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Kitchen",
-      "theme": "Contemporary",
+      "room": "closet",
+      "theme": "contemporary",
       "primary_features": [
-        "Modern cabinetry",
-        "Patterned sliding doors",
-        "Wall-mounted shelves"
-=======
-      "room": "Closet/Storage Area",
-      "theme": "Modern Indian Interior",
-      "primary_features": [
-        "Green cabinets",
-        "Decorative floral wallpaper",
-        "Embedded shelves"
->>>>>>> origin/main
+        "sliding wardrobe doors",
+        "green cabinet with silver handles",
+        "wooden door",
+        "green shelves",
+        "patterned wallpaper"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "sliding wardrobe doors",
           "features": [
-<<<<<<< HEAD
-            "Green color",
-            "Simple handles"
+            "floral patterned design with calla lily motifs"
           ],
           "materials": [
-            "Painted finish"
+            "likely plastic or laminate for the wallpaper"
           ],
-          "finish": "Smooth"
+          "finish": "matte finish"
         },
         {
-          "type": "Sliding Doors",
+          "type": "green cabinet",
           "features": [
-            "Off-white with floral design",
-            "Decorative"
+            "cabinet doors with modern silver handles"
           ],
           "materials": [
-            "MDF or similar"
+            "likely painted or lacquered wood or MDF for the cabinet body"
           ],
-          "finish": "Flat"
+          "finish": "smooth, painted finish"
         },
         {
-          "type": "Shelving Unit",
+          "type": "wooden door",
           "features": [
-            "Wall-mounted",
-            "Green accents"
+            "horizontal wood grain pattern"
           ],
           "materials": [
-            "Painted wood"
+            "solid wood"
           ],
-          "finish": "Smooth"
-=======
-            "Green finish",
-            "Horizontal handles",
-            "Integrated shelving"
-          ],
-          "materials": [
-            "Painted wood or MDF"
-          ],
-          "finish": "Glossy"
+          "finish": "lacquered, possibly stained"
         },
         {
-          "type": "Wallpaper",
+          "type": "green shelves",
           "features": [
-            "Floral pattern",
-            "Light background",
-            "Printed design"
+            "simple design with green color matching cabinetry"
           ],
           "materials": [
-            "Textured wallpaper material"
+            "likely painted or lacquered wood or MDF"
           ],
-          "finish": "Matte"
-        },
-        {
-          "type": "Shelving",
-          "features": [
-            "Green accents",
-            "Embedded into the wall"
-          ],
-          "materials": [
-            "Painted wood or MDF"
-          ],
-          "finish": "Glossy"
->>>>>>> origin/main
+          "finish": "smooth, painted finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Green",
-          "White",
-<<<<<<< HEAD
-          "Green floral design"
+          "green, white, yellow, brown, black"
         ],
         "materials": [
-          "Painted wood",
-          "Painted MDF",
-          "Metal handles"
+          "wood, plastic, laminate, painted or lacquered wood"
         ],
-        "lighting": "Natural light from left side",
-        "texture": "Smooth"
+        "lighting": "even, likely from overhead lighting or natural light source",
+        "texture": "smooth surfaces with patterns on wallpaper and cabinets"
       },
       "indian_context": {
-        "regional_style": "Not identifiable",
-        "traditional_elements": [
-          "No traditional Indian elements"
-        ],
+        "regional_style": "not distinctly regional, likely urban contemporary style with Indian influences",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Integration of modern cabinetry with traditional floral motifs"
+          "fused with modern elements like metallic handles and green color scheme"
         ],
-        "space_utilization": "Efficient use of vertical space with shelves and sliding doors",
-        "cultural_significance": "No specific cultural relevance, as the design is contemporary"
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.8,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.7
-      },
-      "description": "This image showcases a modern kitchen with contemporary design elements. The space features sleek, green-painted cabinetry with simple handles, off-white sliding doors adorned with floral patterns, and wall-mounted shelves with green accents. The design is minimalistic and functional, with a focus on efficient use of space.",
-      "metadata": {
-        "tags": [
-          "Contemporary kitchen",
-          "Modern design",
-          "Green cabinets",
-          "Floral motifs",
-          "Wall shelves"
-        ],
-        "budget_indicator": "Moderate, as seen in the painted finishes and modern materials",
-        "space_type": "Residential kitchen",
-        "functionality": "Storage and organization",
-        "indian_specific": "No Indian-specific design features"
-      }
-    }
-  },
-  "cached_at": 1753446667728,
-=======
-          "Yellow",
-          "Brown"
-        ],
-        "materials": [
-          "Wood",
-          "MDF",
-          "Wallpaper"
-        ],
-        "lighting": "Indirect lighting, likely from ceiling or adjacent area",
-        "texture": "Smooth cabinet surfaces, patterned wallpaper, and smooth shelving"
-      },
-      "indian_context": {
-        "regional_style": "Not distinctly regional, but leans towards a modern take on traditional elements",
-        "traditional_elements": [
-          "Carved floral patterns on wallpaper"
-        ],
-        "modern_adaptations": [
-          "Integrated shelving",
-          "Glossy finishes"
-        ],
-        "space_utilization": "Efficient use of wall space for storage and display",
-        "cultural_significance": "The floral wallpaper could symbolize nature and beauty, common in Indian interiors"
+        "space_utilization": "efficient use of space with storage and display shelves",
+        "cultural_significance": "cultural relevance in the use of green as a symbol of nature and growth in Indian decor"
       }
     },
     "confidence_scores": {
@@ -170,22 +81,23 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image depicts a modern Indian interior design for a closet or storage area. The space features glossy green cabinets with horizontal silver handles, embedded green shelving, and a floral wallpaper with a light background and printed floral patterns. The design incorporates a mix of traditional and modern elements, with the floral wallpaper being a traditional Indian motif and the sleek cabinet design a modern adaptation. The space is well-organized, utilizing the wall space for both storage and display purposes.",
+    "description": "The image depicts a modern closet with contemporary design elements. It features sliding wardrobe doors with a floral pattern of calla lilies, green cabinet doors with metallic handles, a wooden door with a horizontal wood grain pattern, and green shelves. The use of green as the dominant color is prominent, reflecting Indian design influences, particularly the symbolism of green. The space is organized efficiently for storage and display, with a clean and modern aesthetic.",
     "metadata": {
       "tags": [
-        "Modern Indian Interior",
-        "Green Cabinets",
-        "Floral Wallpaper",
-        "Embedded Shelving",
-        "Glossy Finish"
+        "closet",
+        "modern",
+        "green",
+        "floral",
+        "contemporary",
+        "Indian elements",
+        "efficient storage"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Closet/Storage Area",
-      "functionality": "Storage and display",
-      "indian_specific": "Floral wallpaper"
+      "budget_indicator": "moderate, with the use of painted wood for cabinets and shelves, and patterned wallpaper",
+      "space_type": "residential closet",
+      "functionality": "storage and organization",
+      "indian_specific": "use of green and floral patterns, blending modern and traditional elements"
     }
   },
-  "cached_at": 1753181154980,
->>>>>>> origin/main
+  "cached_at": 1753877906795,
   "cache_key": "14dea3b8f8e49bfc433a8ddc3b962043"
 }

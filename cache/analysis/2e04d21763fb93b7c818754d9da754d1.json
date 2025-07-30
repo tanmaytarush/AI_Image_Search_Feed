@@ -4,82 +4,85 @@
     "image_id": "img_055",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian",
+      "theme": "Modern Indian Kitchen",
       "primary_features": [
         "U-shaped cabinetry",
-        "Marble countertops",
-        "Ceramic wall tiles",
-        "Under-cabinet lighting",
-        "Window with security bars"
+        "marble countertops",
+        "cabinet handles",
+        "tiled backsplash"
       ],
       "objects": [
         {
-          "type": "Kitchen Island",
+          "type": "Kitchen counter",
           "features": [
-            "Dark granite countertop",
-            "Small white sink",
-            "Black countertop edge"
+            "black color",
+            "marble texture"
           ],
           "materials": [
-            "Granite",
-            "MDF"
+            "marble"
           ],
-          "finish": "Polished finish"
+          "finish": "shiny"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "red and white doors",
+            "modular design"
+          ],
+          "materials": [
+            "wood (likely teak or similar)",
+            "plastic laminate"
+          ],
+          "finish": "glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Red cabinetry",
-          "White ceiling",
-          "Dark gray floor tiles",
-          "Black granite countertop",
-          "White wall tiles",
-          "Black window frame"
+          "red",
+          "white",
+          "black",
+          "gray"
         ],
         "materials": [
-          "Marble",
-          "Granite",
-          "MDF",
-          "Ceramic tiles"
+          "marble",
+          "wood",
+          "plastic laminate"
         ],
-        "lighting": "Artificial lighting from under-cabinet and wall-mounted lights",
-        "texture": "Smooth surfaces with slight texture from the marble and granite"
+        "lighting": "fluorescent lights",
+        "texture": "smooth"
       },
       "indian_context": {
-        "regional_style": "Not specifically regional, but shows modern adaptations of Indian design",
-        "traditional_elements": [
-          "Not clearly visible, but modern Indian kitchens often include elements like wooden accents or intricate carvings"
-        ],
+        "regional_style": "Southern Indian",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Use of under-cabinet lighting, U-shaped cabinetry, and modern materials like granite"
+          "use of marble, modern modular design"
         ],
-        "space_utilization": "Efficient use of space with U-shaped cabinetry for maximum storage and functionality",
-        "cultural_significance": "Modern Indian kitchens often reflect a blend of traditional values and contemporary aesthetics, aiming for both functionality and visual appeal"
+        "space_utilization": "efficient use of corner space, open layout",
+        "cultural_significance": "Modern kitchen design in a culturally significant region, reflecting a contemporary approach"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern Indian kitchen with U-shaped cabinetry in red and white, marble countertops, and a tiled backsplash. The design reflects a contemporary approach with a Southern Indian influence, utilizing materials and finishes typical of modern Indian interiors. The kitchen is well-organized, maximizing space and functionality.",
+      "metadata": {
+        "tags": [
+          "Indian Kitchen",
+          "Modern Design",
+          "Southern Style",
+          "U-shaped Layout",
+          "Marble Countertops"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential Kitchen",
+        "functionality": "Cooking and food preparation",
+        "indian_specific": "Use of modern materials in a traditional style"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image depicts a modern Indian kitchen with a U-shaped cabinetry layout. The cabinets are primarily red with white accents and black countertops, adorned with under-cabinet lighting. The walls are tiled with white and gray marble patterns, and the floor is covered with gray marble tiles. The space is organized to maximize storage and functionality, with a small kitchen island in one corner. The overall design reflects a contemporary interpretation of Indian kitchen aesthetics, focusing on both style and practicality.",
-    "metadata": {
-      "tags": [
-        "Modern Indian kitchen",
-        "U-shaped cabinetry",
-        "Red and white color scheme",
-        "Marble countertops",
-        "Under-cabinet lighting",
-        "Ceramic wall tiles"
-      ],
-      "budget_indicator": "Moderate to high, given the use of granite and marble for countertops and cabinetry",
-      "space_type": "Residential kitchen",
-      "functionality": "Primary purpose is for cooking, storage, and possibly casual dining or workstation",
-      "indian_specific": "Indian-specific features include the use of red cabinetry and the U-shaped design for efficient space utilization"
     }
   },
-  "cached_at": 1753446905963,
+  "cached_at": 1753878039370,
   "cache_key": "2e04d21763fb93b7c818754d9da754d1"
 }

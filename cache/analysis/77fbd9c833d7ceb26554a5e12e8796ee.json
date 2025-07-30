@@ -3,183 +3,80 @@
   "analysis": {
     "image_id": "img_033",
     "ai_generated_tags": {
-      "room": "Pooja room",
-      "theme": "Modern Indian",
+      "room": "worship room",
+      "theme": "contemporary with traditional Indian elements",
       "primary_features": [
-<<<<<<< HEAD
-        "Umbrella stand",
-        "Mirrored cabinet",
-        "Shelves with religious items",
-        "Decorative hanging elements"
+        "glass doors with decorative cutouts",
+        "carved wooden elements",
+        "religious icons"
       ],
       "objects": [
         {
-          "type": "Umbrella stand",
+          "type": "pooja cabinet",
           "features": [
-            "Tall, with ornate details at the base"
+            "glass doors with decorative cutouts",
+            "carved wooden elements",
+            "religious icons"
           ],
           "materials": [
-            "Metallic, possibly brass or copper"
+            "wood",
+            "glass",
+            "metal"
           ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Mirrored cabinet",
-          "features": [
-            "Large, with glass doors and shelves"
-          ],
-          "materials": [
-            "Wood, possibly teak or pine"
-          ],
-          "finish": "Cream-colored with golden accents"
-        },
-        {
-          "type": "Shelves with religious items",
-          "features": [
-            "Decorative items, possibly religious in nature"
-          ],
-          "materials": [
-            "Not visible, inferred from items"
-          ],
-          "finish": "Not visible, inferred from items"
-        },
-        {
-          "type": "Decorative hanging elements",
-          "features": [
-            "String-like, possibly for prayer or decoration"
-          ],
-          "materials": [
-            "Not visible, inferred from context"
-          ],
-          "finish": "Not visible, inferred from context"
-=======
-        "Decorative cabinet with glass doors",
-        "Carved wooden elements",
-        "Religious iconography"
-      ],
-      "objects": [
-        {
-          "type": "Pooja cabinet",
-          "features": [
-            "Glass doors with decorative patterns",
-            "Carved wooden detailing",
-            "Drawers with brass handles"
-          ],
-          "materials": [
-            "Wood (likely teak)",
-            "Glass",
-            "Brass"
-          ],
-          "finish": "Bright white paint with gold accents"
->>>>>>> origin/main
+          "finish": "reflection on glass doors, polished wood"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "Cream",
-          "Gold",
-          "White",
-          "Black"
+          "white",
+          "gold",
+          "brown",
+          "colorful religious icons"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Glass"
+          "wood",
+          "glass",
+          "metal"
         ],
-        "lighting": "Natural light, possibly from a window out of frame",
-        "texture": [
-          "Smooth surfaces, metallic sheen, reflective glass"
-        ]
+        "lighting": "natural light",
+        "texture": "smooth wood with carved details"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but could be modern Indian with influences from Rajasthan or other northern regions",
+        "regional_style": "Mughal influence",
         "traditional_elements": [
-          "Umbrella stand with ornate details, wooden furniture"
+          "carved wooden elements",
+          "religious icons"
         ],
         "modern_adaptations": [
-          "Use of mirrored surfaces, modern materials and finishes"
+          "contemporary glass doors and drawer design"
         ],
-        "space_utilization": "Efficient use of the cabinet for storage and display of religious items",
-        "cultural_significance": "The presence of religious items and decorative hanging elements signify a space dedicated to prayer or worship, emphasizing cultural and spiritual devotion"
-      }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image depicts a modern interpretation of a traditional Indian pooja room, featuring a cream-colored mirrored cabinet with gold accents, shelves displaying religious items, and an ornate umbrella stand. The design blends traditional elements with contemporary aesthetics, reflecting a modern Indian style with influences from northern regions. The space is organized to maximize storage and display, with a focus on cultural and spiritual significance.",
-    "metadata": {
-      "tags": [
-        "Indian interior design",
-        "Pooja room",
-        "Modern Indian style",
-        "Religious items",
-        "Decorative umbrella stand"
-      ],
-      "budget_indicator": "Moderate, with the use of high-quality materials and finishes",
-      "space_type": "Residential",
-      "functionality": "Space for worship or prayer",
-      "indian_specific": "Use of wood, metal, and reflective surfaces, traditional umbrella stand with modern adaptations"
-    }
-  },
-  "cached_at": 1753446445691,
-=======
-          "White",
-          "Gold",
-          "Black",
-          "Red",
-          "Blue"
-        ],
-        "materials": [
-          "Wood",
-          "Glass",
-          "Brass"
-        ],
-        "lighting": "Natural light filtering through the glass doors",
-        "texture": "Smooth paint surface, glossy glass, polished brass handles"
-      },
-      "indian_context": {
-        "regional_style": "Northern India (Hindi-speaking regions)",
-        "traditional_elements": [
-          "Carved wood",
-          "Religious icons"
-        ],
-        "modern_adaptations": [
-          "Glass doors",
-          "Minimalist drawers"
-        ],
-        "space_utilization": "Efficient use of vertical space with pujols arranged on shelves",
-        "cultural_significance": "The pooja room is a sacred space for Hindus where religious items and iconography are displayed for worship"
+        "space_utilization": "efficient use of vertical space for storage and display",
+        "cultural_significance": "The space is a traditional Indian pujari room used for worship, emphasizing spirituality and cultural heritage"
       },
       "confidence_scores": {
         "room": 0.95,
-        "theme": 0.88,
-        "primary_features": 0.9,
+        "theme": 0.87,
+        "primary_features": 0.89,
         "objects": 0.92,
-        "indian_context": 0.91
+        "indian_context": 0.9
       },
-      "description": "The image showcases a modern Indian pooja room with a sleek cabinet design featuring glass doors, allowing for a view of the neatly arranged religious icons inside. The cabinet is adorned with traditional carved wooden details and brass handles, blending modern and traditional elements. The white paint with gold accents provides a clean and elegant look, while the natural light enhances the vibrant colors of the religious items, creating a serene and sacred atmosphere.",
+      "description": "The image depicts a contemporary pujari (worship) room with a Mughal-inspired design. The room features glass doors with intricate cutouts, carved wooden elements, and religious icons on display. The use of white and gold gives it a sophisticated look, while the wooden texture and carved details add traditional Indian craftsmanship. The space efficiently utilizes vertical space for storage and display, maintaining a blend of traditional and modern aesthetics.",
       "metadata": {
         "tags": [
-          "Pooja room",
-          "Modern Indian",
-          "Glass cabinet",
-          "Carved wood",
-          "Religious icons",
-          "White and gold"
+          "pooja cabinet",
+          "worship room",
+          "Mughal style",
+          "carved wood",
+          "religious icons",
+          "contemporary design"
         ],
-        "budget_indicator": "Moderate, with a focus on quality materials like brass and glass",
-        "space_type": "Residential",
-        "functionality": "Sacred space for Hindu worship",
-        "indian_specific": "Carved wood and brass handles"
+        "budget_indicator": "mid-range, due to glass and polished wood",
+        "space_type": "residential",
+        "functionality": "for personal worship and storage",
+        "indian_specific": "carved wood, religious icons, and pujari cabinet"
       }
     }
   },
-  "cached_at": 1753181123481,
->>>>>>> origin/main
+  "cached_at": 1753877826024,
   "cache_key": "77fbd9c833d7ceb26554a5e12e8796ee"
 }

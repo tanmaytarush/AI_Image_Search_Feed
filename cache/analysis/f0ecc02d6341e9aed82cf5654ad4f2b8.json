@@ -3,265 +3,109 @@
   "analysis": {
     "image_id": "img_007",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Open-plan kitchen and dining area",
-      "theme": "Modern Indian",
+      "room": "Kitchen/Dining Area",
+      "theme": "Contemporary Indian Fusion",
       "primary_features": [
-        "Large kitchen island with white countertop",
-        "Round wooden dining table",
-        "Teak wood staircase",
-        "Glass cabinets in kitchen",
-        "Copper pendant lights"
+        "Open-plan kitchen with island",
+        "Modern lighting with traditional accents",
+        "Marble countertops",
+        "Wooden staircase with glass railings"
       ],
       "objects": [
         {
-          "type": "Teak wood dining table",
+          "type": "Round dining table",
           "features": [
-            "Circular shape",
-            "Polished finish"
+            "Wooden finish",
+            "Center flower bowl"
           ],
           "materials": [
-            "Teak wood"
+            "Wood",
+            "Metal (for bowl handles)"
           ],
-          "finish": "High-gloss polished finish"
+          "finish": "Glossy"
         },
         {
-          "type": "White kitchen island",
+          "type": "Kitchen island",
           "features": [
-            "Integrated with cooktops and sink",
-            "Countertop with handles for storage"
+            "White countertop",
+            "Integrated sink",
+            "Decorative plant"
           ],
           "materials": [
-            "Granite"
+            "Marble",
+            "Metal (for sink and faucet)"
           ],
-          "finish": "Smooth granite finish"
-        },
-        {
-          "type": "Teak wood staircase",
-          "features": [
-            "Modern design with glass panels",
-            "Wooden handrails"
-          ],
-          "materials": [
-            "Teak wood"
-          ],
-          "finish": "Natural teak wood finish"
-        },
-        {
-          "type": "Copper pendant lights",
-          "features": [
-            "Sleek and modern design",
-            "Refined finish"
-=======
-      "room": "Kitchen",
-      "theme": "Contemporary Indian",
-      "primary_features": [
-        "Light green cabinetry",
-        "White countertops",
-        "Wooden dining table",
-        "Round wooden dining chairs",
-        "Glass-topped kitchen island",
-        "Open shelving",
-        "Copper pendant lights",
-        "Staircase with wooden railings",
-        "Marble flooring",
-        "Modern sink with decorative basin"
-      ],
-      "objects": [
-        {
-          "type": "Cabinetry",
-          "features": [
-            "Light green color",
-            "High gloss finish"
-          ],
-          "materials": [
-            "MDF/Particleboard"
-          ],
-          "finish": "High gloss"
-        },
-        {
-          "type": "Countertop",
-          "features": [
-            "White color",
-            "Marble-like texture"
-          ],
-          "materials": [
-            "Artificial marble"
-          ],
-          "finish": "Shiny"
-        },
-        {
-          "type": "Dining Table",
-          "features": [
-            "Round shape",
-            "Wooden material"
-          ],
-          "materials": [
-            "Solid wood"
-          ],
-          "finish": "Natural varnish"
-        },
-        {
-          "type": "Dining Chairs",
-          "features": [
-            "Wooden backrest and seat",
-            "Simple design"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural varnish"
-        },
-        {
-          "type": "Kitchen Island",
-          "features": [
-            "Glass top",
-            "White color"
-          ],
-          "materials": [
-            "Glass/Tempered glass"
-          ],
-          "finish": "Clear"
-        },
-        {
-          "type": "Sink",
-          "features": [
-            "Modern design",
-            "Decorative basin"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Lighting",
-          "features": [
-            "Copper pendant lights"
->>>>>>> origin/main
-          ],
-          "materials": [
-            "Copper"
-          ],
-<<<<<<< HEAD
-          "finish": "Shiny copper finish"
-=======
           "finish": "Polished"
         },
         {
           "type": "Staircase",
           "features": [
-            "Wooden railings",
-            "Glass panels"
+            "Wooden steps",
+            "Glass railings",
+            "Decorative handrail"
           ],
           "materials": [
             "Wood",
             "Glass"
           ],
-          "finish": "Natural wood, clear glass"
->>>>>>> origin/main
+          "finish": "Rustic wood"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "White",
-          "Light brown",
-          "Teak brown",
-          "Green"
+          "White marble",
+          "Green cabinetry",
+          "Wooden tones",
+          "Gold accents"
         ],
         "materials": [
-          "Teak wood",
-          "Granite",
-          "Copper",
-          "Glass"
+          "Marble",
+          "Glass",
+          "Wood",
+          "Metal"
         ],
-        "lighting": "Natural light from windows and glossy finishes from artificial lighting",
-        "texture": "Smooth and glossy surfaces from materials"
+        "lighting": "Modern pendant lights with warm copper finish",
+        "texture": "Smooth marble, glossy paint, polished wood"
       },
       "indian_context": {
-        "regional_style": "Mysore-style or South Indian colonial influence with modern adaptations",
+        "regional_style": "No specific regional influence apparent",
         "traditional_elements": [
-          "Teak wood furniture",
-          "Copper objects",
-          "Carved wooden elements on stairs"
+          "Wooden handrail design",
+          "Metal accents (like faucets and handles)",
+          "Decorative mirror"
         ],
         "modern_adaptations": [
-          "Glass cabinets and countertops",
-          "Contemporary lighting"
+          "Open-plan layout",
+          "Modern appliances",
+          "Integrated kitchen island"
         ],
-        "space_utilization": "Efficient use of open space, blending kitchen and dining areas",
-        "cultural_significance": "Cultural significance through use of copper, traditional woodwork, and religious decor"
-=======
-          "Light green, white, brown, black, gold, maroon"
-        ],
-        "materials": [
-          "Wood, glass, metal, artificial marble, MDF/Particleboard"
-        ],
-        "lighting": "Ambient lighting from ceiling lights and copper pendant lights",
-        "texture": "Smooth, glossy, natural wood grain, marbled"
-      },
-      "indian_context": {
-        "regional_style": "Maharashtra",
-        "traditional_elements": [
-          "Copper details",
-          "Wooden railings"
-        ],
-        "modern_adaptations": [
-          "Open shelving",
-          "Glass-topped kitchen island"
-        ],
-        "space_utilization": "Efficient use of vertical space with open shelving and glass panels, maximizing light with light green cabinetry",
-        "cultural_significance": "Use of copper for its auspicious connotations in Indian culture, presence of a deity figure for spiritual significance"
->>>>>>> origin/main
+        "space_utilization": "Efficient use of space with an open-plan design connecting kitchen and dining areas",
+        "cultural_significance": "The design incorporates elements like a decorative mirror and religious items, reflecting cultural reverence and decor"
       }
     },
     "confidence_scores": {
       "room": 0.95,
-      "theme": 0.87,
+      "theme": 0.85,
       "primary_features": 0.89,
       "objects": 0.92,
-      "indian_context": 0.9
+      "indian_context": 0.88
     },
-<<<<<<< HEAD
-    "description": "This modern Indian kitchen and dining area showcases a blend of traditional and contemporary elements. The use of teak wood for the staircase and dining table, along with copper accents, reflects regional influences. The glass cabinets and white countertops suggest a modern approach. The space is well-organized, promoting efficient use of the indoor area, with religious decor adding cultural relevance.",
+    "description": "This image showcases a modern Indian fusion kitchen and dining area with a contemporary design. The space features a sleek, open-plan layout with a central kitchen island and a round dining table. The wooden staircase with glass railings adds a touch of traditional elegance, while the modern pendant lights and glossy finishes give it a contemporary feel. The use of white marble countertops and green cabinetry balances the warm wooden tones and gold accents, creating a harmonious blend of traditional and modern elements. The space is well-lit, emphasizing the clean lines and smooth surfaces, and includes cultural touches like decorative items and a mirror reflecting traditional motifs.",
     "metadata": {
       "tags": [
-        "Modern Indian",
-        "Teak wood",
-        "Copper",
-        "Glass cabinets",
-        "Open-plan kitchen",
-        "Mysore-style"
+        "Indian Fusion",
+        "Contemporary Design",
+        "Open-Plan Space",
+        "Modern Light Fixtures",
+        "Wooden Staircase",
+        "Marble Countertops"
       ],
-      "budget_indicator": "High-end, given the use of teak wood, copper, and granite",
-      "space_type": "Residential",
-      "functionality": "Combined kitchen and dining area",
-      "indian_specific": "Teak wood, copper, and religious decor"
+      "budget_indicator": "Mid-range to high-end, with the use of sophisticated materials like marble and polished wood",
+      "space_type": "Residential, likely a modern home",
+      "functionality": "Kitchen/Dining Area",
+      "indian_specific": "Decorative elements like a mirror with traditional motifs and a religious statue"
     }
   },
-  "cached_at": 1753445738577,
-=======
-    "description": "A modern Indian kitchen with a blend of traditional and contemporary elements. The kitchen features a light green cabinetry with high gloss finish, white countertops, and a glass-topped kitchen island. The space includes a round wooden dining table with matching chairs, and the staircase has wooden railings and glass panels. Copper pendant lights provide warm lighting, and various decorative elements like a deity figure and a decorative basin add cultural significance. The overall design is clean and functional, with efficient space utilization and a mix of natural and artificial materials.",
-    "metadata": {
-      "tags": [
-        "Kitchen",
-        "Contemporary",
-        "Indian Design",
-        "Modern",
-        "Light Green",
-        "White",
-        "Wood",
-        "Copper",
-        "Glass"
-      ],
-      "budget_indicator": "Moderate to High",
-      "space_type": "Residential",
-      "functionality": "Functional and stylish",
-      "indian_specific": "Traditional elements like copper and wooden railings with modern adaptations"
-    }
-  },
-  "cached_at": 1753179276314,
->>>>>>> origin/main
+  "cached_at": 1753877655198,
   "cache_key": "f0ecc02d6341e9aed82cf5654ad4f2b8"
 }

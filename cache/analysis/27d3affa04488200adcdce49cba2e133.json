@@ -3,168 +3,90 @@
   "analysis": {
     "image_id": "img_065",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Living Room / Dining Area",
-      "theme": "Modern Indian",
+      "room": "Living Room",
+      "theme": "Modular Indian Contemporary",
       "primary_features": [
-        "Central TV Unit",
-        "Open Plan",
-        "Marble Flooring",
-        "Combination of White and Dark Wood"
+        "Ceiling design with modern recessed lighting",
+        "Wall partition with wood and marble finish",
+        "Television unit with built-in storage",
+        "Dining area with modern chairs"
       ],
       "objects": [
         {
-          "type": "TV Unit",
+          "type": "Television unit",
           "features": [
-            "Design with vertical wooden panels",
-            "Integrated shelves",
-            "Dark wood finish"
+            "Built-in storage compartments",
+            "Wooden top with marble base",
+            "Modern finish with a mix of dark wood and light marble"
           ],
           "materials": [
             "Wood",
             "Marble"
           ],
-          "finish": "Glossy, polished"
+          "finish": "Sleek and polished"
         },
         {
-          "type": "Dining Table",
+          "type": "Ceiling design",
           "features": [
-            "Dark wood table",
-            "White cushioned chairs",
-            "Chic design"
+            "Modern recessed lighting",
+            "Square and rectangular recessed patterns"
+          ],
+          "materials": [
+            "Plasterboard"
+          ],
+          "finish": "Smooth and painted with a minimalistic approach"
+        },
+        {
+          "type": "Wall partition",
+          "features": [
+            "Vertical wooden slats",
+            "Modern design with clean lines"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Glossy, polished"
-=======
-      "room": "living room",
-      "theme": "contemporary with traditional Indian influence",
-      "primary_features": [
-        "modern false ceiling with linear lighting",
-        "wooden slatted partition",
-        "textured marble flooring",
-        "dining table with white chairs",
-        "TV unit with storage"
-      ],
-      "objects": [
-        {
-          "type": "dining table",
-          "features": [
-            "black table with white chairs",
-            "textured white marble top"
-          ],
-          "materials": [
-            "black wood",
-            "white marble"
-          ],
-          "finish": "high-gloss furniture finish"
+          "finish": "Satin wood finish"
         },
         {
-          "type": "TV unit",
+          "type": "Dining table",
           "features": [
-            "wooden base with storage cabinets",
-            "white textured paneling"
+            "Dark wooden table",
+            "Matching chairs with light upholstery"
           ],
           "materials": [
-            "dark wood",
-            "white textured material"
+            "Wood",
+            "Fabric"
           ],
-          "finish": "high-gloss finish"
-        },
-        {
-          "type": "partition",
-          "features": [
-            "slatted wooden panels",
-            "beige textured backdrop"
-          ],
-          "materials": [
-            "dark wood",
-            "beige fabric"
-          ],
-          "finish": "polished wood and fabric"
->>>>>>> origin/main
+          "finish": "Glossy wood and soft fabric"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
           "White",
-          "Dark Brown",
-          "Beige",
-          "Marble Gray"
+          "Dark brown",
+          "Light beige",
+          "Black"
         ],
         "materials": [
           "Wood",
           "Marble",
-          "Metal"
+          "Metal",
+          "Fabric"
         ],
-        "lighting": "Natural light from window, recessed ceiling lights",
-        "texture": "Smooth, polished surfaces"
+        "lighting": "Modern recessed lighting creating a bright and inviting space",
+        "texture": "Smooth surfaces with occasional textures like marble and wood grain"
       },
       "indian_context": {
-        "regional_style": "Maharashtra or Tamil Nadu",
+        "regional_style": "Not distinctly regional but reflects a modern interpretation of Indian interior design",
         "traditional_elements": [
-          "Vertical slatted design inspired by jharokha"
+          "Wall partition to separate spaces",
+          "Wooden finish"
         ],
         "modern_adaptations": [
-          "Sleek, contemporary design with Indian influences"
+          "Recessed lighting and sleek finishes"
         ],
-        "space_utilization": "Efficient use of open plan for multiple purposes",
-        "cultural_significance": "Vertical slats and clean lines reflect a modern interpretation of traditional Indian aesthetics"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image showcases a modern Indian living and dining area with a sleek, open-plan design. The central feature is a TV unit with vertical wooden slats, reminiscent of jharokha, a traditional element. The room is well-lit with natural light from a large window and recessed ceiling lights. The furniture includes a dark wood dining table and white cushioned chairs, creating a harmonious blend of traditional and contemporary styles. The flooring is white marble, adding a touch of elegance and lightness to the space. The overall aesthetic is clean and minimalist, reflecting a modern interpretation of Indian design elements.",
-      "metadata": {
-        "tags": [
-          "Indian Design",
-          "Modern Indian",
-          "Open Plan",
-          "Marble Flooring",
-          "Jharokha Design",
-          "Contemporary Living"
-        ],
-        "budget_indicator": "Moderate to High, given the use of marble and polished materials",
-        "space_type": "Residential",
-        "functionality": "Living and Dining Area",
-        "indian_specific": "Vertical slatted design with a modern twist, reflecting Indian architectural elements"
-      }
-    }
-  },
-  "cached_at": 1753447131684,
-=======
-          "white",
-          "brown",
-          "black",
-          "beige",
-          "green"
-        ],
-        "materials": [
-          "wood",
-          "marble",
-          "textured fabric"
-        ],
-        "lighting": "natural light from window, linear ceiling lights",
-        "texture": "smooth marble, textured fabric, polished wood"
-      },
-      "indian_context": {
-        "regional_style": "not distinctly regional, but modern interpretations of traditional elements",
-        "traditional_elements": [
-          "slatted wooden partition",
-          "textured marble flooring"
-        ],
-        "modern_adaptations": [
-          "false ceiling with linear lighting",
-          "high-gloss furniture finish"
-        ],
-        "space_utilization": "efficient use of space with a partition to divide the room",
-        "cultural_significance": "elements like the wooden partition and textured flooring reflect traditional Indian design, though modernized"
+        "space_utilization": "Efficient use of space with a clear division between living and dining areas",
+        "cultural_significance": "The use of wood and marble reflects traditional materials often found in Indian homes, symbolizing durability and elegance"
       }
     },
     "confidence_scores": {
@@ -174,22 +96,26 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image showcases a modern living room that incorporates traditional Indian design elements, particularly in the use of wooden partitions and textured flooring. The room features a contemporary false ceiling with linear lighting, a dining table with white chairs, and a TV unit with storage, all blending seamlessly with the wooden slatted partition that serves as a divider between the living and dining areas. The high-gloss finish on the furniture and the use of dark wood and white marble create a sophisticated yet warm aesthetic. The natural light from the window enhances the brightness of the space, while the textured fabric and polished wood add a touch of traditional Indian design to the contemporary setting.",
+    "description": "This image showcases a modern Indian living room with a blend of contemporary and traditional elements. The room features a sleek ceiling design with recessed lighting, a wall partition with vertical wooden slats, and a television unit with built-in storage. The dining area adjacent to the living room includes a dark wooden table and light upholstered chairs. The color palette is predominantly white, dark brown, and light beige, with touches of black. The materials used include wood, marble, metal, and fabric, reflecting a modern yet culturally rich design approach.",
     "metadata": {
       "tags": [
-        "living room",
-        "contemporary",
-        "traditional Indian",
-        "textured marble",
-        "wooden partition"
+        "Living Room",
+        "Contemporary Design",
+        "Indian Interior",
+        "Modern Recessed Lighting",
+        "Wall Partition",
+        "Television Unit",
+        "Dining Area",
+        "Indian Style",
+        "Wooden Finish",
+        "Marble"
       ],
-      "budget_indicator": "moderate, with high-quality materials like marble and polished wood",
-      "space_type": "residential living room",
-      "functionality": "entertainment and dining",
-      "indian_specific": "use of wooden partition and textured flooring"
+      "budget_indicator": "Moderate to High, due to the use of marble and wood finishes",
+      "space_type": "Residential Living Space",
+      "functionality": "Primary living and dining area",
+      "indian_specific": "Wall partition and wooden finishes"
     }
   },
-  "cached_at": 1753181188485,
->>>>>>> origin/main
+  "cached_at": 1753878135837,
   "cache_key": "27d3affa04488200adcdce49cba2e133"
 }

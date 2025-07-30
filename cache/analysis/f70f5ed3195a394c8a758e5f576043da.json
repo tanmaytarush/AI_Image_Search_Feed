@@ -3,137 +3,43 @@
   "analysis": {
     "image_id": "img_045",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Storage space",
-      "theme": "Modular design with modern Indian influences",
+      "room": "wardrobe room",
+      "theme": "contemporary",
       "primary_features": [
-        "Modular wardrobe with storage compartments",
-        "Mirror with shelf",
-        "Open shelving",
-        "Simple yet functional design"
+        "fitted wardrobe with built-in storage, orange and white color scheme"
       ],
       "objects": [
         {
-          "type": "Modular wardrobe",
+          "type": "fitted wardrobe",
           "features": [
-            "Orange and white color scheme",
-            "Horizontal stripes for design",
-            "Frosted glass doors on top section",
-            "Metallic handles"
+            "built-in storage, orange and white color scheme, modern handles"
           ],
           "materials": [
-            "Painted wood or MDF",
-            "Metallic handles"
+            "orange and white panels, likely MDF or particle board"
           ],
-          "finish": "Matte finish with metallic handles adding a subtle shine"
-        },
-        {
-          "type": "Mirror with shelf",
-          "features": [
-            "Integrated into the wardrobe design",
-            "Provides additional storage and display space"
-          ],
-          "materials": [
-            "Painted wood or MDF",
-            "Metallic frame"
-          ],
-          "finish": "Matte finish with metallic frame"
-        },
-        {
-          "type": "Open shelving",
-          "features": [
-            "Integrated into the wardrobe design",
-            "Provides additional storage and display space"
-          ],
-          "materials": [
-            "Painted wood or MDF",
-            "Metallic frame"
-          ],
-          "finish": "Matte finish with metallic frame"
-=======
-      "room": "Bedroom",
-      "theme": "Minimalist with Indian Influences",
-      "primary_features": [
-        "Large wardrobe",
-        "Built-in storage"
-      ],
-      "objects": [
-        {
-          "type": "Wardrobe",
-          "features": [
-            "White and orange panels",
-            "Rectangular mirrors",
-            "Sleek handles"
-          ],
-          "materials": [
-            "Painted MDF",
-            "Orange MDF"
-          ],
-          "finish": "Matt finish"
-        },
-        {
-          "type": "Built-in Storage",
-          "features": [
-            "Open shelves",
-            "Drawers",
-            "Mirror cabinet"
-          ],
-          "materials": [
-            "Painted MDF",
-            "Metal"
-          ],
-          "finish": "Matt finish"
->>>>>>> origin/main
+          "finish": "smooth finish with simple, modern handles"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "Orange",
-          "White",
-          "Gray"
+          "orange, white, beige, brown"
         ],
         "materials": [
-          "Painted wood or MDF",
-          "Metallic handles"
+          "MDF or particle board, glass door"
         ],
-        "lighting": "Natural light from the window and ambient light from the space",
-        "texture": "Matte finish with smooth surfaces"
+        "lighting": "natural light from window, ambient light from ceiling",
+        "texture": "smooth, matte surfaces with a clean, modern finish"
       },
       "indian_context": {
-        "regional_style": "Modern Indian design with influences from urban residential spaces",
+        "regional_style": "modern",
         "traditional_elements": [
-          "No visible traditional Indian elements"
+          "none"
         ],
         "modern_adaptations": [
-          "Integration of modern storage solutions with traditional Indian aesthetic"
+          "fitted wardrobes, contemporary color scheme"
         ],
-        "space_utilization": "Optimized storage and functional design for a compact space",
-        "cultural_significance": "Modern adaptation of Indian design principles focusing on practicality and functionality"
-=======
-          "White",
-          "Orange",
-          "Gray",
-          "Beige"
-        ],
-        "materials": [
-          "Painted MDF",
-          "Metal"
-        ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth, flat surfaces"
-      },
-      "indian_context": {
-        "regional_style": "Not distinctly regional",
-        "traditional_elements": [
-          "Minimal use of traditional Indian elements"
-        ],
-        "modern_adaptations": [
-          "Modern interpretation of storage solutions"
-        ],
-        "space_utilization": "Optimized storage with minimal decor",
-        "cultural_significance": "No significant cultural elements"
->>>>>>> origin/main
+        "space_utilization": "efficient use of vertical space with built-in storage",
+        "cultural_significance": "modern adaptation of Indian traditional wardrobe design"
       }
     },
     "confidence_scores": {
@@ -143,40 +49,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-<<<<<<< HEAD
-    "description": "The image depicts a modern Indian storage space featuring a modular wardrobe with a contemporary design. The wardrobe is painted in orange and white, with frosted glass doors on the upper section, providing a contrast to the metallic handles and the matte finish. The lower section includes open shelving and a mirror with a shelf, enhancing both storage and display options. The design is clean and functional, reflecting a modern Indian aesthetic.",
+    "description": "This image depicts a modern fitted wardrobe room with a contemporary design approach. The space features a large, built-in wardrobe with orange and white panels, providing a clean, organized look. The wardrobe includes built-in storage, shelves, and drawers, maximizing the use of vertical and horizontal space. The color scheme and minimalist design reflect a modern Indian aesthetic that combines functionality with a fresh, vibrant look.",
     "metadata": {
       "tags": [
-        "Modern Indian design",
-        "Modular wardrobe",
-        "Urban residential space",
-        "Functional storage",
-        "Orange and white color scheme"
+        "fitted wardrobe",
+        "modern design",
+        "Indian contemporary",
+        "efficient storage",
+        "orange and white color scheme"
       ],
-      "budget_indicator": "Mid-range",
-      "space_type": "Bedroom or utility room",
-      "functionality": "Storage and display solutions",
-      "indian_specific": "Modern adaptation of Indian design focusing on practicality"
+      "budget_indicator": "moderate, due to the use of MDF or particle board wood and modern hardware",
+      "space_type": "residential bedroom or walk-in closet",
+      "functionality": "storage and organization",
+      "indian_specific": "modern interpretation of traditional Indian wardrobe style"
     }
   },
-  "cached_at": 1753446689243,
-=======
-    "description": "This image depicts a modern, minimalist bedroom with a built-in wardrobe and storage system. The design incorporates contemporary elements with a touch of Indian aesthetic, highlighted by the bright orange and white color scheme. The wardrobe features sleek, modern handles, and the storage system includes open shelves and drawers, optimized for efficient use of space. The built-in mirror cabinet adds a practical and aesthetic touch, typical of modern Indian interior designs. The natural light from the window enhances the bright and airy feel of the room.",
-    "metadata": {
-      "tags": [
-        "Minimalist",
-        "Indian interior",
-        "Bedroom",
-        "Built-in storage",
-        "Orange and white"
-      ],
-      "budget_indicator": "Moderate to high, due to painted MDF and metal",
-      "space_type": "Residential bedroom",
-      "functionality": "Storage and organization",
-      "indian_specific": "Modern adaptation of storage solutions"
-    }
-  },
-  "cached_at": 1753181154449,
->>>>>>> origin/main
+  "cached_at": 1753877923545,
   "cache_key": "f70f5ed3195a394c8a758e5f576043da"
 }

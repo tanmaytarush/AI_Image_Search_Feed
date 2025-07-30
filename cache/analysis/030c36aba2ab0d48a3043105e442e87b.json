@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.54%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_046",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Bright, playful",
+      "primary_features": [
+        "Blue cabinetry",
+        "Decorative cartoon murals",
+        "Storage shelves"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Closed doors with cartoon images",
+            "Silver handles"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Glossy blue finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "Yellow",
+          "Red",
+          "White",
+          "Green"
+        ],
+        "materials": [
+          "Painted wood/MDF"
+        ],
+        "lighting": "Natural light from window, ambient lighting from ceiling",
+        "texture": "Smooth cabinet finishes, cartoon graphic textures"
+      },
+      "indian_context": {
+        "regional_style": "Not indicative of specific regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Decorative murals with cartoon characters"
+        ],
+        "space_utilization": "Efficient use of storage with open shelves and closed doors",
+        "cultural_significance": "The cartoon murals suggest a focus on entertainment and child-friendly design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image shows a brightly colored closet with blue cabinetry. The doors of the cabinet feature vibrant cartoon murals depicting popular children's characters, adding a playful and engaging element to the space. The room includes open shelves and drawers for storage, with a glossy blue finish on the cabinets. The lighting appears to be a mixture of natural light from a window and ambient lighting from the ceiling. The overall design appears to be modern with a focus on entertainment for children, as indicated by the cartoon murals.",
+      "metadata": {
+        "tags": [
+          "Children's room",
+          "Bright interior",
+          "Cartoon decor",
+          "Modern design",
+          "Indoor storage"
+        ],
+        "budget_indicator": "Moderate, with painted wood/MDF cabinets and decorative mural",
+        "space_type": "Closet",
+        "functionality": "Storage and display for clothing and other items",
+        "indian_specific": "Cartoon murals, vibrant colors"
+      }
+    }
+  },
+  "cached_at": 1753877944426,
+  "cache_key": "030c36aba2ab0d48a3043105e442e87b"
+}

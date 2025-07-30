@@ -3,205 +3,102 @@
   "analysis": {
     "image_id": "img_019",
     "ai_generated_tags": {
-      "room": "Kitchen/Dining",
-<<<<<<< HEAD
-      "theme": "Modern Minimalist",
+      "room": "Kitchen",
+      "theme": "Contemporary",
       "primary_features": [
-        "Dining table with tufted chairs",
-        "Refrigerator",
-        "Built-in cabinets",
-        "Wall-mounted light fixture with artistic decor"
+        "Kitchen island",
+        "Modern pendant lighting",
+        "Colorful wall art"
       ],
       "objects": [
         {
-          "type": "Dining table",
+          "type": "Dining Chairs",
           "features": [
-            "Rectangular shape",
-            "Tufted beige chairs",
-            "Metallic legs"
+            "White tufted upholstery",
+            "Gold metallic legs"
           ],
           "materials": [
-            "Wood",
             "Fabric",
             "Metal"
           ],
-          "finish": "Tufted upholstery on chairs, metallic finish on legs"
+          "finish": "Textured with a glossy metallic finish"
         },
         {
-          "type": "Refrigerator",
+          "type": "Wall Art",
           "features": [
-            "Large, modern design",
-            "Black finish"
+            "Circular design with gold accents",
+            "Metallic structure"
           ],
           "materials": [
-            "Metal"
+            "Metal",
+            "Glass"
           ],
-          "finish": "Glossy black"
+          "finish": "Reflective with a metallic sheen"
         },
         {
-          "type": "Built-in cabinets",
+          "type": "Kitchen Island",
           "features": [
-            "Integrated into wall",
-            "Dark grey color"
+            "Dark metallic finish with a glass-like sheen",
+            "Integrated with storage cabinets"
           ],
           "materials": [
-            "Particle board",
-            "Painted finish"
+            "Metal",
+            "Glass"
           ],
-          "finish": "Matte dark grey"
-        },
-        {
-          "type": "Wall-mounted light fixture",
-          "features": [
-            "Linear design",
-            "Wooden accents",
-            "Black metal frame"
-          ],
-          "materials": [
-            "Wood",
-            "Metal"
-          ],
-          "finish": "Natural wood with black metal"
-=======
-      "theme": "Modern Contemporary",
-      "primary_features": [
-        "Modern cabinetry",
-        "Smart appliances",
-        "Elegant dining setup"
-      ],
-      "objects": [
-        {
-          "type": "Refrigerator",
-          "features": [
-            "Dual temperature zones",
-            "Digital display"
-          ],
-          "materials": [
-            "Stainless steel"
-          ],
-          "finish": "Metallic"
-        },
-        {
-          "type": "Cabinets",
-          "features": [
-            "Integrated design",
-            "Black laminate finish"
-          ],
-          "materials": [
-            "Laminate"
-          ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Dining Set",
-          "features": [
-            "White table with modern legs",
-            "Tufted beige chairs"
-          ],
-          "materials": [
-            "Wood, fabric"
-          ],
-          "finish": "White, Beige"
->>>>>>> origin/main
+          "finish": "Glossy metallic with a sleek look"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "White walls",
-          "Dark grey cabinets",
-          "Beige chairs",
-          "Black refrigerator",
-          "Gold circular decor",
-          "Neutral rug"
+          "White",
+          "Gold",
+          "Gray",
+          "Black"
         ],
         "materials": [
           "Metal",
-          "Wood",
-          "Fabric",
-          "Marble"
+          "Glass",
+          "Fabric"
         ],
-        "lighting": "Strong artificial lighting from ceiling fixture",
-        "texture": "Tufted fabric texture, metallic sheen"
+        "lighting": "Modern pendant lights with a wooden frame emitting warm light",
+        "texture": [
+          "Tufted fabric texture",
+          "Glossy metallic finish",
+          "Smooth glass surface"
+        ]
       },
       "indian_context": {
-        "regional_style": "Not distinctly Indian",
-        "traditional_elements": [
-          "None"
-        ],
+        "regional_style": "Not applicable to Indian regional styles",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Contemporary interpretations of traditional craftsmanship"
+          "Integration of traditional elements (like Jharokha design in wall art) with modern materials and aesthetics"
         ],
-        "space_utilization": "Efficient use of space with built-in cabinets and minimalistic decor",
-        "cultural_significance": "Cultural significance not evident in the space"
-=======
-          "White",
-          "Beige",
-          "Black",
-          "Gold"
-        ],
-        "materials": [
-          "Laminate, Stainless steel, Wood, Fabric"
-        ],
-        "lighting": "Ambient ceiling lights",
-        "texture": "Smooth, glossy"
+        "space_utilization": "Efficient use of space with a counter for additional seating and storage",
+        "cultural_significance": "No specific cultural significance observed in this image"
       },
-      "indian_context": {
-        "regional_style": "Modern Indian",
-        "traditional_elements": [
-          "Minimalist design"
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern kitchen space with a contemporary design aesthetic. The room features a dining area with white tufted chairs with gold metallic legs, neatly integrated into the kitchen island. The wall art, which is a circular design with gold accents, adds a touch of traditional craftsmanship to the modern setting. The use of metallic materials and warm lighting creates a sleek and inviting atmosphere. The space is well-organized, promoting functionality and aesthetics in a harmonious blend.",
+      "metadata": {
+        "tags": [
+          "Kitchen Design",
+          "Modern Interior",
+          "Contemporary Style",
+          "Gold Accents",
+          "Tufted Chairs"
         ],
-        "modern_adaptations": [
-          "Use of modern appliances and furniture"
-        ],
-        "space_utilization": "Efficient use of limited space",
-        "cultural_significance": "Adaptation of modern aesthetics with a touch of minimalism"
->>>>>>> origin/main
+        "budget_indicator": "Mid-range to high-end due to the use of modern materials and finishes",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is dining and kitchen preparation",
+        "indian_specific": "No Indian-specific design features are visible in this modern kitchen"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-<<<<<<< HEAD
-    "description": "The space showcases a modern minimalist design in a kitchen-dining area. It features a sleek, dark grey refrigerator, tufted beige dining chairs with metallic legs, and built-in cabinets seamlessly integrated into the wall. A minimalist wall-mounted light fixture with a linear design and natural wood accents adds a contemporary touch. The color palette is neutral with white walls, dark grey cabinets, and beige chairs, complemented by a gold circular decor element on the wall. The space is efficiently utilized with minimalistic decor, focusing on functionality and clean lines.",
-    "metadata": {
-      "tags": [
-        "Modern Kitchen",
-        "Minimalist Design",
-        "Beige Chairs",
-        "Dark Grey Cabinets",
-        "Gold Decor",
-        "Neutral Color Palette"
-      ],
-      "budget_indicator": "Moderate, with high-quality materials like metal and wood with a painted finish",
-      "space_type": "Residential, kitchen-dining area",
-      "functionality": "Primary purpose is for dining and food preparation",
-      "indian_specific": "No Indian-specific design features visible"
     }
   },
-  "cached_at": 1753446073511,
-=======
-    "description": "This image showcases a modern kitchen-dining area with a contemporary design aesthetic. It features sleek cabinetry with a glossy black finish, a smart refrigerator with a dual temperature zone, and a minimalist dining set with a white table and tufted beige chairs. The space is illuminated by ambient ceiling lights, and the overall color palette is dominated by white, beige, black, and gold, creating a sophisticated and elegant look. The modern Indian theme is evident in the adaptation of minimalistic design elements and the efficient use of space.",
-    "metadata": {
-      "tags": [
-        "Kitchen",
-        "Dining",
-        "Modern",
-        "Contemporary",
-        "Minimalist",
-        "Smart Appliances"
-      ],
-      "budget_indicator": "Moderate to High",
-      "space_type": "Combined Kitchen and Dining",
-      "functionality": "Efficient cooking and dining area",
-      "indian_specific": "Modern adaptation of minimalistic design"
-    }
-  },
-  "cached_at": 1753179488729,
->>>>>>> origin/main
+  "cached_at": 1753877738619,
   "cache_key": "25372c24d5d4c854d236eeca25716490"
 }

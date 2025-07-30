@@ -3,139 +3,74 @@
   "analysis": {
     "image_id": "img_067",
     "ai_generated_tags": {
-<<<<<<< HEAD
       "room": "Bedroom",
-      "theme": "Contemporary with Indian Influence",
+      "theme": "Minimalist with Indian Influences",
       "primary_features": [
         "Sliding wardrobe doors",
-        "Wave-patterned wallpaper",
-        "Dark wood frames"
+        "Wavy patterned wallpaper",
+        "Dark wood frame"
       ],
       "objects": [
         {
           "type": "Sliding wardrobe doors",
           "features": [
-            "Wave-patterned wallpaper as the door material",
-            "Dark wood frames with metal accents"
+            "Wavy patterned wallpaper",
+            "Dark wood frame"
           ],
           "materials": [
-            "Wave-patterned wallpaper",
-            "Dark wood",
-            "Metal"
+            "Wood",
+            "Wallpaper"
           ],
-          "finish": "Matte finish on the wood"
-=======
-      "room": "bedroom",
-      "theme": "contemporary",
-      "primary_features": [
-        "sliding doors",
-        "wavy patterned wallpaper"
-      ],
-      "objects": [
-        {
-          "type": "sliding doors",
-          "features": [
-            "rectangular panels",
-            "wavy pattern",
-            "dark metal frames"
-          ],
-          "materials": [
-            "wood, plastic"
-          ],
-          "finish": "matte, glossy"
->>>>>>> origin/main
+          "finish": "Matte"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "White and dark brown",
-          "Black accents"
+          "Beige",
+          "Dark Brown",
+          "Black"
         ],
         "materials": [
-          "Paper",
           "Wood",
-          "Metal"
+          "Paper"
         ],
-        "lighting": "Natural light from ceiling lights",
-        "texture": "Wave-patterned texture on wallpaper"
+        "lighting": "Soft, evenly distributed lighting",
+        "texture": "Wavy patterned wallpaper, smooth dark wood"
       },
       "indian_context": {
-        "regional_style": "Not strongly regionalized",
+        "regional_style": "Not distinctly regional, but possibly inspired by traditional Indian design",
         "traditional_elements": [
-          "Wave-patterned design elements"
+          "Wavy patterned wallpaper"
         ],
         "modern_adaptations": [
-          "Integration of modern materials and finishes"
+          "Minimalist design with dark wood frame"
         ],
-        "space_utilization": "Efficient use of wardrobe space",
-        "cultural_significance": "Wave patterns can be found in traditional Indian art and architecture, symbolizing fluidity and movement"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.9,
-        "objects": 0.92,
-        "indian_context": 0.8
-      },
-      "description": "The image depicts a modern bedroom with a contemporary design that incorporates elements of traditional Indian aesthetics. The sliding wardrobe doors feature a wave-patterned wallpaper with dark wood frames, a style reminiscent of traditional jharokhas and carved doorways. The use of dark wood and metal accents gives a touch of modernity, while the wave patterns subtly echo Indian art and architecture, suggesting a cultural blend. The space appears well-organized, utilizing the wardrobe space efficiently.",
-      "metadata": {
-        "tags": [
-          "Contemporary Indian",
-          "Wave design",
-          "Modern wardrobe",
-          "Dark wood",
-          "Indian influence"
-        ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential bedroom",
-        "functionality": "Storage and organization",
-        "indian_specific": "Wave-patterned wallpaper as a nod to traditional Indian designs"
+        "space_utilization": "Efficient use of space for storage",
+        "cultural_significance": "Wavy patterns may symbolize water or nature, common in Indian design"
       }
+    },
+    "confidence_scores": {
+      "room": 0.92,
+      "theme": 0.88,
+      "primary_features": 0.85,
+      "objects": 0.9,
+      "indian_context": 0.8
+    },
+    "description": "This image showcases a minimalist bedroom with sliding wardrobe doors covered in a wavy patterned wallpaper and dark wood frame. The design draws inspiration from traditional Indian elements, such as the wavy patterns, while incorporating modern adaptations like the clean lines and dark wood frame. The space is efficiently utilized for storage, with the sliding doors maximizing the use of vertical space. The color palette of beige, dark brown, and black is typical in contemporary Indian interiors, reflecting both traditional and modern aesthetics.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Indian Design",
+        "Wavy Pattern",
+        "Dark Wood",
+        "Sliding Doors"
+      ],
+      "budget_indicator": "Mid-range, with materials such as wood and wallpaper",
+      "space_type": "Bedroom",
+      "functionality": "Storage and sleeping area",
+      "indian_specific": "Wavy patterned wallpaper"
     }
   },
-  "cached_at": 1753447185659,
-=======
-          "white, black, brown"
-        ],
-        "materials": [
-          "wood, plastic, metal, wallpaper"
-        ],
-        "lighting": "indirect, soft",
-        "texture": "smooth, matte, glossy"
-      },
-      "indian_context": {
-        "regional_style": "not prominent",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "contemporary style with traditional materials"
-        ],
-        "space_utilization": "efficient, minimalist",
-        "cultural_significance": "not prominent"
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.7,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.6
-      },
-      "description": "The image showcases a modern approach to Indian interior design, with contemporary sliding doors featuring a wavy patterned wallpaper. The space is efficiently utilized, emphasizing minimalism and functionality. The materials used, such as wood and plastic, reflect a modern interpretation of traditional Indian design elements.",
-      "metadata": {
-        "tags": [
-          "contemporary interior",
-          "sliding doors",
-          "wavy wallpaper",
-          "bedroom"
-        ],
-        "budget_indicator": "moderate to high",
-        "space_type": "residential bedroom",
-        "functionality": "storage and organization",
-        "indian_specific": "contemporary adaptation of traditional materials"
-      }
-    }
-  },
-  "cached_at": 1753181199093,
->>>>>>> origin/main
+  "cached_at": 1753878173513,
   "cache_key": "03863e0a01c26dedfc7154b5825ac9d1"
 }
