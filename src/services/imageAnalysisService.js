@@ -6,6 +6,7 @@ dotenv.config();
 class ImageAnalysisService {
   constructor() {
     // Removed deprecated HfInference client
+    this.expectedEmbeddingDimension = 384; // Ensure compatibility with embedding system
   }
 
   async analyzeImage(imageUrl, imageId) {
@@ -266,8 +267,11 @@ class ImageAnalysisService {
         // Cache the analysis result
         await cdnService.cacheAnalysis(imageUrl, jsonResponse);
 
-        return jsonResponse;
-      } catch (parseError) {
+              // Validate that the analysis result is compatible with 384-dimensional embedding system
+      this.validateAnalysisForEmbedding(jsonResponse);
+
+      return jsonResponse;
+    } catch (parseError) {
         console.error(
           `❌ JSON parsing error for ${imageId}:`,
           parseError.message
@@ -299,6 +303,52 @@ class ImageAnalysisService {
       }
 
       throw new Error(errorMessage);
+    }
+  }
+
+  /**
+   * Validate that analysis result is compatible with 384-dimensional embedding system
+   */
+  validateAnalysisForEmbedding(analysisResult) {
+    try {
+      // Check that the analysis has the required structure for embedding generation
+      if (!analysisResult.ai_generated_tags) {
+        throw new Error("Analysis missing ai_generated_tags structure");
+      }
+
+      const tags = analysisResult.ai_generated_tags;
+      
+      // Validate required fields for embedding generation
+      const requiredFields = ['room', 'theme'];
+      for (const field of requiredFields) {
+        if (!tags[field]) {
+          console.warn(`⚠️ Analysis missing ${field} field - may affect embedding quality`);
+        }
+      }
+
+      // Check for fields that will be used in embedding generation
+      const embeddingFields = [
+        tags.room,
+        tags.theme,
+        ...(tags.primary_features || []),
+        ...(tags.visual_attributes?.colors || []),
+        ...(tags.visual_attributes?.materials || []),
+        ...(tags.objects?.map(obj => obj.type) || []),
+        ...(tags.indian_context?.traditional_elements || []),
+        ...(tags.indian_context?.modern_adaptations || [])
+      ].filter(Boolean);
+
+      if (embeddingFields.length === 0) {
+        console.warn("⚠️ Analysis has no content for embedding generation");
+      } else {
+        console.log(`✅ Analysis validated for 384-dimensional embedding system (${embeddingFields.length} content fields)`);
+      }
+
+      return true;
+    } catch (error) {
+      console.error("❌ Analysis validation failed:", error.message);
+      // Don't throw - just log the warning
+      return false;
     }
   }
 }

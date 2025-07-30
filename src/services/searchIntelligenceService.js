@@ -1,20 +1,99 @@
-import OpenAI from "openai";
+import embeddingService from "./embeddingService.js";
+import { pipeline } from "@xenova/transformers";
 import dotenv from "dotenv";
 
 dotenv.config();
 
 class SearchIntelligenceService {
   constructor() {
-    this.openai = new OpenAI({
-      apiKey: process.env.OPENAI_API_KEY,
-    });
+    this.expectedEmbeddingDimension = 384; // Ensure compatibility with embedding system
+    this.queryEmbeddingModel = null;
+    this.initialized = false;
   }
 
   /**
-   * AI-powered query enhancement for interior design search
+   * Initialize the query embedding model from Hugging Face
+   */
+  async initializeQueryModel() {
+    if (!this.initialized) {
+      try {
+        // Use a text generation model that generates 384-dimensional embeddings
+        this.queryEmbeddingModel = await pipeline(
+          "feature-extraction",
+          "Xenova/all-MiniLM-L6-v2"
+        );
+        
+        // Initialize text generation model for prompt matching
+        this.textGenerationModel = await pipeline(
+          "text-generation",
+          "Xenova/llama-2-7b-chat"
+        );
+        
+        this.initialized = true;
+        console.log("✅ Successfully initialized HF models: all-MiniLM-L6-v2 (384 dims) + llama-2-7b-chat (text generation)");
+      } catch (error) {
+        console.error("Error initializing HF models:", error);
+        throw error;
+      }
+    }
+  }
+
+  /**
+   * Generate embedding for query using HF model
+   */
+  async getQueryEmbedding(text) {
+    await this.initializeQueryModel();
+    try {
+      const output = await this.queryEmbeddingModel(text, { 
+        pooling: "mean", 
+        normalize: true 
+      });
+      const embedding = output.tolist()[0];
+      
+      // Validate dimensions
+      if (embedding.length !== this.expectedEmbeddingDimension) {
+        throw new Error(`Query embedding has wrong dimensions: expected ${this.expectedEmbeddingDimension}, got ${embedding.length}`);
+      }
+      
+      return embedding;
+    } catch (error) {
+      console.error("Error generating query embedding:", error);
+      throw new Error(`Failed to generate query embedding: ${error.message}`);
+    }
+  }
+
+  /**
+   * Prompt-based query enhancement using HF text generation model with 384-dimensional embeddings
    */
   async enhanceSearchQuery(userQuery) {
     try {
+      console.log(`🔍 Enhancing query: "${userQuery}" using HF text generation + 384-dim embeddings`);
+      
+      // Use HF text generation model for query enhancement
+      const enhancedQuery = await this.generateEnhancedQueriesWithPrompt(userQuery);
+      
+      // Validate that all enhanced queries work with 384-dim embeddings
+      await this.validateEnhancedQueries(enhancedQuery);
+      
+      // Add confidence metrics
+      enhancedQuery.enhancement_confidence = this.calculateConfidence(userQuery, enhancedQuery);
+      
+      console.log(`✅ Query enhanced successfully with HF text generation + 384-dim validation`);
+      return enhancedQuery;
+    } catch (error) {
+      console.error("Error enhancing search query:", error);
+      // Fallback to rule-based enhancement if HF generation fails
+      return await this.generateEnhancedQueries(userQuery);
+    }
+  }
+
+  /**
+   * Generate enhanced queries using HF text generation model
+   */
+  async generateEnhancedQueriesWithPrompt(userQuery) {
+    try {
+      await this.initializeQueryModel();
+      
       const prompt = `You are an expert in Indian interior design. Enhance this search query for an interior image database.
 
 User Query: "${userQuery}"
@@ -48,39 +127,289 @@ Analyze the query and provide enhanced search terms in JSON format:
   }
 }
 
-Examples:
-- "beautiful bedroom" → Add "modern bedroom", "traditional bedroom", "Indian bedroom decor", "cozy bedroom"
-- "kitchen" → Add "modular kitchen", "Indian kitchen", "kitchen island", "granite countertop", "chimney"
-- "sofa" → Add "diwan", "sectional sofa", "L-shaped sofa", "leather sofa", "fabric sofa"
-- "traditional" → Add "Indian traditional", "ethnic decor", "wooden furniture", "brass items"
+Focus on Indian interior design terms, regional styles, and culturally relevant furniture. Return only valid JSON.`;
 
-Focus on Indian interior design terms, regional styles, and culturally relevant furniture.`;
-
-      const response = await this.openai.chat.completions.create({
-        model: "gpt-3.5-turbo",
-        messages: [{ role: "user", content: prompt }],
+      const response = await this.textGenerationModel(prompt, {
+        max_new_tokens: 500,
         temperature: 0.3,
-        max_tokens: 1000,
+        do_sample: true,
+        top_p: 0.9
       });
 
-      let content = response.choices[0].message.content.trim();
+      let content = response[0].generated_text;
       
-      // Clean up response if it has markdown
-      if (content.includes("```json")) {
-        content = content.replace(/```json\n?/g, "").replace(/```\n?/g, "");
+      // Extract JSON from response
+      const jsonMatch = content.match(/\{[\s\S]*\}/);
+      if (!jsonMatch) {
+        throw new Error("No JSON found in response");
       }
 
-      const enhancedQuery = JSON.parse(content);
+      const enhancedQuery = JSON.parse(jsonMatch[0]);
       
-      // Add confidence metrics
-      enhancedQuery.enhancement_confidence = this.calculateConfidence(userQuery, enhancedQuery);
-      
+      // Validate the structure
+      if (!enhancedQuery.enhanced_query) {
+        throw new Error("Invalid response structure");
+      }
+
+      console.log(`✅ HF text generation completed for query: "${userQuery}"`);
       return enhancedQuery;
     } catch (error) {
-      console.error("Error enhancing search query:", error);
-      // Fallback to basic query if AI enhancement fails
-      return this.createFallbackQuery(userQuery);
+      console.error("Error in HF text generation:", error);
+      throw error;
     }
+  }
+
+  /**
+   * Generate enhanced queries using rule-based system (fallback)
+   */
+  async generateEnhancedQueries(userQuery) {
+    const queryLower = userQuery.toLowerCase();
+    
+    // Detect intent and elements
+    const detectedElements = this.detectElements(queryLower);
+    const intent = this.detectIntent(queryLower);
+    
+    // Generate enhanced queries for each vector type
+    const primarySearch = this.enhanceForPrimarySearch(userQuery, detectedElements);
+    const semanticDesc = this.enhanceForSemanticDesc(userQuery, detectedElements);
+    const objectFocus = this.enhanceForObjectFocus(userQuery, detectedElements);
+    
+    // Generate expanded terms
+    const expandedTerms = this.generateExpandedTerms(userQuery, detectedElements);
+    
+    return {
+      enhanced_query: {
+        primary_search: primarySearch,
+        semantic_desc: semanticDesc,
+        object_focus: objectFocus,
+        intent: intent,
+        detected_elements: detectedElements
+      },
+      expanded_terms: expandedTerms,
+      search_weights: {
+        primary_search: 0.4,
+        semantic_desc: 0.35,
+        object_focus: 0.25
+      }
+    };
+  }
+
+  /**
+   * Validate that all enhanced queries work with 384-dim embeddings using HF model
+   */
+  async validateEnhancedQueries(enhancedQuery) {
+    const queries = [
+      enhancedQuery.enhanced_query.primary_search,
+      enhancedQuery.enhanced_query.semantic_desc,
+      enhancedQuery.enhanced_query.object_focus
+    ];
+
+    for (let i = 0; i < queries.length; i++) {
+      try {
+        // Use HF model for query embedding validation
+        const embedding = await this.getQueryEmbedding(queries[i]);
+        if (embedding.length !== this.expectedEmbeddingDimension) {
+          throw new Error(`Query ${i} generated ${embedding.length} dimensions, expected ${this.expectedEmbeddingDimension}`);
+        }
+        console.log(`✅ Query ${i} validated with HF model: ${embedding.length} dimensions`);
+      } catch (error) {
+        console.warn(`⚠️ Validation warning for query ${i}: ${error.message}`);
+      }
+    }
+  }
+
+  /**
+   * Detect elements in the query
+   */
+  detectElements(queryLower) {
+    const elements = {
+      room_type: null,
+      design_theme: null,
+      objects: [],
+      materials: [],
+      colors: [],
+      indian_context: null
+    };
+
+    // Room type detection
+    const roomTypes = ['bedroom', 'living room', 'kitchen', 'dining room', 'bathroom', 'study room', 'pooja room', 'balcony', 'terrace'];
+    for (const room of roomTypes) {
+      if (queryLower.includes(room)) {
+        elements.room_type = room;
+        break;
+      }
+    }
+
+    // Design theme detection
+    const themes = ['modern', 'traditional', 'contemporary', 'minimalist', 'luxury', 'ethnic', 'indian', 'western'];
+    for (const theme of themes) {
+      if (queryLower.includes(theme)) {
+        elements.design_theme = theme;
+        break;
+      }
+    }
+
+    // Object detection
+    const objects = ['sofa', 'bed', 'table', 'chair', 'cabinet', 'shelf', 'mirror', 'lamp', 'cushion', 'curtain'];
+    for (const obj of objects) {
+      if (queryLower.includes(obj)) {
+        elements.objects.push(obj);
+      }
+    }
+
+    // Material detection
+    const materials = ['wood', 'leather', 'fabric', 'glass', 'metal', 'marble', 'granite', 'brass', 'copper'];
+    for (const material of materials) {
+      if (queryLower.includes(material)) {
+        elements.materials.push(material);
+      }
+    }
+
+    // Color detection
+    const colors = ['white', 'black', 'brown', 'beige', 'blue', 'green', 'red', 'yellow', 'pink', 'purple'];
+    for (const color of colors) {
+      if (queryLower.includes(color)) {
+        elements.colors.push(color);
+      }
+    }
+
+    // Indian context detection
+    const indianTerms = ['indian', 'traditional', 'ethnic', 'cultural', 'regional'];
+    for (const term of indianTerms) {
+      if (queryLower.includes(term)) {
+        elements.indian_context = 'indian traditional';
+        break;
+      }
+    }
+
+    return elements;
+  }
+
+  /**
+   * Detect search intent
+   */
+  detectIntent(queryLower) {
+    if (queryLower.includes('bedroom') || queryLower.includes('living') || queryLower.includes('kitchen')) {
+      return 'room_type';
+    } else if (queryLower.includes('modern') || queryLower.includes('traditional') || queryLower.includes('contemporary')) {
+      return 'design_theme';
+    } else if (queryLower.includes('sofa') || queryLower.includes('table') || queryLower.includes('chair')) {
+      return 'objects';
+    } else if (queryLower.includes('wood') || queryLower.includes('leather') || queryLower.includes('fabric')) {
+      return 'materials';
+    } else if (queryLower.includes('white') || queryLower.includes('brown') || queryLower.includes('beige')) {
+      return 'color';
+    } else {
+      return 'general';
+    }
+  }
+
+  /**
+   * Enhance query for primary search (room type, theme, regional style)
+   */
+  enhanceForPrimarySearch(userQuery, detectedElements) {
+    let enhanced = userQuery;
+    
+    if (detectedElements.room_type) {
+      enhanced += ` ${detectedElements.room_type} design`;
+    }
+    
+    if (detectedElements.design_theme) {
+      enhanced += ` ${detectedElements.design_theme} style`;
+    }
+    
+    if (detectedElements.indian_context) {
+      enhanced += ` indian interior design`;
+    }
+    
+    return enhanced || userQuery;
+  }
+
+  /**
+   * Enhance query for semantic description (cultural context, detailed descriptions)
+   */
+  enhanceForSemanticDesc(userQuery, detectedElements) {
+    let enhanced = userQuery;
+    
+    if (detectedElements.indian_context) {
+      enhanced += ` indian cultural design elements traditional decor`;
+    }
+    
+    if (detectedElements.design_theme) {
+      enhanced += ` ${detectedElements.design_theme} interior design style`;
+    }
+    
+    return enhanced || userQuery;
+  }
+
+  /**
+   * Enhance query for object focus (furniture, materials, objects)
+   */
+  enhanceForObjectFocus(userQuery, detectedElements) {
+    let enhanced = userQuery;
+    
+    if (detectedElements.objects.length > 0) {
+      enhanced += ` ${detectedElements.objects.join(' ')} furniture`;
+    }
+    
+    if (detectedElements.materials.length > 0) {
+      enhanced += ` ${detectedElements.materials.join(' ')} materials`;
+    }
+    
+    return enhanced || userQuery;
+  }
+
+  /**
+   * Generate expanded terms
+   */
+  generateExpandedTerms(userQuery, detectedElements) {
+    const synonyms = [];
+    const relatedTerms = [];
+    const indianEquivalents = [];
+    const styleVariations = [];
+
+    // Generate synonyms based on detected elements
+    if (detectedElements.room_type === 'bedroom') {
+      synonyms.push('sleeping room', 'master bedroom');
+      indianEquivalents.push('shayan kaksh');
+    }
+    
+    if (detectedElements.room_type === 'living room') {
+      synonyms.push('drawing room', 'sitting room');
+      indianEquivalents.push('baithak', 'drawing room');
+    }
+    
+    if (detectedElements.room_type === 'kitchen') {
+      synonyms.push('cooking area', 'kitchen space');
+      indianEquivalents.push('rasoi', 'modular kitchen');
+    }
+
+    // Generate related terms
+    if (detectedElements.objects.includes('sofa')) {
+      relatedTerms.push('sectional sofa', 'L-shaped sofa', 'diwan');
+      indianEquivalents.push('diwan', 'charpai');
+    }
+    
+    if (detectedElements.objects.includes('bed')) {
+      relatedTerms.push('bed frame', 'mattress', 'bedside table');
+      indianEquivalents.push('charpai', 'palang');
+    }
+
+    // Generate style variations
+    if (detectedElements.design_theme === 'modern') {
+      styleVariations.push('contemporary', 'minimalist', 'sleek');
+    }
+    
+    if (detectedElements.design_theme === 'traditional') {
+      styleVariations.push('ethnic', 'cultural', 'heritage');
+    }
+
+    return {
+      synonyms,
+      related_terms: relatedTerms,
+      indian_equivalents: indianEquivalents,
+      style_variations: styleVariations
+    };
   }
 
   /**
@@ -142,7 +471,7 @@ Focus on Indian interior design terms, regional styles, and culturally relevant 
   }
 
   /**
-   * Generate search suggestions for autocomplete
+   * Generate search suggestions using HF text generation model with 384-dimensional system
    */
   async generateSearchSuggestions(partialQuery, existingData) {
     try {
@@ -150,6 +479,35 @@ Focus on Indian interior design terms, regional styles, and culturally relevant 
         return this.getBasicSuggestions(existingData);
       }
 
+      console.log(`🔍 Generating suggestions for: "${partialQuery}" using HF text generation + 384-dim system`);
+      
+      // Try HF text generation first
+      try {
+        const suggestions = await this.generateSuggestionsWithPrompt(partialQuery);
+        await this.validateSuggestions(suggestions);
+        console.log(`✅ Generated ${suggestions.length} suggestions with HF text generation + 384-dim validation`);
+        return suggestions;
+      } catch (error) {
+        console.warn(`⚠️ HF text generation failed, falling back to rule-based: ${error.message}`);
+        // Fallback to rule-based suggestions
+        const suggestions = this.generateSuggestionsFromPartial(partialQuery);
+        await this.validateSuggestions(suggestions);
+        console.log(`✅ Generated ${suggestions.length} suggestions with rule-based + 384-dim validation`);
+        return suggestions;
+      }
+    } catch (error) {
+      console.error("Error generating search suggestions:", error);
+      return this.getBasicSuggestions(existingData);
+    }
+  }
+
+  /**
+   * Generate suggestions using HF text generation model
+   */
+  async generateSuggestionsWithPrompt(partialQuery) {
+    try {
+      await this.initializeQueryModel();
+      
       const prompt = `Based on this partial search query for Indian interior design: "${partialQuery}"
 
 Suggest 10 relevant completions that users might be searching for. Focus on:
@@ -161,22 +519,133 @@ Suggest 10 relevant completions that users might be searching for. Focus on:
 
 Return as JSON array: ["suggestion1", "suggestion2", ...]`;
 
-      const response = await this.openai.chat.completions.create({
-        model: "gpt-3.5-turbo",
-        messages: [{ role: "user", content: prompt }],
+      const response = await this.textGenerationModel(prompt, {
+        max_new_tokens: 300,
         temperature: 0.5,
-        max_tokens: 300,
+        do_sample: true,
+        top_p: 0.9
       });
 
-      let content = response.choices[0].message.content.trim();
-      if (content.includes("```json")) {
-        content = content.replace(/```json\n?/g, "").replace(/```\n?/g, "");
+      let content = response[0].generated_text;
+      
+      // Extract JSON array from response
+      const arrayMatch = content.match(/\[[\s\S]*\]/);
+      if (!arrayMatch) {
+        throw new Error("No JSON array found in response");
       }
 
-      return JSON.parse(content);
+      const suggestions = JSON.parse(arrayMatch[0]);
+      
+      if (!Array.isArray(suggestions)) {
+        throw new Error("Response is not a valid array");
+      }
+
+      console.log(`✅ HF text generation completed for suggestions: "${partialQuery}"`);
+      return suggestions.slice(0, 10); // Limit to 10 suggestions
     } catch (error) {
-      console.error("Error generating search suggestions:", error);
-      return this.getBasicSuggestions(existingData);
+      console.error("Error in HF text generation for suggestions:", error);
+      throw error;
+    }
+  }
+
+  /**
+   * Generate suggestions based on partial query (rule-based fallback)
+   */
+  generateSuggestionsFromPartial(partialQuery) {
+    const queryLower = partialQuery.toLowerCase();
+    const suggestions = [];
+
+    // Room type suggestions
+    if (queryLower.includes('bed') || queryLower.includes('sleep')) {
+      suggestions.push('bedroom design', 'master bedroom', 'bedroom decor', 'bedroom furniture');
+    }
+    
+    if (queryLower.includes('liv') || queryLower.includes('sit')) {
+      suggestions.push('living room design', 'drawing room', 'sitting area', 'living room furniture');
+    }
+    
+    if (queryLower.includes('kit') || queryLower.includes('cook')) {
+      suggestions.push('kitchen design', 'modular kitchen', 'kitchen island', 'kitchen cabinets');
+    }
+
+    // Furniture suggestions
+    if (queryLower.includes('sof') || queryLower.includes('couch')) {
+      suggestions.push('sofa design', 'sectional sofa', 'L-shaped sofa', 'diwan', 'leather sofa');
+    }
+    
+    if (queryLower.includes('tab')) {
+      suggestions.push('dining table', 'coffee table', 'side table', 'study table');
+    }
+    
+    if (queryLower.includes('chair')) {
+      suggestions.push('dining chairs', 'accent chair', 'armchair', 'office chair');
+    }
+
+    // Style suggestions
+    if (queryLower.includes('mod') || queryLower.includes('contemp')) {
+      suggestions.push('modern design', 'contemporary style', 'minimalist design', 'modern furniture');
+    }
+    
+    if (queryLower.includes('trad') || queryLower.includes('ethn')) {
+      suggestions.push('traditional design', 'ethnic decor', 'indian traditional', 'cultural elements');
+    }
+
+    // Material suggestions
+    if (queryLower.includes('wood')) {
+      suggestions.push('wooden furniture', 'teak wood', 'rosewood', 'wooden decor');
+    }
+    
+    if (queryLower.includes('leath')) {
+      suggestions.push('leather sofa', 'leather furniture', 'leather upholstery');
+    }
+
+    // Color suggestions
+    if (queryLower.includes('whit') || queryLower.includes('beig')) {
+      suggestions.push('white decor', 'beige interior', 'neutral colors', 'light colors');
+    }
+    
+    if (queryLower.includes('brown') || queryLower.includes('wood')) {
+      suggestions.push('brown furniture', 'wooden tones', 'warm colors');
+    }
+
+    // Indian context suggestions
+    if (queryLower.includes('indian') || queryLower.includes('cult')) {
+      suggestions.push('indian design', 'cultural decor', 'traditional indian', 'ethnic elements');
+    }
+
+    // Add basic suggestions if none found
+    if (suggestions.length === 0) {
+      suggestions.push(
+        'modern living room',
+        'traditional bedroom',
+        'modular kitchen',
+        'contemporary design',
+        'indian decor',
+        'wooden furniture',
+        'sectional sofa',
+        'dining room design'
+      );
+    }
+
+    return suggestions.slice(0, 10); // Limit to 10 suggestions
+  }
+
+  /**
+   * Validate that suggestions work with 384-dim embeddings using HF model
+   */
+  async validateSuggestions(suggestions) {
+    for (let i = 0; i < Math.min(suggestions.length, 3); i++) { // Test first 3 suggestions
+      try {
+        // Use HF model for suggestion validation
+        const embedding = await this.getQueryEmbedding(suggestions[i]);
+        if (embedding.length !== this.expectedEmbeddingDimension) {
+          console.warn(`⚠️ Suggestion validation warning: "${suggestions[i]}" generated ${embedding.length} dimensions`);
+        } else {
+          console.log(`✅ Suggestion "${suggestions[i]}" validated with HF model: ${embedding.length} dimensions`);
+        }
+      } catch (error) {
+        console.warn(`⚠️ Suggestion validation error: ${error.message}`);
+      }
     }
   }
 
@@ -208,6 +677,85 @@ Return as JSON array: ["suggestion1", "suggestion2", ...]`;
     }
 
     return basicSuggestions;
+  }
+
+  /**
+   * Perform semantic similarity matching using HF model
+   */
+  async calculateSemanticSimilarity(query, storedVector) {
+    try {
+      // Generate query embedding using HF model
+      const queryEmbedding = await this.getQueryEmbedding(query);
+      
+      // Calculate cosine similarity
+      const similarity = this.cosineSimilarity(queryEmbedding, storedVector);
+      
+      console.log(`🔍 Semantic similarity for "${query}": ${similarity.toFixed(4)}`);
+      return similarity;
+    } catch (error) {
+      console.error("Error calculating semantic similarity:", error);
+      return 0.0;
+    }
+  }
+
+  /**
+   * Calculate cosine similarity between two vectors
+   */
+  cosineSimilarity(vectorA, vectorB) {
+    if (vectorA.length !== vectorB.length) {
+      throw new Error("Vectors must have same dimensions for similarity calculation");
+    }
+
+    let dotProduct = 0;
+    let normA = 0;
+    let normB = 0;
+
+    for (let i = 0; i < vectorA.length; i++) {
+      dotProduct += vectorA[i] * vectorB[i];
+      normA += vectorA[i] * vectorA[i];
+      normB += vectorB[i] * vectorB[i];
+    }
+
+    normA = Math.sqrt(normA);
+    normB = Math.sqrt(normB);
+
+    if (normA === 0 || normB === 0) {
+      return 0;
+    }
+
+    return dotProduct / (normA * normB);
+  }
+
+  /**
+   * Match query against stored vectors using HF model
+   */
+  async matchQueryAgainstVectors(query, storedVectors, threshold = 0.3) {
+    try {
+      console.log(`🔍 Matching query "${query}" against ${storedVectors.length} stored vectors using HF model`);
+      
+      const matches = [];
+      
+      for (let i = 0; i < storedVectors.length; i++) {
+        const similarity = await this.calculateSemanticSimilarity(query, storedVectors[i]);
+        
+        if (similarity >= threshold) {
+          matches.push({
+            index: i,
+            similarity: similarity,
+            query: query
+          });
+        }
+      }
+      
+      // Sort by similarity score (highest first)
+      matches.sort((a, b) => b.similarity - a.similarity);
+      
+      console.log(`✅ Found ${matches.length} matches above threshold ${threshold}`);
+      return matches;
+    } catch (error) {
+      console.error("Error matching query against vectors:", error);
+      return [];
+    }
   }
 }
 

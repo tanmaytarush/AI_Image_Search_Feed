@@ -4,216 +4,74 @@
     "image_id": "img_013",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Minimalist",
+      "theme": "Minimalist",
       "primary_features": [
-<<<<<<< HEAD
-        "Clean lines",
-        "Monochromatic color scheme",
-        "Integrated storage"
+        "Stone countertop",
+        "Modern cabinetry",
+        "Simple backsplash"
       ],
       "objects": [
         {
-          "type": "Kitchen cabinets",
+          "type": "Cabinet",
           "features": [
-            "Smooth finish",
-            "Natural wood texture"
-=======
-        "Black countertops",
-        "Wooden cabinetry",
-        "Integrated sink",
-        "Black stove",
-        "Shelving for spice jars"
-      ],
-      "objects": [
-        {
-          "type": "Countertop",
-          "features": [
-            "Black granite finish",
-            "Smooth surface"
+            "Light wood finish",
+            "Modern handles",
+            "Black countertops"
           ],
           "materials": [
-            "Granite"
-          ],
-          "finish": "High-gloss"
-        },
-        {
-          "type": "Cabinetry",
-          "features": [
-            "Natural wood finish",
-            "Contemporary handles"
->>>>>>> origin/main
-          ],
-          "materials": [
-            "Wood"
-          ],
-<<<<<<< HEAD
-          "finish": "High-gloss, light natural wood"
-        },
-        {
-          "type": "Countertop",
-          "features": [
-            "Black surface",
-            "Speckled texture"
-          ],
-          "materials": [
-            "Artificial stone"
-          ],
-          "finish": "Smooth, polished"
-        },
-        {
-          "type": "Backsplash",
-          "features": [
-            "Patterned texture",
-            "Speckled design"
-          ],
-          "materials": [
-            "Artificial stone"
-          ],
-          "finish": "Smooth, polished"
-        },
-        {
-          "type": "Appliances",
-          "features": [
-            "Integrated design",
-            "Modern look"
-=======
-          "finish": "Matte"
-        },
-        {
-          "type": "Sink",
-          "features": [
-            "Integrated design",
-            "Modern faucet"
-          ],
-          "materials": [
+            "Wood",
+            "Stone",
             "Metal"
           ],
-          "finish": "Brushed nickel"
-        },
-        {
-          "type": "Stove",
-          "features": [
-            "Modern design",
-            "Built-in"
->>>>>>> origin/main
-          ],
-          "materials": [
-            "Stainless steel"
-          ],
-<<<<<<< HEAD
-          "finish": "Polished chrome"
-=======
-          "finish": "Stainless steel"
-        },
-        {
-          "type": "Shelving",
-          "features": [
-            "Floating design",
-            "Black metal"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Black powder-coated"
->>>>>>> origin/main
+          "finish": "Sleek and polished"
         }
       ],
       "visual_attributes": {
         "colors": [
+          "Light wood",
           "Black",
-<<<<<<< HEAD
-          "White",
-          "Natural wood tones",
-          "Speckled gray"
+          "Neutral tones"
         ],
         "materials": [
           "Wood",
-          "Artificial stone",
-          "Stainless steel"
-        ],
-        "lighting": "Well-lit, soft ambient lighting",
-        "texture": "Smooth, polished surfaces"
-      },
-      "indian_context": {
-        "regional_style": "No clear regional influence",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Integration of traditional Indian craftsmanship with modern design"
-        ],
-        "space_utilization": "Efficient use of space with integrated storage solutions",
-        "cultural_significance": "Minimal use of culturally specific elements, more focus on modern aesthetics"
-=======
-          "Natural wood",
-          "White",
-          "Silver"
-        ],
-        "materials": [
-          "Granite",
-          "Wood",
+          "Stone",
           "Metal"
         ],
-        "lighting": "Integrated under-cabinet lighting",
-        "texture": "Smooth and matte finishes"
+        "lighting": "Neutral lighting, no visible natural light",
+        "texture": "Smooth and contemporary"
       },
       "indian_context": {
-        "regional_style": "Contemporary",
-        "traditional_elements": [
-          "Contemporary design",
-          "Use of wood"
-        ],
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist aesthetic",
-          "Integrated appliances"
+          "Contemporary design with traditional Indian influences"
         ],
-        "space_utilization": "Efficient and functional",
-        "cultural_significance": "Modern interpretation of traditional Indian kitchen aesthetics"
->>>>>>> origin/main
+        "space_utilization": "Efficient use of space with minimal decor",
+        "cultural_significance": "While not strictly Indian, the design leans towards a modern yet practical approach, reflecting broader Indian design trends"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior depicts a minimalist kitchen with a modern Indian aesthetic. The light wood cabinetry, black countertops, and stone backsplash create a clean, contemporary look. The design utilizes efficient space and avoids overtly traditional elements, reflecting a modern interpretation of Indian design principles.",
+      "metadata": {
+        "tags": [
+          "Minimalist kitchen",
+          "Modern Indian",
+          "Light wood",
+          "Black countertops",
+          "Stone backsplash"
+        ],
+        "budget_indicator": "Mid-range, due to the use of quality materials like wood and stone",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary cooking and food preparation area",
+        "indian_specific": "Contemporary Indian design approach with modern interpretations of traditional Indian elements"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-<<<<<<< HEAD
-    "description": "The kitchen showcases a modern minimalist design with clean lines, monochromatic color scheme, and integrated storage solutions. The use of smooth, polished surfaces and natural wood textures gives it a contemporary yet warm feel. There are no clear Indian regional influences or traditional elements present, focusing instead on a sleek, functional design that adheres to modern aesthetic trends.",
-    "metadata": {
-      "tags": [
-        "Modern kitchen",
-        "Minimalist design",
-        "Integrated storage",
-        "Natural wood",
-        "Black countertops",
-        "Speckled backsplash"
-      ],
-      "budget_indicator": "Moderate, with use of high-quality materials like polished wood and artificial stone",
-      "space_type": "Residential kitchen",
-      "functionality": "Primary purpose is cooking and food preparation",
-      "indian_specific": "No Indian-specific design features are visible; however, the use of natural wood textures can have cultural significance as wood has been traditionally used in Indian interiors for its durability and warmth."
     }
   },
-  "cached_at": 1753445916826,
-=======
-    "description": "A modern minimalist kitchen with sleek black countertops, natural wood cabinetry, and integrated appliances. The design emphasizes functionality and a clean, uncluttered look, with a touch of Indian-inspired natural wood elements.",
-    "metadata": {
-      "tags": [
-        "Kitchen",
-        "Modern Minimalist",
-        "Black Countertops",
-        "Wooden Cabinetry",
-        "Integrated Sink",
-        "Black Stove",
-        "Shelving"
-      ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Efficient and Functional",
-      "indian_specific": "Modern Adaptation of Indian Kitchen Aesthetics"
-    }
-  },
-  "cached_at": 1753179297365,
->>>>>>> origin/main
+  "cached_at": 1753874947834,
   "cache_key": "a05ddda4783500ecda7cc2939c420666"
 }

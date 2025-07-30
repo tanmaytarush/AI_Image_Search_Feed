@@ -3,165 +3,77 @@
   "analysis": {
     "image_id": "img_041",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Bedroom",
-      "theme": "Modern Indian",
+      "room": "Walk-in wardrobe",
+      "theme": "Modern Indian design with traditional influences",
       "primary_features": [
-        "Built-in wardrobes",
-        "Storage units",
-        "Desk"
+        "Built-in wardrobe with multiple storage compartments",
+        "Compact organization",
+        "Integrated lighting"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Built-in wardrobe",
           "features": [
-            "Double doors",
-            "Mirror panel",
-            "Shelves"
+            "Multiple compartments for storage",
+            "Integrated mirror",
+            "Built-in desk space"
           ],
           "materials": [
-            "Painted wood",
-            "Metal hardware"
+            "MDF or similar",
+            "Painted finish"
           ],
-          "finish": "Glossy paint with metallic knobs"
-        },
-        {
-          "type": "Desk",
-          "features": [
-            "Built-in design",
-            "Storage drawers"
-          ],
-          "materials": [
-            "Painted wood",
-            "Metal hardware"
-          ],
-          "finish": "Glossy paint with metallic knobs"
-=======
-      "room": "Bedroom/Study",
-      "theme": "Modern Indian",
-      "primary_features": [
-        "Built-in wardrobes",
-        "Study desk",
-        "Storage units"
-      ],
-      "objects": [
-        {
-          "type": "Built-in Wardrobe",
-          "features": [
-            "Vertical layout",
-            "Color-block design with green and yellow",
-            "Modern handles"
-          ],
-          "materials": [
-            "Plywood"
-          ],
-          "finish": "Matte finish"
-        },
-        {
-          "type": "Study Desk",
-          "features": [
-            "Integrated into the wardrobe structure",
-            "White surface",
-            "Minimalistic design"
-          ],
-          "materials": [
-            "Plywood"
-          ],
-          "finish": "Matte finish"
->>>>>>> origin/main
+          "finish": "Smooth, glossy finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Green",
-<<<<<<< HEAD
           "Yellow",
-          "Beige"
+          "Pink"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Paint"
+          "MDF, Paint"
         ],
-        "lighting": "Natural light with ambient lighting from the wardrobe",
+        "lighting": "Integrated LED lights",
         "texture": "Smooth, glossy finish"
       },
       "indian_context": {
-        "regional_style": "No specific regional style evident, but a modern interpretation of traditional design",
+        "regional_style": "Not distinctly regional, but incorporates elements typical of Indian design",
         "traditional_elements": [
-          "Built-in furniture",
-          "Mirror panel"
+          "Integrated mirror",
+          "Built-in storage"
         ],
         "modern_adaptations": [
-          "Minimalistic design",
-          "Glossy finish"
+          "Compact design with modern materials"
         ],
-        "space_utilization": "Efficient use of vertical space for storage",
-        "cultural_significance": "Reflects a contemporary approach to Indian interior design, merging functionality with aesthetics"
-=======
-          "Yellow"
-        ],
-        "materials": [
-          "Plywood"
-        ],
-        "lighting": "Natural light from an unseen window, artificial light from within the wardrobe units",
-        "texture": "Smooth surfaces with a modern aesthetic"
-      },
-      "indian_context": {
-        "regional_style": "Not explicitly regional, but aligns with urban Indian designs",
-        "traditional_elements": [
-          "Not explicitly traditional, but modern interpretations of organized storage"
-        ],
-        "modern_adaptations": [
-          "Integrated furniture design, color-blocking"
-        ],
-        "space_utilization": "Highly efficient use of space for storage and functionality",
-        "cultural_significance": "Emphasis on organization and functionality, key in Indian home design"
->>>>>>> origin/main
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Emphasis on functionality and storage, reflecting Indian home organization"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.85,
+      "theme": 0.78,
+      "primary_features": 0.9,
+      "objects": 0.95,
+      "indian_context": 0.82
     },
-<<<<<<< HEAD
-    "description": "The image showcases a modern Indian bedroom with efficient use of space through built-in wardrobes and a desk. The design features a mix of traditional Indian elements, such as the mirror panel, and modern adaptations, like the glossy finish and minimalist design. The color palette, primarily white with green and yellow accents, is typical of contemporary Indian interiors, reflecting both tradition and modernity. The space is well-lit with both natural light and ambient lighting from the wardrobe, creating a bright and functional environment.",
+    "description": "The image showcases a modern Indian walk-in wardrobe with efficient space utilization. The built-in design includes multiple storage compartments, an integrated desk, and a mirror, reflecting a blend of functionality and traditional Indian design elements like built-in storage. The color palette of white, green, yellow, and pink is typical of Indian interiors, creating a bright and cheerful space. The design incorporates modern materials and finishing techniques, highlighting contemporary Indian interior design trends.",
     "metadata": {
       "tags": [
-        "Modern Indian",
-        "Bedroom",
-        "Built-in furniture",
-        "Efficient storage",
-        "Glossy finish"
+        "Indian interior design",
+        "Walk-in wardrobe",
+        "Modern Indian style",
+        "Built-in storage",
+        "Compact design",
+        "Colorful palette"
       ],
-      "budget_indicator": "Moderate, with a focus on functional and aesthetic elements",
+      "budget_indicator": "Moderate, with use of MDF and painted finishes",
       "space_type": "Residential",
-      "functionality": "Storage and workspace",
-      "indian_specific": "Efficiency and functionality in a modern interpretation of traditional Indian design"
+      "functionality": "Storage and organization",
+      "indian_specific": "Integrated mirror and built-in storage"
     }
   },
-  "cached_at": 1753446612836,
-=======
-    "description": "The image showcases a modern Indian bedroom or study area with a focus on efficient space utilization. The built-in wardrobes, featuring a color-block design in green and yellow, are a modern interpretation of traditional storage solutions. The study desk is seamlessly integrated into the wardrobe structure, emphasizing a clean and organized look. The overall design utilizes smooth, matte-finished surfaces typical in contemporary Indian interiors, with a strong emphasis on functionality and space optimization.",
-    "metadata": {
-      "tags": [
-        "Modern Indian",
-        "Built-in Wardrobe",
-        "Color Blocking",
-        "Efficient Storage",
-        "Urban Indian Design"
-      ],
-      "budget_indicator": "Moderate, with the use of high-quality materials like plywood for the wardrobes",
-      "space_type": "Bedroom/Study",
-      "functionality": "Primary purpose is to provide storage and a study space",
-      "indian_specific": "Modern adaptations of traditional Indian storage solutions"
-    }
-  },
-  "cached_at": 1753181154808,
->>>>>>> origin/main
+  "cached_at": 1753875407803,
   "cache_key": "bae832fe6caac323bc8d5cae0dbdedbf"
 }

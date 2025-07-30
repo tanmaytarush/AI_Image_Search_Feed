@@ -42,8 +42,8 @@ class ImageService {
 
       console.log(`🔍 Enhanced search for: "${query}"`);
       
-      // Get vector embedding for semantic search
-      const queryVector = await qdrantService.getEmbedding(query.trim());
+      // Get vector embedding for semantic search (384 dimensions)
+      const queryVector = await this.getValidatedEmbedding(query.trim(), "search_query");
       
       // Perform initial vector search with larger limit for filtering
       const searchResults = await qdrantService.client.search(
@@ -445,6 +445,25 @@ class ImageService {
         matched_fields: matchedFields
       };
     });
+  }
+
+  /**
+   * Validate that all embeddings use 384 dimensions
+   */
+  validateEmbeddingDimensions(embedding, context = "unknown") {
+    if (!Array.isArray(embedding) || embedding.length !== 384) {
+      throw new Error(`Invalid embedding dimensions in ${context}: expected 384, got ${embedding?.length || 'undefined'}`);
+    }
+    return true;
+  }
+
+  /**
+   * Get embedding with validation for 384 dimensions
+   */
+  async getValidatedEmbedding(text, context = "search") {
+    const embedding = await qdrantService.getEmbedding(text);
+    this.validateEmbeddingDimensions(embedding, context);
+    return embedding;
   }
 
   // Private helper methods

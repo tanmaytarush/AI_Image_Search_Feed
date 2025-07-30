@@ -3,154 +3,48 @@
   "analysis": {
     "image_id": "img_016",
     "ai_generated_tags": {
-      "room": "Bathroom",
-<<<<<<< HEAD
-      "theme": "Contemporary Indian Style",
+      "room": "Washroom",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Modern vanity with marble top",
-        "Wooden cabinet with glass doors",
-        "Round mirror with wooden frame",
-        "Pendant lights with brass finish"
-      ],
-      "objects": [
-        {
-          "type": "Round mirror",
-          "features": [
-            "Circular shape",
-            "Wooden frame",
-            "Wall-mounted"
-          ],
-          "materials": [
-            "Wood",
-            "Glass"
-          ],
-          "finish": "Natural wood finish, clear glass frame"
-        },
-        {
-          "type": "Vanity",
-          "features": [
-            "Marble countertop",
-            "Wooden cabinet with glass doors",
-            "Integrated sink"
-          ],
-          "materials": [
-            "Marble",
-            "Wood",
-            "Glass"
-          ],
-          "finish": "Polished marble, stained wood, frosted glass"
-        },
-        {
-          "type": "Pendant lights",
-          "features": [
-            "Gold pendant lights",
-            "Long cords",
-            "Sleek design"
-          ],
-          "materials": [
-            "Metal",
-            "Glass"
-          ],
-          "finish": "Gold finish, frosted glass shades"
-=======
-      "theme": "Modern",
-      "primary_features": [
-        "Marble flooring",
+        "Marble floor",
         "Wooden vanity",
-        "Wall-mounted sink",
-        "Round mirror"
+        "Round mirror",
+        "Gold pendant lights"
       ],
       "objects": [
         {
           "type": "Vanity",
           "features": [
             "Wooden finish",
-            "Wall-mounted",
-            "Open shelving"
+            "Integrated countertop",
+            "Circular design"
           ],
           "materials": [
-            "Wood",
-            "Marble"
+            "Wood, marble"
           ],
-          "finish": "Natural wood and polished marble"
-        },
-        {
-          "type": "Sink",
-          "features": [
-            "Wall-mounted",
-            "Round"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Mirror",
-          "features": [
-            "Round",
-            "Wall-mounted"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Metallic"
-        },
-        {
-          "type": "Lighting",
-          "features": [
-            "Modern pendant lights"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Gold"
-        },
-        {
-          "type": "Flooring",
-          "features": [
-            "Marble tiles"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Polished"
->>>>>>> origin/main
+          "finish": "Satin"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
           "White marble",
           "Brown wood",
-          "Gold pendant lights",
-          "Green wall cabinets"
-=======
-          "White",
-          "Brown",
-          "Gold"
->>>>>>> origin/main
+          "Gold accents"
         ],
         "materials": [
-          "Marble",
-          "Wood",
-<<<<<<< HEAD
-          "Glass",
-          "Metal"
+          "Marble, wood, glass"
         ],
-        "lighting": "Bright, artificial lighting from pendant lights",
-        "texture": "Smooth marble surfaces, textured wood grain"
+        "lighting": "Soft, ambient lighting from pendant lights",
+        "texture": "Smooth marble, textured wood, reflective glass"
       },
       "indian_context": {
-        "regional_style": "Not specific regional style visible",
-        "traditional_elements": [
-          "Wooden cabinet with glass doors"
-        ],
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Contemporary design with modern materials and lighting"
+          "Contemporary design with wood and marble"
         ],
-        "space_utilization": "Efficient use of space with integrated cabinetry and storage",
-        "cultural_significance": "Reflects modern Indian interior design trends with a focus on functionality and aesthetics"
+        "space_utilization": "Efficient use of vertical space with a wall-mounted vanity",
+        "cultural_significance": "The use of marble and wood reflects the traditional materials valued in Indian interiors"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -159,65 +53,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The bathroom showcases a contemporary Indian style with a blend of modern and traditional elements. The space features a sleek vanity with a marble top and wooden cabinet with glass doors, reflecting a modern Indian aesthetic. The round mirror with a wooden frame and the gold pendant lights add traditional touches, while the overall layout and design emphasize functionality and contemporary Indian design principles. The use of white marble and brown wood creates a sophisticated and clean look, with the green wall cabinets adding a pop of color. The lighting is bright and artificial, typical of modern bathrooms.",
+      "description": "This contemporary Indian washroom features a modern design with a blend of traditional and modern elements. The use of white marble for the floor and walls, combined with a wooden vanity and gold accents, creates a sophisticated yet warm atmosphere. The space efficiently uses vertical space with a wall-mounted vanity, and the overall design is clean and minimalistic, reflecting an urban modern Indian aesthetic.",
       "metadata": {
         "tags": [
-          "Contemporary Indian Style",
-          "Marble Vanity",
-          "Wooden Cabinet",
-          "Round Mirror",
-          "Gold Pendant Lights"
+          "Contemporary Indian",
+          "Marble",
+          "Wooden vanity",
+          "Round mirror",
+          "Gold accents"
         ],
-        "budget_indicator": "Mid-range to high-end, given the use of marble and modern materials",
-        "space_type": "Residential bathroom",
-        "functionality": "Primary purpose is for personal hygiene and grooming",
-        "indian_specific": "Contemporary adaptation of traditional wooden cabinet design"
+        "budget_indicator": "Moderate, with the use of marble and wood",
+        "space_type": "Washroom",
+        "functionality": "Personal hygiene and grooming",
+        "indian_specific": "Marble and wood are traditional materials in Indian interiors, symbolizing luxury and elegance"
       }
     }
   },
-  "cached_at": 1753445994797,
-=======
-          "Metal"
-        ],
-        "lighting": "Modern pendant lights",
-        "texture": "Smooth"
-      },
-      "indian_context": {
-        "regional_style": "Modern",
-        "traditional_elements": [
-          "Wooden accents"
-        ],
-        "modern_adaptations": [
-          "Marble and metallic finishes"
-        ],
-        "space_utilization": "Efficient use of space",
-        "cultural_significance": "Minimalistic design with modern interpretation of traditional materials"
-      }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This image showcases a modern bathroom with sleek and minimalist design elements. The space features marble flooring, a wooden vanity, and a wall-mounted sink with a round mirror. The lighting includes modern pendant lights, adding a touch of sophistication. The color scheme is dominated by white, brown, and gold, creating a clean and luxurious atmosphere.",
-    "metadata": {
-      "tags": [
-        "bathroom",
-        "modern",
-        "marble",
-        "wooden",
-        "wall-mounted",
-        "round mirror"
-      ],
-      "budget_indicator": "High",
-      "space_type": "Bathroom",
-      "functionality": "Efficient and stylish",
-      "indian_specific": "Modern interpretation of traditional materials"
-    }
-  },
-  "cached_at": 1753179488733,
->>>>>>> origin/main
+  "cached_at": 1753875032089,
   "cache_key": "2f6d621c2ef1f543c84c10255eb01111"
 }

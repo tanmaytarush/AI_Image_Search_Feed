@@ -3,189 +3,91 @@
   "analysis": {
     "image_id": "img_022",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Bedroom",
-      "theme": "Minimalist",
+      "room": "home office",
+      "theme": "modern minimalist",
       "primary_features": [
-        "Integrated wardrobe and desk setup",
-        "Storage shelves"
-=======
-      "room": "Bedroom with Study Area",
-      "theme": "Minimalist Modern",
-      "primary_features": [
-        "Built-in Wardrobe",
-        "Desk with Chair",
-        "Open Shelving"
->>>>>>> origin/main
+        "integrated workspace with built-in storage",
+        "customized shelving units",
+        "modern desk and chair"
       ],
       "objects": [
         {
-          "type": "Desk",
+          "type": "desk",
           "features": [
-<<<<<<< HEAD
-            "Fitted with a laptop and notebooks"
+            "light wood finish",
+            "cabinet storage underneath",
+            "matching built-in shelving above"
           ],
           "materials": [
-            "Wooden top, metal frame"
+            "wood",
+            "painted metal"
           ],
-          "finish": "Matte finish with a natural wood texture"
-=======
-            "Wooden Top",
-            "Integrated Drawer"
-          ],
-          "materials": [
-            "Wood",
-            "Metal"
-          ],
-          "finish": "Satin Finish"
->>>>>>> origin/main
+          "finish": "smooth, matte"
         },
         {
-          "type": "Chair",
+          "type": "chair",
           "features": [
-<<<<<<< HEAD
-            "Gray upholstery, metal legs"
+            "fabric upholstery",
+            "wooden base",
+            "ergonomic design"
           ],
           "materials": [
-            "Fabric, metal"
+            "fabric",
+            "wood"
           ],
-          "finish": "Smooth fabric, metallic sheen"
-=======
-            "Textured Upholstery",
-            "Metal Frame"
-          ],
-          "materials": [
-            "Textile",
-            "Metal"
-          ],
-          "finish": "Matte Finish"
->>>>>>> origin/main
-        },
-        {
-          "type": "Wardrobe",
-          "features": [
-<<<<<<< HEAD
-            "Sliding doors, multi-shelf interior"
-          ],
-          "materials": [
-            "MDF, wood paneling"
-          ],
-          "finish": "Satin finish, wood grain"
-        },
-        {
-          "type": "Shelving",
-          "features": [
-            "Open wooden shelves with built-in lighting"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural wood, matte finish"
-=======
-            "Sliding Doors",
-            "Integrated Shelving"
-          ],
-          "materials": [
-            "Wood",
-            "Metal"
-          ],
-          "finish": "Painted Finish"
->>>>>>> origin/main
+          "finish": "wool-like texture, natural wood grain"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "White, light gray, natural wood, metallic, cream"
+          "white",
+          "light oak",
+          "gray",
+          "beige"
         ],
         "materials": [
-          "MDF, wood, metal, fabric, glass"
+          "wood",
+          "metal",
+          "fabric"
         ],
-        "lighting": "Natural light with built-in overhead lighting",
-        "texture": "Smooth MDF, natural wood grain, matte metal, soft fabric"
+        "lighting": "soft, diffused lighting from above",
+        "texture": "smooth metal, woven fabric, polished wood"
       },
       "indian_context": {
-        "regional_style": "Not indicative of a specific regional style",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Modern adaptations of traditional Indian elements like wood carvings and intricate designs are absent; however, the use of wood and metallic accents can be seen as modern interpretations of traditional materials"
+        "regional_style": "northern India",
+        "traditional_elements": [
+          "carved wooden furniture not observed",
+          "no religious or cultural decorative elements"
         ],
-        "space_utilization": "The space is optimized for multifunctional use with a desk and wardrobe integrated into the design",
-        "cultural_significance": "The design does not carry cultural significance related to Indian design elements; it leans more towards modern minimalism"
+        "modern_adaptations": [
+          "integration of modern furniture with traditional design principles"
+        ],
+        "space_utilization": "efficient use of wall space for storage and functional desk space",
+        "cultural_significance": "Minimalist design with clean lines aligns with modern aesthetic rather than traditional Indian design elements"
       },
       "confidence_scores": {
-        "room": 0.8,
-        "theme": 0.75,
-        "primary_features": 0.85,
-        "objects": 0.88,
-        "indian_context": 0.65
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.92,
+        "indian_context": 0.8
       },
-      "description": "The image showcases a modern minimalistic bedroom with a built-in wardrobe and desk setup, featuring clean lines and a neutral color palette. The integration of wooden shelves adds a natural touch, which could be seen as a modern adaptation of traditional Indian design elements. The room is optimized for functionality, blending practical storage with a sleek design.",
+      "description": "The image showcases a modern minimalist home office with a clean, organized layout. The workspace features a smooth, light wood desk with built-in storage and matching wall-mounted shelving that adds functionality without overwhelming the space. A modern chair with fabric upholstery and wooden base complements the desk, creating a cohesive design. The use of white walls and light wood tones gives the room a bright and airy feel, while soft lighting enhances the overall aesthetic. The room lacks any traditional Indian design elements, focusing instead on contemporary simplicity and efficiency.",
       "metadata": {
         "tags": [
-          "Minimalist bedroom",
-          "Integrated furniture",
-          "Modern design",
-          "Neutral color scheme",
-          "Minimalist bedroom design"
+          "modern interior",
+          "minimalist design",
+          "home office",
+          "integrated storage",
+          "contemporary furniture"
         ],
-        "budget_indicator": "Moderate, with the use of materials like MDF, wood, and metal indicating a middle budget",
-        "space_type": "Bedroom",
-        "functionality": "Primary purpose is multifunctional use, serving as a workspace and wardrobe area",
-        "indian_specific": "No Indian-specific design features are present; however, the use of wood and metallic accents can be seen as modern interpretations of traditional materials"
+        "budget_indicator": "moderate, with quality materials used for the desk and chair",
+        "space_type": "residential",
+        "functionality": "primary purpose is to serve as a dedicated workspace and study area",
+        "indian_specific": "no Indian-specific design features are present"
       }
     }
   },
-  "cached_at": 1753446146119,
-=======
-          "White",
-          "Light Wood",
-          "Grey"
-        ],
-        "materials": [
-          "Wood",
-          "Metal",
-          "Textile"
-        ],
-        "lighting": "Indirect Lighting",
-        "texture": "Smooth"
-      },
-      "indian_context": {
-        "regional_style": "Modular Bedroom Design",
-        "traditional_elements": [
-          "No Traditional Elements"
-        ],
-        "modern_adaptations": [
-          "Integrated Storage Solutions",
-          "Compact Design"
-        ],
-        "space_utilization": "Efficient Use of Space",
-        "cultural_significance": "No Cultural Significance Specific to Indian Context"
-      }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This image showcases a modern minimalist bedroom with a built-in wardrobe and a desk with a chair, all integrated into a single unit. The design emphasizes clean lines and efficient use of space, with a color palette that includes white, light wood, and grey tones. The desk is equipped with a wooden top and integrated drawer, while the chair boasts textured upholstery with a metallic frame. The wardrobe features sliding doors and integrated shelving, all painted in a light wood finish.",
-    "metadata": {
-      "tags": [
-        "Minimalist",
-        "Modern",
-        "Bedroom",
-        "Built-in Storage",
-        "Integrated Design"
-      ],
-      "budget_indicator": "Moderate",
-      "space_type": "Bedroom",
-      "functionality": "Living and Working",
-      "indian_specific": "No Indian-Specific Features"
-    }
-  },
-  "cached_at": 1753179501732,
->>>>>>> origin/main
+  "cached_at": 1753875173035,
   "cache_key": "7350ef873348e18530665efa7c283d06"
 }

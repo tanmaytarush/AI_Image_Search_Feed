@@ -1,0 +1,132 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00678.JPG",
+  "analysis": {
+    "image_id": "img_005",
+    "ai_generated_tags": {
+      "room": "Sitting Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden ceiling beams",
+        "Carved wooden door",
+        "Brown sofa with cushions",
+        "Marble flooring",
+        "Patterned curtains",
+        "Decorative wall sconces"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Brown upholstery",
+            "Curved armrests",
+            "Sequin pillow"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Velvet-like finish"
+        },
+        {
+          "type": "Decorative Wall Sconce",
+          "features": [
+            "Copper finish",
+            "Decorative design"
+          ],
+          "materials": [
+            "Copper",
+            "Glass"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Carved Wooden Door",
+          "features": [
+            "Decorative carvings",
+            "Brass accents",
+            "Panel design"
+          ],
+          "materials": [
+            "Wood",
+            "Brass"
+          ],
+          "finish": "Polished wood, brass accents"
+        },
+        {
+          "type": "Wooden Ceiling Beams",
+          "features": [
+            "Exposed beams"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood"
+        },
+        {
+          "type": "Patterned Curtains",
+          "features": [
+            "Tree branch pattern",
+            "Sheer fabric"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Printed pattern"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "Beige",
+          "White",
+          "Green",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Fabric",
+          "Glass"
+        ],
+        "lighting": "Natural light from the window, complemented by decorative wall sconces",
+        "texture": "Sleek marble floor, plush sofa fabric, carved wood, sheer curtains"
+      },
+      "indian_context": {
+        "regional_style": "Southern Indian",
+        "traditional_elements": [
+          "Carved wooden door",
+          "Copper wall sconces"
+        ],
+        "modern_adaptations": [
+          "Contemporary sofa",
+          "Sheer curtains"
+        ],
+        "space_utilization": "Efficient use of the space with a sofa placed near the window for natural light and a small table for decor",
+        "cultural_significance": "The wooden door and carved designs reflect Southern Indian architectural influences, often seen in family homes. The use of copper sconces is also common in Southern Indian homes, symbolizing prosperity and good fortune."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a contemporary Indian sitting room with a blend of traditional and modern elements. The space features a carved wooden door with brass accents, exposed wooden ceiling beams, and a plush brown sofa with a decorative pillow. The room is illuminated by natural light from patterned curtains and a wall-mounted light fixture. The marble flooring adds a touch of elegance, while the overall color palette includes earthy tones and neutral hues. The space is organized to maximize comfort and functionality, with a small table placed near the sofa for decorative purposes.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Southern Indian",
+        "Carved door",
+        "Marble flooring",
+        "Brown sofa",
+        "Decorative wall sconces"
+      ],
+      "budget_indicator": "Moderate, with the use of high-quality materials such as marble and polished wood",
+      "space_type": "Living Room",
+      "functionality": "Relaxation and socializing",
+      "indian_specific": "Carved wooden door, copper wall sconces, brown sofa with cushions"
+    }
+  },
+  "cached_at": 1753874749935,
+  "cache_key": "ce27d1bac24ece493a84a711e15f0199"
+}

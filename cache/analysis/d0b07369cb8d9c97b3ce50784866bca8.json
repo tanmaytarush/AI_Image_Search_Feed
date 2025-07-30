@@ -3,182 +3,104 @@
   "analysis": {
     "image_id": "img_017",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Living Room",
-      "theme": "Minimalist Modern",
+      "room": "Living room with integrated dining area",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Open floor plan",
-        "Minimalist furniture",
-        "Neutral color palette"
+        "Modern furniture",
+        "Open space layout",
+        "Decorative elements"
       ],
       "objects": [
         {
           "type": "Sofa",
           "features": [
-            "Textured upholstery",
-            "Armrests"
-=======
-      "room": "Living and Dining Area",
-      "theme": "Contemporary Indian Minimalism",
-      "primary_features": [
-        "Glass coffee table",
-        "Modern sofa set",
-        "Marble counter",
-        "Dining area with modern chairs"
-      ],
-      "objects": [
+            "Tufted design",
+            "Light gray upholstery"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Matte finish"
+        },
         {
-          "type": "Glass coffee table",
+          "type": "Coffee table",
           "features": [
-            "Round shape",
-            "Metal frame"
+            "Glass top",
+            "Curved wooden base"
           ],
           "materials": [
             "Glass",
-            "Metal"
+            "Wood"
           ],
-          "finish": "Smooth glass top with metallic edge"
+          "finish": "Glossy glass, polished wood"
         },
         {
-          "type": "Modern sofa set",
+          "type": "Dining set",
           "features": [
-            "L-shaped design",
-            "Patterned cushions",
-            "Neutral upholstery"
->>>>>>> origin/main
+            "Marble top table",
+            "Gold metal frame",
+            "White upholstered chairs"
           ],
           "materials": [
-            "Fabric"
-          ],
-<<<<<<< HEAD
-          "finish": "Smooth"
-        },
-        {
-          "type": "Coffee Table",
-          "features": [
-            "Round shape",
-            "Glass top"
-          ],
-          "materials": [
-            "Metal base, Glass top"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Dining Table",
-          "features": [
-            "Rectangular shape",
-            "Metal legs"
-          ],
-          "materials": [
-            "Marble top",
-            "Metal legs"
-          ],
-          "finish": "Smooth, Polished"
-=======
-          "finish": "Smooth texture, soft touch"
-        },
-        {
-          "type": "Marble counter",
-          "features": [
-            "Decorative pattern",
-            "Cabinet underneath"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Polished marble surface"
-        },
-        {
-          "type": "Dining area with modern chairs",
-          "features": [
-            "Rectangle table",
-            "Metallic legs",
-            "Soft upholstery"
-          ],
-          "materials": [
+            "Marble",
             "Metal",
             "Fabric"
           ],
-          "finish": "Metallic frame, soft upholstery"
->>>>>>> origin/main
+          "finish": "Polished marble, shiny metal, smooth fabric"
+        },
+        {
+          "type": "Wall decor",
+          "features": [
+            "Metal starburst design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Painted finish"
+        },
+        {
+          "type": "Wall cabinet",
+          "features": [
+            "Glass doors",
+            "Open shelves"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Metallic, clear glass"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "White, Light Grey, Beige, Silver, Black"
-        ],
-        "materials": [
-          "Marble",
-          "Metal",
-          "Glass",
-          "Wood"
-        ],
-        "lighting": "Natural light from unseen windows, supplemented by hanging lights",
-        "texture": "Smooth, Polished surfaces"
-      },
-      "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [
-          "Not applicable"
-        ],
-        "modern_adaptations": [
-          "Cultural elements adapted into modern designs"
-        ],
-        "space_utilization": "Open and uncluttered, maximizing space for social interaction",
-        "cultural_significance": "Cultural relevance in terms of modern interpretations of clean and sleek living spaces"
-      }
-    },
-    "confidence_scores": {
-      "room": 0.85,
-      "theme": 0.82,
-      "primary_features": 0.88,
-      "objects": 0.9,
-      "indian_context": 0.7
-    },
-    "description": "The interior showcases a modern interpretation of Indian design elements, emphasizing clean lines and a neutral color palette. The living room features a minimalist sofa with textured upholstery, a sleek glass coffee table, and a dining area with a marble table and metal chairs. The design is contemporary, with a focus on open space and natural lighting, reflecting a modern take on Indian aesthetics.",
-    "metadata": {
-      "tags": [
-        "Minimalist Modern",
-        "Indian Design",
-        "Neutral Color Palette",
-        "Open Floor Plan",
-        "Living Room"
-      ],
-      "budget_indicator": "Moderate, with materials like marble, metal, and glass indicating a mid-range budget.",
-      "space_type": "Residential Living Room",
-      "functionality": "Primary purpose is for socializing and relaxation, combining living and dining areas.",
-      "indian_specific": "Modern adaptions of traditional Indian elements, such as the use of marble and metal in contemporary designs."
-    }
-  },
-  "cached_at": 1753446023885,
-=======
-          "White",
           "Gray",
-          "Brown",
+          "White",
           "Gold",
-          "Neutral"
+          "Dark gray",
+          "Green"
         ],
         "materials": [
-          "Marble",
           "Glass",
+          "Wood",
           "Metal",
+          "Marble",
           "Fabric"
         ],
-        "lighting": "Natural lighting from unseen windows",
-        "texture": "Smooth surfaces with a mix of metallic, glass, and fabric textures"
+        "lighting": "Soft ambient light, no direct sunlight",
+        "texture": "Smooth surfaces, glossy finishes"
       },
       "indian_context": {
-        "regional_style": "Not specifically indicative of a regional style",
+        "regional_style": "Not distinctly regional, more modern interpretation",
         "traditional_elements": [
-          "No traditional Indian elements visible"
+          "Gold accents",
+          "Circular wall decor"
         ],
         "modern_adaptations": [
-          "Minimalist design with modern furniture and materials"
+          "Minimalist furniture",
+          "Open space design"
         ],
-        "space_utilization": "Open plan with kitchen, living, and dining area seamlessly integrated",
-        "cultural_significance": "No traditional Indian cultural elements present"
+        "space_utilization": "Efficient use of open space with minimal partitions",
+        "cultural_significance": "Integration of cultural elements without heavy regional influences"
       }
     },
     "confidence_scores": {
@@ -188,22 +110,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image showcases a modern Indian interior with a contemporary design approach. The living room features a stylish glass coffee table with a metallic frame, complementing a modern L-shaped sofa with patterned cushions. The dining area is seamlessly integrated into the living space, featuring a rectangular marble counter with a simple cabinet underneath. The room is well-lit with natural light, emphasizing clean lines and neutral tones, while modern materials like marble, glass, and metal are used throughout. The space is designed for both functionality and aesthetics, blending contemporary Indian design with minimalistic elements.",
+    "description": "This modern Indian living room with integrated dining area features contemporary furniture and design elements, such as a sleek sofa with a tufted design and a curved coffee table with a glass top. The space incorporates traditional Indian decorative elements, like the circular wall decor and gold accents, while maintaining a minimalist and contemporary aesthetic. The color palette is neutral with pops of white, gray, and gold, and the space is well-lit with soft ambient lighting, creating a sophisticated and inviting atmosphere.",
     "metadata": {
       "tags": [
-        "Modern Indian Interior",
-        "Contemporary Design",
-        "Minimalist Living",
-        "Glass Furniture",
-        "Marble Counters"
+        "Living room",
+        "Modern Indian",
+        "Contemporary design",
+        "Open space",
+        "Neutral color palette"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential Living Area",
-      "functionality": "Mixed-use living and dining space",
-      "indian_specific": "No traditional Indian design features"
+      "budget_indicator": "Moderate, utilizing high-quality materials",
+      "space_type": "Residential living and dining area",
+      "functionality": "Primary living and dining space",
+      "indian_specific": "Modern interpretation of traditional Indian design elements"
     }
   },
-  "cached_at": 1753182359216,
->>>>>>> origin/main
+  "cached_at": 1753875055390,
   "cache_key": "d0b07369cb8d9c97b3ce50784866bca8"
 }

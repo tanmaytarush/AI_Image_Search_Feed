@@ -3,157 +3,67 @@
   "analysis": {
     "image_id": "img_015",
     "ai_generated_tags": {
-<<<<<<< HEAD
       "room": "Living room",
-      "theme": "Modern Indian Contemporary",
+      "theme": "Modern eclectic",
       "primary_features": [
-        "Walk-in wardrobe",
-        "Shelving unit",
-        "Marble flooring",
-        "Sofa with cushions",
-        "Ceiling fan"
-      ],
-      "objects": [
-        {
-          "type": "Walk-in wardrobe",
-          "features": [
-            "Dark wood finish",
-            "Dual doors"
-          ],
-          "materials": [
-            "Dark wood"
-          ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Shelving unit",
-          "features": [
-            "Illuminated shelves",
-            "Marble counter",
-            "Wine rack",
-            "Decorative items"
-          ],
-          "materials": [
-            "Marble",
-            "Dark wood",
-=======
-      "room": "Living Room",
-      "theme": "Modern Indian",
-      "primary_features": [
-        "Sofa",
-        "Coffee table",
-        "Wine rack",
+        "Open shelving unit",
         "Marble floor",
-        "Wooden partition"
+        "Marble countertop",
+        "Dark wood cabinets",
+        "Greenery under coffee table"
       ],
       "objects": [
-        {
-          "type": "Sofa",
-          "features": [
-            "Beige fabric",
-            "Patterned cushions"
-          ],
-          "materials": [
-            "Leather"
-          ],
-          "finish": "Smooth"
-        },
         {
           "type": "Coffee table",
           "features": [
-            "Black glass",
-            "Gold rim"
+            "Metal frame with glass top"
           ],
           "materials": [
-            "Glass",
->>>>>>> origin/main
-            "Metal"
+            "Metal",
+            "Glass"
           ],
-          "finish": "Matte"
+          "finish": "Reflective metal, smooth glass"
         },
         {
-<<<<<<< HEAD
           "type": "Sofa",
           "features": [
-            "Cream fabric",
+            "Beige upholstery",
             "Patterned cushions"
           ],
           "materials": [
-            "Fabric",
-            "Cushion covers"
+            "Fabric"
           ],
-          "finish": "Matte"
-=======
-          "type": "Wine rack",
-          "features": [
-            "Lighting",
-            "Shelving",
-            "Wine glasses"
-          ],
-          "materials": [
-            "Marble",
-            "Wood"
-          ],
-          "finish": "Polished"
->>>>>>> origin/main
+          "finish": "Soft fabric texture"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "Cream",
-          "Dark brown",
+          "Beige",
+          "Brown",
           "White",
-          "Marble gray"
+          "Green",
+          "Burgundy"
         ],
         "materials": [
-          "Wood",
           "Marble",
+          "Wood",
           "Metal",
+          "Glass",
           "Fabric"
         ],
-        "lighting": "Ambient lighting with recessed lights and shelves with built-in lighting",
-        "texture": "Smooth surfaces"
+        "lighting": "Natural light with ceiling lights and under-shelf lighting",
+        "texture": "Smooth marble, glossy metal, soft fabric"
       },
       "indian_context": {
-        "regional_style": "Not specifically Indian regional style",
+        "regional_style": "Not highly regionalized",
         "traditional_elements": [
-          "Not applicable"
+          "None visible"
         ],
         "modern_adaptations": [
-          "Integration of traditional Indian materials and color schemes with modern design"
+          "Marble and metal elements with modern design"
         ],
-        "space_utilization": "Efficient use of vertical space with shelving and wardrobe",
-        "cultural_significance": "Cultural elements are modern interpretations of traditional Indian design elements"
-=======
-          "Beige",
-          "Black",
-          "Gold",
-          "White",
-          "Brown"
-        ],
-        "materials": [
-          "Marble",
-          "Wood",
-          "Metal",
-          "Leather"
-        ],
-        "lighting": "Ambient",
-        "texture": "Smooth"
-      },
-      "indian_context": {
-        "regional_style": "South Indian",
-        "traditional_elements": [
-          "Wooden partition",
-          "Marble flooring"
-        ],
-        "modern_adaptations": [
-          "Wine rack with lighting",
-          "Contemporary furniture"
-        ],
-        "space_utilization": "Efficient",
-        "cultural_significance": "Elegance and hospitality in Indian homes"
->>>>>>> origin/main
+        "space_utilization": "Efficient use of space with open shelving and minimal furniture",
+        "cultural_significance": "Modern interpretations with a touch of greenery, possibly inspired by nature, but no traditional Indian motifs"
       }
     },
     "confidence_scores": {
@@ -163,40 +73,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-<<<<<<< HEAD
-    "description": "The image depicts a modern Indian contemporary living room with a focus on traditional Indian design elements. The room features a walk-in wardrobe with dark wood, a shelving unit with illuminated shelves and a marble counter, and a cream-colored sofa with patterned cushions. The design integrates traditional Indian materials and color schemes with modern aesthetics, creating a luxurious and functional space.",
+    "description": "This modern eclectic living room features a sleek design with a mix of traditional and contemporary elements. The room includes an open shelving unit with modern lighting, dark wood cabinetry, and a clean marble floor and countertop. The furniture, such as the beige sofa with patterned cushions and the metal coffee table with a glass top, complements the minimalist aesthetic. The inclusion of greenery under the coffee table adds a natural touch, blending modern design with a touch of traditional Indian influence.",
     "metadata": {
       "tags": [
-        "Modern Indian",
-        "Contemporary living room",
-        "Walk-in wardrobe",
-        "Marble tiles",
-        "Cream sofa",
-        "Patterned cushions"
+        "Living room",
+        "Modern",
+        "Eclectic",
+        "Marble",
+        "Greenery",
+        "Contemporary design"
       ],
-      "budget_indicator": "High-end",
-      "space_type": "Living room",
-      "functionality": "Reception and relaxation",
-      "indian_specific": "Integration of dark wood and marble with modern design"
+      "budget_indicator": "Moderate to high, due to materials like marble and metal",
+      "space_type": "Residential living room",
+      "functionality": "Primary living space for relaxation and socializing",
+      "indian_specific": "No traditional Indian elements, but the modern design with a natural touch could be inspired by contemporary Indian trends"
     }
   },
-  "cached_at": 1753445955860,
-=======
-    "description": "The living room features a modern Indian theme with a blend of traditional and contemporary elements. The room includes a sleek sofa with patterned cushions, a glass coffee table with a gold rim, and a wall-mounted wine rack with built-in lighting and shelving for wine glasses. The space is characterized by beige and black tones with white marble flooring and wooden accents, creating an elegant and sophisticated atmosphere.",
-    "metadata": {
-      "tags": [
-        "Living Room",
-        "Modern Indian",
-        "Elegance",
-        "Contemporary Furniture"
-      ],
-      "budget_indicator": "High",
-      "space_type": "Residential",
-      "functionality": "Relaxation and entertainment",
-      "indian_specific": "Wooden partition and marble flooring"
-    }
-  },
-  "cached_at": 1753179296938,
->>>>>>> origin/main
+  "cached_at": 1753875001173,
   "cache_key": "66a2c0c8e0496b73ffb5ffe8396ed6e9"
 }

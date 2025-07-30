@@ -3,181 +3,83 @@
   "analysis": {
     "image_id": "img_012",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Indian kitchen",
+      "room": "Pooja room",
       "theme": "Modern Indian",
       "primary_features": [
-        "Marble countertop",
-        "Wooden cabinetry",
-        "Minimal decor",
-        "Swastik symbol"
-      ],
-      "objects": [
-        {
-          "type": "Wooden cabinetry",
-          "features": [
-            "Light wood finish",
-            "Open and closed storage sections"
-          ],
-          "materials": [
-            "Wood, likely teak"
-          ],
-          "finish": "Smooth, natural wood finish"
-        },
-        {
-          "type": "Marble countertop",
-          "features": [
-            "White with grey veining"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Swastik symbol",
-          "features": [
-            "Carved wooden panel, black and white color scheme"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Carved and painted"
-        },
-        {
-          "type": "Decorative door",
-          "features": [
-            "White lattice design, black frame, om symbol"
-          ],
-          "materials": [
-            "Wood, glass"
-          ],
-          "finish": "White lattice, dark frame, decorative carving"
-=======
-      "room": "Kitchen",
-      "theme": "Indian Contemporary",
-      "primary_features": [
+        "Swastik symbol",
+        "Pooja cabinet with lattice design",
         "Marble flooring",
-        "Wooden cabinetry",
-        "Modern appliances",
-        "Decorative shelf"
+        "Wooden cabinets"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "Pooja cabinet",
           "features": [
-            "Wooden finish",
-            "Open shelf for storage"
+            "Lattice design on glass panels",
+            "Carved OM symbol",
+            "Swastik symbol"
           ],
           "materials": [
-            "Wood, Metal"
-          ],
-          "finish": "Wooden"
-        },
-        {
-          "type": "Shelf",
-          "features": [
-            "Decorative, open for display"
-          ],
-          "materials": [
-            "Metal, Glass"
-          ],
-          "finish": "Metallic, Translucent"
-        },
-        {
-          "type": "Appliance",
-          "features": [
-            "Modern design, stainless steel finish"
-          ],
-          "materials": [
+            "Wood",
+            "Glass",
             "Metal"
           ],
-          "finish": "Stainless Steel"
->>>>>>> origin/main
+          "finish": "Matte black and white paint with glossy metal accents"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "White, grey, black, light brown, green"
+          "White",
+          "Black",
+          "Wooden tone",
+          "Gold"
         ],
         "materials": [
-          "Marble, wood, glass"
+          "Marble",
+          "Wood",
+          "Metal",
+          "Glass"
         ],
-        "lighting": "Natural light from ceiling lights",
-        "texture": "Smooth surfaces of marble, wood grain, and decorative textures"
+        "lighting": "Natural light from unseen windows, likely diffused due to the interior design",
+        "texture": "Smooth marble, glossy metal, matte wood, textured glass lattice"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but could be from Northern Indian influence due to the Swastik symbol",
+        "regional_style": "North Indian",
         "traditional_elements": [
-          "Swastik symbol, wooden cabinetry"
+          "Swastik symbol",
+          "OM symbol",
+          "Pooja cabinet design"
         ],
         "modern_adaptations": [
-          "Minimal decor, modern finishes"
+          "Minimalist approach with modern materials"
         ],
-        "space_utilization": "Efficient use of vertical space for storage, open layout for functionality",
-        "cultural_significance": "Swastik and om symbol are auspicious in Indian culture, often used in religious spaces or as decorative elements"
-=======
-          "White, Brown, Black, Gold"
-        ],
-        "materials": [
-          "Marble, Wood, Metal, Glass"
-        ],
-        "lighting": "Natural light, ceiling fan light",
-        "texture": "Smooth, glossy"
+        "space_utilization": "Efficient use of vertical space with cabinet doors behind wall",
+        "cultural_significance": "Swastik and OM symbols are significant in Hinduism, representing auspiciousness and divine energy"
       },
-      "indian_context": {
-        "regional_style": "South Indian",
-        "traditional_elements": [
-          "Swastika symbol",
-          "Om symbol"
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian-inspired pooja room with a minimalist design. The space features a black and white pooja cabinet with intricate lattice designs and religious symbols, a combination of marble flooring and wooden cabinetry. The room seamlessly integrates traditional elements of Indian spirituality with contemporary aesthetics, creating a space that is both functional and culturally significant.",
+      "metadata": {
+        "tags": [
+          "Pooja Room",
+          "Modern Indian",
+          "Swastik",
+          "OM",
+          "Marble Flooring",
+          "Wooden Cabinets"
         ],
-        "modern_adaptations": [
-          "Contemporary furniture design",
-          "Marble flooring"
-        ],
-        "space_utilization": "Efficient, open plan",
-        "cultural_significance": "Indian religious symbols (Swastika, Om)"
->>>>>>> origin/main
+        "budget_indicator": "Moderate to high, due to the use of marble and wooden cabinetry with glossy finishes",
+        "space_type": "Residential, within a larger home",
+        "functionality": "Specifically designed for prayer and religious practices",
+        "indian_specific": "Swastik symbol, OM symbol, Pooja cabinet design"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-<<<<<<< HEAD
-    "description": "The image depicts a modern Indian kitchen with a minimalist aesthetic. The space features light-colored marble countertops and light wood cabinetry, creating a clean and bright look. A decorative wooden panel with a Swastik symbol and an om symbol serves as a focal point, adding cultural significance to the space. The overall design blends traditional Indian elements with contemporary finishes and layout.",
-    "metadata": {
-      "tags": [
-        "Indian kitchen",
-        "Modern style",
-        "Swastik",
-        "Omm symbol",
-        "Minimal decor"
-      ],
-      "budget_indicator": "Moderate, with use of marble and wood",
-      "space_type": "Residential kitchen",
-      "functionality": "Primary purpose is for food preparation and storage, with a focus on aesthetics and cultural meanings",
-      "indian_specific": "Swastik and om symbols, wooden cabinetry, decorative panel"
     }
   },
-  "cached_at": 1753445880966,
-=======
-    "description": "This image showcases a modern kitchen with a blend of traditional Indian elements. The space features contemporary kitchen cabinetry with a wooden finish, an open shelf for storage, and a decorative shelf that adds a touch of Indian culture with religious symbols like the Swastika and Om. The marble flooring enhances the aesthetic appeal, while the kitchen appliances have a sleek, stainless steel design. The room is well-lit with natural light and a ceiling fan, creating a comfortable and functional space that respects Indian cultural elements.",
-    "metadata": {
-      "tags": [
-        "Kitchen, Indian, Contemporary, Marble, Wood, Modern Appliances, Cultural Symbols"
-      ],
-      "budget_indicator": "High",
-      "space_type": "Residential",
-      "functionality": "Efficient cooking space with cultural decor",
-      "indian_specific": "Traditional symbols, Indian style elements"
-    }
-  },
-  "cached_at": 1753179297025,
->>>>>>> origin/main
+  "cached_at": 1753874917616,
   "cache_key": "db6b576b13bd05df29af286818678645"
 }

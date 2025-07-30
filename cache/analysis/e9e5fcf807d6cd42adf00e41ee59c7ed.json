@@ -4,87 +4,113 @@
     "image_id": "img_038",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Modern Indian",
+      "theme": "Modern Indo-Western",
       "primary_features": [
-<<<<<<< HEAD
-        "Built-in wardrobes",
-        "Shelf unit",
+        "Built-in wardrobe with sliding doors",
+        "Wall-mounted shelves",
+        "Ceiling fan",
         "Hardwood flooring",
-=======
-        "Laminated wardrobe with glass doors",
-        "Built-in shelves",
->>>>>>> origin/main
-        "Ceiling fan"
+        "Window with grill",
+        "Mirror on the wall"
       ],
       "objects": [
         {
-<<<<<<< HEAD
           "type": "Built-in wardrobe",
           "features": [
-            "Dark brown finish",
-            "Marble accents",
-            "Sliding doors"
+            "Sliding glass doors with metallic handles",
+            "Dark brown and white marble paneling"
           ],
           "materials": [
-            "PVC",
+            "Glass",
+            "Metal",
             "Marble"
           ],
-          "finish": "Glossy"
+          "finish": "High-gloss finish"
         },
         {
-          "type": "Shelf unit",
+          "type": "Wall-mounted shelves",
           "features": [
-            "Dark brown finish",
-            "Multiple shelves",
-            "Integrated drawers"
+            "Dark brown color",
+            "Multiple shelves"
           ],
           "materials": [
-            "PVC",
             "Wood"
           ],
-          "finish": "Glossy"
-=======
-          "type": "Laminated wardrobe",
+          "finish": "Smooth finish"
+        },
+        {
+          "type": "Ceiling fan",
           "features": [
-            "Glass doors with metallic handles",
-            "Built-in shelves with black drawers"
+            "Gold-colored",
+            "Ceiling-mounted"
           ],
           "materials": [
-            "MDF or fiberboard with laminate finish",
-            "Glass",
-            "Metallic hardware"
+            "Metal"
           ],
-          "finish": "Glossy laminate with metallic accents"
->>>>>>> origin/main
+          "finish": "Painted finish"
+        },
+        {
+          "type": "Hardwood flooring",
+          "features": [
+            "Dark brown color",
+            "Wooden texture"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished finish"
+        },
+        {
+          "type": "Window with grill",
+          "features": [
+            "Metal grill",
+            "White frame"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Painted finish"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Large rectangular shape",
+            "Wall-mounted"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
           "Dark brown",
-          "Gray",
           "White",
-          "Marble pattern"
+          "Gray",
+          "Brown"
         ],
         "materials": [
-          "PVC",
-          "Wood",
+          "Glass",
+          "Metal",
           "Marble",
-          "Metal"
+          "Wood",
+          "Paint"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Sleek and modern"
+        "lighting": "Natural light from the window",
+        "texture": "Smooth surfaces and wood grain texture"
       },
       "indian_context": {
-        "regional_style": "No specific regional style visible",
+        "regional_style": "Not clearly regional, but reflects a modern adaptation of traditional Indian elements",
         "traditional_elements": [
-          "No traditional Indian elements"
+          "Wall-mounted shelves, sliding doors"
         ],
         "modern_adaptations": [
-          "Integration of modern materials (PVC, Metal) with traditional design elements"
+          "High-gloss finishes, minimalist design"
         ],
-        "space_utilization": "Efficient use of space with built-in wardrobes and shelf unit",
-        "cultural_significance": "No traditional cultural elements are visible"
+        "space_utilization": "Efficient use of space with a built-in wardrobe and wall-mounted shelves",
+        "cultural_significance": "The design incorporates modern aesthetics while maintaining a sense of practicality and functionality, which is valued in contemporary Indian homes"
       }
     },
     "confidence_scores": {
@@ -94,64 +120,23 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image depicts a modern Indian bedroom with a focus on sleek and efficient space utilization. The built-in wardrobes feature a dark brown finish with marble accents, blending contemporary aesthetics with traditional Indian design elements. The space is illuminated by natural light from the window on the right, and the wooden flooring adds a warm touch to the modern design.",
+    "description": "The image depicts a modern bedroom with a contemporary twist on traditional Indian design elements. The built-in wardrobe with sliding glass doors and metallic handles is a modern interpretation of the traditional Indian jharokha. The wall-mounted shelves add to the traditional feel, while the high-gloss finish and minimalist design are distinctly modern. The use of dark brown and white marble for the wardrobe and shelves, along with the hardwood floor, adds a touch of luxury and elegance. The ceiling fan and large mirror are practical and common in modern Indian homes, while the natural light from the window with metal grill brings in a fresh and airy feel.",
     "metadata": {
       "tags": [
-        "Modern Indian",
+        "Modern Indo-Western",
         "Bedroom",
-        "Built-in wardrobes",
-        "Marble accents",
-        "Hardwood flooring"
+        "Built-in wardrobe",
+        "Wall-mounted shelves",
+        "Ceiling fan",
+        "Hardwood flooring",
+        "Window with grill"
       ],
-      "budget_indicator": "Moderate, as the use of PVC and metal indicates a balance between modern and traditional materials, with no extravagant finishes.",
-      "space_type": "Residential",
-      "functionality": "Primary purpose is storage and organization, with a secondary focus on aesthetics and comfort.",
-      "indian_specific": "The integration of modern materials with traditional design elements is a key feature."
+      "budget_indicator": "Higher budget due to the use of marble, metal, and high-gloss finishes",
+      "space_type": "Residential bedroom",
+      "functionality": "Storage and organization",
+      "indian_specific": "Efficient use of space with traditional and modern elements"
     }
   },
-  "cached_at": 1753446555825,
-=======
-          "Dark grey, white, black, brown"
-        ],
-        "materials": [
-          "Laminate, glass, metal, wood"
-        ],
-        "lighting": "Natural light from window and ambient light from ceiling fan",
-        "texture": "Smooth laminate finish, glossy glass, metallic hardware"
-      },
-      "indian_context": {
-        "regional_style": "Not explicitly identifiable, but could be from a modern urban Indian home",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Modern interpretation of traditional Indian design with minimalistic approach"
-        ],
-        "space_utilization": "Efficient use of space with built-in storage solutions",
-        "cultural_significance": "The presence of a ceiling fan and built-in shelves is culturally relevant as they cater to Indian climate and storage needs"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern Indian bedroom with a focus on functionality and storage. The room features a large built-in wardrobe with glass doors and metallic handles, accompanied by built-in shelves with black drawers. The space is organized to maximize storage, with a ceiling fan providing air circulation. The room has a contemporary feel, with a combination of dark grey and white laminate finishes, and a wooden floor adding warmth to the space.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Bedroom",
-          "Built-in storage",
-          "Ceiling fan",
-          "Minimalistic design"
-        ],
-        "budget_indicator": "Moderate to high, given the use of glass and metallic hardware",
-        "space_type": "Residential bedroom",
-        "functionality": "Storage and everyday living",
-        "indian_specific": "Efficient storage solutions and minimalistic design"
-      }
-    }
-  },
-  "cached_at": 1753181142425,
->>>>>>> origin/main
+  "cached_at": 1753875374371,
   "cache_key": "e9e5fcf807d6cd42adf00e41ee59c7ed"
 }

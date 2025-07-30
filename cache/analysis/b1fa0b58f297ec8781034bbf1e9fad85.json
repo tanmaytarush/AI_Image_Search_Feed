@@ -3,92 +3,43 @@
   "analysis": {
     "image_id": "img_030",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Closet",
-      "theme": "Modern Minimalist",
+      "room": "Entryway",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Wardrobe with four doors",
-        "Storage shelves with lights",
-        "Minimal decor"
-=======
-      "room": "Hallway",
-      "theme": "Minimalist",
-      "primary_features": [
-        "White wardrobe with four doors",
-        "Built-in shelving unit"
->>>>>>> origin/main
+        "Built-in wardrobe with multiple compartments"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Built-in wardrobe",
           "features": [
-<<<<<<< HEAD
-            "White with a clean minimalist design",
-            "Simple silver handles"
+            "White finish, four doors with silver handles, open shelving with storage"
           ],
           "materials": [
-            "White paint on MDF or similar material",
-            "Wooden shelves"
+            "White paint, wood for the shelves"
           ],
-          "finish": "Matte white finish with smooth surfaces"
-=======
-            "Four doors with simple handles",
-            "White color"
-          ],
-          "materials": [
-            "Wooden frame",
-            "Painted finish"
-          ],
-          "finish": "Matte"
->>>>>>> origin/main
-        },
-        {
-          "type": "Shelving Unit",
-          "features": [
-<<<<<<< HEAD
-            "Built-in shelving system",
-            "Integrated lighting"
-          ],
-          "materials": [
-            "Wooden shelves"
-          ],
-          "finish": "Natural wood finish with a warm tone"
-=======
-            "Open shelving unit with compartments",
-            "Integrated with wardrobe"
-          ],
-          "materials": [
-            "Wooden frame",
-            "Light-colored finish"
-          ],
-          "finish": "Matte"
->>>>>>> origin/main
+          "finish": "Smooth, glossy surface"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-<<<<<<< HEAD
-          "Natural wood",
-          "Black",
-          "Light beige"
+          "White, light wood, beige, brown"
         ],
         "materials": [
-          "White paint",
-          "Wood",
-          "Metallic hardware"
+          "White paint, wood, metal"
         ],
-        "lighting": "Integrated LED lights in the shelving unit",
-        "texture": "Smooth surfaces with a matte finish on the wardrobe, natural grain on the shelving"
+        "lighting": "Natural light with ambient lighting from the open shelving",
+        "texture": "Smooth surfaces of the wardrobe and wood textures of the shelves"
       },
       "indian_context": {
-        "regional_style": "No specific regional influence noted",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Minimalist design, modern lighting"
+        "regional_style": "No specific regional style observed; modern interpretation of Indian design",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
         ],
-        "space_utilization": "Efficient use of vertical space with a built-in shelving unit",
-        "cultural_significance": "No culturally significant elements are present"
+        "modern_adaptations": [
+          "Modern wardrobe design with clean lines and minimalistic approach"
+        ],
+        "space_utilization": "Efficient use of vertical space, maximizing storage capacity",
+        "cultural_significance": "Minimal cultural relevance as it is a modern interpretation of functionality"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -97,64 +48,21 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern minimalist closet with a clean white wardrobe and a built-in shelving unit with integrated lighting. The space is organized with a focus on efficient vertical storage. The design incorporates contemporary materials and finishes, suitable for a contemporary Indian home.",
+      "description": "The image depicts a modern interpretation of an Indian interior design principle where space is optimized through the use of built-in wardrobe solutions. The white wardrobe with multiple compartments and open shelving is a practical and contemporary approach to storage, reflecting a blend of modern design and Indian functionality. The clean lines and simple color palette of white, light wood, and beige are typical of modern Indian interiors, where minimalism meets practicality.",
       "metadata": {
         "tags": [
-          "Minimalist Closet",
-          "Efficient Storage",
-          "Modern Design",
-          "Interior Closet"
+          "Modern Indian design",
+          "Efficient storage",
+          "Interior design analysis",
+          "Built-in wardrobe"
         ],
-        "budget_indicator": "Moderate, suitable for a modern home renovation",
-        "space_type": "Residential",
-        "functionality": "Storage and organization",
-        "indian_specific": "No Indian-specific design features are present"
+        "budget_indicator": "Moderate, with the use of painted white surfaces and wood for the shelves",
+        "space_type": "Residential, specifically an entryway or hallway",
+        "functionality": "Primary purpose is storage and organization of items",
+        "indian_specific": "Minimal Indian-specific design features, focusing on practicality and modern aesthetics"
       }
     }
   },
-  "cached_at": 1753446363450,
-=======
-          "Light wooden tones",
-          "Dark brown"
-        ],
-        "materials": [
-          "Wood",
-          "Painted surfaces"
-        ],
-        "lighting": "Natural light with subtle artificial illumination",
-        "texture": "Smooth surfaces"
-      },
-      "indian_context": {
-        "regional_style": "Western-style",
-        "traditional_elements": [],
-        "modern_adaptations": [],
-        "space_utilization": "Efficient use of wall space",
-        "cultural_significance": "No specific cultural elements"
-      }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "A modern and minimalist hallway featuring a white wardrobe with four doors and an open shelving unit integrated with the wardrobe, providing ample storage space. The walls and door are finished in a light beige color, complemented by a dark brown wooden door on the left.",
-    "metadata": {
-      "tags": [
-        "minimalist",
-        "hallway",
-        "wardrobe",
-        "storage",
-        "interior design"
-      ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Storage and organization",
-      "indian_specific": "No specific Indian features"
-    }
-  },
-  "cached_at": 1753179512944,
->>>>>>> origin/main
+  "cached_at": 1753875289788,
   "cache_key": "b1fa0b58f297ec8781034bbf1e9fad85"
 }

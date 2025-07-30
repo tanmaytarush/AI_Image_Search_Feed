@@ -3,164 +3,77 @@
   "analysis": {
     "image_id": "img_006",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Living Room with Prayer Area",
-      "theme": "Modern Indian",
+      "room": "Living Area with Prayer Space",
+      "theme": "Contemporary Indian with Traditional Influences",
       "primary_features": [
-        "Wooden staircase",
-        "Diwan area",
-        "Marble flooring",
-        "Prayer altar"
+        "Open staircase",
+        "Marble floor",
+        "Wooden wall paneling",
+        "Decorative prayer window",
+        "Modern kitchen behind"
       ],
       "objects": [
         {
-          "type": "Wooden staircase",
+          "type": "Circular dining table",
           "features": [
-            "Curved design",
-            "Shallow steps",
-            "Wooden railings"
+            "Wooden frame, dark finish, four chairs"
           ],
           "materials": [
-            "Teak wood"
+            "Wood, fabric"
           ],
-          "finish": "Glossy polished finish"
+          "finish": "Glossy, dark polished wood, brown upholstery"
         },
         {
-          "type": "Diwan",
+          "type": "Floor vase",
           "features": [
-            "Enclosed area with glass doors",
-            "Carved wooden frame"
-=======
-      "room": "Living Room",
-      "theme": "Modern Indian Fusion",
-      "primary_features": [
-        "Staircase with wooden railings",
-        "Marble flooring",
-        "Open plan design",
-        "Built-in shelves"
-      ],
-      "objects": [
-        {
-          "type": "Staircase",
-          "features": [
-            "Curved wooden steps",
-            "Glass railing"
+            "Large, textured, earthy tone"
           ],
           "materials": [
-            "Teak wood",
-            "Glass"
+            "Ceramic or clay"
           ],
-          "finish": "Glossy"
+          "finish": "Rough, natural texture"
         },
         {
-          "type": "Shelving",
+          "type": "Wall niche",
           "features": [
-            "Built-in wall shelves",
-            "Wall-mounted display"
->>>>>>> origin/main
+            "Wooden frame, decorative, small shrines"
           ],
           "materials": [
-            "Teak wood"
+            "Wood"
           ],
-<<<<<<< HEAD
-          "finish": "Rich polished brown finish"
+          "finish": "Shiny, polished wood"
         },
         {
-          "type": "Prayer altar",
+          "type": "Prayer window",
           "features": [
-            "Embedded in wooden frame",
-            "Decorative carvings"
+            "Glass panel, framed with wood, contains Hindu deities"
           ],
           "materials": [
-            "Teak wood"
+            "Wood, glass"
           ],
-          "finish": "Rich polished brown finish"
-=======
-          "finish": "Natural wood"
->>>>>>> origin/main
+          "finish": "Shiny, polished wood, clear glass"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White marble floor",
-<<<<<<< HEAD
-          "Brown wooden accents",
-          "Blue kitchen cabinets",
-=======
-          "Teak wood",
-          "Light blue cabinets",
->>>>>>> origin/main
-          "Gold accents"
+          "Brown (wood), white (walls), light beige (marble), dark brown (prayer window frame), teal (kitchen cabinets)"
         ],
         "materials": [
-          "Marble",
-          "Teak wood",
-          "Glass",
-<<<<<<< HEAD
-          "Metal"
+          "Marble, wood, glass, ceramic, metal"
         ],
-        "lighting": "Natural light from windows and artificial light from chandeliers",
-        "texture": "Smooth polished textures"
+        "lighting": "Natural light from ceiling windows, ambient lighting from chandeliers and pendant lights",
+        "texture": "Smooth marble, shiny wood, textured vase, clear glass"
       },
       "indian_context": {
-        "regional_style": "Maharashtra style with a modern twist",
+        "regional_style": "Southern Indian with Dravidian influences",
         "traditional_elements": [
-          "Wooden carved frames",
-          "Diwan structure",
-          "Prayer altar"
+          "Wooden wall paneling, prayer window, traditional decor"
         ],
         "modern_adaptations": [
-          "Contemporary lighting fixtures",
-          "Minimalist kitchen design"
+          "Open staircase, modern kitchen, contemporary lighting"
         ],
-        "space_utilization": "Open plan with staircase acting as a dividing element",
-        "cultural_significance": "The prayer area highlights Indian family-oriented cultural practices"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image showcases a modern Indian living space with a wooden staircase as a central feature. The room includes a prayer area within a wooden framed structure, typical of Indian homes, and a contemporary kitchen in the background. The use of teak wood and marble highlights traditional Indian design elements with a modern twist. The space is well-lit, featuring both natural and artificial light sources, and the overall design reflects a balance between tradition and modernity.",
-      "metadata": {
-        "tags": [
-          "Indian interior",
-          "Modern Indian design",
-          "Teak wood",
-          "Marble floor",
-          "Wooden staircase",
-          "Prayer area",
-          "Diwan"
-        ],
-        "budget_indicator": "High-end, likely reflecting the use of premium materials like marble and teak wood",
-        "space_type": "Residential",
-        "functionality": "Combines a living area, a prayer space, and a kitchen",
-        "indian_specific": "Traditional prayer area, wooden staircase with a modern finish"
-      }
-    }
-  },
-  "cached_at": 1753445707988,
-=======
-          "Ceramic"
-        ],
-        "lighting": "Natural light with recessed ceiling lights",
-        "texture": "Smooth marble, glossy wood, glass, and ceramic"
-      },
-      "indian_context": {
-        "regional_style": "South Indian",
-        "traditional_elements": [
-          "Temple-like alcove",
-          "Idols",
-          "Pooja area"
-        ],
-        "modern_adaptations": [
-          "Open plan design",
-          "Modern kitchen cabinets"
-        ],
-        "space_utilization": "Efficient use of vertical space with staircase as a focal point",
-        "cultural_significance": "Temple-like alcove reflects reverence for traditional beliefs, while modern elements blend contemporary aesthetics"
+        "space_utilization": "Efficient use of space with a clear division between living and prayer areas",
+        "cultural_significance": "The prayer window and deities indicate a space dedicated to Hindu worship, reflecting cultural importance of spirituality in daily life"
       }
     },
     "confidence_scores": {
@@ -170,22 +83,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This modern Indian fusion living space showcases a blend of traditional elements with contemporary design. The temple-like alcove with a framed deity showcases cultural significance, while the sleek staircase and open plan design reflect modern adaptability. The use of teak wood and marble highlights the regional style, with glass railings adding a modern touch.",
+    "description": "This image showcases a modern Indian living area that seamlessly integrates traditional elements with contemporary design. The wooden wall paneling and prayer window reflect Southern Indian architectural influences, while the open staircase and sleek kitchen create a contemporary feel. The prayer window, containing Hindu deities, is a culturally significant feature, indicating the importance of spiritual practices in the household. The space is well-lit with natural and artificial lighting, and the use of marble floors and polished wood adds a luxurious touch to the traditional decor.",
     "metadata": {
       "tags": [
-        "Living Room",
-        "Modern Indian",
-        "Fusion Design",
-        "Teak Wood",
-        "Marble Floor"
+        "Indian interior design",
+        "Southern Indian style",
+        "Traditional prayer room",
+        "Contemporary kitchen",
+        "Open staircase"
       ],
-      "budget_indicator": "High",
-      "space_type": "Multi-functional",
-      "functionality": "Open-plan living with kitchen and prayer area",
-      "indian_specific": "Temple-like alcove with idols"
+      "budget_indicator": "High, given the use of marble, polished wood, and modern appliances",
+      "space_type": "Residential, living area with prayer space",
+      "functionality": "Cozy living space with a dedicated prayer area, suitable for family gatherings and spiritual practices",
+      "indian_specific": "Traditional prayer window with deities, wooden wall paneling, and polished wood finishes"
     }
   },
-  "cached_at": 1753179451883,
->>>>>>> origin/main
+  "cached_at": 1753874777884,
   "cache_key": "3e823e85dfb9ad6f9f640089667cb6ed"
 }

@@ -3,144 +3,105 @@
   "analysis": {
     "image_id": "img_011",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Entrance/Utility Area",
-      "theme": "Contemporary Indian Fusion",
+      "room": "Entryway/Bathroom",
+      "theme": "Modern Minimalist with Indian Influences",
       "primary_features": [
-        "Marble Flooring",
-        "Wooden Cabinet",
-        "Circular Mirror",
-        "Decorative Vases"
+        "Marble flooring",
+        "Wooden cabinets",
+        "Round mirror",
+        "Wall-mounted shelves"
       ],
       "objects": [
         {
-          "type": "Wooden Cabinet",
+          "type": "Wall-mounted Cabinets",
           "features": [
-            "Vertical paneling",
-            "Storage shelves",
-            "Decorative glassware"
+            "Vertical shelves",
+            "Cabinet doors",
+            "Glass inserts"
           ],
           "materials": [
             "Wood",
-            "Glass"
-          ],
-          "finish": "Matte and glossy finish"
-        },
-        {
-          "type": "Circular Mirror",
-          "features": [
-            "Wooden frame",
-            "Woven texture"
-          ],
-          "materials": [
-            "Wood",
-            "Woven material"
-          ],
-          "finish": "Natural wood finish"
-        },
-        {
-          "type": "Decorative Vases",
-          "features": [
-            "Modern design",
-            "Textured surfaces"
-          ],
-          "materials": [
-            "Ceramic",
             "Metal"
           ],
-          "finish": "Matte and shiny finishes"
-=======
-      "room": "Bathroom",
-      "theme": "Modern Minimalist",
-      "primary_features": [
-        "Marble countertop",
-        "Wooden cabinetry",
-        "Circular mirror",
-        "Wine rack"
-      ],
-      "objects": [
+          "finish": "Glossy"
+        },
         {
-          "type": "Sink",
+          "type": "Round Mirror",
           "features": [
-            "Marble countertop",
-            "Wooden cabinetry"
+            "Wooden frame",
+            "Circular shape"
           ],
           "materials": [
-            "Marble",
-            "Wood"
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Rustic"
+        },
+        {
+          "type": "Marble Countertop",
+          "features": [
+            "Integrated sink",
+            "Smooth surface"
+          ],
+          "materials": [
+            "Marble"
           ],
           "finish": "Polished"
         },
         {
-          "type": "Mirror",
+          "type": "Wooden Storage Units",
           "features": [
-            "Circular shape"
-          ],
-          "materials": [
-            "Metal frame"
-          ],
-          "finish": "Shiny"
-        },
-        {
-          "type": "Wine Rack",
-          "features": [
-            "Glass display"
+            "Vertical storage",
+            "Horizontal slats"
           ],
           "materials": [
             "Wood"
           ],
           "finish": "Natural"
->>>>>>> origin/main
+        },
+        {
+          "type": "Vases",
+          "features": [
+            "Modern design",
+            "Colorful",
+            "Simple shapes"
+          ],
+          "materials": [
+            "Ceramic",
+            "Metal"
+          ],
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Brown",
-<<<<<<< HEAD
-          "Beige",
-          "Grey",
-          "Yellow"
-=======
-          "Black"
->>>>>>> origin/main
+          "Marble",
+          "Gold",
+          "Gray"
         ],
         "materials": [
           "Marble",
           "Wood",
-<<<<<<< HEAD
-          "Glass",
-          "Ceramic",
-          "Metal"
+          "Metal",
+          "Ceramic"
         ],
-        "lighting": "Natural light from the entrance",
-        "texture": "Smooth marble floor, wooden panel texture"
+        "lighting": "Ambient natural light with recessed lighting",
+        "texture": "Smooth marble, textured wood, glossy metal, ceramic"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional",
+        "regional_style": "Not distinctly Indian regional style, but elements are modern interpretations of traditional Indian design",
         "traditional_elements": [
-          "Circular Mirror"
+          "Marble",
+          "Wooden elements"
         ],
         "modern_adaptations": [
-          "Contemporary materials and design"
+          "Round mirror with wooden frame",
+          "Wall-mounted shelves"
         ],
-        "space_utilization": "Efficient use of space with wall-mounted storage",
-        "cultural_significance": "Circular mirror often symbolizes completeness and prosperity in Indian culture"
-=======
-          "Metal"
-        ],
-        "lighting": "Natural",
-        "texture": "Smooth"
-      },
-      "indian_context": {
-        "regional_style": "Modern Indian",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Combination of Indian and global design elements"
-        ],
-        "space_utilization": "Efficient",
-        "cultural_significance": "Minimalist design with a touch of modernity reflecting contemporary Indian aesthetics"
->>>>>>> origin/main
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Marrying modern design elements with traditional Indian materials like marble and wood"
       }
     },
     "confidence_scores": {
@@ -150,40 +111,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-<<<<<<< HEAD
-    "description": "The image depicts a modern entrance or utility area with a contemporary Indian fusion design. The space features a wooden cabinet with storage shelves and a circular mirror with a woven wooden frame, reflecting a mix of traditional and contemporary design elements. The use of marble flooring and modern materials like glass and metal add to the contemporary aesthetic, while the circular mirror's woven frame introduces a traditional touch. The space is organized efficiently with wall-mounted storage, and the presence of decorative vases adds a modern decorative element.",
+    "description": "This image showcases a modern minimalist entryway/bathroom that incorporates traditional Indian design elements. The space features a polished marble countertop integrated with a round mirror framed in wood, emphasizing vertical storage solutions with wooden cabinets and wall-mounted shelves. The color palette includes white marble, brown wood, and metallic accents, creating a bright yet sophisticated ambiance. The elements blend traditional materials like marble and wood with contemporary design, drawing inspiration from Indian interiors but with a modern twist.",
     "metadata": {
       "tags": [
-        "Indian Fusion",
-        "Contemporary Design",
+        "Modern Minimalist",
+        "Indian Influences",
         "Marble Flooring",
-        "Wooden Cabinet",
-        "Circular Mirror"
+        "Wooden Cabinets",
+        "Round Mirror"
       ],
-      "budget_indicator": "Mid-range",
-      "space_type": "Residential",
-      "functionality": "Entrance/Utility Area",
-      "indian_specific": "Modern interpretation of traditional circular mirror"
+      "budget_indicator": "Moderate to High, given the use of marble and gloss-finished materials",
+      "space_type": "Entryway/Bathroom",
+      "functionality": "Primary purpose is to serve as a functional space for entry and bathroom, with storage and aesthetic appeal",
+      "indian_specific": "Use of marble and wood, round mirror with wooden frame"
     }
   },
-  "cached_at": 1753445854147,
-=======
-    "description": "A modern minimalist bathroom featuring a sleek marble countertop paired with wooden cabinetry, a circular mirror, and a wine rack. The space is clean and bright, making efficient use of the available area.",
-    "metadata": {
-      "tags": [
-        "Modern",
-        "Minimalist",
-        "Bathroom",
-        "Indian Interior",
-        "Marble"
-      ],
-      "budget_indicator": "Mid-range",
-      "space_type": "Bathroom",
-      "functionality": "Efficient and stylish",
-      "indian_specific": "Contemporary Indian design with a blend of traditional and modern elements"
-    }
-  },
-  "cached_at": 1753179464059,
->>>>>>> origin/main
+  "cached_at": 1753874899007,
   "cache_key": "ae5f8f26c92385fb0b75315b622ef907"
 }

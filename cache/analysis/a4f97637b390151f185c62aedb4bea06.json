@@ -4,149 +4,76 @@
     "image_id": "img_039",
     "ai_generated_tags": {
       "room": "Bedroom",
-<<<<<<< HEAD
-      "theme": "Indian Modern",
-      "primary_features": [
-        "Built-in wardrobes",
-        "Carpeted flooring",
-=======
       "theme": "Modern Indian",
       "primary_features": [
-        "Bed with wooden frame and white mattress",
-        "Cupboard with pink and white panels",
->>>>>>> origin/main
-        "Ceiling fan"
+        "Bed with storage",
+        "Ceiling fan",
+        "Pink and white wall panels"
       ],
       "objects": [
         {
-<<<<<<< HEAD
-          "type": "Built-in wardrobes",
+          "type": "Platform bed",
           "features": [
-            "Pink and white panels",
-            "Sliding doors",
-            "Integrated storage"
+            "Embedded storage underneath",
+            "Simple design"
           ],
           "materials": [
-            "MDF",
-            "Painted finish"
+            "Wooden frame",
+            "Metal accents"
           ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Carpeted flooring",
-          "features": [
-            "Soft texture",
-            "Neutral color"
-          ],
-          "materials": [
-            "Polypropylene"
-          ],
-          "finish": "Textured"
+          "finish": "Matte surface with white bed sheet"
         },
         {
           "type": "Ceiling fan",
           "features": [
-            "Traditional design"
+            "Modern design",
+            "Gold-colored"
           ],
           "materials": [
             "Metal"
           ],
-          "finish": "Powder coated"
-=======
-          "type": "Bed",
-          "features": [
-            "Wooden frame with a white mattress",
-            "Simple design"
-          ],
-          "materials": [
-            "Wood, foam, fabric"
-          ],
-          "finish": "Smooth, polished"
+          "finish": "Painted gold"
         },
         {
-          "type": "Cabinet",
+          "type": "Wall panels",
           "features": [
-            "Pink and white panels",
-            "Storage compartments"
+            "Rectangular",
+            "Pink and white"
           ],
           "materials": [
-            "Particle board, MDF"
+            "MDF or similar particleboard"
           ],
-          "finish": "Lacquered, glossy"
->>>>>>> origin/main
+          "finish": "Glossy paint"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
           "Pink",
           "White",
           "Brown",
-          "Beige"
+          "Gold"
         ],
         "materials": [
-          "MDF",
-          "Paint",
-          "Polypropylene",
-          "Metal"
+          "Wood",
+          "Metal",
+          "MDF"
         ],
-        "lighting": "Natural light through window, ceiling fan light",
-        "texture": "Smooth and glossy finishes"
+        "lighting": "Natural light through window with metal bars",
+        "texture": [
+          "Smooth surfaces",
+          "Glossy finish"
+        ]
       },
       "indian_context": {
-        "regional_style": "Northern Indian",
+        "regional_style": "Not specific to any regional style",
         "traditional_elements": [
-          "Built-in wardrobes"
+          "No traditional elements"
         ],
         "modern_adaptations": [
-          "Glossy finishes, modern materials"
+          "Use of modern materials like MDF and metal"
         ],
-        "space_utilization": "Efficient use of space with built-in wardrobes",
-        "cultural_significance": "Built-in wardrobes are common in Northern Indian homes for practical storage and space optimization"
-      }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This image depicts a modern Indian bedroom with a focus on efficiency and practicality. The space features built-in wardrobes with a pink and white color scheme, which is a common color combination in many Indian homes. The flooring is carpeted, providing a soft and comfortable surface, while the ceiling fan adds a traditional touch. The room is well-organized, maximizing space with built-in storage solutions.",
-    "metadata": {
-      "tags": [
-        "Indian bedroom",
-        "Modern Indian interior",
-        "Built-in wardrobes",
-        "Pink and white color scheme",
-        "Carpeted flooring"
-      ],
-      "budget_indicator": "Medium to high, due to the glossy finishes and choice of materials",
-      "space_type": "Residential bedroom",
-      "functionality": "Primarily for sleeping and storage, with built-in wardrobes for practicality",
-      "indian_specific": "Glossy finish, pink and white color scheme, built-in wardrobes"
-    }
-  },
-  "cached_at": 1753446573158,
-=======
-          "Pink, white, brown, beige"
-        ],
-        "materials": [
-          "Wood, plastic, metal"
-        ],
-        "lighting": "Natural light from window, ceiling fan light",
-        "texture": "Smooth, glossy, flat"
-      },
-      "indian_context": {
-        "regional_style": "Southern Indian",
-        "traditional_elements": [
-          "Cupboard design"
-        ],
-        "modern_adaptations": [
-          "Modern materials and finishes"
-        ],
-        "space_utilization": "Efficient use of space with built-in storage",
-        "cultural_significance": "Cupboard design reflects traditional Indian storage habits"
+        "space_utilization": "Efficient storage solution under the bed",
+        "cultural_significance": "Pink and white color combination is popular in Indian interiors, often symbolizing purity and elegance"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -155,22 +82,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern bedroom with a Southern Indian influence. It features a bed with a wooden frame and a white mattress, along with built-in pink and white panelled storage cupboards. The ceiling fan and window add to the practical and functional design, blending traditional elements with contemporary materials and finishes.",
+      "description": "This modern Indian bedroom features a platform bed with integrated storage, ceiling fan, and pink and white wall panels. The design utilizes modern materials and techniques while maintaining a visually appealing color scheme, reflecting the preference for clean lines and bright colors in contemporary Indian interior design.",
       "metadata": {
         "tags": [
-          "Bedroom",
           "Modern Indian",
-          "Storage",
-          "Southern Style"
+          "Pink and White",
+          "Platform Bed",
+          "Ceiling Fan",
+          "Efficient Storage"
         ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential",
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential Bedroom",
         "functionality": "Sleeping and storage",
-        "indian_specific": "Built-in storage cupboards with a modern twist on traditional design"
+        "indian_specific": "Use of pink and white color palette"
       }
     }
   },
-  "cached_at": 1753181142014,
->>>>>>> origin/main
+  "cached_at": 1753875385361,
   "cache_key": "a4f97637b390151f185c62aedb4bea06"
 }

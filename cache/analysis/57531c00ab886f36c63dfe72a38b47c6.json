@@ -3,143 +3,80 @@
   "analysis": {
     "image_id": "img_014",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Foyer",
-      "theme": "Contemporary Indian Fusion",
+      "room": "Foyer or Entryway",
+      "theme": "Contemporary Indian Interior Design",
       "primary_features": [
-        "Glossy brown and white sliding doors with geometric gold accents"
+        "Double-leaf wardrobe with geometric patterns",
+        "Marble floor",
+        "Wooden base"
       ],
       "objects": [
         {
-          "type": "Sliding Door",
+          "type": "Wardrobe",
           "features": [
-            "Glossy finish, geometric gold lines in a chevron pattern, vertical gold stripes, white lower panel"
+            "Double-leaf design",
+            "Geometric golden patterns",
+            "Sliding doors"
           ],
           "materials": [
-            "Painted wood or MDF with gold leaf or metallic coating"
+            "Glass",
+            "Metallic gold",
+            "Wood"
           ],
-          "finish": "High-gloss with gold accents"
-=======
-      "room": "wardrobe",
-      "theme": "contemporary",
-      "primary_features": [
-        "mirror",
-        "glass",
-        "geometric pattern",
-        "sleek lines"
-      ],
-      "objects": [
-        {
-          "type": "wardrobe door",
-          "features": [
-            "reflective",
-            "transparent"
-          ],
-          "materials": [
-            "acrylic",
-            "glass"
-          ],
-          "finish": "high-gloss"
->>>>>>> origin/main
+          "finish": "High-gloss finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "Brown, white, gold"
+          "Dark gray",
+          "Brown",
+          "Golden",
+          "White"
         ],
         "materials": [
-          "Painted wood or MDF, metallic gold coating"
+          "Glass",
+          "Metal",
+          "Wood",
+          "Marble"
         ],
-        "lighting": "Natural light from the left, bright and even",
-        "texture": "Smooth glossy finish with geometric patterns"
+        "lighting": "Soft ambient lighting",
+        "texture": "Smooth glass, polished metal, glossy wood, marble"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but likely Northern Indian influence due to the use of gold and carving motifs",
+        "regional_style": "Not explicitly regional due to modern design approach",
         "traditional_elements": [
-          "Gold accents often associated with luxury and tradition in Indian interiors"
+          "Golden geometric patterns, which are often used in Indian decor"
         ],
         "modern_adaptations": [
-          "Contemporary interpretation of traditional gold motifs in the geometric pattern"
+          "Contemporary interpretation of traditional golden patterns"
         ],
-        "space_utilization": "Minimal, likely serving as a divider or decorative feature in a larger space",
-        "cultural_significance": "Gold is a symbol of wealth and prosperity in Indian culture, often used in interiors to enhance the space's aesthetic and cultural value"
+        "space_utilization": "The space is optimized for storage, with the wardrobe being a focal point",
+        "cultural_significance": "Golden patterns often symbolize prosperity and good fortune in Indian culture"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.92,
-        "primary_features": 0.88,
-        "objects": 0.95,
-        "indian_context": 0.8
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The image showcases a contemporary interpretation of Indian design elements, featuring glossy sliding doors with a geometric gold chevron pattern and vertical gold stripes, set against a white lower panel. The use of gold accents and smooth glossy finish reflects traditional Indian aesthetics with a modern twist, emphasizing luxury and cultural symbolism.",
+      "description": "This image showcases a contemporary Indian interior design approach, featuring a double-leaf wardrobe with golden geometric patterns on a sleek glass door. The wardrobe is set against a white marble floor, emphasizing a modern aesthetic. The golden patterns, a traditional element, add a cultural touch, symbolizing prosperity and elegance. The clean lines and high-gloss finish contribute to the room's modern yet culturally rich ambiance.",
       "metadata": {
         "tags": [
-          "Indian interior design",
-          "Contemporary",
-          "Gold accents",
-          "Glossy finish",
-          "Geometric patterns",
-          "Foyer"
+          "Contemporary Indian Design",
+          "Golden Patterns",
+          "Geometric Design",
+          "Double-leaf Wardrobe",
+          "Marble Flooring",
+          "High-Gloss Finish"
         ],
-        "budget_indicator": "Mid-range to high, given the use of glossy finishes and metallic gold coating",
-        "space_type": "Foyer or entrance hall",
-        "functionality": "Serves as a decorative divider or accent piece, potentially leading to another area",
-        "indian_specific": "Geometric gold patterns with a smooth glossy finish"
+        "budget_indicator": "Moderate to High",
+        "space_type": "Foyer or Entryway",
+        "functionality": "Storage and visual focal point",
+        "indian_specific": "Golden geometric patterns, glass and wood materials, contemporary interpretation of traditional elements"
       }
     }
   },
-  "cached_at": 1753445934275,
-=======
-          "neutral tones",
-          "brown",
-          "gold",
-          "white",
-          "gray"
-        ],
-        "materials": [
-          "acrylic",
-          "glass",
-          "wood",
-          "marble"
-        ],
-        "lighting": "reflective",
-        "texture": "smooth"
-      },
-      "indian_context": {
-        "regional_style": "modern",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "geometric patterns",
-          "high-gloss finish"
-        ],
-        "space_utilization": "optimized",
-        "cultural_significance": "modern lifestyle"
-      }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "A sleek, contemporary wardrobe with reflective glass doors and geometric golden patterns, set against a modern backdrop.",
-    "metadata": {
-      "tags": [
-        "wardrobe",
-        "contemporary",
-        "modern",
-        "glass doors",
-        "geometric"
-      ],
-      "budget_indicator": "high",
-      "space_type": "bedroom",
-      "functionality": "storage",
-      "indian_specific": "modern fusion decor"
-    }
-  },
-  "cached_at": 1753179463124,
->>>>>>> origin/main
+  "cached_at": 1753874977400,
   "cache_key": "57531c00ab886f36c63dfe72a38b47c6"
 }
