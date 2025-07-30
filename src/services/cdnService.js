@@ -263,7 +263,17 @@ class CDNService {
       return 0;
     }
   }
-
+  // In your cdnService.js, add a method to clear cache
+  async clearCache() {
+    try {
+      // Clear all cached analysis files
+      // This depends on how your CDN service stores cache
+      console.log("🧹 Clearing corrupted cache files...");
+      // Implementation depends on your cache storage method
+    } catch (error) {
+      console.error("Error clearing cache:", error);
+    }
+  }
   /**
    * Clear all cache
    */

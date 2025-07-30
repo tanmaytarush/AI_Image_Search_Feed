@@ -11,59 +11,22 @@ class DataTransformer {
         metadata = {},
         description,
         error,
-<<<<<<< HEAD
-        raw_response,
-=======
         raw_response
->>>>>>> origin/main
       } = modelResponse;
 
       // Check if this is a failed response
       if (error || raw_response) {
-<<<<<<< HEAD
-        console.warn(
-          `⚠️ Skipping failed response for image ${image_id}: ${
-            error || "Invalid response"
-          }`
-        );
-=======
         console.warn(`⚠️ Skipping failed response for image ${image_id}: ${error || 'Invalid response'}`);
->>>>>>> origin/main
         return null; // Return null to filter out failed responses
       }
 
       // Validate ai_generated_tags
-<<<<<<< HEAD
-      if (!ai_generated_tags || typeof ai_generated_tags !== "object") {
-        console.warn(
-          `Invalid ai_generated_tags for image ${image_id}:`,
-          ai_generated_tags
-        );
-=======
       if (!ai_generated_tags || typeof ai_generated_tags !== 'object') {
         console.warn(`Invalid ai_generated_tags for image ${image_id}:`, ai_generated_tags);
->>>>>>> origin/main
         return null; // Return null instead of throwing error
       }
 
       // Check if this is a template response (contains placeholder text)
-<<<<<<< HEAD
-      const isTemplate =
-        (typeof ai_generated_tags.room === "string" &&
-          (ai_generated_tags.room.includes("Room Type (") ||
-            ai_generated_tags.room.includes("Living Room, Bedroom"))) ||
-        (typeof ai_generated_tags.theme === "string" &&
-          (ai_generated_tags.theme.includes("Design Theme (") ||
-            ai_generated_tags.theme.includes("Traditional Indian")));
-
-      if (isTemplate) {
-        console.warn(
-          `❌ Template response detected for image ${image_id} - model returned placeholder text instead of real analysis`
-        );
-        throw new Error(
-          `Template response detected for image ${image_id} - model needs to be retried with better prompt`
-        );
-=======
       const isTemplate = (
         typeof ai_generated_tags.room === 'string' && 
         (ai_generated_tags.room.includes('Room Type (') || ai_generated_tags.room.includes('Living Room, Bedroom'))
@@ -75,71 +38,12 @@ class DataTransformer {
       if (isTemplate) {
         console.warn(`❌ Template response detected for image ${image_id} - model returned placeholder text instead of real analysis`);
         throw new Error(`Template response detected for image ${image_id} - model needs to be retried with better prompt`);
->>>>>>> origin/main
       }
 
-      // Generate multi-vectors
+      // Generate multi-vectors using local Transformers.js embeddings
       const multiVectors = await embeddingService.createMultiVectors(
         ai_generated_tags,
         description,
-<<<<<<< HEAD
-        metadata,
-        image_id
-      );
-
-      // Validate multiVectors structure
-      if (!multiVectors || typeof multiVectors !== "object") {
-        throw new Error(`Invalid multiVectors structure for image ${image_id}`);
-      }
-
-      const requiredVectors = [
-        "primary_search",
-        "semantic_desc",
-        "object_focus",
-      ];
-      for (const vectorName of requiredVectors) {
-        if (
-          !multiVectors[vectorName] ||
-          !Array.isArray(multiVectors[vectorName])
-        ) {
-          throw new Error(
-            `Missing or invalid ${vectorName} vector for image ${image_id}`
-          );
-        }
-        if (multiVectors[vectorName].length !== 1536) {
-          throw new Error(
-            `Invalid ${vectorName} vector dimension for image ${image_id}: expected 1536, got ${multiVectors[vectorName].length}`
-          );
-        }
-      }
-
-      // Semantic quality validation
-      const embeddingTexts = multiVectors.embedding_texts || {};
-      for (const [vectorName, text] of Object.entries(embeddingTexts)) {
-        if (!text || text.length < 10) {
-          console.warn(
-            `⚠️ Very short ${vectorName} text for ${image_id}: "${text}"`
-          );
-        }
-        if (text.includes("unknown") && text.split(" ").length < 5) {
-          console.warn(
-            `⚠️ Low-quality ${vectorName} text for ${image_id}: "${text}"`
-          );
-        }
-      }
-
-      console.log(
-        `✓ Generated valid vectors for ${image_id}: ${Object.keys(multiVectors)
-          .filter((k) => k !== "embedding_texts")
-          .join(", ")}`
-      );
-
-      // Extract object types and features
-      const objectTypes =
-        ai_generated_tags.objects?.map((obj) => obj.type.toLowerCase()) || [];
-      const objectFeatures =
-        ai_generated_tags.objects?.flatMap((obj) => obj.features) || [];
-=======
         metadata
       );
 
@@ -153,12 +57,13 @@ class DataTransformer {
         if (!multiVectors[vectorName] || !Array.isArray(multiVectors[vectorName])) {
           throw new Error(`Missing or invalid ${vectorName} vector for image ${image_id}`);
         }
-        if (multiVectors[vectorName].length !== 1536) {
-          throw new Error(`Invalid ${vectorName} vector dimension for image ${image_id}: expected 1536, got ${multiVectors[vectorName].length}`);
+        // Updated to check for Transformers.js dimensions (384)
+        if (multiVectors[vectorName].length !== 384) {
+          throw new Error(`Invalid ${vectorName} vector dimension for image ${image_id}: expected 384, got ${multiVectors[vectorName].length}`);
         }
       }
 
-      console.log(`✓ Generated valid vectors for ${image_id}: ${Object.keys(multiVectors).filter(k => k !== 'embedding_texts').join(', ')}`);
+      console.log(`✓ Generated valid local embeddings for ${image_id}: ${Object.keys(multiVectors).filter(k => k !== 'embedding_texts').join(', ')}`);
 
       // Extract object types and features
       const objectTypes = ai_generated_tags.objects?.map((obj) =>
@@ -167,7 +72,6 @@ class DataTransformer {
       const objectFeatures = ai_generated_tags.objects?.flatMap(
         (obj) => obj.features
       ) || [];
->>>>>>> origin/main
 
       // Create search tags
       const searchTags = this.createSearchTags(ai_generated_tags, metadata);
@@ -183,33 +87,10 @@ class DataTransformer {
           object_focus: multiVectors.object_focus,
         },
         payload: {
-          // Multi-vector embedding texts
+          // Multi-vector embedding texts (what was embedded)
           embedding_texts: multiVectors.embedding_texts,
 
           // Primary searchable fields
-<<<<<<< HEAD
-          room_type: ai_generated_tags.room?.toLowerCase() || "unknown",
-          design_theme: ai_generated_tags.theme?.toLowerCase() || "unknown",
-          regional_style:
-            ai_generated_tags.indian_context?.regional_style?.toLowerCase() ||
-            "unknown",
-          space_utilization:
-            ai_generated_tags.indian_context?.space_utilization?.toLowerCase() ||
-            "unknown",
-
-          // Multi-value arrays for filtering
-          colors:
-            ai_generated_tags.visual_attributes?.colors?.map((c) =>
-              c.toLowerCase()
-            ) || [],
-          materials:
-            ai_generated_tags.visual_attributes?.materials?.map((m) =>
-              m.toLowerCase()
-            ) || [],
-          primary_features:
-            ai_generated_tags.primary_features?.map((f) => f.toLowerCase()) ||
-            [],
-=======
           room_type: ai_generated_tags.room?.toLowerCase() || 'unknown',
           design_theme: ai_generated_tags.theme?.toLowerCase() || 'unknown',
           regional_style:
@@ -227,7 +108,6 @@ class DataTransformer {
           primary_features: ai_generated_tags.primary_features?.map((f) =>
             f.toLowerCase()
           ) || [],
->>>>>>> origin/main
           object_types: objectTypes,
           object_features: objectFeatures.map((f) => f.toLowerCase()),
 
@@ -235,16 +115,9 @@ class DataTransformer {
           confidence_scores: confidence_scores || {},
 
           // Budget and space classification
-<<<<<<< HEAD
-          budget_category:
-            metadata.budget_indicator?.toLowerCase() || "unknown",
-          space_type: metadata.space_type?.toLowerCase() || "unknown",
-          functionality: metadata.functionality?.toLowerCase() || "unknown",
-=======
           budget_category: metadata.budget_indicator?.toLowerCase() || 'unknown',
           space_type: metadata.space_type?.toLowerCase() || 'unknown',
           functionality: metadata.functionality?.toLowerCase() || 'unknown',
->>>>>>> origin/main
 
           // Search optimization tags
           search_tags: searchTags,
@@ -256,11 +129,7 @@ class DataTransformer {
             modern_adaptations:
               ai_generated_tags.indian_context?.modern_adaptations || [],
             cultural_significance:
-<<<<<<< HEAD
-              ai_generated_tags.indian_context?.cultural_significance || "",
-=======
               ai_generated_tags.indian_context?.cultural_significance || '',
->>>>>>> origin/main
           },
 
           // Full original analysis
@@ -270,6 +139,11 @@ class DataTransformer {
           created_at: new Date().toISOString(),
           image_url: modelResponse.image_url || null,
           original_id: image_id, // Keep original ID for reference
+          
+          // Local embedding metadata
+          embedding_model: "Xenova/all-MiniLM-L6-v2",
+          vector_dimensions: 384,
+          embedding_method: "local_transformers_js"
         },
       };
     } catch (error) {
@@ -284,11 +158,7 @@ class DataTransformer {
     // Add basic tags
     if (aiGeneratedTags.room) tags.add(aiGeneratedTags.room.toLowerCase());
     if (aiGeneratedTags.theme) tags.add(aiGeneratedTags.theme.toLowerCase());
-<<<<<<< HEAD
-    if (aiGeneratedTags.indian_context?.space_utilization)
-=======
     if (aiGeneratedTags.indian_context?.space_utilization) 
->>>>>>> origin/main
       tags.add(aiGeneratedTags.indian_context.space_utilization.toLowerCase());
 
     // Add colors and materials
@@ -320,20 +190,10 @@ class DataTransformer {
 
   generateValidId(originalId) {
     // Create a hash of the original ID to ensure it's a valid UUID
-<<<<<<< HEAD
-    const hash = crypto.createHash("md5").update(originalId).digest("hex");
-
-    // Convert to UUID format: xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx
-    return `${hash.slice(0, 8)}-${hash.slice(8, 12)}-4${hash.slice(
-      13,
-      16
-    )}-${hash.slice(16, 20)}-${hash.slice(20, 32)}`;
-=======
     const hash = crypto.createHash('md5').update(originalId).digest('hex');
     
     // Convert to UUID format: xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx
     return `${hash.slice(0, 8)}-${hash.slice(8, 12)}-4${hash.slice(13, 16)}-${hash.slice(16, 20)}-${hash.slice(20, 32)}`;
->>>>>>> origin/main
   }
 
   async transformBatch(modelResponses) {
@@ -354,6 +214,7 @@ class DataTransformer {
       }
     }
 
+    console.log(`📊 Transformed ${transformedData.length}/${modelResponses.length} responses using local embeddings (384 dimensions)`);
     return transformedData;
   }
 }

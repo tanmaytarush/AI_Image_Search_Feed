@@ -3,138 +3,93 @@
   "analysis": {
     "image_id": "img_003",
     "ai_generated_tags": {
-      "room": "Foyer",
-<<<<<<< HEAD
-      "theme": "Contemporary Indian",
+      "room": "Walls",
+      "theme": "Contemporary",
       "primary_features": [
-        "Decorative ceiling panels",
-        "Wooden paneling on walls",
+        "Painted wall panels",
+        "Ceiling with geometric patterns",
         "Modern lighting"
       ],
       "objects": [
         {
-          "type": "Ceiling panels",
+          "type": "Ceiling",
           "features": [
-            "Geometric patterns, cut-out design"
+            "Painted with geometric patterns, likely inspired by traditional Indian designs"
           ],
           "materials": [
-            "Painted or lacquered surfaces"
+            "Painted on gypsum or similar material"
           ],
-          "finish": "Smooth, glossy finish"
-=======
-      "theme": "Contemporary",
-      "primary_features": [
-        "Lattice ceiling panels",
-        "Wooden slats on walls",
-        "Embedded lighting"
-      ],
-      "objects": [
+          "finish": "Smooth and glossy paint finish"
+        },
         {
-          "type": "Ceiling panel",
+          "type": "Wall",
           "features": [
-            "Lattice design",
-            "White finish",
-            "Lighting integration"
+            "Paneling of wooden slats"
           ],
           "materials": [
-            "MDF or similar wood material"
+            "Teak or similar wood"
           ],
-          "finish": "Matte"
->>>>>>> origin/main
+          "finish": "Satin varnish or lacquer finish"
+        },
+        {
+          "type": "Ceiling Light",
+          "features": [
+            "Modern light fixture, possibly LED or fluorescent"
+          ],
+          "materials": [
+            "Metallic or plastic"
+          ],
+          "finish": "Polished metallic or glossy plastic"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Brown",
-<<<<<<< HEAD
-          "White"
-=======
-          "Beige"
->>>>>>> origin/main
+          "Beige",
+          "Dark brown"
         ],
         "materials": [
-          "Wood",
-          "Metal"
+          "Painted gypsum, wood, metallic, plastic"
         ],
-<<<<<<< HEAD
-        "lighting": "Natural light from ceiling panels, possibly with under-cabinet lighting",
-        "texture": "Smooth surfaces with intricate patterns"
+        "lighting": "Artificial lighting from ceiling light",
+        "texture": "Smooth painted surfaces, wooden slats with grain texture"
       },
       "indian_context": {
-        "regional_style": "No specific regional style identified",
+        "regional_style": "No specific regional style visible, but could be influenced by North Indian design elements",
         "traditional_elements": [
-          "Not applicable"
+          "Geometric patterns inspired by jharokha designs"
         ],
         "modern_adaptations": [
-          "Incorporates traditional patterns in a modern context"
+          "Geometric patterns on painted ceiling, modern lighting"
         ],
-        "space_utilization": "Efficient use of vertical space with decorative elements",
-        "cultural_significance": "Cultural significance lies in the geometric patterns, often seen in traditional Indian architecture"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "A modern foyer with contemporary Indian design elements, featuring decorative ceiling panels with geometric patterns and wooden paneling on the walls. The space utilizes vertical space effectively, combining traditional patterns with a modern aesthetic, creating a blend of cultural relevance and contemporary design.",
-      "metadata": {
-        "tags": [
-          "Modern Indian Design",
-          "Foyer Design",
-          "Geometric Patterns",
-          "Wood Paneling",
-          "Decorative Ceiling"
-        ],
-        "budget_indicator": "Moderate, given the use of decorative ceiling panels and wooden elements",
-        "space_type": "Foyer",
-        "functionality": "Entrance area, likely leading to more private spaces of the house",
-        "indian_specific": "Modern interpretation of traditional Indian geometric patterns"
-      }
-    }
-  },
-  "cached_at": 1753457532105,
-=======
-        "lighting": "Recessed lighting",
-        "texture": "Smooth"
-      },
-      "indian_context": {
-        "regional_style": "Modern Indian",
-        "traditional_elements": [
-          "Lattice patterns"
-        ],
-        "modern_adaptations": [
-          "Integration of lighting"
-        ],
-        "space_utilization": "Efficient use of vertical space",
-        "cultural_significance": "Inspired by traditional lattice designs, often seen in Indian architecture"
+        "space_utilization": "Wall space used for decorative elements, likely serving as a focal point",
+        "cultural_significance": "Geometric patterns may symbolize traditional Indian art and have cultural significance"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.85,
+      "theme": 0.78,
+      "primary_features": 0.82,
+      "objects": 0.88,
+      "indian_context": 0.75
     },
-    "description": "The image showcases a modern Indian foyer with a decorative lattice ceiling panel. The panel features a white lattice design, which is integrated with recessed lighting, creating a contemporary aesthetic. The surrounding walls are accentuated with wooden slats, enhancing the traditional elements of lattice designs in a modern context. The space is well-lit, emphasizing the clean lines and smooth finishes of the materials used.",
+    "description": "The image showcases a contemporary interior space with modern elements, featuring painted gypsum panels on the ceiling with geometric patterns, possibly inspired by traditional Indian jharokha designs. The walls are panelled with teak or similar wood, giving a warm, natural texture. There is modern artificial lighting from a ceiling fixture, blending traditional aesthetic elements with a contemporary design approach. The overall space appears to be a hallway or corridor, designed to draw the eye upwards and create a sense of grandeur.",
     "metadata": {
       "tags": [
-        "Foyer",
-        "Contemporary Interior",
-        "Lattice Design",
-        "Lighting Integration",
-        "Modern Indian Style"
+        "Contemporary design",
+        "Geometric patterns",
+        "Geometric ceiling",
+        "Teak wood paneling",
+        "Modern lighting",
+        "Interior design"
       ],
-      "budget_indicator": "Moderate to High",
-      "space_type": "Entrance Hall",
-      "functionality": "Welcome space",
-      "indian_specific": "Traditional lattice patterns with modern adaptations"
+      "budget_indicator": "Moderate, with use of painted gypsum for ceiling and teak wood for wall paneling",
+      "space_type": "Hallway/corridor",
+      "functionality": "Aesthetic and possibly for guiding movement within the space",
+      "indian_specific": "Geometric patterns inspired by traditional Indian designs"
     }
   },
-  "cached_at": 1753179235998,
->>>>>>> origin/main
+  "cached_at": 1753868633788,
   "cache_key": "d66c346d2cae869f1acd737d621fd776"
 }
