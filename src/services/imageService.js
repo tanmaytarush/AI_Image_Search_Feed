@@ -233,7 +233,7 @@ class ImageService {
     // Add room-specific context based on AI detection
     if (roomDetection.isRoomSearch || roomDetection.isCompoundRoomSearch) {
       for (const roomType of roomDetection.detectedRoomTypes) {
-        const roomTerms = roomIntelligenceService.getRoomTermsForCategory(roomType.category);
+        const roomTerms = roomIntelligenceService.getRoomConceptsForCategory(roomType.category);
         if (roomTerms.length > 0) {
           enhancedQuery += ` ${roomTerms.slice(0, 2).join(' ')}`;
         }
@@ -287,7 +287,7 @@ class ImageService {
     // Extract room-specific features
     if (roomDetection.isRoomSearch || roomDetection.isCompoundRoomSearch) {
       for (const roomType of roomDetection.detectedRoomTypes) {
-        const roomTerms = roomIntelligenceService.getRoomTermsForCategory(roomType.category);
+        const roomTerms = roomIntelligenceService.getRoomConceptsForCategory(roomType.category);
         featureTerms.push(...roomTerms.slice(0, 3));
       }
     }
