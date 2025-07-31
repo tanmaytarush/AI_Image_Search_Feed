@@ -4,82 +4,71 @@
     "image_id": "img_083",
     "ai_generated_tags": {
       "room": "Study",
-      "theme": "Modern Indian",
+      "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "designed shelves",
-        "study table",
-        "cushioned chair",
-        "map"
+        "Built-in study desk with storage",
+        "Shelving unit with books and decorative items",
+        "Roll-up window with roman shade"
       ],
       "objects": [
         {
-          "type": "designed shelves",
+          "type": "Study desk",
           "features": [
-            "organized storage",
-            "backlit",
-            "crafted with panels"
+            "Integrated with storage compartments underneath",
+            "Light green and beige finish",
+            "Rectangular shape"
           ],
           "materials": [
-            "wood",
-            "fabric"
+            "MDF for frame, possibly with a veneer finish",
+            "Fabric or laminate panels"
           ],
-          "finish": "matte, fabric-embossed"
+          "finish": "Matte finish with subtle texture"
         },
         {
-          "type": "study table",
+          "type": "Roll-up window with roman shade",
           "features": [
-            "compartions",
-            "world map",
-            "open book"
+            "Natural wood slats",
+            "Soft beige fabric shade"
           ],
           "materials": [
-            "wood",
-            "marble top"
+            "Wood slats, fabric"
           ],
-          "finish": "smooth, polished"
+          "finish": "Natural wood finish and soft fabric texture"
         },
         {
-          "type": "cushioned chair",
+          "type": "Bookshelf",
           "features": [
-            "rolling",
-            "modern design",
-            "wooden arms"
+            "U-shaped with multiple compartments",
+            "Orange and beige striped shelves",
+            "Integrated lighting"
           ],
           "materials": [
-            "wood",
-            "fabric"
+            "MDF or similar for frame, possibly with laminate or veneer finish",
+            "Wood or laminate for shelves"
           ],
-          "finish": "textured, upholstered"
+          "finish": "Matte finish with striped pattern"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white",
-          "green",
-          "orange",
-          "brown",
-          "beige"
+          "Beige, orange, green, white, brown, black, gold"
         ],
         "materials": [
-          "wood",
-          "marble",
-          "metal",
-          "textured fabric"
+          "MDF, wood, fabric, laminate, marble"
         ],
-        "lighting": "natural light from window, built-in under-shelf lighting",
-        "texture": "smooth, matte, textured"
+        "lighting": "Mixed lighting with built-in shelves and ambient light from the roll-up window",
+        "texture": "Matte finish with smooth and striped patterns"
       },
       "indian_context": {
-        "regional_style": "Maharashtra/Goa",
+        "regional_style": "Not distinctly regional, but has a mix of contemporary and traditional elements",
         "traditional_elements": [
-          "patterned design on wall"
+          "No traditional Indian elements like carved furniture or jharokha"
         ],
         "modern_adaptations": [
-          "interior lighting",
-          " verstaspace design"
+          "Contemporary cabinet design with built-in storage and modular shelves"
         ],
-        "space_utilization": "efficient use of vertical space with built-in shelves",
-        "cultural_significance": "The use of patterns and organized storage reflects a blend of modern functionality and traditional craftsmanship"
+        "space_utilization": "Optimized with built-in furniture and shelves for storage and functionality",
+        "cultural_significance": "The use of colors and materials may reflect a modern interpretation of traditional Indian design"
       }
     },
     "confidence_scores": {
@@ -89,21 +78,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This study room showcases a modern interpretation of traditional Indian design, featuring a blend of functional furniture and cultural elements. The shelves are organized with books and decorative items, reflecting a blend of functionality and traditional craftsmanship. The study table includes a world map, symbolizing a focus on learning and exploration. The cushioned chair and the overall design utilize materials like wood and fabric, with a neutral color palette accented by orange, green, and beige, creating a serene and inviting space. The patterned wall adds a touch of cultural significance, while the use of built-in shelves maximizes space in a way that is both functional and visually appealing.",
+    "description": "This contemporary study space incorporates elements of Indian design, featuring a built-in study desk with storage and a U-shaped shelving unit that integrates seamlessly with the walls. The use of beige, orange, and green colors, along with the matte finish and striped patterns, echo traditional Indian aesthetics. The roll-up window with a roman shade adds a touch of modern functionality. The space is well-organized, optimizing storage and workspace, and reflects a modern interpretation of Indian design.",
     "metadata": {
       "tags": [
-        "Indian design",
-        "modern study",
-        "organized shelves",
-        "cultural elements",
-        "neutral color palette"
+        "Contemporary",
+        "Indian Design",
+        "Study Room",
+        "Modular Furniture",
+        "Beige and Orange Palette",
+        "Built-in Storage"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Working and studying",
-      "indian_specific": "Typical Indian craftsmanship with modern adaptations"
+      "budget_indicator": "Moderate, utilizing MDF and laminate for the built-in furniture with a focus on functionality and style",
+      "space_type": "Residential Study",
+      "functionality": "Primary purpose is to provide a dedicated workspace with efficient storage solutions",
+      "indian_specific": "Use of color and materials reflects modern Indian design influences"
     }
   },
-  "cached_at": 1753447636206,
+  "cached_at": 1753957629434,
   "cache_key": "8f27ab7562028ceca654b39506def748"
 }

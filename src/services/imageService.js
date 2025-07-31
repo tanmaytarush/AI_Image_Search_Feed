@@ -20,6 +20,7 @@ class ImageService {
         image_url:
           point.payload.image_url ||
           point.payload.original_analysis?.imageUrl ||
+          point.payload.original_analysis?.image_url ||
           null,
         ...point.payload,
       }));
@@ -423,7 +424,11 @@ class ImageService {
     // Consolidate room_type, design_theme, etc. from all structures
     const consolidatedResult = {
       image_id: result.id,
-      image_url: payload.image_url,
+      image_url:
+        payload.image_url ||
+        payload.original_analysis?.imageUrl ||
+        payload.original_analysis?.image_url ||
+        null,
       score: result.score,
       tag_match_score: this.calculateTagMatchScore(payload, [], ""),
       room_type:

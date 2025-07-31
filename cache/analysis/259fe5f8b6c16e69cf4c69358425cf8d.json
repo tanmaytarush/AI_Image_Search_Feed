@@ -3,13 +3,13 @@
   "analysis": {
     "image_id": "img_098",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Contemporary Indian",
+      "room": "Master Bedroom",
+      "theme": "Contemporary with Traditional Influences",
       "primary_features": [
         "Marble flooring",
-        "Wooden furniture with brass accents",
         "Built-in wardrobes",
-        "Ceiling fan with wooden blades",
+        "Ceiling fan",
+        "Tufted headboard bed",
         "Sheer curtains"
       ],
       "objects": [
@@ -17,68 +17,69 @@
           "type": "Bed",
           "features": [
             "Tufted headboard",
-            "Patterned bedspread"
+            "Patterned bedspread",
+            "Built-in storage base"
           ],
           "materials": [
-            "Wood",
-            "Fabric"
+            "Wood for frame",
+            "Marble for base"
           ],
-          "finish": "Smooth and polished"
+          "finish": "Wood polished, marble glossy"
         },
         {
-          "type": "Built-in Wardrobes",
+          "type": "Wardrobe",
           "features": [
             "Sliding doors",
-            "Marble panels",
-            "Wooden frames"
+            "Wooden frame",
+            "Glass paneling"
           ],
           "materials": [
-            "Marble",
             "Wood",
-            "Metal"
+            "Glass"
           ],
-          "finish": "Glossy"
+          "finish": "Wood polished, glass clear"
         },
         {
           "type": "Side Table",
           "features": [
-            "Wooden structure"
+            "Wooden frame"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Natural"
+          "finish": "Wood polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Beige",
-          "Blue",
-          "Brown"
+          "White marble",
+          "Brown wood",
+          "Blue and white patterned fabric",
+          "Sheer white curtains"
         ],
         "materials": [
           "Marble",
           "Wood",
-          "Metal",
-          "Fabric"
+          "Glass",
+          "Sheer fabric"
         ],
-        "lighting": "Bright and evenly distributed, natural light from windows, artificial light from ceiling recessed lights",
-        "texture": "Smooth marble, polished wood, metallic hardware"
+        "lighting": "Natural light from windows, ceiling spotlights",
+        "texture": "Smooth marble, polished wood, sheer fabric, patterned fabric"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but draws inspiration from Indian design aesthetics",
+        "regional_style": "Not specifically regional, but includes traditional Indian design elements",
         "traditional_elements": [
-          "Wooden furniture with brass accents",
-          "Sheer curtains",
-          "Built-in wardrobes"
+          "Built-in wardrobes",
+          "Tufted headboard",
+          "Sheer curtains"
         ],
         "modern_adaptations": [
-          "Contemporary style with clean lines and symmetry",
-          "Use of marble and modern materials"
+          "Ceiling fan",
+          "Marble flooring",
+          "Contemporary ceiling design"
         ],
-        "space_utilization": "Efficient use of space, with built-in wardrobes and storage solutions within the bed frame",
-        "cultural_significance": "The design elements reflect a balance between traditional and modern, emphasizing functionality and aesthetic appeal"
+        "space_utilization": "Efficient use of space with built-in wardrobes and storage under the bed",
+        "cultural_significance": "Sheer curtains and traditional furniture design contribute to a sense of modesty and comfort"
       }
     },
     "confidence_scores": {
@@ -88,21 +89,23 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The bedroom showcases a contemporary Indian design aesthetic with a blend of traditional and modern elements. The use of marble flooring and built-in wardrobes reflects a focus on functionality, while the wooden furniture with brass accents and sheer curtains add a touch of traditional Indian charm. The space is well-lit, with a combination of natural light from the windows and artificial light from ceiling recessed lights, creating a bright and inviting atmosphere.",
+    "description": "The image showcases a contemporary master bedroom with traditional Indian design elements. The space features marble flooring, built-in wardrobes with glass paneling, a tufted headboard bed with a patterned bedspread, and sheer curtains. The room incorporates traditional Indian design through elements such as the built-in wardrobes and the tufted headboard, while modern adaptations include the ceiling fan, contemporary ceiling design, and marble flooring. The overall layout is efficient, with the built-in wardrobes and storage under the bed maximizing the use of space.",
     "metadata": {
       "tags": [
-        "Contemporary Indian",
-        "Marble Flooring",
-        "Wooden Furniture",
+        "Master Bedroom",
+        "Contemporary",
+        "Traditional Influences",
         "Built-in Wardrobes",
-        "Sheer Curtains"
+        "Tufted Headboard",
+        "Sheer Curtains",
+        "Marble Flooring"
       ],
-      "budget_indicator": "Mid-range, with the use of marble and wood indicating a higher budget",
-      "space_type": "Master Bedroom",
-      "functionality": "Sleeping and storage",
-      "indian_specific": "Traditional furniture styles with polished wood and brass accents"
+      "budget_indicator": "Mid-range, with the use of marble and glass",
+      "space_type": "Residential",
+      "functionality": "Sleeping and storage space",
+      "indian_specific": "Built-in wardrobes and tufted headboard"
     }
   },
-  "cached_at": 1753448085067,
+  "cached_at": 1753957867956,
   "cache_key": "259fe5f8b6c16e69cf4c69358425cf8d"
 }

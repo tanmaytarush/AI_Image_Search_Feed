@@ -4,70 +4,71 @@
     "image_id": "img_099",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Contemporary Indian Fusion",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Bed with mustard-colored tufted headboard",
-        "Wooden wall paneling",
-        "Shelving unit with open and closed compartments",
-        "Patterned bedspread"
+        "Wooden panelled headboard",
+        "Orange upholstered headboard",
+        "Shelving unit with wooden shelves",
+        "Bed with patterned bedspread",
+        "White curtains with floral pattern"
       ],
       "objects": [
         {
-          "type": "Tufted Headboard",
+          "type": "Bed",
           "features": [
-            "Mustard-colored fabric",
-            "Tufted design for comfort and style"
+            "Upholstered headboard",
+            "Patterned bedspread",
+            "Nightstand with drawers"
           ],
           "materials": [
-            "Fabric, possibly cotton or linen"
+            "Wood",
+            "Fabric",
+            "Painted wood"
           ],
-          "finish": "Textured fabric finish"
-        },
-        {
-          "type": "Wall Paneling",
-          "features": [
-            "Vertical wooden slats",
-            "Stained finish"
-          ],
-          "materials": [
-            "Wood, likely teak or sheesham"
-          ],
-          "finish": "Satin wood finish with a warm tone"
+          "finish": "Polished wood, upholstered fabric, painted wooden finish"
         },
         {
           "type": "Shelving Unit",
           "features": [
-            "Open and closed compartments",
-            "Decorative items displayed"
+            "Wall-mounted",
+            "Wooden shelves"
           ],
           "materials": [
-            "Wood, likely teak or sheesham"
+            "Wood"
           ],
-          "finish": "Satin wood finish"
+          "finish": "Polished wood"
+        },
+        {
+          "type": "Nightstand",
+          "features": [
+            "Small, wooden, with drawers"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished wood"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Mustard, white, blue, gray, beige"
+          "White, Orange, Brown, Blue, Beige"
         ],
         "materials": [
-          "Wood, fabric, glass"
+          "Wood, Fabric, Painted wood"
         ],
-        "lighting": "Natural light from the window with sheer curtains and additional overhead lighting",
-        "texture": "Textured fabric, smooth wood finish, clear glass shelves"
+        "lighting": "Natural light from the window with white curtains, supplemented by ceiling light",
+        "texture": "Smooth wood, soft fabric, painted wood"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional; a blend of traditional and modern",
+        "regional_style": "Not specific regional style visible, likely modernized Indian design",
         "traditional_elements": [
-          "Tufted headboard",
-          "Decorative shelving"
+          "Upholstered headboard, shelving unit with shelves"
         ],
         "modern_adaptations": [
-          "Sleek shelving design",
-          "Integrated lighting"
+          "Contemporary shapes, wood finishes"
         ],
-        "space_utilization": "Efficient use of vertical space with shelving unit and wall paneling",
-        "cultural_significance": "The use of tufted headboards and decorative shelving reflects traditional elements, while the modern shelving and integrated lighting show contemporary adaptations"
+        "space_utilization": "Efficient use of vertical space with shelving unit, wall-mounted lighting, and compact nightstand",
+        "cultural_significance": "Use of orange and white is common in Indian interiors, reflecting cultural color preferences, though the design is modern"
       }
     },
     "confidence_scores": {
@@ -77,21 +78,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The bedroom showcases a contemporary Indian fusion design with a mustard-colored tufted headboard and wooden wall paneling. The shelving unit, with open and closed compartments, adds a modern touch to the traditional Indian elements. The space is well-organized, utilizing vertical space effectively, and the color palette includes warm tones with accents of blue and white. Cultural elements like the tufted headboard and decorative shelving are seamlessly integrated with modern furnishings and lighting.",
+    "description": "This bedroom features a contemporary Indian design with a wooden panelled headboard and orange upholstered backrest, creating a warm and inviting atmosphere. The space includes a wall-mounted shelving unit with shelves, a compact nightstand with drawers, and a bed with a patterned blue and white bedspread. The use of white curtains and a natural light setup complements the earthy tones of the wood, reflecting a modern approach to traditional Indian design elements. The space is efficiently utilized with vertical storage and a clean, minimalist layout.",
     "metadata": {
       "tags": [
-        "Contemporary Indian Bedroom",
-        "Tufted Headboard",
-        "Wooden Paneling",
-        "Shelving Unit",
-        "Indian Fusion Design"
+        "Contemporary Indian",
+        "Bedroom",
+        "Wooden Headboard",
+        "Orange Upholstery",
+        "Shelving Unit"
       ],
-      "budget_indicator": "Moderate to High (due to the use of wood and integrated lighting)",
-      "space_type": "Residential Bedroom",
-      "functionality": "Sleeping and relaxation",
-      "indian_specific": "Tufted headboard, decorative shelving"
+      "budget_indicator": "Moderate, with visible use of polished wood and simple patterns",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Use of wood, orange upholstery, and shelving unit"
     }
   },
-  "cached_at": 1753448109390,
+  "cached_at": 1753957896269,
   "cache_key": "a3460beb7ea0c9b57dc541647946f82c"
 }

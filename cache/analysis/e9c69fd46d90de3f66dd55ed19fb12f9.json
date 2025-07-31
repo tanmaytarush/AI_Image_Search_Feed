@@ -3,77 +3,73 @@
   "analysis": {
     "image_id": "img_100",
     "ai_generated_tags": {
-      "room": "Entryway",
-      "theme": "Modern",
+      "room": "Closet",
+      "theme": "Modern Indian",
       "primary_features": [
         "Marble flooring",
-        "Sliding wardrobe doors",
-        "Recessed lighting",
-        "Wooden accents"
+        "Sliding door",
+        "Wooden trim",
+        "Ceiling lights"
       ],
       "objects": [
         {
-          "type": "Sliding wardrobe",
+          "type": "Sliding wardrobe door",
           "features": [
-            "Marble sliding doors",
-            "Wooden frame",
-            "Modern handles"
+            "Marble panels",
+            "Wooden frame"
           ],
           "materials": [
             "Marble",
-            "Wood"
+            "Teak"
           ],
-          "finish": "Glossy"
+          "finish": "High-gloss finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Marble beige",
-          "Brown",
-          "Blue and white pattern on edge"
+          "White marble",
+          "Brown wood",
+          "Yellow marble veins"
         ],
         "materials": [
           "Marble",
-          "Wood",
-          "Glass"
+          "Teak"
         ],
-        "lighting": "Recessed lighting, providing bright illumination",
-        "texture": "Glossy finish on marble and wood"
+        "lighting": "Bright ceiling lights",
+        "texture": "Smooth and polished surfaces"
       },
       "indian_context": {
-        "regional_style": "Not indicative of a specific regional style",
+        "regional_style": "Maharashtra-Style",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Marble and modern hardware as adaptations"
+          "Marble and modern sliding doors"
         ],
-        "space_utilization": "Efficient use of space with a minimalist wardrobe",
-        "cultural_significance": "Not culturally significant as it does not include traditional Indian elements"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern entryway with a sleek design. It features a sliding wardrobe with marble sliding doors and wooden framing, complemented by a glossy finish. The space is illuminated by recessed lighting, and the floor is covered with marble tiles. The corner of a table with a blue and white patterned cover is visible, indicating the presence of a dining or living area adjacent to the entryway.",
-      "metadata": {
-        "tags": [
-          "Entryway",
-          "Modern",
-          "Marble",
-          "Wood",
-          "Sliding Wardrobe",
-          "Recessed Lighting"
-        ],
-        "budget_indicator": "Moderate to high, given the use of marble and wood",
-        "space_type": "Residential",
-        "functionality": "Entrance storage solution",
-        "indian_specific": "No Indian-specific design features visible"
+        "space_utilization": "Efficient use of space with a focus on storage",
+        "cultural_significance": "Minimal use of traditional Indian elements, reflecting a modern adaptation of Indian interior design"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space features a modern interpretation of traditional Indian design, evident in the use of marble and teak wood. The marble flooring and door panels, combined with the polished wood trim, create a luxurious and contemporary look. The bright ceiling lights enhance the spaciousness and modern aesthetic of the room.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Marble",
+        "Teak",
+        "Sliding Door",
+        "Closet"
+      ],
+      "budget_indicator": "Higher, due to the use of marble and high-quality wood",
+      "space_type": "Residential",
+      "functionality": "Storage and organization",
+      "indian_specific": "Modern adaptation of traditional Indian materials and finishes"
     }
   },
-  "cached_at": 1753448139583,
+  "cached_at": 1753957915505,
   "cache_key": "e9c69fd46d90de3f66dd55ed19fb12f9"
 }

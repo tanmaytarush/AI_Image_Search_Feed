@@ -6,96 +6,85 @@
       "room": "Living Room",
       "theme": "Contemporary Indian",
       "primary_features": [
-        "Wooden slatted wall paneling",
-        "LED ring light fixtures",
-        "Buddha statue",
-        "Floral arrangement",
-        "Painting of running horses"
+        "Wooden partition",
+        "Wall-mounted TV",
+        "Decorative lighting",
+        "Buddha statue"
       ],
       "objects": [
         {
-          "type": "LED Ring Light Fixture",
+          "type": "Wooden Partition",
           "features": [
-            "Modern design with circular shape",
-            "Illuminated in warm white light"
+            "Vertical slats",
+            "Dark wood finish"
           ],
           "materials": [
-            "Metal (likely brass or gold-tone finish)",
-            "Glass or acrylic diffuser"
+            "Wood"
           ],
-          "finish": "Polished, reflective surface"
+          "finish": "Glossy"
+        },
+        {
+          "type": "Wall-Mounted TV",
+          "features": [
+            "Modern flat-screen design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Sleek black"
+        },
+        {
+          "type": "Decorative Lighting",
+          "features": [
+            "Circular pendants",
+            "Gold accents"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Rounded with metallic finish"
         },
         {
           "type": "Buddha Statue",
           "features": [
-            "White ceramic material",
-            "Siddhasana posture",
-            "Meditative expression"
+            "White ceramic",
+            "Sitting pose"
           ],
           "materials": [
-            "Ceramic or porcelain"
+            "Ceramic"
           ],
-          "finish": "Glossy, reflective"
-        },
-        {
-          "type": "Flower Arrangement",
-          "features": [
-            "Includes white flowers and green foliage",
-            "Decorative vases with intricate designs"
-          ],
-          "materials": [
-            "Ceramic or porcelain for vases",
-            "Flowers: artificial or real"
-          ],
-          "finish": "Vases: glossy, reflective, vases may be glazed"
-        },
-        {
-          "type": "Painting",
-          "features": [
-            "Horse-themed artwork",
-            "Warm color palette with sunset tones"
-          ],
-          "materials": [
-            "Canvas or paper",
-            "Paint"
-          ],
-          "finish": "Matte or slightly glossy surface"
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (wood)",
-          "White (wall)",
-          "Gold (lighting frame)",
-          "Black (television)",
-          "Blue (television screen)",
-          "Green (foliage)",
-          "Tan (horse painting)"
+          "Brown",
+          "White",
+          "Dark wood",
+          "Gold",
+          "Blue"
         ],
         "materials": [
           "Wood",
           "Metal",
-          "Glass",
           "Ceramic",
-          "Canvas",
-          "Marble or quartz"
+          "Glass"
         ],
-        "lighting": "Artificial, modern ring lights with warm white illumination",
-        "texture": "Smooth wooden texture, glossy ceramic vases, painted artwork"
+        "lighting": "Warm ambient lighting from decorative pendants",
+        "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Mughal-inspired architectural elements",
+        "regional_style": "Southern Indian",
         "traditional_elements": [
-          "Wooden slatted paneling",
-          "Buddha statue",
-          "Floral arrangements"
+          "Wooden partition",
+          "Decorative lighting"
         ],
         "modern_adaptations": [
-          "LED lighting",
-          "Contemporary furniture design"
+          "Combination of traditional and modern elements"
         ],
-        "space_utilization": "Efficient use of wall space, blending traditional and modern elements",
-        "cultural_significance": "Buddha statue signifies traditional Indian spiritual beliefs, while the painting and floral arrangement add modern touches"
+        "space_utilization": "Efficient use of space with a blend of decorative and functional elements",
+        "cultural_significance": "The inclusion of a Buddha statue reflects a blend of traditional spiritual elements with contemporary living spaces"
       }
     },
     "confidence_scores": {
@@ -105,23 +94,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This modern Indian living room features a blend of contemporary and traditional elements. The wooden slatted wall paneling evokes Mughal-style architecture, while the LED ring light fixtures and Buddha statue introduce a modern and spiritual touch. The painting of running horses and floral arrangements add a cultural and naturalistic flair, maintaining a balance between traditional and contemporary aesthetics.",
+    "description": "The image showcases a living room with contemporary Indian design elements, featuring a wooden partition with vertical slats, a wall-mounted TV, and decorative lighting. The space is adorned with a white ceramic Buddha statue, adding a spiritual touch. The design incorporates traditional Indian aesthetics with modern interpretations, such as the combination of natural wood and sleek metals. The warm lighting from the pendants creates a cozy ambiance, complementing the overall modern yet culturally rich interior.",
     "metadata": {
       "tags": [
         "Living Room",
-        "Modern Indian",
-        "Wooden Wall Paneling",
-        "LED Lighting",
-        "Buddha Statue",
-        "Floral Arrangement",
-        "Horse Painting"
+        "Contemporary Indian",
+        "Wooden Partition",
+        "Wall-Mounted TV",
+        "Decorative Lighting",
+        "Buddha Statue"
       ],
-      "budget_indicator": "Moderate to high, with use of polished materials and contemporary fixtures",
+      "budget_indicator": "Moderate",
       "space_type": "Residential",
-      "functionality": "Entertainment and relaxation area",
-      "indian_specific": "Wooden slatted paneling, Buddha statue, and horse painting"
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Wooden Partition, Buddha Statue, Decorative Lighting"
     }
   },
-  "cached_at": 1753447931048,
+  "cached_at": 1753957759610,
   "cache_key": "99021e1cde34bf340ea34c24a25c2104"
 }

@@ -4,82 +4,92 @@
     "image_id": "img_084",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Contemporary Indian",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Bed with modern wooden frame",
-        "Sliding wardrobe doors",
-        "Textured wallpaper",
-        "Modern bedside tables"
+        "Contemporary bed frame",
+        "Textured wall paneling",
+        "Modern bedside tables",
+        "Sheer curtains"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "Bed frame",
           "features": [
-            "Modern wooden frame with curved legs",
-            "Textured mattress",
-            "Quilted throw pillows"
+            "Curved design",
+            "Cream finish",
+            "Natural wood elements"
           ],
           "materials": [
-            "Wood",
-            "Textured fabric"
+            "Cream-colored fabric",
+            "Natural wood"
           ],
-          "finish": "Natural wood finish with a matte texture on the bed frame"
+          "finish": "Cream-colored fabric, natural wood tones"
         },
         {
-          "type": "Sliding Wardrobe",
+          "type": "Bedside table",
           "features": [
-            "Closed wardrobe with cream panels",
-            "Textured wallpaper behind the doors"
+            "Modern design",
+            "Metallic gold accents",
+            "Sleek surface"
           ],
           "materials": [
-            "Wood",
-            "Textured wallpaper"
+            "Metallic gold",
+            "Wood"
           ],
-          "finish": "Cream-colored panels with a smooth finish"
+          "finish": "Metallic gold, polished wood"
         },
         {
-          "type": "Bedside Tables",
+          "type": "Wall panel",
           "features": [
-            "Minimalistic design",
-            "Gold-colored table lamps",
-            "Simple wood finish"
+            "Textured finish",
+            "Vertical wood slats",
+            "Green leafy pattern"
           ],
           "materials": [
             "Wood",
-            "Metal"
+            "Fabric"
           ],
-          "finish": "Wood with a natural finish, metal with a polished gold finish"
+          "finish": "Textured wood, fabric with leaf pattern"
+        },
+        {
+          "type": "Curtains",
+          "features": [
+            "Sheer fabric",
+            "White color"
+          ],
+          "materials": [
+            "Cotton"
+          ],
+          "finish": "Sheer, white fabric"
         }
       ],
       "visual_attributes": {
         "colors": [
+          "Cream",
           "White",
-          "Beige",
-          "Green",
-          "Gray",
-          "Brown"
+          "Natural wood tones",
+          "Gold metallic",
+          "Green leaf pattern"
         ],
         "materials": [
+          "Fabric",
           "Wood",
-          "Textured wallpaper",
           "Metal",
-          "Fabric"
+          "Marble"
         ],
-        "lighting": "Natural light from the window with sheer curtains, supplemented by bedside table lamps",
-        "texture": "Textured wallpaper and bed frame with a matte finish"
+        "lighting": "Bright and natural, artificial ceiling lights",
+        "texture": "Textured fabric, polished wood, metallic sheen, sheer fabric"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but incorporates traditional Indian textile influences",
+        "regional_style": "",
         "traditional_elements": [
-          "Textured wallpaper with leafy patterns",
-          "Quilted throw pillows"
+          "Curved bed frame"
         ],
         "modern_adaptations": [
-          "Contemporary furniture design with wood",
-          "Minimalistic side tables"
+          "Modern materials and finishes"
         ],
-        "space_utilization": "Efficient use of space with a sliding wardrobe and bedside tables",
-        "cultural_significance": "The use of leafy patterns in the wallpaper reflects traditional Indian textile designs"
+        "space_utilization": "Efficient use of space with functional bedside tables and storage",
+        "cultural_significance": "Contemporary interpretation of Indian design, using modern materials with traditional curves"
       }
     },
     "confidence_scores": {
@@ -89,21 +99,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The bedroom showcases a contemporary Indian design with a blend of traditional and modern elements. The bed features a modern wooden frame with a natural finish, complemented by textured throw pillows. The sliding wardrobe has cream-colored panels with a smooth finish and is adorned with a textured wallpaper that has leafy patterns, reminiscent of traditional Indian textiles. Minimalistic bedside tables with gold-colored table lamps add a touch of modern sophistication. The space is well-lit with natural light from sheer curtains and additional lighting from the bedside lamps. The overall design is clean, with an emphasis on texture and natural materials.",
+    "description": "This modern Indian bedroom features a contemporary design with a curved bed frame, textured wall paneling that incorporates vertical wooden slats and a green leafy pattern, and modern bedside tables with metallic gold accents. The room utilizes sheer white curtains for privacy. The color palette is a harmonious blend of cream, natural wood tones, gold metallic, and green leaf patterns, reflecting a contemporary take on traditional Indian design elements. The space is well-lit with both natural and artificial light, creating a bright and inviting atmosphere.",
     "metadata": {
       "tags": [
-        "Contemporary Indian",
-        "Modern Bedroom",
-        "Textured Wallpaper",
-        "Thermal Wood",
-        "Minimalist Design"
+        "Modern Indian",
+        "Contemporary Bedroom",
+        "Textured Walls",
+        "Sheer Curtains",
+        "Curved Bed Frame"
       ],
-      "budget_indicator": "Mid-range, with a focus on quality materials like wood, textured wallpaper, and metal",
-      "space_type": "Residential Bedroom",
-      "functionality": "Primary sleeping area with storage and a comfortable sitting space",
-      "indian_specific": "Textured wallpaper with leafy patterns"
+      "budget_indicator": "Moderate, utilizing modern materials with a touch of traditional elements",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is a bedroom, providing a comfortable and stylish sleeping space",
+      "indian_specific": "Curved bed frame and textured wall paneling with traditional patterns"
     }
   },
-  "cached_at": 1753447662437,
+  "cached_at": 1753957639042,
   "cache_key": "57af0f50d985f0dba71a9ea205b9047e"
 }

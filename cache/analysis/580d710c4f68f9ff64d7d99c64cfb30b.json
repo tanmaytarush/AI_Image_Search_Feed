@@ -6,54 +6,104 @@
       "room": "Kitchen",
       "theme": "Modern Indian",
       "primary_features": [
-        "Glass cabinets",
-        "Marble countertops",
-        "Open space design"
+        "Light green cabinetry",
+        "White countertops",
+        "Marble floor",
+        "Integrated cooktop",
+        "Sleek design"
       ],
       "objects": [
         {
-          "type": "Kitchen countertops",
+          "type": "Vase",
           "features": [
-            "White marble with brown veining",
-            "Integrated sink and stove"
+            "Decorative",
+            "Floral arrangement"
           ],
           "materials": [
-            "Marble, glass"
+            "Metallic",
+            "Porcelain"
           ],
-          "finish": "High-gloss finish"
+          "finish": "Glossy"
         },
         {
-          "type": "Glass cabinets",
+          "type": "Water jug",
           "features": [
-            "Clear glass panels",
-            "Black frames"
+            "Translucent",
+            "Blue lid"
           ],
           "materials": [
-            "Glass, metal"
+            "Plastic"
           ],
-          "finish": "High-gloss finish"
+          "finish": "Glossy"
+        },
+        {
+          "type": "Kitchenware",
+          "features": [
+            "Ceramic",
+            "Colorful"
+          ],
+          "materials": [
+            "Clay"
+          ],
+          "finish": "Glazed"
+        },
+        {
+          "type": "Enameled utensils",
+          "features": [
+            "Patterned",
+            "Copper body"
+          ],
+          "materials": [
+            "Copper",
+            "Enamel"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Teapot",
+          "features": [
+            "Black"
+          ],
+          "materials": [
+            "Plastic"
+          ],
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, green, brown, black, yellow, red"
+          "Light green",
+          "White",
+          "Gold",
+          "Green",
+          "Red",
+          "Blue",
+          "Brown",
+          "Black"
         ],
         "materials": [
-          "Marble, glass, metal"
+          "Marble",
+          "Glass",
+          "Copper",
+          "Porcelain",
+          "Plastic",
+          "Clay",
+          "Metallic"
         ],
-        "lighting": "Natural light with artificial ceiling lights",
-        "texture": "Smooth surfaces with glossy finishes"
+        "lighting": "Artificial, bright, and evenly distributed",
+        "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Modern Indian with a touch of traditional elements",
+        "regional_style": "Modern Indian",
         "traditional_elements": [
-          "Decorative plants, colorful jars"
+          "Marble flooring"
         ],
         "modern_adaptations": [
-          "Glass cabinets, contemporary furniture"
+          "Integrated cooktop",
+          "Minimalist design"
         ],
-        "space_utilization": "Open and functional kitchen design",
-        "cultural_significance": "The use of plants and colorful elements reflects a connection to nature and vibrancy in Indian decor"
+        "space_utilization": "Efficient use of space with an open layout",
+        "cultural_significance": "The use of marble and other materials reflects Indian craftsmanship and aesthetic preferences"
       }
     },
     "confidence_scores": {
@@ -63,21 +113,24 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This modern Indian kitchen showcases a blend of contemporary design with traditional Indian aesthetics. The use of glass cabinets and marble countertops exemplifies modern functionality, while the inclusion of green cabinets introduces a traditional color that is commonly seen in Indian interiors. The space is well-lit with natural light from the window and artificial overhead lighting. Decorative plants and colorful jars add a touch of vibrancy and cultural significance, reflecting the importance of nature and color in Indian design. The open layout maximizes space and functionality, creating a welcoming and efficient cooking area.",
+    "description": "The kitchen showcases a blend of modern and traditional Indian elements, featuring sleek, light green cabinetry paired with white countertops and marble flooring, creating a visually clean and contemporary space. The inclusion of traditional materials like marble and decorative elements such as enameled utensils and a copper teapot adds a touch of cultural significance, while the clean lines and modern appliances reflect a blend of traditional craftsmanship and contemporary design.",
     "metadata": {
       "tags": [
-        "Modern Indian Kitchen",
-        "Glass Cabinets",
-        "Marble Countertops",
-        "Green Cabinets",
-        "Open Space"
+        "Modern Indian",
+        "Cultural Kitchen",
+        "Light Green Cabinets",
+        "White Countertops",
+        "Marble Flooring",
+        "Minimalist Design",
+        "Copper Teapot",
+        "Enameled Utensils"
       ],
-      "budget_indicator": "Mid-range",
-      "space_type": "Residential",
-      "functionality": "Cooking and dining area",
-      "indian_specific": "High-gloss finishes, traditional colors, and decorative plants"
+      "budget_indicator": "Mid-range, with the use of modern materials and appliances",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary cooking and food preparation area",
+      "indian_specific": "Use of marble, traditional utensils, and enameled items"
     }
   },
-  "cached_at": 1753447902364,
+  "cached_at": 1753957739200,
   "cache_key": "580d710c4f68f9ff64d7d99c64cfb30b"
 }
