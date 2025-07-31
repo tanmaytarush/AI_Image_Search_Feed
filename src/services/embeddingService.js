@@ -31,13 +31,13 @@ class EmbeddingService {
   async initializeVisualExtractor() {
     if (!this.visualInitialized) {
       try {
-        // Use a proper vision model for image feature extraction
+        // Use ResNet-50 for CNN-based visual feature extraction
         this.visualExtractor = await pipeline(
-          "feature-extraction",
-          "Xenova/resnet-50"  // ResNet-50 for feature extraction (2048 dimensions)
+          "image-classification",
+          "Xenova/resnet-50"  // ResNet-50 for CNN visual features
         );
         this.visualInitialized = true;
-        console.log("✅ Successfully initialized visual extractor using resnet-50 (2048 dimensions)");
+        console.log("✅ Successfully initialized CNN visual extractor using ResNet-50");
       } catch (error) {
         console.error("Error initializing visual extractor:", error);
         // Fallback to text-based approach
@@ -259,42 +259,29 @@ class EmbeddingService {
       const result = await this.visualExtractor(imageUrl);
       
       let visualFeatures;
-      let expectedDimension;
       
-             // Handle different model outputs
-       if (result && result.data) {
-         // Feature extraction output
-         visualFeatures = result.data.tolist()[0];
-         expectedDimension = 2048;
-         console.log(`📊 ResNet feature extraction detected: ${visualFeatures.length} dimensions`);
-       } else if (result && result.scores) {
-         // Classification output - convert to feature vector
-         visualFeatures = result.scores.tolist()[0];
-         expectedDimension = 1000; // ImageNet classes
-         console.log(`📊 ResNet classification detected: ${visualFeatures.length} dimensions`);
-       } else if (result && Array.isArray(result)) {
-         // Direct feature array
-         visualFeatures = result;
-         expectedDimension = visualFeatures.length;
-         console.log(`📊 Direct features detected: ${visualFeatures.length} dimensions`);
-       } else if (result && typeof result === 'object') {
-         // Handle various output structures
-         const features = result.data || result.scores || result.logits || result;
-         if (features && features.tolist) {
-           visualFeatures = features.tolist()[0];
-           expectedDimension = visualFeatures.length;
-           console.log(`📊 Model features detected: ${visualFeatures.length} dimensions`);
-         } else {
-           // Fallback to text-based approach
-           console.log(`⚠️ Vision model output not recognized, using enhanced fallback approach`);
-           const visualDescription = await this.createEnhancedVisualDescription(imageUrl);
-           visualFeatures = await this.getEmbedding(
-             visualDescription,
-             "Visual features and image characteristics for interior design search"
-           );
-           expectedDimension = 384;
-         }
-       } else {
+      // Handle ResNet classification output
+      if (result && Array.isArray(result) && result.length > 0) {
+        // Extract classification scores as visual features
+        const scores = result.map(item => item.score);
+        console.log(`📊 ResNet CNN features extracted: ${scores.length} classification scores`);
+        
+        // Normalize scores to 0-1 range and convert to 384d vector
+        const normalizedScores = scores.map(score => Math.max(0, Math.min(1, score)));
+        
+        // Pad or truncate to 384 dimensions
+        if (normalizedScores.length >= 384) {
+          visualFeatures = normalizedScores.slice(0, 384);
+          console.log(`📊 Truncated CNN features to 384 dimensions`);
+        } else {
+          // Pad with zeros to reach 384 dimensions
+          visualFeatures = [...normalizedScores, ...new Array(384 - normalizedScores.length).fill(0)];
+          console.log(`📊 Padded CNN features to 384 dimensions`);
+        }
+        
+        console.log(`✅ Generated CNN-based visual features (${visualFeatures.length} dimensions)`);
+        return visualFeatures;
+      } else {
         // Fallback to text-based approach
         console.log(`⚠️ Vision model output not recognized, using enhanced fallback approach`);
         const visualDescription = await this.createEnhancedVisualDescription(imageUrl);
@@ -302,31 +289,14 @@ class EmbeddingService {
           visualDescription,
           "Visual features and image characteristics for interior design search"
         );
-        expectedDimension = 384;
+        console.log(`✅ Generated fallback visual features (${visualFeatures.length} dimensions)`);
+        return visualFeatures;
       }
-      
-      // Validate visual features dimension
-      if (visualFeatures.length !== expectedDimension) {
-        console.warn(`⚠️ Visual features dimension mismatch: expected ${expectedDimension}, got ${visualFeatures.length}`);
-      }
-      
-      // Normalize features to ensure they're in the expected range
-      const normalizedFeatures = this.normalizeFeatures(visualFeatures);
-      
-      console.log(`✅ Extracted visual features (${normalizedFeatures.length} dimensions) from image`);
-      return normalizedFeatures;
-      
     } catch (error) {
       console.error("Error extracting visual features:", error);
       console.log("🔄 Falling back to text-based visual features...");
-      
-      // Fallback to text-based approach
       const visualDescription = await this.createEnhancedVisualDescription(imageUrl);
-      const visualFeatures = await this.getEmbedding(
-        visualDescription,
-        "Visual features and image characteristics for interior design search"
-      );
-      
+      const visualFeatures = await this.getEmbedding(visualDescription, "Visual features and image characteristics for interior design search");
       console.log(`✅ Generated fallback visual features (${visualFeatures.length} dimensions)`);
       return visualFeatures;
     }

@@ -57,7 +57,7 @@ class ImageProcessor {
         );
 
         // Add image URL to result
-        analysisResult.image_url = image.image_url;
+        analysisResult.imageUrl = image.image_url;
 
         console.log(`✓ Completed analysis for: ${image.image_id}`);
         batchResults.push(analysisResult);
