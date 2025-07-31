@@ -26,7 +26,30 @@ searchInput.addEventListener("keypress", (e) => {
 // Load all images on page load
 document.addEventListener("DOMContentLoaded", () => {
   loadAllImages();
+  setupSearchSuggestions();
 });
+
+// Setup search suggestions
+function setupSearchSuggestions() {
+  // AI-powered search suggestions based on room categories and features
+  const suggestions = [
+    // Room types (AI-detected)
+    "living room", "bedroom", "kitchen", "bathroom", "dining room", 
+    "puja room", "pooja room", "prayer room", "wardrobe", "closet",
+    "home office", "study room", "entryway", "foyer", "balcony",
+    
+    // Features and materials
+    "tv", "television", "sofa", "bed", "wardrobe", "marble", "wood", 
+    "modern", "traditional", "minimalist", "luxury", "budget",
+    
+    // Cultural and regional terms
+    "indian", "traditional indian", "modern indian", "contemporary indian",
+    "mandir", "temple", "worship", "prayer"
+  ];
+  
+  // Add placeholder with AI-powered suggestions
+  searchInput.placeholder = "Search for rooms like: living room, puja room, kitchen... or features like: tv, marble, modern...";
+}
 
 // Handle Search
 async function handleSearch() {
@@ -43,7 +66,12 @@ async function handleSearch() {
 
   try {
     const searchResults = await searchImages(query);
-    displayImages(searchResults, `Search results for "${query}"`);
+    
+    if (searchResults.images.length === 0) {
+      displayImages([], `No results found for "${query}". Try different keywords or browse all images.`);
+    } else {
+      displayImages(searchResults.images, `Found ${searchResults.images.length} images matching "${query}"`, searchResults.metadata);
+    }
   } catch (err) {
     setError(`Search failed: ${err.message}`);
     console.error("Search error:", err);
@@ -88,14 +116,17 @@ async function searchImages(query) {
   const data = await response.json();
 
   if (data.success) {
-    return data.data;
+    return {
+      images: data.data,
+      metadata: data.search_metadata
+    };
   } else {
     throw new Error(data.message || "Search failed");
   }
 }
 
 // Display Images
-function displayImages(images, title) {
+function displayImages(images, title, searchMetadata = null) {
   currentImages = images;
 
   if (images.length === 0) {
@@ -111,6 +142,14 @@ function displayImages(images, title) {
 
   const imagesHTML = images.map((image) => createImageCard(image)).join("");
   imagesGrid.innerHTML = imagesHTML;
+  
+  // Add AI insights if available
+  if (searchMetadata && searchMetadata.search_insights) {
+    const insights = searchMetadata.search_insights;
+    const insightsHTML = createInsightsCard(insights);
+    imagesGrid.insertAdjacentHTML('afterbegin', insightsHTML);
+  }
+  
   setStatus(title);
 }
 
@@ -313,6 +352,64 @@ function setStatus(message) {
 function setError(message) {
   error.textContent = message;
   error.style.display = message ? "block" : "none";
+}
+
+// Create AI Insights Card
+function createInsightsCard(insights) {
+  const { query_analysis, result_analysis } = insights;
+  
+  let featuresHTML = '';
+  if (query_analysis.detected_features) {
+    featuresHTML = `<div class="insight-item"><strong>Features:</strong> ${query_analysis.detected_features}</div>`;
+  }
+  
+  let roomTypesHTML = '';
+  if (query_analysis.detected_room_types && query_analysis.detected_room_types.length > 0) {
+    roomTypesHTML = `<div class="insight-item"><strong>Room Types:</strong> ${query_analysis.detected_room_types.join(', ')}</div>`;
+  }
+  
+  let intentHTML = '';
+  if (query_analysis.search_intent) {
+    const intentLabels = {
+      'style_preference': 'Style Preference',
+      'budget_constraint': 'Budget Constraint',
+      'feature_specific': 'Feature Specific',
+      'general_search': 'General Search'
+    };
+    intentHTML = `<div class="insight-item"><strong>Search Intent:</strong> ${intentLabels[query_analysis.search_intent] || query_analysis.search_intent}</div>`;
+  }
+  
+  let confidenceHTML = '';
+  if (result_analysis.confidence_level) {
+    const confidenceLabels = {
+      'high': 'High Confidence',
+      'medium': 'Medium Confidence',
+      'low': 'Low Confidence'
+    };
+    confidenceHTML = `<div class="insight-item"><strong>Confidence:</strong> ${confidenceLabels[result_analysis.confidence_level] || result_analysis.confidence_level}</div>`;
+  }
+  
+  return `
+    <div class="ai-insights-card">
+      <div class="insights-header">
+        <h3>🤖 AI Search Insights</h3>
+        <div class="ai-badge">AI-Powered</div>
+      </div>
+      <div class="insights-content">
+        <div class="insights-section">
+          <h4>Query Analysis</h4>
+          ${featuresHTML}
+          ${roomTypesHTML}
+          ${intentHTML}
+        </div>
+        <div class="insights-section">
+          <h4>Result Analysis</h4>
+          <div class="insight-item"><strong>Total Results:</strong> ${result_analysis.total_results}</div>
+          ${confidenceHTML}
+        </div>
+      </div>
+    </div>
+  `;
 }
 
 // Add global function for image modal

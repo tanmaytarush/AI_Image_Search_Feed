@@ -290,6 +290,62 @@
         font-size: 1.1rem;
       }
 
+      /* AI Insights Card Styles */
+      .ai-insights-card {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border-radius: 15px;
+        padding: 20px;
+        margin-bottom: 30px;
+        box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+      }
+
+      .insights-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+      }
+
+      .insights-header h3 {
+        font-size: 1.3rem;
+        font-weight: 600;
+        margin: 0;
+      }
+
+      .ai-badge {
+        background: rgba(255, 255, 255, 0.2);
+        padding: 5px 12px;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: 600;
+        backdrop-filter: blur(10px);
+      }
+
+      .insights-content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+      }
+
+      .insights-section h4 {
+        font-size: 1rem;
+        margin-bottom: 10px;
+        opacity: 0.9;
+        font-weight: 500;
+      }
+
+      .insight-item {
+        margin-bottom: 8px;
+        font-size: 0.9rem;
+        opacity: 0.9;
+      }
+
+      .insight-item strong {
+        color: #fff;
+        opacity: 1;
+      }
+
       @media (max-width: 768px) {
         .search-container {
           flex-direction: column;
@@ -303,6 +359,11 @@
         .header h1 {
           font-size: 2rem;
         }
+        
+        .insights-content {
+          grid-template-columns: 1fr;
+          gap: 15px;
+        }
       }
     </style>
   </head>
@@ -315,13 +376,12 @@
 
       <div class="search-section">
         <div class="search-container">
-          <input 
-            type="text" 
-            id="searchInput" 
-            class="search-input" 
-            placeholder="Search for modern living rooms, bedrooms, kitchens..."
-            autocomplete="off"
-          >
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Search for rooms like: living room, puja room, kitchen... or features like: tv, marble, modern..."
+            class="search-input"
+          />
           <button id="searchBtn" class="search-btn">🔍 Search</button>
           <button id="clearBtn" class="clear-btn">Clear</button>
         </div>
