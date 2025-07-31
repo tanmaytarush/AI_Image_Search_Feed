@@ -44,7 +44,7 @@ class ImageProcessor {
     console.log(`Processing batch of ${images.length} images...`);
 
     const batchResults = [];
-    
+
     // Process images sequentially with delays to avoid rate limiting
     for (const image of images) {
       try {
@@ -57,11 +57,11 @@ class ImageProcessor {
         );
 
         // Add image URL to result
-        analysisResult.imageUrl = image.image_url;
+        analysisResult.image_url = image.image_url;
 
         console.log(`✓ Completed analysis for: ${image.image_id}`);
         batchResults.push(analysisResult);
-        
+
         // Add delay between individual images to avoid rate limiting
         if (images.indexOf(image) < images.length - 1) {
           console.log(`⏳ Waiting 1 second before next image...`);
@@ -122,7 +122,9 @@ class ImageProcessor {
         if (transformedData.length > 0) {
           console.log("💾 Storing hybrid vectors in Qdrant...");
           await qdrantService.upsertPoints(transformedData);
-          console.log(`✅ Stored ${transformedData.length} images with hybrid vectors (visual + text)`);
+          console.log(
+            `✅ Stored ${transformedData.length} images with hybrid vectors (visual + text)`
+          );
         } else {
           console.log("⚠️ No valid data to store in this batch");
         }
@@ -154,7 +156,9 @@ class ImageProcessor {
 
     // Get CDN cache statistics
     const cdnStats = cdnService.getCacheStats();
-    console.log(`📦 CDN Cache: ${cdnStats.analysis_cache_count} analysis results cached`);
+    console.log(
+      `📦 CDN Cache: ${cdnStats.analysis_cache_count} analysis results cached`
+    );
 
     if (this.errors.length > 0) {
       console.log("\n❌ Failed images:");

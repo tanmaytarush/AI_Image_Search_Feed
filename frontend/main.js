@@ -119,29 +119,32 @@ function createImageCard(image) {
   const scoreHtml = image.score
     ? `<div class="match-score">Match: ${(image.score * 100).toFixed(1)}%</div>`
     : "";
-    
-  const roomTypeHtml = image.room_type 
+
+  const roomTypeHtml = image.room_type
     ? `<div class="metadata-item"><strong>Room:</strong> ${image.room_type}</div>`
     : "";
-    
-  const designThemeHtml = image.design_theme 
+
+  const designThemeHtml = image.design_theme
     ? `<div class="metadata-item"><strong>Style:</strong> ${image.design_theme}</div>`
     : "";
 
   // Generate tags display
   const tagsHtml = generateTagsDisplay(image.tags || {});
-  
+
   // Generate additional metadata
   const additionalInfoHtml = generateAdditionalInfo(image);
 
   // Generate user-friendly title
   const imageTitle = generateImageTitle(image);
 
+  // Get image URL from the correct location
+  const imageUrl = image.image_url || image.original_analysis?.imageUrl || "";
+
   return `
-    <div class="image-card" onclick="openImageModal('${image.image_url}', '${imageTitle}')">
+    <div class="image-card" onclick="openImageModal('${imageUrl}', '${imageTitle}')">
       <div class="image-container">
         <img 
-          src="${image.image_url}" 
+          src="${imageUrl}" 
           alt="${imageTitle}"
           loading="lazy"
           onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjI1MCIgdmlld0JveD0iMCAwIDMwMCAyNTAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIzMDAiIGhlaWdodD0iMjUwIiBmaWxsPSIjRjVGNUY1Ii8+Cjx0ZXh0IHg9IjE1MCIgeT0iMTI1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuM2VtIj5JbWFnZSBsb2FkIGVycm9yPC90ZXh0Pgo8L3N2Zz4K'"
@@ -161,74 +164,90 @@ function createImageCard(image) {
 
 // Generate tags display
 function generateTagsDisplay(tags) {
-  if (!tags || Object.keys(tags).length === 0) return '';
-  
+  if (!tags || Object.keys(tags).length === 0) return "";
+
   let tagsHtml = '<div class="tags-section">';
-  
+
   // Colors
   if (tags.colors && tags.colors.length > 0) {
     tagsHtml += `<div class="tag-group">
       <span class="tag-label">Colors:</span>
       <div class="tag-items">
-        ${tags.colors.map(color => `<span class="tag color-tag">${color}</span>`).join('')}
+        ${tags.colors
+          .map((color) => `<span class="tag color-tag">${color}</span>`)
+          .join("")}
       </div>
     </div>`;
   }
-  
+
   // Materials
   if (tags.materials && tags.materials.length > 0) {
     tagsHtml += `<div class="tag-group">
       <span class="tag-label">Materials:</span>
       <div class="tag-items">
-        ${tags.materials.map(material => `<span class="tag material-tag">${material}</span>`).join('')}
+        ${tags.materials
+          .map(
+            (material) => `<span class="tag material-tag">${material}</span>`
+          )
+          .join("")}
       </div>
     </div>`;
   }
-  
+
   // Primary features
   if (tags.primary_features && tags.primary_features.length > 0) {
     tagsHtml += `<div class="tag-group">
       <span class="tag-label">Features:</span>
       <div class="tag-items">
-        ${tags.primary_features.map(feature => `<span class="tag feature-tag">${feature}</span>`).join('')}
+        ${tags.primary_features
+          .map((feature) => `<span class="tag feature-tag">${feature}</span>`)
+          .join("")}
       </div>
     </div>`;
   }
-  
-  tagsHtml += '</div>';
+
+  tagsHtml += "</div>";
   return tagsHtml;
 }
 
 // Generate additional info display
 function generateAdditionalInfo(image) {
-  let infoHtml = '';
-  
-  if (image.budget_category && image.budget_category !== 'unknown') {
+  let infoHtml = "";
+
+  if (image.budget_category && image.budget_category !== "unknown") {
     infoHtml += `<div class="metadata-item"><strong>Budget:</strong> ${image.budget_category}</div>`;
   }
-  
-  if (image.space_type && image.space_type !== 'unknown') {
+
+  if (image.space_type && image.space_type !== "unknown") {
     infoHtml += `<div class="metadata-item"><strong>Space:</strong> ${image.space_type}</div>`;
   }
-  
-  if (image.tags && image.tags.functionality && image.tags.functionality !== 'unknown') {
+
+  if (
+    image.tags &&
+    image.tags.functionality &&
+    image.tags.functionality !== "unknown"
+  ) {
     infoHtml += `<div class="metadata-item"><strong>Function:</strong> ${image.tags.functionality}</div>`;
   }
-  
+
   return infoHtml;
 }
 
 // Generate user-friendly image title
 function generateImageTitle(image) {
-  const roomType = image.room_type ? 
-    image.room_type.split(' ').map(word => 
-      word.charAt(0).toUpperCase() + word.slice(1)
-    ).join(' ') : '';
-    
-  const designTheme = image.design_theme ? 
-    image.design_theme.split(' ').map(word => 
-      word.charAt(0).toUpperCase() + word.slice(1)
-    ).join(' ') : '';
+  const roomType = image.room_type
+    ? image.room_type
+        .split(" ")
+        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(" ")
+    : "";
+
+  const designTheme = image.design_theme
+    ? image.design_theme
+        .split(" ")
+        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(" ")
+    : "";
 
   if (roomType && designTheme) {
     return `${designTheme} ${roomType}`;
@@ -237,7 +256,7 @@ function generateImageTitle(image) {
   } else if (designTheme) {
     return `${designTheme} Interior`;
   } else {
-    return 'Interior Design';
+    return "Interior Design";
   }
 }
 

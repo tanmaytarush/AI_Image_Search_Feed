@@ -3,148 +3,79 @@
   "analysis": {
     "image_id": "img_023",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Entryway or small living space",
-      "theme": "Contemporary Indian",
-      "primary_features": [
-        "Sleek wooden cabinetry with decorative elements",
-        "Abstract wall art",
-        "Modern lighting fixtures"
-      ],
-      "objects": [
-        {
-          "type": "Wooden cabinetry",
-          "features": [
-            "Curved panel design",
-            "Combination of wood and beige panels",
-            "Decorative carvings"
-          ],
-          "materials": [
-            "Wood",
-            "Painted finish"
-          ],
-          "finish": "Satin finish"
-=======
       "room": "Entryway",
-      "theme": "Contemporary Indian",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Marble flooring",
-        "Wooden cabinet with curved designs",
-        "Abstract wall art",
-        "Decorative plants",
-        "Seating area"
+        "Custom-built wooden storage unit",
+        "Abstract art panel",
+        "Marble flooring"
       ],
       "objects": [
         {
-          "type": "Wooden cabinet",
+          "type": "Wooden storage unit",
           "features": [
-            "Curved and geometric patterns",
-            "Textured finish on doors"
+            "Curved wooden panels",
+            "Integrated storage compartments",
+            "Natural wood finish"
           ],
           "materials": [
-            "Wood",
-            "Thick laminate or veneer"
-          ],
-          "finish": "Smooth, natural wood finish with subtle texture"
->>>>>>> origin/main
-        },
-        {
-          "type": "Abstract wall art",
-          "features": [
-<<<<<<< HEAD
-            "Curved lines and organic shapes"
-          ],
-          "materials": [
-            "Paint on canvas"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Decorative items",
-          "features": [
-            "Small plants, vases, and figurines"
-          ],
-          "materials": [
-            "Ceramic, metal"
-          ],
-          "finish": "Shiny"
-=======
-            "Large canvas with geometric lines",
-            "Subtle golden tones"
-          ],
-          "materials": [
-            "Canvas",
-            "Acrylic or oil paint"
-          ],
-          "finish": "Matte finish with nuanced brushstrokes"
-        },
-        {
-          "type": "Seating area",
-          "features": [
-            "Textured cushion with geometric pattern",
-            "Wooden base with curved design"
-          ],
-          "materials": [
-            "Fabric",
             "Wood"
           ],
-          "finish": "Fabric with vibrant geometric patterns, wood with natural finish"
->>>>>>> origin/main
+          "finish": "Natural wood finish with a glossy sheen"
+        },
+        {
+          "type": "Abstract art panel",
+          "features": [
+            "Modern abstract design",
+            "Neutral color palette with gold accents",
+            "Wall-mounted"
+          ],
+          "materials": [
+            "Painted panel"
+          ],
+          "finish": "Matte finish with gold line art"
+        },
+        {
+          "type": "Marble flooring",
+          "features": [
+            "White marble with gray veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High polish"
+        },
+        {
+          "type": "Potted plant",
+          "features": [
+            "Small potted plant with green foliage"
+          ],
+          "materials": [
+            "Ceramic pot"
+          ],
+          "finish": "Smooth ceramic"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "Peachy pink walls",
-          "Beige and wood tones",
-          "White marble floor"
+          "Peach wall, white marble, beige wood, gold accents"
         ],
         "materials": [
-          "Wood",
-          "Paint",
-          "Marble"
+          "Marble, wood, ceramic, painted panel"
         ],
-        "lighting": "Soft ambient lighting from unseen fixtures",
-        "texture": "Combination of smooth and textured surfaces"
+        "lighting": "Indirect ambient lighting",
+        "texture": "Smooth and polished surfaces with soft curves"
       },
       "indian_context": {
-        "regional_style": "No specific regional style evident",
+        "regional_style": "Not distinctly regional, more of a modern twist on traditional elements",
         "traditional_elements": [
-          "Carved wooden panels"
+          "Wooden storage unit with a traditional feel"
         ],
         "modern_adaptations": [
-          "Contemporary curves and lines",
-          "Minimalist approach"
+          "Abstract art panel and modern furniture design"
         ],
-        "space_utilization": "Efficient use of vertical space with wall-mounted cabinets",
-        "cultural_significance": "The use of wood suggests a nod to traditional craftsmanship, but the overall design is modern and minimalistic"
-=======
-          "Peach",
-          "Brown",
-          "Beige",
-          "Light gray"
-        ],
-        "materials": [
-          "Marble",
-          "Wood",
-          "Canvas",
-          "Fabric"
-        ],
-        "lighting": "Natural light with soft ambient lighting",
-        "texture": "Marble with veining, textured wood, fabric with geometric patterns"
-      },
-      "indian_context": {
-        "regional_style": "Not strongly regional, leans towards urban contemporary",
-        "traditional_elements": [
-          "Curved furniture elements",
-          "Abstract wall art"
-        ],
-        "modern_adaptations": [
-          "Contemporary interpretation of traditional furniture shapes"
-        ],
-        "space_utilization": "Efficient use of space in a small area",
-        "cultural_significance": "Abstract art represents modern urban Indian sensibilities, while furniture maintains a connection to traditional shapes"
->>>>>>> origin/main
+        "space_utilization": "Efficient use of space with a storage unit that also doubles as a bench",
+        "cultural_significance": "The wooden storage unit with carved elements nods towards traditional craftsmanship, while the abstract art panel reflects a modern interpretation of refined aesthetics"
       }
     },
     "confidence_scores": {
@@ -154,41 +85,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-<<<<<<< HEAD
-    "description": "This entryway showcases a modern interpretation of Indian interior design, featuring sleek wooden cabinetry with subtle curved panel designs and a decorative abstract wall art piece. The use of wood and soft pink tones reflects traditional craftsmanship, while the clean lines and modern lighting fixtures give it a contemporary feel. The space is efficiently organized, utilizing vertical space with wall-mounted cabinets to maximize the use of the available area.",
+    "description": "This modern Indian entryway features a custom-built wooden storage unit with curved panels and integrated storage compartments, blending traditional craftsmanship with contemporary design. The unit is complemented by an abstract art panel with a neutral color palette and gold accents, and a clean white marble floor. The overall design emphasizes functionality while incorporating aesthetic details that reflect Indian design sensibilities, such as the use of wood and natural materials.",
     "metadata": {
       "tags": [
-        "Contemporary Indian",
-        "Minimalistic",
-        "Wooden cabinetry",
+        "Indian interior design",
+        "Modern Indian style",
+        "Wooden storage unit",
         "Abstract art",
-        "Modern lighting"
+        "Marble floor",
+        "Entryway design"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Entryway or small living space",
-      "functionality": "Entrance area, transitional space, and potentially a small living area",
-      "indian_specific": "Wooden cabinetry with carvings and a nod to traditional craftsmanship"
-    }
-  },
-  "cached_at": 1753446172934,
-=======
-    "description": "This contemporary Indian entryway features a sleek marble floor, a wooden cabinet with curved and geometric designs, and an abstract wall art piece that adds a modern, urban touch. The seating area complements the design with a textured cushion and a wooden base, maintaining a connection to traditional shapes. The use of natural wood and subtle colors creates a balanced and inviting space.",
-    "metadata": {
-      "tags": [
-        "Contemporary Indian",
-        "Marble Flooring",
-        "Wooden Cabinet",
-        "Abstract Art",
-        "Urban Contemporary",
-        "Indian Design"
-      ],
-      "budget_indicator": "Moderate to high, given the use of marble and wooden veneer",
+      "budget_indicator": "Mid-range to high-end based on the use of marble and polished wood",
       "space_type": "Entryway",
-      "functionality": "Welcome area with storage and seating",
-      "indian_specific": "Curved furniture elements and abstract art with Indian artistic influence"
+      "functionality": "Storage and seating area",
+      "indian_specific": "Use of wood and abstract art with traditional influences"
     }
   },
-  "cached_at": 1753181097215,
->>>>>>> origin/main
+  "cached_at": 1753957118039,
   "cache_key": "33c2c4dbc6e54154a886f3ca2aea5ae9"
 }

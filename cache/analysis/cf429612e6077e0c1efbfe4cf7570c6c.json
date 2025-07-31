@@ -3,98 +3,63 @@
   "analysis": {
     "image_id": "img_062",
     "ai_generated_tags": {
-<<<<<<< HEAD
       "room": "Living Room",
-      "theme": "Modern Indian Minimalist",
-      "primary_features": [
-        "Built-in shelving unit",
-        "Decorative wall mount",
-        "Contrasting color scheme",
-        "Ergonomic storage unit"
-=======
-      "room": "Living room",
-      "theme": "Minimalist",
+      "theme": "Modern Minimalist",
       "primary_features": [
         "Wall-mounted shelves",
-        "Modern TV unit",
-        "Lighting accents"
->>>>>>> origin/main
+        "Embedded lighting",
+        "Floating console table"
       ],
       "objects": [
         {
-          "type": "Wall-mounted shelves",
+          "type": "Floating console table",
           "features": [
-<<<<<<< HEAD
-            "Black, modern design",
-            "Integrated lighting"
+            "White glossy finish",
+            "Silver metallic legs",
+            "Hidden storage space"
           ],
           "materials": [
-            "Dark wood or composite material",
-            "Metallic accents"
-          ],
-          "finish": "Smooth, glossy finish"
-        },
-        {
-          "type": "Storage unit",
-          "features": [
-            "Modern, minimalist design",
-            "White color with sleek handles",
-            "Open storage compartments"
-          ],
-          "materials": [
-            "White wood or composite material",
+            "Glossy white finish",
             "Metallic legs"
           ],
-          "finish": "Smooth, matte finish"
-=======
-            "Dark color",
-            "Rectangular shape",
-            "Integrated lighting"
-          ],
-          "materials": [
-            "Dark wood or composite material"
-          ],
-          "finish": "Smooth and glossy"
+          "finish": "High-gloss white with metallic accents"
         },
         {
-          "type": "TV unit",
+          "type": "Wall-mounted shelves",
           "features": [
-            "White color",
-            "Closed compartments",
-            "Open storage space"
+            "Black floating shelves with integrated lighting",
+            "Staggered design"
           ],
           "materials": [
-            "White wood or laminate"
+            "Black finish"
           ],
-          "finish": "Matte and smooth"
->>>>>>> origin/main
+          "finish": "Matte black"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
           "White",
           "Black",
-          "Neutral tones"
+          "Silver"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Composite materials"
+          "Glossy white",
+          "Matte black",
+          "Metallic silver"
         ],
-        "lighting": "Integrated recessed lighting enhancing the wall unit",
-        "texture": "Smooth, glossy surfaces"
+        "lighting": "Integrated under-shelf LED lights",
+        "texture": "Smooth and sleek"
       },
       "indian_context": {
-        "regional_style": "Not region-specific, modern interpretation",
+        "regional_style": "No specific regional style observed",
         "traditional_elements": [
-          "Modern adaptation of traditional wall-mounted shelves"
+          "No traditional Indian elements present"
         ],
         "modern_adaptations": [
-          "Contemporary design with a black and white color scheme"
+          "Minimalist design with modern materials and lighting"
         ],
-        "space_utilization": "Efficient use of wall space for storage and display",
-        "cultural_significance": "Minimalist approach with a touch of traditional aesthetics in the shelving design"
+        "space_utilization": "Efficient use of space with floating furniture for easy maintenance",
+        "cultural_significance": "No cultural elements present in the image"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -103,70 +68,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image showcases a modern Indian minimalist living room design featuring a sleek, black wall-mounted shelving unit with integrated lighting, complemented by a white, contemporary storage unit with subtle traditional influences in the shelving design. The space emphasizes a clean, organized look with a black and white color palette, utilizing modern materials and finishes.",
+      "description": "The image showcases a modern minimalist living room setup with a sleek, contemporary design. The floating console table and wall-mounted shelves are designed to maximize space, with a glossy white finish and metallic accents. The black floating shelves are illuminated by integrated LED lights, creating a warm and inviting ambiance. The design is free from traditional Indian elements, leaning more towards a global modern aesthetic.",
       "metadata": {
         "tags": [
-          "Modern Indian",
-          "Minimalist",
-          "Wall-mounted shelves",
-          "Storage unit",
-          "Interior design"
+          "Modern Living Room",
+          "Minimalist Design",
+          "Floating Furniture",
+          "Wall-Mounted Shelves",
+          "LED Lighting"
         ],
         "budget_indicator": "Mid-range",
         "space_type": "Living Room",
-        "functionality": "Storage and display",
-        "indian_specific": "Modern interpretation of traditional wall-mounted shelving"
+        "functionality": "Entertainment and storage",
+        "indian_specific": "No Indian-specific design features"
       }
     }
   },
-  "cached_at": 1753447052336,
-=======
-          "Dark gray",
-          "White",
-          "Beige"
-        ],
-        "materials": [
-          "Wood",
-          "Laminate",
-          "Metal"
-        ],
-        "lighting": "Integrated LED lights",
-        "texture": "Smooth and even"
-      },
-      "indian_context": {
-        "regional_style": "",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Contemporary design elements with Indian materials"
-        ],
-        "space_utilization": "Efficient use of vertical space",
-        "cultural_significance": "No specific cultural elements observed"
-      }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This image showcases a minimalist living room setup with a modern design aesthetic. The focal point is a wall-mounted dark wood shelf unit with integrated lighting, providing a sleek and contemporary look. Below the shelf is a white TV unit with a combination of closed and open storage spaces, emphasizing a clean and organized space. The overall design is simple and functional, with a focus on space optimization and a modern color palette.",
-    "metadata": {
-      "tags": [
-        "Minimalist",
-        "Modern",
-        "Living room",
-        "Wall-mounted shelves",
-        "TV unit",
-        "Interior design"
-      ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Entertainment and storage",
-      "indian_specific": "No Indian-specific design features"
-    }
-  },
-  "cached_at": 1753181186613,
->>>>>>> origin/main
+  "cached_at": 1753957374194,
   "cache_key": "cf429612e6077e0c1efbfe4cf7570c6c"
 }

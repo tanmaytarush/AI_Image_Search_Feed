@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.26%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_049",
+    "ai_generated_tags": {
+      "room": "Entrance Hall",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden partition with floral cut-out",
+        "Decorative wall panel above door",
+        "Polished floor tiles",
+        "Open kitchen area in the background"
+      ],
+      "objects": [
+        {
+          "type": "Wooden partition",
+          "features": [
+            "Floral cut-out design",
+            "Brown wood finish",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy wood finish with floral cut-outs"
+        },
+        {
+          "type": "Decorative wall panel",
+          "features": [
+            "Above the door",
+            "Decorative artwork with traditional elements",
+            "White background with colorful accents"
+          ],
+          "materials": [
+            "Painted wooden panel"
+          ],
+          "finish": "Painted finish with decorative artwork"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "White (partition, walls)",
+          "Blue (kitchen cabinets)",
+          "Silver (kitchen tiles)"
+        ],
+        "materials": [
+          "Wood",
+          "Painted wood",
+          "Tiles"
+        ],
+        "lighting": "Natural light from the entrance, ambient lighting from the kitchen",
+        "texture": "Smooth tiles, glossy wood, painted wood"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Floral cut-out design on partition",
+          "Decorative artwork above door"
+        ],
+        "modern_adaptations": [
+          "Contemporary finish on wood and partition design"
+        ],
+        "space_utilization": "Open plan with partition for privacy and aesthetic separation",
+        "cultural_significance": "Decorative elements above the door represent traditional Indian symbols, possibly related to auspiciousness"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a contemporary Indian entrance hall with a wooden partition featuring a floral cut-out design. The decorative panel above the door includes traditional symbols and vibrant colors, indicative of North Indian regional influences. The space is organized for an open plan, with a partition for aesthetic separation. The clean, polished floor tiles and contemporary kitchen in the background suggest a modern interpretation of traditional elements. The use of wood for the partition and the overall finish reflects a focus on traditional craftsmanship and materials.",
+      "metadata": {
+        "tags": [
+          "Entrance Hall",
+          "Contemporary Indian",
+          "Wooden Partition",
+          "Floral Cut-Out",
+          "Decorative Panel",
+          "North Indian Style",
+          "Modern Adaptations"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Entrance and transition space with partition for privacy",
+        "indian_specific": "Traditional symbols and wood finish"
+      }
+    }
+  },
+  "cached_at": 1753957268817,
+  "cache_key": "54c6108ff71f87497d5a716e0e4e3ce3"
+}

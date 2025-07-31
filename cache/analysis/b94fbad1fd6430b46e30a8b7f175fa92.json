@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.28.jpeg",
+  "analysis": {
+    "image_id": "img_002",
+    "ai_generated_tags": {
+      "room": "devotional space",
+      "theme": "contemporary",
+      "primary_features": [
+        "marble paneling",
+        "Dark wood frame"
+      ],
+      "objects": [
+        {
+          "type": "marble panel",
+          "features": [
+            "smooth surface",
+            "natural stone texture"
+          ],
+          "materials": [
+            "marble"
+          ],
+          "finish": "polished"
+        },
+        {
+          "type": "dark wood frame",
+          "features": [
+            "solid wood construction",
+            "dark finish"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "varnished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "beige",
+          "brown",
+          "white"
+        ],
+        "materials": [
+          "marble",
+          "wood"
+        ],
+        "lighting": "direct lighting from above",
+        "texture": "smooth and polished surface"
+      },
+      "indian_context": {
+        "regional_style": "not specific to Indian regional style",
+        "traditional_elements": [
+          "none"
+        ],
+        "modern_adaptations": [
+          "marble paneling with modern lighting"
+        ],
+        "space_utilization": "optimized for devotional use",
+        "cultural_significance": "related to religious practices"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.75,
+      "primary_features": 0.9,
+      "objects": 0.8,
+      "indian_context": 0.6
+    },
+    "description": "The image depicts a contemporary design of a devotional space, characterized by a polished marble panel with a dark wood frame. The space is likely used for religious or spiritual purposes, with the panel serving as a focal point for prayer or meditation. The modern lighting enhances the natural beauty of the marble, creating a serene and dignified atmosphere.",
+    "metadata": {
+      "tags": [
+        "devotional space",
+        "marble panel",
+        "dark wood frame",
+        "contemporary design",
+        "religious practice"
+      ],
+      "budget_indicator": "moderate to high due to marble and polished wood",
+      "space_type": "religious or devotional room",
+      "functionality": "primary purpose is for devotional practices and spiritual reflection",
+      "indian_specific": "no Indian-specific design features are prominently visible"
+    }
+  },
+  "cached_at": 1753956961201,
+  "cache_key": "b94fbad1fd6430b46e30a8b7f175fa92"
+}

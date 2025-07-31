@@ -3,96 +3,85 @@
   "analysis": {
     "image_id": "img_076",
     "ai_generated_tags": {
-      "room": "Home Office",
+      "room": "Pooja room",
       "theme": "Contemporary Indian",
       "primary_features": [
-        "Built-in storage unit",
-        "Computer desk",
-        "Religious altar",
-        "Living area seating"
+        "Built-in shelf and cabinet",
+        "Diwan with decorative elements",
+        "Teak and brass furniture",
+        "Marble floor",
+        "Glass paneled doors"
       ],
       "objects": [
         {
-          "type": "Built-in storage unit",
+          "type": "Diwan",
           "features": [
-            "White and cream color scheme",
-            "Modular design",
-            "Fitted with glass doors and open shelves"
+            "Decorative glass panels with bells",
+            "Teak wood base"
           ],
           "materials": [
+            "Teak wood",
+            "Brass"
+          ],
+          "finish": "Smooth and polished"
+        },
+        {
+          "type": "Built-in shelf and cabinet",
+          "features": [
             "Wooden frame",
-            "Glass doors"
-          ],
-          "finish": "Matte finish on wood and smooth glass doors"
-        },
-        {
-          "type": "Computer desk",
-          "features": [
-            "Built-in drawers",
-            "Wooden top with white panels",
-            "Embedded monitor stand"
+            "Glass panes",
+            "Hanging shelves"
           ],
           "materials": [
-            "Wooden surface",
-            "White panels"
+            "Teak wood",
+            "Glass"
           ],
-          "finish": "Satin finish on wood and glossy on white panels"
+          "finish": "High-gloss finish"
         },
         {
-          "type": "Religious altar",
+          "type": "Teak sofa",
           "features": [
-            "Gold accents",
-            "Arched design",
-            "Bell-shaped decorations"
+            "Woven cane backrest",
+            "Soft cushions",
+            "Teak wood frame"
           ],
           "materials": [
-            "Wooden frame",
-            "Gold detailing"
-          ],
-          "finish": "Lustrous gold finish"
-        },
-        {
-          "type": "Living area seating",
-          "features": [
-            "Rattan chair",
-            "Cushion with geometric pattern"
-          ],
-          "materials": [
-            "Rattan",
+            "Teak wood",
+            "Cane",
             "Fabric"
           ],
-          "finish": "Rattan natural, fabric with printed patterns"
+          "finish": "Natural teak and woven"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Cream",
-          "Wooden tones",
-          "Black",
+          "Teak brown",
           "Gold",
-          "Blue"
+          "Grey"
         ],
         "materials": [
-          "Wood",
+          "Teak wood",
+          "Brass",
           "Glass",
-          "Metal",
-          "Rattan",
-          "Fabric"
+          "Marble",
+          "Cane"
         ],
         "lighting": "Natural light from window",
-        "texture": "Smooth surfaces on furniture, textured walls, rattan texture"
+        "texture": "Smooth surfaces, woven cane, polished brass"
       },
       "indian_context": {
-        "regional_style": "Not identifiable from this image",
+        "regional_style": "Mughal",
         "traditional_elements": [
-          "Religious altar with arched design and bell-shaped decorations"
+          "Diwan",
+          "Teak furniture"
         ],
         "modern_adaptations": [
-          "Contemporary furniture with built-in storage and geometric patterns"
+          "Glass panes, shelves",
+          "Contemporary furniture"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture and minimalistic design",
-        "cultural_significance": "The religious altar suggests a space for worship, blending functionality with cultural practices"
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "Pooja room is a sacred space for Hindu religious practices"
       }
     },
     "confidence_scores": {
@@ -102,21 +91,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image showcases a modern Indian home office with a blend of traditional and contemporary elements. The space features a built-in storage unit with glass doors and wooden framing, a computer desk with embedded drawers, and a religious altar adorned with gold accents and bell-shaped decorations. The living area includes a rattan chair with a geometric patterned cushion, adding a touch of traditional Indian craftsmanship. The overall design incorporates a mix of natural wooden tones, white panels, and gold accents, creating a harmonious blend of modern functionality and cultural significance.",
+    "description": "The image showcases a modern interpretation of an Indian pooja room with contemporary elements. The room features a built-in shelf and cabinet, a traditional diwan with decorative glass panels and brass bells, and teak wood furniture. The space utilizes a blend of traditional and modern materials and finishes, creating a harmonious and culturally significant environment. The natural light from the window enhances the ambiance, and the space is organized to optimize functionality and cultural relevance.",
     "metadata": {
       "tags": [
+        "Pooja room",
         "Contemporary Indian",
-        "Modern Home Office",
-        "Built-in Storage",
-        "Religious Altar",
-        "Living Area Seating"
+        "Diwan",
+        "Teak furniture",
+        "Glass panels",
+        "Marble floor"
       ],
-      "budget_indicator": "Mid-range, with a focus on quality materials and craftsmanship",
+      "budget_indicator": "Moderate to high, due to use of brass and marble",
       "space_type": "Residential",
-      "functionality": "Primary purpose is a home office with a secondary living area",
-      "indian_specific": "Religious altar with cultural significance, rattan chair with traditional design"
+      "functionality": "Primary purpose is for religious practices and as a sacred space",
+      "indian_specific": "Traditional elements like the diwan and teak furniture are present, with modern adaptations like glass panes and shelves"
     }
   },
-  "cached_at": 1753447419975,
+  "cached_at": 1753957533889,
   "cache_key": "3cd8cce43d2ff2c25785c8d7cf8bb498"
 }

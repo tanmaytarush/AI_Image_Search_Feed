@@ -3,129 +3,65 @@
   "analysis": {
     "image_id": "img_036",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Closet",
+      "room": "Bedroom",
       "theme": "Modern Indian",
       "primary_features": [
-        "Built-in wardrobe with sliding doors",
-        "Storage with drawers",
-        "Simple design with minimal embellishment"
-=======
-      "room": "Bedroom",
-      "theme": "Contemporary Indian",
-      "primary_features": [
-        "Large built-in wardrobes",
-        "Modern storage furniture",
-        "Plain walls",
-        "Hardwood flooring"
->>>>>>> origin/main
+        "Lacquered wardrobes",
+        "Built-in shelves",
+        "Polished floor tiles"
       ],
       "objects": [
         {
-          "type": "Built-in wardrobe",
+          "type": "Lacquered wardrobe",
           "features": [
-<<<<<<< HEAD
-            "Sliding doors, multiple compartments, sleek design"
+            "White and brown color combination",
+            "Hinged doors",
+            "Drawers at the bottom"
           ],
           "materials": [
-            "MDF with laminate finish"
+            "Lacquered wood, metal handles"
           ],
-          "finish": "Laminate with glossy finish"
-=======
-            "White with brown accents",
-            "Sliding doors",
-            "Multiple drawers below"
-          ],
-          "materials": [
-            "MDF for doors and drawers",
-            "Painted surface"
-          ],
-          "finish": "Glossy"
+          "finish": "Glossy lacquered finish"
         },
         {
-          "type": "Bookshelf",
+          "type": "Built-in shelves",
           "features": [
-            "Dark wooden finish",
-            "Multiple shelves",
-            "Minimalistic design"
+            "Black color",
+            "Open shelving design",
+            "Integrated into the wall"
           ],
           "materials": [
-            "Wood"
+            "Wood, likely teak or plywood"
           ],
-          "finish": "Stained"
->>>>>>> origin/main
+          "finish": "Smooth, polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "White, brown, beige"
-        ],
-        "materials": [
-          "MDF, laminate, metal hardware"
-        ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth surfaces with glossy finish"
-      },
-      "indian_context": {
-        "regional_style": "Not distinctly regional",
-        "traditional_elements": [
-          "Modern interpretation of Indian design"
-        ],
-        "modern_adaptations": [
-          "Use of MDF and laminate materials for a contemporary look"
-        ],
-        "space_utilization": "Efficient use of vertical space with built-in storage",
-        "cultural_significance": "Modern adaptation of Indian design elements aimed at functionality and space optimization"
-      }
-    },
-    "confidence_scores": {
-      "room": 0.9,
-      "theme": 0.85,
-      "primary_features": 0.88,
-      "objects": 0.86,
-      "indian_context": 0.82
-    },
-    "description": "The image depicts a modern Indian closet with built-in storage units featuring sliding doors and drawers. The design incorporates a simple yet elegant style with a combination of white and brown tones, and glossy finishes. The space is well-lit with natural light, emphasizing the practical use of vertical space in contemporary Indian interior design.",
-    "metadata": {
-      "tags": [
-        "modern",
-        "Indian design",
-        "closet",
-        "built-in storage",
-        "minimalist"
-      ],
-      "budget_indicator": "Moderate, utilizing MDF and laminate materials",
-      "space_type": "Residential (bedroom)",
-      "functionality": "Storage and organization",
-      "indian_specific": "Modern interpretation of Indian design with efficient space utilization"
-    }
-  },
-  "cached_at": 1753446507792,
-=======
           "White",
           "Brown",
-          "Dark wood",
-          "Neutral"
+          "Black",
+          "Off-white"
         ],
         "materials": [
-          "MDF",
-          "Paint",
-          "Wood"
+          "Lacquered wood",
+          "Metal",
+          "Teak or plywood",
+          "Polished tiles"
         ],
         "lighting": "Natural light from window",
         "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional",
+        "regional_style": "Not explicitly regional, but likely from urban areas",
         "traditional_elements": [
-          "None visible"
+          "None"
         ],
         "modern_adaptations": [
-          "Incorporation of simple Indian design principles like symmetry and functionality"
+          "Use of lacquered finishes, modern shelving design"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture",
-        "cultural_significance": "The space does not highlight any specific cultural or religious significance"
+        "space_utilization": "Efficient use of space with integrated furniture",
+        "cultural_significance": "No culturally significant elements, but reflects modern Indian design trends"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -134,24 +70,22 @@
         "objects": 0.92,
         "indian_context": 0.8
       },
-      "description": "The image depicts a modern Indian bedroom with a contemporary design. The space features large built-in wardrobes with a white and brown color scheme, reflecting a minimalist yet functional approach to storage. The walls are plain, and the flooring is a light neutral tone, which complements the overall minimalist look. The room includes a dark wooden bookshelf with open shelving, adding a touch of traditional Indian aesthetics without overt regional elements.",
+      "description": "This bedroom showcases a modern take on Indian interior design with lacquered wardrobes and built-in shelves. The space is well-organized with efficient use of space, featuring a color palette of white, brown, and black. The lacquered finish on the wardrobes is a common modern adaptation, reflecting contemporary Indian design trends. The built-in shelves provide additional storage and blend seamlessly with the overall aesthetic.",
       "metadata": {
         "tags": [
-          "Bedroom",
           "Modern Indian",
-          "Contemporary",
-          "Minimalist",
-          "Built-in Storage",
-          "Neutral Color Palette"
+          "Bedroom",
+          "Lacquered finishes",
+          "Integrated furniture",
+          "Urban design"
         ],
-        "budget_indicator": "Moderate to High, with the use of MDF panels for doors and drawers, which is typically more expensive than traditional Indian materials.",
+        "budget_indicator": "Moderate, due to lacquered finishes and well-made wooden furniture",
         "space_type": "Residential bedroom",
         "functionality": "Storage and organization",
-        "indian_specific": "Modern interpretation of Indian design principles"
+        "indian_specific": "Use of lacquered finishes, efficient space utilization"
       }
     }
   },
-  "cached_at": 1753181142555,
->>>>>>> origin/main
+  "cached_at": 1753957197459,
   "cache_key": "9baf59aee76755b18555fe5fdaf59981"
 }

@@ -11,33 +11,44 @@ class DataTransformer {
         metadata = {},
         description,
         error,
-        raw_response
+        raw_response,
       } = modelResponse;
 
       // Check if this is a failed response
       if (error || raw_response) {
-        console.warn(`⚠️ Skipping failed response for image ${image_id}: ${error || 'Invalid response'}`);
+        console.warn(
+          `⚠️ Skipping failed response for image ${image_id}: ${
+            error || "Invalid response"
+          }`
+        );
         return null; // Return null to filter out failed responses
       }
 
       // Validate ai_generated_tags
-      if (!ai_generated_tags || typeof ai_generated_tags !== 'object') {
-        console.warn(`Invalid ai_generated_tags for image ${image_id}:`, ai_generated_tags);
+      if (!ai_generated_tags || typeof ai_generated_tags !== "object") {
+        console.warn(
+          `Invalid ai_generated_tags for image ${image_id}:`,
+          ai_generated_tags
+        );
         return null; // Return null instead of throwing error
       }
 
       // Check if this is a template response (contains placeholder text)
-      const isTemplate = (
-        typeof ai_generated_tags.room === 'string' && 
-        (ai_generated_tags.room.includes('Room Type (') || ai_generated_tags.room.includes('Living Room, Bedroom'))
-      ) || (
-        typeof ai_generated_tags.theme === 'string' && 
-        (ai_generated_tags.theme.includes('Design Theme (') || ai_generated_tags.theme.includes('Traditional Indian'))
-      );
+      const isTemplate =
+        (typeof ai_generated_tags.room === "string" &&
+          (ai_generated_tags.room.includes("Room Type (") ||
+            ai_generated_tags.room.includes("Living Room, Bedroom"))) ||
+        (typeof ai_generated_tags.theme === "string" &&
+          (ai_generated_tags.theme.includes("Design Theme (") ||
+            ai_generated_tags.theme.includes("Traditional Indian")));
 
       if (isTemplate) {
-        console.warn(`❌ Template response detected for image ${image_id} - model returned placeholder text instead of real analysis`);
-        throw new Error(`Template response detected for image ${image_id} - model needs to be retried with better prompt`);
+        console.warn(
+          `❌ Template response detected for image ${image_id} - model returned placeholder text instead of real analysis`
+        );
+        throw new Error(
+          `Template response detected for image ${image_id} - model needs to be retried with better prompt`
+        );
       }
 
       // Generate hybrid vectors (visual + text) using local Transformers.js embeddings
@@ -47,11 +58,13 @@ class DataTransformer {
           ai_generated_tags,
           description,
           metadata,
-          modelResponse.imageUrl || modelResponse.url, // Add image URL for visual features
+          modelResponse.image_url || modelResponse.url, // Add image URL for visual features
           image_id
         );
       } catch (error) {
-        console.warn(`⚠️ Failed to create hybrid vectors for ${image_id}, falling back to text-only: ${error.message}`);
+        console.warn(
+          `⚠️ Failed to create hybrid vectors for ${image_id}, falling back to text-only: ${error.message}`
+        );
         // Fallback to text-only vectors if hybrid creation fails
         multiVectors = await embeddingService.createMultiVectors(
           ai_generated_tags,
@@ -64,37 +77,53 @@ class DataTransformer {
       }
 
       // Validate multiVectors structure
-      if (!multiVectors || typeof multiVectors !== 'object') {
+      if (!multiVectors || typeof multiVectors !== "object") {
         throw new Error(`Invalid multiVectors structure for image ${image_id}`);
       }
 
-      const requiredVectors = ['primary_search', 'semantic_desc', 'object_focus', 'visual_features'];
+      const requiredVectors = [
+        "primary_search",
+        "semantic_desc",
+        "object_focus",
+        "visual_features",
+      ];
       const expectedDimensions = {
         primary_search: 384,
         semantic_desc: 384,
         object_focus: 384,
-        visual_features: 384
+        visual_features: 384,
       };
-      
+
       for (const vectorName of requiredVectors) {
-        if (!multiVectors[vectorName] || !Array.isArray(multiVectors[vectorName])) {
-          throw new Error(`Missing or invalid ${vectorName} vector for image ${image_id}`);
+        if (
+          !multiVectors[vectorName] ||
+          !Array.isArray(multiVectors[vectorName])
+        ) {
+          throw new Error(
+            `Missing or invalid ${vectorName} vector for image ${image_id}`
+          );
         }
         const expectedDim = expectedDimensions[vectorName];
         if (multiVectors[vectorName].length !== expectedDim) {
-          throw new Error(`Invalid ${vectorName} vector dimension for image ${image_id}: expected ${expectedDim}, got ${multiVectors[vectorName].length}`);
+          throw new Error(
+            `Invalid ${vectorName} vector dimension for image ${image_id}: expected ${expectedDim}, got ${multiVectors[vectorName].length}`
+          );
         }
       }
 
-      console.log(`✓ Generated valid hybrid embeddings for ${image_id}: ${Object.keys(multiVectors).filter(k => k !== 'embedding_texts').join(', ')}`);
+      console.log(
+        `✓ Generated valid hybrid embeddings for ${image_id}: ${Object.keys(
+          multiVectors
+        )
+          .filter((k) => k !== "embedding_texts")
+          .join(", ")}`
+      );
 
       // Extract object types and features
-      const objectTypes = ai_generated_tags.objects?.map((obj) =>
-        obj.type.toLowerCase()
-      ) || [];
-      const objectFeatures = ai_generated_tags.objects?.flatMap(
-        (obj) => obj.features
-      ) || [];
+      const objectTypes =
+        ai_generated_tags.objects?.map((obj) => obj.type.toLowerCase()) || [];
+      const objectFeatures =
+        ai_generated_tags.objects?.flatMap((obj) => obj.features) || [];
 
       // Create search tags
       const searchTags = this.createSearchTags(ai_generated_tags, metadata);
@@ -117,23 +146,27 @@ class DataTransformer {
           embedding_texts: multiVectors.embedding_texts,
 
           // Primary searchable fields
-          room_type: ai_generated_tags.room?.toLowerCase() || 'unknown',
-          design_theme: ai_generated_tags.theme?.toLowerCase() || 'unknown',
+          room_type: ai_generated_tags.room?.toLowerCase() || "unknown",
+          design_theme: ai_generated_tags.theme?.toLowerCase() || "unknown",
           regional_style:
-            ai_generated_tags.indian_context?.regional_style?.toLowerCase() || 'unknown',
+            ai_generated_tags.indian_context?.regional_style?.toLowerCase() ||
+            "unknown",
           space_utilization:
-            ai_generated_tags.indian_context?.space_utilization?.toLowerCase() || 'unknown',
+            ai_generated_tags.indian_context?.space_utilization?.toLowerCase() ||
+            "unknown",
 
           // Multi-value arrays for filtering
-          colors: ai_generated_tags.visual_attributes?.colors?.map((c) =>
-            c.toLowerCase()
-          ) || [],
-          materials: ai_generated_tags.visual_attributes?.materials?.map((m) =>
-            m.toLowerCase()
-          ) || [],
-          primary_features: ai_generated_tags.primary_features?.map((f) =>
-            f.toLowerCase()
-          ) || [],
+          colors:
+            ai_generated_tags.visual_attributes?.colors?.map((c) =>
+              c.toLowerCase()
+            ) || [],
+          materials:
+            ai_generated_tags.visual_attributes?.materials?.map((m) =>
+              m.toLowerCase()
+            ) || [],
+          primary_features:
+            ai_generated_tags.primary_features?.map((f) => f.toLowerCase()) ||
+            [],
           object_types: objectTypes,
           object_features: objectFeatures.map((f) => f.toLowerCase()),
 
@@ -141,9 +174,10 @@ class DataTransformer {
           confidence_scores: confidence_scores || {},
 
           // Budget and space classification
-          budget_category: metadata.budget_indicator?.toLowerCase() || 'unknown',
-          space_type: metadata.space_type?.toLowerCase() || 'unknown',
-          functionality: metadata.functionality?.toLowerCase() || 'unknown',
+          budget_category:
+            metadata.budget_indicator?.toLowerCase() || "unknown",
+          space_type: metadata.space_type?.toLowerCase() || "unknown",
+          functionality: metadata.functionality?.toLowerCase() || "unknown",
 
           // Search optimization tags
           search_tags: searchTags,
@@ -155,7 +189,7 @@ class DataTransformer {
             modern_adaptations:
               ai_generated_tags.indian_context?.modern_adaptations || [],
             cultural_significance:
-              ai_generated_tags.indian_context?.cultural_significance || '',
+              ai_generated_tags.indian_context?.cultural_significance || "",
           },
 
           // Full original analysis
@@ -165,11 +199,11 @@ class DataTransformer {
           created_at: new Date().toISOString(),
           image_url: modelResponse.image_url || null,
           original_id: image_id, // Keep original ID for reference
-          
+
           // Local embedding metadata
           embedding_model: "Xenova/all-MiniLM-L6-v2",
           vector_dimensions: 384,
-          embedding_method: "local_transformers_js"
+          embedding_method: "local_transformers_js",
         },
       };
     } catch (error) {
@@ -184,7 +218,7 @@ class DataTransformer {
     // Add basic tags
     if (aiGeneratedTags.room) tags.add(aiGeneratedTags.room.toLowerCase());
     if (aiGeneratedTags.theme) tags.add(aiGeneratedTags.theme.toLowerCase());
-    if (aiGeneratedTags.indian_context?.space_utilization) 
+    if (aiGeneratedTags.indian_context?.space_utilization)
       tags.add(aiGeneratedTags.indian_context.space_utilization.toLowerCase());
 
     // Add colors and materials
@@ -216,10 +250,13 @@ class DataTransformer {
 
   generateValidId(originalId) {
     // Create a hash of the original ID to ensure it's a valid UUID
-    const hash = crypto.createHash('md5').update(originalId).digest('hex');
-    
+    const hash = crypto.createHash("md5").update(originalId).digest("hex");
+
     // Convert to UUID format: xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx
-    return `${hash.slice(0, 8)}-${hash.slice(8, 12)}-4${hash.slice(13, 16)}-${hash.slice(16, 20)}-${hash.slice(20, 32)}`;
+    return `${hash.slice(0, 8)}-${hash.slice(8, 12)}-4${hash.slice(
+      13,
+      16
+    )}-${hash.slice(16, 20)}-${hash.slice(20, 32)}`;
   }
 
   async transformBatch(modelResponses) {
@@ -240,7 +277,9 @@ class DataTransformer {
       }
     }
 
-    console.log(`📊 Transformed ${transformedData.length}/${modelResponses.length} responses using local embeddings (384 dimensions)`);
+    console.log(
+      `📊 Transformed ${transformedData.length}/${modelResponses.length} responses using local embeddings (384 dimensions)`
+    );
     return transformedData;
   }
 }

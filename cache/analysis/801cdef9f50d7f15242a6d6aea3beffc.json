@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.22%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_048",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Modern with Indian Influences",
+      "primary_features": [
+        "Marble flooring",
+        "Partition with decorative glass panels",
+        "Lighting fixtures"
+      ],
+      "objects": [
+        {
+          "type": "Partition",
+          "features": [
+            "Decorative glass panels with painted design",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Glass",
+            "Wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Lighting fixtures",
+          "features": [
+            "Recessed spotlights",
+            "Ceiling-mounted light bars"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gray",
+          "Red"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Bright and even, with focused spotlights and ambient ceiling lights",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, modern adaptation of traditional elements",
+        "traditional_elements": [
+          "Decorative glass panels with painted design"
+        ],
+        "modern_adaptations": [
+          "Minimalistic design with contemporary lighting and materials"
+        ],
+        "space_utilization": "Efficient use of space with clear delineation between foyer and other areas",
+        "cultural_significance": "Decorative elements like the glass panel with painted design likely carry symbolic or aesthetic significance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern foyer with Indian design elements. The space features a partition with decorative glass panels, which appear to have a painted design, a common element in traditional Indian interiors. The flooring is marble, a material often used in Indian homes for its durability and aesthetic appeal. The lighting includes recessed spotlights and ambient ceiling lights, creating a bright and welcoming atmosphere. The overall design combines modern functionalism with traditional decorative touches, reflecting a contemporary interpretation of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "Foyer",
+        "Modern Indian Design",
+        "Decorative Glass Panels",
+        "Marble Flooring",
+        "Contemporary Lighting"
+      ],
+      "budget_indicator": "Moderate to high, as it features marble flooring and decorative glass panels",
+      "space_type": "Residential",
+      "functionality": "Welcome area, likely leading to other residential spaces",
+      "indian_specific": "Decorative glass panels with painted designs, a common feature in traditional Indian interiors"
+    }
+  },
+  "cached_at": 1753957255953,
+  "cache_key": "801cdef9f50d7f15242a6d6aea3beffc"
+}

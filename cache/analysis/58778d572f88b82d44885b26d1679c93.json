@@ -3,71 +3,90 @@
   "analysis": {
     "image_id": "img_081",
     "ai_generated_tags": {
-      "room": "Teenage bedroom",
-      "theme": "Contemporary",
+      "room": "Child's bedroom",
+      "theme": "Modern eclectic",
       "primary_features": [
-        "Built-in furniture, white and pastel color palette, polka dot wallpaper"
+        "Bunk bed with decorative headboard",
+        "Built-in storage units",
+        "Polka dot wallpaper",
+        "Study table with world map"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "Bunk bed",
           "features": [
-            "L-shaped, white base, floral bedding"
+            "Fitted with floral bedding",
+            "Decorative headboard with rabbit ears",
+            "Integrated storage beneath the bed"
           ],
           "materials": [
-            "Wooden headboard, fabric bedding"
+            "Wood (headboard)",
+            "Textiles (bedding)"
           ],
-          "finish": "Smooth surface, decorative patterns"
+          "finish": "Velvet headboard with glossy bedding"
         },
         {
-          "type": "Built-in furniture",
+          "type": "Built-in storage units",
           "features": [
-            "Shelving, lighting, storage compartments"
+            "Integrated wall-mounted shelves",
+            "Shades of orange and beige"
           ],
           "materials": [
-            "Wood, fabric"
+            "Wood"
           ],
-          "finish": "Painted surface, glossy finish"
+          "finish": "Matte and glossy finishes"
         },
         {
-          "type": "Desk",
+          "type": "Study table",
           "features": [
-            "White, minimalist design"
+            "Integrated with world map",
+            "White surface with wooden legs"
           ],
           "materials": [
-            "Plastic, metal"
+            "MDF, wood"
           ],
-          "finish": "Smooth surface, glossy finish"
+          "finish": "Wooden surface with glossy accents"
         },
         {
-          "type": "Chair",
+          "type": "Task lamp",
           "features": [
-            "Modern design, rolling base"
+            "Modern design",
+            "Pink shade"
           ],
           "materials": [
-            "Metal, fabric"
+            "Plastic"
           ],
-          "finish": "Smooth surface, glossy finish"
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, pastel shades, pink, green, blue, brown"
+          "White",
+          "Green",
+          "Pink",
+          "Orange",
+          "Beige",
+          "Multicolored (polka dots)"
         ],
         "materials": [
-          "Wood, fabric, plastic, metal"
+          "Wood",
+          "Textiles",
+          "Metal",
+          "Plastic"
         ],
-        "lighting": "Natural light, built-in LED lighting",
-        "texture": "Smooth surfaces with soft fabric accents"
+        "lighting": "Natural light from window, ambient lighting from built-in shelves",
+        "texture": "Velvet, glossy, textured wall, smooth table surface"
       },
       "indian_context": {
-        "regional_style": "Not specific to Indian regional styles, more contemporary",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Contemporary interpretation of Indian materials like fabric and wood"
+        "regional_style": "Not Indian-specific style",
+        "traditional_elements": [
+          "Not applicable"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture and desk",
-        "cultural_significance": "No traditional Indian elements, but the use of soft and comfortable fabrics aligns with Indian design aesthetics"
+        "modern_adaptations": [
+          "Rabbit ears headboard, polka dot wallpaper, modern lighting"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves and integrated storage",
+        "cultural_significance": "No specific cultural elements, as this appears to be a modern design with global inspiration"
       }
     },
     "confidence_scores": {
@@ -77,21 +96,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image depicts a contemporary teenage bedroom with a focus on comfort and functionality. The space features built-in furniture with storage and lighting, a L-shaped bed with floral bedding, and a desk with a modern chair. The walls are decorated with polka dot wallpaper, and the color palette is composed of soft pastel shades, white, pink, green, blue, and brown. The overall design is modern with some contemporary Indian elements like the use of fabric and wood in furniture.",
+    "description": "This modern eclectic child's bedroom features a bunk bed with a decorative headboard in the shape of rabbit ears, integrated storage units, a study table with a world map, and polka dot wallpaper. The room is well-lit with natural light from a window and ambient lighting from built-in shelves. The design is clean and contemporary with a mix of smooth and textured surfaces, using a palette of white, green, pink, orange, and beige. The headboard's velvet texture contrasts with the glossy bedding and the smooth surfaces of the study table and shelving units.",
     "metadata": {
       "tags": [
-        "Teenage bedroom",
-        "Contemporary design",
-        "Polka dot wallpaper",
-        "Built-in furniture",
-        "Soft colors"
+        "modern",
+        "eclectic",
+        "child's room",
+        "polka dot",
+        "rabbit ears",
+        "integrated storage"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential bedroom",
-      "functionality": "Sleeping and study",
-      "indian_specific": "Contemporary adaptation of Indian design aesthetics"
+      "budget_indicator": "Moderate, with materials such as wood and textiles, but also some modern elements like the task lamp.",
+      "space_type": "Single-child bedroom",
+      "functionality": "Sleeping and studying",
+      "indian_specific": "No Indian-specific design features are visible, suggesting a global modern design approach."
     }
   },
-  "cached_at": 1753447585399,
+  "cached_at": 1753957591429,
   "cache_key": "58778d572f88b82d44885b26d1679c93"
 }

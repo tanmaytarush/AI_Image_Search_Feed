@@ -4,161 +4,90 @@
     "image_id": "img_060",
     "ai_generated_tags": {
       "room": "Living Room",
-<<<<<<< HEAD
-      "theme": "Modern Indian",
+      "theme": "Modern Indian Interior",
       "primary_features": [
-        "Large wardrobe with carved designs",
-        "TV unit with storage",
-        "Om and Swastika symbols"
+        "TV unit",
+        "Cupboard with religious symbols",
+        "White and brown color scheme"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "TV unit",
           "features": [
-            "White with intricate carvings",
-            "Gold handles",
-            "Storage space"
+            "Dark wood finish",
+            "Cabinet with glass doors"
           ],
           "materials": [
-            "MDF, possibly with a metallic finish"
+            "Dark wood",
+            "Glass"
           ],
-          "finish": "Glossy finish with gold highlights"
+          "finish": "High-gloss finish"
         },
-        {
-          "type": "TV Unit",
-          "features": [
-            "Dark wood with white panels",
-            "Open and closed storage compartments",
-            "Modern design"
-          ],
-          "materials": [
-            "Dark wood, white MDF"
-          ],
-          "finish": "Glossy finish"
-=======
-      "theme": "Modern Indian Minimalist",
-      "primary_features": [
-        "White glossy cupboards",
-        "Carved motifs on doors",
-        "Television stand with storage",
-        "Minimalistic decor"
-      ],
-      "objects": [
         {
           "type": "Cupboard",
           "features": [
-            "Glossy finish",
-            "Carved motifs on doors",
-            "Om and Swastika symbols"
+            "White panels with cut-out designs",
+            "Golden handles",
+            "Religious symbols (Om, Swastika)"
           ],
           "materials": [
-            "MDF or similar wood composite"
+            "MDF",
+            "Hardware"
           ],
-          "finish": "Glossy white"
-        },
-        {
-          "type": "Television Stand",
-          "features": [
-            "Dark wood finish",
-            "Storage compartments"
-          ],
-          "materials": [
-            "Dark wood, possibly teak or similar"
-          ],
-          "finish": "Polished dark wood"
->>>>>>> origin/main
+          "finish": "Smooth finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Dark brown",
-<<<<<<< HEAD
-          "Gold"
+          "Dark gray"
         ],
         "materials": [
-          "MDF, wood, glass"
+          "MDF",
+          "Glass",
+          "Hardware",
+          "Painted wood"
         ],
-        "lighting": "Natural light from a window (not visible in the image)",
-        "texture": "Smooth finishes with some carved textures"
+        "lighting": "Natural lighting from an unseen source",
+        "texture": "Smooth interior finishes with glossy and matte textures"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but modern interpretations",
+        "regional_style": "This appears to be a modern interpretation of North Indian style, possibly from a larger city",
         "traditional_elements": [
-          "Om and Swastika symbols, carved designs"
+          "Religious symbols",
+          "Carved designs"
         ],
         "modern_adaptations": [
-          "Minimalist modern style with traditional motifs"
+          "High-gloss finishes",
+          "Glass doors"
         ],
-        "space_utilization": "Efficient use of space with storage and decorative elements",
-        "cultural_significance": "Symbolic elements like Om and Swastika indicate spiritual and cultural significance"
-=======
-          "Black"
-        ],
-        "materials": [
-          "MDF/wood composite",
-          "Dark wood",
-          "Metallic elements"
-        ],
-        "lighting": "Natural light with artificial overhead lighting",
-        "texture": "Smooth glossy finish on white, textured dark wood"
+        "space_utilization": "Optimal use of space with a TV unit and a cupboard",
+        "cultural_significance": "The inclusion of religious symbols like Om and Swastika is culturally significant, representing spirituality and good fortune respectively"
       },
-      "indian_context": {
-        "regional_style": "Not specific to a regional style, but includes modern Indian elements",
-        "traditional_elements": [
-          "Carved motifs on doors",
-          "Om symbol"
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian living space with a focus on functionality and cultural elements. The living room features a TV unit with a dark wood finish and glass doors, complemented by a large cupboard with white panels and intricate cut-out designs featuring religious symbols. The color scheme is primarily white and dark brown, with a glossy finish, suggesting a contemporary take on traditional North Indian design. The inclusion of religious symbols adds a layer of cultural significance, likely representing the owner's spiritual beliefs. The overall design is clean and organized, indicating a well-thought-out space that balances modern aesthetics with traditional Indian motifs.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Interior",
+          "Living Room",
+          "Religious Symbols",
+          "White and Brown",
+          "Functional Design"
         ],
-        "modern_adaptations": [
-          "Minimalistic approach with modern materials"
-        ],
-        "space_utilization": "Efficient storage with modern design",
-        "cultural_significance": "The symbols on the doors (Om and Swastika) are significant in Hindu culture, representing spiritual and auspicious elements"
->>>>>>> origin/main
+        "budget_indicator": "Moderate, with the use of high-gloss finishes and glass doors indicating a slightly higher budget",
+        "space_type": "Residential Living Room",
+        "functionality": "Entertainment and storage",
+        "indian_specific": "Religious symbols, MDF construction, high-gloss finishes"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-<<<<<<< HEAD
-    "description": "This image showcases a modern living room with a focus on Indian design elements. The wardrobe features intricate carvings and symbolic designs such as Om and Swastika, indicative of traditional Indian spirituality. The TV unit is a blend of modern minimalism with storage solutions, incorporating dark wood and white MDF. The overall design is clean and contemporary with a nod to traditional Indian aesthetics.",
-    "metadata": {
-      "tags": [
-        "Modern Indian",
-        "Living Room",
-        "Wardrobe",
-        "TV Unit",
-        "Om Symbol",
-        "Swastika Symbol"
-      ],
-      "budget_indicator": "Mid-range, due to the use of MDF and dark wood",
-      "space_type": "Residential Living Room",
-      "functionality": "Entertainment and storage",
-      "indian_specific": "Intricate carvings and spiritual symbols"
     }
   },
-  "cached_at": 1753447011165,
-=======
-    "description": "The interior space is a modern Indian living room featuring a glossy white cupboard with intricately carved motifs on the doors, symbolizing spiritual and auspicious elements. The space includes a dark wood television stand with built-in storage, creating a harmonious blend of traditional and contemporary design elements. The lighting is bright, highlighting the smooth finish of the materials used.",
-    "metadata": {
-      "tags": [
-        "Modern Indian",
-        "Minimalist",
-        "Carved motifs",
-        "White glossy finish",
-        "Dark wood storage"
-      ],
-      "budget_indicator": "Moderate to high, as indicated by the use of glossy finishes and dark wood",
-      "space_type": "Living Room",
-      "functionality": "Entertainment and storage",
-      "indian_specific": "Carved motifs and religious symbols"
-    }
-  },
-  "cached_at": 1753181173213,
->>>>>>> origin/main
+  "cached_at": 1753957352698,
   "cache_key": "fc1409819e7848f138079f8dd1f05963"
 }

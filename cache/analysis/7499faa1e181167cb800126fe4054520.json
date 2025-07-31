@@ -3,84 +3,65 @@
   "analysis": {
     "image_id": "img_037",
     "ai_generated_tags": {
-<<<<<<< HEAD
       "room": "Bedroom",
-      "theme": "Modern",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Wall-mounted wardrobe with built-in shelves and drawers",
-        "Gray and white color scheme",
-        "Minimalist design"
+        "Fitted wardrobes with sliding doors",
+        "Built-in shelving unit",
+        "Modern furniture design"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Fitted Wardrobe",
           "features": [
-            "Wall-mounted with sliding doors",
-            "Integrated shelves and drawers"
+            "Rectangular shape",
+            "Sliding doors",
+            "Contemporary handles"
           ],
           "materials": [
-            "MDF with laminate finish"
+            "MDF or wooden panels",
+            "Metallic handles"
           ],
-          "finish": "Smooth and glossy laminate finish"
-=======
-      "room": "bedroom",
-      "theme": "contemporary",
-      "primary_features": [
-        "fitted wardrobe system"
-      ],
-      "objects": [
+          "finish": "Smooth, glossy finish"
+        },
         {
-          "type": "wardrobe",
+          "type": "Built-in Shelving Unit",
           "features": [
-            "fitted with sliding doors, multiple compartments, and drawers"
+            "Integrated into the wardrobe structure",
+            "Open shelving with glass doors"
           ],
           "materials": [
-            "wood, melamine"
+            "Metal frame",
+            "Glass doors"
           ],
-          "finish": "smooth, glossy finish"
->>>>>>> origin/main
+          "finish": "Metallic sheen, glass transparency"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
           "Gray",
           "White",
+          "Brown",
           "Black"
         ],
         "materials": [
-          "MDF",
-          "Laminate"
+          "MDF or wood",
+          "Metal",
+          "Glass"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Smooth and glossy surface"
+        "lighting": "Natural light from window",
+        "texture": "Smooth and shiny"
       },
       "indian_context": {
-        "regional_style": "Modern",
-        "traditional_elements": [],
+        "regional_style": "Not specific to any regional style",
+        "traditional_elements": [
+          "Not traditional Indian elements"
+        ],
         "modern_adaptations": [
-          "Integration of traditional storage solutions with modern aesthetics"
+          "Adoption of modern design with Indian influences"
         ],
-        "space_utilization": "Efficient use of space with built-in storage",
-        "cultural_significance": "Simplistic and functional design, reflecting contemporary Indian interior trends"
-=======
-          "white, gray, brown"
-        ],
-        "materials": [
-          "wood, melamine, glass"
-        ],
-        "lighting": "even lighting, no visible light sources",
-        "texture": "smooth surfaces, glossy finish"
-      },
-      "indian_context": {
-        "regional_style": "not applicable",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "contemporary design with Indian influences"
-        ],
-        "space_utilization": "efficient use of space, maximizing storage",
-        "cultural_significance": "functional and practical, no cultural elements present"
->>>>>>> origin/main
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "No cultural significance in this modern design"
       }
     },
     "confidence_scores": {
@@ -90,40 +71,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-<<<<<<< HEAD
-    "description": "The image shows a modern bedroom with a wall-mounted wardrobe featuring sliding doors and integrated shelves and drawers. The color scheme is a combination of gray and white, creating a clean and minimalistic look. The wardrobe is made of MDF with a glossy laminate finish. There are no traditional Indian elements present, as the design is contemporary and functional.",
+    "description": "A modern Indian bedroom interior featuring a fitted wardrobe with sliding doors and a built-in shelving unit. The design incorporates contemporary handles and metallic finishes, with a color palette of gray, white, brown, and black. The built-in shelving unit adds functionality and storage, aligning with modern Indian interior design trends.",
     "metadata": {
       "tags": [
-        "Modern Bedroom",
-        "Wall-Mounted Wardrobe",
-        "Gray and White Scheme",
-        "Glossy Finish",
-        "Minimalist Design"
+        "Bedroom",
+        "Modern Indian",
+        "Fitted wardrobe",
+        "Built-in shelves",
+        "Minimalist design"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential Bedroom",
+      "budget_indicator": "Moderate, with materials like MDF, metal, and glass",
+      "space_type": "Residential bedroom",
       "functionality": "Storage and organization",
-      "indian_specific": "No traditional Indian elements visible, focus on modern design"
+      "indian_specific": "Adoption of contemporary Indian design elements"
     }
   },
-  "cached_at": 1753446534515,
-=======
-    "description": "The image depicts a contemporary designed bedroom with a fitted wardrobe system. The wardrobe features sliding doors, multiple compartments, and drawers, primarily constructed with wood and melamine. The color palette consists of white, gray, and brown, creating a modern and minimalist look. The smooth, glossy finish of the materials adds a touch of elegance to the space. The contemporary design subtly incorporates Indian influences, such as the choice of wood and the overall functionality, which is a common practice in modern Indian interior design.",
-    "metadata": {
-      "tags": [
-        "bedroom",
-        "wardrobe",
-        "contemporary design",
-        "Indian contemporary",
-        "functional storage"
-      ],
-      "budget_indicator": "moderate",
-      "space_type": "residential bedroom",
-      "functionality": "storage and organization",
-      "indian_specific": "contemporary style with Indian wood usage"
-    }
-  },
-  "cached_at": 1753181142008,
->>>>>>> origin/main
+  "cached_at": 1753957209083,
   "cache_key": "7499faa1e181167cb800126fe4054520"
 }

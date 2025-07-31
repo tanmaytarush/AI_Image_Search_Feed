@@ -4,95 +4,98 @@
     "image_id": "img_079",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Contemporary",
+      "theme": "Modern Indian Fusion",
       "primary_features": [
-        "Pink and white cabinetry",
+        "Pink cabinets",
         "Marble countertops",
-        "Integrated appliances"
+        "Built-in appliances",
+        "Open shelving"
       ],
       "objects": [
         {
-          "type": "Refrigerator",
-          "features": [
-            "Modern design",
-            "Integrated into cabinetry"
-          ],
-          "materials": [
-            "Metallic"
-          ],
-          "finish": "Glossy, reflective"
-        },
-        {
           "type": "Cabinets",
           "features": [
-            "Pink and white",
-            "Louvered doors"
+            "Pink glossy finish",
+            "Wooden inserts"
           ],
           "materials": [
-            "Pink and white paint"
+            "PVC for glossy finish",
+            "Teak for inserts"
           ],
-          "finish": "Smooth, glossy"
+          "finish": "Glossy finish on cabinets, natural wood texture on inserts"
         },
         {
-          "type": "Countertops",
+          "type": "Countertop",
           "features": [
-            "Marble with gold veining"
+            "Marble with gold veins"
           ],
           "materials": [
             "Marble"
           ],
-          "finish": "Polished"
+          "finish": "Polished stone finish"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Integrated refrigerator",
+            "Oven"
+          ],
+          "materials": [
+            "Metal for appliances"
+          ],
+          "finish": "Metallic, reflective surface"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Pink",
           "White",
-          "Off-white",
           "Gold",
           "Gray"
         ],
         "materials": [
-          "Metal",
           "Marble",
-          "Paint"
+          "PVC",
+          "Teak",
+          "Metal"
         ],
-        "lighting": "Natural light from ceiling lights and pendant lights, warm ambiance",
-        "texture": "Smooth, glossy surfaces"
+        "lighting": "Natural light from the window with additional overhead lighting",
+        "texture": "Smooth marble countertops, glossy cabinets, textured wall paneling"
       },
       "indian_context": {
-        "regional_style": "Not indicative of a specific Indian regional style",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Contemporary design with Indian influences in color and material choices"
+        "regional_style": "Mumbai or Delhi contemporary style",
+        "traditional_elements": [
+          "Open shelving"
         ],
-        "space_utilization": "Efficient use of space with integrated appliances and storage solutions",
-        "cultural_significance": "The use of pink and white might have cultural relevance but is not directly traditional Indian"
+        "modern_adaptations": [
+          "Modern appliance integration, sleek design"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in appliances",
+        "cultural_significance": "Pink is often associated with traditional Indian celebration and luxury"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian kitchen with a fusion of traditional and contemporary elements. Pink cabinets and marble countertops create a luxurious and colorful backdrop, reflecting contemporary tastes. The inclusion of traditional open shelving and natural wood inserts adds a touch of regional charm. Built-in appliances and sleek finishes highlight a modern approach, while the use of pink in an Indian context possibly signifies celebration and elegance.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "Indian Fusion",
+          "Pink Cabinets",
+          "Marble Countertop"
+        ],
+        "budget_indicator": "Mid to high-end, given the use of glossy materials and built-in appliances",
+        "space_type": "Residential",
+        "functionality": "Highly functional space for cooking and storage",
+        "indian_specific": "Pink as a design accent, open shelving"
       }
-    },
-    "confidence_scores": {
-      "room": 0.85,
-      "theme": 0.8,
-      "primary_features": 0.9,
-      "objects": 0.85,
-      "indian_context": 0.7
-    },
-    "description": "This image showcases a modern kitchen with a contemporary design, featuring a blend of pink and white cabinetry with marble countertops. The space is efficiently organized with integrated appliances and storage solutions, creating a clean and streamlined look. The color palette and material choices, while not traditional, reflect a modern interpretation of Indian interior design elements, such as the use of bold colors and reflective surfaces.",
-    "metadata": {
-      "tags": [
-        "Kitchen",
-        "Contemporary",
-        "Pink cabinetry",
-        "Marble countertops",
-        "Integrated appliances",
-        "Modern design"
-      ],
-      "budget_indicator": "Moderate, with quality materials such as marble and glossy finishes",
-      "space_type": "Residential, multi-functional space",
-      "functionality": "Primary kitchen area, with design elements that cater to both aesthetics and practicality",
-      "indian_specific": "Modern adaptation of Indian design elements in color and material choices"
     }
   },
-  "cached_at": 1753447535287,
+  "cached_at": 1753957572518,
   "cache_key": "6e4f411c38656b19ee461a69bb99a964"
 }

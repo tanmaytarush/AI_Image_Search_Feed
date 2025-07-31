@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.29.jpeg",
+  "analysis": {
+    "image_id": "img_001",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Built-in wardrobes",
+        "Window with wooden shutters",
+        "Built-in bed with wooden frame",
+        "White ceiling"
+      ],
+      "objects": [
+        {
+          "type": "Built-in bed",
+          "features": [
+            "Wooden frame with a white mattress",
+            "Integrated seating area at one end"
+          ],
+          "materials": [
+            "Wood (likely teak or similar)",
+            "Metal (for bed frame details)"
+          ],
+          "finish": "Polished wood and metallic hardware"
+        },
+        {
+          "type": "Built-in wardrobes",
+          "features": [
+            "Herringbone pattern",
+            "Sliding doors"
+          ],
+          "materials": [
+            "Painted wood or board"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "Wooden frame",
+            "Metal shutters"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Polished wood and metallic shutters"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark gray",
+          "Brown",
+          "Dark gray"
+        ],
+        "materials": [
+          "Painted wood",
+          "Metal",
+          "Painted board"
+        ],
+        "lighting": "Artificial lighting from ceiling",
+        "texture": "Smooth and glossy"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Built-in furniture",
+          "Wooden shutters"
+        ],
+        "modern_adaptations": [
+          "Integrated design",
+          "Minimalist approach"
+        ],
+        "space_utilization": "Efficient use of space with built-in features",
+        "cultural_significance": "Integration of traditional elements with modern functionality, reflecting a contemporary take on South Indian residential design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior features a contemporary take on South Indian design, with built-in wardrobes and a bed that seamlessly integrates with the space. The wooden shutters and the polished wood of the built-in bed frame echo traditional elements, while the minimalist design and modern materials suggest a contemporary interpretation. The room is efficiently organized with space-saving built-in features, reflecting a practical approach to interior design.",
+    "metadata": {
+      "tags": [
+        "Modern Minimalist",
+        "South Indian Design",
+        "Built-in furniture",
+        "Wooden shutters",
+        "Contemporary Indian interior"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Integration of traditional elements with modern design"
+    }
+  },
+  "cached_at": 1753956953267,
+  "cache_key": "8b39c7601757f2dd295338090d15e5a3"
+}

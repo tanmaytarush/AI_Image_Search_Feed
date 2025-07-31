@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.07%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_072",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Marble flooring",
+        "Wooden doors",
+        "Green and white sideboard",
+        "Pink kitchen cabinets",
+        "Marble backsplash",
+        "Light wood pillar"
+      ],
+      "objects": [
+        {
+          "type": "Sideboard",
+          "features": [
+            "Green and white color combination",
+            "Three drawers with gold handles",
+            "Shoe storage underneath"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Textured and glossy"
+        },
+        {
+          "type": "Cabinet",
+          "features": [
+            "Pink cabinets",
+            "Gold handles"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Marble with gold veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Pillar",
+          "features": [
+            "Light wood with vertical grain"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural, slightly matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Green",
+          "Pink",
+          "Brown",
+          "Gold",
+          "Beige"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Bright, with recessed ceiling lights and pendant lights",
+        "texture": "Smooth and glossy"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but could be a modern interpretation of North Indian design",
+        "traditional_elements": [
+          "Carved wooden elements (imagined)",
+          "Marble and wood as traditional materials"
+        ],
+        "modern_adaptations": [
+          "Combination of traditional materials with modern design elements"
+        ],
+        "space_utilization": "Open plan with clear delineation of areas, maximizing functionality",
+        "cultural_significance": "Emphasis on communal living and modern comfort in a traditional setting"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior features a modern Indian design with a blend of traditional and contemporary elements. The foyer area includes a green and white sideboard with shoe storage, which is a stylish adaptation of traditional shoe racks. The kitchen showcases pink cabinets and a marble backsplash, reflecting a modern touch. The use of light wood for the pillar and ceiling lights adds warmth to the space, while the overall design is clean and functional, typical of modern Indian homes.",
+    "metadata": {
+      "tags": [
+        "Foyer",
+        "Modern Indian",
+        "Contemporary Design",
+        "Pink Cabinets",
+        "Green and White Sideboard"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials like marble and wood",
+      "space_type": "Residential - Foyer and Kitchen",
+      "functionality": "Entrance and living space",
+      "indian_specific": "Combination of traditional materials like marble and wood with contemporary furniture and finishes"
+    }
+  },
+  "cached_at": 1753957460510,
+  "cache_key": "61546871e7d9f66d78672fdf88f57f4e"
+}

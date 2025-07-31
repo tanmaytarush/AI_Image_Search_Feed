@@ -3,183 +3,73 @@
   "analysis": {
     "image_id": "img_075",
     "ai_generated_tags": {
-<<<<<<< HEAD
       "room": "Living Room",
       "theme": "Contemporary Indian",
       "primary_features": [
-        "Large sectional sofa",
-        "Round wooden coffee table",
-        "Multi-tier floating shelves",
-        "Marble and wood dining table",
-        "Marble flooring"
+        "Carpeted flooring",
+        "Modular sectional sofa",
+        "Rounded coffee table",
+        "Decorative wall shelves",
+        "Open kitchen with marble countertops"
       ],
       "objects": [
         {
           "type": "Sectional sofa",
-          "features": [
-            "U-shaped design",
-            "Tufted upholstery",
-            "Soft cushions"
-=======
-      "room": "Living Room with Kitchen",
-      "theme": "Contemporary Indian Fusion",
-      "primary_features": [
-        "U-shaped sofa",
-        "Wooden coffee table",
-        "Marble flooring",
-        "Modern lighting fixture",
-        "Wall-mounted shelves"
-      ],
-      "objects": [
-        {
-          "type": "U-shaped sofa",
-          "features": [
-            "Tufted design",
-            "Neutral color scheme",
-            "Wooden frame"
->>>>>>> origin/main
-          ],
-          "materials": [
-            "Fabric",
-            "Wood"
-          ],
-<<<<<<< HEAD
-          "finish": "Smooth, matte"
+          "features": "Large, upholstered with white fabric, brown and beige cushions",
+          "materials": "Fabric, wood (base)",
+          "finish": "Smooth, polished"
         },
         {
-          "type": "Round coffee table",
-          "features": [
-            "Solid round design",
-            "Natural wood finish"
-=======
-          "finish": "Smooth, modern finish"
+          "type": "Coffee table",
+          "features": "Rounded wooden top with natural grain, black metal base",
+          "materials": "Wood, metal",
+          "finish": "Natural wood, metallic"
         },
         {
-          "type": "Wooden coffee table",
-          "features": [
-            "Organic shape",
-            "Natural wood texture",
-            "Dark finish"
->>>>>>> origin/main
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural, polished"
-        },
-        {
-<<<<<<< HEAD
-          "type": "Multi-tier floating shelves",
-          "features": [
-            "Geometric design",
-            "Black metal frame"
-=======
-          "type": "Marble flooring",
-          "features": [
-            "White with veining design",
-            "High-end appearance"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "High-gloss"
-        },
-        {
-          "type": "Modern lighting fixture",
-          "features": [
-            "Black frame",
-            "Suspension design",
-            "Multiple spherical lights"
->>>>>>> origin/main
-          ],
-          "materials": [
-            "Metal"
-          ],
-<<<<<<< HEAD
-          "finish": "Glossy, black"
-        },
-        {
-          "type": "Marble and wood dining table",
-          "features": [
-            "Rectangular shape",
-            "Combination of marble and wood"
-          ],
-          "materials": [
-            "Marble",
-            "Wood"
-          ],
-          "finish": "Marble polished, wood natural"
-=======
+          "type": "Wall shelves",
+          "features": "Black metal structure with square open shelves",
+          "materials": "Metal",
           "finish": "Glossy black"
         },
         {
-          "type": "Wall-mounted shelves",
-          "features": [
-            "Geometric design",
-            "Floating style"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Painted finish"
->>>>>>> origin/main
+          "type": "Marble countertop",
+          "features": "Smooth, polished surface",
+          "materials": "Marble",
+          "finish": "High sheen"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Brown",
-<<<<<<< HEAD
+          "Beige",
+          "Blue",
+          "Green",
+          "Gold",
           "Black",
-          "Blue",
-          "Green",
-          "Marble grey"
-=======
-          "Blue",
-          "Green",
-          "Black"
->>>>>>> origin/main
+          "Red"
         ],
         "materials": [
-          "Wood",
-          "Marble",
-          "Metal",
-<<<<<<< HEAD
           "Fabric",
-          "Glass"
+          "Wood",
+          "Metal",
+          "Marble"
         ],
-        "lighting": "Natural light from windows, contemporary pendant lights",
-        "texture": "Smooth, polished, matte, natural"
+        "lighting": "Natural light from windows, artificial lighting from pendant lamps",
+        "texture": "Smooth, polished texture on furniture and countertops, warm textures on the carpet"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional",
+        "regional_style": "Mumbai/urban contemporary",
         "traditional_elements": [
-          "Sectional sofa design",
-          "Marble flooring"
+          "Carpeted flooring",
+          "Sectional sofa"
         ],
         "modern_adaptations": [
-          "Geometric floating shelves",
-          "Sleek dining table design"
+          "Open kitchen with marble countertops",
+          "Circular coffee table"
         ],
-        "space_utilization": "Open-plan living, dining, and kitchen area with practical storage solutions",
-        "cultural_significance": "Indian design elements like marble flooring celebrate traditional materials, while modern furniture and lighting reflect contemporary styles"
-=======
-          "Fabric"
-        ],
-        "lighting": "Bright, evenly distributed from ceiling lights and pendant lights",
-        "texture": "Smooth surfaces with some textured elements from the coffee table and decorative objects"
-      },
-      "indian_context": {
-        "regional_style": "Not clearly regional, more of a modern interpretation",
-        "traditional_elements": [
-          "Wall-mounted shelves reminiscent of jharokha element"
-        ],
-        "modern_adaptations": [
-          "Integration of modern materials and design elements"
-        ],
-        "space_utilization": "Optimized with multiple functional areas (living, dining, kitchen)",
-        "cultural_significance": "Modern adaptation of traditional Indian architectural elements for a contemporary setting"
->>>>>>> origin/main
+        "space_utilization": "Efficient use of space with open kitchen and living area",
+        "cultural_significance": "Emphasis on comfort and modern living, reflecting urban lifestyle in contemporary India"
       }
     },
     "confidence_scores": {
@@ -189,42 +79,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-<<<<<<< HEAD
-    "description": "This contemporary Indian living room integrates traditional Indian materials like marble and wood with modern design elements, creating a harmonious blend of tradition and innovation. The space features a large U-shaped sectional sofa, a round wooden coffee table, multi-tier floating shelves, and a sleek marble and wood dining table. The use of natural lighting and contemporary pendant lights enhances the room's airy and spacious feel.",
+    "description": "The space is a modern Indian living room with a contemporary design, featuring a modular sectional sofa, a rounded coffee table, and decorative wall shelves. The use of marble countertops and open kitchen design reflects a blend of traditional and modern elements. The emphasis on comfort and functionality aligns with urban residential spaces in contemporary India.",
     "metadata": {
       "tags": [
-        "Contemporary Indian",
         "Living Room",
-        "Marble Flooring",
-        "Wooden Furniture",
-        "Geometric Shelves"
+        "Indian Design",
+        "Contemporary",
+        "Urban Style",
+        "Marble Countertops"
       ],
-      "budget_indicator": "Moderate",
+      "budget_indicator": "Moderate, utilizing both traditional and modern materials",
       "space_type": "Residential",
-      "functionality": "Entertainment and dining",
-      "indian_specific": "Marble flooring and modern interpretation of traditional furniture"
+      "functionality": "Living and dining area with open kitchen",
+      "indian_specific": "Sectional sofa, decorative wall shelves, carpeted flooring"
     }
   },
-  "cached_at": 1753451430776,
-=======
-    "description": "The interior showcases a modern Indian fusion style with a contemporary living room that seamlessly transitions into a kitchen area. The living room features a U-shaped sofa with a tufted design and wooden accents, complemented by a natural wood coffee table and a modern geometric wall-mounted shelf system. The kitchen area is visible in the background, with a clean, minimalist design featuring white cabinets, green accents, and a marble countertop. The space is well-lit with a combination of recessed ceiling lights and a sleek, contemporary pendant light, creating a bright and airy atmosphere.",
-    "metadata": {
-      "tags": [
-        "living room",
-        "modern",
-        "indian fusion",
-        "contemporary design",
-        "marble flooring",
-        "geometric shelves",
-        "wooden furniture"
-      ],
-      "budget_indicator": "Moderate to high, with the use of high-end materials such as marble and polished wood",
-      "space_type": "Residential living space",
-      "functionality": "Social and relaxation area",
-      "indian_specific": "Integration of traditional wall-mounted shelf design with modern elements"
-    }
-  },
-  "cached_at": 1753181213441,
->>>>>>> origin/main
+  "cached_at": 1753957520019,
   "cache_key": "a78dbf5d5b4e6206eca53c1d3766b9d5"
 }

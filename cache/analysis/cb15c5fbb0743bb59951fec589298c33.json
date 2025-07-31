@@ -3,141 +3,76 @@
   "analysis": {
     "image_id": "img_042",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Storage Area",
+      "room": "Bedroom",
       "theme": "Minimalist",
       "primary_features": [
-        "Cabinets with sliding doors",
-        "Sleek finish"
+        "Large wardrobe with sliding doors"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "Wardrobe",
           "features": [
-            "Rectangular shape",
-            "Sliding doors",
-            "Horizontal handles"
+            "Large, dark grey with a textured finish",
+            "Sliding doors with handles",
+            "Multiple storage compartments"
           ],
           "materials": [
-            "Painted wooden finish",
-            "Metallic handles"
+            "Composite wood, possibly MDF with a textured finish"
           ],
-          "finish": "Sleek, smooth surface"
-=======
-      "room": "Storage",
-      "theme": "Minimalist",
-      "primary_features": [
-        "Large storage cabinets",
-        "Sliding door",
-        "Flat panel design"
-      ],
-      "objects": [
-        {
-          "type": "Storage cabinet",
-          "features": [
-            "Large capacity",
-            "Sliding door",
-            "Flat panel design"
-          ],
-          "materials": [
-            "Appearance of wood or wood-like finish"
-          ],
-          "finish": "Sleek and modern"
->>>>>>> origin/main
+          "finish": "Textured, matte finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "Dark gray cabinet",
-          "Red accent wall",
-          "White floor"
+          "Dark grey",
+          "White",
+          "Red",
+          "Beige"
         ],
         "materials": [
-          "Painted wood",
-          "Metallic handles",
-          "Porcelain tiles"
+          "Composite wood",
+          "White tiles",
+          "Red painted wall"
         ],
-        "lighting": "Evenly lit with no visible light source",
-        "texture": "Smooth surfaces with metallic accents"
+        "lighting": "Natural light from unseen windows",
+        "texture": "Textured finish on the wardrobe, smooth tiles on the floor, painted wall"
       },
       "indian_context": {
-        "regional_style": "Not discernible due to modern design",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Modern interpretation of storage furniture with sleek design"
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Not applicable"
         ],
-        "space_utilization": "Highly organized with closed storage solution",
-        "cultural_significance": "Not relevant to the image content"
+        "modern_adaptations": [
+          "Wardrobe with modern sliding doors and a minimalist design"
+        ],
+        "space_utilization": "Efficient use of space with a large wardrobe occupying the wall area",
+        "cultural_significance": "Not relevant to the provided image as it does not contain traditional Indian decorative elements"
       },
       "confidence_scores": {
-        "room": 0.75,
-        "theme": 0.75,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.5
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The image showcases a modern storage solution with sleek, dark gray cabinets and sliding doors, providing a highly organized look. The space features a minimalist design with a smooth surface finish and metallic handles, set against a red accent wall and white floor tiles. There are no visible traditional Indian design elements, indicating a contemporary style with a touch of cultural modernity.",
+      "description": "The image depicts a minimalist bedroom with a large, dark grey wardrobe with sliding doors. The room features a painted red wall, white tiled flooring, and natural light from an unseen window. The wardrobe is a modern adaptation of traditional Indian storage solutions, with a sleek and contemporary design.",
       "metadata": {
         "tags": [
-          "Storage Solutions",
-          "Minimalist Design",
-          "Modern Furniture",
-          "Interior Storage"
+          "Minimalist bedroom",
+          "Large wardrobe",
+          "Sliding doors",
+          "Dark grey",
+          "Red wall",
+          "White tiles",
+          "Modern design"
         ],
-        "budget_indicator": "Moderate, given the painted wood and metal handles",
-        "space_type": "Residential or commercial storage area",
-        "functionality": "Primary purpose is for storage and organization",
-        "indian_specific": "No Indian-specific design features are visible"
+        "budget_indicator": "Moderate, due to the use of composite wood and sliding doors",
+        "space_type": "Bedroom",
+        "functionality": "Storage and organization",
+        "indian_specific": "Minimalist adaptation of traditional Indian storage solutions"
       }
     }
   },
-  "cached_at": 1753446627517,
-=======
-          "Dark gray",
-          "Red accent wall",
-          "White floor tiles"
-        ],
-        "materials": [
-          "Wood or wood-like finish",
-          "Concealed sliding door mechanism"
-        ],
-        "lighting": "Indirect lighting, possibly from natural light source above",
-        "texture": "Smooth and uniform surface on cabinets"
-      },
-      "indian_context": {
-        "regional_style": "No regional style visible",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Sleek and modern design with concealed sliding door mechanism"
-        ],
-        "space_utilization": "Efficient use of space with large storage capacity",
-        "cultural_significance": "Minimalist design approach not tied to specific cultural elements"
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.75,
-        "primary_features": 0.8,
-        "objects": 0.9,
-        "indian_context": 0.7
-      },
-      "description": "The image shows a modern storage space with large cabinets featuring concealed sliding doors and a sleek, flat panel design. The room is characterized by a minimalist aesthetic with a dark gray cabinet finish, a red accent wall, and white floor tiles. The design is contemporary, with no visible traditional Indian elements, suggesting a modern, possibly urban, setting.",
-      "metadata": {
-        "tags": [
-          "Storage",
-          "Minimalist",
-          "Modern Design",
-          "Urban Interior",
-          "Efficient Space Utilization"
-        ],
-        "budget_indicator": "Moderate to high, given the materials and finish",
-        "space_type": "Residential or potentially commercial (e.g., office space)",
-        "functionality": "Primary purpose is storage and organization",
-        "indian_specific": "No Indian-specific design features"
-      }
-    }
-  },
-  "cached_at": 1753181154309,
->>>>>>> origin/main
+  "cached_at": 1753957224512,
   "cache_key": "cb15c5fbb0743bb59951fec589298c33"
 }

@@ -216,10 +216,10 @@ class ImageAnalysisService {
         // Auto inference: Generate embeddings and store in Qdrant
         await this.performAutoInference(imageUrl, imageId, jsonResponse);
 
-        // Add imageUrl to the response for visual feature extraction
+        // Add image_url to the response for visual feature extraction
         return {
           ...jsonResponse,
-          imageUrl: imageUrl
+          image_url: imageUrl,
         };
       } catch (parseError) {
         console.error(
@@ -234,7 +234,7 @@ class ImageAnalysisService {
         // If JSON parsing fails, return the raw response with more details
         return {
           image_id: imageId,
-          imageUrl: imageUrl,
+          image_url: imageUrl,
           raw_response: chatCompletion.choices[0].message.content,
           error: `Failed to parse JSON response: ${parseError.message}`,
           http_status: response.status,
@@ -265,15 +265,17 @@ class ImageAnalysisService {
       console.log(`🤖 Starting auto inference for image: ${imageId}`);
 
       // Generate embeddings from analysis result
-      const embeddings = await this.generateEmbeddingsFromAnalysis(analysisResult);
-      
+      const embeddings = await this.generateEmbeddingsFromAnalysis(
+        analysisResult
+      );
+
       // Create point for Qdrant storage
       const point = {
         id: imageId,
         vectors: {
           primary_search: embeddings.primary_search,
           semantic_desc: embeddings.semantic_desc,
-          object_focus: embeddings.object_focus
+          object_focus: embeddings.object_focus,
         },
         payload: {
           image_url: imageUrl,
@@ -283,19 +285,24 @@ class ImageAnalysisService {
           space_type: analysisResult.metadata?.space_type || null,
           design_theme: analysisResult.ai_generated_tags?.theme || null,
           created_at: new Date().toISOString(),
-          embedding_dimensions: this.expectedEmbeddingDimension
-        }
+          embedding_dimensions: this.expectedEmbeddingDimension,
+        },
       };
 
       // Store in Qdrant
       await qdrantService.upsertPoints([point]);
-      
+
       console.log(`✅ Auto inference completed for image: ${imageId}`);
-      console.log(`📊 Stored with ${this.expectedEmbeddingDimension}-dimensional embeddings`);
-      
+      console.log(
+        `📊 Stored with ${this.expectedEmbeddingDimension}-dimensional embeddings`
+      );
+
       return point;
     } catch (error) {
-      console.error(`❌ Auto inference failed for image ${imageId}:`, error.message);
+      console.error(
+        `❌ Auto inference failed for image ${imageId}:`,
+        error.message
+      );
       throw error;
     }
   }
@@ -306,20 +313,34 @@ class ImageAnalysisService {
   async generateEmbeddingsFromAnalysis(analysisResult, imageUrl) {
     try {
       const tags = analysisResult.ai_generated_tags;
-      
+
       // Generate text embeddings (384d each)
       const primarySearchText = this.buildPrimarySearchText(tags);
-      const semanticDescText = this.buildSemanticDescText(tags, analysisResult.description);
+      const semanticDescText = this.buildSemanticDescText(
+        tags,
+        analysisResult.description
+      );
       const objectFocusText = this.buildObjectFocusText(tags);
-      
+
       const [primary_search, semantic_desc, object_focus] = await Promise.all([
-        embeddingService.getEmbedding(primarySearchText, "Generate primary search embeddings for interior design images"),
-        embeddingService.getEmbedding(semanticDescText, "Generate semantic description embeddings for interior design analysis"),
-        embeddingService.getEmbedding(objectFocusText, "Generate object focus embeddings for interior design objects and features")
+        embeddingService.getEmbedding(
+          primarySearchText,
+          "Generate primary search embeddings for interior design images"
+        ),
+        embeddingService.getEmbedding(
+          semanticDescText,
+          "Generate semantic description embeddings for interior design analysis"
+        ),
+        embeddingService.getEmbedding(
+          objectFocusText,
+          "Generate object focus embeddings for interior design objects and features"
+        ),
       ]);
 
       // Extract visual features (384d)
-      const visual_features = await embeddingService.extractVisualFeatures(imageUrl);
+      const visual_features = await embeddingService.extractVisualFeatures(
+        imageUrl
+      );
 
       // Validate all embeddings have correct dimensions
       this.validateEmbeddingDimensions(primary_search, "primary_search");
@@ -335,10 +356,13 @@ class ImageAnalysisService {
         primary_search,
         semantic_desc,
         object_focus,
-        visual_features
+        visual_features,
       };
     } catch (error) {
-      console.error("❌ Failed to generate hybrid embeddings from analysis:", error.message);
+      console.error(
+        "❌ Failed to generate hybrid embeddings from analysis:",
+        error.message
+      );
       throw error;
     }
   }
@@ -352,7 +376,7 @@ class ImageAnalysisService {
       tags.theme,
       ...(tags.primary_features || []),
       ...(tags.visual_attributes?.colors || []),
-      ...(tags.visual_attributes?.materials || [])
+      ...(tags.visual_attributes?.materials || []),
     ].filter(Boolean);
 
     return elements.join(" ");
@@ -369,7 +393,7 @@ class ImageAnalysisService {
       ...(tags.indian_context?.traditional_elements || []),
       ...(tags.indian_context?.modern_adaptations || []),
       tags.indian_context?.regional_style,
-      tags.indian_context?.cultural_significance
+      tags.indian_context?.cultural_significance,
     ].filter(Boolean);
 
     return elements.join(" ");
@@ -380,11 +404,13 @@ class ImageAnalysisService {
    */
   buildObjectFocusText(tags) {
     const elements = [
-      ...(tags.objects?.map(obj => `${obj.type} ${obj.materials?.join(" ")} ${obj.finish}`) || []),
+      ...(tags.objects?.map(
+        (obj) => `${obj.type} ${obj.materials?.join(" ")} ${obj.finish}`
+      ) || []),
       ...(tags.primary_features || []),
       ...(tags.visual_attributes?.materials || []),
       tags.visual_attributes?.lighting,
-      tags.visual_attributes?.texture
+      tags.visual_attributes?.texture,
     ].filter(Boolean);
 
     return elements.join(" ");
@@ -394,9 +420,14 @@ class ImageAnalysisService {
    * Validate embedding dimensions
    */
   validateEmbeddingDimensions(embedding, context) {
-    if (!Array.isArray(embedding) || embedding.length !== this.expectedEmbeddingDimension) {
+    if (
+      !Array.isArray(embedding) ||
+      embedding.length !== this.expectedEmbeddingDimension
+    ) {
       throw new Error(
-        `Invalid ${context} embedding dimensions: expected ${this.expectedEmbeddingDimension}, got ${embedding?.length || 'undefined'}`
+        `Invalid ${context} embedding dimensions: expected ${
+          this.expectedEmbeddingDimension
+        }, got ${embedding?.length || "undefined"}`
       );
     }
   }
@@ -407,7 +438,9 @@ class ImageAnalysisService {
   validateVisualFeatures(visualFeatures, context) {
     if (!Array.isArray(visualFeatures) || visualFeatures.length !== 384) {
       throw new Error(
-        `Invalid ${context} visual features dimensions: expected 384, got ${visualFeatures?.length || 'undefined'}`
+        `Invalid ${context} visual features dimensions: expected 384, got ${
+          visualFeatures?.length || "undefined"
+        }`
       );
     }
   }
@@ -423,12 +456,14 @@ class ImageAnalysisService {
       }
 
       const tags = analysisResult.ai_generated_tags;
-      
+
       // Validate required fields for embedding generation
-      const requiredFields = ['room', 'theme'];
+      const requiredFields = ["room", "theme"];
       for (const field of requiredFields) {
         if (!tags[field]) {
-          console.warn(`⚠️ Analysis missing ${field} field - may affect embedding quality`);
+          console.warn(
+            `⚠️ Analysis missing ${field} field - may affect embedding quality`
+          );
         }
       }
 
@@ -439,15 +474,17 @@ class ImageAnalysisService {
         ...(tags.primary_features || []),
         ...(tags.visual_attributes?.colors || []),
         ...(tags.visual_attributes?.materials || []),
-        ...(tags.objects?.map(obj => obj.type) || []),
+        ...(tags.objects?.map((obj) => obj.type) || []),
         ...(tags.indian_context?.traditional_elements || []),
-        ...(tags.indian_context?.modern_adaptations || [])
+        ...(tags.indian_context?.modern_adaptations || []),
       ].filter(Boolean);
 
       if (embeddingFields.length === 0) {
         console.warn("⚠️ Analysis has no content for embedding generation");
       } else {
-        console.log(`✅ Analysis validated for 384-dimensional embedding system (${embeddingFields.length} content fields)`);
+        console.log(
+          `✅ Analysis validated for 384-dimensional embedding system (${embeddingFields.length} content fields)`
+        );
       }
 
       return true;

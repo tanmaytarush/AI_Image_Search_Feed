@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.30%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_050",
+    "ai_generated_tags": {
+      "room": "Living Area",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wall-mounted shelves with storage",
+        "Wooden partition",
+        "Bright wall color",
+        "Reflective floor",
+        "Ceiling fan"
+      ],
+      "objects": [
+        {
+          "type": "Wooden Partition",
+          "features": [
+            "Multi-level shelf design",
+            "White and blue accents",
+            "Open storage compartments"
+          ],
+          "materials": [
+            "Teak wood",
+            "Painted metal"
+          ],
+          "finish": "Glossy teak wood finish, white and blue painted surfaces"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink",
+          "White",
+          "Blue",
+          "Teal",
+          "Brown",
+          "Gray"
+        ],
+        "materials": [
+          "Teak wood",
+          "Metal",
+          "Painted surfaces",
+          "Reflective tile floor"
+        ],
+        "lighting": "Natural light from window, ceiling fan light",
+        "texture": "Smooth wood texture, glossy painted surfaces, reflective tile floor"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden partition design"
+        ],
+        "modern_adaptations": [
+          "Integration of modern storage solutions with traditional elements"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves",
+        "cultural_significance": "The wooden partition reflects the use of natural materials in Indian interiors, which is culturally significant and often seen in homes and temples"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern interpretation of traditional Indian interior design, featuring a wooden partition with multi-level storage shelves. The use of teak wood and a glossy finish is a nod to classic Indian materials, while the incorporation of white and blue accents adds a contemporary touch. The bright pink wall, white ceiling fan, and reflective floor further enhance the modern feel. The design emphasizes efficient space utilization and cultural relevance through the use of natural materials and traditional elements.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Wooden Partition",
+          "Teak",
+          "Bright Colors",
+          "Storage Solutions",
+          "South Indian Design"
+        ],
+        "budget_indicator": "Moderate, given the use of teak wood and painted metal for storage compartments",
+        "space_type": "Living Area",
+        "functionality": "Storage and division of space",
+        "indian_specific": "Teak wood, storage shelves, vertical space utilization"
+      }
+    }
+  },
+  "cached_at": 1753957278280,
+  "cache_key": "adb23dbed1f7931c4f316eef40503a4d"
+}
