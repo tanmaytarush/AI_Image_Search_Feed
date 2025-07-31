@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node test-analysis.js",
+    "test-hybrid": "node test-hybrid-search.js",
     "process": "node scripts/processImages.js",
     "start": "node index.js",
     "test-cdn": "node scripts/testCDN.js",

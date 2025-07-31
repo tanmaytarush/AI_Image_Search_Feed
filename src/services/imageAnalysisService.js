@@ -216,7 +216,11 @@ class ImageAnalysisService {
         // Auto inference: Generate embeddings and store in Qdrant
         await this.performAutoInference(imageUrl, imageId, jsonResponse);
 
-        return jsonResponse;
+        // Add imageUrl to the response for visual feature extraction
+        return {
+          ...jsonResponse,
+          imageUrl: imageUrl
+        };
       } catch (parseError) {
         console.error(
           `❌ JSON parsing error for ${imageId}:`,
@@ -230,6 +234,7 @@ class ImageAnalysisService {
         // If JSON parsing fails, return the raw response with more details
         return {
           image_id: imageId,
+          imageUrl: imageUrl,
           raw_response: chatCompletion.choices[0].message.content,
           error: `Failed to parse JSON response: ${parseError.message}`,
           http_status: response.status,
@@ -296,47 +301,44 @@ class ImageAnalysisService {
   }
 
   /**
-   * Generate 384-dimensional embeddings from analysis result
+   * Generate hybrid embeddings (visual + text) from analysis result
    */
-  async generateEmbeddingsFromAnalysis(analysisResult) {
+  async generateEmbeddingsFromAnalysis(analysisResult, imageUrl) {
     try {
       const tags = analysisResult.ai_generated_tags;
       
-      // Generate primary search embedding
+      // Generate text embeddings (384d each)
       const primarySearchText = this.buildPrimarySearchText(tags);
-      const primary_search = await embeddingService.getEmbedding(
-        primarySearchText,
-        "Generate primary search embeddings for interior design images"
-      );
-
-      // Generate semantic description embedding
       const semanticDescText = this.buildSemanticDescText(tags, analysisResult.description);
-      const semantic_desc = await embeddingService.getEmbedding(
-        semanticDescText,
-        "Generate semantic description embeddings for interior design analysis"
-      );
-
-      // Generate object focus embedding
       const objectFocusText = this.buildObjectFocusText(tags);
-      const object_focus = await embeddingService.getEmbedding(
-        objectFocusText,
-        "Generate object focus embeddings for interior design objects and features"
-      );
+      
+      const [primary_search, semantic_desc, object_focus] = await Promise.all([
+        embeddingService.getEmbedding(primarySearchText, "Generate primary search embeddings for interior design images"),
+        embeddingService.getEmbedding(semanticDescText, "Generate semantic description embeddings for interior design analysis"),
+        embeddingService.getEmbedding(objectFocusText, "Generate object focus embeddings for interior design objects and features")
+      ]);
 
-      // Validate all embeddings are 384-dimensional
+      // Extract visual features (384d)
+      const visual_features = await embeddingService.extractVisualFeatures(imageUrl);
+
+      // Validate all embeddings have correct dimensions
       this.validateEmbeddingDimensions(primary_search, "primary_search");
       this.validateEmbeddingDimensions(semantic_desc, "semantic_desc");
       this.validateEmbeddingDimensions(object_focus, "object_focus");
+      this.validateVisualFeatures(visual_features, "visual_features");
 
-      console.log(`✅ Generated 384-dimensional embeddings for all vector types`);
+      console.log(`✅ Generated hybrid embeddings:
+        • Visual Features: ${visual_features.length}d (CNN)
+        • Text Embeddings: 384d each (ANN)`);
 
       return {
         primary_search,
         semantic_desc,
-        object_focus
+        object_focus,
+        visual_features
       };
     } catch (error) {
-      console.error("❌ Failed to generate embeddings from analysis:", error.message);
+      console.error("❌ Failed to generate hybrid embeddings from analysis:", error.message);
       throw error;
     }
   }
@@ -395,6 +397,17 @@ class ImageAnalysisService {
     if (!Array.isArray(embedding) || embedding.length !== this.expectedEmbeddingDimension) {
       throw new Error(
         `Invalid ${context} embedding dimensions: expected ${this.expectedEmbeddingDimension}, got ${embedding?.length || 'undefined'}`
+      );
+    }
+  }
+
+  /**
+   * Validate visual features dimensions (384d)
+   */
+  validateVisualFeatures(visualFeatures, context) {
+    if (!Array.isArray(visualFeatures) || visualFeatures.length !== 384) {
+      throw new Error(
+        `Invalid ${context} visual features dimensions: expected 384, got ${visualFeatures?.length || 'undefined'}`
       );
     }
   }

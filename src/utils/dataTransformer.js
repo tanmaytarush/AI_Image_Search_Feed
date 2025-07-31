@@ -40,30 +40,53 @@ class DataTransformer {
         throw new Error(`Template response detected for image ${image_id} - model needs to be retried with better prompt`);
       }
 
-      // Generate multi-vectors using local Transformers.js embeddings
-      const multiVectors = await embeddingService.createMultiVectors(
-        ai_generated_tags,
-        description,
-        metadata
-      );
+      // Generate hybrid vectors (visual + text) using local Transformers.js embeddings
+      let multiVectors;
+      try {
+        multiVectors = await embeddingService.createHybridVectors(
+          ai_generated_tags,
+          description,
+          metadata,
+          modelResponse.imageUrl || modelResponse.url, // Add image URL for visual features
+          image_id
+        );
+      } catch (error) {
+        console.warn(`⚠️ Failed to create hybrid vectors for ${image_id}, falling back to text-only: ${error.message}`);
+        // Fallback to text-only vectors if hybrid creation fails
+        multiVectors = await embeddingService.createMultiVectors(
+          ai_generated_tags,
+          description,
+          metadata,
+          image_id
+        );
+        // Add empty visual features to maintain structure
+        multiVectors.visual_features = new Array(384).fill(0);
+      }
 
       // Validate multiVectors structure
       if (!multiVectors || typeof multiVectors !== 'object') {
         throw new Error(`Invalid multiVectors structure for image ${image_id}`);
       }
 
-      const requiredVectors = ['primary_search', 'semantic_desc', 'object_focus'];
+      const requiredVectors = ['primary_search', 'semantic_desc', 'object_focus', 'visual_features'];
+      const expectedDimensions = {
+        primary_search: 384,
+        semantic_desc: 384,
+        object_focus: 384,
+        visual_features: 384
+      };
+      
       for (const vectorName of requiredVectors) {
         if (!multiVectors[vectorName] || !Array.isArray(multiVectors[vectorName])) {
           throw new Error(`Missing or invalid ${vectorName} vector for image ${image_id}`);
         }
-        // Updated to check for Transformers.js dimensions (384)
-        if (multiVectors[vectorName].length !== 384) {
-          throw new Error(`Invalid ${vectorName} vector dimension for image ${image_id}: expected 384, got ${multiVectors[vectorName].length}`);
+        const expectedDim = expectedDimensions[vectorName];
+        if (multiVectors[vectorName].length !== expectedDim) {
+          throw new Error(`Invalid ${vectorName} vector dimension for image ${image_id}: expected ${expectedDim}, got ${multiVectors[vectorName].length}`);
         }
       }
 
-      console.log(`✓ Generated valid local embeddings for ${image_id}: ${Object.keys(multiVectors).filter(k => k !== 'embedding_texts').join(', ')}`);
+      console.log(`✓ Generated valid hybrid embeddings for ${image_id}: ${Object.keys(multiVectors).filter(k => k !== 'embedding_texts').join(', ')}`);
 
       // Extract object types and features
       const objectTypes = ai_generated_tags.objects?.map((obj) =>
@@ -82,6 +105,9 @@ class DataTransformer {
       return {
         id: validId,
         vectors: {
+          // CNN-based visual features (768d)
+          visual_features: multiVectors.visual_features,
+          // ANN-based text embeddings (384d each)
           primary_search: multiVectors.primary_search,
           semantic_desc: multiVectors.semantic_desc,
           object_focus: multiVectors.object_focus,

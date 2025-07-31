@@ -112,16 +112,19 @@ class ImageProcessor {
         const batchResults = await this.processBatch(batch);
         this.results.push(...batchResults);
 
-        // Transform batch results to Qdrant format
-        console.log("🔄 Transforming data for Qdrant...");
+        // Transform batch results to Qdrant format with hybrid vectors
+        console.log("🔄 Transforming data for Qdrant with hybrid vectors...");
         const transformedData = await dataTransformer.transformBatch(
           batchResults
         );
 
         // Store in Qdrant
         if (transformedData.length > 0) {
-          console.log("💾 Storing in Qdrant...");
+          console.log("💾 Storing hybrid vectors in Qdrant...");
           await qdrantService.upsertPoints(transformedData);
+          console.log(`✅ Stored ${transformedData.length} images with hybrid vectors (visual + text)`);
+        } else {
+          console.log("⚠️ No valid data to store in this batch");
         }
 
         // Delay between batches to avoid rate limiting
@@ -143,10 +146,11 @@ class ImageProcessor {
 
   printSummary() {
     console.log("\n" + "=".repeat(50));
-    console.log("📊 PROCESSING SUMMARY");
+    console.log("📊 HYBRID PROCESSING SUMMARY");
     console.log("=".repeat(50));
     console.log(`✅ Successfully processed: ${this.results.length} images`);
     console.log(`❌ Errors: ${this.errors.length} images`);
+    console.log(`🧠 Hybrid Vectors: Visual (384d) + Text (384d) embeddings`);
 
     // Get CDN cache statistics
     const cdnStats = cdnService.getCacheStats();
@@ -158,6 +162,11 @@ class ImageProcessor {
         console.log(`  - ${error.image_id}: ${error.error}`);
       });
     }
+
+    console.log("\n🔍 Search Capabilities:");
+    console.log("   • Visual similarity search (384d)");
+    console.log("   • Text semantic search (384d)");
+    console.log("   • Hybrid search (combined)");
   }
 
   async saveResults(outputPath) {

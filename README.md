@@ -6,7 +6,8 @@ A comprehensive system for analyzing interior design images using AI and storing
 
 - 🖼️ **AI Image Analysis**: Uses Hugging Face's Qwen2.5-VL model for detailed interior analysis
 - 🎯 **Indian Context Focus**: Optimized for Indian interior design with regional styles
-- 🔍 **Vector Search**: Stores embeddings in Qdrant for semantic similarity search
+- 🔍 **Hybrid Vector Search**: CNN-based visual features (768d) + ANN-based text embeddings (384d)
+- 🧠 **Mixed Dimensions**: Visual features (768d) and text embeddings (384d) in single collection
 - 📊 **Batch Processing**: Processes multiple images efficiently with rate limiting
 - 🏗️ **Modular Architecture**: Clean separation of concerns with dedicated services
 - 🚀 **CDN Layer**: Caches processed images and analysis results to reduce model inference load
@@ -14,13 +15,16 @@ A comprehensive system for analyzing interior design images using AI and storing
 ## Architecture
 
 ```
-CSV Images → CDN Layer → AI Analysis → Data Transformation → Qdrant Vector DB
+CSV Images → CDN Layer → AI Analysis → Hybrid Embeddings → Qdrant Vector DB
+                    ↓
+            CNN (768d) + ANN (384d)
 ```
 
-The CDN layer provides:
-- **Image Optimization**: Transforms original images for faster processing
-- **Analysis Caching**: Stores results to avoid re-processing
-- **Cache Management**: Tools to monitor and manage cache performance
+The system provides:
+- **CNN Visual Features**: 768-dimensional visual feature extraction using Vision Transformer
+- **ANN Text Embeddings**: 384-dimensional text embeddings using all-MiniLM-L6-v2
+- **Hybrid Search**: Combined visual and text similarity search
+- **Mixed Dimensions**: Single Qdrant collection supporting different vector dimensions
 
 ## Setup
 

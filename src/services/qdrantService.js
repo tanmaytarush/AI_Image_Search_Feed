@@ -26,21 +26,28 @@ class QdrantService {
         const collectionInfo = await this.client.getCollection(this.collectionName);
         const vectors = collectionInfo.config.params.vectors;
         
-        // Check if any vector has wrong dimensions (expecting 384, but might have 1536)
-        const hasWrongDimensions = Object.values(vectors).some(vector => vector.size !== 384);
+        // Check if collection has the new mixed dimensions structure
+        const hasVisualFeatures = vectors.visual_features && vectors.visual_features.size === 384;
+        const hasTextEmbeddings = vectors.primary_search && vectors.primary_search.size === 384;
         
-        if (hasWrongDimensions) {
-          console.log(`⚠️ Collection '${this.collectionName}' exists but has wrong dimensions. Deleting and recreating...`);
+        if (!hasVisualFeatures || !hasTextEmbeddings) {
+          console.log(`⚠️ Collection '${this.collectionName}' exists but needs mixed dimensions. Deleting and recreating...`);
           await this.client.deleteCollection(this.collectionName);
         } else {
-          console.log(`Collection '${this.collectionName}' already exists with correct dimensions`);
+          console.log(`Collection '${this.collectionName}' already exists with mixed dimensions (CNN: 384d, ANN: 384d)`);
           return;
         }
       }
 
-      // Create collection with local Transformers.js dimensions (384)
+      // Create collection with mixed dimensions: CNN (768d) + ANN (384d)
       await this.client.createCollection(this.collectionName, {
         vectors: {
+          // CNN-based visual features (384 dimensions)
+          visual_features: {
+            size: 384,  // Compatible with fallback approach
+            distance: "Cosine"
+          },
+          // ANN-based text embeddings (384 dimensions)
           object_focus: {
             size: 384,  // all-MiniLM-L6-v2 dimension
             distance: "Cosine"
@@ -85,7 +92,9 @@ class QdrantService {
         console.log("Some indexes may already exist, continuing...");
       }
 
-      console.log(`✅ Collection '${this.collectionName}' created successfully with local embeddings (384 dimensions)`);
+      console.log(`✅ Collection '${this.collectionName}' created successfully with mixed dimensions:
+        • Visual Features: 384d (CNN)
+        • Text Embeddings: 384d (ANN)`);
     } catch (error) {
       console.error("Error creating collection:", error);
       throw error;
@@ -159,13 +168,19 @@ class QdrantService {
   }
 
   /**
-   * Validate that all vectors in a point have correct 384 dimensions
+   * Validate that all vectors in a point have correct dimensions (CNN: 768d, ANN: 384d)
    */
   validatePointDimensions(point) {
-    const expectedDimension = 384;
-    const vectorFields = ['primary_search', 'semantic_desc', 'object_focus'];
+    const expectedDimensions = {
+      // CNN-based visual features
+      visual_features: 384,
+      // ANN-based text embeddings
+      primary_search: 384,
+      semantic_desc: 384,
+      object_focus: 384
+    };
     
-    for (const field of vectorFields) {
+    for (const [field, expectedDimension] of Object.entries(expectedDimensions)) {
       if (point.vectors && point.vectors[field]) {
         const vector = point.vectors[field];
         if (!Array.isArray(vector) || vector.length !== expectedDimension) {
@@ -493,6 +508,120 @@ class QdrantService {
         space_types: [],
       };
     }
+  }
+
+  // NEW: Search by visual features (CNN - 768d)
+  async searchByVisualFeatures(visualFeatures, limit = 10, filters = {}) {
+    try {
+      console.log(`🔍 Searching by visual features (384d)`);
+      
+      const results = await this.client.search(this.collectionName, {
+        vector: { name: "visual_features", vector: visualFeatures },
+        limit: limit,
+        with_payload: true,
+        with_vector: false,
+        filter: Object.keys(filters).length > 0 ? this.buildFilter(filters) : undefined,
+        score_threshold: 0.3,
+      });
+
+      console.log(`✅ Visual search found ${results.length} results`);
+      return results;
+    } catch (error) {
+      console.error("Error in visual search:", error);
+      throw error;
+    }
+  }
+
+  // NEW: Search by text embeddings (ANN - 384d)
+  async searchByTextEmbedding(textEmbedding, limit = 10, filters = {}) {
+    try {
+      console.log(`🔍 Searching by text embedding (384d)`);
+      
+      const results = await this.client.search(this.collectionName, {
+        vector: { name: "primary_search", vector: textEmbedding },
+        limit: limit,
+        with_payload: true,
+        with_vector: false,
+        filter: Object.keys(filters).length > 0 ? this.buildFilter(filters) : undefined,
+        score_threshold: 0.3,
+      });
+
+      console.log(`✅ Text search found ${results.length} results`);
+      return results;
+    } catch (error) {
+      console.error("Error in text search:", error);
+      throw error;
+    }
+  }
+
+  // NEW: Hybrid search combining visual and text
+  async hybridSearch(query, searchType = 'hybrid', limit = 10, filters = {}) {
+    try {
+      let results = [];
+
+      switch (searchType) {
+        case 'visual':
+          // Search by visual similarity (384d)
+          const visualFeatures = await embeddingService.extractVisualFeatures(query);
+          results = await this.searchByVisualFeatures(visualFeatures, limit, filters);
+          break;
+
+        case 'text':
+          // Search by text similarity (384d)
+          const textEmbedding = await this.getEmbedding(query, "Interior design search");
+          results = await this.searchByTextEmbedding(textEmbedding, limit, filters);
+          break;
+
+        case 'hybrid':
+          // Combined visual + text search
+          const [visualResults, textResults] = await Promise.all([
+            this.hybridSearch(query, 'visual', limit, filters),
+            this.hybridSearch(query, 'text', limit, filters)
+          ]);
+          results = this.mergeHybridResults(visualResults, textResults, limit);
+          break;
+
+        default:
+          throw new Error(`Invalid search type: ${searchType}`);
+      }
+
+      return {
+        results,
+        search_type: searchType,
+        total_found: results.length
+      };
+    } catch (error) {
+      console.error("Error in hybrid search:", error);
+      throw error;
+    }
+  }
+
+  // NEW: Merge results from visual and text searches
+  mergeHybridResults(visualResults, textResults, limit) {
+    // Ensure both are arrays
+    const visualArray = Array.isArray(visualResults) ? visualResults : [];
+    const textArray = Array.isArray(textResults) ? textResults : [];
+    
+    const combined = [...visualArray, ...textArray];
+    const unique = new Map();
+
+    combined.forEach(result => {
+      if (!unique.has(result.id)) {
+        unique.set(result.id, {
+          ...result,
+          score: result.score || 0,
+          sources: []
+        });
+      }
+      
+      const existing = unique.get(result.id);
+      existing.sources.push(result.searchType || 'unknown');
+      existing.score = Math.max(existing.score, result.score || 0);
+    });
+
+    return Array.from(unique.values())
+      .sort((a, b) => b.score - a.score)
+      .slice(0, limit);
   }
 }
 
