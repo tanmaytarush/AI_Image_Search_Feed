@@ -7,6 +7,7 @@
   "scripts": {
     "test": "node test-analysis.js",
     "test-hybrid": "node test-hybrid-search.js",
+    "test-object-search": "node test_object_search.js",
     "process": "node scripts/processImages.js",
     "start": "node index.js",
     "test-cdn": "node scripts/testCDN.js",

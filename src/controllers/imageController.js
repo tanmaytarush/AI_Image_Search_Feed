@@ -15,18 +15,81 @@ class ImageController {
   }
 
   /**
-   * Enhanced search images across all AI-generated tags (now the default search)
+   * Focused search - only returns results for the detected primary room type
    */
-  async searchImages(req, res, next) {
+  async focusedSearch(req, res, next) {
     try {
-      const { query, limit = 100 } = req.query; // Increased default limit to 100
+      const { query, limit = 100 } = req.query;
       if (!query || query.trim().length === 0) {
         return res.status(400).json({ success: false, error: "Search query is required", message: "Please provide a search query" });
       }
-      const searchResults = await imageService.searchImages(query.trim(), parseInt(limit));
-      res.status(200).json({ success: true, data: searchResults.images, query: query.trim(), message: searchResults.message, search_metadata: searchResults.search_metadata });
+      
+      const searchResults = await imageService.performFocusedSearch(query.trim(), parseInt(limit));
+      res.status(200).json({ 
+        success: true, 
+        data: searchResults.images, 
+        query: query.trim(), 
+        message: searchResults.message, 
+        search_metadata: searchResults.search_metadata 
+      });
+    } catch (error) {
+      console.error("Error in focusedSearch controller:", error);
+      next(error);
+    }
+  }
+
+  /**
+   * Enhanced search images across all AI-generated tags (now uses focused search by default)
+   */
+  async searchImages(req, res, next) {
+    try {
+      const { query, limit = 100, search_type = 'focused' } = req.query;
+      if (!query || query.trim().length === 0) {
+        return res.status(400).json({ success: false, error: "Search query is required", message: "Please provide a search query" });
+      }
+      
+      let searchResults;
+      if (search_type === 'focused') {
+        // Use focused search by default
+        searchResults = await imageService.performFocusedSearch(query.trim(), parseInt(limit));
+      } else {
+        // Fallback to general search
+        searchResults = await imageService.searchImages(query.trim(), parseInt(limit));
+      }
+      
+      res.status(200).json({ 
+        success: true, 
+        data: searchResults.images, 
+        query: query.trim(), 
+        message: searchResults.message, 
+        search_metadata: searchResults.search_metadata 
+      });
     } catch (error) {
       console.error("Error in searchImages controller:", error);
+      next(error);
+    }
+  }
+
+  /**
+   * Object-specific search - optimized for object queries
+   */
+  async objectSearch(req, res, next) {
+    try {
+      const { query, limit = 100 } = req.query;
+      if (!query || query.trim().length === 0) {
+        return res.status(400).json({ success: false, error: "Search query is required", message: "Please provide a search query" });
+      }
+      
+      const searchResults = await imageService.performObjectSpecificSearch(query.trim(), parseInt(limit));
+      res.status(200).json({ 
+        success: true, 
+        data: searchResults.images, 
+        query: query.trim(), 
+        message: searchResults.message, 
+        search_metadata: searchResults.search_metadata 
+      });
+    } catch (error) {
+      console.error("Error in objectSearch controller:", error);
       next(error);
     }
   }

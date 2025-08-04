@@ -6,8 +6,14 @@ import imageService from "../services/imageService.js";
 // GET /api/images - Get all images from CSV
 router.get("/", imageController.getAllImages);
 
-// GET /api/images/search - Search images using vector similarity in QdrantDB
+// GET /api/images/search - Search images using vector similarity in QdrantDB (now uses focused search by default)
 router.get("/search", imageController.searchImages);
+
+// GET /api/images/focused-search - Focused search that only returns results for the detected primary room type
+router.get("/focused-search", imageController.focusedSearch);
+
+// GET /api/images/object-search - Object-specific search optimized for object queries
+router.get("/object-search", imageController.objectSearch);
 
 // Simple search route without AI enhancement for testing
 router.get("/simple-search", async (req, res) => {
