@@ -38,7 +38,7 @@ class ImageService {
    * Enhanced search that searches across all AI-generated tags and attributes
    * This replaces the old searchImages method
    */
-  async searchImages(query, limit = 10) {
+  async searchImages(query, limit = 100) {
     try {
       if (!query || query.trim().length === 0) {
         throw new Error("Search query is required");

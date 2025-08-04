@@ -23,14 +23,13 @@ class SearchIntelligenceService {
           "Xenova/all-MiniLM-L6-v2"
         );
         
-        // Initialize text generation model for prompt matching
-        this.textGenerationModel = await pipeline(
-          "text-generation",
-          "Xenova/llama-2-7b-chat"
-        );
+        // Disable text generation model for now - use only rule-based enhancement
+        // This avoids model loading issues and provides reliable functionality
+        this.textGenerationModel = null;
+        console.log("ℹ️ Text generation model disabled, using rule-based enhancement only");
         
         this.initialized = true;
-        console.log("✅ Successfully initialized HF models: all-MiniLM-L6-v2 (384 dims) + llama-2-7b-chat (text generation)");
+        console.log("✅ Successfully initialized HF models: all-MiniLM-L6-v2 (384 dims) + rule-based enhancement");
       } catch (error) {
         console.error("Error initializing HF models:", error);
         throw error;
@@ -102,6 +101,12 @@ class SearchIntelligenceService {
     try {
       await this.initializeQueryModel();
       
+      // Check if text generation model is available
+      if (!this.textGenerationModel) {
+        console.log("⚠️ Text generation model not available, using fallback");
+        return await this.generateEnhancedQueries(userQuery);
+      }
+      
       const prompt = `You are an expert in Indian interior design. Enhance this search query for an interior image database.
 
 User Query: "${userQuery}"
@@ -163,7 +168,8 @@ Focus on Indian interior design terms, regional styles, and culturally relevant 
       return enhancedQuery;
     } catch (error) {
       console.error("Error in HF text generation:", error);
-      throw error;
+      // Fallback to rule-based enhancement
+      return await this.generateEnhancedQueries(userQuery);
     }
   }
 
@@ -516,6 +522,12 @@ Focus on Indian interior design terms, regional styles, and culturally relevant 
     try {
       await this.initializeQueryModel();
       
+      // Check if text generation model is available
+      if (!this.textGenerationModel) {
+        console.log("⚠️ Text generation model not available for suggestions, using fallback");
+        return this.generateSuggestionsFromPartial(partialQuery);
+      }
+      
       const prompt = `Based on this partial search query for Indian interior design: "${partialQuery}"
 
 Suggest 10 relevant completions that users might be searching for. Focus on:
@@ -552,7 +564,8 @@ Return as JSON array: ["suggestion1", "suggestion2", ...]`;
       return suggestions.slice(0, 10); // Limit to 10 suggestions
     } catch (error) {
       console.error("Error in HF text generation for suggestions:", error);
-      throw error;
+      // Fallback to rule-based suggestions
+      return this.generateSuggestionsFromPartial(partialQuery);
     }
   }
 

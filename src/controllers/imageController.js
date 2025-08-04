@@ -19,7 +19,7 @@ class ImageController {
    */
   async searchImages(req, res, next) {
     try {
-      const { query, limit = 10 } = req.query;
+      const { query, limit = 100 } = req.query; // Increased default limit to 100
       if (!query || query.trim().length === 0) {
         return res.status(400).json({ success: false, error: "Search query is required", message: "Please provide a search query" });
       }

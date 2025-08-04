@@ -18,7 +18,7 @@ class QueryIntelligenceService {
   /**
    * AI-powered intelligent search using GPT-3.5-turbo
    */
-  async intelligentSearch(query, limit = 10, filters = {}) {
+  async intelligentSearch(query, limit = 100, filters = {}) {
     try {
       console.log(`🤖 Starting AI-powered search for: "${query}"`);
 

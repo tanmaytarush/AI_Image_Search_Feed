@@ -111,7 +111,7 @@ async function loadAllImages() {
 // Search Images in QdrantDB
 async function searchImages(query) {
   const response = await fetch(
-    `${API_BASE_URL}/images/search?query=${encodeURIComponent(query)}&limit=10`
+    `${API_BASE_URL}/images/search?query=${encodeURIComponent(query)}&limit=100`
   );
   const data = await response.json();
 

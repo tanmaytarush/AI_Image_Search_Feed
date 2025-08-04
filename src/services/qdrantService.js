@@ -192,7 +192,7 @@ class QdrantService {
 
   async search(
     query,
-    limit = 10,
+    limit = 100,
     filters = {},
     weights = { primary_search: 0.4, semantic_desc: 0.35, object_focus: 0.25 }
   ) {
@@ -282,7 +282,7 @@ class QdrantService {
   }
 
   // Multi-vector search method (alternative to main search)
-  async multiVectorSearch(queryEmbeddings, limit = 10, filter = null, weights = { primary_search: 0.4, semantic_desc: 0.3, object_focus: 0.3 }) {
+  async multiVectorSearch(queryEmbeddings, limit = 100, filter = null, weights = { primary_search: 0.4, semantic_desc: 0.3, object_focus: 0.3 }) {
     try {
       const searches = await Promise.all([
         this.client.search(this.collectionName, {
@@ -511,7 +511,7 @@ class QdrantService {
   }
 
   // NEW: Search by visual features (CNN - 768d)
-  async searchByVisualFeatures(visualFeatures, limit = 10, filters = {}) {
+  async searchByVisualFeatures(visualFeatures, limit = 100, filters = {}) {
     try {
       console.log(`🔍 Searching by visual features (384d)`);
       
@@ -533,7 +533,7 @@ class QdrantService {
   }
 
   // NEW: Search by text embeddings (ANN - 384d)
-  async searchByTextEmbedding(textEmbedding, limit = 10, filters = {}) {
+  async searchByTextEmbedding(textEmbedding, limit = 100, filters = {}) {
     try {
       console.log(`🔍 Searching by text embedding (384d)`);
       
@@ -555,7 +555,7 @@ class QdrantService {
   }
 
   // NEW: Hybrid search combining visual and text
-  async hybridSearch(query, searchType = 'hybrid', limit = 10, filters = {}) {
+  async hybridSearch(query, searchType = 'hybrid', limit = 100, filters = {}) {
     try {
       let results = [];
 
@@ -627,7 +627,7 @@ class QdrantService {
   /**
    * Perform exact search for precise text matches
    */
-  async exactSearch(query, limit = 10, filters = {}) {
+  async exactSearch(query, limit = 100, filters = {}) {
     try {
       console.log(`🔍 Performing exact search for: "${query}"`);
       
