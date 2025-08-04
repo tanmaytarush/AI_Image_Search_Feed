@@ -623,6 +623,129 @@ class QdrantService {
       .sort((a, b) => b.score - a.score)
       .slice(0, limit);
   }
+
+  /**
+   * Perform exact search for precise text matches
+   */
+  async exactSearch(query, limit = 10, filters = {}) {
+    try {
+      console.log(`🔍 Performing exact search for: "${query}"`);
+      
+      // Get all points from the collection for exact matching
+      const allPoints = await this.client.scroll(this.collectionName, {
+        limit: 1000, // Get a reasonable number of points for exact matching
+        with_payload: true,
+        with_vector: false,
+        filter: Object.keys(filters).length > 0 ? this.buildFilter(filters) : undefined,
+      });
+
+      const exactMatches = [];
+      const queryLower = query.toLowerCase();
+      const queryWords = queryLower.split(/\s+/).filter(word => word.length > 0);
+
+      for (const point of allPoints.points) {
+        const payload = point.payload;
+        const exactMatchScore = this.calculateExactMatchScore(payload, queryWords, queryLower);
+        
+        if (exactMatchScore > 0) {
+          exactMatches.push({
+            ...point,
+            exactMatchScore,
+            matchType: 'exact'
+          });
+        }
+      }
+
+      // Sort by exact match score (highest first)
+      exactMatches.sort((a, b) => b.exactMatchScore - a.exactMatchScore);
+      
+      console.log(`✅ Exact search found ${exactMatches.length} exact matches`);
+      return exactMatches.slice(0, limit);
+    } catch (error) {
+      console.error("Error in exact search:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Calculate exact match score for a payload
+   */
+  calculateExactMatchScore(payload, queryWords, queryLower) {
+    let score = 0;
+    
+    // Get all searchable text from payload
+    const allText = this.getAllTextFromPayload(payload).toLowerCase();
+    const allTextWords = allText.split(/\s+/);
+    
+    // Check for exact phrase match (highest weight)
+    if (allText.includes(queryLower)) {
+      score += 1.0;
+    }
+    
+    // Check for exact word matches
+    for (const queryWord of queryWords) {
+      if (allTextWords.includes(queryWord)) {
+        score += 0.8;
+      }
+      
+      // Check for partial word matches
+      if (allTextWords.some(textWord => 
+        textWord.includes(queryWord) || queryWord.includes(textWord)
+      )) {
+        score += 0.6;
+      }
+    }
+    
+    // Check for exact matches in priority fields
+    const priorityFields = [
+      payload.room_type,
+      payload.design_theme,
+      payload.space_type,
+      ...(payload.tags?.primary_features || []),
+      ...(payload.tags?.object_types || []),
+      payload.ai_generated_tags?.room,
+      payload.ai_generated_tags?.theme
+    ].filter(Boolean).map(field => field.toLowerCase());
+    
+    for (const field of priorityFields) {
+      if (field.includes(queryLower) || queryLower.includes(field)) {
+        score += 0.9;
+      }
+      
+      for (const queryWord of queryWords) {
+        if (field.includes(queryWord) || queryWord.includes(field)) {
+          score += 0.7;
+        }
+      }
+    }
+    
+    return Math.min(score, 1.0);
+  }
+
+  /**
+   * Get all text from payload for exact matching
+   */
+  getAllTextFromPayload(payload) {
+    const textParts = [
+      payload.room_type,
+      payload.design_theme,
+      payload.budget_category,
+      payload.space_type,
+      ...(payload.tags?.colors || []),
+      ...(payload.tags?.materials || []),
+      ...(payload.tags?.primary_features || []),
+      ...(payload.tags?.object_types || []),
+      payload.tags?.functionality,
+      payload.tags?.regional_style,
+      ...(payload.search_tags || []),
+      payload.ai_generated_tags?.room,
+      payload.ai_generated_tags?.theme,
+      ...(payload.ai_generated_tags?.primary_features || []),
+      ...(payload.ai_generated_tags?.metadata?.tags || []),
+    ].filter(Boolean);
+    
+    return textParts.join(' ');
+  }
 }
 
 export default new QdrantService();

@@ -69,6 +69,14 @@ class SearchIntelligenceService {
     try {
       console.log(`🔍 Enhancing query: "${userQuery}" using HF text generation + 384-dim embeddings`);
       
+      // First, detect if this is an exact search request
+      const exactSearchIntent = this.detectExactSearchIntent(userQuery);
+      
+      if (exactSearchIntent.isExactSearch && exactSearchIntent.confidence > 0.6) {
+        console.log(`🎯 Detected exact search intent with confidence: ${exactSearchIntent.confidence}`);
+        return this.enhanceQueryForExactSearch(userQuery, exactSearchIntent);
+      }
+      
       // Use HF text generation model for query enhancement
       const enhancedQuery = await this.generateEnhancedQueriesWithPrompt(userQuery);
       
@@ -756,6 +764,95 @@ Return as JSON array: ["suggestion1", "suggestion2", ...]`;
       console.error("Error matching query against vectors:", error);
       return [];
     }
+  }
+
+  /**
+   * Detect if the query is requesting exact search
+   */
+  detectExactSearchIntent(userQuery) {
+    const queryLower = userQuery.toLowerCase();
+    
+    // Keywords that indicate exact search intent
+    const exactSearchKeywords = [
+      'exact', 'precise', 'specific', 'exactly', 'precisely',
+      'match', 'matches', 'matching', 'exact match',
+      'same', 'identical', 'similar', 'similar to',
+      'like', 'as', 'such as', 'for example'
+    ];
+    
+    // Check for exact search indicators
+    const hasExactKeywords = exactSearchKeywords.some(keyword => 
+      queryLower.includes(keyword)
+    );
+    
+    // Check for quoted terms (exact phrase search)
+    const quotedTerms = userQuery.match(/"([^"]+)"/g);
+    const hasQuotedTerms = quotedTerms && quotedTerms.length > 0;
+    
+    // Check for specific room types or design terms
+    const specificTerms = [
+      'kitchen', 'bedroom', 'living room', 'bathroom', 'dining room',
+      'puja room', 'pooja room', 'mandir', 'temple',
+      'modern', 'traditional', 'contemporary', 'classic',
+      'marble', 'wood', 'glass', 'metal', 'fabric'
+    ];
+    
+    const hasSpecificTerms = specificTerms.some(term => 
+      queryLower.includes(term)
+    );
+    
+    return {
+      isExactSearch: hasExactKeywords || hasQuotedTerms || hasSpecificTerms,
+      confidence: this.calculateExactSearchConfidence(userQuery, hasExactKeywords, hasQuotedTerms, hasSpecificTerms),
+      exactTerms: quotedTerms || [],
+      specificTerms: specificTerms.filter(term => queryLower.includes(term))
+    };
+  }
+
+  /**
+   * Calculate confidence for exact search detection
+   */
+  calculateExactSearchConfidence(userQuery, hasExactKeywords, hasQuotedTerms, hasSpecificTerms) {
+    let confidence = 0;
+    
+    if (hasExactKeywords) confidence += 0.4;
+    if (hasQuotedTerms) confidence += 0.5;
+    if (hasSpecificTerms) confidence += 0.3;
+    
+    // Additional confidence for short, specific queries
+    const words = userQuery.split(/\s+/).filter(word => word.length > 0);
+    if (words.length <= 3) confidence += 0.2;
+    
+    return Math.min(confidence, 1.0);
+  }
+
+  /**
+   * Enhance query for exact search
+   */
+  enhanceQueryForExactSearch(userQuery, exactSearchIntent) {
+    const enhancedQuery = {
+      original_query: userQuery,
+      exact_search: {
+        enabled: true,
+        confidence: exactSearchIntent.confidence,
+        exact_terms: exactSearchIntent.exactTerms,
+        specific_terms: exactSearchIntent.specificTerms
+      },
+      enhanced_query: {
+        primary_search: userQuery, // Keep original for exact matching
+        semantic_desc: userQuery, // Keep original for exact matching
+        object_focus: userQuery, // Keep original for exact matching
+        intent: "exact_search"
+      },
+      search_weights: {
+        exact_match: 0.8, // High weight for exact matches
+        primary_search: 0.1,
+        semantic_desc: 0.05,
+        object_focus: 0.05
+      }
+    };
+    
+    return enhancedQuery;
   }
 }
 

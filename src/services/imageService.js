@@ -1,6 +1,7 @@
 import qdrantService from "./qdrantService.js";
 import roomIntelligenceService from "./roomIntelligenceService.js";
 import embeddingService from "./embeddingService.js";
+import searchIntelligenceService from "./searchIntelligenceService.js";
 
 class ImageService {
   constructor() {
@@ -45,6 +46,10 @@ class ImageService {
 
       console.log(`🤖 AI-Heavy search for: "${query}"`);
 
+      // Use search intelligence service to detect exact search intent and enhance query
+      const enhancedQuery = await searchIntelligenceService.enhanceSearchQuery(query.trim());
+      const isExactSearch = enhancedQuery.exact_search?.enabled || false;
+
       // Generate multiple embeddings for different aspects
       const embeddings = await this.generateMultiModalEmbeddings(query.trim());
       
@@ -60,12 +65,17 @@ class ImageService {
       // Perform visual feature search
       const visualResults = await this.performVisualFeatureSearch(query.trim(), limit);
       
+      // Perform exact search for precise matches (with higher priority for exact search intent)
+      const exactLimit = isExactSearch ? limit * 3 : limit * 2;
+      const exactResults = await this.performExactSearch(query.trim(), exactLimit);
+      
       // Merge and rank all results using AI
       const mergedResults = await this.mergeAndRankResults(
         aiSearchResults, 
         semanticResults, 
         featureResults, 
         visualResults,
+        exactResults,
         query.trim()
       );
 
@@ -95,10 +105,13 @@ class ImageService {
           total_semantic_searched: semanticResults.length,
           total_feature_searched: featureResults.length,
           total_visual_searched: visualResults.length,
+          total_exact_searched: exactResults.length,
           total_merged: mergedResults.length,
           total_filtered: limitedResults.length,
-          search_strategy: "ai_heavy_multi_modal_search",
-          ai_components: ["multi_vector", "semantic", "feature_focused", "visual_features"],
+          search_strategy: isExactSearch ? "exact_search_enhanced" : "ai_heavy_multi_modal_search_with_exact",
+          ai_components: ["multi_vector", "semantic", "feature_focused", "visual_features", "exact_match"],
+          exact_search_enabled: isExactSearch,
+          exact_search_confidence: enhancedQuery.exact_search?.confidence || 0,
           matched_fields: this.getMatchedFields(query, limitedResults),
           search_insights: searchInsights,
         },
@@ -321,40 +334,75 @@ class ImageService {
   /**
    * Merge and rank results using AI-based scoring
    */
-  async mergeAndRankResults(aiResults, semanticResults, featureResults, visualResults, query) {
-    const allResults = [...aiResults, ...semanticResults, ...featureResults, ...visualResults];
+  async mergeAndRankResults(aiResults, semanticResults, featureResults, visualResults, exactResults, query) {
+    const allResults = [...aiResults, ...semanticResults, ...featureResults, ...visualResults, ...exactResults];
     const uniqueResults = new Map();
+
+    // Check if this is an exact search by analyzing the query
+    const queryLower = query.toLowerCase();
+    const isExactSearch = queryLower.includes('exact') || 
+                         queryLower.includes('precise') || 
+                         queryLower.includes('specific') ||
+                         queryLower.includes('"') ||
+                         queryLower.split(/\s+/).length <= 3;
 
     // Merge results and calculate AI scores
     for (const result of allResults) {
       const existing = uniqueResults.get(result.id);
+      
+      // Determine the search type and weight
+      let searchType = 'primary_search';
+      let weight = 0.4;
+      
+      if (result.matchType === 'exact') {
+        searchType = 'exact_match';
+        weight = isExactSearch ? 0.9 : 0.8; // Higher weight for exact matches in exact search mode
+      } else if (result.payload?.embedding_texts?.vector_name) {
+        searchType = result.payload.embedding_texts.vector_name;
+        weight = this.getWeightForSearchType(searchType);
+      }
+      
       if (existing) {
         // Combine scores from different search methods with weights
-        const weights = {
-          primary_search: 0.4,
-          semantic_desc: 0.3,
-          object_focus: 0.2,
-          visual_features: 0.1
-        };
-        
-        const vectorName = result.payload?.embedding_texts?.vector_name || 'primary_search';
-        const weight = weights[vectorName] || 0.1;
-        
-        existing.aiScore = Math.max(existing.aiScore, result.score * weight);
+        const currentScore = result.matchType === 'exact' ? result.exactMatchScore : result.score;
+        existing.aiScore = Math.max(existing.aiScore, currentScore * weight);
         existing.searchCount = (existing.searchCount || 0) + 1;
         existing.vectorMatches = existing.vectorMatches || [];
-        existing.vectorMatches.push(vectorName);
+        existing.vectorMatches.push(searchType);
+        
+        // If this is an exact match, boost the overall score
+        if (result.matchType === 'exact') {
+          existing.exactMatchBoost = true;
+          existing.aiScore *= isExactSearch ? 2.0 : 1.5; // Higher boost for exact search mode
+        }
       } else {
+        const currentScore = result.matchType === 'exact' ? result.exactMatchScore : result.score;
         uniqueResults.set(result.id, {
           ...result,
-          aiScore: result.score,
+          aiScore: currentScore * weight,
           searchCount: 1,
-          vectorMatches: [result.payload?.embedding_texts?.vector_name || 'primary_search']
+          vectorMatches: [searchType],
+          exactMatchBoost: result.matchType === 'exact'
         });
       }
     }
 
     return Array.from(uniqueResults.values());
+  }
+
+  /**
+   * Get weight for different search types
+   */
+  getWeightForSearchType(searchType) {
+    const weights = {
+      primary_search: 0.4,
+      semantic_desc: 0.3,
+      object_focus: 0.2,
+      visual_features: 0.1,
+      exact_match: 0.8
+    };
+    
+    return weights[searchType] || 0.1;
   }
 
   /**
@@ -384,16 +432,41 @@ class ImageService {
     
     // Check exact matches (highest weight)
     if (this.checkTagMatchEnhanced(payload, queryWords, queryLower)) {
-      score += 0.8;
+      score += 0.9; // Increased weight for exact matches
+    }
+    
+    // Check for exact phrase matches
+    const allText = this.getAllTextFromPayload(payload).toLowerCase();
+    if (allText.includes(queryLower)) {
+      score += 1.0; // Perfect match
+    }
+    
+    // Check for exact word matches in priority fields
+    const priorityFields = [
+      payload.room_type,
+      payload.design_theme,
+      payload.space_type,
+      ...(payload.tags?.primary_features || []),
+      ...(payload.tags?.object_types || []),
+      payload.ai_generated_tags?.room,
+      payload.ai_generated_tags?.theme
+    ].filter(Boolean).map(field => field.toLowerCase());
+    
+    for (const field of priorityFields) {
+      for (const queryWord of queryWords) {
+        if (field.includes(queryWord) || queryWord.includes(field)) {
+          score += 0.8; // High weight for priority field matches
+        }
+      }
     }
     
     // Check semantic similarity
     const semanticScore = this.calculateSemanticSimilarity(payload, queryLower);
-    score += semanticScore * 0.6;
+    score += semanticScore * 0.5; // Reduced weight for semantic matches
     
     // Check feature relevance
     const featureScore = this.calculateFeatureRelevance(payload, queryWords);
-    score += featureScore * 0.4;
+    score += featureScore * 0.3; // Reduced weight for feature matches
     
     return Math.min(score, 1.0);
   }
@@ -441,12 +514,23 @@ class ImageService {
    */
   sortByAIRelevance(results, query) {
     return results.sort((a, b) => {
-      // Primary sort by AI relevance score
+      // Primary sort: Exact matches get highest priority
+      const aExact = a.exactMatchBoost || false;
+      const bExact = b.exactMatchBoost || false;
+      
+      if (aExact && !bExact) return -1;
+      if (!aExact && bExact) return 1;
+      
+      // Secondary sort: AI relevance score
       const scoreDiff = (b.aiRelevanceScore || 0) - (a.aiRelevanceScore || 0);
       if (Math.abs(scoreDiff) > 0.1) return scoreDiff;
       
-      // Secondary sort by original vector similarity
-      return (b.score || 0) - (a.score || 0);
+      // Tertiary sort: Original vector similarity
+      const vectorScoreDiff = (b.score || 0) - (a.score || 0);
+      if (Math.abs(vectorScoreDiff) > 0.05) return vectorScoreDiff;
+      
+      // Quaternary sort: Search count (more matches = higher relevance)
+      return (b.searchCount || 0) - (a.searchCount || 0);
     });
   }
 
@@ -468,6 +552,24 @@ class ImageService {
       return results;
     } catch (error) {
       console.error("Error in visual feature search:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Perform exact search for precise matches
+   */
+  async performExactSearch(query, limit) {
+    try {
+      console.log(`🔍 Performing exact search for: "${query}"`);
+      
+      // Use QdrantService's exact search method
+      const exactResults = await qdrantService.exactSearch(query, limit);
+      
+      console.log(`✅ Exact search found ${exactResults.length} exact matches`);
+      return exactResults;
+    } catch (error) {
+      console.error("Error in exact search:", error);
       return [];
     }
   }
@@ -1248,6 +1350,10 @@ class ImageService {
         payload.original_analysis?.image_url ||
         null,
       score: result.score,
+      ai_relevance_score: result.aiRelevanceScore || 0,
+      exact_match: result.exactMatchBoost || false,
+      search_count: result.searchCount || 1,
+      vector_matches: result.vectorMatches || [],
       tag_match_score: this.calculateTagMatchScore(payload, [], ""),
       room_type:
         payload.ai_generated_tags?.room ||
