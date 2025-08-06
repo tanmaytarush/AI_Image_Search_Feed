@@ -4,73 +4,87 @@
     "image_id": "img_279",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Modern Indian Traditional",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Built-in shelves",
-        "Teak wood furniture",
+        "Teak wood paneling",
+        "Carved wooden panel",
         "Marble flooring",
-        "Carved wood accents"
+        "Copper accents"
       ],
       "objects": [
         {
-          "type": "Teak Wood Side Table",
+          "type": "Teak wood paneling",
           "features": [
-            "Carved detailing on legs",
-            "Round top"
+            "Vertical paneling",
+            "Deep carvings",
+            "Natural wood grain"
           ],
           "materials": [
-            "Teak Wood"
+            "Teak"
           ],
-          "finish": "Natural wood finish"
+          "finish": "Varied wood finish with a polished sheen"
         },
         {
-          "type": "Teak Wood Coffee Table",
+          "type": "Carved wooden panel",
           "features": [
-            "Rectangular shape",
-            "Centered design"
+            "Decorative floral patterns",
+            "Rich wood texture",
+            "Dark stain"
           ],
           "materials": [
-            "Teak Wood"
+            "Teak"
           ],
-          "finish": "Natural wood finish"
+          "finish": "Dark stain, highlighting intricate carvings"
         },
         {
-          "type": "Marble Flooring",
+          "type": "Marble flooring",
           "features": [
-            "Polished surface with intricate designs"
+            "Polished surface",
+            "Neutral gray color"
           ],
           "materials": [
             "Marble"
           ],
           "finish": "High-gloss finish"
+        },
+        {
+          "type": "Copper accents",
+          "features": [
+            "Vases",
+            "Decorative elements"
+          ],
+          "materials": [
+            "Copper"
+          ],
+          "finish": "Copper patina, adding warmth to the space"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Teak Brown",
-          "Marble Gray",
-          "Light Beige"
+          "Gray",
+          "Brown",
+          "White",
+          "Copper"
         ],
         "materials": [
-          "Teak Wood",
+          "Teak",
           "Marble",
-          "Brass"
+          "Copper"
         ],
-        "lighting": "Natural light from window, augmented by recessed lighting",
-        "texture": "Smooth marble, textured teak wood"
+        "lighting": "Natural light from the window, supplemented by artificial lighting",
+        "texture": "Smooth marble surface, rich wood grain, metallic copper accents"
       },
       "indian_context": {
-        "regional_style": "Maharashtrian or Marathi",
+        "regional_style": "Maharashtra",
         "traditional_elements": [
-          "Teak wood furniture",
-          "Marble flooring"
+          "Carved wood paneling",
+          "Teak wood"
         ],
         "modern_adaptations": [
-          "Circular brass accents on shelves",
-          "Modern lighting fixtures"
+          "Use of marble and copper in modern settings"
         ],
-        "space_utilization": "Efficient use of built-in shelves for storage and display",
-        "cultural_significance": "Teak wood and marble are traditional materials in Marathi homes, symbolizing prosperity and elegance"
+        "space_utilization": "Efficient use of vertical space with paneling, maintaining open floor plan",
+        "cultural_significance": "Incorporation of traditional wood carving and metal accents symbolizes cultural heritage and craftsmanship"
       }
     },
     "confidence_scores": {
@@ -80,21 +94,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image showcases a modern interpretation of traditional Indian interior design, utilizing materials like teak wood and marble. The space features built-in shelves with circular brass accents, positioned above a polished marble floor, creating a harmonious blend of traditional craftsmanship with contemporary aesthetics. The teak wood furniture, with its carved detailing, adds a rich, warm tone to the room, while the marble flooring provides a luxurious and sophisticated look. The natural light streaming through the window enhances the overall ambiance, emphasizing the natural beauty of the materials used.",
+    "description": "The image showcases a modern Indian living room with a blend of traditional and contemporary elements. The space features vertical teak wood paneling with intricate carvings, complemented by polished marble flooring and warm copper accents. The design highlights the use of natural textures and colors, with the teak wood providing a rich, natural tone contrasted by the cool gray marble and the warmth of the copper. The room is well-lit, with natural light streaming in, and the overall aesthetic reflects a harmonious blend of tradition and modernity.",
     "metadata": {
       "tags": [
-        "Modern Indian Traditional",
-        "Teak Wood",
-        "Marble Flooring",
-        "Built-in Shelves",
-        "Circular Accents"
+        "Modern Indian",
+        "Teak wood",
+        "Marble flooring",
+        "Copper accents",
+        "Carved wood paneling"
       ],
-      "budget_indicator": "Mid-range due to use of teak wood and marble",
-      "space_type": "Living Room",
-      "functionality": "Multipurpose space for relaxation and socializing",
-      "indian_specific": "Teak wood furniture and marble flooring"
+      "budget_indicator": "Mid-range, with the use of high-quality materials like marble and teak wood, and a modern aesthetic.",
+      "space_type": "Residential living room",
+      "functionality": "Relaxation and entertainment, with a focus on aesthetics and comfort.",
+      "indian_specific": "Integration of traditional Indian craftsmanship with modern design elements."
     }
   },
-  "cached_at": 1753459905461,
+  "cached_at": 1754494631048,
   "cache_key": "436d041bf122429d3ad24a7bc6b77098"
 }

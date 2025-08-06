@@ -3,84 +3,101 @@
   "analysis": {
     "image_id": "img_246",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Indian Contemporary",
+      "room": "Bedroom or Guest Room",
+      "theme": "Contemporary Indian with Modern Adaptations",
       "primary_features": [
-        "Exposed beams",
-        "geometric patterned rug",
-        "modular furniture",
-        "indoor plants"
+        "Wooden flooring",
+        "Modern furniture",
+        "Marble countertops",
+        "Wall-mounted storage",
+        "Textured wall decor"
       ],
       "objects": [
         {
-          "type": "Indoor plants",
+          "type": "Modern Wardrobe",
           "features": [
-            "Greenery, adding life to the space"
+            "Glass doors",
+            "Metal frame"
           ],
           "materials": [
-            "Not identifiable from image"
+            "Glass",
+            "Metal"
           ],
-          "finish": "Natural, vibrant green"
+          "finish": "Glossy"
         },
         {
-          "type": "Modular furniture",
+          "type": "Textured Wall Decor",
           "features": [
-            "Compact and functional design"
+            "Abstract pattern",
+            "Muted colors"
           ],
           "materials": [
-            "Not identifiable from image"
+            "Paint"
           ],
-          "finish": "Not identifiable from image"
+          "finish": "Matte"
+        },
+        {
+          "type": "Marble Countertop",
+          "features": [
+            "Polished surface",
+            "Natural stone"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Natural wood tones",
-          "Green plants"
+          "Brown",
+          "Gray",
+          "Muted colors"
         ],
         "materials": [
-          "Exposed wood beams",
-          "Geometric patterned rug",
-          "Indoor plants"
+          "Wood",
+          "Metal",
+          "Marble",
+          "Paint"
         ],
-        "lighting": "Artificial lighting, possibly recessed or overhead",
-        "texture": "Natural wood textures, geometric rug patterns"
+        "lighting": "Natural light from outside",
+        "texture": "Mix of smooth and textured surfaces"
       },
       "indian_context": {
-        "regional_style": "Not applicable, modern interpretation",
+        "regional_style": "Not strongly regionalized, more modern with Indian influences",
         "traditional_elements": [
-          "None"
+          "Abstract wall decor mimicking traditional patterns"
         ],
         "modern_adaptations": [
-          "Integration of indoor plants, modular furniture"
+          "Use of modern furniture and technology"
         ],
-        "space_utilization": "Efficient and compact, maximizing use of available space",
-        "cultural_significance": "Modern Indian contemporary style, blending traditional materials with contemporary design"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The interior space is a modern interpretation of Indian design, featuring geometric patterns, indoor plants, and modular furniture. The natural wood tones and indoor plants add a touch of traditional warmth to the contemporary design. The space is efficiently organized, maximizing the use of available space.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Contemporary Design",
-          "Geometric Patterns",
-          "Indoor Plants",
-          "Compact Furniture"
-        ],
-        "budget_indicator": "Moderate, with potential for higher if using specific modern materials and high-end indoor plants",
-        "space_type": "Living Room",
-        "functionality": "Relaxation and casual living",
-        "indian_specific": "Indoor plants and use of natural wood tones"
+        "space_utilization": "Efficient use of space with wall-mounted storage and open floor plan",
+        "cultural_significance": "Abstract decor that could symbolize traditional Indian patterns and spiritual balance"
       }
+    },
+    "confidence_scores": {
+      "room": 0.88,
+      "theme": 0.75,
+      "primary_features": 0.85,
+      "objects": 0.9,
+      "indian_context": 0.8
+    },
+    "description": "This image showcases a modern interpretation of an Indian bedroom, featuring contemporary furniture with traditional influences. The space utilizes a mix of Indian regional styles, particularly in the abstract wall decor that mimics traditional patterns, alongside modern adaptations such as sleek, minimalist furniture and efficient wall-mounted storage. The use of natural materials like marble and wood, along with muted color palettes, gives the room a sophisticated yet grounded feel, reflective of Indian design sensibilities.",
+    "metadata": {
+      "tags": [
+        "Indian Interior",
+        "Modern Design",
+        "Contemporary Style",
+        "Abstract Art",
+        "Marble Countertop"
+      ],
+      "budget_indicator": "Mid-range, due to the use of modern materials like marble and metal",
+      "space_type": "Bedroom or Guest Room",
+      "functionality": "Sleeping or occasional guest use, with space for a few small essentials",
+      "indian_specific": "Abstract wall decor influences traditional Indian patterns"
     }
   },
-  "cached_at": 1753459627883,
+  "cached_at": 1754494140298,
   "cache_key": "dced43f6ea37549b11b431cb010c22cb"
 }

@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.12.22%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_069",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wave-patterned wardrobe doors",
+        "LED accent lighting",
+        "Minimalist decor"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe doors",
+          "features": [
+            "Wave-patterned design, glass panels, red accents"
+          ],
+          "materials": [
+            "Glass, painted wood"
+          ],
+          "finish": "Smooth finish on glass and wood"
+        },
+        {
+          "type": "Wardrobe frame",
+          "features": [
+            "Dark wood frame, contrasting red accents"
+          ],
+          "materials": [
+            "Dark wood"
+          ],
+          "finish": "Smooth finish on wood"
+        },
+        {
+          "type": "Bedside table",
+          "features": [
+            "Dark wood, geometric pattern"
+          ],
+          "materials": [
+            "Dark wood"
+          ],
+          "finish": "Smooth finish on wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, red, dark wood, black"
+        ],
+        "materials": [
+          "Glass, painted wood, dark wood"
+        ],
+        "lighting": "LED accent lighting on the wardrobe frame",
+        "texture": "Smooth glass, painted wood finish"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly indicative of a specific regional style, but has modern Indian design elements",
+        "traditional_elements": [
+          "Wave pattern"
+        ],
+        "modern_adaptations": [
+          "Use of LED lighting, minimalistic approach"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Wave pattern may symbolize water, a common motif in Indian design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "A modern Indian bedroom with a contemporary twist, featuring wave-patterned wardrobe doors with glass panels and red accents, dark wood frame and bedside table with a geometric pattern. The space utilizes LED lighting to accentuate the wardrobe frame, creating a sleek and stylish look. The wave pattern on the doors may have cultural significance, symbolizing water, a recurring motif in Indian design.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Wave pattern",
+        "LED lighting",
+        "Minimalist decor",
+        "Wardrobe design"
+      ],
+      "budget_indicator": "Mid-range, with the use of glass and painted wood suggesting a higher budget",
+      "space_type": "Bedroom",
+      "functionality": "Storage and dressing area, with the wardrobe used for storage and the bed as a sleeping area",
+      "indian_specific": "Wave pattern and painted wood suggest Indian influences"
+    }
+  },
+  "cached_at": 1754490179392,
+  "cache_key": "804d64e164f30270f756738685b8f615"
+}

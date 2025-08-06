@@ -2,74 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/941/image_cropper_1729350738583.jpg",
   "analysis": {
     "image_id": "img_408",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/941/image_cropper_1729350738583.jpg",
     "ai_generated_tags": {
-      "room": "Entryway",
-      "theme": "Mughal Influenced",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Circular patterned design",
-        "Carved wooden doors"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Carved Wooden Door",
+          "type": "furniture",
           "features": [
-            "Circular patterns",
-            "leaf-like motifs",
-            "intricate designs"
+            "traditional_style"
           ],
           "materials": [
-            "Wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "Polished and glossy"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark brown",
-          "Gold"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Metal"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Ambient lighting with a warm tone",
-        "texture": "Smooth and glossy finish"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Mughal Influence",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Circular motifs",
-          "Carved woodwork"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary color palette"
+          "contemporary_design"
         ],
-        "space_utilization": "Closed design, emphasizing visual appeal",
-        "cultural_significance": "Mughal architecture often symbolizes royalty and grandeur, incorporated into modern Indian design"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image showcases a section of an entryway featuring intricately carved wooden doors with circular patterns and leaf-like motifs, reminiscent of Mughal architecture. The warm tones and glossy finish add to the luxurious feel, typical of high-end Indian interior design. The space utilizes space optimization through a closed design, focusing on the decorative elements that symbolize elegance and cultural richness.",
-      "metadata": {
-        "tags": [
-          "Mughal",
-          "Carved Wood",
-          "Circular Motifs",
-          "Indian Interior",
-          "High-End Design"
-        ],
-        "budget_indicator": "High",
-        "space_type": "Entrance Hall",
-        "functionality": "Decorative, serving as a first impression for visitors",
-        "indian_specific": "Mughal-inspired carvings, rich color palette, glossy finishes"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729350738583.jpg"
   },
-  "cached_at": 1753461529970,
+  "cached_at": 1754496225329,
   "cache_key": "2058ddb57a8eec34dcccfcef946c5020"
 }

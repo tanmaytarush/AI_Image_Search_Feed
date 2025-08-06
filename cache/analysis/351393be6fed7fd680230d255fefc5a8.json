@@ -3,70 +3,74 @@
   "analysis": {
     "image_id": "img_225",
     "ai_generated_tags": {
-      "room": "Kitchen",
+      "room": "Bedroom",
       "theme": "Minimalist",
       "primary_features": [
-        "Blue cabinets",
-        "White walls",
-        "Closed door"
+        "Blue and white color scheme",
+        "Modern wardrobe design",
+        "Clean lines"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "Wardrobe",
           "features": [
-            "Blue panels",
-            "Rectangular shape",
-            "Flat surface"
+            "Hinged doors",
+            "Multiple compartments"
           ],
           "materials": [
-            "Painted wood"
+            "Wooden panels"
           ],
-          "finish": "Matte"
+          "finish": "Polished surface"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Blue",
           "White",
-          "Dark door"
+          "Brown (wood)"
         ],
         "materials": [
-          "Painted wood"
+          "Wood",
+          "Paint"
         ],
-        "lighting": "Natural light",
-        "texture": "Smooth and flat"
+        "lighting": "Natural light with artificial lighting",
+        "texture": "Smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Minimalist design"
+        "regional_style": "Modern interpretation of traditional elements",
+        "traditional_elements": [
+          "Carved wood (implied)",
+          "Hinged doors"
         ],
-        "space_utilization": "Efficient cabinet space, but lacks traditional Indian elements",
-        "cultural_significance": "No culturally significant elements present"
+        "modern_adaptations": [
+          "Minimalist design",
+          "Use of modern materials"
+        ],
+        "space_utilization": "Efficient wardrobe design",
+        "cultural_significance": "Cultural significance is minimal as it's a modern interpretation without traditional elements"
       },
       "confidence_scores": {
         "room": 0.95,
-        "theme": 0.87,
+        "theme": 0.85,
         "primary_features": 0.89,
         "objects": 0.92,
-        "indian_context": 0.9
+        "indian_context": 0.7
       },
-      "description": "A minimalist kitchen with blue painted cabinets and white walls. The space lacks traditional Indian design elements, opting for a modern, functional layout.",
+      "description": "The image showcases a modern wardrobe in a bedroom with a blue and white color scheme. The design is minimalist with clean lines and efficient use of space. The wardrobe features hinged doors and multiple compartments, indicating a practical approach to storage. The materials used are wood and paint, with a polished surface finish. The overall design reflects a modern interpretation of traditional elements, such as the use of hinged doors and carved wood details implied in the design.",
       "metadata": {
         "tags": [
-          "Minimalist",
-          "Kitchen",
-          "Blue cabinets",
-          "Closed door"
+          "Minimalist bedroom",
+          "Modern wardrobe design",
+          "Blue and white color scheme",
+          "Efficient storage"
         ],
-        "budget_indicator": "Low to moderate",
-        "space_type": "Kitchen",
-        "functionality": "Storage and food preparation",
-        "indian_specific": "No Indian-specific design features present"
+        "budget_indicator": "Moderate",
+        "space_type": "Residential bedroom",
+        "functionality": "Storage",
+        "indian_specific": "Modern interpretation of traditional elements"
       }
     }
   },
-  "cached_at": 1753459435168,
+  "cached_at": 1754493404353,
   "cache_key": "351393be6fed7fd680230d255fefc5a8"
 }

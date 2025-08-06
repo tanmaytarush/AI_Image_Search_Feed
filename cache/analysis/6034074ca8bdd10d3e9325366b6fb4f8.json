@@ -2,100 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/373/image_cropper_1727952836904.jpg",
   "analysis": {
     "image_id": "img_433",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/373/image_cropper_1727952836904.jpg",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern with Indian Influences",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "White sliding doors",
-        "Bathroom sink",
-        "Mirror",
-        "Lighting fixture"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Bathroom sink",
+          "type": "furniture",
           "features": [
-            "Circular-shaped",
-            "White ceramic surface"
+            "traditional_style"
           ],
           "materials": [
-            "Ceramic",
-            "Metallic (likely chrome or brass trim)"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth ceramic surface with metallic accents"
-        },
-        {
-          "type": "Mirror",
-          "features": [
-            "Rectangular",
-            "Frameless",
-            "Mounted above the sink"
-          ],
-          "materials": [
-            "Glass"
-          ],
-          "finish": "Clear and reflective glass"
-        },
-        {
-          "type": "Lighting fixture",
-          "features": [
-            "Modern design",
-            "Integrated into the ceiling"
-          ],
-          "materials": [
-            "Metallic (likely chrome or brass)"
-          ],
-          "finish": "Smooth metallic surface"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Gray",
-          "Metallic"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Ceramic",
-          "Glass",
-          "Metallic"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Artificial, evenly distributed",
-        "texture": "Smooth surfaces with minimal texture"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "No specific regional style visible",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "No traditional Indian elements visible"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Modern design with minimal Indian influences"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of vertical space with sliding doors",
-        "cultural_significance": "No cultural elements present"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.75,
-      "theme": 0.65,
-      "primary_features": 0.8,
-      "objects": 0.85,
-      "indian_context": 0.55
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image depicts a modern bathroom with a minimalist design. The space features white sliding doors, a circular bathroom sink with a metallic finish, and a frameless mirror. The overall design is clean and contemporary with metallic accents, suggesting a modern Indian influence in terms of material selection. The space is well-lit, utilizing artificial lighting, and the use of vertical space is efficient. There are no traditional Indian elements visible, indicating a more contemporary approach to design.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Modern Bathroom",
-        "Minimalist Design",
-        "White Sliding Doors",
-        "Circular Sink",
-        "Metallic Accents"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, given the use of ceramic, glass, and metallic materials",
-      "space_type": "Residential Bathroom",
-      "functionality": "Primary purpose is for bathroom activities such as washing and personal care",
-      "indian_specific": "No Indian-specific design features are evident"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1727952836904.jpg"
   },
-  "cached_at": 1753461818228,
+  "cached_at": 1754496438600,
   "cache_key": "6034074ca8bdd10d3e9325366b6fb4f8"
 }

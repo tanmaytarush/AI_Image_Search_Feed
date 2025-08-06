@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.31%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_087",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Patterned wallpaper",
+        "Contemporary bed",
+        "Minimalist decor"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Contemporary design with upholstered headboard"
+          ],
+          "materials": [
+            "Fabric, foam, wood"
+          ],
+          "finish": "Soft texture on fabric, smooth foam, polished wood"
+        },
+        {
+          "type": "Wallpaper",
+          "features": [
+            "Patterned with leaf motifs"
+          ],
+          "materials": [
+            "Paper with printed design"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Artwork",
+          "features": [
+            "Abstract geometric shapes in earthy tones"
+          ],
+          "materials": [
+            "Painted on canvas"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Curtains",
+          "features": [
+            "Sheer fabric with subtle pattern"
+          ],
+          "materials": [
+            "Cotton or linen blend"
+          ],
+          "finish": "Soft texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, gray, green, brown, beige"
+        ],
+        "materials": [
+          "Paper, fabric, wood, cotton/linen blend"
+        ],
+        "lighting": "Natural light from window, slightly diffused by curtains",
+        "texture": "Soft fabric, smooth wood, matte paper, subtle patterned curtain"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, modern Indian",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with Indian-inspired patterns"
+        ],
+        "space_utilization": "Efficient use of space with minimal clutter",
+        "cultural_significance": "Modern interpretation of natural and geometric patterns inspired by Indian aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian bedroom features a contemporary bed with a wooden frame and upholstered headboard, complemented by a patterned wallpaper with leaf motifs and abstract geometric artwork. The space is illuminated by natural light through sheer curtains, creating a serene and stylish environment. The furniture and decor elements incorporate soft textures and neutral color palettes, with subtle traditional influences like the leaf pattern, reflecting a modern adaptation of Indian design aesthetics.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Contemporary",
+        "Bedroom Design",
+        "Minimalist",
+        "Natural Light"
+      ],
+      "budget_indicator": "Moderate, high-quality materials used",
+      "space_type": "Residential Bedroom",
+      "functionality": "Primary sleeping and relaxation area",
+      "indian_specific": "Abstract and organic patterns inspired by traditional Indian art"
+    }
+  },
+  "cached_at": 1754490616502,
+  "cache_key": "9bf7591cdac6c12d8fcf45d759f40629"
+}

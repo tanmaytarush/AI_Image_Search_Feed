@@ -2,72 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/991/image_cropper_14690E24-6C96-4279-A259-3DB166098522-930-0000006B10762046.jpg",
   "analysis": {
     "image_id": "img_409",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/991/image_cropper_14690E24-6C96-4279-A259-3DB166098522-930-0000006B10762046.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Wooden bed with a simple design",
-        "Light-colored flooring",
-        "Neutral color scheme"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "furniture",
           "features": [
-            "Simple design with no elaborate carvings",
-            "Rectangular wooden frame",
-            "Bed frame with a flat headboard"
+            "traditional_style"
           ],
           "materials": [
-            "Wood (likely teak or similar)",
-            "Metal (possibly for bed frame support)"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth and polished wood finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Neutral tones like white, beige, and light brown"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood, metal, possibly cotton for bedding"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from an unseen window",
-        "texture": "Smooth wood texture, soft fabric for bedding"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Minimal use of traditional Indian elements"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Modern interpretation of Indian minimalist style"
+          "contemporary_design"
         ],
-        "space_utilization": "Simple and efficient use of space with a focus on comfort",
-        "cultural_significance": "No culturally significant elements visible"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a minimalist bedroom with a wooden bed frame and light-colored flooring. The bed is simple in design, focusing on functionality and comfort. The room lacks elaborate traditional Indian elements, suggesting a modern interpretation of Indian interior design principles.",
-      "metadata": {
-        "tags": [
-          "Minimalist bedroom",
-          "Indian minimalist design",
-          "Simple bed frame",
-          "Neutral color palette"
-        ],
-        "budget_indicator": "Low to moderate, due to the use of simple materials and design",
-        "space_type": "Residential bedroom",
-        "functionality": "Sleeping area",
-        "indian_specific": "No traditional Indian-specific design features visible"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_14690E24-6C96-4279-A259-3DB166098522-930-0000006B10762046.jpg"
   },
-  "cached_at": 1753461545750,
+  "cached_at": 1754496231293,
   "cache_key": "11d011ad280b7183fb209252b59562b3"
 }

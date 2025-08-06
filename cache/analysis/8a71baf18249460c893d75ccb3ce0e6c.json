@@ -4,92 +4,96 @@
     "image_id": "img_213",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian Fusion",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Compact kitchen layout",
-        "Modern cabinetry",
-        "Sleek countertop design",
-        "Built-in storage"
+        "White cabinetry",
+        "Black countertop",
+        "Dining table with chairs"
       ],
       "objects": [
         {
-          "type": "Kitchen cabinets",
+          "type": "Cabinets",
           "features": [
-            "White glossy finish",
-            "Minimalist design"
+            "Modern design, sleek lines, white color"
           ],
           "materials": [
-            "MDF or painted wood"
+            "Wood or MDF"
           ],
-          "finish": "Glossy white"
+          "finish": "Glossy"
         },
         {
           "type": "Countertop",
           "features": [
-            "Sleek design",
-            "Integrated sink"
+            "Black, smooth, possibly granite or quartz"
           ],
           "materials": [
-            "Marble or quartz"
+            "Granite or quartz"
           ],
           "finish": "Polished"
         },
         {
-          "type": "Appliances",
+          "type": "Dining Table",
           "features": [
-            "Integrated into cabinetry"
+            "Rectangular, dark wood or similar material"
           ],
           "materials": [
-            "Metal, plastic"
+            "Dark wood or laminated wood"
           ],
-          "finish": "Modern design"
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Chairs",
+          "features": [
+            "Modern design, dark color, possibly leatherette"
+          ],
+          "materials": [
+            "Leatherette or fabric"
+          ],
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Black"
+          "White, Black, Dark Wood/Tone"
         ],
         "materials": [
-          "Marble",
-          "Wood",
-          "Metal"
+          "Wood, MDF, Granite/Quartz, Leatherette/Fabric"
         ],
-        "lighting": "Moderate ambient lighting, natural light from window",
-        "texture": "Smooth and glossy surfaces, textured marble"
+        "lighting": "Natural light coming through windows",
+        "texture": "Smooth surfaces with glossy finishes"
       },
       "indian_context": {
-        "regional_style": "No specific regional style evident, but modern adaptations of Indian design",
+        "regional_style": "No specific regional style visible",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Clean lines, minimalism, integration of Indian materials like marble"
+          "Contemporary design elements with a modern twist"
         ],
-        "space_utilization": "Efficient use of space with built-in storage and minimal decorative elements",
-        "cultural_significance": "No traditional Indian cultural elements observed, but modern interpretations of Indian aesthetics"
+        "space_utilization": "Efficient use of space with minimal storage and dining area",
+        "cultural_significance": "No culturally significant elements visible"
       }
     },
     "confidence_scores": {
       "room": 0.95,
-      "theme": 0.87,
+      "theme": 0.85,
       "primary_features": 0.89,
       "objects": 0.92,
-      "indian_context": 0.9
+      "indian_context": 0.65
     },
-    "description": "This modern Indian fusion kitchen features a sleek, minimalist design with white glossy cabinetry, a polished marble countertop, and integrated modern appliances. The space utilizes efficient storage solutions, reflecting contemporary Indian design trends that blend functionality with aesthetic appeal.",
+    "description": "The image depicts a modern Indian kitchen with contemporary design elements. The space features sleek white cabinetry with a glossy finish, a black countertop, and a modern dining table with chairs. The design incorporates a mix of traditional and modern elements, reflecting a contemporary Indian aesthetic. The lighting appears to be natural, enhancing the clean and polished look of the space.",
     "metadata": {
       "tags": [
-        "modern kitchen",
-        "Indian fusion design",
-        "marble countertop",
-        "glossy cabinetry"
+        "Modern Indian Kitchen",
+        "Contemporary Design",
+        "White Cabinets",
+        "Black Countertop",
+        "Dining Area"
       ],
-      "budget_indicator": "Moderate to high, with use of premium materials like marble and glossy finishes",
+      "budget_indicator": "Mid-range, with materials like granite and glossy finishes indicating a higher budget",
       "space_type": "Residential kitchen",
-      "functionality": "Primary purpose is for cooking and food preparation, with efficient storage and counter space",
-      "indian_specific": "Modern adaptation of Indian design aesthetics in cabinetry and countertop materials"
+      "functionality": "Primary function is meal preparation and dining",
+      "indian_specific": "Minimal traditional elements, focusing on modern Indian design"
     }
   },
-  "cached_at": 1753459341794,
+  "cached_at": 1754493193246,
   "cache_key": "8a71baf18249460c893d75ccb3ce0e6c"
 }

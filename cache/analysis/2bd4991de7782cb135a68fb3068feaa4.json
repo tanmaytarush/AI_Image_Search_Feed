@@ -3,87 +3,102 @@
   "analysis": {
     "image_id": "img_141",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Minimalist",
+      "room": "Entryway",
+      "theme": "Rajasthani Minimalism",
       "primary_features": [
-        "Wooden counter top",
-        "Glass display case",
-        "Metallic furniture",
-        "Storage shelves"
+        "Circular marble water fountain",
+        "Teak wood bench",
+        "Metal shelving unit"
       ],
       "objects": [
         {
-          "type": "Glass display case",
+          "type": "Water fountain",
           "features": [
-            "Round design",
-            "Metallic frame",
-            "Translucent glass panels"
+            "Circular design with bronze detailing",
+            "Glass cover",
+            "Water trickling sound"
           ],
           "materials": [
-            "Metal",
+            "Marble",
+            "Bronze",
             "Glass"
           ],
-          "finish": "Metallic polished, glass clear"
+          "finish": "Polished marble, mirrored bronze finish"
         },
         {
-          "type": "Wooden counter top",
+          "type": "Benches",
           "features": [
-            "Curved design",
-            "Smooth finish"
+            "Teak wood with intricate carvings",
+            "Elegant curves"
           ],
           "materials": [
-            "Wood"
+            "Teak"
           ],
-          "finish": "Smooth polished"
+          "finish": "Natural teak wood finish"
+        },
+        {
+          "type": "Shelving Unit",
+          "features": [
+            "Metal construction with decorative elements",
+            "Modern design with traditional hints"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Metallic finish with a hint of brass"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (wood)",
-          "White (background)",
-          "Clear (glass)",
-          "Metallic (frames)"
+          "Marble white",
+          "Teak brown",
+          "Bronze",
+          "Metallic gray"
         ],
         "materials": [
-          "Wood",
-          "Glass",
+          "Marble",
+          "Teak",
+          "Bronze",
           "Metal"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Smooth, polished surfaces"
+        "lighting": "Natural light with artificial overhead lighting",
+        "texture": "Smooth marble, rough teak wood, polished bronze"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Minimalistic design adapted from traditional Indian elements like the wooden counter top"
+        "regional_style": "Rajasthani",
+        "traditional_elements": [
+          "Teak wood bench",
+          "Circular water fountain"
         ],
-        "space_utilization": "Efficient use of space with storage shelves and a display case",
-        "cultural_significance": "No specific cultural elements are visible"
+        "modern_adaptations": [
+          "Minimalist design with metal shelving unit"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelving unit",
+        "cultural_significance": "Water fountain symbolizes prosperity and blessings in Indian culture"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.75,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.7
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "This image depicts a modern kitchen with a minimalist design. The space features a wooden counter top with a curved design and a glass display case with a metallic frame. The kitchen includes storage shelves in the background. The design is characterized by clean lines, smooth finishes, and the integration of metallic and wooden elements, which are not typical in traditional Indian interior design. The use of natural light and the absence of traditional Indian decorative elements suggest a contemporary approach.",
+      "description": "The entryway features a Rajasthani-inspired minimalist design with a circular marble water fountain, a teak wood bench with intricate carvings, and a modern metal shelving unit. The smooth marble, polished bronze, and natural teak wood textures create a harmonious blend, emphasizing cultural elements and modern functionality. The space utilizes vertical space effectively with the shelving unit, reflecting both traditional and modern Indian design principles.",
       "metadata": {
         "tags": [
-          "modern kitchen",
-          "minimalist design",
-          "wooden counter top",
-          "glass display case",
-          "metallic furniture"
+          "Indian interior",
+          "Rajasthani style",
+          "Marble fountain",
+          "Teak bench",
+          "Metal shelving"
         ],
-        "budget_indicator": "Moderate, as it includes materials like wood, glass, and metal",
-        "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is for food preparation and storage",
-        "indian_specific": "No Indian-specific design features are present"
+        "budget_indicator": "Mid-range, with high-quality materials like marble, teak, and bronze",
+        "space_type": "Residential entryway",
+        "functionality": "Welcome area with decorative and storage elements",
+        "indian_specific": "Circular water fountain and teak wood bench"
       }
     }
   },
-  "cached_at": 1753449075863,
+  "cached_at": 1754491664779,
   "cache_key": "2bd4991de7782cb135a68fb3068feaa4"
 }

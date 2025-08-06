@@ -2,69 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1425/image_cropper_1729761480242.jpg",
   "analysis": {
     "image_id": "img_423",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1425/image_cropper_1729761480242.jpg",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Exposed beams",
-        "Painted walls",
-        "Simple ceiling light"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Ceiling Light",
+          "type": "furniture",
           "features": [
-            "Modular design",
-            "Integrated lighting"
+            "traditional_style"
           ],
           "materials": [
-            "Metallic finish"
+            "wood",
+            "fabric"
           ],
-          "finish": "Shiny metallic"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Painted walls"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Ambient lighting from ceiling light",
-        "texture": "Smooth surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Use of clean lines and modern materials in a typical Indian cultural context"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with a focus on modern design aesthetics",
-        "cultural_significance": "No specific Indian cultural elements present"
-      },
-      "confidence_scores": {
-        "room": 0.7,
-        "theme": 0.8,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.2
-      },
-      "description": "The image depicts a living room with modern minimalist design elements. The space features exposed wooden beams painted white, creating a clean and contemporary look. The ceiling light is a modern, modular design with a shiny metallic finish. The walls are painted a uniform white, emphasizing a clean and uncluttered aesthetic. There are no visible traditional Indian elements, and the design focuses on modern simplicity.",
-      "metadata": {
-        "tags": [
-          "Living Room",
-          "Modern",
-          "Minimalist",
-          "White Walls",
-          "Exposed Beams"
-        ],
-        "budget_indicator": "Low to Moderate",
-        "space_type": "Residential",
-        "functionality": "Primary living space",
-        "indian_specific": "No Indian-specific design features visible"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729761480242.jpg"
   },
-  "cached_at": 1753461709636,
+  "cached_at": 1754496363695,
   "cache_key": "a97a5764b42042b1d2245c5c10057191"
 }

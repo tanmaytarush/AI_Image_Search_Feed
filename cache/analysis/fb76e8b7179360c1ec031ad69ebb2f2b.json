@@ -2,97 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1686/image_cropper_1729866748230.jpg",
   "analysis": {
     "image_id": "img_360",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1686/image_cropper_1729866748230.jpg",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Floating vanity with sink",
-        "Mirror above vanity",
-        "Wall-mounted fixtures"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Floating vanity with sink",
+          "type": "furniture",
           "features": [
-            "Curved design",
-            "Minimalist style"
+            "traditional_style"
           ],
           "materials": [
-            "Wood finish",
-            "Metal accents"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth, glossy"
-        },
-        {
-          "type": "Mirror above vanity",
-          "features": [
-            "Rectangular shape",
-            "Integrated with vanity"
-          ],
-          "materials": [
-            "Glass",
-            "Metal"
-          ],
-          "finish": "Clear, reflective"
-        },
-        {
-          "type": "Wall-mounted fixtures",
-          "features": [
-            "Compact design",
-            "Integrated with vanity"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Polished"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Gray",
-          "Brown"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Glass"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural lighting suggests daytime",
-        "texture": "Sleek, smooth finish"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Integration of traditional materials with modern design"
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
         ],
-        "space_utilization": "Efficient, maximizes space with wall-mounted fixtures",
-        "cultural_significance": "No culturally significant Indian elements present"
+        "modern_adaptations": [
+          "contemporary_design"
+        ],
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "This image depicts a modern minimalist bathroom with a sleek design. The floating vanity with a curved design and the wall-mounted fixtures suggest a contemporary style with a focus on space optimization. The use of wood for the vanity and metal for the fixtures reflects a blend of traditional and modern design elements, although the overall aesthetic is distinctly modern. The clean, white and gray color palette enhances the minimalist look, while the smooth, glossy finish contributes to a contemporary feel.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Modern",
-        "Minimalist",
-        "Bathroom",
-        "Wall-mounted fixtures",
-        "Floating vanity"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, with visible use of materials like wood and metal",
-      "space_type": "Residential",
-      "functionality": "Primary purpose is for personal hygiene activities",
-      "indian_specific": "No Indian-specific design features are present"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729866748230.jpg"
   },
-  "cached_at": 1753460885247,
+  "cached_at": 1754495968923,
   "cache_key": "fb76e8b7179360c1ec031ad69ebb2f2b"
 }

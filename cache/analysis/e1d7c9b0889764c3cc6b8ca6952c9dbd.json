@@ -4,55 +4,51 @@
     "image_id": "img_234",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Modern Indian",
+      "theme": "Contemporary",
       "primary_features": [
-        "Storage cabinets",
-        "Sliding door wardrobe",
-        "Built-in shelves"
+        "Sliding wardrobe doors",
+        "Compact bed with storage underneath"
       ],
       "objects": [
         {
-          "type": "Sliding door wardrobe",
+          "type": "Bed",
           "features": [
-            "Sliding doors with frosted glass panels",
-            "Modern design with contemporary handles"
+            "Compact design with built-in storage underneath"
           ],
           "materials": [
-            "Wooden frame with frosted glass"
+            "Dark wood or laminate finish"
           ],
-          "finish": "Satin finish on wood and frosted glass"
+          "finish": "Glossy"
         },
         {
-          "type": "Built-in shelves",
+          "type": "Wardrobe",
           "features": [
-            "Wall-mounted shelves with modern fixtures"
+            "Sliding doors with frosted glass panels"
           ],
           "materials": [
-            "Wooden frame with metal brackets"
+            "Light-colored wood or MDF with frosted glass"
           ],
-          "finish": "Satin finish on wood with metallic brackets"
+          "finish": "Matte"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, Satin Mahogany, Frosted Glass"
+          "Dark brown, light brown, white"
         ],
         "materials": [
-          "Wood, Glass, Metal"
+          "Wood, glass, metal"
         ],
-        "lighting": "Natural light from a window not visible in the image",
-        "texture": "Smooth surfaces with a minimalist finish"
+        "lighting": "Natural light from the window",
+        "texture": "Smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "No specific regional influence visible",
-        "traditional_elements": [
-          "None"
-        ],
+        "regional_style": "Not indicative of a specific regional style, but could be influenced by urban modern Indian design trends",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Use of modern materials and design techniques in a traditional form"
+          "Modern interpretation of traditional storage solutions"
         ],
-        "space_utilization": "Efficient use of space with built-in storage solutions",
-        "cultural_significance": "Modern interpretation of Indian design elements, focusing on functionality and contemporary aesthetics"
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "While the image does not depict overtly traditional Indian elements, the focus on functionality and modern storage solutions reflects a contemporary approach to home design in urban India"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -61,22 +57,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern Indian bedroom with a focus on contemporary design elements. The space features a sliding door wardrobe with frosted glass panels and a modern handle design, along with wall-mounted built-in shelves with a satin finish. The room utilizes a minimalist color palette and smooth textures, reflecting a contemporary style with a nod to modern Indian aesthetics. The design emphasizes efficient storage solutions and functionality within a space that is free from overt traditional Indian design elements.",
+      "description": "The image depicts a contemporary bedroom with a compact bed featuring built-in storage under the mattress and a wardrobe with sliding frosted glass doors. The room utilizes modern materials like wood and glass, reflecting a contemporary urban Indian design aesthetic. The focus on efficient storage solutions is a modern interpretation of traditional Indian design elements that prioritize functionality.",
       "metadata": {
         "tags": [
-          "Modern Indian",
-          "Minimalist",
-          "Efficient Storage",
-          "Contemporary Design",
-          "Bedroom"
+          "Contemporary bedroom",
+          "Built-in storage",
+          "Urban modern design",
+          "Compact furniture",
+          "Frosted glass doors"
         ],
-        "budget_indicator": "Mid-range, utilizing modern materials with a contemporary finish",
-        "space_type": "Residential Bedroom",
-        "functionality": "Primary purpose is storage and organization of personal items within a bedroom setting",
-        "indian_specific": "Modern adaptation of Indian design principles, focusing on modern materials and a minimalist aesthetic"
+        "budget_indicator": "Moderate, as it includes materials like wood and glass, which are moderately priced",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose is to provide a comfortable and functional sleeping space with additional storage",
+        "indian_specific": "Modern interpretation of traditional Indian storage solutions"
       }
     }
   },
-  "cached_at": 1753450277337,
+  "cached_at": 1754493587829,
   "cache_key": "e1d7c9b0889764c3cc6b8ca6952c9dbd"
 }

@@ -3,88 +3,76 @@
   "analysis": {
     "image_id": "img_469",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Contemporary with Indian Influences",
+      "room": "Master Bedroom",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Modern bed with a contemporary design",
+        "Bed with layered bedding",
         "Wardrobe with wooden panels",
-        "Television unit with wooden accents",
-        "Rug with geometric patterns"
+        "Minimalist decor"
       ],
       "objects": [
         {
-          "type": "Contemporary bed",
+          "type": "Bed",
           "features": [
-            "Minimalist design with a dark finish",
-            "Integrated lighting underneath"
+            "Queen-sized",
+            "Layered bedding with white and grey tones"
           ],
           "materials": [
-            "Wood, metal"
+            "Wooden headboard",
+            "Metal frame"
           ],
-          "finish": "Shiny, lacquered surface"
+          "finish": "Matt finish on wood and metallic sheen on frame"
         },
         {
           "type": "Wardrobe",
           "features": [
-            "Rectangular shape",
-            "Wooden panels with a natural finish"
+            "Wooden panels with horizontal slats",
+            "Integrated lighting"
           ],
           "materials": [
-            "Wood"
+            "Wooden paneling"
           ],
-          "finish": "Natural wood"
+          "finish": "Natural wood tone with matte finish"
         },
         {
-          "type": "Television unit",
+          "type": "Television Stand",
           "features": [
-            "Wooden frame with clean lines",
-            "Integrated storage space"
+            "Modern minimalist design",
+            "Integrated with wardrobe"
           ],
           "materials": [
-            "Wood"
+            "Wooden paneling"
           ],
-          "finish": "Natural wood"
-        },
-        {
-          "type": "Rug",
-          "features": [
-            "Geometric patterns with a modern aesthetic",
-            "Machine-woven texture"
-          ],
-          "materials": [
-            "Cotton"
-          ],
-          "finish": "Soft, woven texture"
+          "finish": "Natural wood tone with matte finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White walls",
-          "Dark bed frame",
-          "Wooden brown wardrobe",
-          "Black television unit",
-          "Geometric patterned rug"
+          "White",
+          "Grey",
+          "Wooden brown",
+          "Black"
         ],
         "materials": [
           "Wood",
           "Metal",
-          "Metal",
-          "Wood",
-          "Cotton"
+          "Glass",
+          "Laminate"
         ],
-        "lighting": "Ambient lighting from ceiling lights and integrated lighting under the bed",
-        "texture": "Smooth surfaces of the bed and television unit, woven texture of the rug"
+        "lighting": "Soft ambient lighting from ceiling and recessed lights",
+        "texture": "Smooth surfaces with minimal texture"
       },
       "indian_context": {
-        "regional_style": "Not strongly regional, more a contemporary interpretation",
+        "regional_style": "Not distinctly regional, but has elements of modern Indian design",
         "traditional_elements": [
-          "Wooden wardrobe with carved panels"
+          "Carved wooden panels (implied in wardrobe design)",
+          "Layered bedding"
         ],
         "modern_adaptations": [
-          "Integration of modern furniture and design elements"
+          "Minimalist approach with modern materials and furniture"
         ],
-        "space_utilization": "Efficient use of space with minimalistic furniture and storage solutions",
-        "cultural_significance": "The use of wood symbolizes strength and longevity in Indian culture, although the design is contemporary"
+        "space_utilization": "Efficient use of space with integrated furniture and storage",
+        "cultural_significance": "Elements like the layered bedding suggest a focus on comfort and cultural aesthetics"
       }
     },
     "confidence_scores": {
@@ -94,21 +82,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This bedroom features a contemporary design with subtle Indian elements. The modern bed includes a dark frame with integrated lighting, while the wardrobe and television unit showcase wooden panels with a natural finish. The geometric patterned rug adds a touch of traditional design. The overall aesthetic blends modern furniture with Indian cultural significance, particularly the use of wood as a material.",
+    "description": "This modern Indian-inspired master bedroom features a queen-sized bed with layered bedding, a wardrobe with wooden panels, and a minimalist decor. The space incorporates traditional elements such as carved wooden panels in the wardrobe design and layered bedding, while maintaining a contemporary aesthetic through the use of modern materials and furniture. The lighting is soft and ambient, enhancing the serene and elegant atmosphere. The overall design emphasizes comfort and efficiency, with a focus on cultural aesthetics.",
     "metadata": {
       "tags": [
-        "Contemporary Bedroom",
-        "Indian Influences",
-        "Modern Furniture",
-        "Wooden Wardrobe",
-        "Geometric Rug"
+        "Indian interior design",
+        "Modern Indian",
+        "Minimalist decor",
+        "Wardrobe design",
+        "Bedroom furniture"
       ],
-      "budget_indicator": "Moderate to high due to the use of wood and metal",
-      "space_type": "Residential Bedroom",
-      "functionality": "Primary function is as a place to rest and sleep, with additional storage for clothing and electronic devices",
-      "indian_specific": "Use of wood and clean lines with traditional wooden wardrobe"
+      "budget_indicator": "Moderate, with the use of quality materials like wood and metal",
+      "space_type": "Residential - Master Bedroom",
+      "functionality": "Sleeping and personal storage",
+      "indian_specific": "Layered bedding and carved wooden panels"
     }
   },
-  "cached_at": 1753462380862,
+  "cached_at": 1754496661530,
   "cache_key": "f294bbfe0d88717c4b5fc0e65beccef0"
 }

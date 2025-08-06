@@ -2,68 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/833/image_cropper_1729593782948.jpg",
   "analysis": {
     "image_id": "img_392",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/833/image_cropper_1729593782948.jpg",
     "ai_generated_tags": {
-      "room": "Entryway",
-      "theme": "Rajasthani",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Screen with intricate designs"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Screen",
+          "type": "furniture",
           "features": [
-            "Elegant floral patterns, carved embellishments"
+            "traditional_style"
           ],
           "materials": [
-            "Wood, brass"
+            "wood",
+            "fabric"
           ],
-          "finish": "Polished brass accents, dark wood base"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown, gold"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood, brass"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Bright, natural light",
-        "texture": "Smooth wood, metallic brass"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Rajasthani",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Floral patterns, carved embellishments"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Integrated into contemporary spaces"
+          "contemporary_design"
         ],
-        "space_utilization": "Screens often serve as room dividers or decorative elements",
-        "cultural_significance": "Screens symbolize the rich craftsmanship and cultural heritage of Rajasthan"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image depicts a Rajasthani style screen, a common decorative element in traditional Indian interiors. The intricate floral patterns and carved embellishments are characteristic of the craftsmanship found in Rajasthan. The use of polished brass and dark wood highlights the region's focus on natural materials and detailed artistry. The presence of this screen in an entryway suggests its role as a room divider or a decorative piece that enhances the aesthetic appeal of the space.",
-      "metadata": {
-        "tags": [
-          "Rajasthani style",
-          "intricate designs",
-          "wood and brass",
-          "entryway decor",
-          "traditional Indian design"
-        ],
-        "budget_indicator": "High, with the use of premium materials like brass and polished wood.",
-        "space_type": "Residential (likely a home or a small private residence)",
-        "functionality": "Room divider or decorative element",
-        "indian_specific": "Carved designs, use of brass and wood, traditional patterns"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729593782948.jpg"
   },
-  "cached_at": 1753461338922,
+  "cached_at": 1754496121495,
   "cache_key": "7a1c90fce2d5486c3579c95842378ed4"
 }

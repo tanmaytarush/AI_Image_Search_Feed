@@ -4,98 +4,120 @@
     "image_id": "img_419",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Modern Indian",
+      "theme": "Modern Indian Minimalism with Traditional Accents",
       "primary_features": [
-        "Built-in shelves",
-        "Rattan furniture",
-        "Carved wooden elements",
-        "Marble flooring"
+        "Wall-mounted shelves",
+        "Teak wood flooring",
+        "Carved wooden furniture",
+        "Marble top table",
+        "Metal railings"
       ],
       "objects": [
         {
-          "type": "Rattan sofa",
+          "type": "Wall-mounted shelves",
           "features": [
-            "Curved shape",
-            "Textured surface",
-            "Natural color"
-          ],
-          "materials": [
-            "Rattan"
-          ],
-          "finish": "Natural finish, likely untreated"
-        },
-        {
-          "type": "Built-in shelves",
-          "features": [
-            "Sleek design",
-            "Integrated into wall"
-          ],
-          "materials": [
-            "Painted wood"
-          ],
-          "finish": "Matte white paint"
-        },
-        {
-          "type": "Carved wooden panels",
-          "features": [
-            "Traditional design",
-            "Elegant curves"
+            "Carved wooden brackets",
+            "Shelving for decorative items"
           ],
           "materials": [
             "Teak wood"
           ],
-          "finish": "Polished teak finish"
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Teak wood flooring",
+          "features": [
+            "Wooden planks"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Carved wooden furniture",
+          "features": [
+            "Diwan-style seating"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Marble top table",
+          "features": [
+            "Central table with decorative top"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished marble"
+        },
+        {
+          "type": "Metal railings",
+          "features": [
+            "Vertical metal bars"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Natural wood tones"
+          "Dark brown (teak wood)",
+          "Marble white",
+          "Metallic silver",
+          "Brown (wallpaper)",
+          "White (ceiling and walls)"
         ],
         "materials": [
-          "Painted wood",
           "Teak wood",
           "Marble",
-          "Rattan"
+          "Metal",
+          "Wallpaper"
         ],
-        "lighting": "Natural light from unseen windows",
-        "texture": "Combination of smooth and natural textures"
+        "lighting": "Natural light from window",
+        "texture": "Smooth and polished surfaces"
       },
       "indian_context": {
-        "regional_style": "Southern Indian",
+        "regional_style": "Not distinctly regional",
         "traditional_elements": [
-          "Carved wooden panels"
+          "Carved wooden furniture",
+          "Teak wood"
         ],
         "modern_adaptations": [
-          "Rattan sofa, built-in shelves"
+          "Minimalist design with traditional elements",
+          "Modern materials like marble and metal"
         ],
-        "space_utilization": "Efficient use of wall space with shelves, open layout",
-        "cultural_significance": "The carved wooden panels symbolize craftsmanship and regional heritage"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image showcases a modern interpretation of a Southern Indian living room, featuring a rattan sofa, built-in shelves, and intricately carved wooden panels. The space utilizes the wall efficiently with shelves, and the natural elements like rattan and teak wood complement the sleek, modern design. The use of natural light and the combination of textures add to the aesthetic appeal.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Southern Style",
-          "Rattan furniture",
-          "Built-in shelves",
-          "Carved wood"
-        ],
-        "budget_indicator": "Moderate, with a focus on natural and semi-precious materials",
-        "space_type": "Living Room",
-        "functionality": "Relaxation and entertainment",
-        "indian_specific": "Rattan sofa with a Southern Indian influence, built-in shelves for storage and display"
+        "space_utilization": "Efficient use of vertical space with wall-mounted shelves",
+        "cultural_significance": "Teak wood and carved furniture hold cultural significance in traditional Indian homes, often representing strength, durability, and craftsmanship"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern Indian living space with a focus on traditional Indian design elements. The room features teak wood flooring and furniture, which are traditional materials showcasing Indian craftsmanship. The wall-mounted shelves and central marble table add a contemporary touch while maintaining the cultural essence. The use of natural light and clean lines further emphasizes the modern interpretation of traditional Indian design.",
+    "metadata": {
+      "tags": [
+        "Teak wood",
+        "Carved furniture",
+        "Marble table",
+        "Modern Indian design",
+        "Living room"
+      ],
+      "budget_indicator": "Moderate, given the use of high-quality natural materials like teak and marble",
+      "space_type": "Living room",
+      "functionality": "Relaxation and entertainment",
+      "indian_specific": "Teak wood furniture and carved details"
     }
   },
-  "cached_at": 1753461665978,
+  "cached_at": 1754496343197,
   "cache_key": "faf6cc51496e1f871b03a045b3f332e1"
 }

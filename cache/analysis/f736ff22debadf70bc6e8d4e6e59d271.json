@@ -4,71 +4,114 @@
     "image_id": "img_109",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Contemporary Indian",
+      "theme": "Contemporary with Traditional Influences",
       "primary_features": [
-        "Wooden ceiling beams",
-        "Carpeted floor",
-        "L-shaped sofa",
+        "Teak wood ceiling beams",
+        "Marble flooring",
+        "U-shaped sectional sofa",
         "Television unit",
-        "Decorative wall unit",
-        "Wooden door"
+        "Indoor plants",
+        "Decorative figurines"
       ],
       "objects": [
         {
-          "type": "L-shaped sofa",
+          "type": "Sectional Sofa",
           "features": [
-            "Dark brown fabric",
+            "U-shaped design",
+            "Brown upholstery",
             "Patterned cushions"
           ],
           "materials": [
-            "Fabric for cushioning",
-            "Wooden frame"
+            "Fabric",
+            "Wood"
           ],
-          "finish": "Smooth, polished"
+          "finish": "Textured fabric, polished wood"
         },
         {
-          "type": "Wooden door",
+          "type": "Television Unit",
           "features": [
-            "Dark wood finish",
-            "Carved detailing"
+            "Wooden structure",
+            "Built-in shelves",
+            "TV mounted on top"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Polished"
+          "finish": "Polished wood"
+        },
+        {
+          "type": "Teak Wood Ceiling Beams",
+          "features": [
+            "Exposed beams",
+            "Warm tone"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural polish"
+        },
+        {
+          "type": "Marble Flooring",
+          "features": [
+            "White and gold tones",
+            "Reflective surface"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High gloss"
+        },
+        {
+          "type": "Indoor Plants",
+          "features": [
+            "Potted plants placed around the room"
+          ],
+          "materials": [
+            "Plastic pots"
+          ],
+          "finish": "Standard plastic"
+        },
+        {
+          "type": "Decorative Figurines",
+          "features": [
+            "Golden statues placed on the television unit and on the wall"
+          ],
+          "materials": [
+            "Metal, possibly brass"
+          ],
+          "finish": "Gold plated"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Brown",
-          "Beige",
           "White",
           "Gold",
-          "Green"
+          "Green",
+          "Multi-colored"
         ],
         "materials": [
-          "Wood",
+          "Teak wood",
           "Marble",
+          "Fabric",
           "Metal",
           "Plastic"
         ],
-        "lighting": "Natural light supplemented by recessed and pendant lighting",
-        "texture": "Smooth surfaces with a mix of glossy and matte finishes"
+        "lighting": "Mix of natural light from windows and artificial light from ceiling lights, wall lights, and pendant lights",
+        "texture": "Polished wood, high-gloss marble, patterned fabric cushions, smooth metal surfaces"
       },
       "indian_context": {
-        "regional_style": "South Indian",
+        "regional_style": "Not strongly regional, but elements hint at a northern Indian influence with the use of marble and teak wood.",
         "traditional_elements": [
-          "Wooden ceiling beams",
-          "Carved wooden door",
-          "Decorative wall unit"
+          "Teak wood ceiling beams",
+          "Decorative figurines"
         ],
         "modern_adaptations": [
-          "Contemporary furniture design",
-          "Marble flooring",
-          "Modern lighting fixtures"
+          "U-shaped sectional sofa",
+          "Marble flooring"
         ],
-        "space_utilization": "Efficient use of space with a combination of seating and storage",
-        "cultural_significance": "Cultural elements such as the wooden door and wall unit with religious figures"
+        "space_utilization": "Efficient use of space with a focus on seating and entertainment, while maintaining a clean and open look.",
+        "cultural_significance": "The decorative elements, such as the statues and the use of marble flooring, reflect the richness and cultural heritage of Indian interior design, often seen in traditional homes."
       }
     },
     "confidence_scores": {
@@ -78,23 +121,24 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This living room features a contemporary Indian design with a blend of traditional and modern elements. The wooden ceiling beams and carved wooden door are indicative of South Indian architectural styles, while the L-shaped sofa with patterned cushions and the marble flooring contribute to a modern aesthetic. The television unit and decorative wall unit with religious figures add cultural significance and blend seamlessly with the contemporary design. The room is well-lit with natural and artificial lighting, creating a warm and inviting atmosphere.",
+    "description": "The interior space is a modern living room with a blend of traditional Indian elements. The teak wood ceiling beams and the use of marble flooring reflect a northern Indian influence. The U-shaped sectional sofa with patterned cushions adds a contemporary twist. The television unit, with its wooden structure and built-in shelves, combines functionality with traditional craftsmanship. Decorative figurines and indoor plants enhance the cultural richness of the space, while the lighting, a mix of natural and artificial, creates a warm and inviting atmosphere. The overall design strikes a balance between tradition and modernity, making it a sophisticated yet homey living area.",
     "metadata": {
       "tags": [
-        "Living Room",
-        "Contemporary Indian",
-        "South Indian",
-        "Wooden Ceiling",
-        "Marble Flooring",
-        "Decorative Wall Unit",
-        "Modern Furniture"
+        "Indian interior design",
+        "Teak wood",
+        "Marble flooring",
+        "U-shaped sofa",
+        "Television unit",
+        "Traditional elements",
+        "Modern adaptations",
+        "Living room"
       ],
-      "budget_indicator": "Moderate to High",
+      "budget_indicator": "Moderate to High, with the use of quality materials like marble and polished wood.",
       "space_type": "Residential",
       "functionality": "Entertainment and relaxation",
-      "indian_specific": "Carved wooden door, decorative wall unit with religious figures, wooden ceiling beams"
+      "indian_specific": "Use of teak wood, marble, and traditional decorative elements"
     }
   },
-  "cached_at": 1753448360093,
+  "cached_at": 1754491211701,
   "cache_key": "f736ff22debadf70bc6e8d4e6e59d271"
 }

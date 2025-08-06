@@ -4,66 +4,50 @@
     "image_id": "img_162",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian Kitchen",
+      "theme": "Modern with Indian Influences",
       "primary_features": [
-        "Built-in cabinets",
-        "Stainless steel countertop",
-        "Decorative backsplash",
-        "Built-in appliances",
-        "Undermount sink"
+        "Modern cabinetry with a traditional touch",
+        "White walls with blue accent color",
+        "Decorative elements with traditional patterns"
       ],
       "objects": [
         {
-          "type": "Kitchen cabinets",
+          "type": "Kitchen Cabinets",
           "features": [
-            "Built-in style, L-shaped arrangement"
+            "Modular design, contemporary shape",
+            "White finish with subtle blue accents",
+            "Diagonal pattern on the top cabinetry"
           ],
           "materials": [
-            "Wood, possibly teak, with glossy finish"
+            "Painted MDF",
+            "Acrylic paint"
           ],
-          "finish": "Glossy, polished"
-        },
-        {
-          "type": "Countertop",
-          "features": [
-            "Stainless steel surface"
-          ],
-          "materials": [
-            "Stainless steel"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Backsplash",
-          "features": [
-            "Decorative tiles with blue and white patterns"
-          ],
-          "materials": [
-            "Ceramic tiles"
-          ],
-          "finish": "Glazed"
+          "finish": "Glossy white with blue accents"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, blue, white tiles, stainless steel grey"
+          "White",
+          "Blue",
+          "Yellow"
         ],
         "materials": [
-          "Wood, metal, ceramic tiles"
+          "Painted MDF",
+          "Acrylic paint"
         ],
-        "lighting": "Natural light from windows",
-        "texture": "Smooth, glossy surfaces with a mix of matte and smooth textures"
+        "lighting": "Natural light with overhead lighting",
+        "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, more of a modern Indian aesthetic",
+        "regional_style": "Not clearly identifiable, but could be from a modernized urban Indian home",
         "traditional_elements": [
-          "Wooden cabinets, decorative backsplash"
+          "Diagonal pattern on the top cabinetry, reminiscent of traditional Indian motifs"
         ],
         "modern_adaptations": [
-          "Integrated appliances, modern cabinetry design"
+          "Contemporary cabinetry design with modern materials and finishes"
         ],
-        "space_utilization": "Efficient L-shaped cabinets with ample storage and workspace",
-        "cultural_significance": "Modern interpretation of traditional Indian design elements, such as the use of wood and decorative tiles"
+        "space_utilization": "Efficient use of space with modular cabinetry",
+        "cultural_significance": "The traditional pattern on the cabinets subtly references Indian design elements, blending modern and traditional aesthetics"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -72,22 +56,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This modern Indian kitchen features a L-shaped arrangement of built-in cabinets with a glossy teak finish, a stainless steel countertop, and a decorative backsplash with blue and white patterned tiles. The space is well-lit with natural light and has a clean, contemporary aesthetic that incorporates traditional Indian design elements such as the use of wood and decorative tiles.",
+      "description": "A modern kitchen with a contemporary cabinetry design, featuring a traditional Indian motif on the top cabinetry in the form of a diagonal pattern. The room has a white and blue color scheme with glossy finishes, creating a clean and stylish aesthetic while subtly incorporating traditional Indian design elements.",
       "metadata": {
         "tags": [
-          "Kitchen",
-          "Modern Indian",
-          "Glossy Teak",
-          "Stainless Steel",
-          "Decorative Backsplash"
+          "Modern Kitchen",
+          "Indian Influences",
+          "Contemporary Design",
+          "White and Blue Palette",
+          "Glossy Finishes"
         ],
-        "budget_indicator": "Moderate to high, as it includes premium materials like wood and stainless steel",
-        "space_type": "Residential kitchen",
+        "budget_indicator": "Moderate, with the use of modern materials but traditional cultural elements",
+        "space_type": "Residential Kitchen",
         "functionality": "Primary purpose is for food preparation and storage",
-        "indian_specific": "Use of teak for cabinetry and decorative tiles"
+        "indian_specific": "Diagonal pattern on top cabinetry referencing traditional Indian motifs"
       }
     }
   },
-  "cached_at": 1753449464764,
+  "cached_at": 1754492209912,
   "cache_key": "a6bb31ea8ffb72e19e28b46ccee12260"
 }

@@ -4,97 +4,83 @@
     "image_id": "img_188",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Contemporary Indian",
+      "theme": "Minimalistic Traditional",
       "primary_features": [
-        "Double bed with built-in storage",
-        "Built-in wardrobes",
-        "Wooden door"
+        "Wardrobe",
+        "Doors",
+        "Wall paneling"
       ],
       "objects": [
         {
-          "type": "Bed with built-in storage",
+          "type": "Wardrobe",
           "features": [
-            "Double-sized",
-            "Storage drawers underneath"
+            "White paneling with geometric designs",
+            "Brown wooden accents",
+            "Mirror above the wardrobe"
           ],
           "materials": [
-            "Wood (likely teak)",
-            "Metal"
+            "Wood, MDF",
+            "Glass for mirror"
           ],
-          "finish": "Polished and smooth"
+          "finish": "Smooth wooden finish, glossy glass"
         },
         {
-          "type": "Built-in wardrobes",
+          "type": "Doors",
           "features": [
-            "Integrated into the wall",
-            "White with wooden accents"
+            "Brown wooden",
+            "Carved details"
           ],
           "materials": [
-            "Wood (likely teak)",
-            "MDF"
+            "Wood"
           ],
-          "finish": "Matte white with wood grain finish"
-        },
-        {
-          "type": "Wooden door",
-          "features": [
-            "Double doors with a geometric design"
-          ],
-          "materials": [
-            "Wood (likely teak)"
-          ],
-          "finish": "Natural wood with a glossy finish"
+          "finish": "Natural wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Brown",
-          "Gold",
-          "Beige"
+          "Black"
         ],
         "materials": [
-          "Wood (teak, bamboo, MDF)",
-          "Metal"
+          "Wood",
+          "MDF",
+          "Glass"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Smooth surfaces with some matte finishes"
+        "lighting": "Neutral, ambient lighting",
+        "texture": "Smooth wooden texture, glossy glass"
       },
       "indian_context": {
-        "regional_style": "Not specifically indicative of a regional style, but contemporary",
+        "regional_style": "Maharashtrian",
         "traditional_elements": [
-          "Carved wooden elements on the bed frame"
+          "Wooden wardrobe with geometric designs",
+          "Carved wooden doors"
         ],
         "modern_adaptations": [
-          "Integrated storage solutions, minimalist design"
+          "Minimalistic wardrobe design with contemporary finishes"
         ],
-        "space_utilization": "Efficient use of space with built-in wardrobes and storage",
-        "cultural_significance": "The use of wood (likely teak) is significant in Indian interiors for its durability and cultural association with quality and tradition"
+        "space_utilization": "Efficient use of space with wardrobe and doors",
+        "cultural_significance": "The wardrobe's geometric design and wooden elements reflect traditional craftsmanship and regional styles"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a bedroom with a modern twist on traditional Indian design. The wardrobe features a geometric pattern in white, contrasted with dark brown wooden accents, embodying a blend of traditional craftsmanship and contemporary aesthetics. The wooden door with carved details adds to the traditional Indian influence, reflecting the cultural significance of wooden furniture in Indian homes. The overall design is clean and efficient, utilizing space effectively while maintaining cultural relevance.",
+      "metadata": {
+        "tags": [
+          "Minimalistic, Indian Design, Traditional, Wardrobe, Wooden Doors, Geometric Patterns"
+        ],
+        "budget_indicator": "Moderate, featuring high-quality materials like MDF and glass",
+        "space_type": "Residential Bedroom",
+        "functionality": "Sleeping and storage area",
+        "indian_specific": "Traditional wooden elements and geometric patterns"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This contemporary Indian bedroom features a stylish blend of traditional and modern elements. The double bed with built-in storage showcases a functional design, while the built-in wardrobes offer efficient space utilization. The use of wood (likely teak) highlights the cultural significance of this material in Indian interiors, emphasizing quality and tradition. The combination of smooth and matte finishes, along with the geometric design on the wooden door, adds a modern twist to the traditional elements.",
-    "metadata": {
-      "tags": [
-        "Contemporary Indian",
-        "Bedroom",
-        "Built-in Storage",
-        "Wooden Door",
-        "Teak",
-        "Minimalist Design"
-      ],
-      "budget_indicator": "Mid-range",
-      "space_type": "Residential - Bedroom",
-      "functionality": "Sleeping and storage",
-      "indian_specific": "Carved wooden elements, use of wood (likely teak), built-in storage solutions"
     }
   },
-  "cached_at": 1753449780151,
+  "cached_at": 1754492803504,
   "cache_key": "2c396274f75c875eee6d97a78f98a959"
 }

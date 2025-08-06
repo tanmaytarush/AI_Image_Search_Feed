@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1018/image_cropper_1729492000985.jpg",
+  "analysis": {
+    "image_id": "img_395",
+    "ai_generated_tags": {
+      "room": "Entrance Hall",
+      "theme": "Indian Traditional",
+      "primary_features": [
+        "wooden door frame",
+        "pillars with intricate carvings",
+        "wall-mounted mirror",
+        "floor tiles"
+      ],
+      "objects": [
+        {
+          "type": "wooden door frame",
+          "features": [
+            "crafted with intricate carvings"
+          ],
+          "materials": [
+            "sheesham or teak wood"
+          ],
+          "finish": "polished wood finish"
+        },
+        {
+          "type": "pillars with carvings",
+          "features": [
+            "decorative wooden pillars with floral patterns"
+          ],
+          "materials": [
+            "sheesham or teak wood"
+          ],
+          "finish": "polished wood finish"
+        },
+        {
+          "type": "wall-mounted mirror",
+          "features": [
+            "horizontal mirror in a wooden frame"
+          ],
+          "materials": [
+            "wooden frame with metal elements"
+          ],
+          "finish": "polished wood and metallic finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "earthy tones of wood, white walls, wooden pillar colors, mirrored surface"
+        ],
+        "materials": [
+          "sheesham or teak wood, brass, glass, polished stone tiles"
+        ],
+        "lighting": "soft natural light from the left side",
+        "texture": "smooth polished wood, intricate carvings, glossy glass, tiled floor"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "wooden pillars with carvings",
+          "horizontal mirror",
+          "polished stone tiles"
+        ],
+        "modern_adaptations": [
+          "integration of polished stone tiles and modern lighting"
+        ],
+        "space_utilization": "efficient use of space with functional placement of objects",
+        "cultural_significance": "The design elements reflect traditional Northern Indian architectural styles, often seen in courtyards and entrance halls, symbolizing hospitality and welcoming."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases an entrance hall in a traditional Northern Indian style, featuring a wooden door frame with intricate carvings, decorative pillars with floral patterns, and a wall-mounted mirror in a wooden frame. The space is complemented by polished stone tiles on the floor, creating a warm and inviting atmosphere. The use of wood and brass elements reflects the rich cultural heritage of Northern India, emphasizing craftsmanship and attention to detail.",
+    "metadata": {
+      "tags": [
+        "Indian architecture",
+        "traditional entrance",
+        "wooden carvings",
+        "horizontal mirror",
+        "polished stone tiles"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Entrance Hall",
+      "indian_specific": "Wooden pillars with carvings, horizontal mirror, polished stone tiles"
+    }
+  },
+  "cached_at": 1754496150545,
+  "cache_key": "73f775c259352b5d445ba6e0d1323e5a"
+}

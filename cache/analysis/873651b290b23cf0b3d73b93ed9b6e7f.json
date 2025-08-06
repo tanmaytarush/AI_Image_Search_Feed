@@ -4,91 +4,101 @@
     "image_id": "img_112",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Minimalist Modern",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Blue wardrobe with wooden drawers",
+        "Light blue cabinets",
         "Teal headboard",
+        "Wooden drawers",
         "White bedding"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Cabinet",
           "features": [
-            "Light blue color with four doors",
-            "Wooden drawers with brass handles"
+            "Light blue, modern design, multiple drawers"
           ],
           "materials": [
-            "Painted MDF or similar",
-            "Wooden drawers"
+            "Painted wood"
           ],
-          "finish": "Smooth and glossy finish"
+          "finish": "Sleek and smooth finish"
         },
         {
           "type": "Headboard",
           "features": [
-            "Teal color",
-            "Textured surface"
+            "Teal color, textured appearance, decorative design"
           ],
           "materials": [
             "Fabric or leatherette"
           ],
-          "finish": "Textured and embossed"
+          "finish": "Textured and glossy"
         },
         {
-          "type": "Bedding",
+          "type": "Bed",
           "features": [
-            "White sheets and a pillow"
+            "White bedding, modern design"
           ],
           "materials": [
-            "Cotton or similar fabric"
+            "Cotton or linen"
           ],
-          "finish": "Smooth and plain"
+          "finish": "Smooth and crisp"
+        },
+        {
+          "type": "Drawers",
+          "features": [
+            "Wooden, polished, and integrated into the cabinet"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished and glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Teal, light blue, white, brown"
+          "Teal, light blue, white"
         ],
         "materials": [
-          "MDF, wood, fabric, leatherette"
+          "Painted wood, fabric, polished wood"
         ],
-        "lighting": "Natural light coming from the left side",
-        "texture": "Glossy wardrobe finish, textured headboard, smooth bedding"
+        "lighting": "Natural light, possibly from a window out of frame",
+        "texture": "Textured headboard, smooth cabinet, polished drawers"
       },
       "indian_context": {
-        "regional_style": "Not indicative of a specific regional Indian style",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Minimalist design with modern materials"
+        "regional_style": "No specific regional influence observed",
+        "traditional_elements": [
+          "Modern interpretation of Indian blue and white color scheme"
         ],
-        "space_utilization": "Efficient use of vertical space with wardrobe",
-        "cultural_significance": "No culturally significant elements visible"
+        "modern_adaptations": [
+          "Integration of contemporary furniture style with traditional Indian color palette"
+        ],
+        "space_utilization": "Efficient use of vertical space with cabinets and drawers",
+        "cultural_significance": "The use of light blue and white aligns with traditional Indian color symbolism, often associated with peace and purity"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.7,
-        "primary_features": 0.83,
-        "objects": 0.87,
-        "indian_context": 0.6
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "A modern bedroom with a minimalist design, featuring a light blue wardrobe with wooden drawers and a teal headboard. The room uses a combination of smooth, glossy finishes and textured materials, with a focus on efficient space utilization. The absence of traditional Indian elements suggests a modern interpretation of Indian design principles.",
+      "description": "The image showcases a modern Indian-inspired bedroom with a light blue cabinet, a teal headboard, and white bedding. The room features a blend of traditional Indian color schemes with contemporary furniture design, emphasizing efficient space utilization. The light blue and white colors are reminiscent of traditional Indian design elements, symbolizing peace and purity.",
       "metadata": {
         "tags": [
-          "Minimalist",
-          "Modern",
+          "Modern Indian",
           "Bedroom",
-          "Blue",
+          "Light Blue",
           "Teal",
-          "Wooden",
-          "Minimalist Modern"
+          "White",
+          "Cabinet",
+          "Drawers"
         ],
-        "budget_indicator": "Moderate, with the use of modern materials and finishes",
-        "space_type": "Residential bedroom",
-        "functionality": "Primary purpose of sleeping and possibly minimal storage",
-        "indian_specific": "No Indian-specific design features visible"
+        "budget_indicator": "Moderate, materials include painted wood and polished finishes",
+        "space_type": "Residential, bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Integration of traditional Indian color palette into a modern design"
       }
     }
   },
-  "cached_at": 1753448425535,
+  "cached_at": 1754491251188,
   "cache_key": "873651b290b23cf0b3d73b93ed9b6e7f"
 }

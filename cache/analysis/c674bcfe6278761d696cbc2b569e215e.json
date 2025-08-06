@@ -2,81 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/297/image_cropper_1729172645955.jpg",
   "analysis": {
     "image_id": "img_361",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/297/image_cropper_1729172645955.jpg",
     "ai_generated_tags": {
-      "room": "Entryway",
-      "theme": "Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Wooden doors",
-        "Background paneling",
-        "Light switch"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Door",
+          "type": "furniture",
           "features": [
-            "Wooden with a simple design"
+            "traditional_style"
           ],
           "materials": [
-            "Wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "Natural wood finish"
-        },
-        {
-          "type": "Background paneling",
-          "features": [
-            "Horizontal stripes"
-          ],
-          "materials": [
-            "Painted wood"
-          ],
-          "finish": "Smooth"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Light blue",
-          "Brown"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Paint"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from the side",
-        "texture": "Smooth and clean"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Minimalist design elements"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with functional objects",
-        "cultural_significance": "Not applicable"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a minimalist entryway with a wooden door and light switch paneling. The color scheme is simple with white and light blue tones on the paneling and brown on the door. The design is functional and lacks traditional Indian elements, focusing on clean lines and natural materials.",
-      "metadata": {
-        "tags": [
-          "Minimalist",
-          "Entryway",
-          "Wooden door",
-          "Minimalist design",
-          "Clean lines"
-        ],
-        "budget_indicator": "Moderate, considering the use of natural wood and painted elements",
-        "space_type": "Residential",
-        "functionality": "Entrance to the home",
-        "indian_specific": "No Indian-specific design features are present"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729172645955.jpg"
   },
-  "cached_at": 1753460899572,
+  "cached_at": 1754495974999,
   "cache_key": "c674bcfe6278761d696cbc2b569e215e"
 }

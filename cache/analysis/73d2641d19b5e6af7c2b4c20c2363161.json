@@ -4,84 +4,112 @@
     "image_id": "img_233",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian Kitchen",
+      "theme": "Modern Indian Fusion",
       "primary_features": [
         "Glass cabinets",
-        "White and gray cabinetry",
-        "Integrated appliances"
+        "White countertops",
+        "Stainless steel appliances",
+        "Dark wood cabinets"
       ],
       "objects": [
         {
-          "type": "Cabinets",
+          "type": "Glass cabinets",
           "features": [
-            "White doors with glass panels on upper cabinets",
-            "Gray lower cabinets with soft-close drawers"
+            "Transparent glass panels",
+            "Silver metal frames"
           ],
           "materials": [
-            "Glass, MDF, metal"
+            "Glass",
+            "Metal"
           ],
-          "finish": "Smooth, glossy finish"
+          "finish": "Polished"
         },
         {
-          "type": "Appliances",
+          "type": "White countertops",
           "features": [
-            "Microwave above stove",
-            "Stove with grills"
+            "Smooth, glossy finish",
+            "Integrated sink"
           ],
           "materials": [
-            "Not clearly visible"
+            "Marble or quartz"
           ],
-          "finish": "Integrated with cabinetry"
+          "finish": "Shiny"
+        },
+        {
+          "type": "Stainless steel appliances",
+          "features": [
+            "Modern design",
+            "Integrated into the cabinetry"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "Smooth, reflective"
+        },
+        {
+          "type": "Dark wood cabinets",
+          "features": [
+            "Rich, dark tone",
+            "Wood grain visible"
+          ],
+          "materials": [
+            "Teak or Rosewood"
+          ],
+          "finish": "Natural, matte"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Gray",
-          "Black",
-          "Silver"
+          "Dark brown",
+          "Silver",
+          "Black"
         ],
         "materials": [
           "Glass",
-          "MDF",
-          "Metal"
+          "Metal",
+          "Marble",
+          "Wood",
+          "Stainless steel"
         ],
-        "lighting": "Standard kitchen lighting with overhead lights",
-        "texture": "Clean and smooth surfaces"
+        "lighting": "Bright, natural light from ceiling lights and windows",
+        "texture": "Smooth, polished surfaces with a mix of matte and glossy textures"
       },
       "indian_context": {
-        "regional_style": "Not clearly indicative of a specific region",
+        "regional_style": "Gujarati or Maharashtrian Kitchen",
         "traditional_elements": [
-          "Not evident in this modern kitchen design"
+          "Use of dark wood for cabinetry",
+          "Dark color palette"
         ],
         "modern_adaptations": [
-          "Contemporary approach to Indian kitchen design with modern materials and layout"
+          "Integration of modern appliances and glass cabinets"
         ],
-        "space_utilization": "Efficient and functional layout with ample storage",
-        "cultural_significance": "Modern Indian kitchens often reflect a blend of traditional aesthetics and modern functionality, aiming for both form and function"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This modern Indian kitchen showcases a sleek, contemporary design with a blend of traditional elements and modern functionality. The space features glass and MDF cabinets with a glossy finish, integrated appliances, and efficient space utilization. The color palette includes white, gray, black, and silver, reflecting a clean and modern aesthetic typical of contemporary Indian kitchens.",
-      "metadata": {
-        "tags": [
-          "Modern Indian Kitchen",
-          "Glass Cabinets",
-          "White Kitchen Cabinets",
-          "Integrated Appliances"
-        ],
-        "budget_indicator": "Moderate, with the use of modern materials and finishes",
-        "space_type": "Residential kitchen",
-        "functionality": "Primary cooking and food preparation area",
-        "indian_specific": "Modern interpretation of Indian kitchen design"
+        "space_utilization": "Efficient layout with storage solutions integrated into cabinetry",
+        "cultural_significance": "Dark wood is often used in Gujarati and Maharashtrian kitchens to signify luck and prosperity"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This kitchen showcases a modern take on traditional Indian design, featuring dark wood cabinetry reminiscent of Gujarati or Maharashtrian styles, complemented by sleek stainless steel appliances and transparent glass cabinets. The space is well-lit and efficiently organized, reflecting contemporary design sensibilities while incorporating elements of Indian cultural symbolism, such as the use of dark wood to signify good fortune.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Kitchen",
+        "Dark Wood Cabinets",
+        "Glass Front Cabinets",
+        "Stainless Steel Appliances",
+        "Indian Cultural Elements"
+      ],
+      "budget_indicator": "Mid to High",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary cooking and food preparation area",
+      "indian_specific": "Dark wood cabinetry and cultural design elements"
     }
   },
-  "cached_at": 1753450264155,
+  "cached_at": 1754493574223,
   "cache_key": "73d2641d19b5e6af7c2b4c20c2363161"
 }

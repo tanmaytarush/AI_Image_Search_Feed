@@ -3,97 +3,97 @@
   "analysis": {
     "image_id": "img_322",
     "ai_generated_tags": {
-      "room": "Living room",
-      "theme": "Modern Indian",
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Built-in shelves",
-        "Geometric wall panels",
-        "Circular area rug",
-        "Neutral color palette"
+        "Modern furniture with traditional accents",
+        "Geometric patterned wall paneling",
+        "Embedded lighting fixtures",
+        "Open plan living"
       ],
       "objects": [
         {
-          "type": "Wall panels",
+          "type": "Couch",
           "features": [
-            "White with geometric patterns",
-            "Modern design"
+            "Modern design with a focus on comfort",
+            "Soft cushions for added comfort"
           ],
           "materials": [
-            "Painted wood or MDF"
+            "Fabric upholstery"
           ],
-          "finish": "Smooth, glossy finish"
+          "finish": "Smooth and polished"
         },
         {
-          "type": "Built-in shelves",
+          "type": "Wall Paneling",
           "features": [
-            "Integrated with wall panels",
-            "Storage solution"
+            "Geometric pattern in white and cream",
+            "Modern interpretation of traditional Indian design"
           ],
           "materials": [
-            "Painted wood"
+            "Painted or wallpapered panels"
           ],
-          "finish": "Similar to wall panels"
+          "finish": "Mat finish"
         },
         {
-          "type": "Rug",
+          "type": "Flooring",
           "features": [
-            "Circular shape",
-            "Neutral tones",
-            "Textured appearance"
+            "Light wood flooring in a modern style"
           ],
           "materials": [
-            "Polyester or cotton"
+            "Wood"
           ],
-          "finish": "Woven texture"
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Beige",
-          "Brown"
+          "Cream",
+          "Dark blue",
+          "Light brown"
         ],
         "materials": [
-          "Painted wood",
-          "MDF",
-          "Polyester",
-          "Cotton"
+          "Wood",
+          "Fabric",
+          "Paint"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth on walls, woven on rug"
+        "lighting": "Embedded lighting in ceiling panels",
+        "texture": "Smooth surfaces with geometric patterns"
       },
       "indian_context": {
-        "regional_style": "Moderate urban Indian",
-        "traditional_elements": [],
+        "regional_style": "No specific regional style is evident due to modern interpretation of design",
+        "traditional_elements": [
+          "Geometric patterns commonly found in traditional Indian design"
+        ],
         "modern_adaptations": [
-          "Integration of modern design with traditional Indian materials"
+          "Integration of modern furniture styles with traditional influences"
         ],
-        "space_utilization": "Efficient storage with minimal space waste, utilizing built-in shelves.",
-        "cultural_significance": "Neutral color palette is common in modern Indian design to create a serene and welcoming space."
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern Indian living room with a clean and minimalist design. The space features built-in shelves integrated with geometric wall panels, suggesting a focus on functionality and efficient use of space. A circular area rug adds a traditional touch, while the overall color palette of white, beige, and brown reflects a modern Indian aesthetic. The design uses elements like painted wood and MDF, typical in contemporary Indian interiors, to create a sophisticated yet approachable look.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Geometric design",
-          "Built-in shelves",
-          "Neutral color palette",
-          "Urban Indian design"
-        ],
-        "budget_indicator": "Moderate, due to use of painted wood and MDF for built-in shelves and geometric wall panels.",
-        "space_type": "Living room",
-        "functionality": "Storage and display area",
-        "indian_specific": "Integration of modern design with traditional Indian materials"
+        "space_utilization": "Open plan living with a focus on functionality and aesthetics",
+        "cultural_significance": "The geometric patterns may symbolize order and symmetry, commonly found in Indian art and design"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This interior space features a blend of modern design elements with traditional Indian influences, evident in the geometric patterns on the wall paneling. The living room is designed with a minimalist aesthetic, utilizing clean lines and a monochromatic color palette to create a serene and sophisticated atmosphere. The modern furniture pieces, while simple in form, incorporate traditional accents such as the geometric motifs, reflecting the cultural significance of symmetry and order in Indian design. The space is illuminated by embedded lighting fixtures, adding to the contemporary feel while subtly highlighting the geometric patterns on the wall. The overall design is a modern interpretation of traditional Indian design principles, emphasizing functionality and comfort in a living space.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Contemporary",
+        "Geometric patterns",
+        "Modern furniture",
+        "Living room"
+      ],
+      "budget_indicator": "Moderate to high, given the use of modern materials and finishes",
+      "space_type": "Residential",
+      "functionality": "Living space, designed for relaxation and comfort",
+      "indian_specific": "Geometric patterns and traditional design elements"
     }
   },
-  "cached_at": 1753460425246,
+  "cached_at": 1754495359819,
   "cache_key": "df5a36292aa7327ddca896f81e0debec"
 }

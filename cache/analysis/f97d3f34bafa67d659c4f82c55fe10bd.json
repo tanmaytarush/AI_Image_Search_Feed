@@ -3,50 +3,39 @@
   "analysis": {
     "image_id": "img_187",
     "ai_generated_tags": {
-      "room": "Not applicable",
-      "theme": "Not applicable",
+      "room": "Not applicable - This is a digital card or advertisement, not an interior space",
+      "theme": "Not applicable - This is a digital card or advertisement, not an interior space",
       "primary_features": [
-        "Logo text",
-        "Contact information",
-        "Social media icons"
+        "Digital image"
       ],
       "objects": [
         {
-          "type": "Text",
+          "type": "Digital card",
           "features": [
-            "Mano M Interior logo text",
-            "Contact details",
-            "Social media icons"
+            "Contains text and logos"
           ],
           "materials": [
-            "Not applicable"
+            "Digital"
           ],
-          "finish": "Not applicable"
+          "finish": "Not applicable - digital image"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Black",
-          "White",
-          "Red",
-          "Blue"
+          "White, black, gray, green, red"
         ],
         "materials": [
-          "Not applicable"
+          "Digital"
         ],
-        "lighting": "Not applicable",
-        "texture": "Not applicable"
+        "lighting": "Not applicable - digital image",
+        "texture": "Not applicable - digital image"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [
-          "Not applicable"
-        ],
-        "modern_adaptations": [
-          "Not applicable"
-        ],
-        "space_utilization": "Not applicable",
-        "cultural_significance": "Not applicable"
+        "regional_style": "Not applicable - digital card, not an interior space",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Not applicable - digital card, not an interior space",
+        "cultural_significance": "Not applicable - digital card, not an interior space"
       }
     },
     "confidence_scores": {
@@ -56,21 +45,18 @@
       "objects": 0,
       "indian_context": 0
     },
-    "description": "The image appears to be a business card or promotional graphic for 'Mano M Interior' containing their contact information and social media links. It does not depict an interior space or traditional Indian design elements.",
+    "description": "This is a digital card for 'MANO M INTERIOR,' which appears to be an interior design service. It includes text and logos for social media platforms and contact information, but it is not an interior space. There are no Indian design elements or features visible in this image.",
     "metadata": {
       "tags": [
-        "Interior Design",
-        "Business Card",
-        "Contact Information",
-        "Social Media",
-        "Modern Design"
+        "Interior Design Ad",
+        "Digital Card"
       ],
-      "budget_indicator": "Not applicable",
-      "space_type": "Not applicable",
-      "functionality": "Not applicable",
-      "indian_specific": "Not applicable"
+      "budget_indicator": "Not applicable - digital card, not an interior space",
+      "space_type": "Not applicable - digital card, not an interior space",
+      "functionality": "Not applicable - digital card, not an interior space",
+      "indian_specific": "Not applicable - digital card, not an interior space"
     }
   },
-  "cached_at": 1753449772646,
+  "cached_at": 1754492794382,
   "cache_key": "f97d3f34bafa67d659c4f82c55fe10bd"
 }

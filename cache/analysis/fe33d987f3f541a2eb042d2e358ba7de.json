@@ -2,88 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1399/image_cropper_1729756069057.jpg",
   "analysis": {
     "image_id": "img_364",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1399/image_cropper_1729756069057.jpg",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Contemporary with Indian Influences",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Casual seating arrangement",
-        "Decorative wall painting",
-        "People present"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Casual Seating",
+          "type": "furniture",
           "features": [
-            "Wooden structure",
-            "Modern design with simple upholstery"
+            "traditional_style"
           ],
           "materials": [
-            "Wood (likely teak)",
-            "Cotton fabric"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth and polished wood, soft fabric texture"
-        },
-        {
-          "type": "Wall Art",
-          "features": [
-            "Abstract design",
-            "Rich colors"
-          ],
-          "materials": [
-            "Painted canvas"
-          ],
-          "finish": "Glossy and vibrant"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Red",
-          "Green",
-          "Blue"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Canvas"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from outside the frame, possibly daylight",
-        "texture": "Smooth wood, soft fabric, glossy paint"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "No specific regional style evident, but there are Indian elements",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Casual seating with a modern touch"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Abstract wall art with vibrant colors"
+          "contemporary_design"
         ],
-        "space_utilization": "The space appears to be a casual living area, possibly a lounge or seating area",
-        "cultural_significance": "The wall art could be a form of modern Indian art or a way of expressing contemporary tastes"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern living room with casual seating and a vibrant wall art piece. The space appears to blend contemporary design with an Indian touch, evident in the colorful wall art and the choice of materials like wood, which is common in Indian interior design. The casual furniture and the use of bold colors suggest a relaxed, contemporary aesthetic.",
-      "metadata": {
-        "tags": [
-          "Contemporary Indian Design",
-          "Casual Living Space",
-          "Wall Art",
-          "Wooden Furniture",
-          "Bold Colors"
-        ],
-        "budget_indicator": "Moderate, with the use of high-quality materials like wood and canvas",
-        "space_type": "Residential Living Room",
-        "functionality": "Seating area for relaxation and socializing",
-        "indian_specific": "Casual seating with a modern twist, vibrant wall art"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729756069057.jpg"
   },
-  "cached_at": 1753460928862,
+  "cached_at": 1754495984307,
   "cache_key": "fe33d987f3f541a2eb042d2e358ba7de"
 }

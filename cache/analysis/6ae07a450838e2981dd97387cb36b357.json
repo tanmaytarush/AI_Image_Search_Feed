@@ -4,96 +4,91 @@
     "image_id": "img_147",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Contemporary with Indian Influences",
+      "theme": "Contemporary Indian Fusion",
       "primary_features": [
-        "Comfortable seating arrangement",
-        "Large window with curtains",
+        "Large sectional sofa",
+        "Teak wood paneling",
+        "Marble top coffee table",
         "Modern lighting fixtures",
-        "Teak wood elements",
-        "Marble flooring"
+        "Curtains with geometric pattern"
       ],
       "objects": [
         {
-          "type": "Teak Wood Coffee Table",
+          "type": "Sectional sofa",
           "features": [
-            "Curved edges",
-            "Polished finish",
-            "Intricate carvings"
+            "Multi-cushioned with deep seating",
+            "Wooden legs",
+            "Fabric upholstery"
           ],
           "materials": [
-            "Teak Wood"
+            "Fabric",
+            "Wood"
           ],
-          "finish": "Polished"
+          "finish": "Fabric has a textured look, wood has a polished finish"
         },
         {
-          "type": "Teak Wood Side Table",
+          "type": "Coffee table",
           "features": [
-            "Round top",
-            "Dovetail drawer",
-            "Curved legs"
+            "Rectangular shape",
+            "Marble top",
+            "Metal frame"
           ],
           "materials": [
-            "Teak Wood"
+            "Marble",
+            "Metal"
           ],
-          "finish": "Polished"
+          "finish": "Marble has a glossy finish, metal has a brushed finish"
         },
         {
-          "type": "Marble Flooring",
+          "type": "Teak wood paneling",
           "features": [
-            "Smooth surface",
-            "White marble tiles"
+            "Dark brown color",
+            "Vertical planks"
           ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Natural polished"
+          "materials": "Teak wood",
+          "finish": "Polished"
         },
         {
           "type": "Curtains",
           "features": [
-            "Matching with room decor",
-            "Heavy fabric"
+            "White with geometric pattern",
+            "Floor-length"
           ],
-          "materials": [
-            "Cotton"
+          "materials": "Fabric",
+          "finish": "Smooth"
+        },
+        {
+          "type": "Modern lighting fixtures",
+          "features": [
+            "Round chandeliers",
+            "Inline ceiling lights"
           ],
-          "finish": "Woven"
+          "materials": "Metal",
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Black",
-          "Gold",
-          "Gray"
+          "Dark brown, white, beige, silver, multicolored pattern"
         ],
         "materials": [
-          "Teak Wood",
-          "Marble",
-          "Cotton",
-          "Metal"
+          "Teak wood, marble, metal, fabric"
         ],
-        "lighting": "Lamp shades with warm lighting",
-        "texture": [
-          "Smooth marble",
-          "Polished wood",
-          "Textured cotton"
-        ]
+        "lighting": "Ample natural light with accent lighting from chandeliers and ceiling lights",
+        "texture": "Combination of smooth, glossy, and textured surfaces"
       },
       "indian_context": {
-        "regional_style": "Northern Indian Style",
+        "regional_style": "Northern Indian due to the use of teak wood and traditional furniture style",
         "traditional_elements": [
-          "Teak Wood Furniture",
-          "Carved elements",
-          "Marble Flooring"
+          "Teak wood paneling",
+          "Sectional sofa with traditional design"
         ],
         "modern_adaptations": [
           "Contemporary lighting fixtures",
-          "Minimalist design"
+          "Geometric pattern on curtains"
         ],
-        "space_utilization": "Open and spacious layout with multiple seating areas",
-        "cultural_significance": "Use of natural materials like teak and marble reflects traditional craftsmanship and aesthetic"
+        "space_utilization": "Efficient use of space with a large sofa and coffee table for social interaction",
+        "cultural_significance": "Utilization of teak wood reflects the importance of sustainability and traditional craftsmanship in Indian design"
       }
     },
     "confidence_scores": {
@@ -103,21 +98,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The living room showcases a blend of contemporary and traditional Indian design elements. The use of teak wood for furniture, paired with marble flooring, reflects a northern Indian aesthetic. The space is well-lit with modern lighting, featuring a comfortable seating arrangement, and large windows with heavy curtains that add a touch of elegance and privacy. The overall design emphasizes a harmonious balance between traditional craftsmanship and contemporary functionality, making it suitable for a modern lifestyle with cultural significance.",
+    "description": "This living room showcases a contemporary Indian fusion design, featuring a large sectional sofa with rich, dark wood paneling and modern lighting fixtures. The room includes a marble-top coffee table and floor-length curtains with a geometric pattern, blending traditional Indian elements with modern aesthetics. The use of teak wood highlights the cultural significance of sustainable and traditional craftsmanship.",
     "metadata": {
       "tags": [
-        "Indian interior design",
-        "Teak Wood",
-        "Marble",
-        "Northern Indian style",
-        "Contemporary furniture"
+        "Contemporary Indian style",
+        "Teak wood paneling",
+        "Marble coffee table",
+        "Modern lighting",
+        "Geometric curtains"
       ],
-      "budget_indicator": "Moderate, with high-end materials like marble and teak wood",
+      "budget_indicator": "Moderate to High, due to the use of high-quality materials like teak and marble",
       "space_type": "Residential living room",
-      "functionality": "Primary purpose is for relaxation and social gatherings",
-      "indian_specific": "Use of teak wood and marble blends traditional craftsmanship with modern comforts"
+      "functionality": "Socializing and relaxation",
+      "indian_specific": "Teak wood paneling, sectional sofa with traditional design, geometric pattern on curtains"
     }
   },
-  "cached_at": 1753449194996,
+  "cached_at": 1754491813980,
   "cache_key": "6ae07a450838e2981dd97387cb36b357"
 }

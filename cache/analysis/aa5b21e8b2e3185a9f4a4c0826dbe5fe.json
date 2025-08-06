@@ -4,90 +4,98 @@
     "image_id": "img_230",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Contemporary Indian",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Integrated kitchen design",
-        "White cabinetry",
-        "Dark countertops",
-        "Built-in appliances"
+        "ountertop",
+        "backsplash",
+        "cabinetry"
       ],
       "objects": [
         {
-          "type": "Kitchen Island",
+          "type": "kitchen countertop",
           "features": [
-            "Rectangular shape",
-            "Integrated sink",
-            "Integrated countertop"
+            "smooth surface",
+            "light gray color"
           ],
           "materials": [
-            "Granite countertops",
-            "Copper accents"
+            "marble"
           ],
-          "finish": "High-gloss finish for the cabinetry and countertops"
+          "finish": "high-gloss polish"
         },
         {
-          "type": "Built-in Appliances",
+          "type": "backsplash",
           "features": [
-            "Hidden range hood",
-            "Integrated microwave",
-            "Fridge"
+            "rectangular tiles",
+            "gray color",
+            "horizontal layout"
           ],
           "materials": [
-            "Modern stainless steel"
+            "ceramic tiles"
           ],
-          "finish": "Polished stainless steel for a sleek look"
+          "finish": "matte"
+        },
+        {
+          "type": "cabinetry",
+          "features": [
+            "black color",
+            "shaker style",
+            "closed doors"
+          ],
+          "materials": [
+            "MDF"
+          ],
+          "finish": "high-gloss"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White cabinetry",
-          "Dark countertops",
-          "Copper accents",
-          "Gray walls"
+          "light gray",
+          "dark gray",
+          "black",
+          "white"
         ],
         "materials": [
-          "Granite",
-          "Copper",
-          "Stainless steel",
-          "Glass"
+          "marble",
+          "ceramic tiles",
+          "MDF"
         ],
-        "lighting": "Ambient lighting with recessed ceiling lights",
-        "texture": "Smooth surfaces with a polished look"
+        "lighting": "bright, likely overhead fixtures",
+        "texture": "smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Mumbai Contemporary",
+        "regional_style": "Not distinctly regional as it's modern",
         "traditional_elements": [
-          "Absence of traditional Indian elements"
+          "absent"
         ],
         "modern_adaptations": [
-          "Integration of modern appliances with traditional design principles"
+          "integration of Indian design aesthetics into contemporary style"
         ],
-        "space_utilization": "Efficient space utilization with built-in appliances and island",
-        "cultural_significance": "The use of modern materials and design principles, reflecting a contemporary interpretation of Indian design"
+        "space_utilization": "efficient use of space with closed cabinetry for storage",
+        "cultural_significance": "The design reflects a modern take on Indian interior design, blending traditional elements with contemporary functionality"
       },
       "confidence_scores": {
         "room": 0.95,
-        "theme": 0.85,
+        "theme": 0.87,
         "primary_features": 0.89,
         "objects": 0.92,
-        "indian_context": 0.87
+        "indian_context": 0.9
       },
-      "description": "This kitchen showcases a modern Indian design approach with a contemporary twist. The sleek white cabinetry and dark granite countertops provide a clean and polished look, while the addition of copper accents adds a touch of traditional Indian aesthetics. The space is efficiently designed with built-in appliances, optimizing both functionality and visual appeal.",
+      "description": "This kitchen exemplifies a modern Indian design approach, featuring contemporary cabinetry with a high-gloss finish and a sleek counter top with a marble-like surface. The backsplash is composed of gray ceramic tiles arranged in a horizontal pattern, creating a clean and minimalist look. The black cabinetry offers a modern spin on traditional Indian cabinetry, while the use of marble and ceramic tiles aligns with the broader aesthetic preferences of Indian interior design, emphasizing both aesthetics and functionality.",
       "metadata": {
         "tags": [
           "Modern Indian",
-          "Contemporary Indian",
-          "Mumbai Design",
-          "Kitchen Island",
-          "Built-in Appliances"
+          "Kitchen Design",
+          "Contemporary Style",
+          "Marble Countertop",
+          "Ceramic Backsplash"
         ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Residential",
-        "functionality": "Primary kitchen space",
-        "indian_specific": "Modern adaptation of traditional Indian design elements"
+        "budget_indicator": "Moderate to high, due to the use of materials like marble and potentially MDF for the cabinetry",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose is for food preparation, storage, and possibly casual dining or entertaining",
+        "indian_specific": "The design incorporates modern interpretations of Indian materials and aesthetics"
       }
     }
   },
-  "cached_at": 1753459493504,
+  "cached_at": 1754493528429,
   "cache_key": "aa5b21e8b2e3185a9f4a4c0826dbe5fe"
 }

@@ -3,67 +3,75 @@
   "analysis": {
     "image_id": "img_124",
     "ai_generated_tags": {
-      "room": "celebration display",
-      "theme": "festival greeting",
+      "room": "Hall",
+      "theme": "Diwali Celebration",
       "primary_features": [
-        "diyas"
+        "Diya lamps",
+        "Textured background",
+        "Colorful design",
+        "Text - 'Happy Diwali'"
       ],
       "objects": [
         {
-          "type": "diyas",
+          "type": "Diya lamps",
           "features": [
-            "cylindrical shape, lit candles"
+            "Three lit lamps with intricate designs"
           ],
           "materials": [
-            "ceramic or metal"
+            "Copper or brass"
           ],
-          "finish": "shiny, reflective"
+          "finish": "Shiny metallic"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "purple, pink, dark blue, gold"
+          "Purple",
+          "Blue",
+          "Gold",
+          "Pink",
+          "Yellow"
         ],
         "materials": [
-          "ceramic, metal"
+          "Metallic",
+          "Textured"
         ],
-        "lighting": "soft, ambient",
-        "texture": "smooth, glossy"
+        "lighting": "Bright and colorful",
+        "texture": "Smooth and glossy"
       },
       "indian_context": {
-        "regional_style": "generic Indian festival design",
+        "regional_style": "No specific regional style",
         "traditional_elements": [
-          "diya lighting"
+          "Diya lamps"
         ],
         "modern_adaptations": [
-          "simplified design"
+          "Modern digital art design"
         ],
-        "space_utilization": "non-applicable, as it is a graphic",
-        "cultural_significance": "represents lighting during religious and cultural festivals in India"
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.95,
-        "primary_features": 0.9,
-        "objects": 0.95,
-        "indian_context": 0.8
-      },
-      "description": "This image is a festive greeting card with diya lamps, a traditional Indian symbol of light, used in celebrations. The color palette is vibrant, with a focus on purple and pink hues, creating a celebratory atmosphere. The diya is centrally placed, symbolizing the lighting during festivals like Diwali, which is common in Indian culture. The design is simple and modern, suitable for digital communication in contemporary settings.",
-      "metadata": {
-        "tags": [
-          "festival",
-          "diya",
-          "purple",
-          "pink",
-          "celebration"
-        ],
-        "budget_indicator": "affordable, due to digital media",
-        "space_type": "celebration card",
-        "functionality": "greeting card for festive occasions",
-        "indian_specific": "use of diya as a cultural symbol"
+        "space_utilization": "No physical space, a digital artwork",
+        "cultural_significance": "Celebration of Diwali, a festival of lights in India"
       }
+    },
+    "confidence_scores": {
+      "room": 0.8,
+      "theme": 0.95,
+      "primary_features": 0.9,
+      "objects": 0.9,
+      "indian_context": 0.9
+    },
+    "description": "A digital artwork celebrating Diwali with three lit diya lamps, vibrant colors, and a festive message. The design incorporates traditional Indian elements, such as the diya lamps, against a textured background, creating a modern yet culturally relevant visual for the festival of lights.",
+    "metadata": {
+      "tags": [
+        "Diwali",
+        "Festival of Lights",
+        "Indian Festival",
+        "Copper Diya",
+        "Textured Background"
+      ],
+      "budget_indicator": "Low to moderate, as it is a digital artwork with no physical materials.",
+      "space_type": "Digital Design",
+      "functionality": "Decorative and festive",
+      "indian_specific": "Diya lamps and festive message"
     }
   },
-  "cached_at": 1753448730811,
+  "cached_at": 1754491422822,
   "cache_key": "083d3dd381c46081a6c8c00226ce7836"
 }

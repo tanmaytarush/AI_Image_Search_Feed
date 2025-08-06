@@ -3,99 +3,73 @@
   "analysis": {
     "image_id": "img_157",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modern Indian",
+      "room": "Spare Room / Utility",
+      "theme": "Minimalist with Indian Influences",
       "primary_features": [
-        "U-shaped counter",
-        "stainless steel cabinets",
-        "wooden shelves",
-        "lighting fixture"
+        "Metallic furniture",
+        "Walls with exposed wall structure",
+        "Flooring with tiles"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "Metallic Furniture",
           "features": [
-            "Shiny, reflective surface",
-            "U-shaped arrangement",
-            "Installed on the wall"
+            "Modern design",
+            "Metallic finish",
+            "Sleek lines"
           ],
           "materials": [
-            "Stainless steel"
+            "Metal",
+            "Paint"
           ],
-          "finish": "High-gloss, polished"
-        },
-        {
-          "type": "Shelf",
-          "features": [
-            "Wooden, vertical",
-            "Integrated with cabinets",
-            "Natural wood finish"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Unpolished, natural"
-        },
-        {
-          "type": "Lighting",
-          "features": [
-            "Modern, overhead",
-            "Embedded in the wall",
-            "Circular design"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Brushed metal, matte"
+          "finish": "Glossy metallic finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Silver",
-          "Brown"
+          "Metallic silver",
+          "Neutral gray"
         ],
         "materials": [
-          "Stainless steel",
-          "Wood",
-          "Metal"
+          "Metal",
+          "Concrete"
         ],
-        "lighting": "Warm, ambient lighting from the fixture",
-        "texture": "Combination of smooth and textured surfaces"
+        "lighting": "Natural light from unseen windows",
+        "texture": "Smooth metallic surfaces, rough concrete texture"
       },
       "indian_context": {
-        "regional_style": "Maharashtrian",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Integration of stainless steel and wood",
-          "U-shaped counter design"
+        "regional_style": "West Indian",
+        "traditional_elements": [
+          "None visible"
         ],
-        "space_utilization": "Optimal use of vertical space with shelves and cabinets",
-        "cultural_significance": "This style is modern and reflects contemporary Indian design trends with a focus on functionality and aesthetics."
+        "modern_adaptations": [
+          "Minimalist interpretation of Indian design"
+        ],
+        "space_utilization": "Efficient use of space with furniture against walls",
+        "cultural_significance": "Modern adaptation of traditional Indian design elements adapted to contemporary trends"
       },
       "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
+        "room": 0.85,
+        "theme": 0.78,
+        "primary_features": 0.83,
+        "objects": 0.88,
+        "indian_context": 0.75
       },
-      "description": "The image depicts a modern kitchen with a U-shaped counter design, stainless steel cabinets, and wooden shelves. The space utilizes a combination of traditional and modern materials, highlighting a contemporary Indian design approach. The lighting fixture adds a touch of modernity to the otherwise traditional elements. The overall layout is compact and efficient, making it suitable for a residential kitchen space.",
+      "description": "The image depicts a modern, minimalist spare room with a contemporary Indian influence. The metallic furniture, characterized by sleek lines and a glossy finish, is a modern adaptation of traditional Indian design elements. The room features an exposed wall structure and tiled flooring, with natural light entering from an unseen window, enhancing the space's functionality. The color palette is dominated by metallic silver and neutral gray tones, reflecting the minimalist aesthetic. The room is efficiently organized with furniture placed against the walls, maximizing the use of available space. While there are no traditional Indian elements like jharokha or carved wood, the metallic furniture and design philosophy draw inspiration from Indian architectural and material choices, particularly in the West Indian region.",
       "metadata": {
         "tags": [
-          "Modern Indian Kitchen",
-          "U-shaped counter",
-          "Stainless steel cabinets",
-          "Wooden shelves",
-          "Maharashtrian style"
+          "Modern Indian",
+          "Minimalist Design",
+          "Metallic Furniture",
+          "West Indian Influence"
         ],
-        "budget_indicator": "Moderate, due to the use of stainless steel and polished wood",
-        "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is for food preparation and storage",
-        "indian_specific": "Modern interpretation of traditional materials and design"
+        "budget_indicator": "Moderate",
+        "space_type": "Spare Room",
+        "functionality": "Storage or occasional use",
+        "indian_specific": "Modern interpretation of traditional Indian design elements"
       }
     }
   },
-  "cached_at": 1753449381132,
+  "cached_at": 1754492081442,
   "cache_key": "a7a6d562a1c9c1d093b8eac79783c4bd"
 }

@@ -2,76 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1727954723922.jpg",
   "analysis": {
     "image_id": "img_465",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1727954723922.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modular Contemporary",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Built-in wardrobes",
-        "Decorative blue stripes",
-        "Modern wardrobe design"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Built-in Wardrobes",
+          "type": "furniture",
           "features": [
-            "Modular design",
-            "Integrated storage spaces",
-            "Blue and white color scheme"
+            "traditional_style"
           ],
           "materials": [
-            "Painted wood",
-            "Plastic/Man-made panels"
+            "wood",
+            "fabric"
           ],
-          "finish": "Glossy painted surface"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Blue",
-          "Brown"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Painted wood",
-          "Plastic/Man-made panels"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Artificial lighting from above",
-        "texture": "Smooth painted surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable (Modern design)",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "None (Modern design)",
-          "No visible traditional Indian elements"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary furniture design"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space for storage",
-        "cultural_significance": "No cultural significance observed in the visible elements"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern bedroom with a focus on efficient storage solutions. The built-in wardrobes feature a modular design with a blue and white color scheme, utilizing painted wood and plastic/Man-made panels for the finish. The space is illuminated with artificial lighting from above, and the smooth painted surfaces contribute to a contemporary aesthetic. There are no traditional Indian elements or regional influences visible in this bedroom design.",
-      "metadata": {
-        "tags": [
-          "Modern Bedroom",
-          "Efficient Storage",
-          "Contemporary Design",
-          "White and Blue Color Scheme"
-        ],
-        "budget_indicator": "Moderate (Painted wood and plastic/Man-made panels)",
-        "space_type": "Residential",
-        "functionality": "Primary purpose is for storage and organization of clothing and other bedroom items",
-        "indian_specific": "No Indian-specific design features visible"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1727954723922.jpg"
   },
-  "cached_at": 1753462332591,
+  "cached_at": 1754496599708,
   "cache_key": "2b546919e1370dda7bf6fb6e6c7f9f40"
 }

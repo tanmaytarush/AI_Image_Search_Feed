@@ -3,75 +3,78 @@
   "analysis": {
     "image_id": "img_291",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Indian",
+      "room": "Bedroom",
+      "theme": "Contemporary Indian Interior Design",
       "primary_features": [
-        "geometric patterned wallpaper",
-        "louvered door",
-        "wooden flooring"
+        "Panelled walls with geometric patterns",
+        "Teak bed frame",
+        "Traditional brass finials"
       ],
       "objects": [
         {
-          "type": "louvered door",
+          "type": "Teak bed frame",
           "features": [
-            "slatted design",
-            "wooden finish",
-            "open louvered pattern"
+            "Solid wood construction",
+            "Carved details on headboard"
           ],
           "materials": [
-            "wood"
+            "Teak wood"
           ],
-          "finish": "lacquered"
+          "finish": "Natural wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white",
-          "gray",
-          "blue",
-          "brown",
-          "black"
+          "Brown (teak wood)",
+          "White (walls)",
+          "Multicolored (geometric patterns)"
         ],
         "materials": [
-          "wood",
-          "metal",
-          "plastic"
+          "Teak wood",
+          "Brass",
+          "Painted panels"
         ],
-        "lighting": "natural light from visible window",
-        "texture": "smooth wall texture, slatted door texture"
+        "lighting": "Natural lighting from a window",
+        "texture": [
+          "Smooth teak surface",
+          "Textured geometric patterns"
+        ]
       },
       "indian_context": {
-        "regional_style": "Modern Indian with a hint of traditional elements",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "geometric patterns, minimalistic approach"
+        "regional_style": "Rajasthan",
+        "traditional_elements": [
+          "Carved teak bed frame",
+          "Brass finials"
         ],
-        "space_utilization": "space appears to be an open concept with clear divisions",
-        "cultural_significance": "Modern interpretation of Indian design with a focus on aesthetics and functionality"
+        "modern_adaptations": [
+          "Contemporary geometric wall patterns"
+        ],
+        "space_utilization": "Efficient use of wall space with decorative elements",
+        "cultural_significance": "The use of teak and brass reflects traditional craftsmanship and cultural heritage"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern interpretation of traditional Indian interior design in a bedroom setting. The teak bed frame with carved details and brass finials is a nod to Rajasthani craftsmanship. The geometric patterns on the wall add a contemporary twist to the room, blending traditional with modern aesthetics. The natural wood finish of the bed frame contrasts with the white walls, making the room feel fresh and airy while still maintaining a connection to traditional Indian design elements.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Teak furniture",
+          "Rajasthan style",
+          "Contemporary design",
+          "Geometric patterns"
+        ],
+        "budget_indicator": "Moderate, with teak and brass being more expensive materials, but the geometric patterns also add a modern touch that could be more affordable.",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and relaxation area",
+        "indian_specific": "Carved teak bed frame, brass finials, geometric wall patterns"
       }
-    },
-    "confidence_scores": {
-      "room": 0.9,
-      "theme": 0.9,
-      "primary_features": 0.9,
-      "objects": 0.92,
-      "indian_context": 0.8
-    },
-    "description": "This interior space showcases a modern Indian design theme with a blend of contemporary and traditional elements. The room features geometric patterned wallpaper, a wooden floor, and a louvered door with a minimalist finish. The overall design prioritizes clean lines and an open layout, reflecting a contemporary approach to Indian interior design. The use of natural light and the integration of modern materials like metal and plastic align with the modern adaptation of traditional Indian elements, emphasizing a balance between tradition and innovation.",
-    "metadata": {
-      "tags": [
-        "Modern Indian",
-        "Geometric Patterns",
-        "Wooden Floors",
-        "Louvered Door",
-        "Minimalist Design"
-      ],
-      "budget_indicator": "Moderate to High, given the use of patterned wallpaper and modern materials",
-      "space_type": "Living Room",
-      "functionality": "Living and possibly dining space, designed for relaxation and entertainment",
-      "indian_specific": "Modern interpretation of traditional Indian design features"
     }
   },
-  "cached_at": 1753460034278,
+  "cached_at": 1754494734581,
   "cache_key": "612dd1383843b8a3641ea03083f797a1"
 }

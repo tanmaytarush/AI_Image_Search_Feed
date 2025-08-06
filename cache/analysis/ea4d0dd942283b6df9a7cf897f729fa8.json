@@ -3,100 +3,102 @@
   "analysis": {
     "image_id": "img_249",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Contemporary with Indian Influences",
+      "room": "Entryway",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Modular kitchen with glass doors",
-        "Marble backsplash",
-        "Rattan screen",
-        "Circle mirror"
+        "Marble countertop",
+        "Glass panel doors",
+        "Wicker screen",
+        "Built-in bar cabinet"
       ],
       "objects": [
         {
-          "type": "Refrigerator",
+          "type": "Glass panel doors",
           "features": [
-            "Gray door with wave pattern"
+            "Sleek design with frosted glass"
           ],
           "materials": [
-            "Metallic surface"
+            "Glass"
           ],
-          "finish": "Glossy"
+          "finish": "Smooth, frosted"
         },
         {
-          "type": "Modular kitchen",
+          "type": "Wicker screen",
           "features": [
+            "Traditional design with intricate patterns"
+          ],
+          "materials": [
+            "Wicker"
+          ],
+          "finish": "Woven texture"
+        },
+        {
+          "type": "Built-in bar cabinet",
+          "features": [
+            "Marble countertop",
+            "Wooden shelves",
             "Glass doors",
-            "Wooden frame"
+            "Wooden bar unit"
           ],
           "materials": [
-            "Glass",
-            "Wood"
+            "Marble",
+            "Wood",
+            "Glass"
           ],
-          "finish": "Matte"
-        },
-        {
-          "type": "Mirror",
-          "features": [
-            "Circular shape",
-            "Gold frame"
-          ],
-          "materials": [
-            "Glass",
-            "Metal"
-          ],
-          "finish": "Shiny"
+          "finish": "Sleek marble, polished wood, and transparent glass"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Gray",
-          "Gold",
-          "Brown"
+          "Brown",
+          "Black"
         ],
         "materials": [
           "Marble",
-          "Metal",
+          "Glass",
           "Wood",
-          "Glass"
+          "Wicker"
         ],
-        "lighting": "Soft ambient lighting with recessed lights in the ceiling",
-        "texture": "Smooth surfaces with some textured elements like the rattan screen"
+        "lighting": "Natural light from the left, no visible artificial lighting",
+        "texture": "Sleek marble, woven wicker, polished wood, and smooth glass"
       },
       "indian_context": {
-        "regional_style": "Not specific to any regional style",
+        "regional_style": "Not distinctly regional, but incorporates traditional elements",
         "traditional_elements": [
-          "Circle mirror"
+          "Wicker screen",
+          "Sleek design"
         ],
         "modern_adaptations": [
-          "Glass doors with wooden frame"
+          "Marble countertop"
         ],
-        "space_utilization": "Efficient use of vertical space with shelves and cabinets",
-        "cultural_significance": "Circle mirror often symbolizes completeness and unity in Indian culture"
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "Cultural relevance in the use of wicker and the overall modern interpretation of traditional materials"
       }
     },
     "confidence_scores": {
       "room": 0.95,
-      "theme": 0.9,
-      "primary_features": 0.92,
-      "objects": 0.89,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This contemporary kitchen features a sleek design with a blend of modern and traditional Indian elements. The modular kitchen with glass doors and wooden frame showcases a modern twist on traditional craftsmanship. A circular mirror with a gold frame adds a touch of elegance, while the rattan screen introduces a natural and warm element, reflecting Indian weaving traditions. The white marble backsplash and gold accents on the hardware emphasize the sophistication of the space. The soft ambient lighting enhances the overall aesthetic, creating a warm and inviting atmosphere.",
+    "description": "The image depicts a modern Indian-inspired entryway with a sleek design. The space features a built-in bar cabinet with a marble countertop, wooden shelves, and glass doors. A traditional wicker screen adds a touch of cultural significance, while the overall aesthetic is contemporary. The space is well-organized, utilizing built-in furniture to maximize storage and functionality. The color palette is neutral, with white, gray, brown, and black, creating a sophisticated look. The lighting is natural, coming from the left side, which highlights the smooth textures of the marble and wood.",
     "metadata": {
       "tags": [
-        "Contemporary Kitchen",
-        "Indian Influences",
-        "Modular Design",
-        "Circle Mirror",
-        "Marble Backsplash"
+        "modern Indian",
+        "entryway",
+        "marble countertop",
+        "wicker screen",
+        "built-in furniture"
       ],
-      "budget_indicator": "Moderate to High, due to the use of high-quality materials like marble and glass",
-      "space_type": "Residential Kitchen",
-      "functionality": "Primary purpose is for food preparation and storage, with additional space for casual dining and entertaining",
-      "indian_specific": "Circle mirror and rattan screen, reflecting traditional Indian craftsmanship and design"
+      "budget_indicator": "Mid to high, due to the use of marble and glass",
+      "space_type": "Residential",
+      "functionality": "Entrance and storage",
+      "indian_specific": "Wicker screen"
     }
   },
-  "cached_at": 1753450497430,
+  "cached_at": 1754494200651,
   "cache_key": "ea4d0dd942283b6df9a7cf897f729fa8"
 }

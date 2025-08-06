@@ -2,97 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1341/image_cropper_1729755494071.jpg",
   "analysis": {
     "image_id": "img_405",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1341/image_cropper_1729755494071.jpg",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "White cabinetry",
-        "Modern fixtures",
-        "Teal accents",
-        "Compact layout"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "furniture",
           "features": [
-            "Vertical panel doors",
-            "Flat top",
-            "Integrated handles"
+            "traditional_style"
           ],
           "materials": [
-            "MDF or engineered wood",
-            "Teak or similar wood for accents"
+            "wood",
+            "fabric"
           ],
-          "finish": "Matte finish, possibly with a protective coating"
-        },
-        {
-          "type": "Countertop",
-          "features": [
-            "Dark laminate or solid surface",
-            "Clean lines"
-          ],
-          "materials": [
-            "Man-made composite material"
-          ],
-          "finish": "Smooth and glossy"
-        },
-        {
-          "type": "Appliances",
-          "features": [
-            "Compact microwave",
-            "Modern design"
-          ],
-          "materials": [
-            "Metal and plastic"
-          ],
-          "finish": "Metallic and plastic glossy finishes"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, Teal, Black"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood, Composite, Metal, Plastic"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light with artificial lighting, likely overhead",
-        "texture": "Smooth surfaces with some wood grain accents"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Likely from a modern urban Indian home, possibly with influences from Gujarati or Marathi styles",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Teal accents reminiscent of Gujarati saris",
-          "Carved wood elements (implied by cabinet design)"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Compact furniture design, modern finishes, minimalist approach"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with vertically mounted cabinets and a clean, uncluttered design",
-        "cultural_significance": "The teal accents could symbolize prosperity, and the overall clean, modern look reflects contemporary urban living"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "This kitchen features a modern Indian design with a focus on clean lines and efficient space usage. The white cabinetry with teal accents is reminiscent of traditional Gujarati or Marathi interior designs, where vibrant colors are often used to add a touch of cultural vibrancy. The compact layout and modern appliances suggest a contemporary urban living space, blending traditional aesthetics with modern functionality.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Modern Indian Kitchen",
-        "Teal Accents",
-        "Compact Design",
-        "Urban Living",
-        "Wood and Composite Materials"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, with a focus on functional materials and finishes",
-      "space_type": "Residential Kitchen",
-      "functionality": "Primary cooking and storage space",
-      "indian_specific": "Teal accents and vertical cabinet design"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729755494071.jpg"
   },
-  "cached_at": 1753461497570,
+  "cached_at": 1754496216113,
   "cache_key": "4365a81cd89652aef4242982176c1ffb"
 }

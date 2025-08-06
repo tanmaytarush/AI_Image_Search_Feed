@@ -6,85 +6,77 @@
       "room": "Living Room",
       "theme": "Contemporary Indian",
       "primary_features": [
-        "Wooden partition",
-        "Wall-mounted TV",
-        "Decorative lighting",
-        "Buddha statue"
+        "Wooden paneling",
+        "Cascading lights",
+        "Buddha statue",
+        "Floral decor",
+        "Television"
       ],
       "objects": [
         {
-          "type": "Wooden Partition",
-          "features": [
-            "Vertical slats",
-            "Dark wood finish"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Wall-Mounted TV",
-          "features": [
-            "Modern flat-screen design"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Sleek black"
-        },
-        {
-          "type": "Decorative Lighting",
-          "features": [
-            "Circular pendants",
-            "Gold accents"
-          ],
-          "materials": [
-            "Metal",
-            "Glass"
-          ],
-          "finish": "Rounded with metallic finish"
-        },
-        {
-          "type": "Buddha Statue",
+          "type": "Buddha statue",
           "features": [
             "White ceramic",
-            "Sitting pose"
+            "Seated in lotus position",
+            "Cultural significance of Buddhism"
           ],
           "materials": [
             "Ceramic"
           ],
           "finish": "Glossy"
+        },
+        {
+          "type": "Floral decor",
+          "features": [
+            "Vases",
+            "Colorful flowers"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Shiny"
+        },
+        {
+          "type": "Television",
+          "features": [
+            "Flat-screen",
+            "Modern design"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Sleek"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown",
+          "Wood tones",
           "White",
-          "Dark wood",
-          "Gold",
           "Blue"
         ],
         "materials": [
           "Wood",
+          "Glass",
           "Metal",
-          "Ceramic",
-          "Glass"
+          "Ceramic"
         ],
-        "lighting": "Warm ambient lighting from decorative pendants",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "Cascading lights creating a warm ambiance",
+        "texture": "Smooth wooden panels, shiny ceramic, metallic accents"
       },
       "indian_context": {
-        "regional_style": "Southern Indian",
+        "regional_style": "Northern Indian",
         "traditional_elements": [
-          "Wooden partition",
-          "Decorative lighting"
+          "Buddha statue",
+          "Floral decor"
         ],
         "modern_adaptations": [
-          "Combination of traditional and modern elements"
+          "Cascading lights",
+          "Modern furniture"
         ],
-        "space_utilization": "Efficient use of space with a blend of decorative and functional elements",
-        "cultural_significance": "The inclusion of a Buddha statue reflects a blend of traditional spiritual elements with contemporary living spaces"
+        "space_utilization": "Efficient use of space with a display area for decor",
+        "cultural_significance": "Buddha statue represents spiritual and cultural importance in Indian homes"
       }
     },
     "confidence_scores": {
@@ -94,22 +86,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image showcases a living room with contemporary Indian design elements, featuring a wooden partition with vertical slats, a wall-mounted TV, and decorative lighting. The space is adorned with a white ceramic Buddha statue, adding a spiritual touch. The design incorporates traditional Indian aesthetics with modern interpretations, such as the combination of natural wood and sleek metals. The warm lighting from the pendants creates a cozy ambiance, complementing the overall modern yet culturally rich interior.",
+    "description": "A modern Indian living room with a contemporary design, featuring a wooden panelled display area showcasing a Buddha statue, floral decor, and a cascading light fixture. The space integrates traditional elements like the Buddha statue with a sleek, modern aesthetic. The color palette is warm with wood tones and white accents, creating a balanced and inviting atmosphere.",
     "metadata": {
       "tags": [
         "Living Room",
-        "Contemporary Indian",
-        "Wooden Partition",
-        "Wall-Mounted TV",
-        "Decorative Lighting",
-        "Buddha Statue"
+        "Indian Interior",
+        "Contemporary Design",
+        "Buddha Decor",
+        "Modern Furniture"
       ],
-      "budget_indicator": "Moderate",
+      "budget_indicator": "High, due to materials like wood, glass, and ceramic",
       "space_type": "Residential",
-      "functionality": "Entertainment and relaxation",
-      "indian_specific": "Wooden Partition, Buddha Statue, Decorative Lighting"
+      "functionality": "Multifunctional space for relaxation, entertainment, and spiritual reflection",
+      "indian_specific": "Buddha statue and floral decor"
     }
   },
-  "cached_at": 1753957759610,
+  "cached_at": 1754490786285,
   "cache_key": "99021e1cde34bf340ea34c24a25c2104"
 }

@@ -1,0 +1,111 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/308/image_cropper_1728305976837.jpg",
+  "analysis": {
+    "image_id": "img_302",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Fusion",
+      "primary_features": [
+        "Large L-shaped sofa",
+        "Rustic wooden coffee table",
+        "Round rug",
+        "Open-plan layout",
+        "Built-in shelves"
+      ],
+      "objects": [
+        {
+          "type": "L-shaped sofa",
+          "features": [
+            "Comfortable seating",
+            "Vastu-friendly placement"
+          ],
+          "materials": [
+            "Fabric upholstery",
+            "Wooden frame"
+          ],
+          "finish": "Smooth upholstery with a subtle sheen"
+        },
+        {
+          "type": "Rustic wooden coffee table",
+          "features": [
+            "Central placement",
+            "Organic shape"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Round rug",
+          "features": [
+            "Centers the seating area",
+            "Textured design"
+          ],
+          "materials": [
+            "Wool or synthetic blend"
+          ],
+          "finish": "Soft, plush texture"
+        },
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Storage solution",
+            "Display area"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Shiny, lacquered finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Cream, Brown, Navy blue, Red",
+          "Rustic wood tone, navy blue accents, red accents"
+        ],
+        "materials": [
+          "Fabric, Wood, Wool, Metal, Lacquer"
+        ],
+        "lighting": "Natural light from windows, overhead pendant lights",
+        "texture": "Soft fabric, smooth wood, textured rug, shiny lacquer"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra or Gujarat",
+        "traditional_elements": [
+          "Rustic wooden furniture",
+          "Marble accents"
+        ],
+        "modern_adaptations": [
+          "Open-plan design",
+          "Use of modern materials"
+        ],
+        "space_utilization": "Efficient use of open space",
+        "cultural_significance": "Combination of traditional craftsmanship with modern aesthetics, reflecting diverse cultural influences"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The living room showcases a modern Indian fusion design with a contemporary L-shaped sofa made of fabric and wood, a rustic wooden coffee table, and a round rug that adds texture. The space is organized with built-in shelves for storage and display, reflecting a practical yet stylish approach. The use of natural wood tones, navy blue accents, and red elements is typical of traditional Indian design, blending seamlessly with modern elements.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Interior",
+        "Living Room Design",
+        "Rustic Furniture",
+        "Open Plan Layout",
+        "Indian Decor"
+      ],
+      "budget_indicator": "Moderate, with a mix of traditional and modern materials",
+      "space_type": "Residential",
+      "functionality": "Social gathering and relaxation",
+      "indian_specific": "Rustic wooden furniture and subtle traditional accents"
+    }
+  },
+  "cached_at": 1754494926270,
+  "cache_key": "75e0128f082d54b83dd1eb6482ade434"
+}

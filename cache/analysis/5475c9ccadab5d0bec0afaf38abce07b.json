@@ -6,62 +6,47 @@
       "room": "Flooring",
       "theme": "Minimalist",
       "primary_features": [
-        "Wooden flooring with a warm tone"
+        "Wooden flooring"
       ],
-      "objects": [
-        {
-          "type": "Wooden flooring",
-          "features": [
-            "Natural wood grain, warm color tones"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Sanded and polished surface"
-        }
-      ],
+      "objects": [],
       "visual_attributes": {
         "colors": [
-          "Warm brown, beige"
+          "Natural wood tones"
         ],
         "materials": [
           "Wood"
         ],
-        "lighting": "Ambient lighting",
-        "texture": "Smooth, clean finish"
+        "lighting": "Natural light",
+        "texture": "Smooth wood grain"
       },
       "indian_context": {
         "regional_style": "Not applicable",
         "traditional_elements": [],
-        "modern_adaptations": [
-          "Minimalist design inspired by Indian aesthetics"
-        ],
-        "space_utilization": "Space is not partitioned; it appears to be a continuous area",
-        "cultural_significance": "No culturally significant elements observed"
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.75,
-        "primary_features": 0.95,
-        "objects": 0.9,
-        "indian_context": 0.6
-      },
-      "description": "This image showcases a close-up of a wooden flooring with a warm brown and beige color palette, reflecting a minimalist design approach. The wood grain and polished finish suggest a contemporary interpretation of traditional Indian craftsmanship, possibly inspired by the natural and earthy tones often found in Indian homes. The space is not partitioned, indicating it could be part of a larger open-plan interior or a hallway.",
-      "metadata": {
-        "tags": [
-          "Wooden flooring",
-          "Minimalist design",
-          "Indian aesthetic",
-          "Warm tones",
-          "Sanded and polished finish"
-        ],
-        "budget_indicator": "Moderate to High",
-        "space_type": "Indoor",
-        "functionality": "Space for walking or passage",
-        "indian_specific": "Minimalist interpretation of wood flooring"
+        "modern_adaptations": [],
+        "space_utilization": "Not applicable",
+        "cultural_significance": "Not applicable"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a section of a wooden flooring, likely teak, with a natural wood grain texture. The lighting appears to be natural, possibly from a nearby window, as indicated by the light spots on the floor. The overall aesthetic is minimalist, focusing on the natural beauty of the wood.",
+    "metadata": {
+      "tags": [
+        "Wooden Flooring",
+        "Minimalist Design",
+        "Natural Materials"
+      ],
+      "budget_indicator": "Low to Moderate",
+      "space_type": "Indoor",
+      "functionality": "Surface for walking or as part of an interior design",
+      "indian_specific": []
     }
   },
-  "cached_at": 1753459877385,
+  "cached_at": 1754494569606,
   "cache_key": "5475c9ccadab5d0bec0afaf38abce07b"
 }

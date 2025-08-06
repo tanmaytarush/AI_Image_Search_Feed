@@ -2,104 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00550.JPG",
   "analysis": {
     "image_id": "img_386",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00550.JPG",
     "ai_generated_tags": {
-      "room": "Porch or veranda",
-      "theme": "Colonial-Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Tile flooring",
-        "Decorative ceiling tiles",
-        "Plants and greenery",
-        "Wooden door"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Tile flooring",
+          "type": "furniture",
           "features": [
-            "Brown tiles with a glossy finish"
+            "traditional_style"
           ],
           "materials": [
-            "Ceramic"
+            "wood",
+            "fabric"
           ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Decorative ceiling tiles",
-          "features": [
-            "Red and white hexagonal tiles with a floral pattern"
-          ],
-          "materials": [
-            "Metal or composite material"
-          ],
-          "finish": "Painted"
-        },
-        {
-          "type": "Plants",
-          "features": [
-            "Potted plants with green leaves"
-          ],
-          "materials": [
-            "Plastic pots"
-          ],
-          "finish": "Standard"
-        },
-        {
-          "type": "Wooden door",
-          "features": [
-            "Dark wood with a smooth finish"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Painted"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown, white, green, red, black"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Ceramic, metal, plastic, wood"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from the ceiling and windows",
-        "texture": "Smooth surfaces with some textured elements like ceiling tiles"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Southern Indian Colonial",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Decorative ceiling tiles",
-          "Wooden door"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Modern planters and lighting fixtures"
+          "contemporary_design"
         ],
-        "space_utilization": "Open and airy, with a focus on natural light and greenery",
-        "cultural_significance": "The use of decorative ceiling tiles and wooden door reflects the regional architectural style, often seen in southern Indian homes. The greenery and natural light are also culturally significant as they promote a connection with nature."
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "This image depicts a colonial-inspired porch or veranda in an Indian setting. The space features a glossy ceramic tile floor, red and white decorative ceiling tiles with a floral pattern, a wooden door, and an abundance of potted plants. The design incorporates traditional elements such as decorative ceiling tiles and a wooden door, with modern adaptations like modern planters and lighting fixtures. The space is organized to maximize natural light and greenery, promoting a connection with nature and a sense of openness.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Indian colonial style",
-        "porch",
-        "veranda",
-        "decorative ceiling tiles",
-        "wooden door",
-        "greenery",
-        "natural light"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, due to the use of ceramic tiles and decorative ceiling tiles",
-      "space_type": "Residential",
-      "functionality": "Relaxation and outdoor living",
-      "indian_specific": "Decorative ceiling tiles, wooden door, and greenery"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "jpeg-optimizer_ABN00550.JPG"
   },
-  "cached_at": 1753461268710,
+  "cached_at": 1754496102682,
   "cache_key": "da274d8f1efe6e9e27f48c8970b05b80"
 }

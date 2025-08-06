@@ -4,73 +4,51 @@
     "image_id": "img_312",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian",
+      "theme": "Modern Indian kitchen",
       "primary_features": [
-        "Countertop",
-        "Appliances",
-        "Wall unit"
+        "White countertop",
+        "Blue backsplash",
+        "Oregon maple cabinets",
+        "Galley-style layout"
       ],
       "objects": [
         {
-          "type": "Countertop",
+          "type": "Cabinet",
           "features": [
-            "Smooth surface",
-            "Light color"
+            "Traditional solid wood with carved designs",
+            "Oregon maple"
           ],
           "materials": [
-            "Marble"
+            "Oregon maple"
           ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Appliances",
-          "features": [
-            "Stainless steel finish",
-            "Integrated design"
-          ],
-          "materials": [
-            "Stainless steel",
-            "Copper"
-          ],
-          "finish": "High gloss"
-        },
-        {
-          "type": "Wall unit",
-          "features": [
-            "Decorative shelves",
-            "Storage space"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Carved and polished"
+          "finish": "Unfinished, natural wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Black",
           "Blue",
-          "Teal"
+          "Brown (wood)",
+          "Gray (backsplash tiles)"
         ],
         "materials": [
-          "Marble",
-          "Stainless steel",
-          "Wood"
+          "Oregon maple",
+          "Porcelain tiles",
+          "MDF (cabinet doors)"
         ],
-        "lighting": "Bright and even lighting, possibly from overhead fixtures",
-        "texture": "Smooth surfaces with some carved textures on the wall unit"
+        "lighting": "Natural light from a window above the countertop",
+        "texture": "Smooth countertop, textured backsplash tiles, natural wood grain"
       },
       "indian_context": {
-        "regional_style": "South Indian traditional design",
+        "regional_style": "Northern Indian style",
         "traditional_elements": [
-          "Carved wood elements"
+          "Carved wooden elements on the cabinets"
         ],
         "modern_adaptations": [
-          "Integration of modern appliances and materials"
+          "Modern kitchen design with a focus on functionality"
         ],
-        "space_utilization": "Efficient use of vertical space for storage and display",
-        "cultural_significance": "Cultural elements like wood carving reflect regional craftsmanship"
+        "space_utilization": "Efficient use of a galley-style kitchen with a focus on storage and workflow",
+        "cultural_significance": "The carved wooden elements represent traditional craftsmanship and attention to detail, often seen in Northern Indian architecture and design"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -79,22 +57,23 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The kitchen space is designed in a modern Indian style with a blend of traditional and contemporary elements. The countertop is made of polished marble, complementing the stainless steel appliances finished in a high-gloss copper-like material. A wall unit with carved wooden elements and storage shelves adds a traditional touch, reflecting regional craftsmanship. The color palette includes white, black, blue, and teal, creating a vibrant and modern look. The space is well-lit, emphasizing the sleek and functional design.",
+      "description": "The kitchen features a blend of modern kitchen design and traditional Indian elements, particularly noticeable in the carved wooden cabinets. The use of Oregon maple wood provides a warm, natural tone that contrasts with the sleek, white countertop and blue backsplash. The space is organized in a galley style, optimizing the workflow and storage in a small kitchen area.",
       "metadata": {
         "tags": [
-          "Modern Indian",
-          "Kitchen Design",
-          "Marble Countertop",
-          "Wood Carving",
-          "South Indian Style"
+          "modern kitchen",
+          "Indian design",
+          "carved wood",
+          "blue backsplash",
+          "Oregon maple cabinets",
+          "galley kitchen"
         ],
-        "budget_indicator": "Mid to high-end, considering the use of marble and polished wood",
+        "budget_indicator": "Mid-range, with luxury materials like Oregon maple and high-end finishes",
         "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is for food preparation and storage",
-        "indian_specific": "Traditional wood carvings and use of marble"
+        "functionality": "Primary purpose is food preparation and storage, with an emphasis on efficiency and aesthetics",
+        "indian_specific": "Carved wooden elements and use of natural wood"
       }
     }
   },
-  "cached_at": 1753460301657,
+  "cached_at": 1754495179986,
   "cache_key": "b47ff0c352b9084d46d4ccd4013d52bb"
 }

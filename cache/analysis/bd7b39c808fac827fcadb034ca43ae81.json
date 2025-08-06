@@ -2,77 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/529/image_cropper_1729065494053.jpg",
   "analysis": {
     "image_id": "img_378",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/529/image_cropper_1729065494053.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Wardrobe with multiple doors",
-        "Built-in mirror",
-        "Wooden finish"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "furniture",
           "features": [
-            "Multiple sliding doors",
-            "Built-in mirror at the top",
-            "Wooden finish with a glossy finish"
+            "traditional_style"
           ],
           "materials": [
-            "Wood (possibly teak)",
-            "Metal handles"
+            "wood",
+            "fabric"
           ],
-          "finish": "Glossy wooden finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown wood tones",
-          "White walls",
-          "Silver handles"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Acrylic"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Dim lighting due to the reflective surfaces and wooden finish",
-        "texture": "Smooth wooden texture and glossy finish"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "No specific regional style evident",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Wooden wardrobe with sliding doors"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Integration of modern materials like acrylic and metal"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture",
-        "cultural_significance": "Wooden furniture is a staple in Indian homes, symbolizing warmth and durability"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image showcases a modern Indian bedroom with a focus on functional and aesthetic elements. The wardrobe, a common feature in Indian homes, is designed with multiple sliding doors and a built-in mirror, which adds both practicality and style. The glossy wooden finish and the use of metal handles are indicative of a modern adaptation of traditional Indian design, where traditional materials are combined with contemporary aesthetics. The overall color palette of brown, white, and silver creates a warm and clean look, reflecting the cultural significance of wood as a material in Indian interiors.",
-      "metadata": {
-        "tags": [
-          "Bedroom",
-          "Modern Indian",
-          "Wardrobe",
-          "Glossy Finish",
-          "Wooden Furniture"
-        ],
-        "budget_indicator": "Moderate, with a mix of traditional and modern materials",
-        "space_type": "Residential bedroom",
-        "functionality": "Storage and dressing area",
-        "indian_specific": "Use of wood and sliding door design"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729065494053.jpg"
   },
-  "cached_at": 1753461097790,
+  "cached_at": 1754496076145,
   "cache_key": "bd7b39c808fac827fcadb034ca43ae81"
 }

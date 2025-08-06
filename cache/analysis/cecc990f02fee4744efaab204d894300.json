@@ -4,98 +4,102 @@
     "image_id": "img_192",
     "ai_generated_tags": {
       "room": "Foyer",
-      "theme": "Modern with Indian Influences",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Marble accents",
-        "Wooden paneling",
-        "Neutral color palette",
-        "Lighting fixture"
+        "Marble wall paneling",
+        "Teak wood trim",
+        "Marble inlay",
+        "Modern lighting fixture"
       ],
       "objects": [
         {
-          "type": "Marble bench",
+          "type": "Marble wall panel",
           "features": [
             "Inlaid with floral patterns",
-            "Curved design"
+            "Smooth finish"
           ],
           "materials": [
-            "Marble"
+            "Marble",
+            "Metal (likely brass or copper)"
           ],
-          "finish": "Polished and glossy"
+          "finish": "High-gloss marble with metallic inlay"
         },
         {
-          "type": "Wooden paneling",
+          "type": "Teak wood trim",
           "features": [
-            "Dark wood finish",
-            "Horizontal design"
+            "Horizontal",
+            "Dark brown color"
           ],
           "materials": [
             "Teak"
           ],
-          "finish": "Smooth and rich"
+          "finish": "Satin finish"
         },
         {
-          "type": "Lighting fixture",
+          "type": "Modern lighting fixture",
           "features": [
-            "Modern design",
-            "Integrated into the paneling"
+            "Sleek design",
+            "White color"
           ],
           "materials": [
             "Metal"
           ],
-          "finish": "Shiny and metallic"
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Dark brown",
-          "Neutral gray",
-          "Gold"
+          "Brown",
+          "Gray",
+          "Silver"
         ],
         "materials": [
           "Marble",
-          "Wood",
-          "Metal"
+          "Teak",
+          "Metal",
+          "Glass"
         ],
-        "lighting": "Ambient lighting with recessed lights",
-        "texture": "Smooth surfaces on the marble and wood, glossy finish on the marble bench"
+        "lighting": "Moderate indoor lighting, likely from ceiling fixtures and natural light",
+        "texture": "Smooth marble surfaces with a tactile contrast from the teak wood"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional",
+        "regional_style": "Not explicitly regional, likely adaptations from North India due to the use of marble and teak",
         "traditional_elements": [
-          "Wooden paneling"
+          "Marble inlay",
+          "Teak wood"
         ],
         "modern_adaptations": [
-          "Inlaid marble bench with a modern design"
+          "Inlaid patterns",
+          "Modern lighting"
         ],
-        "space_utilization": "Foyer area with a focus on seating and minimal storage",
-        "cultural_significance": "Use of wood and marble reflects Indian craftsmanship and aesthetics, with the bench's inlaid design symbolizing attention to detail and beauty"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern foyer with Indian influences, featuring a marble bench with intricate floral inlays, dark wooden paneling, and integrated lighting. The space utilizes neutral colors and smooth textures to create a sophisticated and welcoming environment. The bench's design is a modern adaptation of traditional Indian craftsmanship, with the wood providing a grounding element that is both functional and aesthetically pleasing.",
-      "metadata": {
-        "tags": [
-          "Indian design",
-          "Marble bench",
-          "Wooden paneling",
-          "Modern foyer",
-          "Neutral color palette",
-          "Craftsmanship"
-        ],
-        "budget_indicator": "Mid-range, with materials like marble and wood indicating a higher budget",
-        "space_type": "Foyer",
-        "functionality": "Entrance and seating area",
-        "indian_specific": "Inlaid marble bench, use of wood"
+        "space_utilization": "Efficient use of vertical space with decorative paneling, minimizing floor space use",
+        "cultural_significance": "The use of marble and teak may symbolize luxury and tradition, often associated with hospitality in Indian homes"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian foyer with a combination of traditional and contemporary elements. The focal point is a marble wall panel inlaid with floral patterns, complemented by horizontal teak wood trim. The space is illuminated by a sleek modern lighting fixture, blending traditional materials like marble and teak with contemporary design. The overall aesthetic is sophisticated and elegant, reflecting a blend of luxury and tradition, often seen in upscale Indian homes.",
+    "metadata": {
+      "tags": [
+        "Indian foyer",
+        "Modern design",
+        "Marble decor",
+        "Teak wood trim",
+        "Inlaid patterns",
+        "Luxury interior"
+      ],
+      "budget_indicator": "Moderate to high, indicated by the use of marble and polished wood",
+      "space_type": "Residential",
+      "functionality": "Welcome area for guests, likely leading to other parts of the house",
+      "indian_specific": "Teak wood and marble inlay, typical of Indian interior design"
     }
   },
-  "cached_at": 1753459140829,
+  "cached_at": 1754492867354,
   "cache_key": "cecc990f02fee4744efaab204d894300"
 }

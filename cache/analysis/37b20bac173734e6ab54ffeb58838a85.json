@@ -3,60 +3,50 @@
   "analysis": {
     "image_id": "img_263",
     "ai_generated_tags": {
-      "room": "Entryway",
-      "theme": "Minimalist",
+      "room": "Bedroom",
+      "theme": "Modern Indian Interior with Fusion",
       "primary_features": [
-        "Wooden wardrobe",
+        "Built-in Wardrobe",
         "Mirror",
-        "Wooden flooring"
+        "Wooden Floor"
       ],
       "objects": [
         {
           "type": "Wardrobe",
           "features": [
-            "Wooden finish",
-            "Storage space",
-            "Mirror on the door"
+            "Wooden door with hinged design",
+            "Integrated mirror above",
+            "Matching wooden floor"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Polished wood"
-        },
-        {
-          "type": "Mirror",
-          "features": [
-            "Rectangular shape",
-            "Integrated into the wardrobe"
-          ],
-          "materials": [
-            "Glass"
-          ],
-          "finish": "Clear"
+          "finish": "Smooth polished wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (wood)",
-          "White (wall)",
-          "Black (hardware)"
+          "Dark brown wood",
+          "White walls",
+          "Light wooden floor"
         ],
         "materials": [
           "Wood",
-          "Glass",
           "Metal"
         ],
-        "lighting": "Natural light, possibly from a nearby window",
-        "texture": "Smooth wood texture"
+        "lighting": "Natural light from window",
+        "texture": "Smooth and polished wooden texture"
       },
       "indian_context": {
-        "regional_style": "Not specifically regional",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Minimalist design with traditional wood elements"
+        "regional_style": "Unclear regional style, could be Northern Indian",
+        "traditional_elements": [
+          "Carved wooden elements on wardrobe"
         ],
-        "space_utilization": "Compact layout with efficient use of space for storage",
-        "cultural_significance": "No overtly cultural elements, but the use of wood suggests a sense of warmth and natural materials"
+        "modern_adaptations": [
+          "Fusion of traditional and modern elements in wardrobe design"
+        ],
+        "space_utilization": "Efficient use of space with integrated wardrobe",
+        "cultural_significance": "Traditional craftsmanship in the wardrobe design, which is culturally significant in Indian interiors"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -65,22 +55,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This image showcases a modern adaptation of traditional Indian design elements, specifically the use of wood in a minimalist entryway. The wooden wardrobe with a mirror embedded features a clean, sleek design that reflects contemporary tastes while incorporating the warmth of wood. The space is efficiently utilized for storage, and the overall aesthetic is one of simplicity and elegance.",
+      "description": "This image depicts a modern bedroom interior with a strong Indian design influence. The built-in wardrobe with a smooth polished wood finish and integrated mirror showcases traditional craftsmanship, while the overall design is contemporary. The use of wood for both the wardrobe and the floor is a typical element in Indian interiors, reflecting a preference for natural materials. The lighting is natural, suggesting a space designed for comfort and functionality, with the wardrobe being a key element in optimizing space. The cultural significance lies in the traditional carved wooden elements that add a touch of heritage to the modern setting.",
       "metadata": {
         "tags": [
-          "Minimalist",
-          "Wooden wardrobe",
-          "Mirror",
-          "Entryway",
-          "Compact design"
+          "Modern Indian Interior",
+          "Fusion Design",
+          "Built-in Wardrobe",
+          "Wooden Floor",
+          "Natural Light"
         ],
-        "budget_indicator": "Moderate, with the use of polished wood and a mirror",
-        "space_type": "Residential, likely an entryway or a small utility space",
-        "functionality": "Storage and entryway functionality",
-        "indian_specific": "Minimal use of traditional Indian elements, but the wood finish and compact space optimization hint at a blend of modern and traditional design"
+        "budget_indicator": "Moderate, with a focus on quality materials like wood and potentially brass or metal hardware",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose is storage and functionality in a bedroom setting",
+        "indian_specific": "Integrated wardrobe with polished wood finish and traditional carved elements"
       }
     }
   },
-  "cached_at": 1753459780147,
+  "cached_at": 1754494411316,
   "cache_key": "37b20bac173734e6ab54ffeb58838a85"
 }

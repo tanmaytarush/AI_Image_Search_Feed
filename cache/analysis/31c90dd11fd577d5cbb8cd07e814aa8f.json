@@ -2,132 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/21/image_cropper_1726306894611.jpg",
   "analysis": {
     "image_id": "img_428",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/21/image_cropper_1726306894611.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Contemporary with Indian Influences",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Wall-mounted mirror",
-        "Decorative wall sconces",
-        "Patterned bedspread",
-        "Sleek bed frame",
-        "Curtains"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Wall-mounted mirror",
+          "type": "furniture",
           "features": [
-            "Rectangular shape",
-            "Simple design",
-            "Vertical orientation"
+            "traditional_style"
           ],
           "materials": [
-            "Glass",
-            "Metal"
+            "wood",
+            "fabric"
           ],
-          "finish": "Shiny reflective surface"
-        },
-        {
-          "type": "Decorative wall sconces",
-          "features": [
-            "Modern design",
-            "Slim structure"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Polished and reflective"
-        },
-        {
-          "type": "Bedspread",
-          "features": [
-            "Patterned design",
-            "Colorful",
-            "Textured appearance"
-          ],
-          "materials": [
-            "Polyester or cotton blend"
-          ],
-          "finish": "Soft and slightly shiny"
-        },
-        {
-          "type": "Bed frame",
-          "features": [
-            "Sleek design",
-            "Modern lines"
-          ],
-          "materials": [
-            "Wood or metal"
-          ],
-          "finish": "Smooth and glossy"
-        },
-        {
-          "type": "Curtains",
-          "features": [
-            "Simple design",
-            "Sheer fabric",
-            "White color"
-          ],
-          "materials": [
-            "Silk or cotton"
-          ],
-          "finish": "Soft and flowing"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Blue",
-          "Black",
-          "Silver",
-          "Gold"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Glass",
-          "Metal",
-          "Wood",
-          "Polyester",
-          "Silk",
-          "Cotton"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from curtains, complemented by wall sconces",
-        "texture": "Smooth, shiny, and slightly textured"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but elements suggest a general Indian aesthetic",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Wall-mounted mirror",
-          "Decorative wall sconces"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Sleek bed frame and bedspread design"
+          "contemporary_design"
         ],
-        "space_utilization": "Optimized for a bedroom with a focus on comfort and style",
-        "cultural_significance": "Elements like the wall-mounted mirror and sconces are common in Indian homes, often symbolizing light and prosperity"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image depicts a modern bedroom with a subtle integration of Indian design elements. The room features a wall-mounted mirror with a sleek design, decorative wall sconces, and a patterned bedspread with a mix of white, blue, and black. The bed frame has a modern, minimalist look, while the curtains are simple and sheer, adding a touch of Indian elegance. The overall color palette is neutral with pops of color, and the materials used, such as glass, metal, wood, and fabrics, suggest a blend of traditional and contemporary styles.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Bedroom",
-        "Contemporary",
-        "Indian Influence",
-        "Wall Mirror",
-        "Decorative Sconces",
-        "Patterned Bedspread"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Mid-range, with a mix of modern and traditional materials",
-      "space_type": "Residential",
-      "functionality": "Sleeping and relaxation",
-      "indian_specific": "Wall-mounted mirror and decorative wall sconces"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1726306894611.jpg"
   },
-  "cached_at": 1753461764476,
+  "cached_at": 1754496422074,
   "cache_key": "31c90dd11fd577d5cbb8cd07e814aa8f"
 }

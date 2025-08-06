@@ -4,83 +4,110 @@
     "image_id": "img_111",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Mughal-inspired",
+      "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Wooden wardrobe with storage",
-        "Carved wooden bed",
-        "Teak wood flooring"
+        "Wooden wardrobe",
+        "Textured wall paneling",
+        "Modern lighting fixture",
+        "Colorful bedspread"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Wooden wardrobe",
           "features": [
-            "Embedded into the wall",
-            "Wooden finish with intricate carvings"
+            "Rectangular shape",
+            "Smooth edges",
+            "Horizontal cabinet doors"
           ],
           "materials": [
-            "Teak wood"
+            "Wood"
           ],
-          "finish": "Polished and varnished"
+          "finish": "Glossy"
         },
         {
-          "type": "Bed",
+          "type": "Textured wall paneling",
           "features": [
-            "Carved wooden headboard",
-            "Teak wood frame"
+            "Decorative vertical lines",
+            "Elegant design"
           ],
           "materials": [
-            "Teak wood"
+            "Wood"
           ],
-          "finish": "Polished and varnished"
+          "finish": "Satin"
+        },
+        {
+          "type": "Modern lighting fixture",
+          "features": [
+            "Sleek design",
+            "Flush-mounted style"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Bedspread",
+          "features": [
+            "Multicolored pattern",
+            "Silky texture"
+          ],
+          "materials": [
+            "Silk"
+          ],
+          "finish": "Sheen"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Teak brown",
-          "White"
+          "White",
+          "Brown",
+          "Multicolored"
         ],
         "materials": [
-          "Teak wood",
-          "Curtains"
+          "Wood",
+          "Metal",
+          "Silk"
         ],
-        "lighting": "Natural light through the window",
-        "texture": "Smooth and polished finish"
+        "lighting": "Soft ambient lighting",
+        "texture": "Smooth, glossy, and silky"
       },
       "indian_context": {
-        "regional_style": "North Indian",
+        "regional_style": "Not distinctly regional",
         "traditional_elements": [
-          "Wooden bed",
-          "Wardrobe with carvings"
+          "Wooden wardrobe",
+          "Decorative wall paneling"
         ],
         "modern_adaptations": [
-          "Integrated wardrobe design"
+          "Modern lighting fixture",
+          "Silk bedspread"
         ],
-        "space_utilization": "Efficient use of space with wardrobe embedded in the wall",
-        "cultural_significance": "Carved elements and wooden furniture symbolize craftsmanship and tradition in North Indian interiors"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This bedroom features a Mughal-inspired design with traditional elements. The space includes a wooden wardrobe integrated into the wall, showcasing intricate carvings, and a matching bed with a carved wooden headboard. The materials used, such as teak wood, are typical of North Indian interior design, emphasizing durability and traditional craftsmanship. The color palette of teak brown and white adds to the traditional aesthetic, while the natural light through the window creates a warm and inviting atmosphere.",
-      "metadata": {
-        "tags": [
-          "Mughal design",
-          "Teak wood",
-          "Carved furniture",
-          "North Indian style",
-          "Integrated wardrobe"
-        ],
-        "budget_indicator": "Mid-range, due to the use of teak wood and intricate carvings",
-        "space_type": "Residential",
-        "functionality": "Sleeping and storage",
-        "indian_specific": "Incorporation of traditional Indian carved wooden elements"
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Use of wood and silk reflects traditional materials valued in Indian design"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a contemporary bedroom with a strong emphasis on traditional Indian design elements. The wooden wardrobe features a modern twist with a glossy finish, while the wall paneling incorporates a traditional design with vertical lines. The bedspread introduces a modern interpretation of silk, blending seamlessly with the room's aesthetic. The overall design showcases a balance of modernity and tradition, reflecting a contemporary take on Indian interior design.",
+    "metadata": {
+      "tags": [
+        "Contemporary Bedroom",
+        "Indian Influences",
+        "Wooden Wardrobe",
+        "Textured Wall Panels",
+        "Modern Lighting"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials like wood and silk",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and storage area",
+      "indian_specific": "Use of wood and traditional elements in a modern setting"
     }
   },
-  "cached_at": 1753448400851,
+  "cached_at": 1754491234944,
   "cache_key": "0018b3050f20cd65fafcf6225a4be492"
 }

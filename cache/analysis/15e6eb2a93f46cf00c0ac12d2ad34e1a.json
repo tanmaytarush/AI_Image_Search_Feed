@@ -6,60 +6,69 @@
       "room": "Kitchen",
       "theme": "Modern Indian",
       "primary_features": [
-        "Blue cabinets",
-        "Marble countertops",
-        "Tile backsplash"
+        "Stainless steel countertop",
+        "Marble backsplash",
+        "Blue cabinets"
       ],
       "objects": [
         {
-          "type": "Kitchen cabinets",
+          "type": "Cabinets",
           "features": [
-            "Blue finish, sleek design"
+            "Blue painted finish",
+            "Simple geometric patterns"
           ],
           "materials": [
-            "Painted wood, possibly MDF"
+            "Wood (likely teak)",
+            "Paint"
           ],
-          "finish": "Glossy blue paint"
+          "finish": "Matte blue paint"
         },
         {
           "type": "Countertop",
           "features": [
-            "Marble top, glossy finish"
+            "Stainless steel surface",
+            "Sleek design"
           ],
           "materials": [
-            "Natural marble"
+            "Stainless steel"
           ],
-          "finish": "Polished marble"
+          "finish": "Polished metal"
         },
         {
           "type": "Backsplash",
           "features": [
-            "Tile pattern with geometric designs"
+            "Marble design",
+            "Marble tiles"
           ],
           "materials": [
-            "Ceramic tiles"
+            "Marble"
           ],
-          "finish": "Matte tile finish"
+          "finish": "Polished marble"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Blue, white, brown"
+          "Blue",
+          "Gray",
+          "White",
+          "Black"
         ],
         "materials": [
-          "Painted wood, marble, ceramic tiles"
+          "Metal",
+          "Marble",
+          "Wood"
         ],
-        "lighting": "Natural light with overhead lighting",
-        "texture": "Mix of smooth and textured surfaces"
+        "lighting": "Natural light from unseen windows",
+        "texture": "Smooth surfaces with some glossy finishes"
       },
       "indian_context": {
-        "regional_style": "Not explicitly Indian regional style",
+        "regional_style": "Not explicitly indicative of a specific regional style",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Integration of Indian colors and materials in a modern setting"
+          "Modern interpretation of Indian blue and white color palette"
         ],
-        "space_utilization": "Efficient use of space with cabinet storage and countertop workspace",
-        "cultural_significance": "The blue color is commonly used in Indian decor and can signify trustworthiness and stability"
+        "space_utilization": "Efficient use of space with clean lines",
+        "cultural_significance": "Reflects a modern take on Indian color schemes, often seen in urban homes"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -68,21 +77,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This kitchen features modern Indian design elements with a focus on functionality. The blue cabinets and marble countertops are emblematic of a contemporary yet culturally relevant approach to kitchen design. The use of geometric tile patterns adds a modern aesthetic to the traditional color palette often seen in Indian homes.",
+      "description": "A modern Indian kitchen with a focus on clean lines and a contemporary color palette. The space features blue cabinets with a simple geometric pattern, a stainless steel countertop, and a marble backsplash. The design reflects a modern interpretation of traditional Indian elements, such as the use of blue and white, often associated with traditional Indian aesthetics. The space is well-lit with natural light, emphasizing the polished surfaces and the clean, minimalist design.",
       "metadata": {
         "tags": [
-          "Modern Indian",
-          "Kitchen Design",
+          "Kitchen",
+          "Modern Indian Design",
           "Blue Cabinets",
-          "Marble Countertops"
+          "Marble Backsplash",
+          "Stainless Steel Countertop"
         ],
-        "budget_indicator": "Moderate, materials suggest a balance between style and affordability",
+        "budget_indicator": "Moderate, utilizing modern materials like stainless steel and marble, but with a finish that suggests cost-effective design",
         "space_type": "Residential",
-        "functionality": "Primary purpose is storage and food preparation",
-        "indian_specific": "Blue cabinets and marble countertops with geometric tile backsplash"
+        "functionality": "Primary purpose is food preparation and storage",
+        "indian_specific": "Modern adaptation of traditional blue and white color scheme"
       }
     }
   },
-  "cached_at": 1753449358830,
+  "cached_at": 1754492055059,
   "cache_key": "15e6eb2a93f46cf00c0ac12d2ad34e1a"
 }

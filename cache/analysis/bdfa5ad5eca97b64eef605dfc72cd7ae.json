@@ -4,51 +4,58 @@
     "image_id": "img_185",
     "ai_generated_tags": {
       "room": "Bathroom",
-      "theme": "Modern Minimalist",
+      "theme": "Modern Indian Interior",
       "primary_features": [
-        "Glass shower screen with metal accents",
-        "White tiles with grey grout",
-        "Clean and organized space"
+        "Walk-in shower area",
+        "Glass sliding doors",
+        "Bathroom fixtures"
       ],
       "objects": [
         {
-          "type": "Shower screen",
+          "type": "Bathtub",
           "features": [
-            "Rectangular shape",
-            "Clear glass panels",
-            "Metal frame and handles"
+            "Integrated into the wall",
+            "Modern design"
           ],
           "materials": [
-            "Glass",
-            "Metal"
+            "Ceramic tile"
           ],
-          "finish": "High-gloss finish on metal, clear glass panels"
+          "finish": "Smooth, glossy surface"
+        },
+        {
+          "type": "Bathroom Fixtures",
+          "features": [
+            "Built-in shower head",
+            "Soap dispenser",
+            "Toilet paper holder"
+          ],
+          "materials": [
+            "Metal, ceramic"
+          ],
+          "finish": "Polished, sleek surface"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Grey",
-          "Metallic"
+          "Gray",
+          "Silver"
         ],
         "materials": [
-          "Glass",
-          "Metal",
-          "Tiles"
+          "Ceramic tile",
+          "Metal"
         ],
-        "lighting": "Well-lit with natural light from window above",
-        "texture": "Smooth surfaces on the tiles and glass, metallic sheen on the frame"
+        "lighting": "Soft, ambient lighting",
+        "texture": "Smooth, glossy textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [
-          "None visible"
-        ],
+        "regional_style": "Not applicable, modern Indian interior design",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Minimal use of Indian traditional elements, embracing clean lines and modern materials"
+          "Integration of modern fixtures and materials in a traditional bathroom setting"
         ],
-        "space_utilization": "Efficient use of space with a clear focus on functionality",
-        "cultural_significance": "No prominent cultural elements noted, as it is a modern bathroom design"
+        "space_utilization": "Efficient use of space with a walk-in shower design",
+        "cultural_significance": "The clean, minimal design aligns with contemporary Indian interior trends, focusing on functionality and modern aesthetics"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -57,21 +64,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern minimalist bathroom with a glass shower screen and metal accents. The space is clean and organized, utilizing white and grey tiles, and features a metallic shower screen with a high-gloss finish. The design does not reflect any Indian regional style, traditional elements, or cultural significance. It focuses on clean lines and modern materials, emphasizing functionality and contemporary aesthetics.",
+      "description": "This image showcases a modern bathroom interior with a walk-in shower area, featuring sleek, contemporary design elements. The space utilizes a minimalist color palette with white and gray tones, accented by metallic finishes. The bathroom fixtures are integrated seamlessly into the wall, creating a clean and uncluttered look. This design aligns with modern Indian interior trends, emphasizing functionality and aesthetic appeal.",
       "metadata": {
         "tags": [
-          "Modern bathroom",
-          "Minimalist design",
-          "Glass shower screen",
-          "Clean and organized space"
+          "Bathroom",
+          "Modern Indian Design",
+          "Walk-in Shower",
+          "Contemporary Style",
+          "Minimalist Design"
         ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Residential bathroom",
-        "functionality": "Primary purpose is for showering and bathing",
-        "indian_specific": "No Indian-specific design features visible"
+        "budget_indicator": "Moderate, with a focus on modern materials and fixtures",
+        "space_type": "Residential Bathroom",
+        "functionality": "Primary purpose for bathing and showering activities",
+        "indian_specific": "Modern interpretation of contemporary Indian interior design"
       }
     }
   },
-  "cached_at": 1753449748106,
+  "cached_at": 1754492752399,
   "cache_key": "bdfa5ad5eca97b64eef605dfc72cd7ae"
 }

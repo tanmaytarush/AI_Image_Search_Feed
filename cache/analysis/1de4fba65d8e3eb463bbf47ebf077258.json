@@ -3,64 +3,66 @@
   "analysis": {
     "image_id": "img_097",
     "ai_generated_tags": {
-      "room": "Entryway",
-      "theme": "Modern Indian",
+      "room": "Entrance Hall",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Geometric patterned cabinet doors",
-        "Circular wall mirror",
+        "Sliding wardrobe doors",
+        "Circular mirror",
         "Marble flooring"
       ],
       "objects": [
         {
-          "type": "Sliding cabinet",
+          "type": "Sliding wardrobe doors",
           "features": [
-            "White cabinet with geometric patterns",
-            "Gold and black handles"
+            "White finish",
+            "Gold geometric patterns",
+            "Black handles"
           ],
           "materials": [
-            "Painted wood",
-            "Metal"
+            "White wood/plywood",
+            "Gold leaf or metallic coating"
           ],
           "finish": "Glossy"
         },
         {
           "type": "Circular mirror",
           "features": [
-            "White circular frame",
-            "Round shape"
+            "Curved edge",
+            "Attached to wardrobe wall",
+            "White frame"
           ],
           "materials": [
-            "Painted wood",
-            "Glass"
+            "Metal",
+            "Acrylic or glass"
           ],
-          "finish": "Polished"
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Gold",
-          "Black",
           "Brown"
         ],
         "materials": [
-          "Painted wood",
           "Marble",
-          "Glass"
+          "Wood",
+          "Metal",
+          "Acrylic"
         ],
-        "lighting": "Artificial lighting from above",
-        "texture": "Smooth surfaces with geometric patterns"
+        "lighting": "Natural light with ambient lighting from mirror and ceiling",
+        "texture": "Smooth surfaces with glossy finishes"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional",
+        "regional_style": "Not specifically regional, but includes traditional Indian elements",
         "traditional_elements": [
           "Circular mirror"
         ],
         "modern_adaptations": [
-          "Geometric patterns, modern handles"
+          "Contemporary design with gold and white patterns"
         ],
-        "space_utilization": "Efficient use of space with a circular mirror as a focal point",
-        "cultural_significance": "The circular mirror symbolizes completeness and is often used in Indian homes for good luck and prosperity"
+        "space_utilization": "Efficient use of space with wardrobe and mirror",
+        "cultural_significance": "Circular mirror symbolizes completeness and unity in Indian culture"
       }
     },
     "confidence_scores": {
@@ -70,21 +72,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image showcases a modern Indian entryway featuring a sleek white sliding cabinet with geometric patterns and black and gold handles. The space is complemented by a circular wall mirror with a white frame, reflecting the adjacent area. The flooring is marble, adding a touch of elegance. The design blends traditional elements like the circular mirror with contemporary aesthetics, reflecting a modern interpretation of Indian interior design.",
+    "description": "This entrance hall features contemporary Indian design elements, with a prominent sliding wardrobe door adorned in white with gold geometric patterns, complemented by a circular mirror with a white frame. The space utilizes marble flooring for a sophisticated look, and the overall design combines traditional Indian motifs with modern clean lines and glossy finishes.",
     "metadata": {
       "tags": [
-        "Modern Indian",
-        "Geometric Patterns",
-        "Circular Mirror",
-        "White Sliding Cabinet",
-        "Marble Flooring"
+        "Contemporary Indian",
+        "Marble flooring",
+        "Sliding wardrobe",
+        "Circular mirror",
+        "Gold accents"
       ],
-      "budget_indicator": "Moderate to high, as indicated by the use of marble and glossy finishes",
-      "space_type": "Entryway",
-      "functionality": "Aesthetic and functional space for guests to view and organize themselves",
-      "indian_specific": "Geometric patterns and circular mirror"
+      "budget_indicator": "Mid-range, due to use of marble and some metallic finishes",
+      "space_type": "Residential entrance hall",
+      "functionality": "Storage and entryway",
+      "indian_specific": "Circular mirror and gold accents"
     }
   },
-  "cached_at": 1753957844250,
+  "cached_at": 1754490919239,
   "cache_key": "1de4fba65d8e3eb463bbf47ebf077258"
 }

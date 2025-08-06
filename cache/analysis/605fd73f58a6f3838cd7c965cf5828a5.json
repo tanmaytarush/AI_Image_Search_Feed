@@ -3,43 +3,48 @@
   "analysis": {
     "image_id": "img_206",
     "ai_generated_tags": {
-      "room": "Wardrobe",
-      "theme": "Modern Indian",
+      "room": "Entryway",
+      "theme": "Minimalist Traditional",
       "primary_features": [
-        "Cabinet with decorative elements"
+        "Lacquered wardrobe with intricate cutouts",
+        "Bell and pot symbols",
+        "Teak finish"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "Wardrobe",
           "features": [
-            "Multiple doors with cut-out patterns, decorative bell motifs, and small storage compartments"
+            "Built-in with Two Large Doors",
+            "Top Section with Cutouts",
+            "Bottom Section with Doors"
           ],
           "materials": [
-            "Painted wood or MDF with white finish"
+            "Teak"
           ],
-          "finish": "Matte white paint"
+          "finish": "Lacquered Finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, brown (motifs), beige (wall and floor)"
+          "White Lacquer, Teak"
         ],
         "materials": [
-          "Painted wood or MDF"
+          "Teak, Lacquer"
         ],
-        "lighting": "Soft, artificial lighting from above",
-        "texture": "Smooth finish on the cabinet"
+        "lighting": "Natural light from adjacent area, no artificial light visible",
+        "texture": "Smooth lacquered texture, teak wood grain"
       },
       "indian_context": {
-        "regional_style": "No specific regional influence",
+        "regional_style": "Mughal Influences",
         "traditional_elements": [
-          "Decorative bell motifs, cut-out patterns"
+          "Bell Symbol",
+          "Pot Symbol (Typical in Hindu Culture)"
         ],
         "modern_adaptations": [
-          "Contemporary design with clean lines and minimalism"
+          "Minimalist Design with Traditional Motifs"
         ],
-        "space_utilization": "Space is optimized for storage with multiple compartments and decorative elements",
-        "cultural_significance": "Decorative elements like bells and motifs may have cultural or religious significance, though specifics are unclear without further context"
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "The symbols may represent auspicious elements commonly found in Indian homes"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -48,23 +53,23 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image showcases a modern Indian wardrobe with a clean, minimalist design. The cabinet features multiple doors with intricate cut-out patterns and decorative bell motifs, which are common in Indian interiors. The white finish on the cabinet adds a contemporary touch, while the decorative elements maintain traditional Indian aesthetics. The space is well-organized, with a focus on storage and practical design.",
+      "description": "The image showcases a modern take on traditional Indian design, featuring a lacquered wardrobe with intricate cutouts and symbolic motifs. The top section of the wardrobe displays a series of cutout patterns framed by small bell symbols, while the bottom section has doors with pot symbols, a traditional motif in Hindu culture. The teak finish on the wardrobe adds a warm, natural element to the minimalist design, reflecting a blend of traditional and contemporary aesthetics.",
       "metadata": {
         "tags": [
-          "Indian interior",
-          "modern design",
-          "wardrobe",
-          "cabinet",
-          "cut-out patterns",
-          "decorative bells"
+          "Indian Wardrobe",
+          "Minimalist Traditional",
+          "Lacquer Finish",
+          "Teak",
+          "Bell Symbol",
+          "Pot Symbol"
         ],
         "budget_indicator": "Moderate",
-        "space_type": "Residential",
-        "functionality": "Storage",
-        "indian_specific": "Decorative bell motifs and cut-out patterns"
+        "space_type": "Residential Entryway",
+        "functionality": "Storage Solution",
+        "indian_specific": "Traditional Motifs"
       }
     }
   },
-  "cached_at": 1753449980822,
+  "cached_at": 1754493094880,
   "cache_key": "605fd73f58a6f3838cd7c965cf5828a5"
 }

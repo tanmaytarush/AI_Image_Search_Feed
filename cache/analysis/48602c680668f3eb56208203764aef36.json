@@ -2,67 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/716/image_cropper_1729181993694.jpg",
   "analysis": {
     "image_id": "img_442",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/716/image_cropper_1729181993694.jpg",
     "ai_generated_tags": {
-      "room": "Closet",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Built-in wardrobe with sliding doors"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Built-in wardrobe",
+          "type": "furniture",
           "features": [
-            "Sliding doors, white exterior with blue accents"
+            "traditional_style"
           ],
           "materials": [
-            "MDF, painted surfaces"
+            "wood",
+            "fabric"
           ],
-          "finish": "Painted finish with blue accents"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, blue"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "MDF"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Indirect lighting from ceiling",
-        "texture": "Smooth surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "None"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Use of modern MDF materials with color accents"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space for wardrobe",
-        "cultural_significance": "None"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image shows a modern Indian-inspired closet with a built-in wardrobe. The design focuses on functionality with a clean, minimalist aesthetic. The use of MDF with painted white and blue finish gives a contemporary touch, aligning with modern Indian decor trends.",
-      "metadata": {
-        "tags": [
-          "Closet",
-          "Modern Indian",
-          "MDF wardrobe",
-          "Blue accents"
-        ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Residential",
-        "functionality": "Storage",
-        "indian_specific": "Modern interpretation of MDF materials with color accents"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729181993694.jpg"
   },
-  "cached_at": 1753462109307,
+  "cached_at": 1754496466685,
   "cache_key": "48602c680668f3eb56208203764aef36"
 }

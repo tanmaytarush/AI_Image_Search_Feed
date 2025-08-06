@@ -2,99 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/993/image_cropper_1729416478232.jpg",
   "analysis": {
     "image_id": "img_365",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/993/image_cropper_1729416478232.jpg",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Sliding door with frosted glass panels",
-        "Wooden paneling",
-        "White cabinetry"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Frosted glass sliding door",
+          "type": "furniture",
           "features": [
-            "Frosted glass panels with a grid design",
-            "Sliding mechanism"
+            "traditional_style"
           ],
           "materials": [
-            "Glass",
-            "Metal"
+            "wood",
+            "fabric"
           ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Wooden paneling",
-          "features": [
-            "Vertical wooden slats",
-            "Natural wood texture"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural, unpainted"
-        },
-        {
-          "type": "Cabinetry",
-          "features": [
-            "White finish",
-            "Integrated handles"
-          ],
-          "materials": [
-            "MDF or similar",
-            "Painted finish"
-          ],
-          "finish": "Glossy"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Natural wood",
-          "Frosted glass"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Glass",
-          "Metal",
-          "Wood",
-          "Painted MDF"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Artificial, ambient lighting",
-        "texture": "Smooth surfaces with a mix of natural and artificial textures"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Integration of traditional materials like wood with modern design elements like frosted glass"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with minimal elements, focusing on functionality",
-        "cultural_significance": "No culturally significant elements present, as the design is modern and not exclusively Indian"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.9,
-        "primary_features": 0.92,
-        "objects": 0.92,
-        "indian_context": 0.8
-      },
-      "description": "This image depicts a modern minimalist bathroom with a focus on functionality and clean lines. The space features frosted glass sliding doors with a grid design, wooden paneling, and white cabinetry. The design elements are predominantly modern and not indicative of traditional Indian design, although the wood might have some regional influences.",
-      "metadata": {
-        "tags": [
-          "Bathroom",
-          "Modern",
-          "Minimalist",
-          "Frosted Glass",
-          "Wood Paneling",
-          "White Cabinetry"
-        ],
-        "budget_indicator": "Moderate, due to the use of frosted glass and natural wood",
-        "space_type": "Residential",
-        "functionality": "Personal care and hygiene",
-        "indian_specific": "No Indian-specific design features are present in the image"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729416478232.jpg"
   },
-  "cached_at": 1753460936742,
+  "cached_at": 1754495985986,
   "cache_key": "aa230c788c96d0b659a9c17744cbbc5c"
 }

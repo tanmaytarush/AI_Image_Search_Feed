@@ -4,77 +4,107 @@
     "image_id": "img_231",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Contemporary with Indian Influences",
+      "theme": "Modern Indian Traditional",
       "primary_features": [
-        "Ceiling design, wall paneling, television stand, seating arrangement"
+        "Ceiling with intricate wood detailing",
+        "Teak wood furniture",
+        "Large flat-screen TV",
+        "Curtain with intricate embroidery"
       ],
       "objects": [
         {
-          "type": "Television Stand",
+          "type": "Teak wood furniture",
           "features": [
-            "Rectangular shape, wooden finish, glass display shelves"
+            "Wooden end table with storage compartments",
+            "Teak wood sofa with cushioned seating"
           ],
           "materials": [
-            "Wood, glass"
+            "Teak wood"
           ],
-          "finish": "Wood has a polished finish, glass is transparent"
+          "finish": "Natural teak wood finish"
         },
         {
-          "type": "Seating Arrangement",
+          "type": "Curtain",
           "features": [
-            "Modern design, upholstered in fabric, arranged in a U-shape"
+            "Embroidered with floral patterns"
           ],
           "materials": [
-            "Fabric, metal frame"
+            "Cotton or silk"
           ],
-          "finish": "Fabric is smooth, metal frame has a glossy finish"
+          "finish": "Embroidered"
+        },
+        {
+          "type": "Ceiling",
+          "features": [
+            "Intricate wood detailing with modern lighting"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood with painted accents"
+        },
+        {
+          "type": "TV Stand",
+          "features": [
+            "Integral to the wall with a minimalist design"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak wood"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White walls, brown wooden accents, beige upholstery, golden metallic accents"
+          "Brown (teak wood)",
+          "White (ceiling)",
+          "Multicolored (embroidered curtain)"
         ],
         "materials": [
-          "Wood, glass, metal, fabric"
+          "Teak wood",
+          "Cotton/silk curtain",
+          "Painted wood ceiling"
         ],
-        "lighting": "Natural light coming in from the windows, supplemented by recessed ceiling lights",
-        "texture": "Smooth surfaces with some glossy elements"
+        "lighting": "Combined natural and artificial lighting with recessed lights and ceiling fixtures",
+        "texture": "Smooth wood surfaces, embroidered fabric"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional due to modern design, but suggests a North Indian influence with Diwan-like seating arrangement",
+        "regional_style": "North Indian",
         "traditional_elements": [
-          "Seating arrangement with a focus on comfort and space for conversations"
+          "Teak wood furniture",
+          "Intricate wood detailing on ceiling and TV stand"
         ],
         "modern_adaptations": [
-          "Contemporary furniture design with a blend of traditional and modern aesthetics"
+          "Minimalist wall-mounted TV stand",
+          "Contemporary lighting"
         ],
-        "space_utilization": "The space is organized for living and entertainment, with a central seating area and a television stand for viewing",
-        "cultural_significance": "The seating arrangement and overall design reflect a welcoming and intimate space for family gatherings and conversations"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The interior space is a living room that combines contemporary design with subtle Indian influences, as seen in the U-shaped seating arrangement reminiscent of a Diwan. The room features a modern wooden ceiling design with recessed lighting, wooden wall paneling, and a glass-fronted television stand that blends traditional materials with modern craftsmanship. The seating is upholstered in a fabric that suggests comfort, and the overall color palette includes warm browns and whites, complemented by golden metallic accents, reflecting a balance between tradition and modernity. The lighting is a mix of natural and artificial, creating a warm and inviting atmosphere.",
-      "metadata": {
-        "tags": [
-          "Living Room",
-          "Contemporary",
-          "Indian Influences",
-          "Modern Design",
-          "Comfortable Seating",
-          "Warm Colors"
-        ],
-        "budget_indicator": "Mid-range, with a mix of modern and traditional materials",
-        "space_type": "Residential",
-        "functionality": "Space is designed for relaxation, entertainment, and socializing",
-        "indian_specific": "U-shaped seating arrangement, wooden accents, and warm color palette"
+        "space_utilization": "Efficient use of space with wall-mounted furniture and storage solutions",
+        "cultural_significance": "Incorporation of traditional woodwork and embroidery reflects cultural heritage and craftsmanship"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space is a modern interpretation of a traditional North Indian living room, featuring teak wood furniture, intricate wood detailing on the ceiling and TV stand, and a curtain with floral embroidery. The space utilizes teak wood for both the furniture and TV stand, showcasing natural wood finishes. The ceiling is adorned with detailed woodwork and recessed lighting, creating a warm and inviting atmosphere. The large flat-screen TV is mounted on the wall, complementing the minimalist design of the furniture. The overall design blends traditional craftsmanship with contemporary aesthetics, reflecting the cultural significance of woodwork and embroidery in Indian decor.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Traditional",
+        "Teak Wood",
+        "Intricate Wood Detailing",
+        "North Indian Style",
+        "Minimalist Design",
+        "Intricately Embroidered Curtain"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Living Room",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Teak wood furniture, embroidered curtain, and intricate wood detailing"
     }
   },
-  "cached_at": 1753450218332,
+  "cached_at": 1754493542328,
   "cache_key": "a71e86639f78620badee2012ae68e1a8"
 }

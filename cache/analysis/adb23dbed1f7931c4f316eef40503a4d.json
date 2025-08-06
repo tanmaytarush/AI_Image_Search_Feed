@@ -3,58 +3,55 @@
   "analysis": {
     "image_id": "img_050",
     "ai_generated_tags": {
-      "room": "Living Area",
-      "theme": "Modern Indian",
+      "room": "Entryway",
+      "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Wall-mounted shelves with storage",
-        "Wooden partition",
-        "Bright wall color",
-        "Reflective floor",
-        "Ceiling fan"
+        "Modern wooden partition with storage",
+        "Pink wall",
+        "Ceiling fan",
+        "Minimalist design"
       ],
       "objects": [
         {
-          "type": "Wooden Partition",
+          "type": "Partition",
           "features": [
-            "Multi-level shelf design",
-            "White and blue accents",
-            "Open storage compartments"
+            "Modern design with shelves",
+            "Wooden structure with glass panels"
           ],
           "materials": [
-            "Teak wood",
-            "Painted metal"
+            "Wood",
+            "Glass",
+            "Metal"
           ],
-          "finish": "Glossy teak wood finish, white and blue painted surfaces"
+          "finish": "Glossy wooden finish, clear glass"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Pink",
-          "White",
           "Blue",
-          "Teal",
-          "Brown",
-          "Gray"
+          "White",
+          "Brown"
         ],
         "materials": [
-          "Teak wood",
+          "Wood",
+          "Glass",
           "Metal",
-          "Painted surfaces",
-          "Reflective tile floor"
+          "Plastic"
         ],
-        "lighting": "Natural light from window, ceiling fan light",
-        "texture": "Smooth wood texture, glossy painted surfaces, reflective tile floor"
+        "lighting": "Indirect light from the ceiling fan and room",
+        "texture": "Smooth wooden texture, glass panels, metal hardware"
       },
       "indian_context": {
-        "regional_style": "South Indian",
+        "regional_style": "Mumbai or Maharashtra Style",
         "traditional_elements": [
-          "Wooden partition design"
+          "Wooden partition with shelves"
         ],
         "modern_adaptations": [
-          "Integration of modern storage solutions with traditional elements"
+          "Contemporary design with glass panels"
         ],
-        "space_utilization": "Efficient use of vertical space with shelves",
-        "cultural_significance": "The wooden partition reflects the use of natural materials in Indian interiors, which is culturally significant and often seen in homes and temples"
+        "space_utilization": "Efficient use of small space with integrated storage",
+        "cultural_significance": "Partition is used to divide spaces and is a common feature in Indian homes"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -63,23 +60,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This image showcases a modern interpretation of traditional Indian interior design, featuring a wooden partition with multi-level storage shelves. The use of teak wood and a glossy finish is a nod to classic Indian materials, while the incorporation of white and blue accents adds a contemporary touch. The bright pink wall, white ceiling fan, and reflective floor further enhance the modern feel. The design emphasizes efficient space utilization and cultural relevance through the use of natural materials and traditional elements.",
+      "description": "The image depicts a modern entryway with a wooden partition that serves as a storage unit. The partition features glass panels and shelves, blending contemporary design with traditional Indian elements. The pink wall and white ceiling create a vibrant yet clean backdrop, while the minimalist design and ceiling fan suggest a focus on functionality. The space utilizes a small area efficiently, incorporating storage solutions typical in Indian homes.",
       "metadata": {
         "tags": [
-          "Modern Indian",
-          "Wooden Partition",
-          "Teak",
-          "Bright Colors",
-          "Storage Solutions",
-          "South Indian Design"
+          "Indian interior design",
+          "Contemporary style",
+          "Wooden partition",
+          "Pink wall",
+          "Entryway design"
         ],
-        "budget_indicator": "Moderate, given the use of teak wood and painted metal for storage compartments",
-        "space_type": "Living Area",
-        "functionality": "Storage and division of space",
-        "indian_specific": "Teak wood, storage shelves, vertical space utilization"
+        "budget_indicator": "Moderate, with modern materials like wood and glass",
+        "space_type": "Residential (entryway)",
+        "functionality": "Space division and storage",
+        "indian_specific": "Traditional partition design adapted with modern materials"
       }
     }
   },
-  "cached_at": 1753957278280,
+  "cached_at": 1754489858897,
   "cache_key": "adb23dbed1f7931c4f316eef40503a4d"
 }

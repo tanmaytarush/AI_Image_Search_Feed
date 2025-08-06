@@ -4,50 +4,71 @@
     "image_id": "img_266",
     "ai_generated_tags": {
       "room": "Living room",
-      "theme": "Contemporary Indian interior",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Furniture with perforated wood doors",
-        "Teak腿家具",
-        "Buddha statue"
+        "Furniture with perforated panels",
+        "Minimalist design"
       ],
       "objects": [
         {
-          "type": "Teak腿家具",
+          "type": "Sideboard",
           "features": [
-            "Teak腿家具 with perforated wood doors and drawers"
+            "Perforated panels",
+            "Drawers",
+            "Open shelf"
           ],
           "materials": [
-            "Teak腿家具",
-            "Perforated wood"
+            "Wood"
           ],
-          "finish": "Polished wood finish with a natural teak leg finish"
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Buddha statue",
+          "features": [
+            "Green color",
+            "Seated posture"
+          ],
+          "materials": [
+            "Copper or brass"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Television",
+          "features": [
+            "Black",
+            "Flat-screen"
+          ],
+          "materials": [
+            "Plastic"
+          ],
+          "finish": "Matt"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Warm beige",
-          "Natural wood tone",
-          "Gold accents"
+          "Beige",
+          "Brown",
+          "Green"
         ],
         "materials": [
-          "Teak腿家具",
-          "Perforated wood",
-          "Metal hardware"
+          "Wood",
+          "Metal",
+          "Plastic"
         ],
-        "lighting": "Natural light with warm tones",
-        "texture": "Smooth wood texture with perforated pattern on doors"
+        "lighting": "Natural light from a window not visible",
+        "texture": "Perforated wood texture, smooth metal, matte plastic"
       },
       "indian_context": {
-        "regional_style": "Regional style not explicitly identifiable but incorporates traditional elements",
+        "regional_style": "No specific regional style identified",
         "traditional_elements": [
-          "Perforated wood doors",
-          "Teak腿家具"
+          "Perforated wood panels"
         ],
         "modern_adaptations": [
-          "Contemporary design with smooth edges"
+          "Minimalist design with modern materials"
         ],
-        "space_utilization": "Efficient use of space with open shelves and drawers",
-        "cultural_significance": "The Buddha statue adds cultural significance, likely representing spiritual or meditative themes"
+        "space_utilization": "Efficient use of space with open shelving and drawers",
+        "cultural_significance": "Buddha statue represents a cultural element, possibly for meditation or decor"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -56,22 +77,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This image showcases a contemporary Indian interior living room with a focus on traditional elements. The room features a teak腿家具 with perforated wood doors and drawers, placed against a neutral beige wall. The furniture is complemented by a Buddha statue, adding a cultural and spiritual touch. The design blends traditional Indian craftsmanship with modern aesthetics, resulting in a harmonious and culturally significant living space. The perforated wood pattern on the furniture doors is a nod to traditional Indian design, where such patterns are often used for ventilation and aesthetic appeal. The warm beige color palette and natural wood tones create a welcoming and serene ambiance, typical of Indian interior design. The space is well-lit, likely with natural light, enhancing the visual appeal of the materials used. The room's organization is efficient, with open shelving and drawers providing practical storage solutions while maintaining a clean and uncluttered look.",
+      "description": "The interior space features a modern interpretation of traditional Indian design elements, specifically the use of perforated wood panels, which are reminiscent of traditional jharokha. The sideboard, a common piece in Indian homes, is adapted with a minimalist design and modern materials. The presence of a Buddha statue adds a cultural and potentially spiritual significance to the room, which is a common feature in homes in India. The overall design is clean and contemporary, with a focus on functionality and aesthetic appeal.",
       "metadata": {
         "tags": [
-          "Contemporary Indian interior",
-          "Teak腿家具",
-          "Perforated wood",
-          "Buddha statue",
-          "Living room"
+          "Living room",
+          "Modern",
+          "Indian design",
+          "Minimalist",
+          "Perforated wood"
         ],
-        "budget_indicator": "Mid to high budget, given the use of teak腿家具 and perforated wood materials",
-        "space_type": "Living room",
+        "budget_indicator": "Moderate, with use of natural wood and modern finishes",
+        "space_type": "Residential",
         "functionality": "Entertainment and storage",
-        "indian_specific": "Perforated wood doors, teak腿家具"
+        "indian_specific": "Perforated wood panels, Buddha statue"
       }
     }
   },
-  "cached_at": 1753450698719,
+  "cached_at": 1754494451235,
   "cache_key": "2c5f7ab7ae36b1671932028d758525af"
 }

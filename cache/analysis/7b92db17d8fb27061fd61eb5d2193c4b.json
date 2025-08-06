@@ -4,102 +4,67 @@
     "image_id": "img_264",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Contemporary Indian Interior",
+      "theme": "Classical Indian",
       "primary_features": [
-        "Carved wooden elements",
-        "Brass accents",
-        "Marble floors",
-        "Curtained window",
-        "Wall-mounted storage"
+        "White marble flooring",
+        "Carved wooden paneling",
+        "Teak wood accents",
+        "Mirror above the fireplace"
       ],
       "objects": [
         {
-          "type": "Carved Wooden Panel",
+          "type": "Teak wood furniture",
           "features": [
-            "Elegant decorative patterns",
-            "Traditional craftsmanship"
+            "Carved details",
+            "Polished finish"
           ],
           "materials": [
-            "Teak"
+            "Teak wood"
           ],
-          "finish": "Polished wooden finish"
+          "finish": "Rich brown polished surface"
         },
         {
-          "type": "Brass Furniture Accents",
+          "type": "Mirror",
           "features": [
-            "Shiny metallic look",
-            "Curved armrests"
+            "Rectangular shape",
+            "Carved wooden frame",
+            "Reflective surface"
           ],
           "materials": [
-            "Brass"
+            "Wood",
+            "Glass"
           ],
-          "finish": "High-gloss brass"
-        },
-        {
-          "type": "Marble Floor",
-          "features": [
-            "Smooth surface",
-            "Elegant appearance"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Polished marble"
-        },
-        {
-          "type": "Curtained Window",
-          "features": [
-            "Fabric material",
-            "Elegant draping"
-          ],
-          "materials": [
-            "Cotton or linen"
-          ],
-          "finish": "Textured fabric"
-        },
-        {
-          "type": "Wall-Mounted Storage Unit",
-          "features": [
-            "Open shelves",
-            "Exhibiting items"
-          ],
-          "materials": [
-            "Wood and metal"
-          ],
-          "finish": "Wooden with metallic hardware"
+          "finish": "Wooden frame with polished edges, glass surface"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Brown",
-          "Black"
+          "Silver",
+          "Gold"
         ],
         "materials": [
-          "Teak",
-          "Brass",
-          "Marble",
-          "Cotton/Linen"
+          "Teak wood",
+          "White marble",
+          "Glass",
+          "Metal"
         ],
-        "lighting": "Ambient light with natural light from the window, possibly enhanced by ceiling lights",
-        "texture": [
-          "Smooth marble",
-          "Textured fabric",
-          "Polished wood and brass"
-        ]
+        "lighting": "Ambient lighting with a warm tone",
+        "texture": "Smooth marble floors, textured wood carvings, reflective glass mirror"
       },
       "indian_context": {
-        "regional_style": "Mughal-inspired with a modern twist",
+        "regional_style": "North Indian (Hindi-speaking regions)",
         "traditional_elements": [
-          "Carved wooden panels",
-          "Brass accents"
+          "Carved wooden paneling",
+          "Teak wood furniture",
+          "Mirror above fireplace"
         ],
         "modern_adaptations": [
-          "Contemporary furniture designs",
-          "Open shelving"
+          "Use of modern materials like marble and metal"
         ],
-        "space_utilization": "Efficient use of floor space with wall-mounted storage and open seating",
-        "cultural_significance": "The use of brass and carved wood reflects a blend of Mughal and modern Indian design, symbolizing prosperity and traditional craftsmanship"
+        "space_utilization": "Optimal use of space with a central fireplace and surrounding seating arrangements",
+        "cultural_significance": "The use of mirrors reflects the Hindu belief in prosperity and the presence of the deity of fire signifies warmth and welcome"
       }
     },
     "confidence_scores": {
@@ -109,22 +74,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The interior space showcases a modern interpretation of traditional Indian design elements, featuring carved wooden panels and brass accents. The room is organized with efficient storage solutions on the walls and contemporary furniture, blending seamlessly with the Mughal-inspired aesthetics. The use of teak, brass, and marble reflects the cultural significance of traditional materials in modern Indian interiors, emphasizing luxury and craftsmanship.",
+    "description": "This image showcases a living room with traditional North Indian design elements. The room features carved wooden paneling and teak wood furniture with a rich polished finish. The central fireplace is accentuated with a large mirror above it, reflecting the warm and welcoming nature of the space. The white marble flooring complements the natural tones of the wood, creating a visually appealing and harmonious environment. The use of mirrors and the central fireplace are culturally significant, symbolizing prosperity and warmth, respectively. The modern adaptation of marble and metal in the design gives the space a contemporary touch while maintaining its traditional essence.",
     "metadata": {
       "tags": [
-        "Modern Indian Interior",
-        "Contemporary Living Room",
-        "Mughal Style",
-        "Brass Accents",
-        "Carved Wood",
-        "Marble Flooring"
+        "Indian living room",
+        "North Indian design",
+        "Carved wood",
+        "Teak furniture",
+        "Marble flooring",
+        "Fireplace mirror"
       ],
-      "budget_indicator": "Mid to high-end",
-      "space_type": "Living Room",
-      "functionality": "Used for relaxation, entertainment, and social gatherings",
-      "indian_specific": "Use of traditional materials and design elements in a modern context"
+      "budget_indicator": "Moderate to high, due to the use of marble and polished wood",
+      "space_type": "Residential living room",
+      "functionality": "Social and entertainment area for hospitality and family gatherings",
+      "indian_specific": "Traditional furniture styles and cultural elements like the mirror and fireplace"
     }
   },
-  "cached_at": 1753459789083,
+  "cached_at": 1754494422862,
   "cache_key": "7b92db17d8fb27061fd61eb5d2193c4b"
 }

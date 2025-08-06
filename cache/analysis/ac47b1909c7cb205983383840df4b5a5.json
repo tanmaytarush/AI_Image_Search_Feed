@@ -4,22 +4,22 @@
     "image_id": "img_133",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Minimalist with Indian Influence",
+      "theme": "Minimalist",
       "primary_features": [
-        "Bed with wooden frame",
-        "White bedding",
-        "Window with wooden frame",
-        "Tile flooring"
+        "Simple bed frame",
+        "Minimalist wall decor",
+        "Bathroom door in the background"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "Bed frame",
           "features": [
             "Wooden frame",
-            "White bedding"
+            "Simple design",
+            "No ornate carvings"
           ],
           "materials": [
-            "Teak wood"
+            "Teak Wood"
           ],
           "finish": "Natural wood finish"
         }
@@ -27,28 +27,26 @@
       "visual_attributes": {
         "colors": [
           "White",
-          "Brown",
-          "Gray"
+          "Light brown",
+          "Neutral tones",
+          "Black"
         ],
         "materials": [
-          "Teak wood",
-          "White bedding",
-          "Grey tile flooring",
-          "Wooden window frame"
+          "Teak Wood",
+          "White for bed frame material",
+          "Neutral tones for walls"
         ],
         "lighting": "Natural light from the window",
-        "texture": "Smooth wooden texture of the bed frame, glossy tile flooring, and soft bedding"
+        "texture": "Smooth and polished surfaces"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but shows elements of traditional Indian design",
-        "traditional_elements": [
-          "Wooden bed frame"
-        ],
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist modern design mixed with traditional wood elements"
+          "Minimalist interpretation of traditional Indian design elements"
         ],
-        "space_utilization": "Optimized for maximum comfort with a small footprint",
-        "cultural_significance": "The wooden bed frame symbolizes traditional craftsmanship and strength, common in Indian homes"
+        "space_utilization": "Efficient use of space with a simple layout",
+        "cultural_significance": "Simple design aligns with Indian minimalist aesthetics but lacks traditional elements"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -57,23 +55,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This bedroom showcases a minimalist design with traditional Indian influences. The wooden bed frame is a key feature, reflecting traditional craftsmanship and strength, while the white bedding adds a modern touch. The natural light and tile flooring enhance the overall aesthetic, creating a serene and comfortable space.",
+      "description": "The image depicts a simple bedroom with a minimalist design. The bed features a teak wood frame with a natural finish, and the walls are painted in neutral tones. The room is naturally lit by light coming through the window, and the overall aesthetic is clean and uncluttered, reflecting a modern interpretation of minimalism. There is no traditional Indian design elements present, but the use of teak wood is indicative of a traditional material adaptation.",
       "metadata": {
         "tags": [
-          "Indian interior design",
-          "Minimalist",
-          "Wooden bed",
-          "White bedding",
-          "Tile flooring",
-          "Natural light"
+          "Minimalist design",
+          "Bedroom",
+          "Teak wood",
+          "Neutral tones",
+          "Modern Indian design"
         ],
-        "budget_indicator": "Moderate, with quality materials used for the bed frame and tile flooring",
-        "space_type": "Bedroom",
-        "functionality": "Sleeping and relaxation space",
-        "indian_specific": "Use of wood as a primary material and incorporation of traditional bed designs"
+        "budget_indicator": "Low to Medium",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and resting",
+        "indian_specific": "Teak wood"
       }
     }
   },
-  "cached_at": 1753448902950,
+  "cached_at": 1754491546639,
   "cache_key": "ac47b1909c7cb205983383840df4b5a5"
 }

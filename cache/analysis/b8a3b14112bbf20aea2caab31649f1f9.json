@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.11.21%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_066",
+    "ai_generated_tags": {
+      "room": "Home Office",
+      "theme": "Contemporary with Traditional Accents",
+      "primary_features": [
+        "Built-in shelves with LED lighting",
+        "Decorative wooden cabinetry",
+        "Marble flooring",
+        "Computer desk"
+      ],
+      "objects": [
+        {
+          "type": "Computer desk",
+          "features": [
+            "Compact design with storage underneath",
+            "Integrated shelves"
+          ],
+          "materials": [
+            "Wooden frame, white paneling with wavy patterns"
+          ],
+          "finish": "Shiny, glossy finish on wood and metallic accents"
+        },
+        {
+          "type": "Shelves",
+          "features": [
+            "Wall-mounted, floating style",
+            "Integrated lighting with a modern look"
+          ],
+          "materials": [
+            "Wooden frame, white paneling with wavy patterns"
+          ],
+          "finish": "Shiny, glossy finish on wood and metallic accents"
+        },
+        {
+          "type": "Cabinet",
+          "features": [
+            "Decorative wooden design",
+            "Carved details"
+          ],
+          "materials": [
+            "Solid wood, possibly teak or rosewood"
+          ],
+          "finish": "Rich, polished wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, brown, beige, black"
+        ],
+        "materials": [
+          "Marble, wood, glass, metal"
+        ],
+        "lighting": "Natural light from a window and LED lighting in shelves",
+        "texture": "Smooth marble floor, glossy wood, textured carved details"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but could be interpreted as from northern India with the cabinet style",
+        "traditional_elements": [
+          "Carved wooden cabinet with intricate designs",
+          "Decorative elements on shelves"
+        ],
+        "modern_adaptations": [
+          "Incorporation of modern furniture and LED lighting"
+        ],
+        "space_utilization": "Efficient use of space with built-in shelves and cabinetry",
+        "cultural_significance": "The wooden cabinet could be a representation of a traditional 'diwan' or prayer area, symbolizing family and cultural heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern home office space incorporates traditional Indian design elements, particularly in the intricately carved wooden cabinet with a distressed finish, which might represent a traditional 'diwan' or prayer area. The clean lines of the contemporary furniture and lighting fixtures blend well with the traditional wood, creating a harmonious and culturally rich interior. The use of marble flooring and white paneling adds to the modern aesthetic, while the carved wooden elements provide a nod to Indian craftsmanship and cultural significance.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Interior",
+        "Contemporary Design",
+        "Traditional Elements",
+        "Home Office",
+        "Wooden Cabinetry",
+        "Marble Flooring"
+      ],
+      "budget_indicator": "Moderate to High",
+      "space_type": "Residential",
+      "functionality": "Work from home, personal workspace",
+      "indian_specific": "Intricate wooden carvings, wooden cabinet design, and use of traditional materials"
+    }
+  },
+  "cached_at": 1754490096344,
+  "cache_key": "b8a3b14112bbf20aea2caab31649f1f9"
+}

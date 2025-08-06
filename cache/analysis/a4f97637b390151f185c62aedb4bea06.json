@@ -2,102 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.30%20PM.jpeg",
   "analysis": {
     "image_id": "img_039",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.30%20PM.jpeg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Bed with storage",
-        "Ceiling fan",
-        "Pink and white wall panels"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Platform bed",
+          "type": "furniture",
           "features": [
-            "Embedded storage underneath",
-            "Simple design"
+            "traditional_style"
           ],
           "materials": [
-            "Wooden frame",
-            "Metal accents"
+            "wood",
+            "fabric"
           ],
-          "finish": "Matte surface with white bed sheet"
-        },
-        {
-          "type": "Ceiling fan",
-          "features": [
-            "Modern design",
-            "Gold-colored"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Painted gold"
-        },
-        {
-          "type": "Wall panels",
-          "features": [
-            "Rectangular",
-            "Pink and white"
-          ],
-          "materials": [
-            "MDF or similar particleboard"
-          ],
-          "finish": "Glossy paint"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Pink",
-          "White",
-          "Brown",
-          "Gold"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "MDF"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light through window with metal bars",
-        "texture": [
-          "Smooth surfaces",
-          "Glossy finish"
-        ]
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not specific to any regional style",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "No traditional elements"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Use of modern materials like MDF and metal"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient storage solution under the bed",
-        "cultural_significance": "Pink and white color combination is popular in Indian interiors, often symbolizing purity and elegance"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This modern Indian bedroom features a platform bed with integrated storage, ceiling fan, and pink and white wall panels. The design utilizes modern materials and techniques while maintaining a visually appealing color scheme, reflecting the preference for clean lines and bright colors in contemporary Indian interior design.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Pink and White",
-          "Platform Bed",
-          "Ceiling Fan",
-          "Efficient Storage"
-        ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Residential Bedroom",
-        "functionality": "Sleeping and storage",
-        "indian_specific": "Use of pink and white color palette"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "WhatsApp%20Image%202023-04-10%20at%209.47.30%20PM.jpeg"
   },
-  "cached_at": 1753875385361,
+  "cached_at": 1754489390067,
   "cache_key": "a4f97637b390151f185c62aedb4bea06"
 }

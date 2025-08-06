@@ -3,113 +3,95 @@
   "analysis": {
     "image_id": "img_269",
     "ai_generated_tags": {
-      "room": "Living room",
-      "theme": "Contemporary Indian",
+      "room": "Bathroom",
+      "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Carved wooden elements",
-        "Marble flooring",
-        "Curtain with geometric pattern",
-        "Teak furniture",
-        "Exquisite lighting"
+        "Shower area with glass partition",
+        "White tiled walls",
+        "Black framed mirror",
+        "Wooden paneling"
       ],
       "objects": [
         {
-          "type": "Teak wooden chair",
+          "type": "Shower Area",
           "features": [
-            "Carved wooden backrest",
-            "Round backrest",
-            "Smooth finish"
+            "Glass partition with dark metal frame",
+            "Water spray nozzles"
           ],
           "materials": [
-            "Teak wood"
+            "Acrylic for partition, dark metal frame"
           ],
-          "finish": "Smooth"
+          "finish": "Glossy surface finish"
         },
         {
-          "type": "Marble flooring",
+          "type": "Mirror",
           "features": [
-            "White marble tiles",
-            "Polished surface"
+            "Rectangular shape",
+            "Black frame"
           ],
           "materials": [
-            "Marble"
+            "Wood for frame, glass for mirror surface"
           ],
-          "finish": "Polished"
+          "finish": "Polished wood and clear glass"
         },
         {
-          "type": "Teak wooden wardrobe",
+          "type": "Paneling",
           "features": [
-            "Carved wooden details",
-            "Round handles"
+            "Wooden texture",
+            "Carved patterns"
           ],
           "materials": [
-            "Teak wood"
+            "Light wood, possibly teak or sheesham"
           ],
-          "finish": "Smooth"
-        },
-        {
-          "type": "Curtain with geometric pattern",
-          "features": [
-            "White background",
-            "Geometric dark pattern",
-            "Rich fabric"
-          ],
-          "materials": [
-            "Rich fabric"
-          ],
-          "finish": "Rich texture"
+          "finish": "Natural wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Brown",
-          "Dark gray"
+          "Black",
+          "Natural wood tones"
         ],
         "materials": [
-          "Teak wood",
-          "Marble",
-          "Rich fabric"
+          "Acrylic, metal, wood, glass"
         ],
-        "lighting": "Soft, ambient lighting with a hint of warm tones",
-        "texture": "Carved wooden textures, polished marble, rich fabric texture"
+        "lighting": "Bright lighting, possibly from a window or artificial ceiling lights",
+        "texture": "Smooth surfaces with some textured wood paneling"
       },
       "indian_context": {
-        "regional_style": "Maharashtrian",
+        "regional_style": "Maharashtra or Karnataka style with contemporary adaptation",
         "traditional_elements": [
-          "Carved wooden elements",
-          "Teak furniture"
+          "Carved wooden paneling"
         ],
         "modern_adaptations": [
-          "Contemporary lighting fixtures",
-          "Marble flooring"
+          "Use of glass and metal in contemporary style"
         ],
-        "space_utilization": "Efficient use of space with well-placed furniture and storage solutions",
-        "cultural_significance": "Reflects a blend of traditional craftsmanship and contemporary aesthetics, common in modern Indian interiors"
+        "space_utilization": "Efficient use of space with a walk-in shower and minimalistic design",
+        "cultural_significance": "Carved wooden paneling carries traditional craftsmanship and aesthetic"
       }
     },
     "confidence_scores": {
       "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
+      "theme": 0.85,
+      "primary_features": 0.9,
       "objects": 0.92,
-      "indian_context": 0.9
+      "indian_context": 0.88
     },
-    "description": "The interior space showcases a contemporary Indian aesthetic with a fusion of traditional and modern elements. The living room features intricately carved teak wooden furniture that embodies the rich craftsmanship of the Maharashtrian region. The use of high-quality marble flooring and rich fabric for the curtains adds a touch of luxury and sophistication. The space is well-organized, utilizing storage solutions such as teak wardrobes, which also feature carved details, emphasizing the blend of functionality and aesthetics. The soft ambient lighting enhances the warm tones of the materials, creating a welcoming and elegant atmosphere.",
+    "description": "The image depicts a modern bathroom with a blend of traditional Indian design elements. The space features a walk-in shower enclosed by an acrylic partition with a dark metal frame, showcasing a contemporary approach. The walls are tiled in white, complementing the black-framed mirror and the carved wooden paneling, typical of Marathi or Kannada architectural styles. The natural wood finish of the paneling adds a rustic charm, while the glass and metal partition bring a contemporary feel. The use of bright lighting enhances the clean and polished look of the space, emphasizing a balance between tradition and modernity.",
     "metadata": {
       "tags": [
         "Indian interior design",
-        "Maharashtrian style",
-        "Contemporary Indian",
-        "Teak furniture",
-        "Marble flooring"
+        "Contemporary bathroom",
+        "Maharashtra style",
+        "Carved wood",
+        "White tiles"
       ],
-      "budget_indicator": "High-end, as indicated by the use of marble and rich fabric",
-      "space_type": "Living room",
-      "functionality": "Primary living and storage space",
-      "indian_specific": "Intricate wooden carvings, teak furniture, and rich fabric"
+      "budget_indicator": "Moderate, with a mix of traditional and modern elements",
+      "space_type": "Bathroom",
+      "functionality": "Primary use for bathing and grooming, with efficient space utilization for a walk-in shower.",
+      "indian_specific": "Carved wooden paneling and traditional designs"
     }
   },
-  "cached_at": 1753450745654,
+  "cached_at": 1754494486131,
   "cache_key": "f8e761db4711fe6e6bed08e188e09166"
 }

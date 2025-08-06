@@ -3,98 +3,95 @@
   "analysis": {
     "image_id": "img_073",
     "ai_generated_tags": {
-      "room": "Sitting Room",
-      "theme": "Contemporary Fusion",
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Modern open-plan layout",
-        "Central TV unit with wooden slats",
-        "White and gold accent furniture",
-        "Round wooden coffee table",
-        "L-shaped white sofa",
-        "Decorative shelving unit with gold accents",
-        "Ceiling with linear lighting"
+        "Modern seating arrangement",
+        "Open-plan design",
+        "Ceiling with linear lighting",
+        "Marble accents"
       ],
       "objects": [
         {
-          "type": "Television",
+          "type": "Sectional sofa",
           "features": [
-            "Mounted on a wooden slatted unit",
-            "Multimedia system underneath"
-          ],
-          "materials": [
-            "Wood",
-            "Marble"
-          ],
-          "finish": "Natural wood with matte finish and polished marble"
-        },
-        {
-          "type": "Coffee Table",
-          "features": [
-            "Round shape",
-            "Natural wood texture"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural wood with matte finish"
-        },
-        {
-          "type": "Sofa",
-          "features": [
-            "L-shaped",
             "White upholstery",
-            "Brown cushions"
+            "Brown cushions",
+            "Compact design"
           ],
           "materials": [
             "Fabric"
           ],
-          "finish": "Fabric with a smooth texture"
+          "finish": "Smooth, clean"
         },
         {
-          "type": "Shelving Unit",
+          "type": "Coffee table",
           "features": [
-            "Gold frame",
-            "Glass panels",
-            "Decorative items displayed"
+            "Round",
+            "Wooden",
+            "Natural grain"
           ],
           "materials": [
-            "Gold metal",
-            "Glass"
+            "Wood"
           ],
-          "finish": "Gold metal with reflective glass"
+          "finish": "Polished"
+        },
+        {
+          "type": "Television unit",
+          "features": [
+            "Marble top",
+            "Wooden slats",
+            "Integrated sound system"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Polished, natural"
+        },
+        {
+          "type": "Sideboard",
+          "features": [
+            "Glass doors",
+            "Gold accents",
+            "Decorative items inside"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy, metallic"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Brown",
-          "Gold",
+          "Golden",
           "Black",
-          "Teal"
+          "Green"
         ],
         "materials": [
-          "Wood",
           "Marble",
+          "Wood",
           "Metal",
-          "Glass",
-          "Fabric",
-          "Ceramic"
+          "Glass"
         ],
-        "lighting": "Modern linear ceiling lights with ambient lighting from pendant lights",
-        "texture": "Smooth wood, polished marble, reflective glass, fabric, textured ceramic"
+        "lighting": "Natural light from large windows, accent lighting on ceiling",
+        "texture": "Smooth, polished surfaces"
       },
       "indian_context": {
-        "regional_style": "Not distinctly Indian regional style",
+        "regional_style": "Mughal-inspired",
         "traditional_elements": [
-          "Carved wooden elements on doors",
-          "Gold accents on the shelving unit"
+          "Carved wooden elements on sideboard",
+          "Marble accents"
         ],
         "modern_adaptations": [
           "Contemporary furniture and lighting",
-          "Modern living room design"
+          "Open-plan design"
         ],
-        "space_utilization": "Open-plan layout with efficient use of space for social interaction",
-        "cultural_significance": "Gold accents and decorative items may symbolize auspiciousness and wealth, common in Indian homes"
+        "space_utilization": "Efficient use of space with a blend of traditional and modern elements",
+        "cultural_significance": "Elements like the sideboard with glass doors and decorative items suggest a focus on displaying cultural artifacts and maintaining a tradition of hospitality"
       }
     },
     "confidence_scores": {
@@ -104,22 +101,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The interior of a modern fusion living room incorporates contemporary design elements with traditional Indian accents. The space features a central TV unit with wooden slatted designs, white and gold accent furniture, and a mix of natural wood, marble, and glass materials. The ceiling has linear lighting, and the room is well-lit with both natural and artificial light, creating a bright and airy atmosphere. The L-shaped white sofa with brown cushions and a round wooden coffee table suggest a comfortable and functional space for socializing and relaxation. The decorative shelving unit with gold accents and a carved wooden door add a touch of traditional elegance, reflecting cultural significance in a modern context.",
+    "description": "This modern Indian living room seamlessly blends contemporary design elements with traditional Indian aesthetics. The open-plan layout encourages interaction, with a focus on comfort and functionality. The use of marble and wood highlights the Mughal architectural influence, while the clean lines and modern furniture provide a contemporary twist. The sideboard, adorned with glass doors and decorative items, reflects a blend of traditional storage and modern display. The lighting, both natural and accent, enhances the warm and inviting atmosphere, while the color palette of white, brown, and gold evokes a sense of calm and elegance.",
     "metadata": {
       "tags": [
-        "Contemporary Fusion",
-        "Modern Living Room",
-        "White and Gold Accents",
-        "Open-Plan Layout",
-        "Indian Influences",
-        "Gold Accents"
+        "Modern Indian",
+        "Contemporary Living Room",
+        "Mughal Influences",
+        "Marble Accents",
+        "Wooden Slats"
       ],
-      "budget_indicator": "Mid to high-end, given the use of marble and polished metals",
+      "budget_indicator": "Moderate to high, given the use of materials like marble and polished metals",
       "space_type": "Residential",
-      "functionality": "Social and relaxation area",
-      "indian_specific": "Gold accents and traditional elements like carved wood doors"
+      "functionality": "Living and entertainment area",
+      "indian_specific": "Mughal-inspired elements"
     }
   },
-  "cached_at": 1753957485166,
+  "cached_at": 1754490295610,
   "cache_key": "fd8b0f4ec90a8b160fbe0d9fa293f7f1"
 }

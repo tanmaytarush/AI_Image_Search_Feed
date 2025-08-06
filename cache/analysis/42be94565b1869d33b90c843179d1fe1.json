@@ -3,79 +3,69 @@
   "analysis": {
     "image_id": "img_293",
     "ai_generated_tags": {
-      "room": "living room",
-      "theme": "contemporary with traditional influences",
+      "room": "Sitting Area",
+      "theme": "Modular Contemporary",
       "primary_features": [
-        "dark navy blue upholstered seating",
-        "wooden storage units",
-        "white curved bench",
-        "marble countertop"
+        "Dark blue accent wall",
+        "Light beige seating",
+        "Wooden shelving unit"
       ],
       "objects": [
         {
-          "type": "armchair",
+          "type": "Seating",
           "features": [
-            "pair of cream-colored armchairs with tufted cushions"
+            "Light beige fabric with casual design"
           ],
           "materials": [
-            "upholstered in cream fabric"
+            "Fabric"
           ],
-          "finish": "smooth and plush"
+          "finish": "Textured"
         },
         {
-          "type": "storage unit",
+          "type": "Shelving Unit",
           "features": [
-            "dark navy blue wooden storage unit with glass doors"
+            "Dark wood with multiple compartments"
           ],
           "materials": [
-            "wooden frame, glass doors"
+            "Wood"
           ],
-          "finish": "polished wood with transparent glass"
+          "finish": "Satin"
         },
         {
-          "type": "bench",
+          "type": "Wall",
           "features": [
-            "white curved bench along the wall"
+            "Dark blue accent wall"
           ],
           "materials": [
-            "wooden frame, upholstered cushion"
+            "Plasterboard with paint"
           ],
-          "finish": "smooth and clean"
-        },
-        {
-          "type": "countertop",
-          "features": [
-            "marble countertop with backsplash"
-          ],
-          "materials": [
-            "marble"
-          ],
-          "finish": "polished marble"
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "dark navy blue",
-          "cream",
-          "white",
-          "marble beige"
+          "Dark blue",
+          "Light beige",
+          "Brown"
         ],
         "materials": [
-          "wood, glass, marble"
+          "Wood",
+          "Fabric",
+          "Plasterboard"
         ],
-        "lighting": "indirect lighting from above, creating a warm atmosphere",
-        "texture": "smooth surfaces with a mix of soft and hard textures"
+        "lighting": "Ambient lighting with no direct light sources visible",
+        "texture": "Textured fabric, smooth wood, glossy paint"
       },
       "indian_context": {
-        "regional_style": "Andhra Pradesh style with modern adaptations",
+        "regional_style": "No specific regional style observed",
         "traditional_elements": [
-          "dark navy blue as an accent color, traditional storage unit with glass doors"
+          "No traditional Indian elements observed"
         ],
         "modern_adaptations": [
-          "contemporary furniture with soft textures, curved bench with modern lines"
+          "Simplification of traditional elements for modern appeal"
         ],
-        "space_utilization": "efficient use of the space with built-in storage and seating area",
-        "cultural_significance": "Dark navy blue is often used in Andhra Pradesh to signify sophistication and luxury, reflecting cultural aesthetics"
+        "space_utilization": "Efficient use of space with minimalistic decor",
+        "cultural_significance": "No cultural relevance to Indian design observed"
       }
     },
     "confidence_scores": {
@@ -85,22 +75,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image showcases a modern living room with a contemporary design aesthetic, incorporating traditional Indian elements. The space features dark navy blue as an accent color, mimicking the traditional storage units and glass doors often seen in Andhra Pradesh. The room includes cream-colored armchairs for comfort, a white curved bench for additional seating, and a marble countertop that reflects light, enhancing the contemporary feel. The space is organized with efficient storage, and the overall design is culturally relevant, highlighting the sophistication and luxury often depicted in Andhra Pradesh interiors.",
+    "description": "This image showcases a modern sitting area with a dark blue accent wall and light beige seating. The wooden shelving unit adds a touch of traditional craftsmanship, yet the overall design is contemporary with a focus on minimalism and functionality. The space is organized with efficient use of the available area, providing a relaxed and stylish environment.",
     "metadata": {
       "tags": [
-        "living room",
-        "Indian interior design",
-        "contemporary style",
-        "dark navy blue",
-        "marble countertop",
-        "Andhra Pradesh style"
+        "Modern",
+        "Contemporary",
+        "Sitting Area",
+        "Minimalistic",
+        "Dark Blue"
       ],
-      "budget_indicator": "Mid-range to high, due to the use of marble and the craftsmanship of the furniture",
-      "space_type": "residential living area",
-      "functionality": "mainly for relaxation and socializing, with storage for the living room",
-      "indian_specific": "dark navy blue accent, traditional storage unit design, marble countertop"
+      "budget_indicator": "Moderate",
+      "space_type": "Residential Living",
+      "functionality": "Relaxation and casual seating",
+      "indian_specific": "No"
     }
   },
-  "cached_at": 1753460061989,
+  "cached_at": 1754494760972,
   "cache_key": "42be94565b1869d33b90c843179d1fe1"
 }

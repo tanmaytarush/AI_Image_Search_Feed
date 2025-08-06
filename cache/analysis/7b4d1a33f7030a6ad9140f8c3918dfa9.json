@@ -3,77 +3,94 @@
   "analysis": {
     "image_id": "img_115",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modular Indian Interiors",
+      "room": "Bedroom",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Wooden modular units",
-        "Built-in shelves",
-        "Panelled walls",
-        "Orange accent pillows"
+        "Built-in wardrobes",
+        "Recessed lighting",
+        "Decorative elements"
       ],
       "objects": [
         {
-          "type": "Modular storage unit",
+          "type": "Built-in wardrobe",
           "features": [
-            "Built-in shelves for storage",
-            "Panelled structure",
-            "Wooden finish"
+            "Customized design with storage compartments",
+            "Integrated into the wall"
           ],
           "materials": [
-            "Wooden panels",
-            "Metal hardware"
+            "Wooden finish"
           ],
-          "finish": "Natural wood finish with metallic accents"
+          "finish": "Polished wood with a glossy finish"
+        },
+        {
+          "type": "Recessed lighting",
+          "features": [
+            "Horizontal stripes on the wall"
+          ],
+          "materials": [
+            "Painted finish"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Decorative elements",
+          "features": [
+            "Orange and white striped wall panels"
+          ],
+          "materials": [
+            "Painted finish"
+          ],
+          "finish": "Matte finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown wood tones",
-          "Orange pillows",
-          "White walls"
+          "Orange",
+          "White",
+          "Brown",
+          "Beige"
         ],
         "materials": [
           "Wood",
-          "Metal",
-          "Textiles"
+          "Paint"
         ],
-        "lighting": "Natural light from ceiling lights",
-        "texture": "Smooth wood panels with soft fabric pillows"
+        "lighting": "Recessed lighting with a warm tone",
+        "texture": "Smooth and shiny surfaces"
       },
       "indian_context": {
-        "regional_style": "Maharashtrian residential style with a modern twist",
+        "regional_style": "Central Indian",
         "traditional_elements": [
-          "Panelled walls"
+          "Carved wooden elements on wardrobes"
         ],
         "modern_adaptations": [
-          "Modular design and built-in storage"
+          "Integration of modern lighting and storage solutions"
         ],
-        "space_utilization": "Efficient use of space with built-in storage units",
-        "cultural_significance": "The use of panelled walls and built-in storage is a nod to traditional Maharashtrian homes, where functionality and storage are paramount"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image showcases a modern interpretation of a Maharashtrian living room, featuring panelled walls and built-in modular storage units. The natural wood finish and built-in shelves highlight a functional approach to interior design, typical in Maharashtrian homes where storage is essential. The orange accent pillows add a pop of color, bringing a contemporary touch to the traditional setting. The use of panelled walls and wooden modular units is a blend of modern design with traditional Indian elements, emphasizing efficiency and aesthetic appeal.",
-      "metadata": {
-        "tags": [
-          "Maharashtrian",
-          "Modern",
-          "Built-in storage",
-          "Panelled walls",
-          "Orange accents"
-        ],
-        "budget_indicator": "Medium to high, due to the use of quality wood and metallic hardware",
-        "space_type": "Residential Living Room",
-        "functionality": "Storage and display",
-        "indian_specific": "Panelled walls and built-in storage units"
+        "space_utilization": "Efficient use of wall space for storage",
+        "cultural_significance": "The use of orange and white stripes may symbolize the Indian flag, indicating a patriotic touch"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern interpretation of traditional Indian design, featuring built-in wardrobes with a polished wooden finish, recessed lighting integrated into the wall, and orange and white striped decorative elements. The design incorporates a blend of traditional craftsmanship, such as carved wooden details on the wardrobes, with contemporary storage solutions and lighting, making it a functional and stylish bedroom space. The color palette and decorative elements in orange and white are culturally significant, subtly referencing the Indian flag, which adds a patriotic touch to the room.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Bedroom",
+        "Built-in wardrobes",
+        "Recessed lighting",
+        "Indian flag theme"
+      ],
+      "budget_indicator": "Moderate, with a focus on durable materials like wood and paint for a polished finish",
+      "space_type": "Residential bedroom",
+      "functionality": "Storage and display",
+      "indian_specific": "Carved wooden elements, use of orange and white stripes"
     }
   },
-  "cached_at": 1753448515388,
+  "cached_at": 1754491302595,
   "cache_key": "7b4d1a33f7030a6ad9140f8c3918dfa9"
 }

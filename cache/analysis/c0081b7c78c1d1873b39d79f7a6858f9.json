@@ -3,69 +3,55 @@
   "analysis": {
     "image_id": "img_061",
     "ai_generated_tags": {
-      "room": "Entryway",
-      "theme": "Indian Traditional",
+      "room": "Puja room",
+      "theme": "Indian traditional with modern adaptations",
       "primary_features": [
-        "Carved wooden divan",
-        "Glass panel with etched designs",
-        "Cabinet with religious symbols"
+        "Diwan with religious symbols",
+        "Marble finish",
+        "Carved wooden elements",
+        "Glass window"
       ],
       "objects": [
         {
-          "type": "Divan",
+          "type": "Diwan",
           "features": [
-            "Carved wooden design",
-            "Upper section with glass panel and etched iconography"
+            "Carved wooden frame",
+            "Decorative glass panel with religious motifs"
           ],
           "materials": [
             "Wood",
-            "Glass"
+            "Marble"
           ],
-          "finish": "Polished wood with etched glass panel"
-        },
-        {
-          "type": "Cabinet",
-          "features": [
-            "Two doors with bell-shaped design on the top",
-            "Om and Swastika symbols on the doors",
-            "Pull handles"
-          ],
-          "materials": [
-            "Wood",
-            "Metal"
-          ],
-          "finish": "Wood with metallic handles"
+          "finish": "High-gloss finish on marble"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Black",
-          "Gold"
+          "White marble",
+          "Dark brown wood",
+          "Black marble base"
         ],
         "materials": [
           "Wood",
-          "Glass",
-          "Metal"
+          "Marble",
+          "Glass"
         ],
-        "lighting": "Natural light from the right, artificial light from the left",
-        "texture": "Smooth wood texture, glass panel with etched designs, metal handles"
+        "lighting": "Natural light from right side, artificial lighting from ceiling",
+        "texture": "Smooth marble texture, carved wood grain"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but has elements of traditional Indian design",
+        "regional_style": "Northern Indian",
         "traditional_elements": [
-          "Divan",
-          "Om",
-          "Swastika",
-          "Bell-shaped designs"
+          "Diwan design",
+          "Swastika motif",
+          "Om symbol"
         ],
         "modern_adaptations": [
-          "Polished finishes",
-          "Glass and metal blend"
+          "Glass panel",
+          "Modern finish"
         ],
-        "space_utilization": "Space is used for storage with decorative elements",
-        "cultural_significance": "Om and Swastika are significant religious symbols in Hinduism, indicating a space for spiritual practices and reverence"
+        "space_utilization": "Efficient use of vertical space with storage",
+        "cultural_significance": "Symbolic elements represent religious and spiritual values"
       }
     },
     "confidence_scores": {
@@ -75,23 +61,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image depicts an Indian-style entryway with a carved wooden divan featuring a glass panel with etched designs. Below the panel are two cabinet doors adorned with bell-shaped designs and religious symbols, such as Om and Swastika. The space is illuminated by natural light from the right and artificial light from the left, highlighting the polished wood and glass materials. The overall design reflects traditional Indian aesthetics with modern finishes.",
+    "description": "This image depicts a puja room in a modern Indian home, featuring a traditional diwan with carved wooden elements and a central glass panel displaying religious symbols. The high-gloss marble and dark wood combination gives the space a luxurious yet spiritual ambiance, blending traditional Indian design with contemporary finishes. The use of religious symbols such as the Swastika and Om emphasizes the cultural and spiritual significance of the room.",
     "metadata": {
       "tags": [
-        "Indian design",
-        "Entryway",
-        "Traditional furniture",
-        "Etched glass",
+        "Puja room",
+        "Indian interior",
+        "Traditional design",
         "Religious symbols",
-        "Polished wood",
-        "Glass panel"
+        "Marble finish",
+        "Modern adaptation"
       ],
-      "budget_indicator": "Moderate, with a mix of traditional materials (wood, glass) and modern finishes (polished surfaces, metal handles)",
-      "space_type": "Residential entryway",
-      "functionality": "Storage and display of religious symbols",
-      "indian_specific": "Divan with religious symbols, glass panel with etched designs"
+      "budget_indicator": "Mid-high, due to high-quality materials like marble and polished wood",
+      "space_type": "Residential, home puja room",
+      "functionality": "Used for religious rituals and prayer",
+      "indian_specific": "Carved wooden elements, religious motifs, marble finish"
     }
   },
-  "cached_at": 1753957366849,
+  "cached_at": 1754490031967,
   "cache_key": "c0081b7c78c1d1873b39d79f7a6858f9"
 }

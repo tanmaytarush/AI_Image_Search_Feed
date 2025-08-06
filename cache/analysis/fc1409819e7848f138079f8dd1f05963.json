@@ -3,67 +3,56 @@
   "analysis": {
     "image_id": "img_060",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Indian Interior",
+      "room": "Living room",
+      "theme": "Contemporary with Indian influences",
       "primary_features": [
-        "TV unit",
-        "Cupboard with religious symbols",
-        "White and brown color scheme"
+        "Built-in entertainment unit",
+        "Decorative wardrobe with traditional symbols"
       ],
       "objects": [
         {
-          "type": "TV unit",
+          "type": "Built-in entertainment unit",
           "features": [
-            "Dark wood finish",
-            "Cabinet with glass doors"
+            "Integrated television and storage cabinets"
           ],
           "materials": [
-            "Dark wood",
-            "Glass"
+            "MDF with lacquered finish"
           ],
-          "finish": "High-gloss finish"
+          "finish": "Shiny lacquered finish"
         },
         {
-          "type": "Cupboard",
+          "type": "Decorative wardrobe",
           "features": [
-            "White panels with cut-out designs",
-            "Golden handles",
-            "Religious symbols (Om, Swastika)"
+            "Cabinet with cut-out patterns and religious symbols"
           ],
           "materials": [
-            "MDF",
-            "Hardware"
+            "MDF with painted finish"
           ],
-          "finish": "Smooth finish"
+          "finish": "Matt painted finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Dark brown",
-          "Dark gray"
+          "White, Brown, Black"
         ],
         "materials": [
-          "MDF",
-          "Glass",
-          "Hardware",
-          "Painted wood"
+          "MDF, lacquered finish, painted finish"
         ],
-        "lighting": "Natural lighting from an unseen source",
-        "texture": "Smooth interior finishes with glossy and matte textures"
+        "lighting": "Natural light from an unseen window, ambient indoor lighting",
+        "texture": [
+          "Smooth lacquered finish, painted texture"
+        ]
       },
       "indian_context": {
-        "regional_style": "This appears to be a modern interpretation of North Indian style, possibly from a larger city",
+        "regional_style": "Not specific to a particular Indian region",
         "traditional_elements": [
-          "Religious symbols",
-          "Carved designs"
+          "Om symbol, Swastika, hand gestures"
         ],
         "modern_adaptations": [
-          "High-gloss finishes",
-          "Glass doors"
+          "Integration of traditional symbols into a modern interior design"
         ],
-        "space_utilization": "Optimal use of space with a TV unit and a cupboard",
-        "cultural_significance": "The inclusion of religious symbols like Om and Swastika is culturally significant, representing spirituality and good fortune respectively"
+        "space_utilization": "Efficient use of space for both storage and entertainment",
+        "cultural_significance": "The symbols are significant in Indian culture, representing spirituality and good luck"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -72,22 +61,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern Indian living space with a focus on functionality and cultural elements. The living room features a TV unit with a dark wood finish and glass doors, complemented by a large cupboard with white panels and intricate cut-out designs featuring religious symbols. The color scheme is primarily white and dark brown, with a glossy finish, suggesting a contemporary take on traditional North Indian design. The inclusion of religious symbols adds a layer of cultural significance, likely representing the owner's spiritual beliefs. The overall design is clean and organized, indicating a well-thought-out space that balances modern aesthetics with traditional Indian motifs.",
+      "description": "The image depicts a modern living room with a built-in entertainment unit and a decorative wardrobe. The wardrobe features cut-out patterns and traditional Indian symbols such as the Om and Swastika, along with hand gestures, blending contemporary design with cultural elements. The space is well-organized for both entertainment and storage, with a focus on aesthetic appeal and cultural relevance.",
       "metadata": {
         "tags": [
-          "Modern Indian Interior",
-          "Living Room",
-          "Religious Symbols",
-          "White and Brown",
-          "Functional Design"
+          "Living room",
+          "Indian interior design",
+          "Contemporary style",
+          "Symbolic design",
+          "Storage unit"
         ],
-        "budget_indicator": "Moderate, with the use of high-gloss finishes and glass doors indicating a slightly higher budget",
-        "space_type": "Residential Living Room",
+        "budget_indicator": "Moderate, as it involves MDF with painted and lacquered finishes",
+        "space_type": "Residential living room",
         "functionality": "Entertainment and storage",
-        "indian_specific": "Religious symbols, MDF construction, high-gloss finishes"
+        "indian_specific": "Traditional symbols in modern design"
       }
     }
   },
-  "cached_at": 1753957352698,
+  "cached_at": 1754490015557,
   "cache_key": "fc1409819e7848f138079f8dd1f05963"
 }

@@ -3,70 +3,82 @@
   "analysis": {
     "image_id": "img_142",
     "ai_generated_tags": {
-      "room": "Living room",
+      "room": "Living Room",
       "theme": "Contemporary Indian",
       "primary_features": [
-        "Large window with sheer curtains",
-        "Black leather sofa set",
-        "Round dining table with wooden chairs",
-        "Built-in shelves"
+        "Modern furniture with traditional accents",
+        "Open floor plan",
+        "Neutral color palette with pops of color",
+        "Large windows for natural light"
       ],
       "objects": [
         {
-          "type": "Black leather sofa set",
+          "type": "Sofa",
           "features": [
-            "Modern design, minimalist style"
+            "Comfortably upholstered",
+            "Dark fabric material"
           ],
           "materials": [
-            "Leather"
+            "Fabric"
           ],
-          "finish": "Smooth, polished"
+          "finish": "Textured fabric finish"
         },
         {
-          "type": "Round dining table with wooden chairs",
+          "type": "Dining Table",
           "features": [
-            "Light wood finish",
-            "Minimalist design"
+            "Rectangular shape",
+            "Wooden frame with metal legs",
+            "Center display area"
           ],
           "materials": [
-            "Wood"
+            "Wood",
+            "Metal"
           ],
-          "finish": "Natural, polished"
+          "finish": "Woodgrain and metal polish"
         },
         {
-          "type": "Built-in shelves",
+          "type": "Dining Chairs",
           "features": [
-            "Integrated with the wall",
-            "Dark wood finish"
+            "Wooden seats and backs",
+            "Metallic frames",
+            "Dark upholstery"
           ],
           "materials": [
-            "Wood"
+            "Wood",
+            "Metal",
+            "Fabric"
           ],
-          "finish": "Rich, glossy"
+          "finish": "Woodgrain, metallic sheen, and fabric texture"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White walls and ceiling",
-          "Dark wood tones",
-          "Light upholstery"
+          "White walls",
+          "Dark wood furniture",
+          "Metallic accents",
+          "Neutral carpet",
+          "Pop of color in seating"
         ],
         "materials": [
-          "Wood, leather, metal, glass"
+          "Wood",
+          "Metal",
+          "Fabric",
+          "Marble"
         ],
-        "lighting": "Natural light from large window, ambient ceiling lights",
-        "texture": "Smooth leather, polished wood, glass"
+        "lighting": "Natural light from large windows, supplemented by ceiling lights",
+        "texture": "Smooth wooden surfaces, textured fabric, shiny metal accents"
       },
       "indian_context": {
-        "regional_style": "Mumbai contemporary",
+        "regional_style": "Not explicitly regional, but elements suggest a broader Indian style influence",
         "traditional_elements": [
-          "No prominent traditional elements"
+          "Traditional furniture style with modern interpretation",
+          "Use of wood and metal in furniture"
         ],
         "modern_adaptations": [
-          "Minimalist design with Indian materials"
+          "Integration of modern furniture with traditional design cues"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture and large windows",
-        "cultural_significance": "Modern interpretation of Indian design with a focus on comfort and functionality"
+        "space_utilization": "Open and functional layout, maximizing space",
+        "cultural_significance": "Neutral color palette and modern furniture suggest a focus on practicality and comfort, which are important in Indian homes"
       }
     },
     "confidence_scores": {
@@ -76,21 +88,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The interior space is a modern, contemporary Indian living room characterized by a sleek and minimalist design. The room features a large window with sheer curtains, allowing ample natural light. The seating area includes a black leather sofa set and a round dining table with wooden chairs. Built-in shelves are integrated into the wall, adding to the efficiency and modernity of the space. The color palette consists of white walls and ceiling, contrasted with dark wood furniture and light upholstery, creating a balanced and inviting atmosphere. The lighting is a mix of natural light from the window and ambient ceiling lights, enhancing the overall ambiance. The space showcases a modern interpretation of Indian design elements, focusing on comfort and functionality.",
+    "description": "This image showcases a modern Indian living room with a focus on contemporary design elements blended with traditional Indian aesthetics. The room features a dark sofa set against white walls, complemented by a rectangular wooden dining table and metallic chairs with dark upholstery. The use of wood, metal, and fabric in the furniture reflects traditional materials with a modern twist. The large windows provide ample natural light, and the neutral carpeting and white walls create a spacious, clean look, while the pops of color in the seating add a traditional touch. The overall design is functional, comfortable, and culturally significant, reflecting a modern Indian home.",
     "metadata": {
       "tags": [
-        "Contemporary Indian",
-        "Mumbai design",
-        "Modern living room",
-        "Minimalist design",
-        "Sleek furniture"
+        "Modern Indian",
+        "Contemporary Indian Living Room",
+        "Neutral Color Palette",
+        "Wood and Metal Furniture",
+        "Open Floor Plan"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential living room",
-      "functionality": "Social and relaxation space",
-      "indian_specific": "Modern adaptation of Indian design materials and aesthetics"
+      "budget_indicator": "Moderate, with a focus on quality materials such as wood and metal, indicating a mid-range budget.",
+      "space_type": "Residential Living Room",
+      "functionality": "Primary purpose is for relaxation and socializing, with the addition of a dining area for meals.",
+      "indian_specific": "Traditional furniture styles and materials, such as wood and metallic accents, used in a contemporary setting."
     }
   },
-  "cached_at": 1753449098971,
+  "cached_at": 1754491682803,
   "cache_key": "8d4774a48ac111c4ce5b78f8f840f568"
 }

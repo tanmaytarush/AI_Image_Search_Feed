@@ -4,49 +4,67 @@
     "image_id": "img_177",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Contemporary with Indian Influences",
+      "theme": "Simplistic Indian Fusion",
       "primary_features": [
-        "Wooden wardrobe with sliding doors",
-        "Carved wooden headboard",
-        "Wooden wall paneling"
+        "Built-in wardrobe",
+        "Fitted bed frame",
+        "Wooden flooring",
+        "Simple decor"
       ],
       "objects": [
         {
-          "type": "Carved wooden headboard",
+          "type": "Wardrobe",
           "features": [
-            "Detailed carvings",
-            "Rajasthani or North Indian style"
+            "Elegant design with light-colored panels and darker trim",
+            "Sliding doors"
           ],
           "materials": [
-            "Wood"
+            "Light wood, possibly teak or mahogany",
+            "Metal hardware"
           ],
-          "finish": "Natural wood finish with varnish"
+          "finish": "Polished, smooth finish"
+        },
+        {
+          "type": "Fitted bed frame",
+          "features": [
+            "Simple design with visible wood grain",
+            "Integrated storage space under the bed"
+          ],
+          "materials": [
+            "Wood, possibly teak or sheesham",
+            "Metal hardware"
+          ],
+          "finish": "Natural wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (wood)",
-          "White (wardrobe)",
-          "Blue (pillow)"
+          "White",
+          "Light wood tones",
+          "Dark trim",
+          "Gray wall"
         ],
         "materials": [
           "Wood",
-          "Metal (wardrobe hardware)"
+          "Metal",
+          "Fabric"
         ],
-        "lighting": "Natural light from unseen windows, suggesting daytime",
-        "texture": "Smooth wood finish with intricate carvings"
+        "lighting": "Natural light from unseen windows",
+        "texture": "Smooth wood finish, fabric texture"
       },
       "indian_context": {
-        "regional_style": "North Indian Rajasthani",
+        "regional_style": "This appears to be a modern interpretation of traditional Indian design without regional specificity",
         "traditional_elements": [
-          "Carved headboard",
-          "Wooden wardrobe"
+          "Built-in wardrobes",
+          "Wooden bed frames",
+          "Natural wood finish"
         ],
         "modern_adaptations": [
-          "Contemporary wardrobe design with sliding doors"
+          "Simplicity and minimalism in design",
+          "Use of contemporary lighting"
         ],
-        "space_utilization": "Efficient use of vertical space with sliding wardrobe doors",
-        "cultural_significance": "The carved headboard and wooden wardrobe reflect traditional craftsmanship and regional styles, often used in North Indian interiors to add elegance and cultural richness"
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "The use of wood is culturally significant in Indian design, symbolizing durability and warmth"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -55,22 +73,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern bedroom with a focus on traditional Indian design elements. The carved wooden headboard is a hallmark of North Indian craftsmanship, likely influenced by Rajasthani styles. The wooden wardrobe with sliding doors is a modern adaptation, making efficient use of space while maintaining a traditional aesthetic. The natural wood finish and intricate carvings highlight the cultural significance of these elements in Indian interiors.",
+      "description": "The image depicts a modern Indian bedroom with a focus on simplicity and functionality. The space features a built-in wardrobe and a fitted bed frame, both crafted from light wood, with a clean and minimalist aesthetic. The use of natural wood textures and a light color palette contributes to a warm and inviting atmosphere. The design incorporates traditional Indian elements, such as the wooden bed frame and the use of natural materials, adapted with a contemporary touch.",
       "metadata": {
         "tags": [
-          "Modern Indian Bedroom",
-          "Rajasthani Style",
-          "Carved Wood",
-          "Sliding Wardrobe",
-          "North Indian"
+          "Indian bedroom",
+          "Modern Indian design",
+          "Fitted furniture",
+          "Natural wood",
+          "Minimalism"
         ],
-        "budget_indicator": "Moderate, with a focus on quality wood and craftsmanship",
-        "space_type": "Residential Bedroom",
+        "budget_indicator": "Moderate, with a focus on quality materials like wood and metal hardware",
+        "space_type": "Bedroom",
         "functionality": "Sleeping and storage",
-        "indian_specific": "Carved wooden headboard, wooden wardrobe with sliding doors"
+        "indian_specific": "Use of natural wood and simple design"
       }
     }
   },
-  "cached_at": 1753449659465,
+  "cached_at": 1754492566747,
   "cache_key": "add6bab7010dc663dd6123760533fa27"
 }

@@ -3,49 +3,42 @@
   "analysis": {
     "image_id": "img_334",
     "ai_generated_tags": {
-      "room": "Not applicable",
-      "theme": "Modern",
-      "primary_features": [
-        "Casual attire"
-      ],
+      "room": "Not applicable - this image is a portrait of a person.",
+      "theme": "Not applicable - this image is a portrait of a person.",
+      "primary_features": [],
       "objects": [],
       "visual_attributes": {
         "colors": [
-          "Black, white, green"
+          "Brown, Blue, Black"
         ],
         "materials": [],
-        "lighting": "Natural daylight",
-        "texture": "Soft, smooth"
+        "lighting": "Natural lighting, possibly with a flash for emphasis.",
+        "texture": "Smooth"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "Not applicable - this image is a portrait of a person.",
         "traditional_elements": [],
         "modern_adaptations": [],
-        "space_utilization": "Not applicable",
-        "cultural_significance": "Not applicable"
+        "space_utilization": "Not applicable - this image is a portrait of a person.",
+        "cultural_significance": "Not applicable - this image is a portrait of a person."
       }
     },
     "confidence_scores": {
-      "room": 0.5,
-      "theme": 0.75,
-      "primary_features": 0.7,
-      "objects": 0.5,
-      "indian_context": 0.4
+      "room": 0,
+      "theme": 0,
+      "primary_features": 0,
+      "objects": 0,
+      "indian_context": 0
     },
-    "description": "The image depicts a person wearing casual attire, with a black top and green pants. The background is a plain, light-colored wall, and the lighting appears to be natural daylight. There are no visible Indian design elements or traditional furniture in the image, indicating a modern setting without specific Indian design influences.",
+    "description": "This image is a portrait of a person, lacks any visible interior design elements, and thus does not provide insights into Indian design elements or cultural significance.",
     "metadata": {
-      "tags": [
-        "Casual attire",
-        "Modern",
-        "Natural lighting",
-        "Plain background"
-      ],
-      "budget_indicator": "Not applicable",
-      "space_type": "Not applicable",
-      "functionality": "Not applicable",
-      "indian_specific": "Not applicable"
+      "tags": [],
+      "budget_indicator": "N/A - this is a portrait, not an interior space.",
+      "space_type": "N/A - this is a portrait, not an interior space.",
+      "functionality": "N/A - this is a portrait, not an interior space.",
+      "indian_specific": "N/A - this is a portrait, not an interior space."
     }
   },
-  "cached_at": 1753460574357,
+  "cached_at": 1754495424655,
   "cache_key": "f0ea98c18831ed2c34ee27fc1924e7c0"
 }

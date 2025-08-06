@@ -3,92 +3,53 @@
   "analysis": {
     "image_id": "img_196",
     "ai_generated_tags": {
-      "room": "Living Space",
-      "theme": "Modern Indian Interiors",
+      "room": "Not applicable (face close-up image)",
+      "theme": "Not applicable (face close-up image)",
       "primary_features": [
-        "Wall Decor",
-        "Lighting fixture",
-        "Seating Area"
+        "Young individual with dark hair, wearing a white shirt"
       ],
-      "objects": [
-        {
-          "type": "Seating Area",
-          "features": [
-            "Comfortable cushions",
-            "Wooden frame"
-          ],
-          "materials": [
-            "Wood, Fabric"
-          ],
-          "finish": "Polished wood finish, soft fabric upholstery"
-        },
-        {
-          "type": "Wall Decor",
-          "features": [
-            "Carved wooden panel",
-            "Hanging mirror"
-          ],
-          "materials": [
-            "Wood, Metal"
-          ],
-          "finish": "Carved wood finish, shiny metal"
-        },
-        {
-          "type": "Lighting fixture",
-          "features": [
-            "Modern design",
-            "Glass shade"
-          ],
-          "materials": [
-            "Metal, Glass"
-          ],
-          "finish": "Shiny metal, clear glass"
-        }
-      ],
+      "objects": [],
       "visual_attributes": {
         "colors": [
-          "Wood brown, Cream, White, Silver"
+          "Dark hair, white shirt, blue background"
         ],
         "materials": [
-          "Wood, Fabric, Metal, Glass"
+          "Clothing material, background material"
         ],
-        "lighting": "Soft ambient lighting, focused light on the seating area",
-        "texture": "Smooth wood, soft fabric, shiny metal, glass"
+        "lighting": "Neutral lighting, possibly studio lighting",
+        "texture": "Skin texture, clothing texture, background texture"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional",
-        "traditional_elements": [
-          "Carved wooden panel"
-        ],
-        "modern_adaptations": [
-          "Integrated modern design elements"
-        ],
-        "space_utilization": "Optimized seating and decorative space",
-        "cultural_significance": "Reflects modern interpretation of traditional Indian design"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The interior space showcases a modern interpretation of traditional Indian design with contemporary elements. A carved wooden panel serves as a focal point, complemented by a comfortable seating area with polished wood and soft fabric. The warm wood tones are contrasted with metallic and glass elements, creating a balanced aesthetic. Lighting fixtures with a glass shade enhance the room's ambiance, while the overall design reflects cultural relevance and modern adaptations.",
-      "metadata": {
-        "tags": [
-          "Modern Indian Interiors",
-          "Carved Wood",
-          "Seating Area",
-          "Wall Decor",
-          "Lighting"
-        ],
-        "budget_indicator": "Moderate",
-        "space_type": "Living Room",
-        "functionality": "Relaxation and socializing",
-        "indian_specific": "Carved wood panel"
+        "regional_style": "Not applicable (face close-up image)",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Not applicable (face close-up image)",
+        "cultural_significance": "Not applicable (face close-up image)"
       }
+    },
+    "confidence_scores": {
+      "room": 0.8,
+      "theme": 0.75,
+      "primary_features": 0.9,
+      "objects": 0.8,
+      "indian_context": 0.6
+    },
+    "description": "This is a close-up image of a young individual with dark hair, wearing a white shirt. The background is a solid blue color, and the lighting appears to be neutral, suggesting a studio setting.",
+    "metadata": {
+      "tags": [
+        "face close-up",
+        "young individual",
+        "dark hair",
+        "white shirt",
+        "neutral lighting",
+        "blue background"
+      ],
+      "budget_indicator": "Not applicable (face close-up image)",
+      "space_type": "Not applicable (face close-up image)",
+      "functionality": "Not applicable (face close-up image)",
+      "indian_specific": "Not applicable (face close-up image)"
     }
   },
-  "cached_at": 1753449852125,
+  "cached_at": 1754492925868,
   "cache_key": "a1411a779d6bbff12a2e912f0a9a927d"
 }

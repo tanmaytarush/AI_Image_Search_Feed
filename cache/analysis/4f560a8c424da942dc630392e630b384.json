@@ -3,53 +3,51 @@
   "analysis": {
     "image_id": "img_173",
     "ai_generated_tags": {
-      "room": "Not applicable, as this is a portrait of a person.",
-      "theme": "Not applicable, as this is a portrait of a person.",
-      "primary_features": [
-        "Man with mustache, wearing a shirt"
-      ],
-      "objects": [
-        {
-          "type": "Man",
-          "features": [
-            "Mustache, wearing a shirt"
-          ],
-          "materials": [],
-          "finish": "Not applicable, as the focus is on a person."
-        }
-      ],
+      "room": "Not applicable - This appears to be a close-up portrait of a person",
+      "theme": "Not applicable - This image is a portrait, not an interior design",
+      "primary_features": [],
+      "objects": [],
       "visual_attributes": {
         "colors": [
-          "Not applicable, as the focus is on a person."
+          "Blue",
+          "White",
+          "Black"
         ],
         "materials": [],
-        "lighting": "Not applicable, as the focus is on a person.",
-        "texture": "Not applicable, as the focus is on a person."
+        "lighting": "Natural light, possibly from a window",
+        "texture": "Smooth and uniform"
       },
       "indian_context": {
-        "regional_style": "Not applicable, as this is a portrait of a person.",
+        "regional_style": "Not applicable - This image is not an Indian interior",
         "traditional_elements": [],
         "modern_adaptations": [],
-        "space_utilization": "Not applicable, as this is a portrait of a person.",
-        "cultural_significance": "Not applicable, as this is a portrait of a person."
+        "space_utilization": "Not applicable - This is a portrait, not an indoor space",
+        "cultural_significance": "Not applicable - This image does not contain cultural elements"
+      },
+      "confidence_scores": {
+        "room": 0,
+        "theme": 0,
+        "primary_features": 0,
+        "objects": 0,
+        "indian_context": 0
+      },
+      "description": "This is a portrait of a person wearing a blue shirt and a black tie against a white background. The image is well-lit with natural light, suggesting it might be taken outdoors or near a bright window. The person is facing the camera directly, and the image does not contain any interior design elements.",
+      "metadata": {
+        "tags": [
+          "Portrait",
+          "Individual",
+          "Clothing",
+          "Blue",
+          "White",
+          "Black"
+        ],
+        "budget_indicator": "Not applicable - This is a portrait, not an interior design",
+        "space_type": "Not applicable - This is a portrait, not an interior space",
+        "functionality": "Not applicable - This is a portrait, not a functional space",
+        "indian_specific": "Not applicable - This is a portrait, not an Indian interior design"
       }
-    },
-    "confidence_scores": {
-      "room": 0,
-      "theme": 0,
-      "primary_features": 1,
-      "objects": 1,
-      "indian_context": 0
-    },
-    "description": "This image is a portrait of a man with a mustache, dressed in a shirt, set against a plain background. There are no Indian design elements, traditional furniture, or cultural decorative elements visible in the image.",
-    "metadata": {
-      "tags": [],
-      "budget_indicator": "Not applicable, as this is a portrait of a person.",
-      "space_type": "Not applicable, as this is a portrait of a person.",
-      "functionality": "Not applicable, as this is a portrait of a person.",
-      "indian_specific": []
     }
   },
-  "cached_at": 1753459026797,
+  "cached_at": 1754492475202,
   "cache_key": "4f560a8c424da942dc630392e630b384"
 }

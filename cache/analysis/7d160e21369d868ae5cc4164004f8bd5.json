@@ -2,79 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-06-13%20at%2016.07.32%20%281%29.jpeg",
   "analysis": {
     "image_id": "img_429",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-06-13%20at%2016.07.32%20%281%29.jpeg",
     "ai_generated_tags": {
-      "room": "closet",
-      "theme": "contemporary",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "wooden cabinets",
-        "sliding doors",
-        "mirrored panels",
-        "lighting fixtures"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "cabinet",
+          "type": "furniture",
           "features": [
-            "wooden finish",
-            "sliding doors",
-            "mirrored panels"
+            "traditional_style"
           ],
           "materials": [
             "wood",
-            "glass"
+            "fabric"
           ],
-          "finish": "high-gloss finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "brown",
-          "white",
-          "black",
-          "red"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
           "wood",
-          "glass",
-          "metal"
+          "fabric",
+          "textiles"
         ],
-        "lighting": "overhead lights",
-        "texture": "smooth"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "not identifiable",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "wooden finish"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "sliding doors, mirrored panels"
+          "contemporary_design"
         ],
-        "space_utilization": "efficient use of space within a closet",
-        "cultural_significance": "wooden finishes hold cultural significance in Indian design, often associated with durability and warmth"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.8
-      },
-      "description": "The image depicts a modern closet with wooden cabinets featuring sliding doors and mirrored panels. The design incorporates a contemporary aesthetic with a focus on functionality. The use of wood as a primary material is reminiscent of traditional Indian design, where wood is often used for its durability and aesthetic appeal. The presence of mirrors adds a modern touch, while the overall design is clean and efficient in terms of space utilization.",
-      "metadata": {
-        "tags": [
-          "modern closet",
-          "wooden cabinets",
-          "functional design",
-          "mirror panels",
-          "contemporary style"
-        ],
-        "budget_indicator": "moderate",
-        "space_type": "residential closet",
-        "functionality": "personal storage and organization",
-        "indian_specific": "wooden finish"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "WhatsApp%20Image%202023-06-13%20at%2016.07.32%20%281%29.jpeg"
   },
-  "cached_at": 1753461772070,
+  "cached_at": 1754496423575,
   "cache_key": "7d160e21369d868ae5cc4164004f8bd5"
 }

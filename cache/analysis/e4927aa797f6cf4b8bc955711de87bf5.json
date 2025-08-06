@@ -3,95 +3,71 @@
   "analysis": {
     "image_id": "img_267",
     "ai_generated_tags": {
-      "room": "Commercial/Kitchen",
-      "theme": "Modern Industrial",
+      "room": "Warehouse or industrial space",
+      "theme": "Modern industrial",
       "primary_features": [
         "Exposed ceiling beams",
-        "Metallic railings",
-        "Sliding doors"
+        "Metal railings",
+        "Concrete walls"
       ],
       "objects": [
         {
-          "type": "Metallic railings",
+          "type": "Metal railings",
           "features": [
-            "Curved design",
-            "Rustic finish"
+            "Exposed metal structure",
+            "Industrial design"
           ],
           "materials": [
             "Metal"
           ],
-          "finish": "Rusty metallic"
-        },
-        {
-          "type": "Exposed ceiling beams",
-          "features": [
-            "Wooden beams"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural, raw"
-        },
-        {
-          "type": "Sliding doors",
-          "features": [
-            "Glass panes",
-            "Metal frames"
-          ],
-          "materials": [
-            "Glass",
-            "Metal"
-          ],
-          "finish": "Clear glass, metallic"
+          "finish": "Polished metal finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White walls",
-          "Black ceiling beams",
-          "Rustic metallic"
+          "White",
+          "Gray",
+          "Black"
         ],
         "materials": [
-          "Wood, Metal, Glass"
+          "Concrete",
+          "Metal"
         ],
-        "lighting": "Natural light from windows",
-        "texture": [
-          "Smooth glass",
-          "Rusty metal",
-          "Natural wood"
-        ]
+        "lighting": "Natural light from ceiling openings",
+        "texture": "Smooth concrete walls, metallic surfaces"
       },
       "indian_context": {
-        "regional_style": "None",
+        "regional_style": "No specific regional influence",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Rustic metal used in place of traditional wood"
+          "Industrial style with modern materials"
         ],
-        "space_utilization": "Efficient open space with minimalistic design",
-        "cultural_significance": "Modern interpretation of industrial style with no cultural elements"
+        "space_utilization": "Large open space with no traditional elements, likely for manufacturing or storage",
+        "cultural_significance": "No cultural elements present, purely industrial design"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.8,
-        "primary_features": 0.89,
-        "objects": 0.88,
-        "indian_context": 0.75
+        "room": 0.8,
+        "theme": 0.75,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.65
       },
-      "description": "The interior space appears to be a modern commercial or kitchen area with an industrial design theme. It features exposed wooden ceiling beams, rusty metallic railings, and sliding glass doors with metal frames. The design is minimalistic and efficient, with a focus on industrial materials and textures.",
+      "description": "The image depicts an industrial-style warehouse or storage space with modern design elements. It features exposed metal railings, smooth concrete walls, and an open layout with natural lighting. There are no traditional Indian elements present, and the space is organized for functional storage or manufacturing purposes.",
       "metadata": {
         "tags": [
-          "Modern Industrial",
-          "Exposed Ceiling Beams",
-          "Metal Railings",
-          "Sliding Doors"
+          "Industrial",
+          "Warehouse",
+          "Modern",
+          "Factory",
+          "Storage"
         ],
-        "budget_indicator": "Moderate, with industrial materials and finishes",
-        "space_type": "Commercial/Kitchen",
-        "functionality": "Efficient open space with minimalistic design",
-        "indian_specific": "No Indian-specific design features are present"
+        "budget_indicator": "Budget moderate, with focus on industrial materials",
+        "space_type": "Industrial",
+        "functionality": "Storage or manufacturing",
+        "indian_specific": "No Indian-specific design features visible"
       }
     }
   },
-  "cached_at": 1753450712445,
+  "cached_at": 1754494461368,
   "cache_key": "e4927aa797f6cf4b8bc955711de87bf5"
 }

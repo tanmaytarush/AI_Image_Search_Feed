@@ -2,87 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/496/image_cropper_1728990974472.jpg",
   "analysis": {
     "image_id": "img_471",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/496/image_cropper_1728990974472.jpg",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern with Indian Influences",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Glass-tiled walls",
-        "Wooden vanity",
-        "Mirrored cabinet",
-        "LED lights"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Vanity mirror",
+          "type": "furniture",
           "features": [
-            "Large, rectangular shape",
-            "Mirrored surface",
-            "Integrated lighting"
+            "traditional_style"
           ],
           "materials": [
-            "Glass, wood, metal"
+            "wood",
+            "fabric"
           ],
-          "finish": "Shiny, reflective surface with polished wood and metallic accents"
-        },
-        {
-          "type": "Vanity cabinet",
-          "features": [
-            "Rectangular design",
-            "Integrated light strip",
-            "Cabinet doors"
-          ],
-          "materials": [
-            "Wood, metal"
-          ],
-          "finish": "Smooth, painted wood with metallic fixtures"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, grey, silver, black"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Glass, wood, metal"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "LED lights integrated into the mirror and cabinet",
-        "texture": "Smooth surfaces with some textured reflections on the glass tiles"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but there are influences from traditional Indian architecture",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Integrated lighting similar to jharokhas",
-          "Use of wood and metal"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary design with LED lighting and glass tiles"
+          "contemporary_design"
         ],
-        "space_utilization": "Maximizes vertical space with the wall-mounted vanity",
-        "cultural_significance": "The use of wood and mirrors aligns with traditional Indian beliefs in the sanctity of the mirror and wood as auspicious materials"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.85
-      },
-      "description": "The image showcases a modern bathroom design with Indian influences. The focus is on a wall-mounted vanity with a vanity mirror that integrates LED lights, and a mirrored cabinet with integrated lighting. The walls are adorned with glass tiles, and the vanity is made of polished wood and metal. The design blends contemporary aesthetics with traditional Indian materials and cultural motifs, such as the use of wood and reflective surfaces.",
-      "metadata": {
-        "tags": [
-          "Modern bathroom",
-          "Indian influence",
-          "LED lighting",
-          "Glass tiles",
-          "Wooden vanity",
-          "Integrated lighting"
-        ],
-        "budget_indicator": "Mid-range, with high-quality materials and finishes",
-        "space_type": "Residential bathroom",
-        "functionality": "Personal hygiene and grooming",
-        "indian_specific": "Integration of traditional materials and lighting techniques in a modern setting"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1728990974472.jpg"
   },
-  "cached_at": 1753462401629,
+  "cached_at": 1754496664804,
   "cache_key": "3a6bf1eb1426b2c11c67afdf1ddf0613"
 }

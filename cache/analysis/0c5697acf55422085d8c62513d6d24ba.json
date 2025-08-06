@@ -3,114 +3,99 @@
   "analysis": {
     "image_id": "img_353",
     "ai_generated_tags": {
-      "room": "Master Bedroom",
-      "theme": "Contemporary with Indian Influences",
+      "room": "Bedroom",
+      "theme": "Modern-Indian Fusion",
       "primary_features": [
-        "Wardrobe with built-in lighting",
-        "Modern bed with low-profile frame",
-        "Wall-mounted TV",
-        "Geometric patterned carpet"
+        "Light pink walls",
+        "Dark wood furniture",
+        "Circular mirror",
+        "Wooden headboard",
+        "Wall-mounted lights"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
-          "features": [
-            "Built-in lighting",
-            "Sliding doors"
-          ],
-          "materials": [
-            "Glass",
-            "Metal"
-          ],
-          "finish": "Polished surfaces"
-        },
-        {
           "type": "Bed",
           "features": [
-            "Low-profile frame",
-            "Comfy mattress"
+            "Dark wood frame",
+            "Carved wooden headboard"
           ],
           "materials": [
-            "Wood",
-            "Fabric"
+            "Dark wood"
           ],
-          "finish": "Natural wood tone"
+          "finish": "Satin finish"
         },
         {
-          "type": "Wall-mounted TV",
+          "type": "Furniture",
           "features": [
-            "Modern design",
-            "Integrated into the wall"
+            "Dark wood side tables",
+            "Circular mirror"
           ],
           "materials": [
-            "Metal",
-            "Glass"
+            "Dark wood"
           ],
-          "finish": "Metallic finish"
+          "finish": "Satin finish"
         },
         {
-          "type": "Carpet",
+          "type": "Lighting",
           "features": [
-            "Geometric pattern",
-            "Soft texture"
+            "Wall-mounted lights"
           ],
           "materials": [
-            "Polyester"
+            "Metal"
           ],
-          "finish": "Textured surface"
+          "finish": "Polished metal"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Pink",
-          "Gray",
-          "White",
-          "Blue"
+          "Light pink",
+          "Dark brown",
+          "White"
         ],
         "materials": [
-          "Glass",
-          "Metal",
           "Wood",
-          "Polyester"
+          "Metal",
+          "Glass"
         ],
-        "lighting": "Natural light from the ceiling light fixture, additional built-in lighting in the wardrobe",
-        "texture": "Soft fabric of the carpet, polished surfaces of the wardrobe and bed frame"
+        "lighting": "Warm indoor lighting",
+        "texture": "Satin finish on wood, smooth glass surface"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but incorporates modern elements with traditional Indian influences",
+        "regional_style": "Maharashtra",
         "traditional_elements": [
-          "Carpet with geometric patterns"
+          "Wooden furniture",
+          "Carved headboard"
         ],
         "modern_adaptations": [
-          "Contemporary wardrobe with built-in lighting"
+          "Contemporary lighting",
+          "Minimalist design"
         ],
-        "space_utilization": "Efficient use of space with built-in wardrobes and minimalistic furniture",
-        "cultural_significance": "Geometric patterns often symbolize harmony and balance in Indian culture"
+        "space_utilization": "Efficient use of wall space with furniture and lighting",
+        "cultural_significance": "Use of wood and traditional furniture elements reflect regional craftsmanship and aesthetic preferences"
       },
       "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.9,
+        "objects": 0.85,
+        "indian_context": 0.8
       },
-      "description": "The image depicts a master bedroom with a modern design aesthetic that incorporates traditional Indian elements. The space features a low-profile bed with a natural wood frame, a wardrobe with built-in lighting and sliding glass doors, a wall-mounted TV, and a geometric patterned carpet. The color palette includes pink, gray, white, and blue, with materials such as glass, metal, wood, and polyester. The lighting is a combination of natural light and built-in lighting in the wardrobe, creating a warm and inviting atmosphere. The space utilizes the wall-mounted TV to save floor space, and the geometric pattern on the carpet reflects traditional Indian design influences.",
+      "description": "The image showcases a modern-Indian fusion bedroom with a light pink wall color and dark wood furniture, reflecting traditional Indian design elements such as the carved wooden headboard and circular mirror. The use of warm lighting and minimalistic design creates a contemporary yet culturally significant space.",
       "metadata": {
         "tags": [
-          "Master Bedroom",
-          "Modern Design",
-          "Indian Influences",
-          "Geometric Patterns",
-          "Built-in Lighting",
-          "Contemporary Wardrobe"
+          "Modern Indian",
+          "Bedroom",
+          "Contemporary",
+          "Traditional Elements",
+          "Maharashtra Style"
         ],
-        "budget_indicator": "Moderate, with the use of materials like glass and metal in the wardrobe, and a comfortable bed frame",
-        "space_type": "Residential",
-        "functionality": "Primary purpose is for rest and relaxation, with the addition of a wall-mounted TV for entertainment",
-        "indian_specific": "Geometric patterned carpet and built-in lighting (inspired by traditional design)"
+        "budget_indicator": "Moderate, with a focus on quality materials like dark wood and polished metal",
+        "space_type": "Private Residential",
+        "functionality": "Sleeping and relaxation",
+        "indian_specific": "Contemporary interpretation of traditional wooden furniture and regional wall color"
       }
     }
   },
-  "cached_at": 1753460798314,
+  "cached_at": 1754495869592,
   "cache_key": "0c5697acf55422085d8c62513d6d24ba"
 }

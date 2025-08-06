@@ -4,100 +4,117 @@
     "image_id": "img_276",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Modern Indian",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Wooden headboard",
-        "Patterned wallpaper",
-        "Bedside table",
-        "Window with curtains"
+        "Curtained window",
+        "Modern lighting fixture",
+        "Neutral color palette",
+        "Textured wallpaper",
+        "Modern furniture with traditional influences"
       ],
       "objects": [
         {
-          "type": "Wooden headboard",
+          "type": "Bed",
           "features": [
-            "Carved design",
-            "Dark wood finish"
+            "Modern design",
+            "Dark wood frame",
+            "Comfy bedding",
+            "Large pillows"
           ],
           "materials": [
-            "Teak"
+            "Wood",
+            "Fabric",
+            "Polyester"
           ],
-          "finish": "Polished"
+          "finish": "Smooth and polished"
         },
         {
-          "type": "Bedside table",
+          "type": "Curtains",
           "features": [
-            "Simple design",
-            "Dark wood finish"
+            "Curtained window",
+            "Patterned fabric",
+            "Sheer and dark shades"
           ],
           "materials": [
-            "Teak",
-            "Mica"
+            "Fabric"
           ],
-          "finish": "Shiny"
+          "finish": "Embroidered with intricate designs"
         },
         {
-          "type": "Window with curtains",
+          "type": "Wallpaper",
           "features": [
-            "Sheer curtain",
-            "Wooden frame"
+            "Textured pattern",
+            "Neutral tones"
           ],
           "materials": [
-            "Polyester",
-            "Teak"
+            "Paper"
           ],
-          "finish": "Natural wood"
+          "finish": "Matted and high-quality"
+        },
+        {
+          "type": "Wall Sconce",
+          "features": [
+            "Modern design",
+            "Minimalist look",
+            "White finish"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Smooth and glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
+          "Muslin gray",
           "Dark brown",
-          "Light gray",
           "White"
         ],
         "materials": [
-          "Teak",
-          "Mica",
-          "Polyester",
-          "Cement"
+          "Wood",
+          "Fabric",
+          "Metal",
+          "Paper"
         ],
-        "lighting": "Dim ambient lighting",
-        "texture": "Smooth polished surfaces"
+        "lighting": "Soft ambient lighting from wall sconce",
+        "texture": "Textured wallpaper and smooth wood finish"
       },
       "indian_context": {
-        "regional_style": "Maharashtrian",
+        "regional_style": "Not clearly identifiable",
         "traditional_elements": [
-          "Carved wooden headboard",
-          "Teak furniture"
+          "Patterned fabric curtain",
+          "Modernized jharokha concept"
         ],
         "modern_adaptations": [
-          "Contemporary lighting and furniture"
+          "Contemporary furniture with traditional influences",
+          "Incorporation of modern lighting"
         ],
-        "space_utilization": "Efficient use of space with minimal decor",
-        "cultural_significance": "Decorative elements reflect traditional craftsmanship"
+        "space_utilization": "Efficient use of space with minimal furniture",
+        "cultural_significance": "Modern interpretation of traditional Indian elements for a contemporary look"
       }
     },
     "confidence_scores": {
       "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
+      "theme": 0.85,
+      "primary_features": 0.88,
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image showcases a modern Indian bedroom with a traditional touch. The dark wood headboard and bedside table feature intricate carved designs, indicative of Maharashtrian regional style. The patterned wallpaper adds a contemporary twist, while the sheer curtain and wooden frame maintain a connection to traditional elements. The overall design combines modern minimalism with traditional craftsmanship, resulting in a visually appealing and culturally rich space.",
+    "description": "The interior space features a modernized Indian bedroom with a contemporary design theme. It includes a bed with a dark wood frame and modern bedding, patterned curtains with sheer and dark shades, a textured wallpaper with a neutral color palette, and a wall-mounted modern light fixture. The space utilizes traditional elements like patterned fabric and the concept of a jharokha, adapted for a modern look. The cultural significance lies in the blend of traditional Indian design motifs with contemporary furniture and lighting, reflecting a modern Indian style.",
     "metadata": {
       "tags": [
-        "Indian interior",
-        "Maharashtrian style",
-        "Contemporary design",
-        "Teak furniture",
-        "Carved elements"
+        "Contemporary Indian",
+        "Modern bedroom",
+        "Textured wallpaper",
+        "Patterned curtains",
+        "Dark wood furniture"
       ],
-      "budget_indicator": "Medium-high, due to the use of teak and polished materials",
-      "space_type": "Residential",
-      "functionality": "Sleeping and relaxation",
-      "indian_specific": "Carved wooden headboard, teak furniture"
+      "budget_indicator": "Moderate to high, due to textured wallpaper and modern furniture",
+      "space_type": "Residential bedroom",
+      "functionality": "Secondary sleeping area, possibly for guests or for a peaceful retreat",
+      "indian_specific": "Modernized use of traditional Indian elements such as patterned fabric and jharokha concept"
     }
   },
-  "cached_at": 1753450825340,
+  "cached_at": 1754494589345,
   "cache_key": "ae5a4a2c8b0d643b16b3864c2df4801d"
 }

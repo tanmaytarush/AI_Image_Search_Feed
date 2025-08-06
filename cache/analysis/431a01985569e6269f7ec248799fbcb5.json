@@ -3,97 +3,65 @@
   "analysis": {
     "image_id": "img_241",
     "ai_generated_tags": {
-      "room": "bedroom",
-      "theme": "contemporary Indian",
+      "room": "Bathroom",
+      "theme": "Modern Indian",
       "primary_features": [
-        "wooden bed frame",
-        "white bedding",
-        "modern light fixtures",
-        "rug"
+        "Modern fixtures"
       ],
       "objects": [
         {
-          "type": "bed frame",
+          "type": "Bathroom vanity",
           "features": [
-            "wooden construction",
-            "simple design"
+            "Rectangular, sleek design",
+            "Dual sinks"
           ],
           "materials": [
-            "wood"
+            "Wood, white porcelain"
           ],
-          "finish": "natural wood finish"
-        },
-        {
-          "type": "rug",
-          "features": [
-            "white",
-            "textured"
-          ],
-          "materials": [
-            "textile"
-          ],
-          "finish": "smooth"
-        },
-        {
-          "type": "light fixture",
-          "features": [
-            "modern",
-            "white"
-          ],
-          "materials": [
-            "metal"
-          ],
-          "finish": "polished"
+          "finish": "Glossy white finish on fixtures, natural wood tones"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white",
-          "wooden brown",
-          "black",
-          "white",
-          "beige"
+          "White, light wood, grey marble"
         ],
         "materials": [
-          "wood",
-          "textile",
-          "metal"
+          "Marble, wood, ceramic"
         ],
-        "lighting": "artificial light from modern fixtures",
-        "texture": "textured rug, smooth metal and wood"
+        "lighting": "Soft ambient lighting, ceiling recessed lights",
+        "texture": "Smooth surfaces on fixtures and walls"
       },
       "indian_context": {
-        "regional_style": "Modern",
+        "regional_style": "Mumbai/Modern Indian",
         "traditional_elements": [],
         "modern_adaptations": [
-          "use of modern materials and fixtures"
+          "Minimalist modern design with traditional influences"
         ],
-        "space_utilization": "efficient use of space with bed as the focal point",
-        "cultural_significance": "Modern interpretation of Indian design elements without traditional motifs"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This contemporary Indian bedroom features a minimalist design with a wooden bed frame, modern light fixtures, and a white rug. The room utilizes natural wood and modern materials, reflecting a modern interpretation of Indian design elements without traditional motifs.",
-      "metadata": {
-        "tags": [
-          "modern bedroom",
-          "contemporary design",
-          "wooden furniture",
-          "white bedding",
-          "textured rug"
-        ],
-        "budget_indicator": "moderate",
-        "space_type": "residential bedroom",
-        "functionality": "sleeping and relaxation",
-        "indian_specific": "use of modern materials and fixtures as a contemporary interpretation of Indian design"
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Modern interpretation of Indian aesthetics with clean lines and neutral tones"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bathroom showcases a modern Indian design with a clean, minimalist aesthetic. The vanity is made of white porcelain and natural wood, reflecting a blend of traditional and contemporary elements. The use of marble for the tiles adds a touch of luxury, while the overall design is devoid of overt traditional decor, emphasizing modern simplicity.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Bathroom",
+        "Minimalist Design",
+        "Neutral Color Palette"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Personal care and grooming space",
+      "indian_specific": "Modern adaptation of Indian design elements"
     }
   },
-  "cached_at": 1753459581514,
+  "cached_at": 1754493882097,
   "cache_key": "431a01985569e6269f7ec248799fbcb5"
 }

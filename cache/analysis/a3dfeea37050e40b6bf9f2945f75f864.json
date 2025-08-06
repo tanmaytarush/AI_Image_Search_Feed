@@ -3,83 +3,98 @@
   "analysis": {
     "image_id": "img_335",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modern Indian Kitchen",
+      "room": "Balcony",
+      "theme": "Minimalist",
       "primary_features": [
-        "Compact kitchen layout",
-        "Open shelving",
-        "Cooking area with stove"
+        "Framed glass panels",
+        "Concrete wall",
+        "Modern lighting fixtures"
       ],
       "objects": [
         {
-          "type": "Kitchen Island",
+          "type": "Framed glass panels",
           "features": [
-            "Large countertop space",
-            "Integrated sink"
+            "Rectangular shapes",
+            "Clear glass",
+            "Modern design"
           ],
           "materials": [
-            "Granite countertops",
-            "Copper accents"
+            "Glass",
+            "Metal"
           ],
-          "finish": "Smooth and shiny"
+          "finish": "Smooth and glossy"
         },
         {
-          "type": "Kitchen Cabinets",
+          "type": "Concrete wall",
           "features": [
-            "Open shelving design",
-            "Wooden doors"
+            "Sleek surface",
+            "Textured finish"
           ],
           "materials": [
-            "Teak wood"
+            "Concrete"
           ],
-          "finish": "Natural wood finish"
+          "finish": "Polished"
+        },
+        {
+          "type": "Modern lighting fixtures",
+          "features": [
+            "Contemporary design",
+            "Dark frame",
+            "LED lights"
+          ],
+          "materials": [
+            "Metal",
+            "Plastic"
+          ],
+          "finish": "Matte and glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White walls",
-          "Light wood tones",
-          "Granite grey",
-          "Copper"
+          "White",
+          "Gray",
+          "Black"
         ],
         "materials": [
-          "Teak, granite, copper, wood, glass"
+          "Concrete",
+          "Glass",
+          "Metal"
         ],
-        "lighting": "Natural light from window, artificial light from overhead fixtures",
-        "texture": "Smooth surfaces, wooden textures, metallic finish"
+        "lighting": "Natural light from glass panels, accentuated by modern LED lighting",
+        "texture": "Smooth concrete, clear glass, metallic frames"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, modern interpretation",
+        "regional_style": "Not applicable",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Integration of modern appliances and materials"
+          "Minimalist design with modern materials and fixtures"
         ],
-        "space_utilization": "Efficient use of compact space with open shelving",
-        "cultural_significance": "Minimal use of traditional Indian design elements, focusing on functionality and modern aesthetics"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern Indian kitchen with a focus on functionality and contemporary design elements. The kitchen features a large kitchen island with granite countertops and a copper sink, open shelving for storage, and a compact cooking area with a stove. The wooden cabinets contribute to a warm, natural feel, while the overall design is clean and organized, reflecting a modern interpretation of Indian interior design.",
-      "metadata": {
-        "tags": [
-          "Modern Indian Kitchen",
-          "Compact Living",
-          "Granite Countertops",
-          "Teak Wood",
-          "Open Shelving"
-        ],
-        "budget_indicator": "Mid-range, considering modern materials and finishes",
-        "space_type": "Residential Kitchen",
-        "functionality": "Cooking and storage",
-        "indian_specific": "Modern interpretation of Indian design, minimal traditional elements"
+        "space_utilization": "Efficient use of vertical space with glass panels",
+        "cultural_significance": "Modern interpretation of traditional Indian design elements"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern balcony with a minimalist design. It features framed glass panels that allow natural light to enter, a sleek concrete wall, and contemporary LED lighting fixtures. The space is organized to maximize light and functionality, reflecting a modern architectural style with no traditional Indian elements in sight.",
+    "metadata": {
+      "tags": [
+        "Minimalist balcony",
+        "Modern design",
+        "Glass panels",
+        "Concrete wall",
+        "LED lighting"
+      ],
+      "budget_indicator": "Mid to high",
+      "space_type": "Residential",
+      "functionality": "Relaxation and leisure",
+      "indian_specific": "None"
     }
   },
-  "cached_at": 1753460584976,
+  "cached_at": 1754495448415,
   "cache_key": "a3dfeea37050e40b6bf9f2945f75f864"
 }

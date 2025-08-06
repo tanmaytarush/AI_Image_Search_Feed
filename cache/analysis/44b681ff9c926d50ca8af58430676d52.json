@@ -3,86 +3,102 @@
   "analysis": {
     "image_id": "img_123",
     "ai_generated_tags": {
-      "room": "Living Area",
-      "theme": "Contemporary Indian Fusion",
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Wall-mounted shelves",
-        "Modern furniture",
-        "Mirror"
+        "Decorative mirror",
+        "Furniture set",
+        "Wall shelves"
       ],
       "objects": [
         {
-          "type": "Shelving Unit",
-          "features": [
-            "Wall-mounted, multi-tiered, modern design"
-          ],
-          "materials": [
-            "Metal frame, glass panels"
-          ],
-          "finish": "Polished metal finish, clear glass"
-        },
-        {
-          "type": "Furniture",
-          "features": [
-            "Minimalistic, modern design with clean lines"
-          ],
-          "materials": [
-            "Wood, metal"
-          ],
-          "finish": "Warm wood tones, metallic accents"
-        },
-        {
           "type": "Mirror",
           "features": [
-            "Large rectangular mirror with modern frame"
+            "Rectangular",
+            "Carved wooden frame",
+            "Large size"
           ],
           "materials": [
-            "Glass, metal frame"
+            "Wood",
+            "Metal"
           ],
-          "finish": "Clear glass, metallic frame"
+          "finish": "Polished"
+        },
+        {
+          "type": "Furniture set",
+          "features": [
+            "Teak wood",
+            "Carved detailing"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural, polished"
+        },
+        {
+          "type": "Wall shelves",
+          "features": [
+            "Wooden",
+            "Ladder-style design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural, polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, gold, brown, black"
+          "Brown (teak wood)",
+          "White (wall)",
+          "Silver (mirror frame)"
         ],
         "materials": [
-          "Metal, glass, wood"
+          "Wood",
+          "Metal",
+          "Glass"
         ],
-        "lighting": "Natural light from the window, diffused indoor lighting",
-        "texture": "Smooth metal, polished glass, matte wood"
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces with carved details"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional",
-        "traditional_elements": [],
+        "regional_style": "Northern India",
+        "traditional_elements": [
+          "Mirror (jharokha)",
+          "Carved wood"
+        ],
         "modern_adaptations": [
-          "Contemporary interpretation of modern furniture and storage solutions"
+          "Contemporary furniture design",
+          "Use of wall shelves"
         ],
-        "space_utilization": "Efficient use of vertical space with wall-mounted shelves",
-        "cultural_significance": "No culturally significant elements visible, more of a modern take on Indian aesthetics"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The space features a contemporary fusion design with modern furniture, wall-mounted shelving, and a large mirror, blending traditional Indian elements with a modern twist. The use of metal shelving, glass, and polished wood creates a sleek, minimalist aesthetic. The color palette of white, gold, and brown adds warmth to the otherwise contemporary setting.",
-      "metadata": {
-        "tags": [
-          "Contemporary Indian Fusion",
-          "Modern Furniture",
-          "Wall Shelves",
-          "Mirror"
-        ],
-        "budget_indicator": "Moderate, with modern materials like glass and polished wood",
-        "space_type": "Living Area",
-        "functionality": "Storage and display space, with a focus on organization and aesthetics",
-        "indian_specific": "Minimal traditional elements; modern adaptation of Indian design aesthetics"
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Mirror reflects cultural importance of spirituality and aesthetics, while carved wood symbolizes craftsmanship and heritage"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary Indian living room features a large, rectangular mirror with a carved wooden frame, reflecting traditional Northern Indian design elements. The furniture set, made from teak wood with intricate carvings, maintains a natural and polished finish, indicative of high-quality craftsmanship. Wall shelves, designed in a ladder style, add to the vertical organization of the space. The overall color palette is earthy, with brown tones of teak and white walls complemented by silver mirror frames, creating a warm and inviting atmosphere. The natural light from the window enhances the natural wood tones and highlights the cultural significance of the mirror and carved wood in reflecting spiritual and aesthetic values.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Northern India",
+        "Teak furniture",
+        "Carved wood",
+        "Wall shelves",
+        "Natural light",
+        "Warm color palette"
+      ],
+      "budget_indicator": "Mid to high budget due to use of natural wood and polished finish",
+      "space_type": "Living Room",
+      "functionality": "Primary purpose is relaxation and socializing, with efficient use of vertical space for additional storage and display",
+      "indian_specific": "Presence of carved wood mirror and furniture, reflecting traditional craftsmanship and cultural significance"
     }
   },
-  "cached_at": 1753448710763,
+  "cached_at": 1754491408048,
   "cache_key": "44b681ff9c926d50ca8af58430676d52"
 }

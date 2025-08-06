@@ -3,74 +3,73 @@
   "analysis": {
     "image_id": "img_067",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Minimalist with Indian Influences",
+      "room": "Wardrobe",
+      "theme": "Minimalistic Modern",
       "primary_features": [
-        "Sliding wardrobe doors",
-        "Wavy patterned wallpaper",
-        "Dark wood frame"
+        "Wardrobe with sliding doors",
+        "Wave-patterned wallpaper",
+        "Dark wood framing"
       ],
       "objects": [
         {
-          "type": "Sliding wardrobe doors",
+          "type": "Wardrobe door",
           "features": [
-            "Wavy patterned wallpaper",
-            "Dark wood frame"
+            "Sliding doors",
+            "Wave-patterned wallpaper",
+            "Dark wood framing"
           ],
           "materials": [
-            "Wood",
-            "Wallpaper"
+            "Wallpaper",
+            "Dark wood"
           ],
-          "finish": "Matte"
+          "finish": "Smooth and glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Beige",
-          "Dark Brown",
-          "Black"
+          "White",
+          "Dark gray",
+          "Dark wood"
         ],
         "materials": [
-          "Wood",
-          "Paper"
+          "Wallpaper",
+          "Dark wood"
         ],
-        "lighting": "Soft, evenly distributed lighting",
-        "texture": "Wavy patterned wallpaper, smooth dark wood"
+        "lighting": "Natural light from ceiling lights",
+        "texture": "Smooth and glossy"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but possibly inspired by traditional Indian design",
-        "traditional_elements": [
-          "Wavy patterned wallpaper"
-        ],
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist design with dark wood frame"
+          "Wave-patterned wallpaper"
         ],
-        "space_utilization": "Efficient use of space for storage",
-        "cultural_significance": "Wavy patterns may symbolize water or nature, common in Indian design"
+        "space_utilization": "Efficient use of space with sliding doors for wardrobe",
+        "cultural_significance": "No cultural elements present"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.7,
+        "primary_features": 0.9,
+        "objects": 0.8,
+        "indian_context": 0.6
+      },
+      "description": "This image depicts a modern wardrobe with a minimalist design, featuring sliding doors with wave-patterned wallpaper and dark wood framing. The space is well-lit with natural light, emphasizing the smooth and glossy finish of the materials used. There are no traditional Indian elements, and the design leans more towards a contemporary style with an Indian twist.",
+      "metadata": {
+        "tags": [
+          "Wardrobe",
+          "Minimalist",
+          "Wave-patterned",
+          "Dark wood",
+          "Modern"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential bedroom",
+        "functionality": "Storage and organization",
+        "indian_specific": "Wave-patterned wallpaper with a modern twist"
       }
-    },
-    "confidence_scores": {
-      "room": 0.92,
-      "theme": 0.88,
-      "primary_features": 0.85,
-      "objects": 0.9,
-      "indian_context": 0.8
-    },
-    "description": "This image showcases a minimalist bedroom with sliding wardrobe doors covered in a wavy patterned wallpaper and dark wood frame. The design draws inspiration from traditional Indian elements, such as the wavy patterns, while incorporating modern adaptations like the clean lines and dark wood frame. The space is efficiently utilized for storage, with the sliding doors maximizing the use of vertical space. The color palette of beige, dark brown, and black is typical in contemporary Indian interiors, reflecting both traditional and modern aesthetics.",
-    "metadata": {
-      "tags": [
-        "Minimalist",
-        "Indian Design",
-        "Wavy Pattern",
-        "Dark Wood",
-        "Sliding Doors"
-      ],
-      "budget_indicator": "Mid-range, with materials such as wood and wallpaper",
-      "space_type": "Bedroom",
-      "functionality": "Storage and sleeping area",
-      "indian_specific": "Wavy patterned wallpaper"
     }
   },
-  "cached_at": 1753878173513,
+  "cached_at": 1754490120233,
   "cache_key": "03863e0a01c26dedfc7154b5825ac9d1"
 }

@@ -4,112 +4,79 @@
     "image_id": "img_346",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modular Kitchen",
+      "theme": "Indian Modern",
       "primary_features": [
-        "L-shaped counter",
-        "black marble countertops",
-        "white tiled backsplash",
-        "modular cabinets",
-        "window with jalousie"
+        "Black and white color scheme",
+        "Modular kitchen design",
+        "Granite countertops",
+        "Black cabinets",
+        "Glass backsplash",
+        "Window with traditional frame"
       ],
       "objects": [
         {
-          "type": "Kitchen cabinets",
+          "type": "Kitchen island",
           "features": [
-            "modern design",
-            "white color",
-            "shaker style doors"
+            "Central position in the room",
+            "White countertop with black mosaic pattern",
+            "Integrated sink"
           ],
           "materials": [
-            "particle board",
-            "MDF"
+            "Granite",
+            "Mosaic tiles"
           ],
-          "finish": "glossy"
-        },
-        {
-          "type": "Countertop",
-          "features": [
-            "L-shaped",
-            "black marble"
-          ],
-          "materials": [
-            "marble"
-          ],
-          "finish": "polished"
-        },
-        {
-          "type": "Backsplash",
-          "features": [
-            "white tiles",
-            "geometric pattern"
-          ],
-          "materials": [
-            "ceramic tiles"
-          ],
-          "finish": "smooth"
-        },
-        {
-          "type": "Window",
-          "features": [
-            "wooden frame",
-            "jalousie style"
-          ],
-          "materials": [
-            "wood"
-          ],
-          "finish": "natural"
+          "finish": "Shiny granite and glossy mosaic tiles"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "black",
-          "white",
-          "brown"
+          "Black",
+          "White",
+          "Gray"
         ],
         "materials": [
-          "marble",
-          "ceramic tiles",
-          "wood",
-          "particle board",
-          "MDF"
+          "Granite",
+          "Mosaic tiles",
+          "Ceramic tiles"
         ],
-        "lighting": "natural light from window",
-        "texture": "smooth, glossy"
+        "lighting": "Natural light from the window and artificial lighting from overhead fixtures",
+        "texture": "Smooth surfaces of granite and glossy mosaic tiles"
       },
       "indian_context": {
-        "regional_style": "Not distinctly Indian",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "use of L-shaped counter",
-          "modular design"
+        "regional_style": "Not specifically regional, but elements suggest a modern take on Indian design",
+        "traditional_elements": [
+          "Traditional window frame design"
         ],
-        "space_utilization": "efficient use of space with L-shaped counter",
-        "cultural_significance": "No cultural elements visible"
+        "modern_adaptations": [
+          "Use of modern materials like granite and mosaic tiles, modular kitchen design"
+        ],
+        "space_utilization": "Efficient use of space with a central kitchen island and wall-mounted cabinets",
+        "cultural_significance": "The kitchen island and modular design align with modern Indian living spaces, which emphasize functionality and space optimization"
       },
       "confidence_scores": {
         "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.9,
-        "objects": 0.9,
-        "indian_context": 0.75
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The image depicts a modern kitchen with a L-shaped counter, white-tiled backsplash, and L-shaped cabinetry. The countertop is made of black marble, and the cabinets are shaker-style with glossy white finishes. The window features a wooden frame with jalousie blinds. The space appears to have no distinctly Indian design elements, focusing on modern aesthetics.",
+      "description": "The kitchen showcases a modern Indian design with a black and white color scheme, featuring a central kitchen island with a white countertop and black mosaic pattern. The cabinetry is sleek with black doors and granite countertops. The backsplash is composed of small mosaic tiles, and the kitchen has a natural light window with a traditional frame. The design emphasizes functionality and space optimization.",
       "metadata": {
         "tags": [
-          "Kitchen",
-          "L-shaped",
-          "Modern Kitchen",
-          "White Cabinets",
-          "Black Marble Countertop",
-          "Jalousie Window"
+          "Indian Modern",
+          "Kitchen Design",
+          "Black and White",
+          "Modular",
+          "Granite Countertops",
+          "Mosaic Tiles"
         ],
-        "budget_indicator": "Moderate",
+        "budget_indicator": "High",
         "space_type": "Residential Kitchen",
-        "functionality": "Primary use for cooking and food preparation",
-        "indian_specific": "No Indian-specific design features"
+        "functionality": "Cooking and food preparation",
+        "indian_specific": "Modernized Indian design elements"
       }
     }
   },
-  "cached_at": 1753460697957,
+  "cached_at": 1754495711995,
   "cache_key": "44951389e34b4cf47ad010244faa4be8"
 }

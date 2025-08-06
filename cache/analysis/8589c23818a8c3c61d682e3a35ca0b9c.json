@@ -3,83 +3,78 @@
   "analysis": {
     "image_id": "img_342",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern Minimalist",
+      "room": "Bedroom",
+      "theme": "Minimalist",
       "primary_features": [
-        "Glass shower, modern fixtures, tiled walls, wooden door, white paneling"
+        "Wooden wardrobe",
+        "Glass door",
+        "Metal frame"
       ],
       "objects": [
         {
-          "type": "Shower Door",
+          "type": "Wardrobe",
           "features": [
-            "Translucent glass panels, modern sleek design, horizontal lines"
+            "Rectangular design",
+            "Wooden panels with glass doors",
+            "Metal frame"
           ],
           "materials": [
-            "Glass, metal"
+            "Oak wood",
+            "Glass",
+            "Metal"
           ],
-          "finish": "Smooth, glossy surface on glass panels"
-        },
-        {
-          "type": "Paneling",
-          "features": [
-            "White wooden panels, vertical lines, modern aesthetic"
-          ],
-          "materials": [
-            "Wood, paint"
-          ],
-          "finish": "Matte finish on panels"
-        },
-        {
-          "type": "Door",
-          "features": [
-            "Blue wooden door, smooth surface, modern design"
-          ],
-          "materials": [
-            "Wood, paint"
-          ],
-          "finish": "Glossy paint on door"
+          "finish": "Satin wood finish on wood, clear glass, brushed metal"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, blue, transparent glass"
+          "White",
+          "Brown",
+          "Silver",
+          "Blue"
         ],
         "materials": [
-          "Glass, wood, metal"
+          "Wood",
+          "Glass",
+          "Metal"
         ],
-        "lighting": "Natural light is visible, suggesting sunlight or artificial light from the outside",
-        "texture": "Smooth, glossy glass, matte wood panels"
+        "lighting": "Natural light from glass door",
+        "texture": "Smooth wood texture, reflective glass, metallic sheen"
       },
       "indian_context": {
-        "regional_style": "No regional Indian style influences are evident",
+        "regional_style": "Not applicable",
         "traditional_elements": [
-          "No traditional Indian elements such as carvings or motifs"
+          "None"
         ],
         "modern_adaptations": [
-          "Minimalist design reflects modern interpretations of Indian design principles"
+          "Minimal use of traditional Indian materials and designs"
         ],
-        "space_utilization": "Efficient use of space with clean lines and minimal decor",
-        "cultural_significance": "The image does not contain elements with specific cultural significance"
+        "space_utilization": "Efficient use of space with a focus on storage",
+        "cultural_significance": "The use of clean lines and modern materials reflects a contemporary Indian interior design approach, focusing on functionality and aesthetics."
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.78,
-        "primary_features": 0.83,
-        "objects": 0.9,
-        "indian_context": 0.47
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The image depicts a modern minimalist bathroom with clean lines and a focus on functional design. The space features a glass shower with translucent panels, white wooden paneling, and a modern blue wooden door. The minimalist aesthetic is further emphasized by the use of glossy materials and the absence of traditional Indian design elements.",
+      "description": "This image depicts a modern, minimalist bedroom with a focus on functionality. The wardrobe is a key feature, showcasing a combination of oak wood with a satin finish, glass panels for the doors, and a metal frame. The design emphasizes clean lines and a neutral color palette, reflecting a contemporary approach to Indian interior design. The space appears to be well-lit, suggesting the use of natural light, which is common in modern Indian homes to create a bright and airy atmosphere.",
       "metadata": {
         "tags": [
-          "Modern bathroom, minimalist design, glass shower, wooden paneling, blue door"
+          "Minimalist bedroom",
+          "wooden wardrobe",
+          "glass door",
+          "metal frame",
+          "modern design"
         ],
-        "budget_indicator": "The visible materials suggest a mid-range budget, with glass and wood being relatively costly",
-        "space_type": "Residential bathroom",
-        "functionality": "Primary purpose is for personal hygiene and showering",
-        "indian_specific": "No Indian-specific design features are present"
+        "budget_indicator": "Moderate",
+        "space_type": "Residential bedroom",
+        "functionality": "Storage and personal space organization",
+        "indian_specific": "Modern take on Indian minimalism"
       }
     }
   },
-  "cached_at": 1753460652163,
+  "cached_at": 1754495617479,
   "cache_key": "8589c23818a8c3c61d682e3a35ca0b9c"
 }

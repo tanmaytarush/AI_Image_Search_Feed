@@ -3,64 +3,77 @@
   "analysis": {
     "image_id": "img_240",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modern Minimalist with Indian Influence",
+      "room": "Study or bedroom",
+      "theme": "Modern with Indian Influence",
       "primary_features": [
-        "Wooden flooring",
         "Built-in shelves",
-        "Textured wall",
-        "Window with natural light"
+        "Simple furniture",
+        "Minimal decor"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "Built-in shelves",
           "features": [
-            "Small size, simple design",
-            "No headboard"
+            "Wooden",
+            "Simple design",
+            "Multi-tiered"
           ],
           "materials": [
-            "Wood, likely teak or mango"
+            "Wood",
+            "Painted finish"
           ],
-          "finish": "Natural, unpolished wood finish"
+          "finish": "Matte"
         },
         {
-          "type": "Built-in Shelves",
+          "type": "Furniture",
           "features": [
-            "Wooden, dark finish",
-            "Open design for display"
+            "Simple design",
+            "Wooden",
+            "Sleek finish"
           ],
           "materials": [
-            "Wood, likely teak or mango"
+            "Wood",
+            "Painted finish"
           ],
-          "finish": "Dark, smooth wood finish"
+          "finish": "Matte"
+        },
+        {
+          "type": "Rug",
+          "features": [
+            "Simple pattern",
+            "Soft texture"
+          ],
+          "materials": [
+            "Textile",
+            "Handwoven"
+          ],
+          "finish": "Soft"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White walls",
-          "Dark wood accents",
-          "Natural wood tones",
-          "Dark brown floor"
+          "White",
+          "Brown",
+          "Beige"
         ],
         "materials": [
-          "Wood, likely teak or mango",
-          "White painted walls",
-          "Natural wood tones"
+          "Wood",
+          "Metal",
+          "Textile"
         ],
-        "lighting": "Natural light from the window, soft ambient light from unseen sources",
-        "texture": "Smooth walls, textured floor"
+        "lighting": "Natural light from window, ambient lighting",
+        "texture": "Smooth, matte, soft"
       },
       "indian_context": {
-        "regional_style": "Not clearly indicative of a specific regional style, but possibly from a modernized urban home in the North or South India",
+        "regional_style": "Not distinctly regional, could be from urban or suburban areas",
         "traditional_elements": [
-          "Built-in shelves",
-          "Natural wood elements"
+          "Built-in shelves"
         ],
         "modern_adaptations": [
-          "Modern minimalist design with traditional materials"
+          "Sleek furniture design, minimal decor"
         ],
-        "space_utilization": "Efficient use of space with built-in shelves for storage and a minimal bed design",
-        "cultural_significance": "Use of natural wood and built-in shelves reflects practicality and a connection to Indian architectural traditions, although the minimalist design suggests a modern interpretation"
+        "space_utilization": "Efficient use of vertical space with shelves",
+        "cultural_significance": "Built-in shelves are a common feature in Indian homes, often used for storage and display"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -69,23 +82,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern minimalist bedroom with a focus on Indian design elements. The room features a wooden bed with a natural finish, built-in shelves for storage, and a textured floor. The walls are painted white, and the overall design incorporates dark wood accents, creating a balanced aesthetic. Natural light from the window enhances the space, making it feel airy and inviting. The use of natural wood and built-in shelves reflects traditional Indian design principles, while the minimalist approach is a modern interpretation.",
+      "description": "The interior showcases a modern Indian design approach with minimal decor and efficient space utilization. The built-in shelves, simple furniture, and soft rug add to the traditional Indian aesthetic with modern adaptations. The color palette consists of neutral tones with white walls, brown furniture, and beige accents. The space is optimized for storage and functionality, reflecting a contemporary yet culturally relevant design.",
       "metadata": {
         "tags": [
-          "Modern Minimalist",
-          "Indian Design",
-          "Natural Wood",
-          "Built-in Shelves",
-          "Bedroom",
-          "Urban Home"
+          "Indian interior",
+          "Minimalist design",
+          "Built-in shelves",
+          "Modern Indian",
+          "Efficient space use"
         ],
-        "budget_indicator": "Mid-range, with a focus on quality materials like teak or mango wood",
-        "space_type": "Residential bedroom",
-        "functionality": "Sleeping and storage",
-        "indian_specific": "Natural wood elements and built-in shelves"
+        "budget_indicator": "Moderate, with visible use of painted wood and simple materials",
+        "space_type": "Residential, likely a study or bedroom",
+        "functionality": "Primary purpose is for study or relaxation, with efficient storage and display options",
+        "indian_specific": "Built-in shelves and minimal decor"
       }
     }
   },
-  "cached_at": 1753450362702,
+  "cached_at": 1754493868780,
   "cache_key": "6513faea8ce769e92f34306ccaf23e7a"
 }

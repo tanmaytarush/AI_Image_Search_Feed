@@ -4,87 +4,63 @@
     "image_id": "img_281",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Contemporary",
+      "theme": "Minimalist",
       "primary_features": [
-        "Single bed with wooden headboard",
-        "Sliding wardrobe with frosted glass panels",
-        "Minimalist lighting fixture"
+        "Sliding door wardrobe"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "Sliding Wardrobe",
           "features": [
-            "Wooden frame, simple design, no decorative elements"
+            "White glossy finish, modern design"
           ],
           "materials": [
-            "Wooden headboard, likely teak or a similar wood"
+            "MDF, laminate"
           ],
-          "finish": "Natural wood finish, possibly varnished"
-        },
-        {
-          "type": "Wardrobe",
-          "features": [
-            "Sliding doors with frosted glass panels, minimalist design"
-          ],
-          "materials": [
-            "Frosted glass, likely acrylic or tempered glass"
-          ],
-          "finish": "Transparent, frosted finish"
-        },
-        {
-          "type": "Lighting",
-          "features": [
-            "Modern, sleek design, integrated into the wardrobe structure"
-          ],
-          "materials": [
-            "Metal for the fixture parts"
-          ],
-          "finish": "Metallic, possibly chrome or brushed finish"
+          "finish": "Glossy white"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Pink, white, metallic hues"
+          "White, pink, black"
         ],
         "materials": [
-          "Wood, glass, metal"
+          "MDF, laminate, metal handle"
         ],
-        "lighting": "Soft, diffused light from the integrated wardrobe light",
-        "texture": "Smooth surfaces of glass and metal, matte finish on wood"
+        "lighting": "Natural light, some artificial lighting",
+        "texture": "Smooth, glossy surface"
       },
       "indian_context": {
-        "regional_style": "Not applicable (modern design)",
+        "regional_style": "Not identifiable due to minimal Indian elements",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist design, use of frosted glass, integrated lighting"
+          "Modern wardrobe with minimalistic design"
         ],
-        "space_utilization": "Efficient use of space with a sliding wardrobe",
-        "cultural_significance": "No traditional Indian elements present, reflecting a contemporary approach"
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "No specific cultural elements observed"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.7,
-        "primary_features": 0.8,
-        "objects": 0.9,
-        "indian_context": 0.2
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The image depicts a modern bedroom with a minimalist design. The room features a single bed with a wooden headboard, a sliding wardrobe with frosted glass panels, and a sleek lighting fixture integrated into the wardrobe. The color palette is predominantly pink and white, with metallic accents. The design is contemporary and lacks traditional Indian elements, reflecting a modern, urban aesthetic.",
+      "description": "The image shows a modern bedroom with a sliding wardrobe. The design is minimalist with a white glossy finish on the wardrobe, indicating a contemporary style. The room appears to have a pink accent wall, but no traditional Indian elements are present. The space is organized efficiently with vertical storage solutions.",
       "metadata": {
         "tags": [
-          "bedroom",
-          "modern design",
-          "minimalist",
-          "frosted glass",
-          "wooden headboard",
-          "contemporary"
+          "Minimalist design",
+          "Bedroom",
+          "Glossy wardrobe",
+          "Modern interior"
         ],
-        "budget_indicator": "Moderate, due to the use of materials like teak for the headboard and frosted glass for the wardrobe doors.",
+        "budget_indicator": "Budget-friendly due to use of MDF and laminate",
         "space_type": "Residential bedroom",
-        "functionality": "Sleeping and personal storage",
-        "indian_specific": "No Indian-specific design features are present, as the design is contemporary."
+        "functionality": "Storage and organization of clothing and other belongings",
+        "indian_specific": "No Indian-specific design features visible"
       }
     }
   },
-  "cached_at": 1753459927142,
+  "cached_at": 1754494654215,
   "cache_key": "c7003552beb5052fdc17c93cffb7ea95"
 }

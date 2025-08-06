@@ -2,70 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/443/image_cropper_1728581794259.jpg",
   "analysis": {
     "image_id": "img_387",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/443/image_cropper_1728581794259.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Built-in bed storage",
-        "Wooden headboard"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Built-in bed",
+          "type": "furniture",
           "features": [
-            "Storage space underneath",
-            "Wooden surface"
+            "traditional_style"
           ],
           "materials": [
-            "Wood, possibly teak or mango"
+            "wood",
+            "fabric"
           ],
-          "finish": "Natural wood polish with a glossy sheen"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light wood tone, pink wall"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood, pink wall paint"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from a source not visible in the image",
-        "texture": "Smooth wood texture"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not clearly identifiable, but modern urban Indian design with a touch of regional warmth",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Wooden headboard, traditional storage solution"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary design with built-in storage"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space, maximizing storage within the bed frame",
-        "cultural_significance": "The wooden headboard and storage solution reflect a practical approach to living spaces, common in Indian homes where maximizing space is essential"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image depicts a modern Indian bedroom with a built-in bed that incorporates storage space under the wooden headboard. The room uses a light wood tone and a pink wall, creating a warm and inviting atmosphere. The wooden headboard is a traditional element adapted into a contemporary storage solution, reflecting the practicality and cultural significance of maximizing space in Indian homes.",
-      "metadata": {
-        "tags": [
-          "modern Indian interior",
-          "bedroom design",
-          "wooden furniture",
-          "storage solutions",
-          "Indian home decor"
-        ],
-        "budget_indicator": "Moderate to high, as the wooden furniture and storage solution suggest investment in quality materials and craftsmanship",
-        "space_type": "Residential bedroom",
-        "functionality": "Primary purpose is for sleeping and storage of personal items",
-        "indian_specific": "Use of wood and traditional storage techniques"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1728581794259.jpg"
   },
-  "cached_at": 1753461277074,
+  "cached_at": 1754496104236,
   "cache_key": "0db6190e040bbb3f6fc37e56863ba88e"
 }

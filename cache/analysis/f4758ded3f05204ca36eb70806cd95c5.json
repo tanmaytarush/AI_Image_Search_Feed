@@ -2,75 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/416/image_cropper_1728469314279.jpg",
   "analysis": {
     "image_id": "img_437",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/416/image_cropper_1728469314279.jpg",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modern Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Kitchen counter",
-        "Tiles",
-        "Cabinets"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Kitchen counter",
+          "type": "furniture",
           "features": [
-            "Has a smooth surface",
-            "Integrated sink"
+            "traditional_style"
           ],
           "materials": [
-            "Granite",
-            "Ceramic tiles"
+            "wood",
+            "fabric"
           ],
-          "finish": "Polished"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Gray",
-          "Black",
-          "Beige"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Granite",
-          "Ceramic tiles",
-          "Metal"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Bright, artificial lighting",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Integration of modern appliances"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of counter space",
-        "cultural_significance": "No culturally significant elements visible"
-      },
-      "confidence_scores": {
-        "room": 0.75,
-        "theme": 0.8,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.2
-      },
-      "description": "The image shows a modern kitchen with a clean, minimalist design. The primary feature is a sleek kitchen counter that houses a sink, with smooth surfaces and integrated appliances. The countertops are made of granite, and the backsplash is covered with ceramic tiles in a neutral tone. The cabinetry is white, contributing to the overall modern and minimalist aesthetic. The lighting is bright, creating a bright and functional space.",
-      "metadata": {
-        "tags": [
-          "Kitchen",
-          "Modern",
-          "Minimalist",
-          "Granite",
-          "Ceramic tiles"
-        ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential kitchen",
-        "functionality": "Primary cooking and food preparation area",
-        "indian_specific": "No Indian-specific design features are visible"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1728469314279.jpg"
   },
-  "cached_at": 1753462054279,
+  "cached_at": 1754496449687,
   "cache_key": "f4758ded3f05204ca36eb70806cd95c5"
 }

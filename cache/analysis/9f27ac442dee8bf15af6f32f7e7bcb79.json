@@ -4,82 +4,95 @@
     "image_id": "img_105",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Modern Indian with Traditional Influences",
+      "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "wooden paneling",
-        "neutral color palette",
-        "textured wallpaper",
-        "tiled floor",
-        "simple bed frame"
+        "Wardrobe",
+        "Bed",
+        "Decorative Panel"
       ],
       "objects": [
         {
-          "type": "Bed frame",
+          "type": "Wardrobe",
           "features": [
-            "simple design, no intricate carvings"
+            "Vertical paneling with a vertical pull-out system",
+            "Wooden finish"
           ],
           "materials": [
-            "visible wood"
+            "Teak"
           ],
-          "finish": "natural wood finish"
+          "finish": "Polished and glossy"
         },
         {
-          "type": "Wallpaper",
+          "type": "Bed",
           "features": [
-            "textured, likely for cultural decor"
+            "Simple design",
+            "Dark wood frame"
           ],
           "materials": [
-            "fabric or vinyl"
+            "Teak"
           ],
-          "finish": "embossed texture"
+          "finish": "Natural wood"
+        },
+        {
+          "type": "Decorative Panel",
+          "features": [
+            "Horizontal stripes",
+            "Palm leaf pattern"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Painted"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "neutral/taupe, beige, white",
-          "brown from wood"
+          "Beige",
+          "Brown",
+          "Dark Wood"
         ],
         "materials": [
-          "wood, tile, fabric",
-          "natural materials"
+          "Teak",
+          "Painted Wood"
         ],
-        "lighting": "indirect, warm lighting suggesting a cozy atmosphere",
-        "texture": "mix of smooth and textured surfaces from wallpaper, wood, and tile"
+        "lighting": "Soft ambient lighting from ceiling",
+        "texture": "Smooth and polished surfaces"
       },
       "indian_context": {
-        "regional_style": "Mughal-inspired with a modern twist",
+        "regional_style": "Not explicitly regional",
         "traditional_elements": [
-          "wallpaper design"
+          "Decorative panel with palm leaf pattern",
+          "Teak wood"
         ],
         "modern_adaptations": [
-          "simplified furniture styles"
+          "Minimalistic design with contemporary furniture"
         ],
-        "space_utilization": "efficient use of space with a focus on functionality",
-        "cultural_significance": "The textured wallpaper could be a nod to traditional Indian wall arts, possibly representing nature or geometric patterns"
+        "space_utilization": "Efficient use of vertical space with wardrobe",
+        "cultural_significance": "The decorative panel with palm leaf pattern is inspired by traditional craftsmanship"
       },
       "confidence_scores": {
         "room": 0.95,
-        "theme": 0.87,
+        "theme": 0.7,
         "primary_features": 0.89,
         "objects": 0.92,
-        "indian_context": 0.9
+        "indian_context": 0.8
       },
-      "description": "The bedroom features a modern Indian design with a mix of traditional and contemporary elements. The use of wooden paneling and a simple bed frame reflects a modern interpretation of traditional Mughal-style interiors. The textured wallpaper adds a touch of cultural significance, possibly referencing traditional Indian wall arts. The overall design is neutral in color with a focus on warmth and comfort, using natural materials like wood and tile.",
+      "description": "The bedroom features a modern design with traditional Indian influences. The wardrobe and bed frame are crafted from teak wood, showcasing a natural and polished finish. A decorative panel with a palm leaf pattern adds a traditional touch, blending with the contemporary furniture and lighting. The space is organized with efficient vertical storage solutions, reflecting a modern adaptation of traditional craftsmanship.",
       "metadata": {
         "tags": [
-          "modern Indian",
-          "Mughal style",
-          "textured wallpaper",
-          "neutral color palette",
-          "wooden furniture"
+          "Indian Interior",
+          "Modern Design",
+          "Teak Wood",
+          "Palm Leaf Pattern",
+          "Bedroom"
         ],
-        "budget_indicator": "Moderate, as indicated by the use of wood and tile which are relatively expensive materials",
-        "space_type": "Residential bedroom",
-        "functionality": "Primary purpose is for rest and relaxation, with a focus on comfort and practicality",
-        "indian_specific": "Wallpaper design with potential cultural symbolism"
+        "budget_indicator": "Moderate, with natural teak wood and painted decorative panel",
+        "space_type": "Residential Bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Decorative panel with palm leaf pattern, teak wood furniture"
       }
     }
   },
-  "cached_at": 1753448239655,
+  "cached_at": 1754491135884,
   "cache_key": "9f27ac442dee8bf15af6f32f7e7bcb79"
 }

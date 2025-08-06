@@ -4,81 +4,76 @@
     "image_id": "img_164",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Modern Indian eclectic",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Exposed brick wall",
-        "Quartz countertop",
-        "Diwali-themed decorations"
+        "Loft Style Ceiling",
+        "Carved Wooden Elements",
+        "Copper Accents",
+        "Marble Flooring"
       ],
       "objects": [
         {
-          "type": "Chair",
+          "type": "Carved Wooden Side Table",
           "features": [
-            "Red cushions",
-            "Wooden frame"
+            "Detailed carvings on the top surface"
           ],
           "materials": [
-            "Wood",
-            "Fabric"
+            "Teak Wood"
           ],
-          "finish": "Wooden finish with fabric upholstery"
+          "finish": "Polished"
         },
         {
-          "type": "Coffee table",
+          "type": "Copper Teapot",
           "features": [
-            "Quartz top",
-            "Metal frame"
+            "Handcrafted with traditional designs"
           ],
           "materials": [
-            "Quartz",
-            "Metal"
+            "Copper"
           ],
-          "finish": "High-gloss quartz top with a metallic base"
+          "finish": "Rustic Patina"
         },
         {
-          "type": "Ladder",
+          "type": "Marble Coffee Table",
           "features": [
-            "Wooden rungs",
-            "Metal frame"
+            "Square Shape",
+            "Smooth Surface"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "Marble"
           ],
-          "finish": "Wooden and metal construction"
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Red",
-          "Blue",
           "White",
-          "Black",
+          "Blue",
           "Brown",
-          "Silver",
-          "Green"
+          "Red",
+          "Black",
+          "Gold"
         ],
         "materials": [
           "Wood",
-          "Metal",
-          "Quartz",
-          "Fabric",
-          "Brick"
+          "Marble",
+          "Copper",
+          "Metal"
         ],
-        "lighting": "Natural light from large windows",
-        "texture": "Mix of smooth quartz, metallic, and textured brick"
+        "lighting": "Warm Indoor Lighting with Pendant Lights",
+        "texture": "Sleek and Contemporary"
       },
       "indian_context": {
-        "regional_style": "Not clearly regional, but hints of southern Indian design with the use of quartz and metal",
+        "regional_style": "North Indian",
         "traditional_elements": [
-          "Diwali decorations",
-          "Wooden chair frame"
+          "Carved Wooden Furniture",
+          "Copper Accessories"
         ],
         "modern_adaptations": [
-          "Exposed brick wall, quartz countertop"
+          "Loft Ceiling Design",
+          "Minimalist Color Palette"
         ],
-        "space_utilization": "Efficient use of space with furniture pieces placed strategically",
-        "cultural_significance": "Diwali-themed decorations add a cultural touch, symbolizing celebration and prosperity"
+        "space_utilization": "Optimized with loft ceiling and storage solutions",
+        "cultural_significance": "Emphasis on craftsmanship and traditional materials in a modern setting"
       }
     },
     "confidence_scores": {
@@ -88,22 +83,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image depicts a modern Indian eclectic living room with a mix of traditional and contemporary elements. The room features an exposed brick wall, which is a modern interpretation of regional design, paired with a quartz countertop and metal ladder, emphasizing a blend of traditional and contemporary aesthetics. The room is decorated with Diwali-themed items, adding a cultural touch, and includes a wooden chair and a ladder, both traditional Indian elements that are adapted into modern furniture. The space is well-lit with natural light coming through large windows, and the room is organized to maximize space, with furniture pieces placed to create a functional yet stylish living area.",
+    "description": "The interior space showcases a modern interpretation of traditional North Indian design elements, featuring a loft-style ceiling with carved wooden accents and rustic copper finishes. The color palette is a mix of warm and contemporary hues, with polished marble flooring and vibrant red and blue elements that add a playful contrast. Storage solutions are subtly integrated, and the space is illuminated with warm, inviting lighting that enhances the rich textures and materials used.",
     "metadata": {
       "tags": [
-        "Modern Indian",
-        "Eclectic",
-        "Quartz",
-        "Diwali",
-        "Exposed Brick Wall",
-        "Wooden Furniture"
+        "Loft Style",
+        "North Indian",
+        "Carved Wood",
+        "Copper Accents",
+        "Marble Flooring"
       ],
-      "budget_indicator": "Moderate, as quartz and metal materials are used, indicating a mid-range budget.",
+      "budget_indicator": "Moderate to High, due to use of polished marble and carved wood",
       "space_type": "Living Room",
-      "functionality": "Primary purpose is for relaxation and socializing, with a festive touch added by the Diwali decorations.",
-      "indian_specific": "Traditional furniture pieces and Diwali decorations are used, highlighting Indian design elements."
+      "functionality": "Relaxed Living Space with Storage Solutions",
+      "indian_specific": "Traditional carved wood and copper accents are modernized with the use of a loft ceiling and contemporary furniture"
     }
   },
-  "cached_at": 1753449502104,
+  "cached_at": 1754492264984,
   "cache_key": "6c5059ef0fa4920e90018d1d949662fe"
 }

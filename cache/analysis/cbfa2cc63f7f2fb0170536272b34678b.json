@@ -2,73 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/290/image_cropper_1729340146010.jpg",
   "analysis": {
     "image_id": "img_328",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/290/image_cropper_1729340146010.jpg",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Glass partition",
-        "Wooden door",
-        "Vanity mirror"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Bathroom vanity mirror",
+          "type": "furniture",
           "features": [
-            "Rectangular shape",
-            "Enclosed frame"
+            "traditional_style"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "wood",
+            "fabric"
           ],
-          "finish": "Mahogany finish on wood, metallic frame"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (wood), Black (paint), White (glass partition)"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood, metal, glass"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from outside",
-        "texture": "Smooth wood finish, reflective glass"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not specifically identifiable",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "None visible"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Use of modern materials and design for a traditional function"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with a glass partition for separation",
-        "cultural_significance": "No specific cultural elements visible in the design"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern bathroom with a glass partition and a wooden door leading to a vanity area. The vanity features a rectangular mirror enclosed in a wooden frame with a metallic finish. The space uses modern materials like wood, metal, and glass, reflecting a contemporary take on traditional bathroom design.",
-      "metadata": {
-        "tags": [
-          "Bathroom",
-          "Modern",
-          "Indian Design",
-          "Glass Partition",
-          "Wooden Door",
-          "Vanity Mirror"
-        ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential",
-        "functionality": "Personal grooming and hygiene",
-        "indian_specific": "Modern adaptation of traditional materials (wood) for a bathroom setting"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729340146010.jpg"
   },
-  "cached_at": 1753460501543,
+  "cached_at": 1754495390302,
   "cache_key": "cbfa2cc63f7f2fb0170536272b34678b"
 }

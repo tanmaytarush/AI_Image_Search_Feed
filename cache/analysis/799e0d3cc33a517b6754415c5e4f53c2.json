@@ -3,70 +3,70 @@
   "analysis": {
     "image_id": "img_118",
     "ai_generated_tags": {
-      "room": "Storage or closet",
-      "theme": "Minimalist",
+      "room": "Bedroom",
+      "theme": "Modern Minimalist",
       "primary_features": [
-        "Sliding doors with frosted glass panels",
-        "Sleek, modern hardware"
+        "Glass partition walls",
+        "Built-in wardrobe"
       ],
       "objects": [
         {
-          "type": "Furniture",
+          "type": "Built-in wardrobe",
           "features": [
-            "Sliding doors with frosted glass panels",
-            "Sleek, modern hardware"
+            "Full-length sliding glass doors",
+            "Modern design"
           ],
           "materials": [
             "Glass",
             "Metal"
           ],
-          "finish": "Frosted glass and brushed metal"
+          "finish": "Smooth and reflective"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Frosted glass"
+          "Gray"
         ],
         "materials": [
           "Glass",
           "Metal"
         ],
-        "lighting": "Interior lighting with no visible natural light source",
-        "texture": "Smooth and reflective surfaces"
+        "lighting": "Even, artificial lighting from ceiling fixtures",
+        "texture": "Smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "No Indian regional influences present",
+        "regional_style": "No specific regional style evident",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Glass is a modern material used for Indian interiors"
+          "Minimal use of traditional Indian elements"
         ],
-        "space_utilization": "Efficient use of space with sliding doors for storage",
-        "cultural_significance": "No cultural relevance as this is a modern design"
+        "space_utilization": "Efficient use of space with a built-in wardrobe",
+        "cultural_significance": "No cultural elements present"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern minimalist bedroom with a built-in wardrobe featuring full-length sliding glass doors. The design is sleek and functional, utilizing glass and metal materials. The room is devoid of traditional Indian elements, focusing on contemporary aesthetics.",
+      "metadata": {
+        "tags": [
+          "Modern",
+          "Minimalist",
+          "Bedroom",
+          "Glass",
+          "Built-in wardrobe"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential",
+        "functionality": "Storage and organization",
+        "indian_specific": "No Indian-specific design features"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image depicts a minimalist storage or closet space featuring frosted glass sliding doors and sleek metal hardware. The design is modern and does not reflect traditional Indian design elements. The use of glass and metal suggests a contemporary approach to Indian interior design, which may have been influenced by modern adaptations of traditional materials.",
-    "metadata": {
-      "tags": [
-        "Minimalist",
-        "Storage",
-        "Frosted Glass",
-        "Metal Hardware",
-        "Modern Design"
-      ],
-      "budget_indicator": "Moderate, as glass and metal are quality materials but not the most expensive options",
-      "space_type": "Residential closet",
-      "functionality": "Primary purpose is to provide efficient storage space",
-      "indian_specific": "No specific Indian-specific design features are present in this image"
     }
   },
-  "cached_at": 1753448592928,
+  "cached_at": 1754491337984,
   "cache_key": "799e0d3cc33a517b6754415c5e4f53c2"
 }

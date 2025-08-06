@@ -2,86 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/464/image_cropper_1728666362578.jpg",
   "analysis": {
     "image_id": "img_401",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/464/image_cropper_1728666362578.jpg",
     "ai_generated_tags": {
-      "room": "Entrance",
-      "theme": "Minimalist with Indian Influence",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Glass panel door",
-        "Modern white paneling"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Glass panel door",
+          "type": "furniture",
           "features": [
-            "Transparent glass panels",
-            "Silver metallic frame"
+            "traditional_style"
           ],
           "materials": [
-            "Glass",
-            "Metal"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth glass and polished metallic frame"
-        },
-        {
-          "type": "Modern white paneling",
-          "features": [
-            "Geometric patterns",
-            "Smooth finish"
-          ],
-          "materials": [
-            "Painted wood or composite paneling"
-          ],
-          "finish": "Matte finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Silver",
-          "Transparent"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Glass",
-          "Metal",
-          "Painted wood"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from the glass panels, no artificial lighting observed",
-        "texture": "Smooth and clean surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Minimal use of traditional Indian elements"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Combination of glass and metal in a traditional Indian context"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with a clean and modern design",
-        "cultural_significance": "Reinforces the modern interpretation of Indian design principles"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern entrance with a glass panel door featuring silver metallic frames and a clean, minimalist design. The use of glass and metal is a modern interpretation of traditional Indian design elements, such as the emphasis on clean lines and the use of reflective surfaces. The room appears to be a contemporary take on an Indian entryway, possibly influenced by the minimalist trend. The space is well-organized, with a focus on functionality and aesthetics.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Minimalist design",
-          "Entryway",
-          "Glass door",
-          "Silver accents"
-        ],
-        "budget_indicator": "Mid-range due to the use of glass and metal materials, but potentially higher if luxury glass or metallic finishes are used",
-        "space_type": "Residential entrance",
-        "functionality": "Primarily for entry and exit, with a modern aesthetic",
-        "indian_specific": "Modern interpretation of Indian design principles"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1728666362578.jpg"
   },
-  "cached_at": 1753461452503,
+  "cached_at": 1754496205564,
   "cache_key": "6a8d87c1893f7c595dfe35703468c650"
 }

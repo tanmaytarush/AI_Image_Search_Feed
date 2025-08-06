@@ -3,89 +3,110 @@
   "analysis": {
     "image_id": "img_184",
     "ai_generated_tags": {
-      "room": "Bathroom",
+      "room": "Entryway",
       "theme": "Modern Indian",
       "primary_features": [
-        "Wooden door",
-        "white modular storage unit",
-        "mirror"
+        "Wardrobe",
+        "Light fixture",
+        "Mirror",
+        "Wooden door"
       ],
       "objects": [
         {
-          "type": "Storage unit",
+          "type": "Wardrobe",
           "features": [
-            "Modern design, white, with multiple compartments"
+            "Built-in",
+            "Simple design",
+            "Light wood finish"
           ],
           "materials": [
-            "MDF or particle board"
+            "Wood"
           ],
-          "finish": "Matte white finish"
+          "finish": "Matte finish"
         },
         {
-          "type": "Door",
+          "type": "Light fixture",
           "features": [
-            "Wooden, with simple design"
+            "Ceiling mounted",
+            "Modern design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Full-length",
+            "Built-in wardrobe",
+            "Horizontal placement"
+          ],
+          "materials": [
+            "Metal frame"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Wooden door",
+          "features": [
+            "Double doors",
+            "Simple design",
+            "Wood finish"
           ],
           "materials": [
             "Wood"
           ],
           "finish": "Natural wood finish"
-        },
-        {
-          "type": "Mirror",
-          "features": [
-            "Large, mounted on the wall behind the door"
-          ],
-          "materials": [
-            "Glass"
-          ],
-          "finish": "Clear glass"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, brown, beige"
+          "Beige",
+          "White",
+          "Brown"
         ],
         "materials": [
-          "Wood, MDF, glass"
+          "Wood",
+          "Metal"
         ],
-        "lighting": "Natural lighting from the door opening",
+        "lighting": "Natural light with artificial ceiling light",
         "texture": "Smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "Not applicable, modern Indian style",
-        "traditional_elements": [],
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Wooden door"
+        ],
         "modern_adaptations": [
-          "Conemporary design with traditional Indian materials"
+          "Built-in wardrobe, modern light fixture"
         ],
-        "space_utilization": "Efficient use of space for storage and practicality",
-        "cultural_significance": "Simple, modern design with Indian aesthetics in materials"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image depicts a modern Indian bathroom with a focus on functionality and contemporary design. The white modular storage unit is a modern interpretation of traditional storage solutions, using modern materials like MDF for a sleek look. The wooden door adds a touch of traditional Indian aesthetics, while the mirror behind it provides both practical storage and a sense of space. The overall design is clean and minimalist, with a modern Indian flavor.",
-      "metadata": {
-        "tags": [
-          "bathroom",
-          "modern",
-          "indian design",
-          "storage",
-          "wooden door",
-          "white",
-          "minimalist"
-        ],
-        "budget_indicator": "Moderate, due to use of modern materials like MDF and glass",
-        "space_type": "Residential",
-        "functionality": "Storage and practicality",
-        "indian_specific": "Use of wooden elements and modern interpretation of Indian design"
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Practical storage solution, reflecting modern lifestyle"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.88,
+      "primary_features": 0.85,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian entryway with a practical and minimalist design. The built-in wardrobe offers efficient storage, while the wooden door and simple light fixture add a touch of traditional Indian aesthetics. The color palette consists of neutral tones, with beige and white walls complementing the natural wood finish of the wardrobe and door, creating a clean and contemporary look.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Modern design",
+        "Entryway",
+        "Wardrobe",
+        "Wooden door"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Primary storage and entry point",
+      "indian_specific": "Built-in wardrobe, wooden door"
     }
   },
-  "cached_at": 1753449739710,
+  "cached_at": 1754492724463,
   "cache_key": "e715b634b6f474247275ccd629fc74bf"
 }

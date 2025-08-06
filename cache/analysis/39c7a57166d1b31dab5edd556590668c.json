@@ -3,89 +3,83 @@
   "analysis": {
     "image_id": "img_242",
     "ai_generated_tags": {
-      "room": "Study area or small office",
-      "theme": "Minimalist Indian-inspired",
+      "room": "Study",
+      "theme": "Contemporary",
       "primary_features": [
-        "Patterned wallpaper",
-        "Small desk",
-        "Chair"
+        "Dark brown patterned wall, small desk with computer, open shelving"
       ],
       "objects": [
         {
-          "type": "Chair",
+          "type": "Desk",
           "features": [
-            "Simple design with solid wood frame",
-            "Red fabric upholstery"
+            "Small, modern design, dark brown finish"
           ],
           "materials": [
-            "Wood",
-            "Fabric"
+            "Wood, possibly teak"
           ],
-          "finish": "Natural wood finish, polished fabric"
+          "finish": "High-gloss, dark brown"
         },
         {
-          "type": "Small desk",
+          "type": "Wall",
           "features": [
-            "Compact size",
-            "Metal frame"
+            "Dark brown patterned design, abstract pattern"
           ],
           "materials": [
-            "Metal",
-            "Glass top"
+            "Painted wall"
           ],
-          "finish": "Metallic finish with a clear glass top"
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Shelving",
+          "features": [
+            "Open shelving with books and decor"
+          ],
+          "materials": [
+            "Wood, possibly teak"
+          ],
+          "finish": "Natural, matte"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark brown wallpaper pattern",
-          "Red chair fabric",
-          "Gray metallic desk frame"
+          "Dark brown, white, black"
         ],
         "materials": [
-          "Wood",
-          "Fabric",
-          "Metal",
-          "Glass"
+          "Wood, painted wall, metallic objects"
         ],
-        "lighting": "Natural light from an unseen window",
-        "texture": "Wallpaper with a textured pattern, smooth metal and glass"
+        "lighting": "Natural light, possibly from a window not visible in the image",
+        "texture": "Smooth wall finish, glossy desk, matte shelving"
       },
       "indian_context": {
-        "regional_style": "No specific regional style identified",
+        "regional_style": "Not identifiable due to modern design elements",
         "traditional_elements": [
-          "Wooden chair with upholstery"
+          "None"
         ],
         "modern_adaptations": [
-          "Minimalist design with modern materials"
+          "Modern furniture and design with influences from Indian aesthetics"
         ],
-        "space_utilization": "Efficient use of small space for work or study",
-        "cultural_significance": "Use of fabric upholstery on the chair reflects traditional craftsmanship"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.85
-      },
-      "description": "This image depicts a small study area or office space with a minimalist Indian-inspired design. The room features a patterned wallpaper with a dark brown color scheme, a simple wooden chair with red upholstery, and a compact desk with a metal frame and glass top. The design incorporates traditional elements like the wooden chair and fabric upholstery, while utilizing modern materials for the desk and chair frame. The space is efficiently organized for functionality, with natural light coming from an unseen window, contributing to a bright and airy atmosphere.",
-      "metadata": {
-        "tags": [
-          "Minimalist",
-          "Indian interior",
-          "Small office",
-          "Study area",
-          "Wooden chair",
-          "Red upholstery"
-        ],
-        "budget_indicator": "Moderate, with a mix of traditional and modern materials",
-        "space_type": "Residential office",
-        "functionality": "Primary use as a workspace for studying or working",
-        "indian_specific": "Usage of traditional wooden chair with fabric upholstery"
+        "space_utilization": "The space is organized with a focus on functionality, with a desk, shelving, and wall decor.",
+        "cultural_significance": "The modern design elements, while not traditional, can still reflect contemporary Indian interior design trends that often blend traditional and modern styles."
       }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.8,
+      "primary_features": 0.75,
+      "objects": 0.8,
+      "indian_context": 0.6
+    },
+    "description": "The image depicts a modern study space with a contemporary design. The room features dark brown patterned walls, a small desk with a computer, and open shelving with books and decor. The materials used include wood (possibly teak) for the desk and shelving, and a glossy finish for the desk. The overall design is sleek and functional, with a focus on modern aesthetics. While there are no traditional Indian elements, the design incorporates some cultural relevance from contemporary Indian interior trends.",
+    "metadata": {
+      "tags": [
+        "Modern study, contemporary design, dark brown, minimal, functional space"
+      ],
+      "budget_indicator": "Moderate, with the use of wood and glossy finishes indicating a mid-range budget.",
+      "space_type": "Residential study",
+      "functionality": "Primary purpose is for study and work, with a focus on a functional and organized layout.",
+      "indian_specific": "No traditional Indian elements, but modern interpretations of Indian design aesthetics."
     }
   },
-  "cached_at": 1753450398269,
+  "cached_at": 1754493893777,
   "cache_key": "39c7a57166d1b31dab5edd556590668c"
 }

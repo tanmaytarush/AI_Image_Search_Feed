@@ -4,77 +4,61 @@
     "image_id": "img_343",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Modern Indian",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Wood paneling",
-        "Television unit",
-        "Wall-mounted lighting"
+        "Wooden wall paneling",
+        "Modern lighting fixture",
+        "Television unit"
       ],
       "objects": [
         {
           "type": "Television unit",
           "features": [
-            "White color",
-            "Simple design",
-            "Rectangular shape"
+            "Wooden top with decorative elements",
+            "Metallic accents"
           ],
           "materials": [
-            "Painted wood"
+            "Wood",
+            "Metal"
           ],
-          "finish": "Smooth"
+          "finish": "Lacquered wood with metallic detailing"
         },
         {
-          "type": "Wood paneling",
+          "type": "Modern lighting fixture",
           "features": [
-            "Vertical strips",
-            "Natural wood grain",
-            "Brushed finish"
+            "Teardrop-shaped design",
+            "Illuminated base"
           ],
           "materials": [
-            "Teak"
+            "Metal"
           ],
-          "finish": "Natural"
-        },
-        {
-          "type": "Wall-mounted lighting",
-          "features": [
-            "Circular design",
-            "Illuminated glass shades",
-            "Modern style"
-          ],
-          "materials": [
-            "Metal",
-            "Glass"
-          ],
-          "finish": "Shiny"
+          "finish": "Polished metal"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Warm tones"
+          "Warm wood tones",
+          "Neutral beige",
+          "White"
         ],
         "materials": [
           "Wood",
-          "Painted wood",
           "Metal",
           "Glass"
         ],
-        "lighting": "Warm, ambient light from wall-mounted lights",
-        "texture": "Smooth wood paneling and glossy metallic wall lights"
+        "lighting": "Natural light from unseen side and soft interior lighting",
+        "texture": "Smooth wood paneling and metallic sheen"
       },
       "indian_context": {
-        "regional_style": "North Indian",
+        "regional_style": "Central Indian",
         "traditional_elements": [
-          "Teak wood paneling"
+          "Wooden wall paneling"
         ],
         "modern_adaptations": [
-          "Television unit with modern lines",
-          "Wall-mounted lighting"
+          "Television unit with modern design elements"
         ],
-        "space_utilization": "Efficient use of vertical space with wood paneling",
-        "cultural_significance": "Teak wood is commonly used in North Indian interiors, symbolizing strength and durability"
+        "space_utilization": "Efficient use of space with a streamlined unit",
+        "cultural_significance": "Wooden paneling often symbolizes warmth and hospitality in Indian homes"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -83,22 +67,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The interior showcases a modern take on traditional North Indian design, with a focus on teak wood paneling that adds warmth and natural elegance to the living space. The television unit, with its clean lines and white finish, complements the rustic charm of the wooden panels. The wall-mounted lights add a contemporary touch, enhancing the ambiance with soft, warm lighting. The use of these materials and design elements reflects the cultural significance of teak wood in North Indian homes, symbolizing strength and durability.",
+      "description": "This living room features a contemporary Indian aesthetic, with a focus on traditional Indian elements like wooden wall paneling. The design is modernized with sleek lines and metallic accents, creating a harmonious blend of tradition and modernity. The wooden wall unit serves as both a storage and decor element, while the modern lighting fixture adds a touch of sophistication to the space.",
       "metadata": {
         "tags": [
-          "Modern Indian",
-          "Teak paneling",
           "Living Room",
-          "Warm tones",
-          "Wall-mounted lights"
+          "Contemporary Design",
+          "Indian Style",
+          "Wood Paneling",
+          "Metal Accents"
         ],
-        "budget_indicator": "Moderate, with a focus on quality materials like teak and polished finishes",
+        "budget_indicator": "Moderate",
         "space_type": "Residential",
-        "functionality": "Entertainment and relaxation area",
-        "indian_specific": "Teak wood paneling with traditional craftsmanship"
+        "functionality": "Entertainment and living area",
+        "indian_specific": "Wooden wall paneling, modern interpretation of traditional elements"
       }
     }
   },
-  "cached_at": 1753460667155,
+  "cached_at": 1754495643266,
   "cache_key": "0ed3c117d5460a4c276b137ab2fa3eed"
 }

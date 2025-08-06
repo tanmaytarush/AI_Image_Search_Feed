@@ -2,141 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.28%20PM%20%282%29.jpeg",
   "analysis": {
     "image_id": "img_038",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.28%20PM%20%282%29.jpeg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modern Indo-Western",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Built-in wardrobe with sliding doors",
-        "Wall-mounted shelves",
-        "Ceiling fan",
-        "Hardwood flooring",
-        "Window with grill",
-        "Mirror on the wall"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Built-in wardrobe",
+          "type": "furniture",
           "features": [
-            "Sliding glass doors with metallic handles",
-            "Dark brown and white marble paneling"
+            "traditional_style"
           ],
           "materials": [
-            "Glass",
-            "Metal",
-            "Marble"
+            "wood",
+            "fabric"
           ],
-          "finish": "High-gloss finish"
-        },
-        {
-          "type": "Wall-mounted shelves",
-          "features": [
-            "Dark brown color",
-            "Multiple shelves"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Smooth finish"
-        },
-        {
-          "type": "Ceiling fan",
-          "features": [
-            "Gold-colored",
-            "Ceiling-mounted"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Painted finish"
-        },
-        {
-          "type": "Hardwood flooring",
-          "features": [
-            "Dark brown color",
-            "Wooden texture"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Polished finish"
-        },
-        {
-          "type": "Window with grill",
-          "features": [
-            "Metal grill",
-            "White frame"
-          ],
-          "materials": [
-            "Metal",
-            "Glass"
-          ],
-          "finish": "Painted finish"
-        },
-        {
-          "type": "Mirror",
-          "features": [
-            "Large rectangular shape",
-            "Wall-mounted"
-          ],
-          "materials": [
-            "Glass"
-          ],
-          "finish": "Clear finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark brown",
-          "White",
-          "Gray",
-          "Brown"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Glass",
-          "Metal",
-          "Marble",
-          "Wood",
-          "Paint"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Smooth surfaces and wood grain texture"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not clearly regional, but reflects a modern adaptation of traditional Indian elements",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Wall-mounted shelves, sliding doors"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "High-gloss finishes, minimalist design"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with a built-in wardrobe and wall-mounted shelves",
-        "cultural_significance": "The design incorporates modern aesthetics while maintaining a sense of practicality and functionality, which is valued in contemporary Indian homes"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image depicts a modern bedroom with a contemporary twist on traditional Indian design elements. The built-in wardrobe with sliding glass doors and metallic handles is a modern interpretation of the traditional Indian jharokha. The wall-mounted shelves add to the traditional feel, while the high-gloss finish and minimalist design are distinctly modern. The use of dark brown and white marble for the wardrobe and shelves, along with the hardwood floor, adds a touch of luxury and elegance. The ceiling fan and large mirror are practical and common in modern Indian homes, while the natural light from the window with metal grill brings in a fresh and airy feel.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Modern Indo-Western",
-        "Bedroom",
-        "Built-in wardrobe",
-        "Wall-mounted shelves",
-        "Ceiling fan",
-        "Hardwood flooring",
-        "Window with grill"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Higher budget due to the use of marble, metal, and high-gloss finishes",
-      "space_type": "Residential bedroom",
-      "functionality": "Storage and organization",
-      "indian_specific": "Efficient use of space with traditional and modern elements"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "WhatsApp%20Image%202023-04-10%20at%209.47.28%20PM%20%282%29.jpeg"
   },
-  "cached_at": 1753875374371,
+  "cached_at": 1754489388582,
   "cache_key": "e9e5fcf807d6cd42adf00e41ee59c7ed"
 }

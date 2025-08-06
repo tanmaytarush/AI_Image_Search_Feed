@@ -3,54 +3,76 @@
   "analysis": {
     "image_id": "img_306",
     "ai_generated_tags": {
-      "room": "Living Room",
+      "room": "Kitchen",
       "theme": "Modern Indian",
       "primary_features": [
-        "Modern furniture with traditional accents",
-        "Colorful accent wall",
-        "Open shelving unit"
+        "Yellow cabinets",
+        "White counter top",
+        "Open shelving",
+        "White walls"
       ],
       "objects": [
         {
-          "type": "Modern bookshelf",
+          "type": "Cabinet",
           "features": [
-            "Multiple shelves",
+            "Yellow",
             "Rectangular shape",
-            "Minimalist design"
+            "Modern design"
           ],
           "materials": [
-            "White MDF",
-            "Metallic accents"
+            "Wood or MDF with painted finish"
           ],
-          "finish": "Glossy finish"
+          "finish": "Flat painted finish"
+        },
+        {
+          "type": "Counter Top",
+          "features": [
+            "White",
+            "Smooth",
+            "Integrated with cabinets"
+          ],
+          "materials": [
+            "Marble or Laminate"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Open Shelving",
+          "features": [
+            "White",
+            "Built-in",
+            "Wall-mounted"
+          ],
+          "materials": [
+            "Wood or MDF"
+          ],
+          "finish": "Matte white"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
           "Yellow",
-          "Tan",
-          "Brown",
-          "Black"
+          "White",
+          "Gray"
         ],
         "materials": [
-          "MDF",
-          "Metallic",
-          "Plastic"
+          "Yellow wood/MDF",
+          "White laminate",
+          "White paint"
         ],
-        "lighting": "Natural light from the side",
-        "texture": "Smooth surfaces"
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces with matte and glossy textures"
       },
       "indian_context": {
-        "regional_style": "No specific regional style identified",
+        "regional_style": "Not strongly regional, could be from any part of India but leans towards urban modern",
         "traditional_elements": [
-          "No traditional Indian elements visible"
+          "Minimal traditional elements"
         ],
         "modern_adaptations": [
-          "Modern interpretation of Indian design with contemporary furniture"
+          "Integration of modern design with traditional colors and materials"
         ],
-        "space_utilization": "The space is optimized for storage with an open shelving unit",
-        "cultural_significance": "The design reflects modern Indian interiors with a blend of contemporary and traditional elements"
+        "space_utilization": "Efficient use of space with built-in storage and open shelving",
+        "cultural_significance": "No specific cultural elements present, but the color yellow is associated with prosperity and good fortune in Indian culture"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -59,22 +81,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This modern Indian living space features a minimalist design with a contemporary bookshelf. The room incorporates a colorful accent wall, likely in a mustard or yellow shade, which stands out against the white MDF and metallic elements of the furniture. The open shelving unit provides storage while maintaining a clean and organized look, typical of modern Indian interior design. The space blends traditional Indian aesthetics with modern minimalist trends.",
+      "description": "The image depicts a modern Indian kitchen with a fresh design that combines traditional yellow with urban modern elements. The space is characterized by yellow cabinets, a white counter top, built-in open shelving, and clean lines. The use of yellow cabinets adds a vibrant touch to the otherwise neutral color palette of white and gray. The design emphasizes efficient space utilization with minimal traditional elements and focuses on modern aesthetics and functionality.",
       "metadata": {
         "tags": [
           "Modern Indian",
-          "Minimalist design",
-          "Open shelving",
-          "Colorful walls",
-          "Contemporary furniture"
+          "Urban kitchen",
+          "Yellow cabinets",
+          "White walls",
+          "Open shelving"
         ],
-        "budget_indicator": "Moderate",
-        "space_type": "Living Room",
-        "functionality": "Storage and display",
-        "indian_specific": "Modern adaptation of Indian design elements"
+        "budget_indicator": "Moderate, with quality materials suggesting a reasonable budget",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is food preparation with additional storage and display capabilities",
+        "indian_specific": "Yellow cabinets as a modern interpretation of traditional Indian color"
       }
     }
   },
-  "cached_at": 1753460231393,
+  "cached_at": 1754495021411,
   "cache_key": "d70834b1828523d82350ba0ee95022a1"
 }

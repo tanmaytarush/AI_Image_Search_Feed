@@ -2,72 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1011/image_cropper_1729479263000.jpg",
   "analysis": {
     "image_id": "img_498",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1011/image_cropper_1729479263000.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Contemporary Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Wooden wardrobe",
-        "Built-in storage",
-        "Neutral color palette"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "furniture",
           "features": [
-            "Modern design",
-            "Cabinet doors with handles",
-            "Mirror on the inside"
+            "traditional_style"
           ],
           "materials": [
-            "Wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "Glossy finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown wood, white wall, gray panel, black handles"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood, metal"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Smooth surfaces of wood, glossy finish"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Maharashtrian",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Wardrobe design with storage"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Minimalist and functional design"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of wall space for storage",
-        "cultural_significance": "Wardrobe as a symbol of organization and practicality in Indian homes"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image showcases a contemporary Indian bedroom with a focus on practicality and functionality. The modern wardrobe with built-in storage and a glossy finish is a hallmark of efficient space utilization. The neutral color palette and polished wood materials reflect a modern yet traditional Indian aesthetic, with an emphasis on practicality and comfort. The design incorporates elements commonly seen in Maharashtrian homes, where functionality is prioritized in furniture design.",
-      "metadata": {
-        "tags": [
-          "Contemporary Indian",
-          "Bedroom",
-          "Wardrobe",
-          "Maharashtrian",
-          "Functional design"
-        ],
-        "budget_indicator": "Moderate, as the materials used are quality but not luxury",
-        "space_type": "Residential",
-        "functionality": "Storage and organization",
-        "indian_specific": "Modern interpretation of traditional storage furniture"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729479263000.jpg"
   },
-  "cached_at": 1753462703797,
+  "cached_at": 1754496787889,
   "cache_key": "43462b8a8d796aaf0f8d70c4b18c11ed"
 }

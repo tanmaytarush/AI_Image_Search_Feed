@@ -3,195 +3,122 @@
   "analysis": {
     "image_id": "img_085",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Home office",
-      "theme": "Contemporary with Indian influences",
+      "room": "Study/Workstation",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Built-in desk and storage unit",
-        "Green and beige color scheme",
-        "Carved wooden door"
+        "Built-in cubby with green accents",
+        "Built-in desk with green shelving",
+        "Modern furniture",
+        "Marble flooring",
+        "Textured wall panel"
       ],
       "objects": [
         {
-          "type": "Built-in desk",
+          "type": "Desk",
           "features": [
-            "Stylish, modern design",
-            "Incorporated storage underneath"
+            "Compact design",
+            "Green accents"
           ],
           "materials": [
-            "Possible MDF or laminate surfaces"
+            "Green finish"
           ],
-          "finish": "Smooth and glossy"
-        },
-        {
-          "type": "Shelving unit",
-          "features": [
-            "Decorative shelves with green accents",
-            "Floral patterned wallpaper behind"
-          ],
-          "materials": [
-            "Wallpaper, possibly MDF or plywood"
-          ],
-          "finish": "Smooth and glossy"
+          "finish": "Matte green"
         },
         {
           "type": "Chair",
           "features": [
-            "Modern design with curved backrest",
-            "Brown leather or faux leather upholstery"
+            "Curved design",
+            "Wooden seat"
           ],
           "materials": [
-            "Leather or synthetic leather"
+            "Wood"
           ],
-          "finish": "Glossy finish"
-=======
-      "room": "home office",
-      "theme": "contemporary",
-      "primary_features": [
-        "custom built-in shelving unit",
-        "desk with chair",
-        "cabinet storage"
-      ],
-      "objects": [
-        {
-          "type": "desk",
-          "features": [
-            "curved edge",
-            "white surface with green accents"
-          ],
-          "materials": [
-            "likely MDF or particle board",
-            "green material possibly acrylic or laminate"
-          ],
-          "finish": "smooth, glossy"
+          "finish": "Natural wood"
         },
         {
-          "type": "chair",
+          "type": "Wall Panel",
           "features": [
-            "modern design",
-            "brown leatherette",
-            "metal legs"
+            "Textured pattern",
+            "Green accents"
           ],
           "materials": [
-            "brown synthetic leatherette",
-            "metal"
+            "Green finish"
           ],
-          "finish": "glossy and smooth"
+          "finish": "Matte green"
         },
         {
-          "type": "cabinet",
+          "type": "Shelving",
           "features": [
-            "two-toned design",
-            "sliding door",
-            "shelving inside"
+            "Green accents",
+            "Organized display"
           ],
           "materials": [
-            "likely MDF or particle board",
-            "green material possibly acrylic or laminate"
+            "Green finish"
           ],
-          "finish": "smooth, glossy"
->>>>>>> origin/main
+          "finish": "Matte green"
+        },
+        {
+          "type": "Flooring",
+          "features": [
+            "Marble tile"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "Beige, green, white, brown"
+          "Green",
+          "White",
+          "Beige",
+          "Marble grey"
         ],
         "materials": [
-          "Wood, metal, MDF, laminate, wallpaper"
+          "Green finish",
+          "Beige finish",
+          "Marble",
+          "Wood"
         ],
-        "lighting": "Natural light from the left, ambient lighting from the right",
-        "texture": [
-          "Smooth surfaces, floral patterned wallpaper"
-        ]
+        "lighting": "Natural light with ambient lighting",
+        "texture": "Textured wall panel, marble flooring, and green finish on furniture"
       },
       "indian_context": {
-        "regional_style": "Not strongly regional, more of a modern take on Indian design",
+        "regional_style": "Not explicitly regional, but modern interpretations of Indian elements",
         "traditional_elements": [
-          "Carved wooden door, floral patterned wallpaper"
+          "Green accents reminiscent of Indian decor"
         ],
         "modern_adaptations": [
-          "Contemporary furniture, built-in storage units"
+          "Contemporary furniture and finishes"
         ],
-        "space_utilization": "Efficient use of vertical space with built-in storage and shelving",
-        "cultural_significance": "The floral wallpaper and carved door reflect Indian art and craftsmanship, while the modern elements represent a contemporary interpretation"
-=======
-          "white",
-          "green",
-          "brown",
-          "beige",
-          "gray"
-        ],
-        "materials": [
-          "MDF/particle board",
-          "acrylic/laminate",
-          "metal",
-          "synthetic leatherette"
-        ],
-        "lighting": "soft, ambient light from ceiling, natural light from window",
-        "texture": [
-          "smooth",
-          "glossy",
-          "textured walls"
-        ]
-      },
-      "indian_context": {
-        "regional_style": "no specific regional style present",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "contemporary interpretation of Indian design elements"
-        ],
-        "space_utilization": "efficient use of vertical space with built-in furniture",
-        "cultural_significance": "no overt cultural elements, but modern adaptations of Indian design aesthetics"
->>>>>>> origin/main
+        "space_utilization": "Efficient use of space with built-in storage and desk",
+        "cultural_significance": "The use of green color, often associated with wealth and prosperity in Indian culture, adds cultural relevance"
       }
     },
     "confidence_scores": {
-      "room": 0.85,
-      "theme": 0.8,
-<<<<<<< HEAD
-      "primary_features": 0.85,
-      "objects": 0.88,
-      "indian_context": 0.8
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
     },
-    "description": "The image depicts a modern home office space that incorporates elements of traditional Indian design. The built-in desk and shelving unit feature a contemporary design with a green and beige color scheme, reflecting a blend of traditional and modern aesthetics. The floral patterned wallpaper and carved wooden door add a touch of traditional Indian artistry, while the sleek, minimalist furniture and efficient storage solutions contribute to a contemporary feel. The space is well-lit with natural light from the left and ambient lighting from the right, emphasizing the clean, smooth surfaces and glossy finishes of the materials used.",
+    "description": "This modern Indian-inspired workstation features a built-in cubby with green accents, a sleek desk, and a comfortable chair. The space benefits from a textured wall panel, green shelving, and a polished marble floor, creating a contemporary yet culturally relevant environment. The use of green is a nod to traditional Indian decor, symbolizing wealth and prosperity. The space is efficiently organized for a home office or study, ensuring both functionality and style.",
     "metadata": {
       "tags": [
-        "Contemporary Indian design",
-        "modern home office",
-        "built-in storage",
-        "floral wallpaper",
-        "carved wooden door"
+        "Modern Indian",
+        "Contemporary Design",
+        "Green Accents",
+        "Marble Flooring",
+        "Built-in Storage",
+        "Home Office"
       ],
-      "budget_indicator": "Mid-range, with a mix of modern and traditional materials",
-      "space_type": "Residential home office",
-      "functionality": "Primary purpose is a workspace, with built-in storage for organization",
-      "indian_specific": "Traditional elements like floral wallpaper and carved door"
+      "budget_indicator": "Moderate, with modern finishes and materials like marble and green accents",
+      "space_type": "Residential Living Space",
+      "functionality": "Workstation/Study",
+      "indian_specific": "Green accents and textured wall panel hint at traditional Indian design"
     }
   },
-  "cached_at": 1753447697068,
-=======
-      "primary_features": 0.9,
-      "objects": 0.95,
-      "indian_context": 0.75
-    },
-    "description": "This image depicts a modern home office space with a contemporary design. The room features a custom-built shelving unit with a white desk and green accents, a modern chair with brown leatherette, and a sliding door cabinet with shelving. The space is designed with an efficient use of vertical space, and the overall aesthetic is a mix of modern and Indian design elements, such as the use of white and green colors and materials with glossy finishes. The lighting is soft and ambient, complementing the neutral and vibrant tones used in the room. The space is well-organized, with a focus on functionality and comfort.",
-    "metadata": {
-      "tags": [
-        "contemporary home office",
-        "modern design",
-        "efficiency",
-        "custom built-in furniture",
-        "indian design aesthetics"
-      ],
-      "budget_indicator": "moderate, with modern materials and finishes",
-      "space_type": "residential",
-      "functionality": "work and storage",
-      "indian_specific": "modern adaptation of Indian design elements"
-    }
-  },
-  "cached_at": 1753181240523,
->>>>>>> origin/main
+  "cached_at": 1754490582454,
   "cache_key": "61bdc21ff148387341889b5b7d077b4b"
 }

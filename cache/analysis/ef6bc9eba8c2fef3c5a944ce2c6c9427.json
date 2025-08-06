@@ -3,85 +3,80 @@
   "analysis": {
     "image_id": "img_298",
     "ai_generated_tags": {
-      "room": "Entryway",
-      "theme": "Contemporary Indian",
+      "room": "Veranda",
+      "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Decorative ceiling tiles",
-        "Glass door",
-        "Wooden flooring",
-        "Plants",
-        "Carved door frame"
+        "Tiled flooring",
+        "Glass doors",
+        "Ceiling with decorative panels",
+        "Rug",
+        "Lampshades"
       ],
       "objects": [
         {
-          "type": "Pendant lights",
+          "type": "Lampshade",
           "features": [
-            "Modern design with spherical shapes and metallic finish"
+            "Curved",
+            "Metallic finish",
+            "Carved details"
           ],
           "materials": [
-            "Metallic"
+            "Metal"
           ],
           "finish": "Polished"
         },
         {
-          "type": "Carved door",
+          "type": "Door",
           "features": [
-            "Detailed wooden carvings"
+            "Wooden",
+            "Sliding glass panels",
+            "White frames"
           ],
           "materials": [
-            "Wood"
+            "Wood",
+            "Glass"
           ],
-          "finish": "Stained"
+          "finish": "Smooth"
         },
         {
-          "type": "Plants",
+          "type": "Rug",
           "features": [
-            "Lush greenery in pots"
+            "Woven",
+            "Natural fiber"
           ],
           "materials": [
-            "Plastic pots"
+            "Natural fiber"
           ],
-          "finish": "Standard"
-        },
-        {
-          "type": "Glass door",
-          "features": [
-            "Transparent panes with white frames"
-          ],
-          "materials": [
-            "Glass",
-            "Metal"
-          ],
-          "finish": "Clear"
+          "finish": "Woven texture"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
           "Brown",
-          "Green",
+          "White",
           "Red",
+          "Green",
           "Gold"
         ],
         "materials": [
           "Wood",
           "Glass",
           "Metal",
-          "Ceramic"
+          "Marble"
         ],
-        "lighting": "Natural light from the glass door and outdoor area",
-        "texture": "Smooth tiles on the floor, textured ceiling tiles, and polished surfaces"
+        "lighting": "Natural light from glass doors and ceiling",
+        "texture": "Tiled flooring, woven rug, wooden door, metallic lampshades"
       },
       "indian_context": {
-        "regional_style": "Rajasthan",
+        "regional_style": "West Indian",
         "traditional_elements": [
-          "Carved wooden door"
+          "Wooden door with sliding glass panels"
         ],
         "modern_adaptations": [
-          "Contemporary lighting fixtures, glass door"
+          "Contemporary lampshades with traditional details"
         ],
-        "space_utilization": "Open and airy with clear sight lines and natural light",
-        "cultural_significance": "The carved door and use of natural materials reflect traditional Indian craftsmanship and an emphasis on harmony with nature"
+        "space_utilization": "Efficient use of vertical space with glass doors and ceiling",
+        "cultural_significance": "Ceiling with decorative panels and wooden elements resonate with traditional craftsmanship"
       }
     },
     "confidence_scores": {
@@ -91,22 +86,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image showcases an entryway in a modern Indian home, featuring a blend of traditional and contemporary design elements. The entryway is characterized by decorative ceiling tiles in a red and white pattern, a carved wooden door frame that hints at Rajasthani craftsmanship, and a glass door that provides a bright and airy feel. The use of natural materials such as wood, glass, and ceramic tiles, along with modern pendant lights, creates a harmonious balance. The space is further enhanced by the presence of lush green plants, adding a touch of nature to the interior. The open layout and natural lighting contribute to a welcoming and spacious ambiance, reflecting an emphasis on openness and modern living while preserving traditional Indian design aesthetics.",
+    "description": "The interior space is a veranda with contemporary design elements, featuring tiled flooring, glass doors, and a ceiling with decorative panels. The space incorporates a wooden door with sliding glass panels and a woven rug. Decorative lampshades add a touch of traditional craftsmanship, blending seamlessly with modern elements. The color palette includes brown, white, red, and green, reflecting a mix of traditional and contemporary aesthetics. The presence of plants and natural light enhances the space, making it inviting and airy.",
     "metadata": {
       "tags": [
-        "Indian interior design",
-        "Rajasthan style",
-        "Contemporary Indian",
-        "Carved door",
-        "Glass door",
-        "Decorative ceiling tiles"
+        "Indian Interior",
+        "Contemporary",
+        "Veranda",
+        "Woven Rug",
+        "Wooden Door",
+        "Glass Doors"
       ],
       "budget_indicator": "Moderate",
-      "space_type": "Residential entryway",
-      "functionality": "Entrance to the main living area of the house",
-      "indian_specific": "Carved door, use of natural materials"
+      "space_type": "Residential",
+      "functionality": "Transition space between indoor and outdoor areas",
+      "indian_specific": "Traditional wooden door with sliding glass panels and decorative lampshades"
     }
   },
-  "cached_at": 1753460144933,
+  "cached_at": 1754494836937,
   "cache_key": "ef6bc9eba8c2fef3c5a944ce2c6c9427"
 }

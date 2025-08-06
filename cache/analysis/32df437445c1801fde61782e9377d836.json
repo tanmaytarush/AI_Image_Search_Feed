@@ -4,97 +4,99 @@
     "image_id": "img_414",
     "ai_generated_tags": {
       "room": "Bathroom",
-      "theme": "Modern Indian Bathroom",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Shower area with glass doors",
-        "Toilet",
-        "Framed mirror over sink"
+        "LED strip lighting",
+        "white ceramic tiles",
+        "wooden door with glass panels",
+        "hand basin"
       ],
       "objects": [
         {
-          "type": "Sink",
+          "type": "LED strip lighting",
           "features": [
-            "Rectangular shape",
-            "White ceramic material"
+            "horizontal installation, glowing in white"
           ],
           "materials": [
-            "Ceramic"
+            "electronic components, plastic casing"
           ],
-          "finish": "Smooth ceramic finish"
+          "finish": "Smooth, glossy"
         },
         {
-          "type": "Mirror",
+          "type": "white ceramic tiles",
           "features": [
-            "Framed",
-            "Rectangular",
-            "Includes lighting elements"
+            "evenly laid, glossy finish"
           ],
           "materials": [
-            "Wooden frame",
-            "Glass"
+            "ceramic"
           ],
-          "finish": "Light wood with glossy finish"
+          "finish": "Glossy"
         },
         {
-          "type": "Shower Area",
+          "type": "wooden door with glass panels",
           "features": [
-            "Glass doors with silver handle",
-            "Modern design"
+            "dark wood frame, glass panels, modern design"
           ],
           "materials": [
-            "Glass",
-            "Metal"
+            "wood, glass"
           ],
-          "finish": "Clean and reflective"
+          "finish": "Wood: natural finish, Glass: clear, smooth"
+        },
+        {
+          "type": "hand basin",
+          "features": [
+            "white ceramic, modern design, mounted on countertop"
+          ],
+          "materials": [
+            "ceramic"
+          ],
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Silver"
+          "white, black, brown, clear"
         ],
         "materials": [
-          "Ceramic",
-          "Wood",
-          "Glass",
-          "Metal"
+          "ceramic, wood, glass, metal"
         ],
-        "lighting": "Modern LED strip lighting",
-        "texture": "Smooth ceramic tiles, glossy wood finish"
+        "lighting": "Artificial, LED strip lighting",
+        "texture": "Smooth, glossy"
       },
       "indian_context": {
-        "regional_style": "No specific regional style visible",
-        "traditional_elements": [],
+        "regional_style": "Not explicitly identifiable due to modern adaptations",
+        "traditional_elements": [
+          "Carved elements not present in this image"
+        ],
         "modern_adaptations": [
-          "Integration of LED lighting and modern materials like glass and metal"
+          "Use of LED lighting, modern ceramic basins, contemporary door design"
         ],
-        "space_utilization": "Compact and efficient, maximizing functionality in a small space",
-        "cultural_significance": "No culturally significant elements present"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.88,
-        "objects": 0.92,
-        "indian_context": 0.8
-      },
-      "description": "This modern Indian bathroom features a compact design with a focus on functionality. The bathroom includes a shower area with glass doors, a toilet, and a vanity setup with a framed mirror that includes integrated lighting. The use of white ceramic for the sink and glossy wood for the frame of the mirror are typical of modern Indian interior design, blending traditional materials with contemporary aesthetics.",
-      "metadata": {
-        "tags": [
-          "Modern Bathroom",
-          "Indian Interior",
-          "Compact Design",
-          "LED Lighting",
-          "Glass Showers"
-        ],
-        "budget_indicator": "Moderate, utilizing materials like ceramic, wood, and glass for a functional and stylish space",
-        "space_type": "Residential Bathroom",
-        "functionality": "Primary purpose is personal hygiene and showering",
-        "indian_specific": "Modern adaptation of traditional materials like wood and ceramic in a contemporary bathroom setting"
+        "space_utilization": "Optimized for functionality, compact layout",
+        "cultural_significance": "Modern interpretation of Indian bathroom aesthetics, likely influenced by contemporary design trends"
       }
+    },
+    "confidence_scores": {
+      "room": 0.92,
+      "theme": 0.85,
+      "primary_features": 0.88,
+      "objects": 0.92,
+      "indian_context": 0.8
+    },
+    "description": "This modern Indian bathroom features a clean and minimalist design with a focus on functionality. The LED strip lighting provides a warm and inviting ambiance, while the white ceramic tiles and glossy surfaces enhance the brightness of the space. The wooden door with glass panels introduces a touch of natural wood, contributing to the overall modern aesthetic with a hint of traditional Indian design sensibilities. The hand basin is a contemporary design, mounted on a glossy countertop, adhering to space-saving solutions common in modern Indian homes.",
+    "metadata": {
+      "tags": [
+        "modern Indian interior",
+        "bathroom design",
+        "LED lighting",
+        "ceramic tiles",
+        "wooden door"
+      ],
+      "budget_indicator": "Moderate, with high-quality materials used for durability and aesthetic appeal",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is for personal hygiene and grooming tasks",
+      "indian_specific": "Modern interpretation of Indian design elements, such as the use of wood and glass in the door, which is a common feature in traditional Indian homes"
     }
   },
-  "cached_at": 1753461595954,
+  "cached_at": 1754496264526,
   "cache_key": "32df437445c1801fde61782e9377d836"
 }

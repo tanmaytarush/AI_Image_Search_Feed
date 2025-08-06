@@ -3,53 +3,48 @@
   "analysis": {
     "image_id": "img_171",
     "ai_generated_tags": {
-      "room": "Living Room",
+      "room": "Entryway",
       "theme": "Modern Indian",
       "primary_features": [
-        "White painted furniture",
-        "Glass paneled doors",
-        "Minimalistic design"
+        "Furniture with storage compartments",
+        "Glass panels",
+        "White color scheme"
       ],
       "objects": [
         {
-          "type": "Furniture",
+          "type": "Entryway cabinet",
           "features": [
-            "White painted surfaces",
-            "Glass paneled doors with wooden frames",
-            "Rectangular shape"
+            "Multiple drawers and glass panels"
           ],
           "materials": [
-            "Painted wood",
-            "Glass",
-            "Wood for frames"
+            "White painted wood",
+            "Glass"
           ],
-          "finish": "Glossy"
+          "finish": "Smooth, clean white finish with clear glass panels"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Clear (glass)",
-          "Natural wood color"
+          "Clear glass"
         ],
         "materials": [
           "Wood",
-          "Glass",
-          "Painted wood"
+          "Glass"
         ],
-        "lighting": "Natural light",
-        "texture": "Smooth surfaces"
+        "lighting": "Natural light visible, possibly from a window",
+        "texture": "Smooth wood finish, reflective glass"
       },
       "indian_context": {
-        "regional_style": "Not explicitly visible",
+        "regional_style": "Northern Indian",
         "traditional_elements": [
           "Minimal use of traditional Indian elements"
         ],
         "modern_adaptations": [
-          "Integrated modern design with traditional materials"
+          "Integration of modern functionality with traditional materials"
         ],
-        "space_utilization": "Functionally organized with a focus on storage and aesthetics",
-        "cultural_significance": "The use of materials and minimalistic design could reflect a modern interpretation of traditional Indian values of simplicity and functionality"
+        "space_utilization": "Efficient use of vertical space for storage",
+        "cultural_significance": "The clean, modern look reflects contemporary values while using Indian craftsmanship"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -58,22 +53,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This image depicts a modern Indian living room with a minimalist design. The furniture is painted white with glass-paneled doors, featuring a glossy finish. The design integrates traditional Indian materials like wood, but in a contemporary style, emphasizing a blend of modern and traditional elements. The space appears to be well-organized, prioritizing functionality and aesthetics. The color palette is primarily white with natural wood tones from the frames, reflecting a modern interpretation of traditional Indian design principles.",
+      "description": "The image depicts a contemporary Indian entryway with a modern twist, featuring a clean white cabinet with glass panels and multiple drawers. The design combines traditional Indian craftsmanship with modern functionality, exemplified by the use of wood and glass. The white color scheme and minimal decor suggest a focus on a clean, uncluttered look, yet the inherent Indian craftsmanship is subtly evident in the design details.",
       "metadata": {
         "tags": [
-          "living room",
-          "modern",
-          "minimalistic",
-          "white furniture",
-          "glass doors"
+          "Indian entryway",
+          "Modern Indian design",
+          "White furniture",
+          "Glass panels",
+          "Wooden storage"
         ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Residential",
-        "functionality": "Living and possibly dining space",
-        "indian_specific": "Minimal use of traditional furniture styles and elements, modern adaptation of traditional materials"
+        "budget_indicator": "Moderate, with a focus on modern materials and finishes",
+        "space_type": "Residential (residential entryway)",
+        "functionality": "Storage and organization",
+        "indian_specific": "Integration of Indian design principles in a modern context"
       }
     }
   },
-  "cached_at": 1753459006266,
+  "cached_at": 1754492438329,
   "cache_key": "16466e276ea14a5b0eb4e4c261a45d22"
 }

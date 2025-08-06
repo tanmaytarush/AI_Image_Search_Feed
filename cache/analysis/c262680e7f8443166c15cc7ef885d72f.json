@@ -3,69 +3,85 @@
   "analysis": {
     "image_id": "img_210",
     "ai_generated_tags": {
-      "room": "Construction or Renovation Space",
+      "room": "Construction Site",
       "theme": "Modern",
       "primary_features": [
-        "Exposed Wooden Beams",
-        "Painted Walls",
-        "Access to Outdoor Area"
+        "Exposed concrete walls",
+        "Drywall in progress",
+        "Painting in progress",
+        "Construction materials scattered"
       ],
       "objects": [
         {
-          "type": "Construction Worker",
+          "type": "Drywall",
           "features": [
-            "Wearing Safety Helmet",
-            "Working on Wall",
-            "Carrying Tools"
+            "Sheet material in progress",
+            "Light brown color"
           ],
-          "materials": [],
-          "finish": ""
+          "materials": [
+            "Drywall panels"
+          ],
+          "finish": "Smooth surface"
+        },
+        {
+          "type": "Painting",
+          "features": [
+            "Man painting a wall"
+          ],
+          "materials": [
+            "Paint"
+          ],
+          "finish": "Not yet finished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light Beige",
-          "White"
+          "Light brown",
+          "White",
+          "Dark brown"
         ],
         "materials": [
-          "Wood",
+          "Concrete",
+          "Drywall",
           "Paint"
         ],
-        "lighting": "Natural Light from Window",
-        "texture": "Smooth Painted Walls, Wooden Beams"
+        "lighting": "Artificial lighting with shadows indicating overhead lights",
+        "texture": "Concrete walls are smooth with some rough areas due to construction"
       },
       "indian_context": {
-        "regional_style": "",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Modernized Space with Minimal Traditional Influences"
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "None visible"
         ],
-        "space_utilization": "Space appears to be under renovation, utilizing existing architectural features",
-        "cultural_significance": ""
+        "modern_adaptations": [
+          "Modern construction techniques"
+        ],
+        "space_utilization": "Space is under renovation with materials and tools scattered, indicating active work.",
+        "cultural_significance": "No cultural elements present, as this is a construction site rather than a finished interior space."
       },
       "confidence_scores": {
-        "room": 0.5,
-        "theme": 0.6,
-        "primary_features": 0.7,
-        "objects": 0.7,
-        "indian_context": 0.3
+        "room": 0.85,
+        "theme": 0.7,
+        "primary_features": 0.9,
+        "objects": 0.95,
+        "indian_context": 0.6
       },
-      "description": "The image depicts a space under construction or renovation, characterized by exposed wooden beams and freshly painted walls. A construction worker is visible, indicating ongoing work. The overall space has a modern feel with minimal traditional Indian design elements, suggesting a contemporary approach to interior design.",
+      "description": "The image depicts a construction site within a residential space, showing the process of interior renovation. The walls are partially covered with drywall, with one wall being painted. The scene is marked by the presence of construction materials and tools, indicating the work in progress. The construction work is likely part of a modern interior design project, as seen in the use of drywall and contemporary painting techniques.",
       "metadata": {
         "tags": [
-          "Construction",
-          "Renovation",
-          "Modern Interior",
-          "Painted Walls",
-          "Wood Beams"
+          "Construction Site",
+          "Interior Renovation",
+          "Drywall",
+          "Painting",
+          "Modern Design"
         ],
-        "budget_indicator": "Budget is likely moderate to high due to the materials and work being done.",
-        "space_type": "Residential Space Under Renovation",
-        "functionality": "Primary purpose is to create a habitable space with ongoing work.",
-        "indian_specific": "No traditional Indian design features are apparent in the visible section."
+        "budget_indicator": "Low",
+        "space_type": "Residential, under renovation",
+        "functionality": "Primary purpose is to create a habitable living space",
+        "indian_specific": "No Indian-specific design features visible"
       }
     }
   },
-  "cached_at": 1753450017569,
+  "cached_at": 1754493147473,
   "cache_key": "c262680e7f8443166c15cc7ef885d72f"
 }

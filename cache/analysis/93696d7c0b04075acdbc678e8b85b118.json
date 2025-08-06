@@ -4,45 +4,70 @@
     "image_id": "img_292",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern South Indian",
+      "theme": "Contemporary with traditional Indian influences",
       "primary_features": [
         "Purple cabinetry",
         "White countertops",
-        "Reddish-brown ceiling",
-        "Patterned backsplash"
+        "Decorative wall panels",
+        "Brown floor tiles",
+        "Exposure ceiling with decorative border"
       ],
       "objects": [
         {
-          "type": "Kitchen cabinets",
+          "type": "Cabinet",
           "features": [
-            "Purple cabinetry, white countertops, and handles"
+            "Large storage space",
+            "Purple finish",
+            "Towards the left"
           ],
           "materials": [
-            "Purple cabinetry (likely painted wood or laminate), white countertops (possibly quartz or marble-like surface)"
+            "Purple paint"
           ],
-          "finish": "Purple finish on cabinets, glossy white surface on countertops"
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "White surface",
+            "Smooth finish"
+          ],
+          "materials": [
+            "Laminated material"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Wall panel",
+          "features": [
+            "Decorative",
+            "Carved wooden panels"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Stained"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Purple, white, reddish-brown"
+          "Purple, white, brown, beige"
         ],
         "materials": [
-          "Painted wood, laminate, quartz or marble-like surface, ceramic tiles"
+          "Purple paint, laminated material, wood"
         ],
-        "lighting": "Natural light from the window, evenly distributed",
-        "texture": "Smooth cabinet finish, glossy countertop, tiled backsplash"
+        "lighting": "Natural light from the window",
+        "texture": "Glossy cabinet, smooth countertop, textured wall panels"
       },
       "indian_context": {
-        "regional_style": "South Indian",
+        "regional_style": "Not distinctly regional",
         "traditional_elements": [
-          "Cabinet handles"
+          "Carved wooden wall panels"
         ],
         "modern_adaptations": [
-          "Modern kitchen design with a South Indian influence"
+          "Integration of modern cabinetry and countertop design"
         ],
-        "space_utilization": "Efficient use of space with built-in cabinetry and countertop",
-        "cultural_significance": "The use of purple in the cabinetry is a modern interpretation of traditional Indian color palettes, often associated with prosperity and good luck"
+        "space_utilization": "Efficient, with storage and functional areas",
+        "cultural_significance": "The carved wooden wall panels might indicate a regional style or traditional craftsmanship"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -51,23 +76,24 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This kitchen features a modern South Indian design with purple cabinetry and white countertops. The reddish-brown ceiling with a geometric pattern adds a traditional touch, while the patterned tiled backsplash maintains a contemporary aesthetic. The use of purple in the cabinetry is a modern interpretation of traditional Indian color palettes, often associated with prosperity and good luck.",
+      "description": "The image depicts a modern kitchen with a contemporary design that incorporates traditional Indian elements. The purple cabinets provide a vibrant contrast against the white countertops, while the decorative wooden wall panels add a touch of traditional craftsmanship. The exposure ceiling with a decorative border is a modern adaptation that complements the traditional elements. The space is organized for efficient use, with storage and functional areas clearly defined, and the lighting comes from a window, creating a warm and inviting atmosphere.",
       "metadata": {
         "tags": [
-          "Modern South Indian",
-          "Purple cabinetry",
-          "White countertops",
-          "Reddish-brown ceiling",
-          "South Indian design",
-          "Contemporary kitchen"
+          "kitchen",
+          "purple cabinets",
+          "white countertops",
+          "wooden wall panels",
+          "exposure ceiling",
+          "modern design",
+          "traditional elements"
         ],
-        "budget_indicator": "Moderate to high, due to the use of purple cabinetry and white countertops",
+        "budget_indicator": "Mid-range, due to the combination of modern materials and traditional craftsmanship",
         "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is for food preparation and storage",
-        "indian_specific": "Purple cabinetry is a modern adaptation of traditional Indian color schemes"
+        "functionality": "Primary purpose is for cooking and food preparation",
+        "indian_specific": "Decorative wooden wall panels and traditional craftsmanship"
       }
     }
   },
-  "cached_at": 1753460050264,
+  "cached_at": 1754494749916,
   "cache_key": "93696d7c0b04075acdbc678e8b85b118"
 }

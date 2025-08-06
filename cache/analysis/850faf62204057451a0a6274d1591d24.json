@@ -2,70 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1648/insta_assets_crop_cda581e3-3799-4009-9307-a8701cc0ec73341984793471102461.jpg",
   "analysis": {
     "image_id": "img_333",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1648/insta_assets_crop_cda581e3-3799-4009-9307-a8701cc0ec73341984793471102461.jpg",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Indian Interior",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Built-in shelves",
-        "Vertical wooden paneling"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Shelving Unit",
+          "type": "furniture",
           "features": [
-            "Wooden structure with glass panels and carved wooden accents"
+            "traditional_style"
           ],
           "materials": [
-            "Teak wood, glass"
+            "wood",
+            "fabric"
           ],
-          "finish": "Teak wood has a polished finish, glass panels are clear"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (teak wood), clear (glass), white (wall paneling)"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Teak wood, glass"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Smooth teak wood texture, clear glass panels, slightly rough vertical paneling"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Maharashtra/Mumbai style with modern adaptations",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Vertical wooden paneling, carved wooden accents"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Built-in shelves, glass panels for modern look"
+          "contemporary_design"
         ],
-        "space_utilization": "Optimized storage solution with built-in shelves",
-        "cultural_significance": "Vertical wooden paneling symbolizes height and spaciousness, reflecting Indian architectural traditions"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image showcases a modern Indian interior design in a living room. The space features a built-in shelving unit with a teak wood structure, clear glass panels, and carved wooden accents, reflecting traditional regional influences. The vertical wooden paneling on the wall adds a sense of height and spaciousness, emphasizing the cultural significance of height in Indian architecture. The use of teak wood and glass reflects a modern adaptation of traditional materials and design elements.",
-      "metadata": {
-        "tags": [
-          "Indian interior",
-          "Maharashtra style",
-          "Teak wood",
-          "Glass panels",
-          "Vertical paneling",
-          "Modern adaptation"
-        ],
-        "budget_indicator": "Mid-range, with teak wood and glass as materials",
-        "space_type": "Living Room",
-        "functionality": "Optimized storage solution",
-        "indian_specific": "Vertical wooden paneling and carved wooden accents"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "insta_assets_crop_cda581e3-3799-4009-9307-a8701cc0ec73341984793471102461.jpg"
   },
-  "cached_at": 1753460563506,
+  "cached_at": 1754495403000,
   "cache_key": "850faf62204057451a0a6274d1591d24"
 }

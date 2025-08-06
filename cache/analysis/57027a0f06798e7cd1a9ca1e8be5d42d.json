@@ -2,84 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/460/image_cropper_1728648164909.jpg",
   "analysis": {
     "image_id": "img_403",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/460/image_cropper_1728648164909.jpg",
     "ai_generated_tags": {
-      "room": "Closet",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Built-in wardrobe",
-        "Glass partition"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "furniture",
           "features": [
-            "Sliding doors",
-            "Organized clothing storage"
+            "traditional_style"
           ],
           "materials": [
-            "Metal frame",
-            "Painted wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "Glossy metallic and painted wood finish"
-        },
-        {
-          "type": "Glass partition",
-          "features": [
-            "Translucent glass",
-            "Metal frame"
-          ],
-          "materials": [
-            "Glass",
-            "Metal"
-          ],
-          "finish": "Clear glass with metallic frame"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Black",
-          "Clear"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Metal",
-          "Wood",
-          "Glass"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light visible through the glass partition",
-        "texture": "Smooth surfaces on the glass and metal, textured wood paneling"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable (modern Indian)",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Integration of glass in traditional wardrobe design"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with a built-in wardrobe",
-        "cultural_significance": "Modern interpretation of traditional Indian wardrobe design"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.9,
-        "objects": 0.88,
-        "indian_context": 0.82
-      },
-      "description": "The image depicts a modern Indian wardrobe with a built-in design. The space features a sliding door wardrobe with a combination of painted wood and metal. A glass partition separates the wardrobe, adding a contemporary touch to the design. The materials used include metal, painted wood, and glass, which are typical in modern Indian interior design, blending traditional craftsmanship with modern aesthetics.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Built-in wardrobe",
-          "Glass partition",
-          "Contemporary design"
-        ],
-        "budget_indicator": "Moderate (use of metal and glass, but efficient space utilization)",
-        "space_type": "Residential closet",
-        "functionality": "Storage and organization of clothes",
-        "indian_specific": "Modern adaptation of traditional wardrobe design"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1728648164909.jpg"
   },
-  "cached_at": 1753461472290,
+  "cached_at": 1754496212928,
   "cache_key": "57027a0f06798e7cd1a9ca1e8be5d42d"
 }

@@ -4,59 +4,49 @@
     "image_id": "img_170",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Modern Indian",
+      "theme": "Contemporary Indian",
       "primary_features": [
         "Large bed with wooden headboard",
-        "Built-in storage under the bed",
-        "Carved wooden frame"
+        "Minimalist decor",
+        "White and cream color scheme"
       ],
       "objects": [
         {
           "type": "Bed",
           "features": [
-            "Queen-sized",
-            "Wooden frame with carved details"
+            "Has a wooden headboard",
+            "Integrated storage drawers"
           ],
           "materials": [
-            "Teak wood"
+            "Wood",
+            "Painted surfaces"
           ],
-          "finish": "Natural wood finish with carved designs"
-        },
-        {
-          "type": "Built-in Storage",
-          "features": [
-            "Under-bed storage unit"
-          ],
-          "materials": [
-            "Teak wood"
-          ],
-          "finish": "Natural wood finish"
+          "finish": "Smooth and polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White walls",
-          "Natural wood tones",
-          "Light gray floor"
+          "White",
+          "Cream",
+          "Gray"
         ],
         "materials": [
-          "Teak wood",
-          "Painted walls",
-          "Carpeted floor"
+          "Wood",
+          "Painted surfaces"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth painted walls, textured wood, soft carpet"
+        "lighting": "Natural light coming through windows",
+        "texture": "Smooth and polished surfaces"
       },
       "indian_context": {
-        "regional_style": "Northern Indian design",
+        "regional_style": "Not clear due to modern adaptation",
         "traditional_elements": [
-          "Carved wooden headboard"
+          "Wooden headboard"
         ],
         "modern_adaptations": [
-          "Built-in storage, modern color palette"
+          "Integrated storage drawers, minimalist design"
         ],
-        "space_utilization": "Efficient use of space with built-in storage beneath the bed",
-        "cultural_significance": "Carved wooden headboard symbolizes craftsmanship and traditional artistry"
+        "space_utilization": "Optimized for bed and storage, minimal decor",
+        "cultural_significance": "Traditional wooden headboard represents cultural heritage, while modern elements reflect contemporary tastes"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -65,22 +55,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This modern Indian bedroom features a queen-sized bed with a carved teak wood headboard, complemented by built-in storage underneath. The room utilizes natural light from a window and has a simple color palette with white walls, natural wood tones, and a soft gray carpet. Traditional carved elements are integrated into a contemporary design, showcasing craftsmanship and cultural artistry.",
+      "description": "This contemporary Indian bedroom features a large bed with a wooden headboard, integrated storage drawers, and a minimalist decor. The color scheme is predominantly white and cream, with a smooth and polished surface finish, reflecting both traditional and modern design elements. The cultural significance lies in the traditional wooden headboard, which is an adaptation of a classic Indian design, while the overall space optimization and modern finish highlight contemporary trends.",
       "metadata": {
         "tags": [
-          "Indian bedroom",
-          "Modern Indian",
-          "Carved teak headboard",
-          "Built-in storage",
-          "Northern Indian design"
+          "contemporary Indian",
+          "bedroom",
+          "wooden headboard",
+          "minimalist",
+          "white and cream"
         ],
-        "budget_indicator": "Moderate, as seen in the use of teak wood and natural materials",
-        "space_type": "Residential bedroom",
+        "budget_indicator": "Moderate, due to the use of quality materials and minimalistic design",
+        "space_type": "Residential",
         "functionality": "Sleeping and storage",
-        "indian_specific": "Carved teak wood headboard, built-in storage"
+        "indian_specific": "Wooden headboard"
       }
     }
   },
-  "cached_at": 1753458997529,
+  "cached_at": 1754492420475,
   "cache_key": "ddb44bfe5b062ed3cfb581a104055996"
 }

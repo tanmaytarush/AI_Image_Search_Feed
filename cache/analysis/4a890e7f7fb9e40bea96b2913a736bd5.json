@@ -2,97 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/724/image_cropper_1729186369594.jpg",
   "analysis": {
     "image_id": "img_400",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/724/image_cropper_1729186369594.jpg",
     "ai_generated_tags": {
-      "room": "Entryway",
-      "theme": "Contemporary Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Wooden wardrobe with mirrored doors",
-        "Hardwood flooring",
-        "White painted walls",
-        "Modern lighting fixtures"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Wooden wardrobe",
+          "type": "furniture",
           "features": [
-            "Carved details on top",
-            "Mirrored doors with gold trim",
-            "Wooden handles"
+            "traditional_style"
           ],
           "materials": [
-            "Teak wood for wardrobe body",
-            "Glass for mirrored doors",
-            "Gold metal for trim and handles"
+            "wood",
+            "fabric"
           ],
-          "finish": "Shiny, polished surfaces on wood and metal; smooth, glossy finish on mirrored doors"
-        },
-        {
-          "type": "Lighting fixture",
-          "features": [
-            "Modern design with multiple bulbs",
-            "Silver finish"
-          ],
-          "materials": [
-            "Metal for frame",
-            "Glass for bulbs"
-          ],
-          "finish": "Polished silver finish with clear glass bulbs"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown/Teak",
-          "Gold",
-          "Silver",
-          "Light wood tones"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Teak wood",
-          "Glass",
-          "Metal",
-          "Painted white walls",
-          "Hardwood flooring"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Soft, ambient lighting from modern light fixture",
-        "texture": "Smooth and glossy surfaces on wardrobe, polished metal, and glass"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "South Indian",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Carved details on wardrobe top"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary lighting and clean lines"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of wardrobe space for storage and entrance functionality",
-        "cultural_significance": "Carved details on the wardrobe symbolize traditional craftsmanship; white walls and modern lighting reflect contemporary style"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "This entryway showcases a blend of traditional Indian craftsmanship with modern design elements. The wooden wardrobe with mirrored doors and carved top, along with the modern light fixture, exemplifies a contemporary Indian interior style. The use of teak wood for the wardrobe, glass for the mirrored doors, and metal for the handles and light fixture reflects a combination of traditional materials with a modern finish. The white walls and hardwood flooring add to the contemporary feel, while the carved details on the wardrobe maintain a connection to traditional Indian design elements.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Entryway",
-        "Contemporary Indian",
-        "Wooden wardrobe",
-        "Mirror doors",
-        "Carved details",
-        "White walls",
-        "Hardwood flooring"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Mid-range, as seen in the use of teak wood and glass for the wardrobe, and a polished silver finish on the light fixture",
-      "space_type": "Residential entryway",
-      "functionality": "Storage and entryway functionality",
-      "indian_specific": "Carved details on the wardrobe, use of wooden materials"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729186369594.jpg"
   },
-  "cached_at": 1753461442064,
+  "cached_at": 1754496203864,
   "cache_key": "4a890e7f7fb9e40bea96b2913a736bd5"
 }

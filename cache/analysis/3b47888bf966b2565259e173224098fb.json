@@ -4,71 +4,101 @@
     "image_id": "img_492",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Minimalistic Modern",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Cupboards with glass panels",
-        "Light-colored walls",
-        "White tiles on floor"
+        "Wooden cabinets",
+        "White countertops",
+        "Built-in shelves",
+        "Tile flooring",
+        "Overhead lighting"
       ],
       "objects": [
         {
-          "type": "Cupboards",
+          "type": "Built-in shelves",
           "features": [
-            "Rectangular design",
-            "Integrated with the wall",
-            "Glass panels for visibility"
+            "Integrated into the cabinetry",
+            "Modular design"
           ],
           "materials": [
-            "Wood",
-            "Glass"
+            "Wooden cabinetry, likely teak or mango wood"
           ],
-          "finish": "Glossy"
+          "finish": "Satin or matte finish"
+        },
+        {
+          "type": "Countertops",
+          "features": [
+            "White, likely ceramic tiles or laminate"
+          ],
+          "materials": [
+            "Ceramic tiles or laminate"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Flooring",
+          "features": [
+            "Tile flooring"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Polished and shiny"
+        },
+        {
+          "type": "Overhead lighting",
+          "features": [
+            "Flush-mounted fixtures"
+          ],
+          "materials": [
+            "Metal and glass"
+          ],
+          "finish": "Satin or brushed"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Gray",
-          "White"
+          "White, grey, wood tones"
         ],
         "materials": [
-          "Wood",
-          "Glass",
-          "Tiles"
+          "Wood, ceramic tiles, metal"
         ],
-        "lighting": "Natural light from ceiling lights",
-        "texture": "Smooth surfaces"
+        "lighting": "Sufficient overhead lighting creating a bright and clean environment",
+        "texture": "Smooth surfaces with occasional wood grain texture"
       },
       "indian_context": {
-        "regional_style": "No specific regional style present",
-        "traditional_elements": [],
-        "modern_adaptations": [],
-        "space_utilization": "Efficient use of space with built-in storage",
-        "cultural_significance": "No culturally significant elements present"
+        "regional_style": "Not clearly regional",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and technology (LED lighting) with traditional Indian color schemes"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in shelves",
+        "cultural_significance": "While not traditional, the color palette and materials reflect a modern interpretation of Indian design aesthetics"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.8,
+        "room": 0.95,
+        "theme": 0.87,
         "primary_features": 0.89,
         "objects": 0.92,
-        "indian_context": 0.7
+        "indian_context": 0.9
       },
-      "description": "The image depicts a modern kitchen with a minimalist design. The space features light-colored cupboards with built-in glass panels, providing a contemporary look. The walls are painted white, and the floor is covered with white tiles, emphasizing a clean and open aesthetic.",
+      "description": "This image depicts a modern Indian kitchen with a combination of traditional and contemporary elements. The use of built-in shelves and white countertops with wooden cabinetry creates a clean, organized look. The materials used, such as teak or mango wood for the cabinetry and ceramic tiles for the countertops, reflect a modern interpretation of traditional Indian design. The lighting is bright and sufficient, enhancing the overall modern and clean aesthetic of the space.",
       "metadata": {
         "tags": [
+          "Modern Indian",
           "Kitchen",
-          "Minimalist",
-          "Modern",
-          "Light Colors",
-          "Contemporary Design"
+          "Built-in shelves",
+          "White countertops",
+          "Teak cabinetry"
         ],
-        "budget_indicator": "Moderate, as indicated by the use of glass and light materials",
-        "space_type": "Residential, specifically a kitchen",
-        "functionality": "Primary purpose is storage and preparation of food",
-        "indian_specific": "No Indian-specific design features visible"
+        "budget_indicator": "Mid-range, with a focus on quality materials like teak and ceramic tiles",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "The use of wooden elements and clean lines reflect modern Indian design trends"
       }
     }
   },
-  "cached_at": 1753462639435,
+  "cached_at": 1754496760687,
   "cache_key": "3b47888bf966b2565259e173224098fb"
 }

@@ -3,68 +3,64 @@
   "analysis": {
     "image_id": "img_290",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern Indian",
+      "room": "bedroom",
+      "theme": "contemporary",
       "primary_features": [
-        "White tiled walls",
-        "Wooden vanity with mirror",
-        "Large storage cabinets",
-        "Window with frosted glass"
+        "wardrobe with sliding doors",
+        "wooden furniture",
+        "white walls"
       ],
       "objects": [
         {
-          "type": "Vanity",
+          "type": "wardrobe",
           "features": [
-            "Built-in mirror above",
-            "Wooden frame",
-            "Simple design"
+            "sliding doors with metal handles",
+            "multiple compartments"
           ],
           "materials": [
-            "Wood",
-            "Glass"
+            "wood",
+            "metal"
           ],
-          "finish": "Smooth polished finish"
+          "finish": "polished wood and metallic"
         },
         {
-          "type": "Storage Cabinets",
+          "type": "chair",
           "features": [
-            "White tiled exterior",
-            "Large capacity",
-            "Metal hardware"
+            "wooden frame",
+            "metal legs"
           ],
           "materials": [
-            "Metal",
-            "Tiled"
+            "wood",
+            "metal"
           ],
-          "finish": "Glossy white"
+          "finish": "polished wood and metallic"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Black",
-          "Frosted glass"
+          "white",
+          "brown",
+          "gray"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Tiled",
-          "Glass"
+          "wood",
+          "metal",
+          "glass"
         ],
-        "lighting": "Natural light from frosted glass window",
-        "texture": "Smooth and shiny surfaces"
+        "lighting": "natural lighting from window",
+        "texture": "smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "not applicable",
         "traditional_elements": [
-          "Built-in mirror"
+          "wooden furniture",
+          "sliding doors"
         ],
         "modern_adaptations": [
-          "Frosted glass window instead of traditional lattice"
+          "contemporary design with minimal traditional elements"
         ],
-        "space_utilization": "Efficient storage and functional design with minimal ornamentation",
-        "cultural_significance": "Modern interpretation of traditional Indian elements like the built-in mirror"
+        "space_utilization": "efficient use of space with built-in storage",
+        "cultural_significance": "no culturally significant elements visible"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -73,23 +69,21 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This modern Indian bathroom features a sleek, white-tiled design with a wooden vanity that includes an integrated mirror. The space is designed with large storage cabinets for efficient organization, and a frosted glass window allows for natural light while maintaining privacy. The overall design combines traditional Indian elements like the built-in mirror with contemporary materials and finishes, creating a culturally rich yet contemporary aesthetic.",
+      "description": "The image depicts a modern bedroom with a contemporary design aesthetic. The room features a wardrobe with sliding doors and wooden furniture with metal accents. The walls are painted white, providing a clean and bright backdrop. The furniture includes a wooden chair with metal legs, maintaining a sleek and polished look. The overall design is minimalistic, focusing on functionality with efficient space utilization and built-in storage solutions.",
       "metadata": {
         "tags": [
-          "Modern Indian",
-          "Bathroom",
-          "White Tiled",
-          "Wooden Vanity",
-          "Frosted Glass",
-          "Storage Cabinets"
+          "modern bedroom",
+          "contemporary design",
+          "sleek furniture",
+          "efficient storage"
         ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential Bathroom",
-        "functionality": "Storage and vanity area",
-        "indian_specific": "Built-in mirror and efficient storage solutions"
+        "budget_indicator": "moderate",
+        "space_type": "residential bedroom",
+        "functionality": "personal space for resting and storage",
+        "indian_specific": "sliding doors and wooden furniture elements"
       }
     }
   },
-  "cached_at": 1753460025131,
+  "cached_at": 1754494720516,
   "cache_key": "4b568d3c02a8c4b1df28846de95d3d5f"
 }

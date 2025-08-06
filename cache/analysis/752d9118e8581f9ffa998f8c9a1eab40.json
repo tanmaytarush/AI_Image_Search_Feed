@@ -3,89 +3,94 @@
   "analysis": {
     "image_id": "img_195",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modern Minimalist",
+      "room": "Hotel Room",
+      "theme": "Contemporary Indian Interior",
       "primary_features": [
-        "White bed with patterned bedding",
-        "Large window with sheer curtains",
-        "Simple luggage rack"
+        "Modern furniture",
+        "Minimalist decor",
+        "Large windows"
       ],
       "objects": [
         {
           "type": "Bed",
           "features": [
-            "White frame",
-            "Patterned blue and white bedding"
+            "Large, comfortable-looking mattress",
+            "Headboard with decorative elements"
           ],
           "materials": [
-            "Wooden frame",
-            "Cotton bedding"
+            "Wood",
+            "Textiles"
           ],
-          "finish": "Smooth, glossy finish on the bed frame"
+          "finish": "Polished wood and soft textiles"
         },
         {
-          "type": "Luggage Rack",
+          "type": "Wall Art",
           "features": [
-            "Minimalistic design"
+            "Abstract art with metallic elements"
           ],
           "materials": [
-            "Metal"
+            "Metallic"
           ],
-          "finish": "Polished metal finish"
+          "finish": "Highly polished"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "Large, floor-to-ceiling windows with sheer curtains"
+          ],
+          "materials": [
+            "Glass",
+            "Textiles"
+          ],
+          "finish": "Smooth glass with soft textiles"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Blue",
-          "Black",
-          "Brown",
-          "Burgundy"
+          "Neutral tones (beige, white)",
+          "Metallic accents"
         ],
         "materials": [
           "Wood",
           "Metal",
-          "Cotton",
-          "Sheer fabric"
+          "Glass",
+          "Textiles"
         ],
-        "lighting": "Natural light from the window, no artificial lighting visible",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "Natural light from large windows",
+        "texture": "Smooth surfaces with subtle patterned textiles"
       },
       "indian_context": {
-        "regional_style": "No clear regional Indian style visible",
-        "traditional_elements": [
-          "No traditional Indian elements present"
-        ],
+        "regional_style": "Contemporary",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist design with modern materials"
+          "Minimalist interpretation of traditional elements"
         ],
-        "space_utilization": "Efficient use of space with a focus on functionality",
-        "cultural_significance": "No cultural elements specific to Indian design present"
-      },
-      "confidence_scores": {
-        "room": 0.9,
-        "theme": 0.8,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.7
-      },
-      "description": "The image depicts a modern minimalist bedroom with a white bed and patterned bedding, a large window with sheer curtains, and a metal luggage rack. The design focuses on simplicity and functionality, with a clean and uncluttered appearance. The use of white and blue creates a calming atmosphere, while the sheer curtains allow for natural light. The presence of a luggage rack suggests a focus on practicality, possibly for a guest room or a minimalistic lifestyle.",
-      "metadata": {
-        "tags": [
-          "Modern",
-          "Minimalist",
-          "Bedroom",
-          "White",
-          "Sheer Curtains",
-          "Luggage Rack"
-        ],
-        "budget_indicator": "Mid-range, as the materials are typical for a modern design but not luxurious",
-        "space_type": "Residential",
-        "functionality": "Sleeping space with additional storage for luggage",
-        "indian_specific": "No Indian-specific design features"
+        "space_utilization": "Efficient use of space with furniture arranged around large windows",
+        "cultural_significance": "Modern design with subtle Indian influences, likely targeting a global audience"
       }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.78,
+      "primary_features": 0.82,
+      "objects": 0.9,
+      "indian_context": 0.65
+    },
+    "description": "This image depicts a modern hotel room with a contemporary Indian interior design. The room features a large bed with a wooden headboard adorned with decorative elements, large floor-to-ceiling windows with sheer curtains, and a single piece of wall art with metallic accents. The color palette is neutral with beige, white, and metallic tones, and materials include wood, metal, glass, and textiles. The room is designed with efficient space utilization around the large windows, blending modern design with subtle Indian influences.",
+    "metadata": {
+      "tags": [
+        "Hotel Room",
+        "Contemporary Indian",
+        "Modern Design",
+        "Neutral Colors",
+        "Large Windows"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Sleeping Accommodation",
+      "indian_specific": "Minimalist modern interpretation of Indian design elements"
     }
   },
-  "cached_at": 1753459189347,
+  "cached_at": 1754492911123,
   "cache_key": "752d9118e8581f9ffa998f8c9a1eab40"
 }

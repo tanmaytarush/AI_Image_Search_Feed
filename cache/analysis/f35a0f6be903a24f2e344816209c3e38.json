@@ -2,86 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%204.36.05%E2%80%AFPM.png",
   "analysis": {
     "image_id": "img_113",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%204.36.05%E2%80%AFPM.png",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Built-in wardrobe",
-        "Built-in desk",
-        "Windows with horizontal bars"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Built-in wardrobe",
+          "type": "furniture",
           "features": [
-            "Large storage space",
-            "Double doors",
-            "Decorative handles"
+            "traditional_style"
           ],
           "materials": [
-            "Marble-like finish"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth, glossy, and uniform"
-        },
-        {
-          "type": "Built-in desk",
-          "features": [
-            "Small work surface",
-            "Storage drawers"
-          ],
-          "materials": [
-            "Marble-like finish"
-          ],
-          "finish": "Smooth, glossy, and uniform"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Beige",
-          "White"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Marble-like",
-          "Metallic handles"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Smooth, uniform surface with a speckled pattern"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "North Indian",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Built-in storage"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Minimalist design with contemporary finishes"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of vertical space with built-in units",
-        "cultural_significance": "Reflects the preference for practicality and functionality in Indian homes"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "This image depicts a modern, minimalist bedroom in a North Indian style. The space features built-in storage and a desk unit made of a marble-like material, providing a seamless and practical solution for storage and work. The dual-purpose furniture maximizes the use of the small space. The room is well-lit with natural light coming through a window with horizontal bars, which is a common feature in many North Indian homes, ensuring privacy while allowing light to filter in. The design incorporates contemporary finishes with metallic handles, reflecting a modern interpretation of traditional elements like built-in storage. The overall aesthetic is clean and uncluttered, with a focus on functionality and space optimization.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Minimalist",
-        "North Indian",
-        "Built-in furniture",
-        "Marble-like finish",
-        "Modern design",
-        "Practical storage"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, as it features high-quality materials and modern design elements",
-      "space_type": "Bedroom",
-      "functionality": "Storage and work space",
-      "indian_specific": "Built-in furniture with a focus on storage"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "Screenshot%202024-07-11%20at%204.36.05%E2%80%AFPM.png"
   },
-  "cached_at": 1753448463475,
+  "cached_at": 1754491276475,
   "cache_key": "f35a0f6be903a24f2e344816209c3e38"
 }

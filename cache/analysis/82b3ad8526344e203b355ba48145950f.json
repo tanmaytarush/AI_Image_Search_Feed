@@ -4,94 +4,106 @@
     "image_id": "img_349",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Indian Contemporary",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Modern cabinetry",
-        "Lighting fixture",
+        "Open shelving",
+        "Sink",
+        "Stovetop",
+        "Cabinetry",
         "Countertop"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "Sink",
           "features": [
-            "Closed storage",
-            "White finish"
+            "Integrated into countertop",
+            "Stainless steel finish"
           ],
           "materials": [
-            "MDF"
+            "Stainless steel",
+            "Granite countertop"
           ],
-          "finish": "Smooth"
+          "finish": "High sheen, polished"
         },
         {
-          "type": "Lighting fixture",
+          "type": "Cabinetry",
           "features": [
-            "Flush mount",
-            "Modern design"
+            "White color",
+            "Modern design",
+            "Integrated lighting"
           ],
           "materials": [
-            "Metal"
+            "MDF",
+            "Acrylic paint"
           ],
-          "finish": "Polished"
+          "finish": "Matte, semi-gloss"
         },
         {
-          "type": "Countertop",
+          "type": "Open shelving",
           "features": [
-            "Sink",
-            "Mixer tap"
+            "Tiered design",
+            "Wooden shelves"
           ],
           "materials": [
-            "Granite"
+            "Teak"
           ],
-          "finish": "Polished"
+          "finish": "Natural wood, lightly oiled"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Black",
           "Brown",
-          "Gray"
+          "Black",
+          "Gray",
+          "Yellow"
         ],
         "materials": [
+          "Teak",
+          "Granite",
           "MDF",
-          "Metal",
-          "Granite"
+          "Acrylic paint",
+          "Stainless steel"
         ],
-        "lighting": "Natural light from windows",
-        "texture": "Smooth surfaces"
+        "lighting": "Natural light from window, artificial lighting from overhead cabinets",
+        "texture": "Smooth surfaces, natural wood grain"
       },
       "indian_context": {
-        "regional_style": "Modern",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Minimalist design with traditional color palettes"
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Wooden open shelving",
+          "Teak material"
         ],
-        "space_utilization": "Efficient storage with modern fixtures",
-        "cultural_significance": "No culturally significant elements visible"
+        "modern_adaptations": [
+          "Contemporary cabinetry design",
+          "Integrated appliances"
+        ],
+        "space_utilization": "Efficient, open for food preparation",
+        "cultural_significance": "European-inspired kitchen design with a hint of traditional Indian materials"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.75,
-        "primary_features": 0.9,
-        "objects": 0.85,
-        "indian_context": 0.7
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The image depicts a modern kitchen space with a focus on minimalistic design elements, featuring contemporary cabinetry, a lighting fixture, and a polished countertop. The space utilizes efficient storage solutions and incorporates modern interpretations of Indian style, with a blend of traditional and modern materials and color palettes. The room appears to be a residential kitchen designed for functionality and aesthetics, with no culturally significant elements visible.",
+      "description": "The image shows a modern Indian kitchen with a blend of traditional and contemporary elements. The kitchen features white cabinetry with integrated lighting and open teak shelving, creating a clean and organized appearance. The use of granite countertops and stainless steel sink add a modern touch. The design emphasizes functionality and space optimization, typical of contemporary Indian home interiors.",
       "metadata": {
         "tags": [
-          "Kitchen",
-          "Modern",
-          "Minimalistic",
-          "Indian Contemporary",
-          "Efficient Storage"
+          "Modern Indian Kitchen",
+          "Teak Shelving",
+          "Granite Countertop",
+          "White Cabinets",
+          "Integrated Lighting"
         ],
-        "budget_indicator": "Mid-range",
+        "budget_indicator": "Moderate, with a focus on quality materials like granite and teak",
         "space_type": "Residential",
-        "functionality": "Primary purpose is cooking and food preparation",
-        "indian_specific": "No Indian-specific design features visible"
+        "functionality": "Primary purpose is food preparation and storage",
+        "indian_specific": "Teak shelving and wooden finish"
       }
     }
   },
-  "cached_at": 1753460748010,
+  "cached_at": 1754495785220,
   "cache_key": "82b3ad8526344e203b355ba48145950f"
 }

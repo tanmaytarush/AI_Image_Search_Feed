@@ -2,97 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/260/image_cropper_1727316622222.jpg",
   "analysis": {
     "image_id": "img_488",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/260/image_cropper_1727316622222.jpg",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "White cabinets",
-        "Wooden flooring",
-        "Built-in shelves"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Cabinets",
+          "type": "furniture",
           "features": [
-            "Rectangular shape",
-            "White color",
-            "Built-in design"
+            "traditional_style"
           ],
           "materials": [
-            "Furniture finish, likely MDF"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth, glossy finish"
-        },
-        {
-          "type": "Flooring",
-          "features": [
-            "Wooden material",
-            "Brown tone"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural, polished finish"
-        },
-        {
-          "type": "Built-in shelves",
-          "features": [
-            "Integrated with cabinets",
-            "Wooden design"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural, polished finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "White"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Furniture finish"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Indirect, overhead lighting",
-        "texture": "Smooth surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Built-in shelves"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Smooth furniture finish, modern lighting"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient storage solutions",
-        "cultural_significance": "Functionality and practicality are key, reflecting a modern approach to Indian interior design"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image depicts a modern Indian kitchen with white cabinetry and built-in shelves, reflecting a contemporary take on traditional Indian design elements. The use of wood flooring and smooth finishes on the cabinets creates a clean and functional space that is both aesthetically pleasing and practical.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Modern Indian",
-        "Kitchen",
-        "White cabinets",
-        "Wooden flooring",
-        "Built-in shelves"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, as indicated by the use of MDF and wooden materials",
-      "space_type": "Residential kitchen",
-      "functionality": "Storage and cooking preparation",
-      "indian_specific": "Built-in shelves"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1727316622222.jpg"
   },
-  "cached_at": 1753462593910,
+  "cached_at": 1754496718671,
   "cache_key": "749bf1ac36961afedad219659621253d"
 }

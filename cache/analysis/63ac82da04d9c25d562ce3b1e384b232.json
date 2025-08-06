@@ -2,99 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/192/image_cropper_1726820110520.jpg",
   "analysis": {
     "image_id": "img_370",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/192/image_cropper_1726820110520.jpg",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Colonial Style",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Wooden Partition Wall",
-        "Built-in Storage Shelves",
-        "Teak Wood Frame"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Teak Wood Partition Wall",
+          "type": "furniture",
           "features": [
-            "Carved wooden design",
-            "Rectangular panels"
+            "traditional_style"
           ],
           "materials": [
-            "Teak Wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Teak Wood Frame",
-          "features": [
-            "Simple rectangular structure",
-            "Integration with partition"
-          ],
-          "materials": [
-            "Teak Wood"
-          ],
-          "finish": "Unfinished"
-        },
-        {
-          "type": "Built-in Storage Shelves",
-          "features": [
-            "Recessed design",
-            "Glass and wood construction"
-          ],
-          "materials": [
-            "Glass",
-            "Teak Wood"
-          ],
-          "finish": "Clear varnish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (Teak Wood)",
-          "White (Glass)",
-          "Brown (Wooden Partition)"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Teak Wood",
-          "Glass",
-          "Wooden Partition Wall"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light with no visible artificial lighting",
-        "texture": "Smooth and polished surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "North Indian (Hindi/Urdu Style)",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Carved Wooden Partition",
-          "Teak Wood Framing"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Built-in Storage Shelves with modern materials"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of the space with storage integrated into the partition",
-        "cultural_significance": "The design reflects a blend of traditional North Indian architectural elements with modern functionality"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a living room featuring a colonial-style design with a prominent wooden partition wall. The wall is intricately carved and painted in a rich brown tone, showcasing North Indian architectural influence. The partition is integrated with built-in storage shelves, using a combination of glass and teak wood, reflecting a modern adaptation of traditional elements. The overall design emphasizes functionality and integrates cultural significance through the use of traditional materials and craftsmanship.",
-      "metadata": {
-        "tags": [
-          "Living Room",
-          "Colonial Style",
-          "North Indian",
-          "Teak Wood",
-          "Built-in Storage"
-        ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Residential Living Room",
-        "functionality": "Storage and space optimization",
-        "indian_specific": "Teak Wood, Carved Partition, Built-in Shelves"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1726820110520.jpg"
   },
-  "cached_at": 1753460995766,
+  "cached_at": 1754496002714,
   "cache_key": "63ac82da04d9c25d562ce3b1e384b232"
 }

@@ -2,78 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.33%20PM.jpeg",
   "analysis": {
     "image_id": "img_041",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.33%20PM.jpeg",
     "ai_generated_tags": {
-      "room": "Walk-in wardrobe",
-      "theme": "Modern Indian design with traditional influences",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Built-in wardrobe with multiple storage compartments",
-        "Compact organization",
-        "Integrated lighting"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Built-in wardrobe",
+          "type": "furniture",
           "features": [
-            "Multiple compartments for storage",
-            "Integrated mirror",
-            "Built-in desk space"
+            "traditional_style"
           ],
           "materials": [
-            "MDF or similar",
-            "Painted finish"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth, glossy finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Green",
-          "Yellow",
-          "Pink"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "MDF, Paint"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Integrated LED lights",
-        "texture": "Smooth, glossy finish"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but incorporates elements typical of Indian design",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Integrated mirror",
-          "Built-in storage"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Compact design with modern materials"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with built-in storage",
-        "cultural_significance": "Emphasis on functionality and storage, reflecting Indian home organization"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.85,
-      "theme": 0.78,
-      "primary_features": 0.9,
-      "objects": 0.95,
-      "indian_context": 0.82
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image showcases a modern Indian walk-in wardrobe with efficient space utilization. The built-in design includes multiple storage compartments, an integrated desk, and a mirror, reflecting a blend of functionality and traditional Indian design elements like built-in storage. The color palette of white, green, yellow, and pink is typical of Indian interiors, creating a bright and cheerful space. The design incorporates modern materials and finishing techniques, highlighting contemporary Indian interior design trends.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Indian interior design",
-        "Walk-in wardrobe",
-        "Modern Indian style",
-        "Built-in storage",
-        "Compact design",
-        "Colorful palette"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, with use of MDF and painted finishes",
-      "space_type": "Residential",
-      "functionality": "Storage and organization",
-      "indian_specific": "Integrated mirror and built-in storage"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "WhatsApp%20Image%202023-04-10%20at%209.47.33%20PM.jpeg"
   },
-  "cached_at": 1753875407803,
+  "cached_at": 1754489397629,
   "cache_key": "bae832fe6caac323bc8d5cae0dbdedbf"
 }

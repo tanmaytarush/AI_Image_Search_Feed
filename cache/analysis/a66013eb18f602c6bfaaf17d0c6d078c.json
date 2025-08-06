@@ -2,94 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1148/image_cropper_1729617295449.jpg",
   "analysis": {
     "image_id": "img_476",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1148/image_cropper_1729617295449.jpg",
     "ai_generated_tags": {
-      "room": "Foyer",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Staircase with wooden handrail",
-        "Brick wall paneling",
-        "Painted wooden floor",
-        "Decorative wall panel"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Staircase",
+          "type": "furniture",
           "features": [
-            "Curved design",
-            "Wooden handrail",
-            "Dark wood steps"
+            "traditional_style"
           ],
           "materials": [
-            "Wood",
-            "Brass"
+            "wood",
+            "fabric"
           ],
-          "finish": "Polished wood and metal"
-        },
-        {
-          "type": "Wall",
-          "features": [
-            "Decorative brick panel",
-            "Painted wooden surface"
-          ],
-          "materials": [
-            "Brick",
-            "Wood"
-          ],
-          "finish": "Textured brick and smooth paint"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark wood tones",
-          "Red brick",
-          "White paint",
-          "Brown brick"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Brick",
-          "Paint"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Brick texture and painted wood surface"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not specifically regional, but reflects a modern interpretation of traditional Indian design",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Wooden handrail",
-          "Brick paneling"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary staircase design",
-          "Painted wood finish"
+          "contemporary_design"
         ],
-        "space_utilization": "The space appears to be an entryway leading to other areas of the house",
-        "cultural_significance": "The use of brick and wood reflects traditional materials often used in Indian architecture, while the modern design elements indicate a contemporary take on these traditions"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern Indian foyer with a contemporary staircase featuring a wooden handrail and dark wood steps, complemented by decorative brick wall paneling and painted wooden flooring. The design combines traditional elements like brick and wood with a modern aesthetic, reflecting a contemporary interpretation of Indian architectural styles. The space is well-lit by natural light coming from the window, and the overall layout suggests it is an entryway to other parts of the house, possibly leading to a living area.",
-      "metadata": {
-        "tags": [
-          "Foyer",
-          "Modern Indian",
-          "Wooden Staircase",
-          "Brick Wall",
-          "Painted Wood",
-          "Contemporary Design"
-        ],
-        "budget_indicator": "Moderate, with the use of both traditional materials like brick and wood, and more modern finishes like polished wood and painted surfaces.",
-        "space_type": "Residential",
-        "functionality": "Entryway to other parts of the house",
-        "indian_specific": "Traditional elements like brick and wooden handrails"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729617295449.jpg"
   },
-  "cached_at": 1753462461061,
+  "cached_at": 1754496682110,
   "cache_key": "a66013eb18f602c6bfaaf17d0c6d078c"
 }

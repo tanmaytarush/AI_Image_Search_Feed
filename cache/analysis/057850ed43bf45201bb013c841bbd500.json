@@ -3,75 +3,86 @@
   "analysis": {
     "image_id": "img_216",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern Minimalist",
+      "room": "Living Room",
+      "theme": "Simplistic Modern",
       "primary_features": [
-        "Walls with vertical paneling",
-        "Bathroom cabinet",
-        "Glass panel window"
+        "Cabinet",
+        "Window",
+        "Flooring"
       ],
       "objects": [
         {
-          "type": "Bathroom cabinet",
+          "type": "Cabinet",
           "features": [
-            "Rectangular shape",
             "Vertical paneling",
-            "Integrated storage"
+            "Integrated shelves",
+            "Neutral color scheme"
           ],
           "materials": [
-            "MDF (Medium Density Fiberboard)",
-            "Painted finish"
+            "Wood",
+            "Paint"
           ],
-          "finish": "Matte paint finish with vertically aligned panels"
+          "finish": "Polished, glossy finish"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "Fixed window",
+            "Minimalistic design"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear, transparent"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Beige",
-          "White",
-          "Gray"
+          "Grey",
+          "White"
         ],
         "materials": [
-          "MDF",
-          "Painted finish",
+          "Wood",
+          "Paint",
           "Glass"
         ],
-        "lighting": "Natural light from glass panel window",
-        "texture": "Smooth, clean lines with simple textures"
+        "lighting": "Natural lighting from the window",
+        "texture": "Smooth, clean, minimalist"
       },
       "indian_context": {
-        "regional_style": "No specific regional style visible, but some elements might be inspired by South Indian bathrooms",
-        "traditional_elements": [
-          "No traditional elements visible"
-        ],
+        "regional_style": "No specific regional style identified, but some modern interpretations of Indian design",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Integrated storage, modern paneling design"
+          "Minimalistic furniture design",
+          "Integrated shelving"
         ],
-        "space_utilization": "Optimized for storage and functionality with minimalistic design",
-        "cultural_significance": "Minimal adaptations to Indian cultural elements, focusing on modern minimalism"
+        "space_utilization": "Efficient use of vertical space with cabinets",
+        "cultural_significance": "Simple and clean design reflecting modern trends rather than traditional Indian elements"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.75,
+        "room": 0.95,
+        "theme": 0.87,
         "primary_features": 0.89,
         "objects": 0.92,
-        "indian_context": 0.7
+        "indian_context": 0.9
       },
-      "description": "The image depicts a modern minimalist bathroom with a beige MDF cabinet featuring vertical paneling and integrated storage. The cabinet is painted in a matte finish, and there is a glass panel window allowing natural light to enter. The design is clean and simple, with no traditional Indian elements present, focusing on contemporary aesthetics.",
+      "description": "The image depicts a living room with a minimalist, modern design. The room features vertical wall cabinets with a neutral color scheme, minimalistic window design, and smooth flooring. The use of wood and paint materials suggests a modern interpretation of Indian design elements, lacking traditional furniture styles or cultural decorative elements.",
       "metadata": {
         "tags": [
-          "Modern Bathroom",
-          "Minimalist Design",
-          "MDF Cabinet",
-          "Beige Walls"
+          "Minimalist",
+          "Modern",
+          "Living Room",
+          "Cabinets",
+          "Neutral Colors"
         ],
-        "budget_indicator": "Low to mid-range due to standard materials and finish",
-        "space_type": "Residential Bathroom",
-        "functionality": "Primary purpose is storage and organization of bathroom items",
-        "indian_specific": "No Indian-specific design features visible"
+        "budget_indicator": "Mid-range, based on visible materials and finishes",
+        "space_type": "Residential",
+        "functionality": "Living area with storage solutions",
+        "indian_specific": "No traditional Indian design features are present"
       }
     }
   },
-  "cached_at": 1753459376995,
+  "cached_at": 1754493232261,
   "cache_key": "057850ed43bf45201bb013c841bbd500"
 }

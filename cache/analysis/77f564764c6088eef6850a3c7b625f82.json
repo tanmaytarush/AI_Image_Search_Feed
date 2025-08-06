@@ -6,59 +6,63 @@
       "room": "Not applicable",
       "theme": "Minimalist",
       "primary_features": [
-        "Lock mechanism"
+        "Metallic lever handle"
       ],
       "objects": [
         {
-          "type": "Door handle",
+          "type": "Door lever handle",
           "features": [
-            "Metallic, lever-style handle"
+            "Curved design, sleek",
+            "Polished finish, brushed metal"
           ],
           "materials": [
-            "Metal"
+            "Metallic",
+            "Likely brass or stainless steel"
           ],
-          "finish": "Glossy, polished"
+          "finish": "High polished, smooth surface"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Silver"
+          "Silver, metallic gray"
         ],
         "materials": [
-          "Metal"
+          "Metallic, polished brass or stainless steel"
         ],
-        "lighting": "Neutral, even lighting",
-        "texture": "Smooth, shiny surface"
+        "lighting": "Indirect, ambient lighting highlighting the handle",
+        "texture": "Sleek, smooth, reflective surface"
       },
       "indian_context": {
         "regional_style": "Not applicable",
         "traditional_elements": [],
-        "modern_adaptations": [],
+        "modern_adaptations": [
+          "Minimal European-style lever handle"
+        ],
         "space_utilization": "Not applicable",
-        "cultural_significance": "Not applicable"
+        "cultural_significance": "No traditional Indian elements present"
+      },
+      "confidence_scores": {
+        "room": 0.8,
+        "theme": 0.9,
+        "primary_features": 0.95,
+        "objects": 0.98,
+        "indian_context": 0.2
+      },
+      "description": "The image shows a close-up of a modern European-style lever handle, likely made of polished metal, possibly brass or stainless steel. The handle is sleek and curved, designed for ease of use. The lighting highlights its smooth, reflective surface, emphasizing its contemporary design.",
+      "metadata": {
+        "tags": [
+          "door handle",
+          "modern design",
+          "metallic finish",
+          "home improvement"
+        ],
+        "budget_indicator": "Mid to high, given the apparent quality and finish of the material",
+        "space_type": "Residential or commercial",
+        "functionality": "Access control to a door",
+        "indian_specific": "No Indian-specific design features present"
       }
-    },
-    "confidence_scores": {
-      "room": 0.65,
-      "theme": 0.7,
-      "primary_features": 0.8,
-      "objects": 0.9,
-      "indian_context": 0.5
-    },
-    "description": "The image shows a close-up of a lever-style door handle, which appears to be made of metal and has a glossy, polished finish. There are no visible Indian design elements or cultural references in this image, as it is a minimalist and modern design.",
-    "metadata": {
-      "tags": [
-        "door handle",
-        "metallic",
-        "glossy",
-        "minimalist"
-      ],
-      "budget_indicator": "Low to moderate, given the polished metal finish",
-      "space_type": "Not applicable",
-      "functionality": "Aesthetics and practical use for opening a door",
-      "indian_specific": "No Indian-specific design features visible"
     }
   },
-  "cached_at": 1753448372396,
+  "cached_at": 1754491223132,
   "cache_key": "77f564764c6088eef6850a3c7b625f82"
 }

@@ -2,108 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1165/image_cropper_1729612787721.jpg",
   "analysis": {
     "image_id": "img_389",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1165/image_cropper_1729612787721.jpg",
     "ai_generated_tags": {
-      "room": "entryway",
-      "theme": "contemporary minimal",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "wooden flooring",
-        "glass door",
-        "wooden wall paneling",
-        "wooden staircase"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "wooden flooring",
+          "type": "furniture",
           "features": [
-            "natural wood grain pattern",
-            "dark brown finish"
+            "traditional_style"
           ],
           "materials": [
-            "wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "polished"
-        },
-        {
-          "type": "glass door",
-          "features": [
-            "rectangular",
-            "sliding"
-          ],
-          "materials": [
-            "glass",
-            "metal"
-          ],
-          "finish": "clear"
-        },
-        {
-          "type": "wooden wall paneling",
-          "features": [
-            "vertical slats",
-            "dark brown finish"
-          ],
-          "materials": [
-            "wood"
-          ],
-          "finish": "polished"
-        },
-        {
-          "type": "wooden staircase",
-          "features": [
-            "railing on one side",
-            "dark wooden steps"
-          ],
-          "materials": [
-            "wood"
-          ],
-          "finish": "polished"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "brown",
-          "black",
-          "gray"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
           "wood",
-          "glass",
-          "metal"
+          "fabric",
+          "textiles"
         ],
-        "lighting": "natural light from the glass door",
-        "texture": "smooth"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "not applicable",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "contemporary design with Indian influence"
+          "contemporary_design"
         ],
-        "space_utilization": "linear arrangement, efficient use of space for minimal functionality",
-        "cultural_significance": "modern Indian design with a focus on clean lines and natural materials"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern minimal entryway in an Indian-style home, featuring a wooden staircase, a glass door, and wooden wall paneling. The design uses natural wood tones and a clean, linear aesthetic. There are no overtly traditional Indian elements, but the use of wood and simple forms could suggest a modern interpretation of traditional Indian design.",
-      "metadata": {
-        "tags": [
-          "entryway",
-          "modern",
-          "minimal",
-          "wooden",
-          "glass"
-        ],
-        "budget_indicator": "moderate to high",
-        "space_type": "residential",
-        "functionality": "entryway for a home, serving a practical purpose of guiding entry into the house",
-        "indian_specific": "use of wood in a contemporary context"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729612787721.jpg"
   },
-  "cached_at": 1753461304288,
+  "cached_at": 1754496112176,
   "cache_key": "b0639e9597bc7bbddd5b534d19055045"
 }

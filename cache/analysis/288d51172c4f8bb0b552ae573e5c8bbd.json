@@ -3,62 +3,43 @@
   "analysis": {
     "image_id": "img_167",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Mughal Influence",
+      "room": "Bedroom",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Glass door with wooden frame",
-        "Teak shelves",
-        "Dark wood flooring"
+        "Built-in wardrobe, glass door, textured wall paneling"
       ],
       "objects": [
         {
-          "type": "Teak shelves",
+          "type": "Built-in wardrobe",
           "features": [
-            "Carved wooden edges",
-            "Dark stain finish"
+            "Large storage space, sleek design, glass door"
           ],
           "materials": [
-            "Teak wood"
+            "Wood, glass"
           ],
-          "finish": "Dark stain, smooth finish"
-        },
-        {
-          "type": "Glass door with wooden frame",
-          "features": [
-            "Panelled glass",
-            "Teak wood frame"
-          ],
-          "materials": [
-            "Teak wood for frame, glass for panels"
-          ],
-          "finish": "Teak wood natural finish, polished glass"
+          "finish": "Smooth finish with a hint of texture on the glass door"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark wood tones",
-          "Transparent glass",
-          "Black floor tiles"
+          "Dark green, white, gray"
         ],
         "materials": [
-          "Teak wood",
-          "Glass",
-          "Dark floor tiles"
+          "Wood, glass, metal frame"
         ],
-        "lighting": "Natural light from glass door",
-        "texture": "Carved wood texture, smooth glass, dark tile texture"
+        "lighting": "Natural light from the glass door, soft indoor lighting",
+        "texture": "Textured wall paneling, smooth glass door, wooden paneling"
       },
       "indian_context": {
-        "regional_style": "Mughal",
+        "regional_style": "Not strongly regional, but may blend elements from urban Indian designs",
         "traditional_elements": [
-          "Carved wood elements",
-          "Dark wood tones"
+          "Textured wall paneling"
         ],
         "modern_adaptations": [
-          "Minimalist glass door with wooden frame"
+          "Use of glass for the wardrobe door, modern wardrobe design"
         ],
-        "space_utilization": "Optimized for storage with shelves",
-        "cultural_significance": "Represents richness and status often associated with Mughal architecture"
+        "space_utilization": "Efficient use of space with a built-in wardrobe design",
+        "cultural_significance": "Textured wall paneling may have a cultural significance in certain regions of India, symbolizing craftsmanship and tradition"
       }
     },
     "confidence_scores": {
@@ -68,21 +49,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image depicts a living space with Mughal-inspired design elements, featuring dark wood cabinets with intricate carvings and a glass door with a wooden frame. The space utilizes dark wood tones and a minimalist approach with a glass door, offering a blend of traditional Indian craftsmanship with modern functionality. The use of teak wood and dark stain finish reflects the Mughal influence, which is known for its grandeur and attention to detail.",
+    "description": "The image depicts a modern Indian bedroom setting with a focus on functionality and space optimization. The built-in wardrobe with a glass door is a central feature, showcasing a contemporary interpretation of the traditional wardrobe. The textured wall paneling adds a touch of cultural significance, blending traditional craftsmanship with modern design. The use of dark green and white colors is typical in modern Indian interiors, creating a calm and sophisticated atmosphere.",
     "metadata": {
       "tags": [
-        "Mughal",
-        "Teak",
-        "Glass Door",
-        "Dark Wood Tones",
-        "Storage Shelves"
+        "Modern Indian design",
+        "Built-in wardrobe",
+        "Textured paneling",
+        "Glass door",
+        "Urban Indian interior"
       ],
-      "budget_indicator": "Mid-range, as teak wood and glass are premium materials",
-      "space_type": "Residential",
-      "functionality": "Storage and entry/exit area",
-      "indian_specific": "Carved wood elements, dark wood finish"
+      "budget_indicator": "Moderate to high, given the use of glass and specific materials for the wardrobe",
+      "space_type": "Residential bedroom",
+      "functionality": "Storage and organization",
+      "indian_specific": "Textured wall paneling and glass door design"
     }
   },
-  "cached_at": 1753449545583,
+  "cached_at": 1754492337810,
   "cache_key": "288d51172c4f8bb0b552ae573e5c8bbd"
 }

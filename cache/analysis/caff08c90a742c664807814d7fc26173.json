@@ -2,69 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1043/image_cropper_1729503131747.jpg",
   "analysis": {
     "image_id": "img_456",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1043/image_cropper_1729503131747.jpg",
     "ai_generated_tags": {
-      "room": "Closet",
-      "theme": "Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Arched doorways",
-        "Shelving units"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Shelving unit",
+          "type": "furniture",
           "features": [
-            "Arched doorways, light-colored finish"
+            "traditional_style"
           ],
           "materials": [
-            "Wood, possibly painted"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth, light-colored paint finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light beige, white"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood, painted finish"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Even, natural lighting",
-        "texture": "Smooth, matte finish"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "No traditional Indian elements visible"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary design with minimal arches"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of vertical space",
-        "cultural_significance": "No cultural elements specific to Indian design observed"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image depicts a closet with a minimalist design, featuring arched doorways and shelving units. The arches are a modern adaptation of traditional Indian architectural elements, but the overall design is contemporary with a focus on functionality and space optimization. The light-colored finish and smooth texture suggest a modern aesthetic with influences from Indian regional design in terms of the arches.",
-      "metadata": {
-        "tags": [
-          "closet",
-          "minimalist design",
-          "arched doorways",
-          "modern Indian design",
-          "efficient space"
-        ],
-        "budget_indicator": "Moderate, with visible use of painted wood",
-        "space_type": "Residential closet",
-        "functionality": "Storage space",
-        "indian_specific": "Contemporary interpretation of traditional arches"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729503131747.jpg"
   },
-  "cached_at": 1753462244431,
+  "cached_at": 1754496572762,
   "cache_key": "caff08c90a742c664807814d7fc26173"
 }

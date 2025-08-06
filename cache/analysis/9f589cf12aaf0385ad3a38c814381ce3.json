@@ -3,60 +3,68 @@
   "analysis": {
     "image_id": "img_181",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Indian Regional Style",
+      "room": "Office reception",
+      "theme": "Modular Indian-inspired design",
       "primary_features": [
-        "Carved wooden elements",
-        "Marble tiles"
+        "Color block walls",
+        "Reception counter",
+        "Wall-mounted display unit"
       ],
       "objects": [
         {
-          "type": "Carved Wooden Console Table",
+          "type": "Reception counter",
           "features": [
-            "Polished finish",
-            "Rustic design"
+            "Curved top",
+            "White surface",
+            "Wooden legs"
           ],
           "materials": [
-            "Teak Wood"
+            "White laminate",
+            "Wood"
           ],
-          "finish": "Smooth polished teak finish"
+          "finish": "Smooth surface with a glossy white finish and a natural wood finish on the legs"
         },
         {
-          "type": "Marble Flooring",
+          "type": "Wall-mounted display unit",
           "features": [
-            "Elegant pattern",
-            "White and grey tones"
+            "Multiple compartments",
+            "Decorative elements"
           ],
           "materials": [
-            "Marble"
+            "Marble",
+            "Brass"
           ],
-          "finish": "High-gloss polished marble"
+          "finish": "Polished marble with a metallic gold finish on brass elements"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Grey",
-          "Brown",
-          "Wooden tones"
+          "Gold",
+          "Black",
+          "Brown"
         ],
         "materials": [
+          "Marble",
+          "Brass",
           "Wood",
-          "Marble"
+          "Metal"
         ],
-        "lighting": "Natural light with soft ambient lighting",
-        "texture": "Smooth and polished surfaces"
+        "lighting": "Natural light from the window above the reception counter",
+        "texture": "Smooth surfaces with a mix of polished and matte textures"
       },
       "indian_context": {
-        "regional_style": "North Indian Style",
+        "regional_style": "North Indian (Delhi/NCR style)",
         "traditional_elements": [
-          "Carved wooden elements"
+          "Decorative brass accents",
+          "Polished marble surfaces"
         ],
         "modern_adaptations": [
-          "Minimalistic marble flooring"
+          "Color blocking",
+          "Modular design"
         ],
-        "space_utilization": "Efficient space with functional furniture arrangement",
-        "cultural_significance": "The use of carved wooden elements represents traditional craftsmanship and hospitality"
+        "space_utilization": "Efficient use of vertical space with a wall-mounted unit",
+        "cultural_significance": "The brass and marble elements have a traditional touch, signifying luxury and elegance, often associated with hospitality and business spaces in North India"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -65,22 +73,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This image depicts a modern interpretation of North Indian interior design, featuring a carved wooden console table with a smooth polished finish, set against marble tiled flooring. The space utilizes traditional Indian craftsmanship elements while incorporating contemporary design aesthetics, such as the clean lines and minimalist use of marble. The room appears to be a living area, emphasizing a blend of traditional and modern influences in a refined and luxurious setting.",
+      "description": "This image showcases a modern interpretation of North Indian design in an office reception area. The space features a reception counter with a white laminate top and wooden legs, complemented by a modular wall-mounted display unit with marble and brass finishes. The color block walls add a contemporary touch, while the decorative brass elements and polished marble surfaces echo traditional Indian aesthetics, creating a harmonious blend of modern and traditional elements.",
       "metadata": {
         "tags": [
-          "Indian Interior",
-          "North Indian Style",
-          "Carved Wood",
-          "Marble Flooring",
-          "Living Room"
+          "Indian design",
+          "office reception",
+          "color block walls",
+          "reception counter",
+          "marble and brass"
         ],
-        "budget_indicator": "High",
-        "space_type": "Residential",
-        "functionality": "Living Area",
-        "indian_specific": "Carved wooden elements, polished teak finish"
+        "budget_indicator": "Mid-range",
+        "space_type": "Commercial office",
+        "functionality": "Reception area for a business",
+        "indian_specific": "Decorative brass accents, polished marble surfaces"
       }
     }
   },
-  "cached_at": 1753459065154,
+  "cached_at": 1754492653380,
   "cache_key": "9f589cf12aaf0385ad3a38c814381ce3"
 }

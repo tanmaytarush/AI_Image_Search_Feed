@@ -1,0 +1,118 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.46.55%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_070",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Marble wall panel",
+        "Round mirror",
+        "Buddha statue",
+        "Green cabinet with white doors",
+        "Wall-mounted shelves",
+        "Planters",
+        "Artwork"
+      ],
+      "objects": [
+        {
+          "type": "Buddha statue",
+          "features": [
+            "Seated posture",
+            "Metallic finish"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Rustic patina"
+        },
+        {
+          "type": "Round mirror",
+          "features": [
+            "Metal frame"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Gold"
+        },
+        {
+          "type": "Green cabinet with white doors",
+          "features": [
+            "Storage cabinet",
+            "Cross detailing on doors"
+          ],
+          "materials": [
+            "Painted MDF",
+            "Metal"
+          ],
+          "finish": "Matte green and glossy white"
+        },
+        {
+          "type": "Planters",
+          "features": [
+            "Minimalistic design",
+            "White ceramic"
+          ],
+          "materials": [
+            "Ceramic"
+          ],
+          "finish": "Glossy white"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Beige",
+          "Gold",
+          "Off-white",
+          "Blue"
+        ],
+        "materials": [
+          "Marble",
+          "Metal",
+          "Painted MDF",
+          "Ceramic"
+        ],
+        "lighting": "Natural light from the left, artificial light from the ceiling track",
+        "texture": "Smooth surfaces with a mix of matte and glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Buddha statue, metal mirror frame"
+        ],
+        "modern_adaptations": [
+          "Minimalist design, painted MDF cabinet, modern lighting"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves and cabinet",
+        "cultural_significance": "Buddha statue represents spiritual and cultural significance in Indian homes, often placed in entryways"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian entryway with a blend of traditional and contemporary elements. A Buddha statue and a round mirror with a gold frame, both traditional Indian decorative items, are prominently displayed. The entryway features a green cabinet with white doors, designed for storage, reflecting modern adaptations to traditional furniture. The use of marble, metal, and painted MDF materials, along with the incorporation of minimalist lighting and planters, highlights a contemporary aesthetic. The color palette, primarily green, white, and beige, complements the overall design, creating a serene and functional space.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Modern Indian",
+        "Entryway design",
+        "Buddha statue",
+        "Marble wall",
+        "Green cabinet"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Entrance and storage",
+      "indian_specific": "Buddha statue, metal mirror"
+    }
+  },
+  "cached_at": 1754490208658,
+  "cache_key": "ccdf56ecab910ecfe264f905ceaeccfc"
+}

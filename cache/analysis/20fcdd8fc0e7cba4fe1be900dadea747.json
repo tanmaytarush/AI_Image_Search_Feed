@@ -3,89 +3,99 @@
   "analysis": {
     "image_id": "img_153",
     "ai_generated_tags": {
-      "room": "Entryway or Hallway",
-      "theme": "Modern Indian Interior",
+      "room": "Bathroom",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Wardrobe with sliding doors",
-        "Built-in storage shelves",
-        "Mirror above the storage"
+        "Glass-enclosed shower area",
+        "Modern vanity",
+        "Storage unit with mirrored doors"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Vanity",
           "features": [
-            "Sliding glass doors, modern design, integrated lighting inside"
+            "Integrated lighting",
+            "Modern design",
+            "Minimalist style"
           ],
           "materials": [
-            "Glass, metal for frame, possibly MDF or wood for panels"
+            "Glass",
+            "Metal"
           ],
-          "finish": "Smooth glass finish, metallic frame with a glossy sheen"
+          "finish": "Polished and glossy"
         },
         {
-          "type": "Built-in shelves",
+          "type": "Storage Unit",
           "features": [
-            "Wooden construction, multiple shelves for storage"
+            "Mirrored doors",
+            "Storage compartments",
+            "Integrated with vanity"
           ],
           "materials": [
-            "Wood, possibly teak or pine"
+            "Wood",
+            "Metal"
           ],
-          "finish": "Natural wood finish, matte appearance"
+          "finish": "Polished wood with metal accents"
         },
         {
-          "type": "Mirror",
+          "type": "Shower Enclosure",
           "features": [
-            "Rectangular shape, frameless design, mounted on the wall"
+            "Glass panels",
+            "Minimalist design"
           ],
           "materials": [
-            "Glass for the mirror, metal or wood for the frame"
+            "Glass"
           ],
-          "finish": "Clear glass, metallic frame with a polished look"
+          "finish": "Clear and transparent"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, Brown, Silver, Clear"
+          "White",
+          "Black",
+          "Silver",
+          "Clear"
         ],
         "materials": [
-          "Glass, Metal, Wood, Wood"
+          "Glass",
+          "Metal",
+          "Wood"
         ],
-        "lighting": "Integrated LED lighting within the wardrobe, enhancing modern look",
-        "texture": "Smooth surfaces on glass, matte finish on wood, shiny metallic accents"
+        "lighting": "Integrated under-vanity lighting",
+        "texture": "Smooth and sleek"
       },
       "indian_context": {
-        "regional_style": "Modern Maharashtrian",
-        "traditional_elements": [
-          "Built-in storage, sliding wardrobe"
-        ],
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Integration of modern materials and design techniques"
+          "Integration of traditional Indian motifs in modern design"
         ],
-        "space_utilization": "Efficient use of vertical space for storage, maintaining aesthetic appeal",
-        "cultural_significance": "Represents contemporary interpretation of Indian craftsmanship and space optimization"
+        "space_utilization": "Efficient use of space with built-in storage and minimalistic design",
+        "cultural_significance": "This design reflects a contemporary interpretation of Indian interior design, focusing on functionality and aesthetic appeal"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian bathroom features a sleek design that integrates contemporary aesthetics with traditional elements. The glass-enclosed shower area, modern vanity with integrated lighting, and storage unit with mirrored doors highlight a minimalist approach. The use of polished glass, metal, and wood reflects a blend of modern and traditional Indian design principles, emphasizing functionality and elegance.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Bathroom Design",
+          "Minimalist",
+          "Storage Solutions",
+          "Indian Interior Design"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is for personal hygiene and grooming",
+        "indian_specific": "Simple integration of Indian design elements in a modern context"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This image showcases a modern Indian interior design in a hallway or entryway. It features a wardrobe with sliding glass doors, built-in wooden shelves for storage, and a mirror above the shelves. The use of glass, metal, and wood materials reflects a contemporary take on Indian craftsmanship. The design emphasizes functionality and space optimization, with a focus on creating a cohesive and visually appealing aesthetic.",
-    "metadata": {
-      "tags": [
-        "Modern Indian Interior",
-        "Hallway Design",
-        "Built-in Storage",
-        "Glass Wardrobe",
-        "Wooden Shelves"
-      ],
-      "budget_indicator": "Moderate, due to the use of glass, metal, and natural wood",
-      "space_type": "Hallway",
-      "functionality": "Storage and entryway organization",
-      "indian_specific": "Integration of traditional storage solutions with modern materials"
     }
   },
-  "cached_at": 1753449281625,
+  "cached_at": 1754491972722,
   "cache_key": "20fcdd8fc0e7cba4fe1be900dadea747"
 }

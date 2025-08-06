@@ -4,52 +4,89 @@
     "image_id": "img_247",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Contemporary Indian with traditional accents",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Modern furniture, traditional carved headboard, wooden door, weathered wall texture"
+        "Modern bed with headboard",
+        "Wooden wardrobe",
+        "Marble top table",
+        "Mirror above bed"
       ],
       "objects": [
         {
           "type": "Bed",
           "features": [
-            "Modern design with a traditional carved headboard"
+            "Modern design with straight lines",
+            "Dark wood headboard"
           ],
           "materials": [
-            "Wood, fabric"
+            "Dark wood",
+            "Fabric"
           ],
-          "finish": "Fabric with a textured pattern, wood with a natural finish"
+          "finish": "Smooth and glossy"
         },
         {
-          "type": "Door",
+          "type": "Wardrobe",
           "features": [
-            "Wooden, rectangular, with a minimalist design"
+            "Contemporary design with clean lines"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Natural wood finish"
+          "finish": "Smooth and polished"
+        },
+        {
+          "type": "Table",
+          "features": [
+            "Circular shape",
+            "Marble top with wooden base"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Marble is polished, wood is glossy"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Circular frame",
+            "Mounted above the bed"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Frame is glossy, glass is clear and reflective"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Neutral tones like beige, brown, and grey, with pops of wood and metallic accents"
+          "Warm wood tones",
+          "White walls",
+          "Gray marble top"
         ],
         "materials": [
-          "Wood, fabric, metal"
+          "Wood",
+          "Marble",
+          "Glass",
+          "Metal"
         ],
-        "lighting": "Soft, ambient lighting with a modern fixture above the bed",
-        "texture": "Weathered wall texture, soft fabric texture, wood grain"
+        "lighting": "Soft lighting with natural light from the side",
+        "texture": [
+          "Smooth and glossy surfaces",
+          "Marble texture on table"
+        ]
       },
       "indian_context": {
-        "regional_style": "This appears to be a modern take on a Rajasthan or Northern Indian style, given the weathered texture and the traditional carved headboard.",
+        "regional_style": "Not explicitly regional, but a blend of contemporary and traditional",
         "traditional_elements": [
-          "Carved headboard"
+          "Wooden headboard"
         ],
         "modern_adaptations": [
-          "Contemporary lines and materials like wood and fabric in a modern design"
+          "Contemporary furniture design with clean lines"
         ],
-        "space_utilization": "The space is organized with a focus on comfort and functionality, with the bed as the central element.",
-        "cultural_significance": "The carved headboard and weathered wall texture reflect traditional craftsmanship and a connection to regional architectural elements, indicating a respect for heritage while embracing modernity."
+        "space_utilization": "Efficient use of space with minimal clutter",
+        "cultural_significance": "The wooden headboard has a traditional significance in Indian interiors, symbolizing comfort and warmth"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -58,18 +95,23 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This bedroom blends a modern design aesthetic with traditional Indian elements, such as the carved headboard and the weathered wall texture. The use of neutral colors and natural materials, along with a simple yet elegant fixture, creates a serene and inviting atmosphere. The minimalist wooden door complements the overall modern yet traditional style of the space.",
+      "description": "This contemporary Indian bedroom features a modern bed with a wooden headboard, a circular mirror above the bed, and a wooden wardrobe. The marble top table adds a touch of luxury, while the overall color palette of warm wood tones and white walls creates a serene and inviting atmosphere. The room is well-organized, with efficient use of space and a blend of traditional and modern design elements.",
       "metadata": {
         "tags": [
-          "Modern Indian, contemporary, carved headboard, weathered walls, wooden door, neutral tones"
+          "Contemporary Indian",
+          "Modern bedroom",
+          "Wooden furniture",
+          "Marble table",
+          "Circular mirror",
+          "Warm tones"
         ],
-        "budget_indicator": "Moderate to high, given the use of high-quality materials and craftsmanship",
+        "budget_indicator": "Moderate to High, given the use of materials like marble and polished wood",
         "space_type": "Residential bedroom",
-        "functionality": "Primary purpose is for rest and relaxation, with the design focusing on a comfortable and stylish sleeping area.",
-        "indian_specific": "The carved headboard and weathered wall texture highlight traditional Indian design elements"
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Wooden headboard with traditional significance"
       }
     }
   },
-  "cached_at": 1753450460704,
+  "cached_at": 1754494166500,
   "cache_key": "e91f5abb03fa5c3726dc9f99535a4065"
 }

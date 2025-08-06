@@ -2,95 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/308/image_cropper_1728455769088.jpg",
   "analysis": {
     "image_id": "img_410",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/308/image_cropper_1728455769088.jpg",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modern Indian Kitchen",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Green cabinetry",
-        "White countertop",
-        "Built-in appliances",
-        "Window with upper rail"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "furniture",
           "features": [
-            "Closed front with sleek lines",
-            "Green color"
+            "traditional_style"
           ],
           "materials": [
-            "Painted wood or MDF"
+            "wood",
+            "fabric"
           ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Countertop",
-          "features": [
-            "Smooth surface",
-            "White color"
-          ],
-          "materials": [
-            "Corian or quartz"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Appliance",
-          "features": [
-            "Built-in stove",
-            "Built-in oven"
-          ],
-          "materials": [
-            "Stainless steel"
-          ],
-          "finish": "Polished"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Green",
-          "White"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Painted wood/MDF",
-          "Corian/quartz",
-          "Stainless steel"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Gujarat or Southern style",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Modern appliances and cabinetry"
+          "contemporary_design"
         ],
-        "space_utilization": "Optimized with built-in appliances",
-        "cultural_significance": "Modern interpretation of clean, minimalistic design without traditional Indian elements"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern kitchen with a focus on Indian design elements, showcasing sleek green cabinetry and white countertop with built-in appliances. The design incorporates contemporary Indian aesthetics with a minimalist approach, focusing on functionality and space optimization. The presence of a window with an upper rail adds a touch of traditional design, blending with the modern elements.",
-      "metadata": {
-        "tags": [
-          "Modern Indian Kitchen",
-          "Green Cabinets",
-          "White Countertop",
-          "Built-in Appliances",
-          "Window with Upper Rail"
-        ],
-        "budget_indicator": "Moderate to high, with high-end materials like Corian/quartz and stainless steel",
-        "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is cooking and food preparation, with space optimization for efficient workflow",
-        "indian_specific": "Modern interpretation of Indian design with minimal traditional elements"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1728455769088.jpg"
   },
-  "cached_at": 1753461553321,
+  "cached_at": 1754496232922,
   "cache_key": "b2774efb5bff013d3d87eba9caaff038"
 }

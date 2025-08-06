@@ -2,76 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/823/image_cropper_1729262318827.jpg",
   "analysis": {
     "image_id": "img_482",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/823/image_cropper_1729262318827.jpg",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Contemporary Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Built-in shelves",
-        "Modular storage unit",
-        "Teak finish furniture"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Teak cabinet",
+          "type": "furniture",
           "features": [
-            "Built-in shelves",
-            "Storage compartments"
+            "traditional_style"
           ],
           "materials": [
-            "Teak wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "Teak finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Teak brown",
-          "Dark green"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Teak wood",
-          "White panels",
-          "Dark green upholstery"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light through window",
-        "texture": "Smooth teak surface, crisp white panels"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Maharashtra or Gujarat",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Teak furniture",
-          "Built-in shelves"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary finish and color palette"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with built-in storage",
-        "cultural_significance": "Teak is commonly used in traditional Indian furniture for its durability and cultural significance"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "A contemporary Indian living room featuring a modular storage unit with built-in shelves and a teak cabinet. The space utilizes a modern yet traditional approach with a teak finish, crisp white panels, and dark green upholstery. The design integrates efficient space utilization and cultural elements such as teak furniture.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Living Room",
-        "Teak",
-        "Storage Solution",
-        "Contemporary Indian",
-        "Maharashtra Style"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, with a focus on quality teak and modern finishes",
-      "space_type": "Residential Living Space",
-      "functionality": "Storage and display area, efficient space utilization",
-      "indian_specific": "Use of teak and built-in storage solutions"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729262318827.jpg"
   },
-  "cached_at": 1753462534274,
+  "cached_at": 1754496700743,
   "cache_key": "4400b8a4880b935d47abf6ed59f339bf"
 }

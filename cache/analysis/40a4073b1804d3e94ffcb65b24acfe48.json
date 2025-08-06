@@ -3,65 +3,75 @@
   "analysis": {
     "image_id": "img_235",
     "ai_generated_tags": {
-      "room": "bedroom",
-      "theme": "contemporary Indian",
+      "room": "Bedroom",
+      "theme": "Modern Indian",
       "primary_features": [
-        "wooden bed frame",
-        "textured wall paneling",
-        "ceiling fan"
+        "Wooden bed frame",
+        "Carpeted floors",
+        "Ceiling fan"
       ],
       "objects": [
         {
-          "type": "bed frame",
+          "type": "Carpeted floor",
           "features": [
-            "wooden planks, simple design"
+            "Soft textured appearance, likely made of wool or a similar material"
           ],
           "materials": [
-            "wood"
+            "Wool, synthetic blend"
           ],
-          "finish": "natural finish, indicating teak or similar hardwood"
+          "finish": "Soft, plush texture"
         },
         {
-          "type": "textured wall paneling",
+          "type": "Wooden bed frame",
           "features": [
-            "vertical stripes, intricate design"
+            "Simple, contemporary design, possibly teak wood"
           ],
           "materials": [
-            "wood, possibly teak"
+            "Teak wood"
           ],
-          "finish": "polished, glossy finish"
+          "finish": "Natural, polished teak finish"
         },
         {
-          "type": "ceiling fan",
+          "type": "Bedding",
           "features": [
-            "modern design, simple blades"
+            "Striped bedding with neutral and warm tones"
           ],
           "materials": [
-            "metal, likely brass or copper"
+            "Cotton, possibly with a subtle fabric texture"
           ],
-          "finish": "polished, reflective finish"
+          "finish": "Soft, woven texture"
+        },
+        {
+          "type": "Ceiling fan",
+          "features": [
+            "Modern style with a warm tone"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metallic finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "brown, beige, white"
+          "Neutral tones, warm browns, beige, white, accents of gold"
         ],
         "materials": [
-          "wood, metal, metal"
+          "Wood, metal, textile"
         ],
-        "lighting": "soft, ambient lighting from wall sconces",
-        "texture": "smooth surfaces with intricate wood carving details"
+        "lighting": "Ambient lighting from ceiling fixtures and warm-toned floor lamps",
+        "texture": "Soft textures of the carpet and bedding, contrasted with the smooth finish of the ceiling"
       },
       "indian_context": {
-        "regional_style": "not explicitly identifiable, but could be inspired by northern Indian design",
+        "regional_style": "N/A",
         "traditional_elements": [
-          "wooden bed frame, textured wall paneling"
+          "Carved wooden elements (implied by the wooden bed frame design)"
         ],
         "modern_adaptations": [
-          "contemporary lighting, simple ceiling fan"
+          "Contemporary interpretation of traditional materials and finishes"
         ],
-        "space_utilization": "efficient use of space with minimal decor, focusing on functionality",
-        "cultural_significance": "wooden elements and intricate carvings may symbolize craftsmanship and heritage"
+        "space_utilization": "Optimal use of space with a simple, functional layout",
+        "cultural_significance": "The use of wood and warm tones reflects traditional Indian design elements, aiming for comfort and warmth"
       }
     },
     "confidence_scores": {
@@ -71,21 +81,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This bedroom showcases a contemporary take on Indian interior design, featuring a wooden bed frame with intricate carvings, textured wall paneling, and a ceiling fan with a simple metal blade design. The color palette is dominated by warm tones of brown and beige, with white accents adding contrast. The lighting is soft and ambient, provided by wall sconces, enhancing the cozy atmosphere. The space is organized efficiently, focusing on functionality with minimal decor, while the use of wood and intricate carvings hints at traditional Indian craftsmanship and heritage.",
+    "description": "A modern Indian bedroom with a focus on warm, neutral tones and traditional materials. The bed frame and flooring suggest a contemporary adaptation of traditional Indian design elements, such as the use of wood and carved details. The room features a simple, functional layout with ambient lighting and a warm, inviting atmosphere.",
     "metadata": {
       "tags": [
-        "contemporary Indian",
-        "wooden furniture",
-        "textured wall paneling",
-        "ceiling fan",
-        "warm color palette"
+        "Contemporary Indian",
+        "Modern Bedroom",
+        "Warm Tones",
+        "Teak Wood",
+        "Carpeted Floor",
+        "Cultural Design"
       ],
-      "budget_indicator": "moderate to high, given the use of high-quality materials like teak and polished metals",
-      "space_type": "bedroom",
-      "functionality": "primary purpose is for sleeping and rest, with an emphasis on comfort and practicality",
-      "indian_specific": "wooden bed frame with intricate carvings, textured wall paneling"
+      "budget_indicator": "Moderate, utilizing traditional materials with modern interpretations.",
+      "space_type": "Residential, bedroom",
+      "functionality": "Sleeping and relaxation area",
+      "indian_specific": "The room incorporates traditional materials like teak wood and neutral tones with modern design elements."
     }
   },
-  "cached_at": 1753459527067,
+  "cached_at": 1754493605073,
   "cache_key": "40a4073b1804d3e94ffcb65b24acfe48"
 }

@@ -4,23 +4,48 @@
     "image_id": "img_056",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian Minimalist",
+      "theme": "Modern Indian Kitchen",
       "primary_features": [
-        "Blue and white color scheme",
-        "Linear kitchen cabinet design",
-        "Integrated countertop and storage"
+        "Blue and white cabinets",
+        "Black countertops",
+        "Integrated sink",
+        "Wall-mounted utensils"
       ],
       "objects": [
         {
-          "type": "Kitchen Cabinet",
+          "type": "Kitchen cabinets",
           "features": [
-            "Hanging storage with pull-out handles",
-            "Integrated hanging units above counter"
+            "Blue and white color scheme",
+            "Modular design",
+            "Upper and lower cabinets"
           ],
           "materials": [
-            "Blue and white glossy finish"
+            "MDF or particle board",
+            "Painted finish"
           ],
-          "finish": "High-gloss finish"
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Countertops",
+          "features": [
+            "Black countertops",
+            "Integrated sink"
+          ],
+          "materials": [
+            "Artificial stone or laminate"
+          ],
+          "finish": "Smooth finish"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Integrated sink",
+            "Modern design"
+          ],
+          "materials": [
+            "Metallic finish"
+          ],
+          "finish": "Polished finish"
         }
       ],
       "visual_attributes": {
@@ -30,21 +55,23 @@
           "Black"
         ],
         "materials": [
-          "Glossy finish on cabinetry, smooth countertop, wall tiles"
+          "MDF",
+          "Laminate",
+          "Artificial stone"
         ],
-        "lighting": "Artificial lighting with overhead fixtures",
-        "texture": "Smooth and sleek surfaces"
+        "lighting": "No visible natural light, artificial lighting used",
+        "texture": "Smooth surfaces with glossy finishes"
       },
       "indian_context": {
-        "regional_style": "Modern interpretation of traditional Indian kitchens",
+        "regional_style": "Not specific to any regional style, more of a modern interpretation",
         "traditional_elements": [
-          "Linear design reminiscent of traditional Indian architecture"
+          "No visible traditional Indian elements"
         ],
         "modern_adaptations": [
-          "Integration of modern appliances and finishes"
+          "Modern interpretations of traditional Indian elements include blue and white color scheme, which is often seen in traditional Indian decor"
         ],
-        "space_utilization": "Efficient use of space with integrated storage solutions",
-        "cultural_significance": "Modern attempt to marry aesthetic appeal with functional space, reflecting contemporary Indian design trends"
+        "space_utilization": "Efficient space utilization with modular cabinets and integrated sink",
+        "cultural_significance": "The color blue in Indian decor is often associated with peace and stability, while white is associated with purity and cleanliness."
       },
       "confidence_scores": {
         "room": 0.95,
@@ -53,22 +80,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image showcases a modern Indian kitchen with a minimalist design, featuring blue and white glossy cabinets with linear designs. The space is well-organized with integrated storage solutions, reflecting contemporary Indian design trends by integrating traditional aesthetics with contemporary finishes and functional space planning.",
+      "description": "This image depicts a modern Indian kitchen with a blue and white color scheme. The kitchen features modular cabinets with a glossy finish, black countertops with an integrated sink, and wall-mounted utensils. The space is well-organized with efficient use of space, and the design reflects a contemporary interpretation of traditional Indian decor elements. The lighting is artificial, and the overall appearance is clean and minimalistic.",
       "metadata": {
         "tags": [
-          "Indian Kitchen",
-          "Modern Minimalist",
-          "Blue and White",
-          "Linear Design",
-          "Integrated Storage"
+          "Modern Indian Kitchen",
+          "Blue and White Color Scheme",
+          "Efficient Space Utilization",
+          "Artificial Lighting",
+          "Glossy Finish"
         ],
-        "budget_indicator": "Moderate, utilizing modern materials with a touch of traditional finish",
+        "budget_indicator": "Moderate, as it includes MDF or particle board cabinets, artificial stone countertops, and metallic sink",
         "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is for food preparation and storage",
-        "indian_specific": "Use of blue and white color palette and linear design elements"
+        "functionality": "Primary purpose is for cooking and food preparation",
+        "indian_specific": "Modern adaptation of traditional Indian color scheme and efficient space utilization"
       }
     }
   },
-  "cached_at": 1753878052633,
+  "cached_at": 1754489937396,
   "cache_key": "da0c4ed0fbaed5efc4d68067c202e76c"
 }

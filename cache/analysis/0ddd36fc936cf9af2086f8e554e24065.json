@@ -1,0 +1,110 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/205/image_cropper_1726897823470.jpg",
+  "analysis": {
+    "image_id": "img_396",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wardrobe with built-in shelves",
+        "Wooden flooring",
+        "Patterned wall",
+        "Minimalist desk"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe with built-in shelves",
+          "features": [
+            "Vertical layout",
+            "Shelving compartments"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Textured finish"
+        },
+        {
+          "type": "Wooden flooring",
+          "features": [
+            "Hardwood material"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood tone"
+        },
+        {
+          "type": "Patterned wall",
+          "features": [
+            "Geometric pattern"
+          ],
+          "materials": [
+            "Paint"
+          ],
+          "finish": "Textured wall"
+        },
+        {
+          "type": "Minimalist desk",
+          "features": [
+            "Flat surface",
+            "Modern design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Yellow",
+          "Blue"
+        ],
+        "materials": [
+          "Wood",
+          "Paint",
+          "Metal"
+        ],
+        "lighting": "Natural light, possibly from a window not visible in the image",
+        "texture": "Textured wall paper and wood grain"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, but shows elements of urban modernity in Indian interiors",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Use of modern furniture styles and finishes"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in shelves on the wardrobe",
+        "cultural_significance": "No traditional Indian cultural elements are visible, focusing on contemporary design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian interior design theme in a living area. It features a wardrobe with built-in shelves, wooden flooring, a patterned wall, and a minimalist desk. The design is characterized by a mix of traditional and contemporary elements, with a focus on space optimization and modern finishes. The color palette includes white, brown, yellow, and blue, and the textures are a blend of wood grain and patterned wall paper.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Modern design",
+          "Urban living",
+          "Wardrobe with shelves",
+          "Wooden flooring",
+          "Patterned wall"
+        ],
+        "budget_indicator": "Mid-range to high due to the use of materials like wood and possibly painted wall patterns",
+        "space_type": "Living Room",
+        "functionality": "Storage and workspace",
+        "indian_specific": "Minimal usage of Indian design elements like carved wood or jharokha, focusing on modern Indian aesthetics"
+      }
+    }
+  },
+  "cached_at": 1754496162381,
+  "cache_key": "0ddd36fc936cf9af2086f8e554e24065"
+}

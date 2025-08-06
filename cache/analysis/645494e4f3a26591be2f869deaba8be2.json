@@ -3,50 +3,62 @@
   "analysis": {
     "image_id": "img_350",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Indian Interior",
+      "room": "Bedroom",
+      "theme": "Indian Contemporary",
       "primary_features": [
-        "Wooden cabinets",
-        "Built-in shelves",
-        "White paneling"
+        "Wooden wardrobe",
+        "Modern lighting fixture",
+        "White wall panels"
       ],
       "objects": [
         {
-          "type": "Cabinets",
+          "type": "Wardrobe",
           "features": [
-            "Vertical orientation",
-            "Dark wood tone",
-            "Curved design"
+            "Wooden finish",
+            "Curved design",
+            "Sliding doors"
           ],
           "materials": [
-            "Wood"
+            "Wood (likely teak or similar)",
+            "Metal hardware"
           ],
-          "finish": "Smooth, polished surface"
+          "finish": "High-gloss wood finish"
+        },
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Modern design",
+            "LED light strips"
+          ],
+          "materials": [
+            "Metal and glass"
+          ],
+          "finish": "Metallic with clear glass"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Dark brown",
-          "Beige"
+          "Brown",
+          "Black"
         ],
         "materials": [
           "Wood",
-          "Paneling"
+          "Metal",
+          "Plastic",
+          "Glass"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth, clean surfaces"
+        "lighting": "Modern LED lighting",
+        "texture": "Glossy finishes"
       },
       "indian_context": {
-        "regional_style": "Not directly identifiable",
-        "traditional_elements": [
-          "Carved wood elements"
-        ],
+        "regional_style": "None specific regional style evident",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Simplistic shapes, clean lines"
+          "Modern interpretation of traditional wooden furniture with contemporary finishes"
         ],
-        "space_utilization": "Efficient use of vertical space",
-        "cultural_significance": "Minimal traditional elements visible"
+        "space_utilization": "Efficient use of space with a built-in wardrobe",
+        "cultural_significance": "No culturally significant elements, but the use of wood aligns with traditional materials in Indian interiors"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -55,22 +67,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The interior space features a modern take on Indian design with a focus on clean lines and natural wood tones. The wooden cabinets and built-in shelves utilize vertical space efficiently, blending traditional Indian craftsmanship with contemporary design. The use of white paneling adds a clean, modern touch to the room while the dark wood of the cabinets provides a warm, traditional accent. The overall aesthetic is elegant and functional, suitable for a living room in a contemporary home.",
+      "description": "The image depicts a modern bedroom with a focus on Indian contemporary design. The wardrobe is a key feature, showcasing a blend of traditional Indian woodcraft with a modern aesthetic. The wardrobe's high-gloss wood finish and curved design elements reflect a contemporary interpretation of traditional Indian furniture. The lighting fixture, with its sleek LED strips and metallic frame, adds a contemporary touch to the room. The color palette is primarily white, brown, and black, typical of contemporary Indian interiors. The wardrobe's built-in design maximizes space utilization, making it a practical choice for a bedroom.",
       "metadata": {
         "tags": [
-          "Modern Indian Interior",
-          "Contemporary Living Room",
-          "Wooden Cabinets",
-          "White Paneling",
-          "Vertical Storage"
+          "Indian contemporary",
+          "modern wardrobe",
+          "LED lighting",
+          "efficient space use",
+          "wooden furniture"
         ],
-        "budget_indicator": "Moderate to High, due to the use of quality materials like wood and paneling",
-        "space_type": "Residential Living Room",
-        "functionality": "Primary purpose is for living and storage, providing a relaxing environment for residents and guests",
-        "indian_specific": "The use of carved wood elements suggests an attempt to incorporate traditional Indian design, although this is minimal."
+        "budget_indicator": "Mid-range, with the use of high-quality materials like wood and metal",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Use of wood and efficient space utilization"
       }
     }
   },
-  "cached_at": 1753460761339,
+  "cached_at": 1754495804864,
   "cache_key": "645494e4f3a26591be2f869deaba8be2"
 }

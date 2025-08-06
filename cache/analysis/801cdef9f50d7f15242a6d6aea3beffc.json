@@ -3,64 +3,65 @@
   "analysis": {
     "image_id": "img_048",
     "ai_generated_tags": {
-      "room": "Foyer",
-      "theme": "Modern with Indian Influences",
+      "room": "Living area",
+      "theme": "Modern Indian",
       "primary_features": [
         "Marble flooring",
-        "Partition with decorative glass panels",
-        "Lighting fixtures"
+        "Wooden partition",
+        "Glass elements",
+        "Cupboard with white cabinets"
       ],
       "objects": [
         {
-          "type": "Partition",
+          "type": "Cupboard",
           "features": [
-            "Decorative glass panels with painted design",
-            "Wooden frame"
+            "White cabinets with glass inserts",
+            "Modern handles"
           ],
           "materials": [
-            "Glass",
-            "Wood"
+            "Wood",
+            "Glass"
           ],
-          "finish": "Glossy"
+          "finish": "Shiny, reflective surface"
         },
         {
-          "type": "Lighting fixtures",
+          "type": "Partition",
           "features": [
-            "Recessed spotlights",
-            "Ceiling-mounted light bars"
+            "Wood",
+            "Glass"
           ],
           "materials": [
-            "Metal"
+            "Wood",
+            "Glass"
           ],
-          "finish": "Polished"
+          "finish": "Natural wood texture, glossy glass finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Brown",
-          "Gray",
-          "Red"
+          "Grey",
+          "Green"
         ],
         "materials": [
           "Marble",
           "Wood",
-          "Glass",
-          "Metal"
+          "Glass"
         ],
-        "lighting": "Bright and even, with focused spotlights and ambient ceiling lights",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "Artificial lighting, spotlights, ambient light from the far room",
+        "texture": "Smooth marble tiles, glossy wood and glass surfaces"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, modern adaptation of traditional elements",
+        "regional_style": "Not explicitly regional",
         "traditional_elements": [
-          "Decorative glass panels with painted design"
+          "Wooden partition with glass inserts"
         ],
         "modern_adaptations": [
-          "Minimalistic design with contemporary lighting and materials"
+          "Integration of modern materials like marble and glass"
         ],
-        "space_utilization": "Efficient use of space with clear delineation between foyer and other areas",
-        "cultural_significance": "Decorative elements like the glass panel with painted design likely carry symbolic or aesthetic significance"
+        "space_utilization": "Open and spacious layout, multi-functional space",
+        "cultural_significance": "Traditional elements like the wooden partition with glass inserts reflect a blending of modern aesthetics with cultural motifs"
       }
     },
     "confidence_scores": {
@@ -70,21 +71,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image depicts a modern foyer with Indian design elements. The space features a partition with decorative glass panels, which appear to have a painted design, a common element in traditional Indian interiors. The flooring is marble, a material often used in Indian homes for its durability and aesthetic appeal. The lighting includes recessed spotlights and ambient ceiling lights, creating a bright and welcoming atmosphere. The overall design combines modern functionalism with traditional decorative touches, reflecting a contemporary interpretation of Indian interior design.",
+    "description": "The image depicts a modern Indian living area with a clean, open design. The space features a wooden partition with glass inserts, which adds a touch of sophistication and lightness. The floor is covered with glossy marble tiles, complementing the modern look. There is a built-in wooden cupboard with white cabinets that have glass inserts for a contemporary feel. The room is well-lit with artificial lighting and has a spacious feel. The overall design combines traditional Indian elements with modern adaptations, creating a harmonious and stylish space.",
     "metadata": {
       "tags": [
-        "Foyer",
-        "Modern Indian Design",
-        "Decorative Glass Panels",
-        "Marble Flooring",
-        "Contemporary Lighting"
+        "Modern Indian",
+        "Marble flooring",
+        "Wooden partition",
+        "Glass inserts",
+        "Contemporary design"
       ],
-      "budget_indicator": "Moderate to high, as it features marble flooring and decorative glass panels",
-      "space_type": "Residential",
-      "functionality": "Welcome area, likely leading to other residential spaces",
-      "indian_specific": "Decorative glass panels with painted designs, a common feature in traditional Indian interiors"
+      "budget_indicator": "Higher budget due to the use of marble and glass materials",
+      "space_type": "Living area",
+      "functionality": "Multi-functional space combining living and kitchen areas",
+      "indian_specific": "Wooden partition with glass inserts"
     }
   },
-  "cached_at": 1753957255953,
+  "cached_at": 1754489835301,
   "cache_key": "801cdef9f50d7f15242a6d6aea3beffc"
 }

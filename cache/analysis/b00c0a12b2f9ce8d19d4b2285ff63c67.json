@@ -3,97 +3,87 @@
   "analysis": {
     "image_id": "img_320",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Minimalist",
+      "room": "bedroom",
+      "theme": "modern minimal",
       "primary_features": [
-        "Built-in wardrobe",
-        "Bunk bed",
-        "Simple bedside table"
+        "wardrobe",
+        "table",
+        "window with curtain"
       ],
       "objects": [
         {
-          "type": "Built-in wardrobe",
+          "type": "wardrobe",
           "features": [
-            "White color",
-            "Modern design",
-            "Vented doors"
+            "white, sleek design with sliding doors"
           ],
           "materials": [
-            "MDF or wood"
+            "wood, possibly teak or MDF"
           ],
-          "finish": "Matte paint"
+          "finish": "polished, smooth surface"
         },
         {
-          "type": "Bunk bed",
+          "type": "bedside table",
           "features": [
-            "White color",
-            "Simple design",
-            "Metal frame"
+            "small, rectangular shape with drawer"
           ],
           "materials": [
-            "Metal"
+            "wood, possibly teak or MDF"
           ],
-          "finish": "Painted"
+          "finish": "polished, smooth surface"
         },
         {
-          "type": "Bedside table",
+          "type": "window",
           "features": [
-            "White color",
-            "Simple design",
-            "Drawers"
+            "large window with vertical blinds"
           ],
           "materials": [
-            "Wood"
+            "metal frame for blinds, fabric for curtain"
           ],
-          "finish": "Painted"
+          "finish": "metallic, fabric"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Beige",
-          "Brown"
+          "white, off-white, brown"
         ],
         "materials": [
-          "MDF, wood, metal"
+          "wood, metal, fabric"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth surfaces"
+        "lighting": "natural light from window, possibly augmented by artificial light",
+        "texture": "smooth surfaces, fabric texture"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [
-          "None"
-        ],
+        "regional_style": "modern minimal with no specific regional influences",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist furniture design, modern materials"
+          "use of wood in furniture, but minimal cultural elements"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture",
-        "cultural_significance": "Not applicable"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image depicts a minimalist bedroom with a built-in wardrobe, a bunk bed, and a simple bedside table. The overall design is modern with a focus on efficiency and cleanliness, lacking any traditional Indian elements or cultural significance. The use of white and beige colors, along with simple designs and modern materials like MDF and metal, reflects a contemporary approach to interior design. The space is organized for practicality and functionality, with built-in furniture for storage.",
-      "metadata": {
-        "tags": [
-          "Minimalist",
-          "Bedroom",
-          "Modern",
-          "Built-in furniture",
-          "Efficient space"
-        ],
-        "budget_indicator": "Moderate, with the use of modern materials but simple designs",
-        "space_type": "Residential",
-        "functionality": "Sleeping and storage",
-        "indian_specific": "None"
+        "space_utilization": "efficient use of space with wardrobe and table for practicality",
+        "cultural_significance": "no culturally significant or traditional elements present"
       }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.75,
+      "primary_features": 0.9,
+      "objects": 0.8,
+      "indian_context": 0.6
+    },
+    "description": "This image depicts a modern minimal bedroom with a sleek, white wardrobe and a small bedside table. The room features a large window with vertical blinds and a fabric curtain, allowing for natural light. The furniture, particularly the wardrobe and table, appears to be made of wood, likely teak or MDF, with a polished finish. There are no visible traditional Indian elements, making it a contemporary interpretation of a bedroom space.",
+    "metadata": {
+      "tags": [
+        "bedroom",
+        "modern minimal",
+        "wardrobe",
+        "bedside table",
+        "window with curtain"
+      ],
+      "budget_indicator": "mid-range, with visible use of wood and fabric in furniture and curtain",
+      "space_type": "residential bedroom",
+      "functionality": "storage and bedside table for practical needs",
+      "indian_specific": "modern minimal design with no Indian-specific features"
     }
   },
-  "cached_at": 1753460393773,
+  "cached_at": 1754495334145,
   "cache_key": "b00c0a12b2f9ce8d19d4b2285ff63c67"
 }

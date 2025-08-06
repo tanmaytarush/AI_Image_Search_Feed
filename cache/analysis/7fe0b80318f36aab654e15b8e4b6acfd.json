@@ -2,93 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1131/image_cropper_1729608597445.jpg",
   "analysis": {
     "image_id": "img_380",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1131/image_cropper_1729608597445.jpg",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Simplistic Modern with Traditional Elements",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Wall-mounted TV unit",
-        "Rounded door design",
-        "Wooden flooring",
-        "Framed wall art"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "TV Unit",
+          "type": "furniture",
           "features": [
-            "Rectangular shape",
-            "Open shelves with glass doors",
-            "Wooden frame"
+            "traditional_style"
           ],
           "materials": [
-            "Wood",
-            "Glass"
+            "wood",
+            "fabric"
           ],
-          "finish": "Polished wood and glossy glass"
-        },
-        {
-          "type": "Rounded Door",
-          "features": [
-            "Dark wood finish",
-            "Carved design on door panel"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Smooth, polished wood"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark brown wood",
-          "Light brown wood",
-          "Dark gray flooring",
-          "White wall",
-          "Multicolored framed art"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Glass",
-          "Metal",
-          "Marble"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light coming from outside the frame",
-        "texture": "Smooth wood surfaces, glossy glass, textured wall art"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Mughal-inspired",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Rounded door design",
-          "Carved wooden elements"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Simplistic modern lines with traditional motifs"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with a focus on openness",
-        "cultural_significance": "The rounded door and carved designs reflect Mughal architectural influences, symbolizing harmony and balance"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "This interior space features a modern design with traditional Indian influences, most notably in the rounded door design and carved wooden elements, reflecting a Mughal-inspired aesthetic. The living room includes a wall-mounted TV unit with glass doors and open shelves, complemented by dark wood flooring and framed wall art. The overall color palette is a blend of earthy tones with a touch of modern simplicity.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Indian interior design",
-        "Mughal architecture",
-        "Wooden furniture",
-        "Carved elements",
-        "Modern decor"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate to high, due to the use of polished wood, glass, and possibly marble",
-      "space_type": "Residential Living Room",
-      "functionality": "Entertainment and relaxation",
-      "indian_specific": "Rounded door design, carved wooden elements"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729608597445.jpg"
   },
-  "cached_at": 1753461121401,
+  "cached_at": 1754496083654,
   "cache_key": "7fe0b80318f36aab654e15b8e4b6acfd"
 }

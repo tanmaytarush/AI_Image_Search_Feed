@@ -1,0 +1,138 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00658.JPG",
+  "analysis": {
+    "image_id": "img_093",
+    "ai_generated_tags": {
+      "room": "Entrance Hall",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden paneling",
+        "Hexagonal mosaic tile wall",
+        "Wall-mounted shelves",
+        "Statues",
+        "Floral arrangements"
+      ],
+      "objects": [
+        {
+          "type": "Wooden cabinet",
+          "features": [
+            "Dark wood finish",
+            "Carved details",
+            "Single drawer"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Rustic dark wood"
+        },
+        {
+          "type": "Hexagonal mosaic tile",
+          "features": [
+            "Brown and gold hexagonal pattern",
+            "Geometric design"
+          ],
+          "materials": [
+            "Tiled mosaic"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wall-mounted shelves",
+          "features": [
+            "Built-in wooden shelves",
+            "Wooden finish",
+            "Lighting"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Statue",
+          "features": [
+            "Gold-colored",
+            "Divine figures",
+            "Detailed carvings"
+          ],
+          "materials": [
+            "Brass"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Floral arrangement",
+          "features": [
+            "Fresh flowers",
+            "Vase",
+            "Decorative design"
+          ],
+          "materials": [
+            "Plastic flowers",
+            "Clay pot",
+            "Porcelain vase"
+          ],
+          "finish": "Natural (flowers), Unglazed (pot), Smooth (vase)"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "Gold",
+          "White",
+          "Black",
+          "Golden",
+          "White"
+        ],
+        "materials": [
+          "Teak wood",
+          "Mosaic tiles",
+          "Brass",
+          "Clay",
+          "Porcelain",
+          "Marble"
+        ],
+        "lighting": "Natural light with recessed spotlights on shelves",
+        "texture": "Smooth (wood, tiles), glossy (statue, vase)"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Statues of Hindu deities",
+          "Wooden carvings"
+        ],
+        "modern_adaptations": [
+          "Hexagonal mosaic tiles",
+          "Modern shelving units"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves",
+        "cultural_significance": "Shrines and statues represent devotion and cultural heritage, often found in homes as a sign of tradition and spirituality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases an entrance hall with modern Indian design elements, featuring a dark wood-paneled wall, a hexagonal mosaic tile accent, and built-in wall shelves with decorative items and lighting. The inclusion of statues of Hindu deities and floral arrangements adds cultural and spiritual significance. The use of teak wood, brass, and marble reflects traditional materials adapted with contemporary aesthetics.",
+    "metadata": {
+      "tags": [
+        "entrance hall",
+        "modern Indian design",
+        "hexagonal tile",
+        "wooden cabinetry",
+        "statues",
+        "marble flooring",
+        "South Indian style"
+      ],
+      "budget_indicator": "Mid to high",
+      "space_type": "Residential",
+      "functionality": "Welcoming entrance with spiritual and decorative elements",
+      "indian_specific": "Statues of Hindu deities, use of teak wood, and traditional carvings"
+    }
+  },
+  "cached_at": 1754490815731,
+  "cache_key": "3a5a4f8ef4b7b6e737b9b430e28c8db0"
+}

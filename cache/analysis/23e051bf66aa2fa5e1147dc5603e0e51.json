@@ -3,63 +3,59 @@
   "analysis": {
     "image_id": "img_253",
     "ai_generated_tags": {
-      "room": "worship room",
-      "theme": "religious",
+      "room": "Prayer or Temple Hall",
+      "theme": "Indian Religious Interior",
       "primary_features": [
-        "god statue",
-        "prayer mat",
-        "altar"
+        "Altar with religious statue",
+        "Devotee standing in prayer",
+        "Wall painting with religious imagery"
       ],
       "objects": [
         {
-          "type": "god statue",
+          "type": "Religious Altar",
           "features": [
-            "carved, golden statue of a deity"
+            "Central statue",
+            "Offerings placed on the altar",
+            "Decorative elements around the statue"
           ],
           "materials": [
-            "gold leaf, wood"
+            "Marble or stone for the statue base",
+            "Wooden or metallic accents"
           ],
-          "finish": "polished, reflective"
+          "finish": "Polished surfaces on the altar"
         },
         {
-          "type": "altar",
+          "type": "Wall Painting",
           "features": [
-            "carved wooden structure with intricate details"
+            "Religious imagery and deities depicted"
           ],
           "materials": [
-            "wood, brass"
+            "Wallpaper or painted canvas"
           ],
-          "finish": "polished, glossy"
-        },
-        {
-          "type": "prayer mat",
-          "features": [
-            "simple, white mat"
-          ],
-          "materials": [
-            "cotton"
-          ],
-          "finish": "smooth"
+          "finish": "Rich, vibrant colors"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "gold, white, brown, red"
+          "Rich reds, golds, blues, and greens"
         ],
         "materials": [
-          "gold, wood, brass, cotton"
+          "Marble, stone, wood, metallic accents"
         ],
-        "lighting": "natural, bright lighting from a window",
-        "texture": "smooth, polished surfaces, intricate carvings"
+        "lighting": "Natural light filtering in, enhancing colors and details",
+        "texture": "Smooth surfaces on the altar and textured wall painting"
       },
       "indian_context": {
-        "regional_style": "northern India (Punjabi style)",
+        "regional_style": "Not explicitly identifiable",
         "traditional_elements": [
-          "god statue, altar, prayer mat"
+          "Religious altar",
+          "Wall paintings with deities"
         ],
-        "modern_adaptations": [],
-        "space_utilization": "efficient use of space for worship",
-        "cultural_significance": "religious significance, dedicated to honoring deities"
+        "modern_adaptations": [
+          "Minimal modern additions for functionality"
+        ],
+        "space_utilization": "Efficient use of space for prayer and meditation",
+        "cultural_significance": "Space is culturally significant for religious devotion and spiritual practices"
       }
     },
     "confidence_scores": {
@@ -69,21 +65,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image depicts a worship room in Northern India, featuring a beautifully carved golden god statue placed on a polished wooden altar. The room is lit by natural light, enhancing the reflective surfaces of the god statue and the altar. A simple prayer mat is placed before the altar, indicating a space designed for devotion and reverence. The design elements are typical of Northern India, with intricate carvings and a focus on the spiritual aspect of the room.",
+    "description": "This image depicts a prayer hall or temple interior, featuring a central altar with a religious statue, offerings, and a wall painting of deities. The space is adorned with traditional Indian decorative elements, emphasizing cultural and religious significance. The use of rich colors, marble, and wood suggests a well-maintained and culturally significant space.",
     "metadata": {
       "tags": [
-        "worship room",
-        "religious space",
-        "deity worship",
-        "Northern Indian design",
-        "gold leaf"
+        "Indian Temple Interior",
+        "Religious Altar",
+        "Wall Painting",
+        "Prayer Hall",
+        "India"
       ],
-      "budget_indicator": "affordable, using materials like brass and wood",
-      "space_type": "residential",
-      "functionality": "dedicated to prayer and worship",
-      "indian_specific": "use of traditional Indian materials and design elements"
+      "budget_indicator": "Moderate, with the use of materials like marble and metallic accents",
+      "space_type": "Residential Temple or Prayer Hall",
+      "functionality": "Primary purpose is for religious worship and meditation",
+      "indian_specific": "Prominent use of traditional religious elements and vibrant color palettes"
     }
   },
-  "cached_at": 1753459684484,
+  "cached_at": 1754494256471,
   "cache_key": "23e051bf66aa2fa5e1147dc5603e0e51"
 }

@@ -3,83 +3,70 @@
   "analysis": {
     "image_id": "img_178",
     "ai_generated_tags": {
-      "room": "Entryway",
+      "room": "Doorway",
       "theme": "Minimalist",
       "primary_features": [
-        "Arched door frame",
-        "Painted wall panel"
+        "Arched doorway",
+        "Purple-painted door",
+        "White wall"
       ],
       "objects": [
         {
           "type": "Door",
           "features": [
-            "Arch design",
-            "Light wood material"
+            "Arched design",
+            "Purple paint"
           ],
           "materials": [
-            "Light wood"
+            "Wood"
           ],
-          "finish": "Natural wood finish"
-        },
-        {
-          "type": "Wall panel",
-          "features": [
-            "Painted in purple",
-            "Rectangular shape"
-          ],
-          "materials": [
-            "Painted wall"
-          ],
-          "finish": "Smooth paint finish"
+          "finish": "Smooth"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Purple",
-          "White",
-          "Light wood brown"
+          "White"
         ],
         "materials": [
-          "Light wood",
-          "Paint"
+          "Wood"
         ],
         "lighting": "Natural light from window",
-        "texture": "Smooth surfaces"
+        "texture": "Smooth and clean"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [
-          "Arched door frame"
-        ],
+        "regional_style": "None",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Painted panel with modern color choice"
+          "Purple paint on traditional door design"
         ],
-        "space_utilization": "Simple and functional design",
-        "cultural_significance": "Arched door frames are traditional in Indian architecture, often seen in historical buildings, but not commonly in modern minimalist designs."
+        "space_utilization": "Simple and uncluttered",
+        "cultural_significance": "Arched doorways are often seen in Indian architecture, symbolizing transitions and the beginning of new experiences. The use of purple can be seen as a modern twist on traditional color choices."
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.75,
-        "primary_features": 0.85,
-        "objects": 0.88,
-        "indian_context": 0.6
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "This image shows a minimalist entryway with a light wood arched door frame and a rectangular painted wall panel in purple. The design elements are simple, with no traditional Indian motifs or materials used, indicating a modern interpretation. The use of color and smooth surfaces suggests a contemporary aesthetic.",
+      "description": "This image depicts a simple doorway in an Indian interior space. The arched design of the door is reminiscent of traditional elements, but the use of purple paint gives it a modern and contemporary feel. The white wall and natural light from the window add to the minimalist aesthetic. The cultural significance of the arched doorway is retained, symbolizing transition and new beginnings, while the modern adaptation in the form of the color choice reflects a contemporary design approach.",
       "metadata": {
         "tags": [
-          "Minimalist",
-          "Entryway",
-          "Arched door frame",
-          "Painted wall",
-          "Purple"
+          "Arched Doorway",
+          "Minimalist Design",
+          "Purple Door",
+          "White Wall",
+          "Traditional Inspiration",
+          "Modern Twist"
         ],
         "budget_indicator": "Moderate",
         "space_type": "Residential",
-        "functionality": "Primary purpose is to serve as an entrance and transition space.",
-        "indian_specific": "The arched door frame hints at a traditional architectural element."
+        "functionality": "Entrance/Transition Space",
+        "indian_specific": "Arched doorway design with a modern color choice"
       }
     }
   },
-  "cached_at": 1753449676516,
+  "cached_at": 1754492588051,
   "cache_key": "7cbb07c7d63f03b24261786fa9cc42fd"
 }

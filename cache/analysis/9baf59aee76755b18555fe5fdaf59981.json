@@ -2,90 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.24%20PM%20%281%29.jpeg",
   "analysis": {
     "image_id": "img_036",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.24%20PM%20%281%29.jpeg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Lacquered wardrobes",
-        "Built-in shelves",
-        "Polished floor tiles"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Lacquered wardrobe",
+          "type": "furniture",
           "features": [
-            "White and brown color combination",
-            "Hinged doors",
-            "Drawers at the bottom"
+            "traditional_style"
           ],
           "materials": [
-            "Lacquered wood, metal handles"
+            "wood",
+            "fabric"
           ],
-          "finish": "Glossy lacquered finish"
-        },
-        {
-          "type": "Built-in shelves",
-          "features": [
-            "Black color",
-            "Open shelving design",
-            "Integrated into the wall"
-          ],
-          "materials": [
-            "Wood, likely teak or plywood"
-          ],
-          "finish": "Smooth, polished"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Black",
-          "Off-white"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Lacquered wood",
-          "Metal",
-          "Teak or plywood",
-          "Polished tiles"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but likely from urban areas",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "None"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Use of lacquered finishes, modern shelving design"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with integrated furniture",
-        "cultural_significance": "No culturally significant elements, but reflects modern Indian design trends"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.9,
-        "objects": 0.92,
-        "indian_context": 0.8
-      },
-      "description": "This bedroom showcases a modern take on Indian interior design with lacquered wardrobes and built-in shelves. The space is well-organized with efficient use of space, featuring a color palette of white, brown, and black. The lacquered finish on the wardrobes is a common modern adaptation, reflecting contemporary Indian design trends. The built-in shelves provide additional storage and blend seamlessly with the overall aesthetic.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Bedroom",
-          "Lacquered finishes",
-          "Integrated furniture",
-          "Urban design"
-        ],
-        "budget_indicator": "Moderate, due to lacquered finishes and well-made wooden furniture",
-        "space_type": "Residential bedroom",
-        "functionality": "Storage and organization",
-        "indian_specific": "Use of lacquered finishes, efficient space utilization"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "WhatsApp%20Image%202023-04-10%20at%209.47.24%20PM%20%281%29.jpeg"
   },
-  "cached_at": 1753957197459,
+  "cached_at": 1754489381011,
   "cache_key": "9baf59aee76755b18555fe5fdaf59981"
 }

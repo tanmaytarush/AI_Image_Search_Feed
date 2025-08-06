@@ -3,87 +3,47 @@
   "analysis": {
     "image_id": "img_155",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Indian",
+      "room": "Unknown",
+      "theme": "Modern",
       "primary_features": [
-        "Comfortable seating",
-        "Television",
-        "Smartphone"
+        "Blue shirt"
       ],
-      "objects": [
-        {
-          "type": "Television",
-          "features": [
-            "Flat-screen design",
-            "Modern look"
-          ],
-          "materials": [
-            "Metal frame",
-            "Glass panel"
-          ],
-          "finish": "Polished metal and glossy glass"
-        },
-        {
-          "type": "Smartphone",
-          "features": [
-            "Modern smartphone design",
-            "Thin profile"
-          ],
-          "materials": [
-            "Metal frame",
-            "Glass screen"
-          ],
-          "finish": "Metallic and glass"
-        }
-      ],
+      "objects": [],
       "visual_attributes": {
         "colors": [
-          "Blue",
-          "Black",
-          "White"
+          "Blue"
         ],
-        "materials": [
-          "Metal",
-          "Glass",
-          "Plastic"
-        ],
-        "lighting": "Indirect lighting from ceiling",
-        "texture": "Smooth and sleek finish"
+        "materials": [],
+        "lighting": "Unknown",
+        "texture": "Unknown"
       },
       "indian_context": {
-        "regional_style": "Global Indian",
-        "traditional_elements": [
-          "Minimal traditional influence"
-        ],
-        "modern_adaptations": [
-          "Integration of modern technology and minimalism in traditional colors"
-        ],
-        "space_utilization": "Efficient use of space with minimal traditional elements",
-        "cultural_significance": "Cultural relevance through color choice (blue often symbolizes trust and loyalty in Indian culture)"
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.72,
-        "primary_features": 0.8,
-        "objects": 0.9,
-        "indian_context": 0.6
-      },
-      "description": "This space appears to be a modern Indian living room, designed with a mix of traditional and contemporary elements. The room features a flat-screen television and a smartphone, both with modern designs. The color palette of blue, black, and white is common in Indian interiors and often symbolizes trust and loyalty. The furniture and materials used are sleek, with metal and glass being the primary materials, reflecting a modern Indian aesthetic. The space is organized efficiently, focusing on functionality with minimal traditional elements.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Living Room",
-          "Flat-Screen TV",
-          "Smartphone",
-          "Blue Color Scheme"
-        ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential Living Room",
-        "functionality": "Entertainment and relaxation",
-        "indian_specific": "Modern interpretation of traditional colors and minimalism"
+        "regional_style": "Unknown",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Unknown",
+        "cultural_significance": "No cultural elements observed"
       }
+    },
+    "confidence_scores": {
+      "room": 0.75,
+      "theme": 0.65,
+      "primary_features": 0.72,
+      "objects": 0.45,
+      "indian_context": 0.5
+    },
+    "description": "The image appears to be a close-up of a person wearing a blue shirt. There are no visible interior design elements, furniture, or cultural decorations to analyze.",
+    "metadata": {
+      "tags": [
+        "person",
+        "blue shirt"
+      ],
+      "budget_indicator": "Unknown",
+      "space_type": "Unknown",
+      "functionality": "Unknown",
+      "indian_specific": "No Indian-specific design features visible"
     }
   },
-  "cached_at": 1753449344363,
+  "cached_at": 1754492027402,
   "cache_key": "ae21a815fb849a91b10c8a5db338cda3"
 }

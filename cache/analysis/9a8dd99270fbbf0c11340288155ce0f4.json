@@ -4,88 +4,87 @@
     "image_id": "img_193",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Minimalist with Indian Influences",
+      "theme": "Modern Indian Kitchen",
       "primary_features": [
         "Light blue cabinetry",
-        "White countertops",
-        "Pink accents"
+        "Marble countertop",
+        "Stainless steel handles"
       ],
       "objects": [
         {
           "type": "Cabinet",
           "features": [
-            "Light blue",
-            "Modern design",
-            "Integrated handles"
+            "Light blue color",
+            "Sleek design",
+            "Cabinet handles"
           ],
           "materials": [
-            "Wood",
-            "Painted finish"
+            "Painted wood or MDF",
+            "Marble"
           ],
-          "finish": "Smooth, glossy finish"
+          "finish": "Sleek and smooth finish on both cabinets and countertop"
         },
         {
           "type": "Countertop",
           "features": [
-            "White",
-            "Clean surface"
+            "Marble material",
+            "Smooth surface",
+            "Integrated stainless steel handles"
           ],
           "materials": [
-            "Stone or laminate"
+            "Marble"
           ],
-          "finish": "Polished, smooth texture"
+          "finish": "Polished marble finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Light blue",
-          "White",
-          "Pink",
-          "Brown"
+          "Gray",
+          "White"
         ],
         "materials": [
-          "Wood",
-          "Stone",
-          "Metal"
+          "Painted wood/MDF",
+          "Marble",
+          "Stainless steel"
         ],
-        "lighting": "Natural light from window, soft, even lighting",
-        "texture": "Smooth, glossy surfaces on cabinets, polished stone countertops"
+        "lighting": "Natural light from window",
+        "texture": "Smooth and clean surfaces"
       },
       "indian_context": {
-        "regional_style": "Minimalist with elements of North Indian design",
+        "regional_style": "Not prominent, as the design is modern with Indian influences",
         "traditional_elements": [
-          "Light blue color often seen in North Indian homes"
+          "None prominent in this design"
         ],
         "modern_adaptations": [
-          "Merge of traditional and modern design elements"
+          "Use of modern materials like marble and stainless steel with traditional colors"
         ],
-        "space_utilization": "Efficient use of space with integrated cabinetry",
-        "cultural_significance": "Light blue may symbolize serenity and calm in North Indian culture"
+        "space_utilization": "Efficient use of space with clean lines and minimalistic design",
+        "cultural_significance": "Colors like light blue and white can symbolize cleanliness and calmness, common in modern Indian homes"
       },
       "confidence_scores": {
-        "room": 0.9,
-        "theme": 0.85,
-        "primary_features": 0.85,
-        "objects": 0.88,
-        "indian_context": 0.83
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "A modern kitchen with a clean, minimalist design featuring light blue cabinetry with integrated handles, white countertops, and pink accents. The space utilizes a blend of traditional and contemporary elements, reflecting a subtle Indian influence, particularly in the choice of light blue as a color scheme. The design maximizes space efficiency and incorporates a touch of cultural relevance in the color choice.",
+      "description": "This modern Indian kitchen features light blue cabinetry and a marble countertop, showcasing a blend of traditional color palettes with contemporary design elements. The clean lines and minimalistic approach highlight a space that is both functional and aesthetically pleasing, reflecting a modern interpretation of Indian design principles.",
       "metadata": {
         "tags": [
-          "Kitchen",
-          "Minimalist",
-          "Indian Influences",
-          "Light Blue",
-          "White",
-          "Pink"
+          "Modern Indian Kitchen",
+          "Light Blue Cabinets",
+          "Marble Countertop",
+          "Minimalist Design",
+          "Indian Interior"
         ],
-        "budget_indicator": "Budget level appears moderate, with modern materials and finishes.",
-        "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is for food preparation and storage, with a focus on practicality and aesthetics.",
-        "indian_specific": "Light blue color and minimalistic approach with a hint of North Indian design"
+        "budget_indicator": "Mid-range, as it combines both traditional and modern materials",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Light blue and white color palette, minimalistic design"
       }
     }
   },
-  "cached_at": 1753459154807,
+  "cached_at": 1754492882184,
   "cache_key": "9a8dd99270fbbf0c11340288155ce0f4"
 }

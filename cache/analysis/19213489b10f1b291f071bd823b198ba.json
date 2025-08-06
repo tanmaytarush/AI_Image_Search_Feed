@@ -3,112 +3,98 @@
   "analysis": {
     "image_id": "img_252",
     "ai_generated_tags": {
-      "room": "Master Bedroom",
-      "theme": "Contemporary Indian with Traditional Influences",
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Double bed with a carved headboard",
-        "wooden wardrobe",
-        "wooden floor",
-        "ceiling lights",
-        "fitted bedspread",
-        "wooden furniture",
-        "mirror above the wardrobe"
+        "Wooden bed with intricate carvings",
+        "Built-in wardrobe",
+        "Wooden bench",
+        "Minimalist lighting",
+        "White bedspread"
       ],
       "objects": [
         {
-          "type": "Double bed",
+          "type": "Bed",
           "features": [
-            "Carved wooden headboard with intricate designs",
-            "Fitted bedspread with gold embroidery"
+            "Has a wooden frame with detailed carvings",
+            "Covered with a white bedspread"
           ],
           "materials": [
-            "Wood",
-            "Fabric"
+            "Wood"
           ],
-          "finish": "Carved wood with polished finish, fabric with intricate embroidery"
+          "finish": "Polished wood with a glossy finish"
         },
         {
           "type": "Wardrobe",
           "features": [
-            "Wooden with mirrored doors",
-            "Carved wooden frame around the mirror"
+            "Built-in wooden structure with sliding doors"
           ],
           "materials": [
-            "Wood",
-            "Mirror"
+            "Wood"
           ],
-          "finish": "Wooden with polished finish, mirror with metallic frame"
+          "finish": "Polished wood with a glossy finish"
         },
         {
-          "type": "Wooden furniture",
+          "type": "Bench",
           "features": [
-            "Carved wooden bench",
-            "Wooden table with a glass top"
+            "Wooden with a rectangular shape"
           ],
           "materials": [
-            "Wood",
-            "Glass"
+            "Wood"
           ],
-          "finish": "Carved wood with polished finish, glass top with polished metal"
+          "finish": "Polished wood with a glossy finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (wood)",
-          "White (bedspread)",
-          "Gold (embroidery)",
-          "Black (wall)",
-          "Gray (ceiling lights)"
+          "White",
+          "Brown",
+          "Black",
+          "Light brown"
         ],
         "materials": [
           "Wood",
-          "Fabric",
-          "Glass",
-          "Metal"
+          "Metal",
+          "Paint"
         ],
-        "lighting": "Ambient ceiling lights with warm lighting",
-        "texture": "Carved wood textures, smooth fabric, reflective glass"
+        "lighting": "Soft under-bed lighting and recessed ceiling lights",
+        "texture": "Smooth surfaces on the furniture, glossy wood finish, and painted walls"
       },
       "indian_context": {
-        "regional_style": "North Indian (Himachal Pradesh)",
+        "regional_style": "This image does not reflect a specific regional style but includes elements commonly found in Indian interiors, such as the carved bed frame and built-in wardrobe.",
         "traditional_elements": [
-          "Carved wooden headboard",
-          "Wooden wardrobe with mirrored doors",
-          "Carved wooden bench",
-          "Woven textiles"
+          "Wooden carved bed frame",
+          "Built-in wardrobe"
         ],
         "modern_adaptations": [
-          "Contemporary lighting fixtures",
-          "Teak wood finish"
+          "Minimalist lighting and contemporary furniture design"
         ],
-        "space_utilization": "Efficient use of space with a focus on storage and comfort",
-        "cultural_significance": "The use of wood and intricate carvings reflects the regional craftsmanship and cultural heritage of the area"
+        "space_utilization": "The space is organized with efficient use of space, utilizing a built-in wardrobe and a bench for seating or storage.",
+        "cultural_significance": "The carved wooden bed frame reflects traditional craftsmanship and could be indicative of a family's pride in their heritage. The built-in wardrobe is a modern adaptation to keep spaces organized."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This bedroom showcases a blend of contemporary and traditional Indian design elements. The carved wooden bed frame with intricate designs is a traditional feature, while the built-in wardrobe and minimalist lighting reflect modern adaptations. The room is organized effectively, with the bed frame and wardrobe providing a sense of symmetry and balance. The use of wood in the furniture, along with the glossy finish, adds a touch of elegance and warmth to the space.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Contemporary design",
+          "Wooden furniture",
+          "Built-in wardrobe",
+          "Carved bed frame"
+        ],
+        "budget_indicator": "Moderate, as the use of polished wood and minimal lighting suggests a mid-range budget.",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose is for rest and relaxation, with additional storage provided by the built-in wardrobe.",
+        "indian_specific": "The carved wooden bed frame and built-in wardrobe are key Indian-specific design features visible in this image."
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The space is a master bedroom that blends contemporary and traditional Indian design elements. The master suite features a double bed with a carved wooden headboard, a wooden wardrobe with mirrored doors, and a wooden floor. The room includes a wooden bench and a glass-top table, all with polished finishes. The color palette is dominated by the warm tones of wood, complemented by white and gold accents. The room is well-lit with ambient ceiling lights, creating a cozy and inviting atmosphere. The design elements reflect the cultural significance of woodcraft and craftsmanship in North Indian regions.",
-    "metadata": {
-      "tags": [
-        "Master Bedroom",
-        "Contemporary Indian",
-        "Wooden Furniture",
-        "Carved Headboard",
-        "Mirrored Wardrobe",
-        "North Indian Design",
-        "Craftsmanship"
-      ],
-      "budget_indicator": "High, due to the use of high-quality materials like wood and glass",
-      "space_type": "Residential",
-      "functionality": "Sleeping and relaxation",
-      "indian_specific": "Intricate woodcarvings and polished wood finishes"
     }
   },
-  "cached_at": 1753459667836,
+  "cached_at": 1754494238393,
   "cache_key": "19213489b10f1b291f071bd823b198ba"
 }

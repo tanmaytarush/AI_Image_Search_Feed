@@ -6,95 +6,93 @@
       "room": "Bedroom",
       "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Bed with white headboard",
-        "Sliding wardrobes with black and gold accents",
-        "Window seat with laptop and books",
-        "Bulb-shaped table lamp",
-        "Black and white rug"
+        "Large wardrobe with sliding doors",
+        "Desk and chair setup",
+        "Bed with patterned bedding",
+        "Wooden slats for wall decor"
       ],
       "objects": [
         {
+          "type": "Furniture",
+          "features": [
+            "Modern design with sleek lines",
+            "Combination of white and wood tones"
+          ],
+          "materials": [
+            "Wood",
+            "Metal",
+            "Painted surfaces"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Sliding Wardrobe",
+          "features": [
+            "Large size",
+            "Black and white color scheme with gold accents"
+          ],
+          "materials": [
+            "Painted surfaces",
+            "Metal hardware"
+          ],
+          "finish": "Glossy and reflective"
+        },
+        {
+          "type": "Desk and Chair",
+          "features": [
+            "Compact setup",
+            "Modern design with wheels"
+          ],
+          "materials": [
+            "Wood",
+            "Metal",
+            "Cushioned seat"
+          ],
+          "finish": "Smooth and polished"
+        },
+        {
           "type": "Bed",
           "features": [
-            "White upholstered headboard",
-            "Patterned cushions",
-            "Black and white bedding"
+            "Queen size",
+            "Modern headboard",
+            "Patterned bedding"
           ],
           "materials": [
             "Fabric",
-            "Faux fur"
-          ],
-          "finish": "Soft, textured surfaces"
-        },
-        {
-          "type": "Sliding Wardrobes",
-          "features": [
-            "Black and gold paneling",
-            "Modern sliding doors"
-          ],
-          "materials": [
-            "Wood",
-            "Metal"
-          ],
-          "finish": "Textured, possibly lacquered"
-        },
-        {
-          "type": "Window Seat",
-          "features": [
-            "Built-in bench",
-            "Wooden backrest",
-            "White countertop"
-          ],
-          "materials": [
-            "Wood",
-            "Metal"
-          ],
-          "finish": "Sleek, polished"
-        },
-        {
-          "type": "Bulb-shaped Table Lamp",
-          "features": [
-            "White lampshade",
-            "Wooden base"
-          ],
-          "materials": [
-            "Plastic",
             "Wood"
           ],
-          "finish": "Glossy, matte"
+          "finish": "Textured and quilted"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
           "Black",
+          "White",
           "Gold",
-          "Brown",
-          "Gray",
-          "Beige"
+          "Grey",
+          "Brown"
         ],
         "materials": [
           "Wood",
           "Metal",
-          "Fabric",
-          "Plastic",
-          "Lacquer"
+          "Painted surfaces",
+          "Fabric"
         ],
-        "lighting": "Natural light from large window, artificial light from bulb lamp",
-        "texture": "Mix of smooth and textured surfaces"
+        "lighting": "Natural light from the window, no visible artificial lighting",
+        "texture": "Smooth, glossy, and quilted textures"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional Indian style visible, more contemporary with subtle influences",
+        "regional_style": "Not indicative of a specific regional style",
         "traditional_elements": [
-          "Carved wood effect in sliding doors",
-          "Textured black and white fabric elements"
+          "Traditional patterns on bedding",
+          "Wooden slats for wall decor"
         ],
         "modern_adaptations": [
-          "Contemporary wardrobe design",
-          "Sleek furniture finishes"
+          "Contemporary furniture with Indian influences",
+          "Use of metallic accents"
         ],
-        "space_utilization": "Efficient use of space with a built-in window seat and open shelving",
-        "cultural_significance": "The use of black and gold accents is often associated with Indian aesthetics, especially in traditional designs"
+        "space_utilization": "Efficient use of space with a desk and wardrobe integrated into the room",
+        "cultural_significance": "Indian elements are subtly integrated into a modern design aesthetic, reflecting a blend of tradition and contemporary living"
       }
     },
     "confidence_scores": {
@@ -104,22 +102,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image depicts a modern bedroom with subtle Indian design influences. The room features a contemporary design with a mix of sleek, polished materials and traditional Indian accents like the black and gold sliding doors. The space is efficiently organized with a built-in window seat and open shelving, combining functionality with aesthetic appeal. The use of black and gold detailing, as well as the textured fabric elements, reflects a modern interpretation of traditional Indian design elements.",
+    "description": "The interior space is a modern bedroom with a touch of Indian design influences. The room features a large wardrobe with sliding doors adorned in black and white with gold accents, a compact desk setup with a modern chair, and a queen-sized bed with a patterned bedspread. The walls are decorated with vertical wooden slats, and the overall color palette includes black, white, gold, grey, and brown. The design is contemporary with subtle Indian elements like traditional patterns on the bedding and wooden slats, reflecting a blend of tradition and modern living.",
     "metadata": {
       "tags": [
-        "Modern",
         "Contemporary",
+        "Indian Influences",
         "Bedroom",
-        "Black and Gold",
-        "Indian Influence",
-        "Efficient Space Utilization"
+        "Modern Design",
+        "Glossy Finishes",
+        "Wooden Slats"
       ],
-      "budget_indicator": "Mid-range to high, with the use of polished materials and contemporary design",
+      "budget_indicator": "Moderate",
       "space_type": "Residential Bedroom",
-      "functionality": "Primary use for sleeping and possibly working or studying, with a built-in window seat for additional use",
-      "indian_specific": "Subtle use of black and gold accents, traditional fabric textures"
+      "functionality": "Storage and workspace",
+      "indian_specific": "Subtle incorporation of traditional elements"
     }
   },
-  "cached_at": 1753459548023,
+  "cached_at": 1754493629023,
   "cache_key": "364a3c98f3f0ba5ae7730e087027e88b"
 }

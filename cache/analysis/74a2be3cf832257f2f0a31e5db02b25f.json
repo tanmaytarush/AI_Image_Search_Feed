@@ -4,62 +4,49 @@
     "image_id": "img_238",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Modern Indian",
+      "theme": "Contemporary Indian",
       "primary_features": [
         "White walls",
-        "Light-colored wooden floor",
-        "Modern minimalist furniture",
-        "Open shelving unit",
-        "Wall-mounted air conditioner"
+        "Light gray floor tiles",
+        "Modern minimalist design"
       ],
       "objects": [
         {
-          "type": "Wall-mounted air conditioner",
+          "type": "Modern Console Table",
           "features": [
-            "Rectangular design",
-            "Built into the wall"
+            "Compact size",
+            "Rectangular shape",
+            "Simple lines"
           ],
           "materials": [
+            "Wood",
             "Metal"
           ],
-          "finish": "Polished metal"
-        },
-        {
-          "type": "Open shelving unit",
-          "features": [
-            "Built-in storage",
-            "Light-colored wooden finish",
-            "Modern design"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Light wood finish"
+          "finish": "Smooth, glossy finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Light brown",
-          "Black"
+          "Light gray",
+          "Brown"
         ],
         "materials": [
           "Wood",
           "Metal",
-          "Glass"
+          "Tile"
         ],
-        "lighting": "Natural light from windows, artificial light from ceiling",
-        "texture": "Smooth surfaces"
+        "lighting": "Natural light from the window, diffused lighting from the ceiling",
+        "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Not clearly regional",
+        "regional_style": "",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Use of modern furniture and materials",
-          "Integrating traditional elements in a minimalist way"
+          "Minimalist design with Indian influences"
         ],
-        "space_utilization": "Minimalist design with an open shelving unit for storage and a wall-mounted air conditioner",
-        "cultural_significance": "Modern Indian design reflecting contemporary lifestyle with a touch of traditional Indian aesthetics"
+        "space_utilization": "Open layout with efficient use of space",
+        "cultural_significance": "Contemporary adaptation of minimalist design for modern living spaces"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -68,21 +55,21 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This image depicts a modern Indian living room with a minimalist design. The room features white walls, a light-colored wooden floor, and a built-in shelving unit for storage. The wall-mounted air conditioner adds a modern touch. The space is designed with open shelving and simple, clean lines, reflecting a contemporary Indian design approach that integrates traditional elements in a modern way.",
+      "description": "A modern Indian living room with a minimalist design. The space features a compact console table with a wood and metal finish, white walls, and light gray floor tiles. The design incorporates contemporary elements while subtly hinting at Indian aesthetic influences.",
       "metadata": {
         "tags": [
           "Modern Indian",
-          "Minimalist Design",
-          "Living Room",
-          "Wall-Mounted AC"
+          "Minimalist Living Room",
+          "Compact Console Table",
+          "White Walls"
         ],
-        "budget_indicator": "Moderate, with the use of quality materials like wood and metal for the air conditioner",
-        "space_type": "Residential",
-        "functionality": "Living Room",
-        "indian_specific": "Modern adaptation of traditional Indian design elements"
+        "budget_indicator": "Moderate, with a mix of natural wood and metal finishes",
+        "space_type": "Living Room",
+        "functionality": "Living and entertaining area",
+        "indian_specific": "Contemporary adaptation of minimalist design with Indian influences"
       }
     }
   },
-  "cached_at": 1753459567292,
+  "cached_at": 1754493841770,
   "cache_key": "74a2be3cf832257f2f0a31e5db02b25f"
 }

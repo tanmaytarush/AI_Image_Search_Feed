@@ -4,85 +4,74 @@
     "image_id": "img_108",
     "ai_generated_tags": {
       "room": "Staircase",
-      "theme": "Contemporary",
+      "theme": "Modern",
       "primary_features": [
-        "Sleek staircase",
-        "Glass balustrade",
-        "Minimalist design"
+        "Curved staircase",
+        "Wooden handrail",
+        "White walls",
+        "Glass panels"
       ],
       "objects": [
         {
           "type": "Staircase",
           "features": [
             "Curved design",
-            "Light-colored steps",
-            "White risers"
-          ],
-          "materials": [
-            "Painted wood",
-            "Glass"
-          ],
-          "finish": "Smooth, glossy finish"
-        },
-        {
-          "type": "Balustrade",
-          "features": [
-            "Curved wooden handrail",
-            "Glass panels"
+            "White treads",
+            "Wooden handrail"
           ],
           "materials": [
             "Wood",
+            "Concrete",
             "Glass"
           ],
-          "finish": "Polished wood, clear glass"
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Clear",
-          "Brown"
+          "Brown",
+          "Clear"
         ],
         "materials": [
-          "Painted wood",
-          "Glass",
-          "Metal"
+          "Wood",
+          "Concrete",
+          "Glass"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth surfaces"
+        "lighting": "Natural light from glass panels",
+        "texture": "Smooth surfaces with glossy finishes"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist design with Indian influences"
+          "Curved staircase design"
         ],
-        "space_utilization": "Efficient use of vertical space",
-        "cultural_significance": "No direct cultural relevance observed"
+        "space_utilization": "Optimized space with minimalistic design",
+        "cultural_significance": "No traditional Indian elements present"
       },
       "confidence_scores": {
-        "room": 0.75,
-        "theme": 0.85,
+        "room": 0.85,
+        "theme": 0.75,
         "primary_features": 0.9,
-        "objects": 0.7,
-        "indian_context": 0.5
+        "objects": 0.88,
+        "indian_context": 0.65
       },
-      "description": "The image depicts a modern staircase with a minimalist design, featuring a sleek curved staircase with light-colored steps and a glass balustrade. The handrail is made of polished wood, and the panels are clear glass, creating a contemporary look. The space is well-lit with natural light coming from a nearby window.",
+      "description": "The image depicts a modern staircase with a curved design, featuring a wooden handrail and white treads. The walls are painted white, and large glass panels allow natural light to flood the space. The design is minimalist and lacks traditional Indian elements, focusing on contemporary style.",
       "metadata": {
         "tags": [
-          "Staircase",
+          "Modern staircase",
+          "Curved design",
           "Minimalist",
-          "Glass",
-          "Modern",
-          "Interior Design"
+          "Glass panels"
         ],
-        "budget_indicator": "Moderate",
+        "budget_indicator": "Mid-range",
         "space_type": "Residential",
-        "functionality": "Access to upper level",
-        "indian_specific": "No traditional Indian design features visible"
+        "functionality": "Access to upper levels",
+        "indian_specific": "No Indian-specific design features"
       }
     }
   },
-  "cached_at": 1753448329754,
+  "cached_at": 1754491175330,
   "cache_key": "ccdb5bf8ddde245df704a2d940d2d3a9"
 }

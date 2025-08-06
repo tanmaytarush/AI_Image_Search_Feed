@@ -4,92 +4,103 @@
     "image_id": "img_058",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian Residential Kitchen",
+      "theme": "Modern Indian",
       "primary_features": [
-        "U-shaped cabinets",
+        "L-shaped cabinetry",
         "Pink and white color scheme",
-        "Marble countertops",
-        "Wall tiles with a pattern"
+        "Black countertops",
+        "Marble backsplash",
+        "Cabinet with glass panels",
+        "Built-in storage"
       ],
       "objects": [
         {
-          "type": "Cabinets",
+          "type": "Kitchen cabinets",
           "features": [
-            "Pink glossy finish",
-            "U-shaped layout",
-            "Under-cabinet lighting"
+            "L-shaped design",
+            "Pink and white panels",
+            "Glass panel doors on upper cabinets"
           ],
           "materials": [
-            "Acrylic or MDF with a glossy finish"
+            "Pink wood",
+            "White panels",
+            "Glass"
           ],
-          "finish": "Pink glossy finish with a smooth texture"
+          "finish": "Glossy"
         },
         {
           "type": "Countertops",
           "features": [
-            "Marble-like appearance",
-            "Dark color with light speckles"
+            "Black granite",
+            "Smooth surface"
           ],
           "materials": [
-            "Artificial stone or laminate"
+            "Granite"
           ],
-          "finish": "Textured surface with a polished finish"
+          "finish": "Polished"
         },
         {
           "type": "Backsplash",
           "features": [
-            "White tiles with a geometric pattern"
+            "Marble tiles",
+            "Patterned design"
           ],
           "materials": [
-            "Ceramic tiles"
+            "Marble"
           ],
-          "finish": "Smooth and glossy"
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Pink, white, dark gray"
+          "Pink",
+          "White",
+          "Black",
+          "Marble grey"
         ],
         "materials": [
-          "Acrylic/MDF, marble, ceramic tiles"
+          "Wood",
+          "Glass",
+          "Granite",
+          "Marble"
         ],
-        "lighting": "Under-cabinet lighting, natural light from the window",
-        "texture": "Glossy surfaces on cabinets and countertops, smooth tiles"
+        "lighting": "Artificial light from ceiling",
+        "texture": "Smooth surfaces on cabinets and countertops, marble texture on backsplash"
       },
       "indian_context": {
-        "regional_style": "Regional influence not explicitly visible in this image",
+        "regional_style": "Not clear, seems modern Indian",
         "traditional_elements": [
-          "No traditional Indian elements present"
+          "Not traditional Indian elements present"
         ],
         "modern_adaptations": [
-          "Modern interpretation of Indian design with bright colors and clean lines"
+          "Glossy finishes, L-shaped cabinets, granite countertops"
         ],
-        "space_utilization": "Highly functional with optimized storage and counter space",
-        "cultural_significance": "Bright colors and modern design may reflect contemporary trends rather than traditional cultural elements"
+        "space_utilization": "Optimized with L-shaped cabinetry for efficient storage and workspace",
+        "cultural_significance": "The color pink is seen in modern Indian homes, often symbolizing joy and happiness"
       },
       "confidence_scores": {
         "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.88,
-        "objects": 0.9,
-        "indian_context": 0.8
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "This kitchen features a modern Indian design aesthetic with a U-shaped layout of pink and white glossy cabinets, marble countertops, and a geometric patterned backsplash. The space is functional and optimized for storage, with under-cabinet lighting adding a contemporary touch. There are no traditional Indian elements visible, but the use of bright pink and clean lines is indicative of modern interpretations of Indian design.",
+      "description": "The interior space is a modern kitchen with L-shaped cabinetry featuring glossy pink and white panels. The kitchen includes glass panel doors on upper cabinets, black granite countertops, and a marble backsplash with a patterned design. The space is well-lit with artificial light from the ceiling, and the walls are white with a decorative tile border. The overall design is contemporary with touches of traditional Indian aesthetics, such as the use of pink in modern decor. The space is designed for efficient storage and functionality with a focus on contemporary Indian design elements.",
       "metadata": {
         "tags": [
-          "Modern Indian Kitchen",
-          "Pink Kitchen",
-          "U-shaped Cabinets",
-          "Marble Countertops",
-          "Glossy Finish"
+          "Modern Indian kitchen",
+          "Pink and white cabinetry",
+          "Black granite countertops",
+          "Marble backsplash",
+          "Glossy finish"
         ],
-        "budget_indicator": "Mid-range to high due to glossy finishes and possibly premium materials like marble",
-        "space_type": "Residential Multi-Room Kitchen",
-        "functionality": "Primary function is food preparation with optimized storage and counter space",
-        "indian_specific": "Bright pink and white color scheme reflects a modern Indian design trend rather than traditional elements"
+        "budget_indicator": "Moderate to high, due to the use of glossy finishes and granite countertops",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is to serve as a functional and stylish kitchen space",
+        "indian_specific": "Pink color is a modern Indian element, often used in contemporary home decor"
       }
     }
   },
-  "cached_at": 1753957333837,
+  "cached_at": 1754489976617,
   "cache_key": "a37d078ff53a91b11c5c408d5b9f0fed"
 }

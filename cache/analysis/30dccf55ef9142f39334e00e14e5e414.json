@@ -3,63 +3,64 @@
   "analysis": {
     "image_id": "img_132",
     "ai_generated_tags": {
-      "room": "N/A",
-      "theme": "N/A",
+      "room": "Outdoor",
+      "theme": "Casual",
       "primary_features": [
-        "N/A"
+        "Outdoor seating area with plants"
       ],
       "objects": [
         {
-          "type": "N/A",
+          "type": "Outdoor seating",
           "features": [
-            "N/A"
+            "wooden furniture with cushioned seats"
           ],
           "materials": [
-            "N/A"
+            "Wood, fabric"
           ],
-          "finish": "N/A"
+          "finish": "Natural wood finish, cushioned upholstery"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "N/A"
+          "Green, brown, beige"
         ],
         "materials": [
-          "N/A"
+          "Wood, fabric, greenery"
         ],
-        "lighting": "N/A",
-        "texture": "N/A"
+        "lighting": "Natural sunlight",
+        "texture": "Textured cushions, smooth wood, natural foliage"
       },
       "indian_context": {
-        "regional_style": "N/A",
-        "traditional_elements": [
-          "N/A"
-        ],
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "N/A"
+          "Modern furniture design with traditional materials"
         ],
-        "space_utilization": "N/A",
-        "cultural_significance": "N/A"
+        "space_utilization": "Semi-open space with seating arrangement",
+        "cultural_significance": "Not applicable"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.9,
+        "primary_features": 0.88,
+        "objects": 0.92,
+        "indian_context": 0.85
+      },
+      "description": "The image shows an outdoor seating area with wood and fabric furniture, surrounded by greenery. The space appears to be in a casual setting, likely a patio or garden, with natural light illuminating the scene.",
+      "metadata": {
+        "tags": [
+          "Outdoor seating",
+          "casual setting",
+          "natural materials",
+          "simple decor"
+        ],
+        "budget_indicator": "Moderate, considering the materials used.",
+        "space_type": "Residential outdoor space",
+        "functionality": "Relaxation and socializing in an outdoor environment",
+        "indian_specific": "Traditional materials like wood are used in a modern context"
       }
-    },
-    "confidence_scores": {
-      "room": 0,
-      "theme": 0,
-      "primary_features": 0,
-      "objects": 0,
-      "indian_context": 0
-    },
-    "description": "The image appears to be a portrait of a person, not an interior space, making it impossible to analyze Indian interior design elements.",
-    "metadata": {
-      "tags": [
-        "N/A"
-      ],
-      "budget_indicator": "N/A",
-      "space_type": "N/A",
-      "functionality": "N/A",
-      "indian_specific": "N/A"
     }
   },
-  "cached_at": 1753448881808,
+  "cached_at": 1754491533105,
   "cache_key": "30dccf55ef9142f39334e00e14e5e414"
 }

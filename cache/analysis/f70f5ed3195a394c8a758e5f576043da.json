@@ -3,43 +3,51 @@
   "analysis": {
     "image_id": "img_045",
     "ai_generated_tags": {
-      "room": "wardrobe room",
-      "theme": "contemporary",
+      "room": "Storage or utility area",
+      "theme": "Modern Indian with minimalistic touches",
       "primary_features": [
-        "fitted wardrobe with built-in storage, orange and white color scheme"
+        "Wardrobe with orange and white panels",
+        "Built-in storage unit with shelves and drawers",
+        "Window with metal grill"
       ],
       "objects": [
         {
-          "type": "fitted wardrobe",
+          "type": "Wardrobe",
           "features": [
-            "built-in storage, orange and white color scheme, modern handles"
+            "High, sleek design",
+            "Orange and white color scheme",
+            "Built-in shelving",
+            "Drawers for storage"
           ],
           "materials": [
-            "orange and white panels, likely MDF or particle board"
+            "Painted wood or MDF",
+            "Orange-painted wood or plastic"
           ],
-          "finish": "smooth finish with simple, modern handles"
+          "finish": "Smooth, glossy finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "orange, white, beige, brown"
+          "White",
+          "Orange"
         ],
         "materials": [
-          "MDF or particle board, glass door"
+          "Painted wood or MDF",
+          "Orange-painted wood or plastic"
         ],
-        "lighting": "natural light from window, ambient light from ceiling",
-        "texture": "smooth, matte surfaces with a clean, modern finish"
+        "lighting": "Natural light from the window",
+        "texture": "Smooth and clean surfaces"
       },
       "indian_context": {
-        "regional_style": "modern",
+        "regional_style": "Not prominent regional style visible, more modern",
         "traditional_elements": [
-          "none"
+          "No traditional elements present"
         ],
         "modern_adaptations": [
-          "fitted wardrobes, contemporary color scheme"
+          "Minimalist design with modern materials and color scheme"
         ],
-        "space_utilization": "efficient use of vertical space with built-in storage",
-        "cultural_significance": "modern adaptation of Indian traditional wardrobe design"
+        "space_utilization": "Efficient use of vertical space with storage units and built-in shelving",
+        "cultural_significance": "Modern interpretation of Indian design, focusing on functionality"
       }
     },
     "confidence_scores": {
@@ -49,21 +57,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image depicts a modern fitted wardrobe room with a contemporary design approach. The space features a large, built-in wardrobe with orange and white panels, providing a clean, organized look. The wardrobe includes built-in storage, shelves, and drawers, maximizing the use of vertical and horizontal space. The color scheme and minimalist design reflect a modern Indian aesthetic that combines functionality with a fresh, vibrant look.",
+    "description": "A modern Indian storage area with a sleek and minimalist design. The wardrobe features a combination of vibrant orange and white panels, which are both functional and visually striking. The built-in storage unit with shelves and drawers maximizes the use of vertical space, and the window with a metal grill provides natural light and ventilation, typical of contemporary Indian interior designs.",
     "metadata": {
       "tags": [
-        "fitted wardrobe",
-        "modern design",
-        "Indian contemporary",
-        "efficient storage",
-        "orange and white color scheme"
+        "Storage",
+        "Modern Design",
+        "Indian Interior",
+        "Orange and White",
+        "Minimalist"
       ],
-      "budget_indicator": "moderate, due to the use of MDF or particle board wood and modern hardware",
-      "space_type": "residential bedroom or walk-in closet",
-      "functionality": "storage and organization",
-      "indian_specific": "modern interpretation of traditional Indian wardrobe style"
+      "budget_indicator": "Mid-range, due to the use of painted wood or MDF and a smooth finish",
+      "space_type": "Storage or utility area",
+      "functionality": "Primary purpose is for storage and organization",
+      "indian_specific": "Use of color and efficient space utilization are modern interpretations of Indian design"
     }
   },
-  "cached_at": 1753877923545,
+  "cached_at": 1754489795781,
   "cache_key": "f70f5ed3195a394c8a758e5f576043da"
 }

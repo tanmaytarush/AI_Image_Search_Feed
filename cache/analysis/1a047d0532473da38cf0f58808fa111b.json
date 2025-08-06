@@ -2,74 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1390/image_cropper_1729754398811.jpg",
   "analysis": {
     "image_id": "img_481",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1390/image_cropper_1729754398811.jpg",
     "ai_generated_tags": {
-      "room": "Foyer/Entryway",
-      "theme": "Contemporary with Indian Influences",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Ceiling design with recessed lighting",
-        "Wooden flooring",
-        "Wall paneling"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Wall Paneling",
+          "type": "furniture",
           "features": [
-            "Framed with decorative patterns"
+            "traditional_style"
           ],
           "materials": [
-            "Teak wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth and polished"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Warm wood tones",
-          "Neutral wall color",
-          "Warm lighting accentuates the wood"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Teak wood",
-          "Copper accent details",
-          "Concrete flooring"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Recessed lighting with warm tones, creating a welcoming atmosphere",
-        "texture": "Smooth surfaces with decorative wood paneling"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not specifically identifiable, but could be from a modernized urban Indian home",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Decorative wood paneling"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary lighting fixtures and materials"
+          "contemporary_design"
         ],
-        "space_utilization": "The space is optimized for an entryway, with a focus on functionality and aesthetics",
-        "cultural_significance": "The use of wood paneling often symbolizes traditional craftsmanship and warmth, enhancing the welcoming nature of the space"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The entryway features a warm, contemporary design with Indian influences. Dominated by teak wood paneling framed with decorative patterns, the space exudes a traditional yet modern feel. The recessed lighting and neutral wall colors enhance the warm wood tones, creating a welcoming atmosphere. The use of teak wood and decorative paneling is a nod to traditional craftsmanship, while the contemporary lighting and materials add a modern twist to the design.",
-      "metadata": {
-        "tags": [
-          "Indian Interior",
-          "Contemporary Design",
-          "Teak Wood",
-          "Warm Lighting",
-          "Decorative Paneling"
-        ],
-        "budget_indicator": "Moderate, indicative of materials like teak and copper",
-        "space_type": "Foyer/Entryway",
-        "functionality": "Primarily serves as an entryway, optimizing space for welcoming guests",
-        "indian_specific": "Decorative wood paneling and warm wood tones"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729754398811.jpg"
   },
-  "cached_at": 1753462520923,
+  "cached_at": 1754496699208,
   "cache_key": "1a047d0532473da38cf0f58808fa111b"
 }

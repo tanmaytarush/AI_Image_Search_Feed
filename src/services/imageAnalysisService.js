@@ -7,6 +7,8 @@ dotenv.config();
 
 class ImageAnalysisService {
   constructor() {
+    // Configuration: Set to false to skip images instead of using fallback
+    this.useFallback = false; // Set to false to maintain data quality
     // Removed deprecated HfInference client
     this.expectedEmbeddingDimension = 384; // Ensure compatibility with embedding system
   }
@@ -189,10 +191,16 @@ class ImageAnalysisService {
         }
       }
 
-      // If no vision models work, fall back to text-only analysis
+      // If no vision models work, handle based on configuration
       if (!successfulModel) {
-        console.log(`⚠️ No vision models available. Falling back to text-only analysis for ${imageId}`);
-        return await this.fallbackTextAnalysis(imageUrl, imageId);
+        if (this.useFallback) {
+          console.log(`⚠️ No vision models available. Falling back to text-only analysis for ${imageId}`);
+          return await this.fallbackTextAnalysis(imageUrl, imageId);
+        } else {
+          const errorMessage = `❌ No vision models available for ${imageId}. Skipping image to maintain data quality.`;
+          console.log(errorMessage);
+          throw new Error(errorMessage);
+        }
       }
 
       const chatCompletion = await response.json();
@@ -615,6 +623,27 @@ class ImageAnalysisService {
       console.error(`❌ Fallback analysis failed for ${imageId}:`, error.message);
       throw error;
     }
+  }
+
+  /**
+   * Enable or disable fallback analysis
+   * @param {boolean} enabled - Set to true to use fallback, false to skip images
+   */
+  setFallbackEnabled(enabled) {
+    this.useFallback = enabled;
+    console.log(`🔄 Fallback analysis ${enabled ? 'enabled' : 'disabled'}`);
+  }
+
+  /**
+   * Get current fallback configuration
+   */
+  getFallbackStatus() {
+    return {
+      useFallback: this.useFallback,
+      message: this.useFallback ? 
+        'Fallback enabled - will use generic analysis for failed images' : 
+        'Fallback disabled - will skip images that cannot be properly analyzed'
+    };
   }
 }
 

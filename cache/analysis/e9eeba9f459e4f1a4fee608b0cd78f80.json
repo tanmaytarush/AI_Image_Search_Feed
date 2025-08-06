@@ -2,81 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/514/image_cropper_1729058330427.jpg",
   "analysis": {
     "image_id": "img_285",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/514/image_cropper_1729058330427.jpg",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Mughal-Inspired",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Curved shelves",
-        "Wooden accents",
-        "Decorative frames"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Shelving Unit",
+          "type": "furniture",
           "features": [
-            "Curved design",
-            "Fitted with books and frames",
-            "Decorative elements"
+            "traditional_style"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth finish on wood, polished metal accents"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown",
-          "White",
-          "Gold",
-          "Black"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Glass"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Soft, ambient lighting",
-        "texture": "Smooth surfaces with intricate details"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Northern India (Mughal)",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Curved shelving units",
-          "Wooden carvings"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Curved design for aesthetics",
-          "Use of metal for decorative accents"
+          "contemporary_design"
         ],
-        "space_utilization": "Optimizes vertical space for storage and display",
-        "cultural_significance": "Represents a blend of traditional Mughal aesthetics with modern functionality, reflecting the rich heritage of Northern Indian design"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image showcases a modern interpretation of Mughal-inspired design in a living room setting. The curved shelving unit, reminiscent of traditional jharokhas, is crafted with teakwood and metal accents, blending traditional woodwork with contemporary lines. The shelves are adorned with books and decorative frames, demonstrating a thoughtful use of space for both storage and display. The color palette, dominated by warm browns and golds, complements the traditional aesthetic while the smooth finishes and polished metal details add a modern touch. This space emphasizes cultural heritage through design, reflecting the Mughal era's influence on Indian interiors.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Indian Interior Design",
-        "Mughal Style",
-        "Curved Shelving",
-        "Teak",
-        "Metal Accents",
-        "Living Room Design"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Mid-range, with quality materials like teak and polished metals",
-      "space_type": "Residential",
-      "functionality": "Storage and decorative display",
-      "indian_specific": "Use of curved elements and wood as traditional Mughal design elements"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729058330427.jpg"
   },
-  "cached_at": 1753459970657,
+  "cached_at": 1754494674780,
   "cache_key": "e9eeba9f459e4f1a4fee608b0cd78f80"
 }

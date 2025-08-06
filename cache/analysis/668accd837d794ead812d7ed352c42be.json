@@ -3,50 +3,64 @@
   "analysis": {
     "image_id": "img_237",
     "ai_generated_tags": {
-      "room": "Foyer",
+      "room": "Unknown",
       "theme": "Minimalist",
       "primary_features": [
-        "Smooth wooden floor"
+        "wooden surface"
       ],
-      "objects": [],
+      "objects": [
+        {
+          "type": "wooden surface",
+          "features": [
+            "smooth",
+            "polished"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "high-gloss"
+        }
+      ],
       "visual_attributes": {
         "colors": [
-          "Light brown"
+          "beige",
+          "white"
         ],
         "materials": [
-          "Wood"
+          "wood"
         ],
-        "lighting": "Neutral, possibly natural light from an unseen source",
-        "texture": "Smooth and polished"
+        "lighting": "ambient",
+        "texture": "smooth"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "No clear regional influence",
         "traditional_elements": [],
         "modern_adaptations": [],
-        "space_utilization": "Minimal, likely used for transition",
-        "cultural_significance": "Not culturally significant as this is a modern interpretation of a space, not a traditional Indian design element"
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.75,
-        "primary_features": 0.9,
-        "objects": 0.95,
-        "indian_context": 0.6
-      },
-      "description": "The image depicts a modern interpretation of a traditional Indian foyer with a smooth wooden floor. The design is minimalist, lacking any traditional Indian elements. The smooth finish of the wood suggests a contemporary approach to the material, which is often used in Indian interiors, but in a simplified form.",
-      "metadata": {
-        "tags": [
-          "Minimalist",
-          "Wooden Floor",
-          "Foyer"
-        ],
-        "budget_indicator": "Mid-range, as polished wood can be cost-effective",
-        "space_type": "Residential",
-        "functionality": "Transition space",
-        "indian_specific": "Simplified wood usage"
+        "space_utilization": "unknown",
+        "cultural_significance": "No cultural elements evident"
       }
+    },
+    "confidence_scores": {
+      "room": 0.75,
+      "theme": 0.8,
+      "primary_features": 0.9,
+      "objects": 0.95,
+      "indian_context": 0.6
+    },
+    "description": "The image shows a close-up of a smooth, polished wooden surface, likely part of a furniture piece or structural element. The color is a light beige, suggesting a minimalist aesthetic. There are no visible traditional Indian design elements, and the image does not provide enough context to determine the room type, regional inspiration, or cultural significance.",
+    "metadata": {
+      "tags": [
+        "wood",
+        "minimalist",
+        "beige",
+        "polished"
+      ],
+      "budget_indicator": "low",
+      "space_type": "unknown",
+      "functionality": "unknown",
+      "indian_specific": "none"
     }
   },
-  "cached_at": 1753459554539,
+  "cached_at": 1754493643868,
   "cache_key": "668accd837d794ead812d7ed352c42be"
 }

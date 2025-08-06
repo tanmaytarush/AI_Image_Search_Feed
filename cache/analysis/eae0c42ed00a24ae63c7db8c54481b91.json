@@ -3,65 +3,62 @@
   "analysis": {
     "image_id": "img_314",
     "ai_generated_tags": {
-      "room": "Not applicable, as this appears to be a book cover image",
-      "theme": "Minimalist",
-      "primary_features": [
-        "Book title and author name"
-      ],
+      "room": "unknown",
+      "theme": "unknown",
+      "primary_features": [],
       "objects": [
         {
-          "type": "Book",
+          "type": "book",
           "features": [
-            "Book cover, title, author name, image on the cover"
+            "black cover with text"
           ],
           "materials": [
-            "Paper, likely plastic or cardboard for the cover"
+            "paper"
           ],
-          "finish": "Matte finish on the cover"
+          "finish": "unknown"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Black, white, green, red"
+          "black",
+          "white",
+          "gray"
         ],
         "materials": [
-          "Paper, plastic, cardboard"
+          "paper"
         ],
-        "lighting": "Not applicable, as this is an image of a book cover",
-        "texture": "Smooth surface of the paper and matte finish"
+        "lighting": "unknown",
+        "texture": "unknown"
       },
       "indian_context": {
-        "regional_style": "Not relevant",
-        "traditional_elements": [
-          "None present"
-        ],
-        "modern_adaptations": [
-          "Book design elements"
-        ],
-        "space_utilization": "Not applicable",
-        "cultural_significance": "Not applicable"
+        "regional_style": "unknown",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "unknown",
+        "cultural_significance": "unknown"
       }
     },
     "confidence_scores": {
       "room": 0,
-      "theme": 0.3,
-      "primary_features": 0.5,
-      "objects": 0.7,
+      "theme": 0,
+      "primary_features": 0,
+      "objects": 0.92,
       "indian_context": 0
     },
-    "description": "The image shows the cover of a book titled 'A Simple Guide to Durable Furniture'. The design is minimalistic with a black background and white text. The cover features an image of what appears to be a piece of furniture in the background.",
+    "description": "The image appears to be a close-up of a book cover with the title 'A Simple Guide to Durable Furniture' and some text on it. There are no clear indications of a specific Indian interior design context or elements in the image.",
     "metadata": {
       "tags": [
-        "book cover",
-        "minimalist design",
-        "furniture guide"
+        "book",
+        "guide",
+        "furniture",
+        "unknown"
       ],
-      "budget_indicator": "Low",
-      "space_type": "Not applicable",
-      "functionality": "Not applicable",
-      "indian_specific": "None"
+      "budget_indicator": "unknown",
+      "space_type": "unknown",
+      "functionality": "unknown",
+      "indian_specific": "unknown"
     }
   },
-  "cached_at": 1753460326119,
+  "cached_at": 1754495218836,
   "cache_key": "eae0c42ed00a24ae63c7db8c54481b91"
 }

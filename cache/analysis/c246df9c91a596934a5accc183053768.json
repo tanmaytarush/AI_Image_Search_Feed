@@ -3,71 +3,67 @@
   "analysis": {
     "image_id": "img_043",
     "ai_generated_tags": {
-      "room": "Storage",
-      "theme": "Modern",
+      "room": "Walk-in closet",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Wardrobe",
-        "Marble flooring",
-        "Simple wall design"
+        "Wooden paneling with marble accents"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Closet doors",
           "features": [
-            "Multiple doors",
-            "Shiny surface",
-            "Dark wood finish with lighter panels"
+            "Wooden panels with marble inlaid design"
           ],
           "materials": [
-            "Wood (imitation)",
-            "Metal hardware"
+            "Wood, marble"
           ],
-          "finish": "Shiny, lacquered finish"
+          "finish": "Smooth finish with metallic handles"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown, white, and grey"
+          "Dark brown, white, beige"
         ],
         "materials": [
-          "Wood, metal, marble"
+          "Wood, marble"
         ],
-        "lighting": "Natural light from a unseen source",
-        "texture": "Smooth and polished"
+        "lighting": "Even lighting with no visible shadows",
+        "texture": "Smooth wooden finish with glossy marble accents"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional",
+        "regional_style": "",
         "traditional_elements": [
-          "No traditional Indian elements visible"
+          "Wooden panels"
         ],
         "modern_adaptations": [
-          "Wardrobe design with modern materials"
+          "Marble inlay, metallic handles"
         ],
-        "space_utilization": "Efficient use of vertical space for storage",
-        "cultural_significance": "Cultural relevance is minimal in this context"
+        "space_utilization": "Efficient storage solution",
+        "cultural_significance": "Wooden panels reflect traditional craftsmanship"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.78,
-        "primary_features": 0.83,
-        "objects": 0.95,
-        "indian_context": 0.75
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The image shows a modern storage solution in a room with white walls and marble flooring. The wardrobe features multiple doors with a dark wood finish and lighter panels, finished with a shiny lacquered surface. The design is simple and functional, lacking any traditional Indian elements.",
+      "description": "The image depicts a walk-in closet with a modern Indian aesthetic. The wooden panels feature a stylish marble inlay, complemented by sleek metallic handles. The design prioritizes functionality with an efficient storage solution, while the use of wood hints at traditional craftsmanship, albeit with a contemporary twist.",
       "metadata": {
         "tags": [
-          "Modern wardrobe",
-          "Minimalist",
-          "Interior design",
-          "Marble flooring"
+          "Indian interior design",
+          "Walk-in closet",
+          "Wooden panels",
+          "Marble inlay",
+          "Modern Indian style"
         ],
-        "budget_indicator": "Budget-friendly materials and finishes",
-        "space_type": "Residential",
-        "functionality": "Primary purpose is storage",
-        "indian_specific": "No specific Indian design features"
+        "budget_indicator": "Moderate, with wood and marble materials",
+        "space_type": "Residential, bedroom",
+        "functionality": "Storage",
+        "indian_specific": "Traditional woodwork, modern adaptations"
       }
     }
   },
-  "cached_at": 1753877891211,
+  "cached_at": 1754489768750,
   "cache_key": "c246df9c91a596934a5accc183053768"
 }

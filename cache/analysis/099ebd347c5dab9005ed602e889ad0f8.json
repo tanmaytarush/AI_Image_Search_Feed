@@ -2,113 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1111/image_cropper_1729605763678.jpg",
   "analysis": {
     "image_id": "img_446",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1111/image_cropper_1729605763678.jpg",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modular Kitchen with Traditional Accents",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Cabinet with shaker-style doors",
-        "Integrated sink",
-        "Countertop",
-        "Lighting fixture"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Cabinet with shaker-style doors",
+          "type": "furniture",
           "features": [
-            "Rectangular-shaped doors",
-            "Wooden construction",
-            "Shaker-style design"
+            "traditional_style"
           ],
           "materials": [
-            "Wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "Polished wood finish"
-        },
-        {
-          "type": "Integrated sink",
-          "features": [
-            "Built-in design",
-            "Modern style"
-          ],
-          "materials": [
-            "Metallic finish"
-          ],
-          "finish": "Sleek metallic finish"
-        },
-        {
-          "type": "Countertop",
-          "features": [
-            "Rectangular shape",
-            "Even surface",
-            "Clean lines"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Smooth marble finish"
-        },
-        {
-          "type": "Lighting fixture",
-          "features": [
-            "Wall-mounted",
-            "Modern design",
-            "Multiple lights"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Polished metal finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Black"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Marble",
-          "Metal"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Artificial light from wall-mounted fixture",
-        "texture": "Smooth and polished surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not specifically regional, more of a modern adaptation",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Wooden cabinet with shaker doors"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Integrated sink, sleek countertop"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with functional design",
-        "cultural_significance": "Traditional elements integrated with modern functionality"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image depicts a modern kitchen setup with a focus on Indian design elements. The kitchen features wooden cabinets with shaker-style doors, a sleek countertop made of marble, and a built-in sink, all combined with contemporary lighting. The wooden cabinets are a traditional Indian element, while the modern finishes and design provide a contemporary twist. The space is well-organized and functional, with a balance of traditional and modern aesthetics.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Kitchen",
-        "Modern",
-        "Indian Design",
-        "Wooden Cabinets",
-        "Marble",
-        "Wall-Mounted Lights"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Cooking and food preparation",
-      "indian_specific": "Wooden cabinet with shaker doors"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729605763678.jpg"
   },
-  "cached_at": 1753462151376,
+  "cached_at": 1754496477124,
   "cache_key": "099ebd347c5dab9005ed602e889ad0f8"
 }

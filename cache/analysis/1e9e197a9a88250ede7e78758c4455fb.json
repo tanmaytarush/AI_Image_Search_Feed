@@ -6,96 +6,83 @@
       "room": "Living Room",
       "theme": "Contemporary Indian",
       "primary_features": [
-        "Wooden flooring",
         "Modern furniture",
-        "Teak wood accents",
-        "Lighting fixtures",
-        "Glass shelves"
+        "Marble flooring",
+        "Painted walls"
       ],
       "objects": [
         {
-          "type": "Teak Wood Bench",
+          "type": "Seating",
           "features": [
-            "Carved details",
-            "Comfortable seating"
+            "Contemporary design, upholstered in light fabric"
           ],
           "materials": [
-            "Teak wood"
+            "Fabric, cushioned seat"
           ],
-          "finish": "Natural wood finish"
+          "finish": "Smooth, minimalistic"
         },
         {
-          "type": "Glass Shelves",
+          "type": "Lighting",
           "features": [
-            "Modern design",
-            "Minimalist style"
+            "Flush-mounted chandelier, wall sconces"
           ],
           "materials": [
-            "Glass"
+            "Metal, glass"
           ],
-          "finish": "Clear glass"
+          "finish": "Polished"
         },
         {
-          "type": "Lighting Fixtures",
+          "type": "Flooring",
           "features": [
-            "Modern",
-            "LED strip lights"
+            "Marble tiles"
           ],
           "materials": [
-            "Metal"
+            "Marble"
           ],
-          "finish": "Polished metal"
+          "finish": "Smooth, glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Beige",
-          "White",
-          "Brown",
-          "Green"
+          "Light beige, white, green accents"
         ],
         "materials": [
-          "Teak wood",
-          "Glass",
-          "Metal"
+          "Marble, metal, fabric"
         ],
-        "lighting": "Soft ambient lighting with accent lighting from LED strips",
-        "texture": "Smooth surfaces with natural wood grain of teak"
+        "lighting": "Bright, evenly distributed, from ceiling fixtures",
+        "texture": "Smooth, glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Not strongly regional, focuses on modern interpretation of Indian design",
-        "traditional_elements": [
-          "Teak wood bench with carved details"
-        ],
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist glass shelves and modern LED lighting"
+          "Contemporary design with traditional materials"
         ],
-        "space_utilization": "Efficient use of space with clear lines and open layout",
-        "cultural_significance": "Embraces modern aesthetics while incorporating natural materials like teak, reflecting an appreciation for traditional craftsmanship"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.85
-      },
-      "description": "This contemporary Indian living room combines traditional elements like the teak wood bench with modern aesthetics. The use of teak wood for the bench adds a natural and warm touch, while the minimalist glass shelves and LED lighting fixtures introduce a contemporary feel. The overall design is clean and spacious, utilizing natural light and modern materials to create a comfortable and stylish living area.",
-      "metadata": {
-        "tags": [
-          "Contemporary Indian",
-          "Teak Wood",
-          "Modern Design",
-          "Living Room",
-          "Minimalist Furniture"
-        ],
-        "budget_indicator": "Moderate, utilizing both natural and modern materials",
-        "space_type": "Residential",
-        "functionality": "Entertainment or relaxing space",
-        "indian_specific": "Natural wood elements and handcrafted details"
+        "space_utilization": "Open and spacious, optimized for comfort and modern living",
+        "cultural_significance": "The clean lines and bright color palette reflect a modern take on Indian interior design"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This living room showcases a contemporary Indian design approach, blending modern furniture with traditional Indian materials. The space features a minimalist yet elegant aesthetic with a focus on clean lines and bright, neutral colors. The marble flooring and painted walls with accent lighting contribute to a sophisticated and airy feel, while the seating area offers a comfortable, inviting space for relaxation. The contemporary design elements suggest a modern interpretation of traditional Indian comfort and style.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Marble Flooring",
+        "Modern Furniture",
+        "Lighting Fixtures"
+      ],
+      "budget_indicator": "Moderate, with materials like marble and polished metal",
+      "space_type": "Residential Living Room",
+      "functionality": "Primary living space for relaxation and entertainment",
+      "indian_specific": "Modern adaptation of traditional Indian design elements"
     }
   },
-  "cached_at": 1753449318231,
+  "cached_at": 1754492013072,
   "cache_key": "1e9e197a9a88250ede7e78758c4455fb"
 }

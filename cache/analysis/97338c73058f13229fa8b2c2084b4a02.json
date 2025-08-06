@@ -3,77 +3,82 @@
   "analysis": {
     "image_id": "img_182",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modern Indian",
+      "room": "Kitchenette",
+      "theme": "Minimalist",
       "primary_features": [
-        "Built-in shelves",
-        "Black countertop",
-        "Open shelving",
-        "Green bottle"
+        "Built-in cabinets",
+        "Countertop",
+        "Storage shelves"
       ],
       "objects": [
         {
-          "type": "Shelving unit",
+          "type": "Countertop",
           "features": [
-            "Built-in design",
-            "Open shelving",
-            "Wall-mounted"
+            "Smooth surface",
+            "Black color"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "Marble"
           ],
-          "finish": "Natural wood finish with metallic accents"
+          "finish": "Polished"
+        },
+        {
+          "type": "Built-in cabinets",
+          "features": [
+            "White color",
+            "Modular design"
+          ],
+          "materials": [
+            "MDF"
+          ],
+          "finish": "Painted"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White walls",
-          "Black countertop",
-          "Green bottle label"
+          "White",
+          "Black",
+          "White"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Black granite"
+          "Marble",
+          "MDF"
         ],
-        "lighting": "Natural light coming from an unseen window or door",
-        "texture": "Smooth finishes on walls and countertop, textured wood grain on shelves"
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "Mughal-inspired elements in modern design",
-        "traditional_elements": [
-          "Minimal use of traditional Indian elements"
-        ],
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Integration of modern materials and designs"
+          "Minimalist and clean design"
         ],
-        "space_utilization": "Efficient use of vertical space for storage",
-        "cultural_significance": "Modern adaptation of traditional Mughal design aesthetics"
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Not applicable"
       },
       "confidence_scores": {
         "room": 0.85,
-        "theme": 0.8,
-        "primary_features": 0.9,
-        "objects": 0.95,
+        "theme": 0.9,
+        "primary_features": 0.88,
+        "objects": 0.92,
         "indian_context": 0.8
       },
-      "description": "This modern Indian kitchen showcases a blend of traditional Mughal-inspired elements with contemporary design. The built-in shelving unit, with its natural wood finish and metallic accents, makes efficient use of vertical space. The black countertop, though not traditional, complements the modern aesthetic. The presence of a green bottle adds a pop of color, reflecting the typical use of vibrant colors in Indian interiors. The space is well-lit, suggesting the inclusion of natural light, which is a common feature in modern Indian design.",
+      "description": "The image depicts a modern kitchenette with built-in cabinets and a smooth, dark countertop. The design is minimalistic, utilizing white cabinets for storage and a black marble countertop. The space is efficiently organized, with vertical storage solutions maximizing the available floor space. The overall aesthetic is clean and contemporary.",
       "metadata": {
         "tags": [
-          "Modern Indian",
-          "Mughal design",
-          "Efficient storage",
-          "Black countertop",
-          "Green accents"
+          "Kitchenette",
+          "Minimalist",
+          "White Cabinets",
+          "Black Countertop",
+          "Marble"
         ],
-        "budget_indicator": "Moderate to high",
-        "space_type": "Residential kitchen",
-        "functionality": "Storage and preparation",
-        "indian_specific": "Integration of Mughal design elements in modern context"
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential kitchenette",
+        "functionality": "Storage and preparation area",
+        "indian_specific": "No Indian-specific design features visible"
       }
     }
   },
-  "cached_at": 1753459072842,
+  "cached_at": 1754492670654,
   "cache_key": "97338c73058f13229fa8b2c2084b4a02"
 }

@@ -2,74 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1463/image_cropper_1729776243616.jpg",
   "analysis": {
     "image_id": "img_390",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1463/image_cropper_1729776243616.jpg",
     "ai_generated_tags": {
-      "room": "Cabinet or Storage Room",
-      "theme": "Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Geometric pattern on doors",
-        "Vertical paneling"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Cabinet doors",
+          "type": "furniture",
           "features": [
-            "Geometric pattern",
-            "Vertical paneling",
-            "High gloss finish"
+            "traditional_style"
           ],
           "materials": [
-            "Painted wood or MDF",
-            "High gloss paint"
+            "wood",
+            "fabric"
           ],
-          "finish": "High gloss finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Gray"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Painted wood",
-          "High gloss paint"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Dim indoor lighting",
-        "texture": "Smooth high gloss finish"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Minimal traditional Indian elements"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Geometric patterns and high gloss finish"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient storage solution",
-        "cultural_significance": "No cultural elements visible"
-      },
-      "confidence_scores": {
-        "room": 0.88,
-        "theme": 0.85,
-        "primary_features": 0.9,
-        "objects": 0.9,
-        "indian_context": 0.65
-      },
-      "description": "The image depicts a cabinet or storage room with a minimalist design. The doors feature a geometric pattern and vertical paneling with a high gloss finish, suggesting a modern interpretation of traditional Indian design elements. The color palette is composed of white, brown, and gray, with smooth, high gloss surfaces. The space appears to be efficiently utilized for storage purposes, with no indication of traditional Indian regional influences or cultural decorative elements.",
-      "metadata": {
-        "tags": [
-          "Minimalist",
-          "Geometric Pattern",
-          "High Gloss Finish",
-          "Storage Cabinet"
-        ],
-        "budget_indicator": "Moderate, as the high gloss finish and geometric pattern suggest quality materials.",
-        "space_type": "Residential Apartment",
-        "functionality": "Storage",
-        "indian_specific": "No Indian-specific design features visible"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729776243616.jpg"
   },
-  "cached_at": 1753461313749,
+  "cached_at": 1754496113712,
   "cache_key": "72c4f49b5324238be8c1a10de6ae1d0d"
 }

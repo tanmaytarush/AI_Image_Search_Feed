@@ -2,102 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/659/image_cropper_1729169558083.jpg",
   "analysis": {
     "image_id": "img_486",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/659/image_cropper_1729169558083.jpg",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern Indian Interior",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Wooden cabinet",
-        "Mirror on wall",
-        "Bathtub"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Wooden cabinet",
+          "type": "furniture",
           "features": [
-            "Horizontal stripes",
-            "Rounded edges",
-            "Storage compartments"
+            "traditional_style"
           ],
           "materials": [
-            "Teak wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "Satin finish"
-        },
-        {
-          "type": "Mirror",
-          "features": [
-            "Rectangular shape",
-            "Beveled edges"
-          ],
-          "materials": [
-            "Glass"
-          ],
-          "finish": "Clear"
-        },
-        {
-          "type": "Bathtub",
-          "features": [
-            "White ceramic",
-            "Corner design",
-            "Accessible through wooden cabinet"
-          ],
-          "materials": [
-            "Ceramic",
-            "Metallic fixture"
-          ],
-          "finish": "Glazed ceramic, metallic"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Teal",
-          "White",
-          "Brown",
-          "Gray"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Teak wood",
-          "Glass",
-          "Ceramic",
-          "Metallic"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Artificial ceiling lights",
-        "texture": "Smooth surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Maharashtra",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Wooden cabinet"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Combination of traditional and modern design"
+          "contemporary_design"
         ],
-        "space_utilization": "Optimizing the space with a corner bathtub and storage cabinet",
-        "cultural_significance": "Use of teak wood in traditional Indian interiors, indicating durability and cultural aesthetic value"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The bathroom showcases a modern interpretation of traditional Indian design elements, with a wooden cabinet that retains the essence of teak wood, alongside a corner bathtub and a wall-mounted mirror. The use of teal and white creates a fresh and clean aesthetic, while the teak wood adds warmth and cultural relevance. The lighting is artificial, typical for indoor spaces.",
-      "metadata": {
-        "tags": [
-          "Modern Indian Interior",
-          "Wooden Cabinet",
-          "Teal Wall",
-          "Corner Bathtub",
-          "Teak Wood"
-        ],
-        "budget_indicator": "Moderate, with the use of teak wood and ceramic materials",
-        "space_type": "Residential Bathroom",
-        "functionality": "Primary purpose is bathing and personal hygiene",
-        "indian_specific": "Teak wood, wooden cabinet design"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729169558083.jpg"
   },
-  "cached_at": 1753462571542,
+  "cached_at": 1754496711191,
   "cache_key": "74d02f68754ed4aaaab4f684c621d746"
 }

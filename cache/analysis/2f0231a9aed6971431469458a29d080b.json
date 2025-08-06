@@ -3,94 +3,65 @@
   "analysis": {
     "image_id": "img_260",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Minimalist",
+      "room": "Waiting area",
+      "theme": "Modern minimal",
       "primary_features": [
-        "Large window with views",
-        "Simple wooden flooring",
-        "Minimalist furniture"
+        "Large mirror",
+        "Wooden floor",
+        "Glass wall"
       ],
       "objects": [
         {
-          "type": "Window",
+          "type": "Large mirror",
           "features": [
-            "Tall and narrow",
-            "Glass panels"
+            "Reflection of indoor and outdoor spaces",
+            "Curved top edge"
           ],
           "materials": [
-            "Glass",
-            "Metal frame"
+            "Glass, metal frame"
           ],
-          "finish": "Clear glass with metallic frame"
-        },
-        {
-          "type": "Flooring",
-          "features": [
-            "Wooden",
-            "Natural finish"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Light brown, polished"
-        },
-        {
-          "type": "Furniture",
-          "features": [
-            "Simple, sleek design",
-            "Metal legs"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Polished metal"
+          "finish": "Metallic frame with a polished finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Light brown",
-          "Metallic"
+          "Gray, white, brown, blue"
         ],
         "materials": [
-          "Glass",
-          "Wood",
-          "Metal"
+          "Glass, wood, metal, concrete"
         ],
-        "lighting": "Natural light from window, artificial light on ceiling",
-        "texture": "Smooth surfaces"
+        "lighting": "Natural light from the glass wall",
+        "texture": "Smooth surfaces with a clean and sleek look"
       },
       "indian_context": {
-        "regional_style": "Not applicable (modern)",
+        "regional_style": "Not applicable",
         "traditional_elements": [],
-        "modern_adaptations": [
-          "Modern interpretation of clean lines and minimal design"
-        ],
-        "space_utilization": "Open and uncluttered, maximizing space",
-        "cultural_significance": "Not applicable (modern)"
+        "modern_adaptations": [],
+        "space_utilization": "Open and uncluttered, focusing on symmetry and minimalism",
+        "cultural_significance": "No visible traditional Indian elements, emphasizing contemporary design"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
+      "room": 0.85,
+      "theme": 0.8,
+      "primary_features": 0.9,
       "objects": 0.92,
-      "indian_context": 0.9
+      "indian_context": 0.7
     },
-    "description": "The interior features a modern minimalist living room with a large window providing ample natural light. The flooring is light brown polished wood, complemented by sleek metal-framed furniture. The design is clean and uncluttered, emphasizing functionality and contemporary style. There are no traditional Indian design elements visible in this space.",
+    "description": "This waiting area features a modern minimalist design with a large curved mirror mounted on a glass wall, reflecting both the indoor and outdoor environment. The space is characterized by clean lines, a wooden floor, and a sleek, uncluttered layout. The design does not incorporate traditional Indian elements, focusing instead on contemporary aesthetics and functionality.",
     "metadata": {
       "tags": [
-        "Modern Living Room",
-        "Minimalist Design",
-        "Natural Light",
-        "Sleek Furniture"
+        "waiting area",
+        "modern minimalism",
+        "glass wall",
+        "wooden floor"
       ],
-      "budget_indicator": "Moderate (uses metal and light wood)",
-      "space_type": "Living Room",
-      "functionality": "Primary living and relaxation area",
-      "indian_specific": "No Indian-specific design features present"
+      "budget_indicator": "Moderate, with materials such as glass and polished metal",
+      "space_type": "Waiting area in a commercial or office building",
+      "functionality": "Primary purpose is for waiting and possibly for administrative functions",
+      "indian_specific": "No visible Indian-specific design features"
     }
   },
-  "cached_at": 1753459748410,
+  "cached_at": 1754494376186,
   "cache_key": "2f0231a9aed6971431469458a29d080b"
 }

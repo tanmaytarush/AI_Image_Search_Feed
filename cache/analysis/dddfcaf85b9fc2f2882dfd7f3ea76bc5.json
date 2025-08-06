@@ -4,92 +4,107 @@
     "image_id": "img_134",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian with Fusion",
+      "theme": "Modern Indian",
       "primary_features": [
-        "White cabinets",
-        "Black countertops",
-        "Granite backsplash",
-        "Tile flooring"
+        "Cabinetry",
+        "Countertop",
+        "Appliances",
+        "Sink"
       ],
       "objects": [
         {
-          "type": "Kitchen cabinets",
+          "type": "Cabinetry",
           "features": [
-            "White color, sleek design, integrated handles"
+            "Upper and lower cabinets",
+            "Decorative handles"
           ],
           "materials": [
-            "Wood, likely teak"
+            "Wood and laminate"
           ],
-          "finish": "Matte"
+          "finish": "Matte finish on wood, high-gloss on laminate"
         },
         {
-          "type": "Countertops",
+          "type": "Countertop",
           "features": [
-            "Black, glossy surface, smooth texture"
+            "Smooth surface",
+            "Integrated sink"
           ],
           "materials": [
-            "Granite"
+            "Marble or granite"
           ],
-          "finish": "Polished"
+          "finish": "Natural stone texture"
         },
         {
-          "type": "Backsplash",
+          "type": "Appliances",
           "features": [
-            "Large rectangular tiles, white color, glossy finish"
+            "Built-in microwave",
+            "Oven"
           ],
           "materials": [
-            "Ceramic tile"
+            "Metal and plastic"
           ],
-          "finish": "Glossy"
+          "finish": "Stainless steel and glossy black"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Stainless steel basin"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Black",
           "Gray",
-          "Brown"
+          "Black",
+          "Natural stone"
         ],
         "materials": [
-          "Wood, Granite, Ceramic tile"
+          "Wood",
+          "Laminate",
+          "Marble",
+          "Metal"
         ],
-        "lighting": "Natural light with artificial lighting fixtures visible",
-        "texture": "Sleek and smooth surfaces with glossy finishes"
+        "lighting": "Natural light from windows",
+        "texture": "Smooth, high-gloss, matte"
       },
       "indian_context": {
-        "regional_style": "Not clearly regional, but could be from urban areas with modern interpretations of traditional elements",
-        "traditional_elements": [
-          "No traditional Indian elements visible"
-        ],
+        "regional_style": "No specific regional influence visible",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Fusion of modern and traditional design elements like sleek cabinets and glossy finishes"
+          "Integration of modern appliances",
+          "Use of modern materials"
         ],
-        "space_utilization": "Efficient use of space with storage solutions provided by the cabinets",
-        "cultural_significance": "No cultural significance related to traditional Indian design elements"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.85,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.8
-      },
-      "description": "The image showcases a modern kitchen with a fusion of traditional and contemporary design elements. White cabinets with sleek handles are integrated into a space with black granite countertops and a glossy ceramic tile backsplash. The overall look is clean and contemporary, with no traditional Indian design elements visible, suggesting a modern urban setting.",
-      "metadata": {
-        "tags": [
-          "Kitchen",
-          "Modern",
-          "Fusion",
-          "Urban",
-          "Contemporary"
-        ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Residential",
-        "functionality": "Primary purpose is food preparation and storage",
-        "indian_specific": "No traditional Indian design features present"
+        "space_utilization": "Efficient use of space with built-in appliances and storage",
+        "cultural_significance": "No culturally significant elements present"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This kitchen showcases a modern Indian design approach with a mix of traditional and contemporary elements. The use of polished marble countertops and stainless steel appliances represents a modern adaptation of traditional materials. Upper and lower cabinets with decorative handles indicate an effort to blend traditional aesthetics with modern utility. The smooth and high-gloss finishes on materials contribute to a sleek and contemporary look.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Kitchen Design",
+        "Contemporary",
+        "Marble Countertops",
+        "Stainless Steel Appliances"
+      ],
+      "budget_indicator": "Moderate, with high-quality materials like marble and stainless steel",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is food preparation and storage",
+      "indian_specific": "Modern interpretation of common Indian materials like marble and stainless steel"
     }
   },
-  "cached_at": 1753448921621,
+  "cached_at": 1754491560551,
   "cache_key": "dddfcaf85b9fc2f2882dfd7f3ea76bc5"
 }

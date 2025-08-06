@@ -3,96 +3,103 @@
   "analysis": {
     "image_id": "img_348",
     "ai_generated_tags": {
-      "room": "Living Room",
+      "room": "Bathroom",
       "theme": "Modern Indian",
       "primary_features": [
-        "LED lighting",
-        "mirror",
-        "decorative wall paneling",
-        "vase"
+        "Backlit mirror",
+        "Wooden cabinet",
+        "Decorative shelves"
       ],
       "objects": [
         {
-          "type": "wall mirror",
+          "type": "Backlit mirror",
           "features": [
             "Rectangular shape",
-            "framed with LED lights",
-            "reflects light"
+            "Illuminated with LED lights"
           ],
           "materials": [
             "Glass",
             "Metal"
           ],
-          "finish": "High-gloss reflective surface"
+          "finish": "Smooth, glossy"
         },
         {
-          "type": "vase",
+          "type": "Wooden cabinet",
           "features": [
-            "Single stem",
-            "ornate detailing",
-            "placed on wooden surface"
+            "Rectangular shape",
+            "Shallow drawers",
+            "Open shelves"
           ],
           "materials": [
-            "Brass",
-            "Wood"
+            "Teak wood"
           ],
-          "finish": "Polished metal and varnished wood"
+          "finish": "Polished"
+        },
+        {
+          "type": "Decorative shelves",
+          "features": [
+            "Built-in shelves",
+            "Ceramic and metal decorations"
+          ],
+          "materials": [
+            "Ceramic",
+            "Metal"
+          ],
+          "finish": "Glossy, metallic"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Gold",
           "Brown",
-          "Black"
+          "Black",
+          "Gold"
         ],
         "materials": [
+          "Teak wood",
           "Glass",
           "Metal",
-          "Wood",
-          "Brass"
+          "Ceramic"
         ],
-        "lighting": "Warm LED lighting illuminating the mirror and wall paneling",
-        "texture": "High-gloss smooth surfaces on mirror, wood, and metal"
+        "lighting": "Backlit mirror with LED lights, recessed ceiling lights",
+        "texture": "Smooth, glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but modern interpretations of traditional elements",
+        "regional_style": "Northern Indian",
         "traditional_elements": [
-          "Decorative wall paneling",
-          "metallic details"
+          "Backlit mirror (mukhavant)",
+          "Wooden cabinet"
         ],
         "modern_adaptations": [
-          "Contemporary lighting and materials",
-          "clean, minimal lines"
+          "Backlit mirror with LED lights",
+          "Modern materials like glass and metal"
         ],
-        "space_utilization": "Efficient space use with focus on reflective surfaces and minimal decor",
-        "cultural_significance": "Cultural elements like metal detailing and reflective surfaces symbolize prosperity and elegance in Indian aesthetics"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This modern Indian living room features a sleek design with LED lighting reflecting off a large mirror, creating a bright and elegant atmosphere. The space incorporates traditional Indian elements like a decorative wall panel and metallic accents, while maintaining a contemporary aesthetic. The use of brass and wood for the vase and paneling adds a touch of cultural significance, symbolizing prosperity and refinement.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Living Room",
-          "LED Lighting",
-          "Mirror",
-          "Decorative Wall Paneling",
-          "Brass",
-          "Wood"
-        ],
-        "budget_indicator": "Mid-range, with high-end materials like brass and high-gloss finishes",
-        "space_type": "Residential Living Room",
-        "functionality": "Aesthetic and decorative, possibly used for reception or displaying decorative items",
-        "indian_specific": "Decorative wall panel with traditional motifs, metallic details on the vase, and the use of brass and wood"
+        "space_utilization": "Efficient use of vertical space with built-in shelving and storage drawers",
+        "cultural_significance": "Backlit mirror is a traditional element used in Indian interiors, symbolizing prosperity and good fortune"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern Indian bathroom with a blend of traditional and contemporary elements. The space features a backlit mirror, which is a traditional Indian element known as 'mukhavant', used to reflect light and symbolize prosperity. The wooden cabinet with open shelves and drawers is a modern adaptation of the traditional jharokha, a decorative window. The use of backlit mirror with LED lights and modern materials like glass and metal reflects a modern interpretation of traditional Indian design elements. The overall layout and organization of the space are efficient, utilizing vertical space for storage and decorative purposes.",
+    "metadata": {
+      "tags": [
+        "Backlit mirror",
+        "Wooden cabinet",
+        "Modern Indian",
+        "Northern Indian",
+        "Decorative shelves"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Bathroom",
+      "functionality": "Storage and personal grooming",
+      "indian_specific": "Backlit mirror, wooden cabinet"
     }
   },
-  "cached_at": 1753460728963,
+  "cached_at": 1754495757535,
   "cache_key": "faa2c058ad97d9ecd8eafee4723d62cf"
 }

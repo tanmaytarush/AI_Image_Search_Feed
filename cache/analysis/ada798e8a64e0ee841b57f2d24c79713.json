@@ -3,21 +3,21 @@
   "analysis": {
     "image_id": "img_047",
     "ai_generated_tags": {
-      "room": "Entryway",
+      "room": "Entryway or foyer",
       "theme": "Contemporary Indian",
       "primary_features": [
-        "Wooden entrance gate with carved patterns",
-        "Marble walls",
-        "LED strip lighting",
-        "Modern wall-mounted switches"
+        "Wooden partition with carved designs",
+        "Black marble wall paneling",
+        "Semitransparent wooden slats",
+        "Modern lighting fixtures"
       ],
       "objects": [
         {
-          "type": "Entrance gate",
+          "type": "Wooden partition",
           "features": [
-            "Decorative wooden slats",
-            "Carved religious symbols",
-            "Rectangular cutouts"
+            "Carved designs with religious symbols",
+            "Natural wood finish",
+            "Semi-transparent wooden slats"
           ],
           "materials": [
             "Teak wood"
@@ -25,75 +25,80 @@
           "finish": "Natural wood finish"
         },
         {
-          "type": "Marble walls",
+          "type": "Black marble wall paneling",
           "features": [
-            "Dark gray marble tiles"
+            "Smooth and polished surface",
+            "Geometric pattern"
           ],
           "materials": [
             "Marble"
           ],
-          "finish": "Polished"
+          "finish": "Polished finish"
         },
         {
-          "type": "Ceiling",
+          "type": "Lighting fixtures",
           "features": [
-            "LED strip lighting"
+            "Recessed lights",
+            "Modern design"
           ],
           "materials": [
-            "Plasterboard"
+            "Not discernible"
           ],
-          "finish": "Smooth"
+          "finish": "Not applicable"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark gray marble",
-          "Natural wood tone",
-          "White ceiling"
+          "Brown",
+          "Black",
+          "White",
+          "Gray"
         ],
         "materials": [
           "Teak wood",
           "Marble",
-          "Plasterboard"
+          "Painted surfaces"
         ],
-        "lighting": "Ambient LED strip lighting",
-        "texture": "Smooth and polished surfaces"
+        "lighting": "Recessed lighting providing ambient light",
+        "texture": "Smooth and polished textures"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but could be from northern India due to marble and wood usage",
+        "regional_style": "Not specific to a regional style",
         "traditional_elements": [
-          "Carved religious symbols on the gate"
+          "Carved designs",
+          "Religious symbols"
         ],
         "modern_adaptations": [
-          "Integration of LED strip lighting and modern wall switches"
+          "Contemporary lighting fixtures",
+          "Semi-transparent wooden slats"
         ],
-        "space_utilization": "Efficient use of vertical space with the gate",
-        "cultural_significance": "The gate with carved religious symbols represents welcome and spirituality in Indian culture"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image showcases a contemporary Indian entryway design featuring a carved wooden gate with religious symbols, dark gray marble walls, and ambient LED strip lighting. The space is organized with efficient use of vertical space, integrating traditional Indian elements like the gate with modern adaptations such as LED lighting and modern wall-mounted switches.",
-      "metadata": {
-        "tags": [
-          "Indian entryway",
-          "Contemporary design",
-          "Marble walls",
-          "Wooden gate",
-          "LED lighting",
-          "Traditional elements"
-        ],
-        "budget_indicator": "Mid-range, as it includes both natural wood and marble materials",
-        "space_type": "Residential entrance",
-        "functionality": "Welcome and transition area",
-        "indian_specific": "Decorative wooden gate with religious symbols"
+        "space_utilization": "Partition acts as a functional division",
+        "cultural_significance": "Carved designs and religious symbols have cultural and religious significance"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This space is a contemporary Indian-inspired entryway or foyer featuring a wooden partition with carved designs and semi-transparent wooden slats, complemented by black marble wall paneling. The partition serves both as a decorative element and a functional divider, with modern recessed lighting providing a warm ambiance. The design incorporates traditional Indian motifs with modern adaptations, reflecting a blend of cultural significance and contemporary aesthetics.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Contemporary design",
+        "Wooden partition",
+        "Marble wall",
+        "Religious symbols",
+        "Semi-transparent slats"
+      ],
+      "budget_indicator": "Moderate to high, with teak wood and marble contributing to the cost",
+      "space_type": "Entryway/foyer",
+      "functionality": "Division and decorative element",
+      "indian_specific": "Carved designs, religious symbols, natural wood finish"
     }
   },
-  "cached_at": 1753957246934,
+  "cached_at": 1754489823496,
   "cache_key": "ada798e8a64e0ee841b57f2d24c79713"
 }

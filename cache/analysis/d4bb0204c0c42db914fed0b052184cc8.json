@@ -3,100 +3,108 @@
   "analysis": {
     "image_id": "img_077",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Contemporary Minimalist",
+      "room": "Kitchen and Living Area",
+      "theme": "Modern Indian Fusion",
       "primary_features": [
-        "L-shaped kitchen island",
-        "Modern lighting fixture",
+        "White cabinetry with geometric patterns",
+        "Pink and white modular kitchen units",
         "Marble countertops",
-        "Colorful cabinetry",
-        "Teak wood accents"
+        "Wooden door with vertical slats",
+        "Television unit with built-in speakers",
+        "Neon light fixture"
       ],
       "objects": [
         {
           "type": "Kitchen Island",
           "features": [
-            "L-shaped design",
-            "White cabinet finish with geometric patterns"
+            "Central island with white cabinetry",
+            "Geometric patterns on doors",
+            "Countertop with geometric design"
           ],
           "materials": [
-            "MDF or Laminate",
+            "White cabinetry",
             "Marble countertop"
           ],
-          "finish": "Smooth and glossy"
+          "finish": "Smooth glossy finish"
         },
         {
-          "type": "Lighting Fixture",
+          "type": "Kitchen Cabinets",
           "features": [
-            "Neon style",
-            "Combination of black and white with abstract shapes"
+            "Pink and white modular units",
+            "Wooden drawer fronts"
           ],
           "materials": [
-            "Metallic finish"
+            "Pink and white panels",
+            "Wooden drawer fronts"
           ],
-          "finish": "Polished"
+          "finish": "Glossy finish"
         },
         {
-          "type": "Cabinetry",
+          "type": "Television Unit",
           "features": [
-            "Modern L-shaped layout",
-            "Varying colors (pink, white, teak wood)"
+            "Wooden unit with built-in speakers",
+            "Marble top"
           ],
           "materials": [
-            "MDF or Laminate",
-            "Teak wood"
+            "Wooden slats",
+            "Marble top"
           ],
-          "finish": "Smooth and glossy"
+          "finish": "Smooth finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
           "Pink",
-          "Teak wood brown",
-          "Marble gray"
+          "White",
+          "Marble grey",
+          "Wooden brown",
+          "Neon white"
         ],
         "materials": [
           "Marble",
-          "MDF or Laminate",
-          "Teak wood"
+          "Wood",
+          "Metal",
+          "Glass"
         ],
-        "lighting": "Natural light with modern overhead and pendant lighting",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "Natural light from window, recessed ceiling lights, neon light fixture",
+        "texture": "Smooth surfaces with some textures in the wood and marble"
       },
       "indian_context": {
-        "regional_style": "Not explicitly Indian regional style",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Modern interpretation of traditional color combinations and materials"
+        "regional_style": "Not distinctly regional with modern influences",
+        "traditional_elements": [
+          "Wooden door with vertical slats"
         ],
-        "space_utilization": "Efficient use of space with L-shaped kitchen island maximizing utility",
-        "cultural_significance": ""
+        "modern_adaptations": [
+          "Pink and white cabinetry",
+          "Neon light fixture"
+        ],
+        "space_utilization": "Open layout with kitchen and living area",
+        "cultural_significance": "The use of wood and marble reflects traditional materials commonly used in Indian homes"
       }
     },
     "confidence_scores": {
-      "room": 0.85,
-      "theme": 0.8,
-      "primary_features": 0.9,
-      "objects": 0.95,
-      "indian_context": 0.6
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
     },
-    "description": "This modern kitchen features a contemporary design with a L-shaped kitchen island as the centerpiece. The cabinetry includes a mix of white MDF or laminate with geometric patterns, and pink cabinets, creating a vibrant and modern look. The countertops are marble, and the walls and floor are also marble, adding to the luxurious feel. The lighting fixture combines modern aesthetics with a neon-style design, featuring black and white abstract shapes. The kitchen is adjacent to a living space with a TV and wooden accents, suggesting a combined living and dining area. The overall design is a contemporary adaptation of traditional Indian color palettes and materials.",
+    "description": "The image showcases a modern Indian fusion kitchen and living area. The kitchen features sleek white cabinetry with geometric patterns, pink and white modular units, and marble countertops. The living area includes a wooden television unit with built-in speakers and a television displaying a streaming service. The space is illuminated by natural light from a window, recessed ceiling lights, and a neon light fixture. Traditional elements are subtly integrated, such as the wooden door with vertical slats, while modern adaptations are evident in the cabinetry color scheme and neon lighting. The overall design combines contemporary aesthetics with traditional Indian materials and color palettes.",
     "metadata": {
       "tags": [
-        "Contemporary Kitchen",
-        "Modern Design",
-        "Colorful Cabinets",
+        "Modern Indian Kitchen",
+        "Pink and White Cabinets",
         "Marble Countertops",
         "Neon Lighting",
-        "Indian Color Palette"
+        "Wooden Door",
+        "Living Area Integration"
       ],
-      "budget_indicator": "Medium to High, due to use of marble and modern finishes",
-      "space_type": "Residential Kitchen and Living Space",
-      "functionality": "Primary purpose is a functional kitchen with a living area adjacent",
-      "indian_specific": "Modern interpretation of traditional color combinations and materials"
+      "budget_indicator": "Moderate to high, given the use of marble and modern cabinetry",
+      "space_type": "Residential",
+      "functionality": "Combined kitchen and living space for cooking, dining, and entertainment",
+      "indian_specific": "Indian-specific design features include the use of wood, marble, and traditional cabinet designs"
     }
   },
-  "cached_at": 1753957551796,
+  "cached_at": 1754490407709,
   "cache_key": "d4bb0204c0c42db914fed0b052184cc8"
 }

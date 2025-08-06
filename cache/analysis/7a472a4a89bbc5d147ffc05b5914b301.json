@@ -2,100 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/937/image_cropper_1729350619573.jpg",
   "analysis": {
     "image_id": "img_369",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/937/image_cropper_1729350619573.jpg",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Contemporary Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Sliding door with geometric pattern",
-        "Bathroom vanity with mirror cabinet",
-        "Wall-mounted sink",
-        "Blue and white color scheme"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Sliding door",
+          "type": "furniture",
           "features": [
-            "Geometric pattern with blue and white colors",
-            "Modern design"
+            "traditional_style"
           ],
           "materials": [
-            "Painted finish"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth"
-        },
-        {
-          "type": "Bathroom vanity with mirror cabinet",
-          "features": [
-            "Integrated sink",
-            "Mirror with cabinet storage",
-            "White finish"
-          ],
-          "materials": [
-            "Painted wood",
-            "Glass"
-          ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Wall-mounted sink",
-          "features": [
-            "Compact design",
-            "Integrated into vanity"
-          ],
-          "materials": [
-            "Painted wood"
-          ],
-          "finish": "Smooth"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Blue",
-          "Gray"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Painted wood",
-          "Glass",
-          "Metal"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth surface finish"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "No specific regional style visible",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Modern interpretation of minimal design"
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
         ],
-        "space_utilization": "Efficient use of space with built-in storage",
-        "cultural_significance": "No culturally significant elements visible"
+        "modern_adaptations": [
+          "contemporary_design"
+        ],
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image depicts a contemporary minimalist bathroom with a modern design approach. The sliding door features a geometric pattern in blue and white, which is a common color palette in Indian interiors. The bathroom vanity is integrated with a mirror cabinet, providing efficient storage and a sleek design. The wall-mounted sink and smooth surface finishes contribute to the minimalist aesthetic. The space is well-lit with natural light from the window, and the overall design prioritizes functionality and simplicity.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Bathroom",
-        "Contemporary",
-        "Minimalist",
-        "Geometric pattern",
-        "Blue and white",
-        "Integrated vanity",
-        "Wall-mounted sink"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Low to medium, considering the materials and finishes used.",
-      "space_type": "Residential bathroom",
-      "functionality": "Primary purpose is for hygiene and grooming activities.",
-      "indian_specific": "No specific Indian design features visible, but the color palette aligns with common Indian interior trends."
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729350619573.jpg"
   },
-  "cached_at": 1753460980173,
+  "cached_at": 1754495996794,
   "cache_key": "7a472a4a89bbc5d147ffc05b5914b301"
 }

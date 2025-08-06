@@ -4,85 +4,88 @@
     "image_id": "img_323",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Modern Indian Fusion",
+      "theme": "Modern Indian Interior",
       "primary_features": [
-        "Large screen TV",
-        "Built-in shelves",
-        "Decorative wall paneling"
+        "Teak wood flooring",
+        "Modern wall unit with marble accents",
+        "Carved wooden decorative elements"
       ],
       "objects": [
         {
-          "type": "Built-in shelves",
+          "type": "Carved wooden chair",
           "features": [
-            "Stylistic, angular design",
-            "Integrated into wall unit"
+            "Carved wooden backrest",
+            "Teak wood construction",
+            "Traditional design"
           ],
           "materials": [
-            "Looks like wood and metal"
+            "Teak wood"
           ],
-          "finish": "Glossy, polished finish"
+          "finish": "Natural teak wood finish with carved details"
         },
         {
-          "type": "Wall paneling",
+          "type": "Modern wall unit",
           "features": [
-            "Decorative, with intricate patterns"
+            "Marble countertops",
+            "Embedded lighting",
+            "Teak wood frame"
           ],
           "materials": [
-            "Looks like wood or acrylic"
+            "Marble",
+            "Teak wood"
           ],
-          "finish": "Shiny, reflective surface"
+          "finish": "Marble polished finish with teak wood frame"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Gold",
-          "Black",
-          "Brown"
+          "Teak brown",
+          "Marble white",
+          "Gold accents",
+          "Black countertop"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Acrylic",
-          "Paint"
+          "Teak wood",
+          "Marble",
+          "Metal"
         ],
-        "lighting": "Indirect, ambient lighting highlighting the wall paneling",
-        "texture": "Smooth surfaces with a mix of glossy and matte finishes"
+        "lighting": "Modern embedded lighting within the wall unit",
+        "texture": "Smooth marble and polished teak wood surfaces"
       },
       "indian_context": {
-        "regional_style": "Mughal Influence",
+        "regional_style": "North Indian",
         "traditional_elements": [
-          "Decorative wall paneling imitates jharokha design"
+          "Carved wooden elements"
         ],
         "modern_adaptations": [
-          "Integration of modern technology like screen TV"
+          "Integration of marble and modern lighting"
         ],
-        "space_utilization": "Efficient, multi-purpose space for entertainment",
-        "cultural_significance": "Wall paneling with intricate patterns is a nod to traditional Indian craftsmanship"
+        "space_utilization": "Efficient use of wall space for storage and display",
+        "cultural_significance": "Traditional carved wood elements signify cultural heritage and craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior features a modern take on traditional North Indian design, utilizing carved wooden elements as focal points. The room incorporates a sleek, contemporary wall unit with marble accents and embedded lighting, seamlessly blending traditional craftsmanship with modern aesthetics.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Interior",
+          "Carved Wood",
+          "Teak Wood",
+          "Marble Accents",
+          "North Indian Style"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential Living Room",
+        "functionality": "Primary living area for relaxation and entertainment",
+        "indian_specific": "Carved wooden elements and traditional motifs"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "A modern fusion living room featuring a large screen TV integrated into a wall unit with built-in shelves and decorative wall paneling with intricate patterns reminiscent of Mughal architectural elements. The space showcases a blend of traditional craftsmanship and contemporary design, with a focus on efficient space utilization and cultural aesthetics.",
-    "metadata": {
-      "tags": [
-        "Modern Indian Fusion",
-        "Living Room",
-        "Mughal Influences",
-        "Decorative Wall Paneling",
-        "Built-in Shelves"
-      ],
-      "budget_indicator": "Moderate, with a mix of traditional and modern materials",
-      "space_type": "Residential",
-      "functionality": "Entertainment and relaxation",
-      "indian_specific": "Decorative wall paneling with traditional patterns"
     }
   },
-  "cached_at": 1753460439249,
+  "cached_at": 1754495373018,
   "cache_key": "e1550aa16dbe9a18660be5c6187181d5"
 }

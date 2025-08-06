@@ -3,87 +3,73 @@
   "analysis": {
     "image_id": "img_215",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Indian Contemporary",
+      "room": "Kitchen",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Carpeted flooring",
-        "Glass-enclosed shelves",
-        "Television"
+        "Cabinet doors with glass panels",
+        "Marble countertops",
+        "Decorative wall tiles"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "Kitchen cabinets",
           "features": [
-            "Modern design with glass panels",
-            "Light wood finish"
+            "Built-in design",
+            "belt joints for durability"
           ],
           "materials": [
-            "Light wood",
-            "Glass"
+            "Teak wood for frame, glass panels for doors"
           ],
-          "finish": "Sleek and glossy"
-        },
-        {
-          "type": "Television",
-          "features": [
-            "Flat-screen",
-            "Glass stand"
-          ],
-          "materials": [
-            "Glass"
-          ],
-          "finish": "Polished"
+          "finish": "Smooth finish on wooden frame, reflective glass doors"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light wood brown",
           "White",
-          "Grey",
-          "Black"
+          "Gray",
+          "Brown (from wood)",
+          "Clear (glass doors)"
         ],
         "materials": [
-          "Wood",
-          "Glass",
-          "Metal"
+          "Teak wood, glass, marble"
         ],
-        "lighting": "Natural light with artificial overhead lighting",
-        "texture": "Smooth surfaces"
+        "lighting": "Natural light from window",
+        "texture": "Smooth wood texture, glossy glass, polished marble"
       },
       "indian_context": {
-        "regional_style": "Not strongly regional",
+        "regional_style": "Maharashtra",
         "traditional_elements": [
-          "Not visible"
+          "Teak wood"
         ],
         "modern_adaptations": [
-          "Use of glass and modern materials"
+          "Glass doors, modern kitchen design"
         ],
-        "space_utilization": "Open and functional, maximizing the use of wall space",
-        "cultural_significance": "Modern interpretation of Indian contemporary style, using clean lines and materials"
+        "space_utilization": "Efficient use of vertical space with cabinets",
+        "cultural_significance": "Teak wood symbolizes strength and durability in Indian homes"
       },
       "confidence_scores": {
-        "room": 0.92,
-        "theme": 0.85,
-        "primary_features": 0.93,
-        "objects": 0.94,
-        "indian_context": 0.88
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The living room features a modern interpretation of Indian design with a clean, minimalist aesthetic. The use of light wood, glass, and metal creates a contemporary look. The open shelves are a modern adaptation of traditional storage solutions, while the clean lines and use of glass reflect a modern Indian design approach. The overall space is open and functional, maximizing the use of wall space and creating a bright and airy feel.",
+      "description": "This image depicts a modern Indian kitchen with a focus on efficient space utilization and a blend of traditional and contemporary elements. Key features include built-in cabinets with glass doors made from teak wood, which adds a touch of traditional Indian craftsmanship. The marble countertops and decorative wall tiles contribute to a sleek, modern aesthetic. The overall design exemplifies a modern interpretation of traditional Indian design, incorporating materials and techniques that are both culturally significant and aesthetically pleasing.",
       "metadata": {
         "tags": [
-          "Modern Indian Contemporary",
-          "Living Room",
-          "Glass Shelves",
-          "Light Wood",
-          "Television"
+          "Modern Indian",
+          "Kitchen design",
+          "Teak wood",
+          "Glass cabinets",
+          "Marble countertops"
         ],
-        "budget_indicator": "Moderate, with a focus on modern materials and finishes",
-        "space_type": "Residential",
-        "functionality": "Entertainment and storage",
-        "indian_specific": "Modern adaptation of Indian design elements"
+        "budget_indicator": "Moderate",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for cooking and food preparation",
+        "indian_specific": "Teak wood, glass doors for cabinets"
       }
     }
   },
-  "cached_at": 1753459367681,
+  "cached_at": 1754493222222,
   "cache_key": "8493a8df3b17c5773520ac4ed94bda89"
 }

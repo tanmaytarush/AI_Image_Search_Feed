@@ -4,58 +4,50 @@
     "image_id": "img_102",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Indian Contemporary",
+      "theme": "Indian Traditional",
       "primary_features": [
-        "Carved wooden paneling",
-        "Teak wood furniture",
-        "Television unit with storage",
-        "Built-in shelves"
+        "Carved wooden doorframe",
+        "Teak wood paneling",
+        "Teak wood cabinet"
       ],
       "objects": [
         {
-          "type": "Teak Wood Cabinetry",
+          "type": "Teak wood cabinet",
           "features": [
-            "Horizontal and vertical wood paneling",
-            "Cabinet doors with white trim"
-          ],
-          "materials": [
-            "Teak wood, white paint"
-          ],
-          "finish": "Smooth finish on teak wood, glossy white paint"
-        },
-        {
-          "type": "Teak Wood Television Unit",
-          "features": [
-            "Central storage compartment",
-            "Built-in shelves"
+            "Large storage space",
+            "White and brown color scheme",
+            "Carved wooden decorative elements"
           ],
           "materials": [
             "Teak wood"
           ],
-          "finish": "Smooth finish on teak wood"
+          "finish": "Natural teak wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (teak wood), white (paint), dark brown (wooden paneling)"
+          "Brown",
+          "White",
+          "Teak wood"
         ],
         "materials": [
-          "Teak wood, painted white surfaces, wooden paneling"
+          "Teak wood",
+          "Painted surfaces"
         ],
-        "lighting": "Ambient lighting from surrounding area",
-        "texture": "Smooth and polished textures on teak wood and paneling"
+        "lighting": "Natural light from above, possibly from a window",
+        "texture": "Smooth finish on the teak wood, painted surfaces with a matte finish"
       },
       "indian_context": {
-        "regional_style": "Maharashtra or Gujarat",
+        "regional_style": "Maharashtra",
         "traditional_elements": [
-          "Carved wood paneling",
-          "Teak wood furniture"
+          "Carved wooden elements",
+          "Teak wood usage"
         ],
         "modern_adaptations": [
-          "Integrated built-in storage and shelving"
+          "Teak wood cabinet with modern storage solutions"
         ],
-        "space_utilization": "Efficient use of space with built-in shelves and storage",
-        "cultural_significance": "Indicates a living space with emphasis on functionality and aesthetic appeal, reflecting contemporary Indian interior design trends"
+        "space_utilization": "Efficient use of vertical space with a cabinet that doubles as storage",
+        "cultural_significance": "Carved elements and teak wood suggest a connection to traditional craftsmanship and regional aesthetics"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -64,23 +56,23 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern Indian living room with a focus on traditional Indian elements, such as carved wooden paneling and teak wood furniture. The space features a built-in television unit with storage and additional shelving, reflecting a contemporary approach to space utilization. The use of teak wood and white painted panels highlights a blend of traditional and modern styles, typical of Indian contemporary design.",
+      "description": "The image showcases a living room with a strong emphasis on traditional Indian design elements. The room features a carved wooden doorframe and a large teak wood cabinet, both indicative of regional craftsmanship. The natural finish of the teak wood and the clean white accents create a harmonious blend of tradition and modern utility. The vertical storage cabinet is a modern adaptation of traditional furniture, suggesting a balance between old and new design philosophies.",
       "metadata": {
         "tags": [
           "Indian interior design",
-          "Teak wood furniture",
+          "Traditional furniture",
+          "Teak wood",
           "Maharashtra style",
-          "Contemporary Indian design",
-          "Carved wooden paneling",
-          "Built-in storage"
+          "Carved elements",
+          "Modern adaptation"
         ],
-        "budget_indicator": "Mid-range, considering the use of teak wood and painted surfaces",
-        "space_type": "Living Room",
-        "functionality": "Entertainment and storage",
-        "indian_specific": "Use of teak wood and carved paneling"
+        "budget_indicator": "Moderate, with a focus on quality materials like teak wood",
+        "space_type": "Residential living room",
+        "functionality": "Storage and display",
+        "indian_specific": "Traditional furniture styles and materials"
       }
     }
   },
-  "cached_at": 1753451624335,
+  "cached_at": 1754491072669,
   "cache_key": "7ac4582d94f66a1ecc600dbb62004d53"
 }

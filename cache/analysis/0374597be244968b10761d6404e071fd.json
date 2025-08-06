@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1570/insta_assets_crop_53081166-6126-4053-b3e7-f2c932aee3b6736111657728646364.jpg",
+  "analysis": {
+    "image_id": "img_448",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Indian Traditional",
+      "primary_features": [
+        "Carved wooden elements",
+        "Wooden furniture",
+        "Decorative wall paneling"
+      ],
+      "objects": [
+        {
+          "type": "Teak wooden cabinet",
+          "features": [
+            "Decorative carvings on the doors",
+            "Polished wooden surface",
+            "Teak wood material"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth and polished finish"
+        },
+        {
+          "type": "Wooden shelf",
+          "features": [
+            "Carved wooden brackets",
+            "Teak wood material",
+            "Simple design"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak wood finish"
+        },
+        {
+          "type": "Decorative wall paneling",
+          "features": [
+            "Dark wood inlay details",
+            "Geometric patterns"
+          ],
+          "materials": [
+            "Teak wood and brass inlay"
+          ],
+          "finish": "Polished teak wood with brass inlay"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (teak wood)",
+          "Black (inlay details)",
+          "White (wall paneling)",
+          "Accents of brass"
+        ],
+        "materials": [
+          "Teak wood",
+          "Brass",
+          "Wood"
+        ],
+        "lighting": "Natural lighting through a window (not visible but implied)",
+        "texture": "Smooth teak wood, polished brass inlays, wooden inlay textures"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian or North Indian",
+        "traditional_elements": [
+          "Carved wooden panels",
+          "Teak wood furniture",
+          "Brass inlay"
+        ],
+        "modern_adaptations": [
+          "Integration of modern elements with traditional forms"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage with wooden shelves and cabinets",
+        "cultural_significance": "The use of wooden carvings and inlays represents artistry and craftsmanship, often associated with religious or cultural ceremonies and celebrations"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a traditional Indian living room with a focus on wood and brass. The room features intricately carved wooden furniture, including a cabinet and a shelf, and decorative wall paneling with inlaid brass details. The design emphasizes the use of teak wood, known for its durability and beauty in Indian interiors. The room is well-organized, maximizing storage space with shelves and cabinets, while the design elements reflect a blend of traditional craftsmanship and cultural significance typical of North Indian or Maharashtrian styles.",
+    "metadata": {
+      "tags": [
+        "Indian traditional interior",
+        "Maharashtrian style",
+        "Teak wood furniture",
+        "Brass inlay",
+        "Living room"
+      ],
+      "budget_indicator": "Higher, due to use of teak wood and brass inlays",
+      "space_type": "Residential",
+      "functionality": "Storage and display",
+      "indian_specific": "Carved wooden elements, brass inlay, teak wood furniture"
+    }
+  },
+  "cached_at": 1754496507019,
+  "cache_key": "0374597be244968b10761d6404e071fd"
+}

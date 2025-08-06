@@ -2,135 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00645.JPG",
   "analysis": {
     "image_id": "img_091",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00645.JPG",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Light green cabinetry",
-        "White countertops",
-        "Marble floor",
-        "Integrated cooktop",
-        "Sleek design"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Vase",
+          "type": "furniture",
           "features": [
-            "Decorative",
-            "Floral arrangement"
+            "traditional_style"
           ],
           "materials": [
-            "Metallic",
-            "Porcelain"
+            "wood",
+            "fabric"
           ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Water jug",
-          "features": [
-            "Translucent",
-            "Blue lid"
-          ],
-          "materials": [
-            "Plastic"
-          ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Kitchenware",
-          "features": [
-            "Ceramic",
-            "Colorful"
-          ],
-          "materials": [
-            "Clay"
-          ],
-          "finish": "Glazed"
-        },
-        {
-          "type": "Enameled utensils",
-          "features": [
-            "Patterned",
-            "Copper body"
-          ],
-          "materials": [
-            "Copper",
-            "Enamel"
-          ],
-          "finish": "Smooth"
-        },
-        {
-          "type": "Teapot",
-          "features": [
-            "Black"
-          ],
-          "materials": [
-            "Plastic"
-          ],
-          "finish": "Glossy"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light green",
-          "White",
-          "Gold",
-          "Green",
-          "Red",
-          "Blue",
-          "Brown",
-          "Black"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Marble",
-          "Glass",
-          "Copper",
-          "Porcelain",
-          "Plastic",
-          "Clay",
-          "Metallic"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Artificial, bright, and evenly distributed",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Marble flooring"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Integrated cooktop",
-          "Minimalist design"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with an open layout",
-        "cultural_significance": "The use of marble and other materials reflects Indian craftsmanship and aesthetic preferences"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The kitchen showcases a blend of modern and traditional Indian elements, featuring sleek, light green cabinetry paired with white countertops and marble flooring, creating a visually clean and contemporary space. The inclusion of traditional materials like marble and decorative elements such as enameled utensils and a copper teapot adds a touch of cultural significance, while the clean lines and modern appliances reflect a blend of traditional craftsmanship and contemporary design.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Modern Indian",
-        "Cultural Kitchen",
-        "Light Green Cabinets",
-        "White Countertops",
-        "Marble Flooring",
-        "Minimalist Design",
-        "Copper Teapot",
-        "Enameled Utensils"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Mid-range, with the use of modern materials and appliances",
-      "space_type": "Residential Kitchen",
-      "functionality": "Primary cooking and food preparation area",
-      "indian_specific": "Use of marble, traditional utensils, and enameled items"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "ABN00645.JPG"
   },
-  "cached_at": 1753957739200,
+  "cached_at": 1754490743474,
   "cache_key": "580d710c4f68f9ff64d7d99c64cfb30b"
 }

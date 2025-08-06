@@ -2,92 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/282/image_cropper_1727334056169.jpg",
   "analysis": {
     "image_id": "img_366",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/282/image_cropper_1727334056169.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Contemporary Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Bed with detailed headboard",
-        "Wall-mounted shelves",
-        "Decorative wall panel"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "furniture",
           "features": [
-            "Simple design with patterned headboard and blue bedding"
+            "traditional_style"
           ],
           "materials": [
-            "Wood (likely teak)",
-            "Fabric (for bedding)"
+            "wood",
+            "fabric"
           ],
-          "finish": "Wood has a natural, slightly polished finish"
-        },
-        {
-          "type": "Wall-mounted shelves",
-          "features": [
-            "Modern design, clean lines"
-          ],
-          "materials": [
-            "Metal (likely brass or copper)"
-          ],
-          "finish": "Metallic with a polished, reflective surface"
-        },
-        {
-          "type": "Decorative wall panel",
-          "features": [
-            "Carved wooden panel with intricate design"
-          ],
-          "materials": [
-            "Wood (likely teak)"
-          ],
-          "finish": "Carved and possibly painted with a traditional design"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Blue, white, brown, gray"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood, metal, fabric"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Ambient light from natural source, possibly a window",
-        "texture": "Textured wood and smooth metal surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not strongly regional, but could be from a coastal or modernized urban setting",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Carved wooden panel"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Wall-mounted shelves, contemporary color palette"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient, with storage and decorative elements integrated into the design",
-        "cultural_significance": "The carved wooden panel could have spiritual or cultural significance in certain Indian homes"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The interior space appears to be a modernized Indian bedroom with a blend of traditional and contemporary elements. The bed features a detailed, carved wooden headboard, a common traditional Indian feature. Wall-mounted shelves add a modern touch while the bed and panel elements maintain a connection to Indian design aesthetics. The room is well-lit and organized, with a focus on storage and decorative spaces. The color palette is simple and modern, with blue, white, and brown tones, which are often seen in contemporary Indian design. The presence of the carved wooden panel adds a cultural element, possibly indicating a regional influence or a nod to traditional craftsmanship.",
-      "metadata": {
-        "tags": [
-          "bedroom",
-          "contemporary",
-          "Indian design",
-          "carved wood",
-          "modern shelves",
-          "blue and white"
-        ],
-        "budget_indicator": "Mid-range, as indicated by the use of teak for the bed and panel, brass/copper for the shelves, and the patterned fabric for bedding.",
-        "space_type": "Residential bedroom",
-        "functionality": "Primary purpose is sleep, with secondary functions for storage and display",
-        "indian_specific": "Traditional carved wooden panel and use of wood in furniture"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1727334056169.jpg"
   },
-  "cached_at": 1753460947875,
+  "cached_at": 1754495987588,
   "cache_key": "524a397ba3a3a958537473fd16bf5a95"
 }

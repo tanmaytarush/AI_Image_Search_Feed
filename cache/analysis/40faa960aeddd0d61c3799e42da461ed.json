@@ -2,93 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/256/image_cropper_1727243566255.jpg",
   "analysis": {
     "image_id": "img_367",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/256/image_cropper_1727243566255.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Contemporary Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Bed with wooden frame",
-        "Arched window",
-        "Pink and white bedding",
-        "Wooden headboard"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "furniture",
           "features": [
-            "Cozy mattress",
-            "Embroidered bedding",
-            "Wooden frame"
+            "traditional_style"
           ],
           "materials": [
-            "Wood",
-            "Fabric"
+            "wood",
+            "fabric"
           ],
-          "finish": "Weathered wood, soft fabric"
-        },
-        {
-          "type": "Bedside table",
-          "features": [
-            "Small, simple design"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural wood finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Pink",
-          "White",
-          "Red",
-          "Brown",
-          "Purple"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Fabric",
-          "Glass",
-          "Metal"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Smooth fabric, rough wood, reflective glass"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Mughal influence",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Arched window",
-          "Carved wood"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary furniture",
-          "Bright color palette"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with a focus on functionality",
-        "cultural_significance": "Arched window symbolizes traditional Mughal architecture, while bright colors are often used to evoke joy and positivity"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "This contemporary Indian bedroom features a bed with a wooden frame and pink and white bedding. An arched window adds a traditional touch, while the bright color palette and modern furniture create a vibrant and welcoming space. The room's organization maximizes the available space, and the use of natural light enhances the overall ambiance.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Bedroom",
-        "Contemporary Indian",
-        "Mughal Style",
-        "Bright Colors",
-        "Arched Window"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Sleeping and relaxation area",
-      "indian_specific": "Arched window, wooden bed frame, bright color palette"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1727243566255.jpg"
   },
-  "cached_at": 1753460964605,
+  "cached_at": 1754495993698,
   "cache_key": "40faa960aeddd0d61c3799e42da461ed"
 }

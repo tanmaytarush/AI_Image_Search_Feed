@@ -3,81 +3,88 @@
   "analysis": {
     "image_id": "img_166",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Contemporary Indian",
+      "room": "Bedroom",
+      "theme": "Eclectic",
       "primary_features": [
-        "Wooden floor",
-        "Teak furniture",
-        "Carpeted area"
+        "Furniture on the wall",
+        "Carved wooden paneling",
+        "Decorative elements"
       ],
       "objects": [
         {
-          "type": "Carved teak furniture",
+          "type": "Wooden bed with storage",
           "features": [
-            "Intricate wood carvings",
-            "Dark brown color"
+            "Dark wood finish",
+            "Carved detailing on headboard",
+            "Integrated storage drawers beneath"
           ],
           "materials": [
             "Teak wood"
           ],
-          "finish": "Polished surface"
+          "finish": "Dark brown, polished"
         },
         {
-          "type": "Carpeted area",
+          "type": "Wall-mounted cabinet",
           "features": [
-            "Light beige carpet"
+            "Carved wooden paneling",
+            "Decorative carvings"
           ],
           "materials": [
-            "Cotton or wool"
+            "Teak wood"
           ],
-          "finish": "Smooth surface"
+          "finish": "Dark brown, polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark brown",
-          "Beige",
-          "White"
+          "Dark brown (wood)",
+          "White (wall, floor)",
+          "Blue (wall art)"
         ],
         "materials": [
           "Teak wood",
-          "Carpet"
+          "Painted wall",
+          "Carved wood"
         ],
         "lighting": "Natural light from window",
-        "texture": "Smooth and polished surfaces"
+        "texture": "Smooth wood texture, painted wall"
       },
       "indian_context": {
-        "regional_style": "Northern Indian",
+        "regional_style": "No specific regional style evident",
         "traditional_elements": [
-          "Carved teak furniture"
+          "Wooden carving",
+          "Carved wooden paneling"
         ],
-        "modern_adaptations": [],
-        "space_utilization": "Compact and functional arrangement",
-        "cultural_significance": "Furniture carved with traditional motifs often symbolizes hospitality and cultural heritage"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image depicts a compact living space with contemporary Indian elements. The room features carved teak furniture, a common feature in Northern Indian design, giving it a traditional yet modern feel. The dark brown carved teak furniture contrasts with the light beige carpet, creating a visually appealing color palette. The space appears to be well-utilized for functionality, with a balance of traditional and modern aesthetics. The cultural significance of the carved furniture is evident, as it often symbolizes hospitality and cultural heritage in Indian homes.",
-      "metadata": {
-        "tags": [
-          "Contemporary Indian",
-          "Northern Indian",
-          "Teak furniture",
-          "Carved motifs",
-          "Compact living space"
+        "modern_adaptations": [
+          "Modern storage solution",
+          "Contemporary furniture design"
         ],
-        "budget_indicator": "Moderate, as teak wood and quality craftsmanship are involved",
-        "space_type": "Living Room",
-        "functionality": "Relaxation and socializing",
-        "indian_specific": "Carved teak furniture, carpeted area"
+        "space_utilization": "Space is organized with furniture and storage",
+        "cultural_significance": "Carved wooden elements symbolize craftsmanship and traditional artistry"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a bedroom with a blend of traditional and modern elements. A dark wood bed with integrated storage drawers and carved wooden headboard is the focal point. The wall beside the bed features ornate carved wooden paneling, adding a touch of traditional Indian craftsmanship. The room's design incorporates modern storage solutions, blending the traditional with contemporary aesthetics. The color palette, dominated by dark brown wood and white walls, is a common choice in Indian interiors, reflecting elegance and simplicity.",
+    "metadata": {
+      "tags": [
+        "Indian bedroom",
+        "Wooden furniture",
+        "Carved paneling",
+        "Modern storage",
+        "Dark brown color scheme"
+      ],
+      "budget_indicator": "Mid-range, with high-quality wood and carved details indicating a slightly higher budget",
+      "space_type": "Residential bedroom",
+      "functionality": "Primary sleeping area with storage solutions",
+      "indian_specific": "Teak wood and carved wooden elements"
     }
   },
-  "cached_at": 1753458977711,
+  "cached_at": 1754492314661,
   "cache_key": "d50eff02d76dcf8100ef3cb76f8301ee"
 }

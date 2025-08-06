@@ -4,77 +4,70 @@
     "image_id": "img_159",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Minimalist",
+      "theme": "Modern Indian Minimalist",
       "primary_features": [
-        "Green cabinets",
+        "Green cabinetry",
         "White countertops",
-        "Integrated appliances"
+        "Elegant hardware"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "Kitchen Island",
           "features": [
-            "Green color, glossy finish, mounted on the wall"
+            "Central island with seating",
+            "Integrated sink"
           ],
           "materials": [
-            "Green Lacquer"
+            "Green cabinetry (likely MDF or particleboard)",
+            "White countertops (possibly quartz or laminate)"
           ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Countertop",
-          "features": [
-            "White, smooth, rectangular design"
-          ],
-          "materials": [
-            "Man-made composite material"
-          ],
-          "finish": "Polished"
+          "finish": "Shiny, smooth surface"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Green",
-          "White",
-          "Black"
+          "Green, White, Gray"
         ],
         "materials": [
-          "Green Lacquer",
-          "Man-made composite",
-          "Metal"
+          "Green cabinetry, White countertops, Gray flooring"
         ],
-        "lighting": "Natural light from the left, artificial light from the ceiling",
-        "texture": "Smooth surfaces"
+        "lighting": "Natural light with overhead lighting",
+        "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Not indicative of a specific regional style",
-        "traditional_elements": [],
-        "modern_adaptations": [],
-        "space_utilization": "Efficient use of wall space for cabinets and countertops",
-        "cultural_significance": "Minimal involvement of traditional Indian elements"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.2
-      },
-      "description": "The image depicts a modern kitchen with a focus on minimalism. The kitchen features green lacquered cabinets mounted on the wall, white countertops, and integrated appliances. The design is clean and contemporary, with a focus on functionality and a modern aesthetic. There are no traditional Indian elements visible, indicating a departure from regional design influences.",
-      "metadata": {
-        "tags": [
-          "Modern Kitchen",
-          "Green Cabinets",
-          "Minimalist Design",
-          "White Countertops"
+        "regional_style": "No specific regional influence visible",
+        "traditional_elements": [
+          "Minimal traditional Indian elements"
         ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential",
-        "functionality": "Primary purpose is food preparation",
-        "indian_specific": "No Indian-specific design features are present"
+        "modern_adaptations": [
+          "Integration of modern Indian aesthetics with clean lines and contemporary finishes"
+        ],
+        "space_utilization": "Efficient use of space with an island for multifunctional use",
+        "cultural_significance": "Modern adaptation of Indian design philosophy emphasizing minimalism and functionality"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.8,
+      "primary_features": 0.9,
+      "objects": 0.92,
+      "indian_context": 0.85
+    },
+    "description": "The image depicts a modern Indian kitchen with a minimalist design. The cabinetry is a vibrant green, and the countertops are white, creating a contemporary and fresh look. The kitchen island serves both as a workspace and a dining area, reflecting a blend of functionality and style. The use of green is a nod to traditional Indian design, but the overall aesthetic is clean and modern, emphasizing simplicity and practicality.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Kitchen",
+        "Minimalist Design",
+        "Green Cabinets",
+        "White Countertops",
+        "Island Kitchen"
+      ],
+      "budget_indicator": "Mid-range to High",
+      "space_type": "Residential",
+      "functionality": "Cooking, Dining, Storage, Multifunctional Use",
+      "indian_specific": "Integration of modern Indian design with traditional green color"
     }
   },
-  "cached_at": 1753449410679,
+  "cached_at": 1754492129267,
   "cache_key": "957c9093e66fc02f90a1c0fcdfd75038"
 }

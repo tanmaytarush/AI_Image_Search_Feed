@@ -3,73 +3,73 @@
   "analysis": {
     "image_id": "img_121",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Indian",
+      "room": "Dining Room",
+      "theme": "Modern Indian Fusion",
       "primary_features": [
-        "Circular coffee table",
-        "Stacked boxes",
-        "Wooden shelves"
+        "Furniture arrangement",
+        "Colorful wall design",
+        "Decorative elements"
       ],
       "objects": [
         {
-          "type": "Circular Coffee Table",
+          "type": "Dining Table",
           "features": [
-            "Dark wood finish",
-            "Circular shape",
-            "Minimalistic design"
+            "Rectangular",
+            "Clear glass top",
+            "Metal legs"
           ],
           "materials": [
-            "Wood"
+            "Glass",
+            "Metal"
           ],
-          "finish": "Dark polished wood"
+          "finish": "High-gloss finish"
         },
         {
-          "type": "Stacked Boxes",
+          "type": "Wall Decor",
           "features": [
-            "Natural wood material",
-            "Rectangular shape",
-            "Stacked arrangement"
+            "Decorative jars",
+            "Painted art",
+            "Textured backdrop"
           ],
           "materials": [
-            "Wood"
+            "Clay",
+            "Paint",
+            "Textured wallpaper"
           ],
-          "finish": "Natural wood finish"
-        },
-        {
-          "type": "Wooden Shelves",
-          "features": [
-            "Light wood finish",
-            "Open shelving design",
-            "Decorative display"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Light polished wood"
+          "finish": "Durable and matte"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown, Natural Wood, White",
-          "Dark Wood"
+          "White",
+          "Brown",
+          "Gold",
+          "Red",
+          "Green",
+          "Blue"
         ],
         "materials": [
-          "Wood",
-          "Natural Wood"
+          "Glass",
+          "Metal",
+          "Clay",
+          "Paint",
+          "Textured wallpaper"
         ],
-        "lighting": "Soft ambient lighting from the background",
-        "texture": "Smooth wood texture"
+        "lighting": "Natural light with ambient indoor lighting",
+        "texture": "Mix of smooth and textured surfaces"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but incorporates elements of traditional Indian design",
+        "regional_style": "Northern Indian",
         "traditional_elements": [
-          "Stacked boxes, open shelving"
+          "Decorative jars",
+          "Textured壁纸",
+          "Colorful wall art"
         ],
         "modern_adaptations": [
-          "Minimalistic design, modern layout"
+          "Use of modern materials like glass and metal"
         ],
-        "space_utilization": "Efficient use of vertical space with shelves and horizontal space with the coffee table",
-        "cultural_significance": "The stacked boxes and open shelving are reminiscent of traditional storage methods in Indian homes, which often incorporate natural wood finishes and minimalistic designs"
+        "space_utilization": "Efficient use of vertical space with decorative elements",
+        "cultural_significance": "Emphasis on creating a warm and inviting atmosphere through the use of vibrant colors and cultural motifs"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -78,23 +78,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern interpretation of Indian interior design in a living room setting. The space features a dark polished wood circular coffee table as the centerpiece, surrounded by light polished wooden shelves and neatly stacked natural wood boxes. The design incorporates traditional elements like open shelving and stacked boxes while maintaining a contemporary, minimalist aesthetic. The use of natural wood and ambient lighting is characteristic of modern Indian interior design, reflecting an appreciation for traditional craftsmanship and natural materials.",
+      "description": "This dining room features a modern Indian fusion design, blending traditional elements with contemporary materials. The room includes a glass-top dining table with metal legs, surrounded by decorative jars and vibrant wall art, creating a warm and inviting atmosphere. The use of natural light and indoor lighting enhances the rich color palette, which includes white, brown, gold, red, green, and blue. The space is efficiently organized, utilizing vertical space through decorative elements, and the cultural significance is evident in the choice of traditional motifs and the use of color to create a welcoming environment.",
       "metadata": {
         "tags": [
-          "Modern Indian",
-          "Living Room",
-          "Minimalist",
-          "Natural Wood",
-          "Stacked Boxes",
-          "Open Shelving"
+          "Modern Indian Fusion",
+          "Dining Room",
+          "Glass Table",
+          "Clay Jars",
+          "Colorful Wall Art"
         ],
-        "budget_indicator": "Moderate, due to the use of polished wood and neatly arranged furniture",
-        "space_type": "Residential Living Room",
-        "functionality": "Relaxation and socializing",
-        "indian_specific": "Stacked boxes as storage, open shelving as decorative display, natural wood finishes"
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is dining, with a focus on creating a warm and inviting atmosphere.",
+        "indian_specific": "Traditional decorative elements and vibrant color palette"
       }
     }
   },
-  "cached_at": 1753448673971,
+  "cached_at": 1754491384736,
   "cache_key": "1ee9f1aeb909183c201f85a47ec43e67"
 }

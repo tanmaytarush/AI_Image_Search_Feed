@@ -3,100 +3,106 @@
   "analysis": {
     "image_id": "img_239",
     "ai_generated_tags": {
-      "room": "Living Room",
+      "room": "Sitting Room",
       "theme": "Modern Indian",
       "primary_features": [
-        "Large window with wooden frame",
-        "Teak wood furniture",
-        "Carved wooden panels",
-        "Wall-mounted TV"
+        "Lighting panel on the wall",
+        "Teak wood cabinets",
+        "Teak wood flooring",
+        "Teak wood partition"
       ],
       "objects": [
         {
-          "type": "Teak wood sofa set",
+          "type": "Teak wood partition",
           "features": [
-            "U-shaped seating arrangement",
-            "Carved wooden arms and backrest"
+            "Horizontal slats with vertical stripes",
+            "Carved wooden details"
           ],
           "materials": [
             "Teak wood"
           ],
-          "finish": "Natural teak wood finish"
+          "finish": "Satin finish"
         },
         {
-          "type": "Carved wooden wall panels",
-          "features": [
-            "Vertical strips",
-            "Decorative carvings"
-          ],
-          "materials": [
-            "Teak wood"
-          ],
-          "finish": "Painted in white"
-        },
-        {
-          "type": "Teak wood coffee table",
+          "type": "Teak wood cabinets",
           "features": [
             "Rectangular shape",
-            "Legs with carved details"
+            "Panelled doors with hardware"
           ],
           "materials": [
             "Teak wood"
           ],
-          "finish": "Natural teak wood finish"
+          "finish": "Satin finish"
+        },
+        {
+          "type": "Teak wood flooring",
+          "features": [
+            "Smooth surface with natural grain"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Satin finish"
+        },
+        {
+          "type": "Teak wood lighting panel",
+          "features": [
+            "Horizontal slats with integrated lighting"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Satin finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (teak wood)",
-          "White (paint on panels)",
-          "Beige (wall and floor)",
-          "Grey (wall behind furniture)"
+          "Brown, white, beige"
         ],
         "materials": [
-          "Teak wood",
-          "Painted wood",
-          "Concrete"
+          "Teak wood, brass, white walls"
         ],
-        "lighting": "Natural light from window, artificial light from ceiling",
-        "texture": "Smooth teak wood, painted wood texture"
+        "lighting": "Natural light from outside, artificial lighting from the integrated panel",
+        "texture": "Smooth teak wood, textured brass fixtures"
       },
       "indian_context": {
-        "regional_style": "Maharashtra/Bengal",
+        "regional_style": "Maharashtra",
         "traditional_elements": [
-          "Carved wooden elements",
-          "Teak wood furniture"
+          "Teak wood furniture",
+          "Carved wooden details"
         ],
         "modern_adaptations": [
-          "Integration of modern elements like TV",
-          "Minimalist approach"
+          "Integration of modern lighting and storage solutions",
+          "Satin finish on teak wood"
         ],
-        "space_utilization": "Efficient use of space with large window for natural light and minimal furniture",
-        "cultural_significance": "Carved wooden elements and teak wood are traditional materials in Indian homes, symbolizing history and craftsmanship"
+        "space_utilization": "Optimized space for storage and display with a partition",
+        "cultural_significance": "Teak wood symbolizes durability and strength in Indian culture, often used in traditional furniture."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern interpretation of a traditional Indian sitting room, featuring teak wood as the primary material. The room includes a teak wood partition with horizontal slats and vertical stripes, teak wood cabinets with panelled doors, and teak wood flooring. The space is well-lit with natural light and an integrated teak wood panel that serves as a functional storage cabinet. The overall design combines traditional Indian elements like teak wood and carved details with modern amenities, creating a blend of old and new aesthetics.",
+      "metadata": {
+        "tags": [
+          "Teak wood",
+          "India",
+          "Modern Indian",
+          "Sitting Room",
+          "Satin Finish",
+          "Carved Details",
+          "Storage Solutions"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Storage and display",
+        "indian_specific": "Teak wood and carved detailing"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image depicts a modern Indian living room with a focus on traditional elements. The living area features a U-shaped teak wood sofa set with carved details, a matching coffee table, and wall-mounted TV. The walls are adorned with vertical, carved wooden panels painted white, and the flooring is a light beige color. The large window allows ample natural light, enhancing the bright and airy feel of the space. The overall design seamlessly blends traditional craftsmanship with contemporary living.",
-    "metadata": {
-      "tags": [
-        "Teak wood",
-        "Carved furniture",
-        "Modern Indian design",
-        "Natural wood finish",
-        "Minimalist living room"
-      ],
-      "budget_indicator": "Moderate to high, given the use of teak wood and other premium materials",
-      "space_type": "Residential living room",
-      "functionality": "Primary purpose is entertainment and relaxation, with space for social gatherings",
-      "indian_specific": "Use of teak wood and carved elements"
     }
   },
-  "cached_at": 1753450341978,
+  "cached_at": 1754493854315,
   "cache_key": "e1f4471660905b6f17dfc6f567711f6b"
 }

@@ -6,69 +6,71 @@
       "room": "Bedroom",
       "theme": "Contemporary Indian",
       "primary_features": [
-        "Wooden panelled headboard",
-        "Orange upholstered headboard",
-        "Shelving unit with wooden shelves",
-        "Bed with patterned bedspread",
-        "White curtains with floral pattern"
+        "Wooden headboard",
+        "Shelving unit",
+        "Bedside table",
+        "Decorative pillows"
       ],
       "objects": [
         {
           "type": "Bed",
           "features": [
-            "Upholstered headboard",
-            "Patterned bedspread",
-            "Nightstand with drawers"
+            "Orange padded headboard",
+            "Hexagonal patterned bedding"
           ],
           "materials": [
             "Wood",
-            "Fabric",
-            "Painted wood"
+            "Fabric"
           ],
-          "finish": "Polished wood, upholstered fabric, painted wooden finish"
+          "finish": "Matt finish"
         },
         {
-          "type": "Shelving Unit",
+          "type": "Shelving unit",
           "features": [
-            "Wall-mounted",
-            "Wooden shelves"
+            "Wooden shelves",
+            "Decorative items"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Polished wood"
+          "finish": "Matt finish"
         },
         {
-          "type": "Nightstand",
+          "type": "Bedside table",
           "features": [
-            "Small, wooden, with drawers"
+            "Wooden frame",
+            "White drawers"
           ],
           "materials": [
-            "Wood"
+            "Wood",
+            "Metal"
           ],
-          "finish": "Polished wood"
+          "finish": "Matt finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, Orange, Brown, Blue, Beige"
+          "White",
+          "Blue",
+          "Orange",
+          "Brown"
         ],
         "materials": [
-          "Wood, Fabric, Painted wood"
+          "Wood",
+          "Fabric",
+          "Metal"
         ],
-        "lighting": "Natural light from the window with white curtains, supplemented by ceiling light",
-        "texture": "Smooth wood, soft fabric, painted wood"
+        "lighting": "Natural light from window, artificial light from ceiling lamp",
+        "texture": "Smooth fabric, matte wood, metallic handles"
       },
       "indian_context": {
-        "regional_style": "Not specific regional style visible, likely modernized Indian design",
-        "traditional_elements": [
-          "Upholstered headboard, shelving unit with shelves"
-        ],
+        "regional_style": "Not explicitly identified, but could be from a general contemporary Indian style",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Contemporary shapes, wood finishes"
+          "Contemporary design with traditional materials"
         ],
-        "space_utilization": "Efficient use of vertical space with shelving unit, wall-mounted lighting, and compact nightstand",
-        "cultural_significance": "Use of orange and white is common in Indian interiors, reflecting cultural color preferences, though the design is modern"
+        "space_utilization": "Efficient use of wall space for storage and display",
+        "cultural_significance": "Cultural elements are minimal, focusing more on a modern aesthetic with traditional materials"
       }
     },
     "confidence_scores": {
@@ -78,21 +80,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This bedroom features a contemporary Indian design with a wooden panelled headboard and orange upholstered backrest, creating a warm and inviting atmosphere. The space includes a wall-mounted shelving unit with shelves, a compact nightstand with drawers, and a bed with a patterned blue and white bedspread. The use of white curtains and a natural light setup complements the earthy tones of the wood, reflecting a modern approach to traditional Indian design elements. The space is efficiently utilized with vertical storage and a clean, minimalist layout.",
+    "description": "The image depicts a modern Indian bedroom with a contemporary design. The room features a wooden headboard with a padded orange fabric, a wall-mounted shelving unit for storage and display, and a bedside table with white drawers. The bedding includes a hexagonal pattern in shades of blue, and the overall color palette is white, blue, and orange. The design incorporates traditional materials like wood, but with a modern aesthetic, emphasizing functionality and space optimization. The lighting is a combination of natural light from a window and an artificial ceiling lamp, creating a well-lit and inviting atmosphere.",
     "metadata": {
       "tags": [
-        "Contemporary Indian",
-        "Bedroom",
+        "Modern Indian",
+        "Contemporary Bedroom",
         "Wooden Headboard",
-        "Orange Upholstery",
-        "Shelving Unit"
+        "Hexagonal Pattern",
+        "Wall Shelving"
       ],
-      "budget_indicator": "Moderate, with visible use of polished wood and simple patterns",
-      "space_type": "Residential bedroom",
-      "functionality": "Sleeping and storage",
-      "indian_specific": "Use of wood, orange upholstery, and shelving unit"
+      "budget_indicator": "Moderate, with a focus on quality materials and craftsmanship",
+      "space_type": "Private bedroom",
+      "functionality": "Primary sleeping space with storage and display capabilities",
+      "indian_specific": "Use of wood, fabric, and efficient space utilization"
     }
   },
-  "cached_at": 1753957896269,
+  "cached_at": 1754490973274,
   "cache_key": "a3460beb7ea0c9b57dc541647946f82c"
 }

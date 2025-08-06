@@ -2,73 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.16%20PM.jpeg",
   "analysis": {
     "image_id": "img_035",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.16%20PM.jpeg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modern Indian with a touch of traditional",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Sliding wardrobe doors",
-        "Textured wallpaper",
-        "Metallic accents"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Sliding wardrobe doors",
+          "type": "furniture",
           "features": [
-            "Patterned wallpaper",
-            "Metallic frames",
-            "Sliding mechanism"
+            "traditional_style"
           ],
           "materials": [
-            "Textured wallpaper",
-            "Metallic frames and hardware"
+            "wood",
+            "fabric"
           ],
-          "finish": "Metallic frames have a polished finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown, beige, metallic"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Textured wallpaper, metallic frames"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light coming from a window on the right",
-        "texture": "Wallpaper has a textured, almost stone-like appearance"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but has elements of traditional Indian design",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Textured wallpaper, metallic accents"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Sliding wardrobe doors, contemporary design"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with sliding doors for storage",
-        "cultural_significance": "The textured wallpaper and metallic accents could symbolize wealth and tradition, often associated with Indian decor"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image showcases a modern Indian bedroom with sliding wardrobe doors that feature a textured wallpaper and metallic accents. The design incorporates traditional elements like the textured wallpaper, which is often used to convey a sense of luxury and tradition, while the sliding doors are a modern adaptation. The room is well-lit with natural light, emphasizing the contemporary yet traditional aesthetic. The space utilizes the wall effectively for storage, making the design both functional and stylish.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Indian interior design",
-        "Modern Indian decor",
-        "Textured wallpaper",
-        "Sliding doors",
-        "Metallic accents"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, with the use of textured wallpaper and metallic finishes",
-      "space_type": "Bedroom",
-      "functionality": "Storage and organization",
-      "indian_specific": "Textured wallpaper and metallic accents"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "WhatsApp%20Image%202023-04-10%20at%209.47.16%20PM.jpeg"
   },
-  "cached_at": 1753957188752,
+  "cached_at": 1754489379511,
   "cache_key": "5616aceec4cd5bbad2748a54dcb6e3a5"
 }

@@ -3,93 +3,87 @@
   "analysis": {
     "image_id": "img_417",
     "ai_generated_tags": {
-      "room": "Master Bedroom",
-      "theme": "Modern Indian",
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Double bed",
-        "Large wardrobe",
-        "Minimalist decor"
+        "Modern bed frame",
+        "Dark wood headboard",
+        "Light gray wall paneling",
+        "Minimalist design"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "Bed frame",
           "features": [
             "Modern design",
-            "White and grey color scheme",
-            "Headboard with integrated lighting"
+            "Simple lines",
+            "Metallic finish"
           ],
           "materials": [
-            "Wood (possibly teak or similar)",
-            "Metal (for frame and hardware)"
+            "Metallic, possibly stainless steel or aluminum"
           ],
-          "finish": "Sleek and glossy finish"
+          "finish": "Polished metallic surface"
         },
         {
-          "type": "Wardrobe",
+          "type": "Headboard",
           "features": [
-            "Minimalist design",
-            "Large storage capacity",
-            "Integrated with the bed frame"
+            "Dark wood material",
+            "Carved details on top edge"
           ],
           "materials": [
-            "Wood (possibly teak or similar)",
-            "Metal (for hinges and handles)"
+            "Dark wood, possibly teak or ebony"
           ],
-          "finish": "Sleek and glossy finish"
+          "finish": "Stained and polished"
         }
       ],
       "visual_attributes": {
         "colors": [
+          "Dark wood",
+          "Light gray",
           "White",
-          "Grey",
-          "Black",
-          "Brown (wooden elements)"
+          "Metallic gray"
         ],
         "materials": [
-          "Wood",
+          "Dark wood",
           "Metal",
-          "Acrylic",
-          "Plastic"
+          "Painted wall paneling"
         ],
-        "lighting": "Natural light from window, with integrated bedhead lighting",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "Neutral, no visible light sources or shadows",
+        "texture": "Smooth and sleek surfaces"
       },
       "indian_context": {
-        "regional_style": "Not strongly regionalized, more modern approach",
+        "regional_style": "Not identifiable from the image",
         "traditional_elements": [
-          "None visible"
+          "Traditional carved details on the headboard but in a modern interpretation"
         ],
         "modern_adaptations": [
-          "Integration of modern design with traditional materials and motifs"
+          "Minimalist, contemporary design elements"
         ],
-        "space_utilization": "Efficient use of space with minimalistic decor",
-        "cultural_significance": "Focus on functionality and comfort, with a modern aesthetic that reflects contemporary lifestyle"
+        "space_utilization": "Efficient use of space with a bed as the central piece",
+        "cultural_significance": "Modern adaptation of traditional Indian craftsmanship"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.85,
+      "theme": 0.8,
+      "primary_features": 0.85,
+      "objects": 0.9,
+      "indian_context": 0.75
     },
-    "description": "The image showcases a modern Indian bedroom with a minimalist design. The room features a sleek double bed with integrated lighting and a large wardrobe, both constructed from wood with a glossy finish. The color palette is dominated by white, grey, and brown tones, creating a clean and contemporary look. The integration of traditional materials like wood with modern design elements reflects a contemporary interpretation of Indian aesthetics.",
+    "description": "This image depicts a contemporary Indian bedroom with a modern bed frame and a dark wood headboard that incorporates traditional carved details in a minimalist design. The room features a light gray wall paneling and metallic accents, creating a sleek and modern aesthetic. The bed is the focal point, with a simple yet elegant design, reflecting a blend of traditional craftsmanship and contemporary styling.",
     "metadata": {
       "tags": [
-        "Master Bedroom",
-        "Modern Indian",
-        "Minimalist Design",
-        "Double Bed",
-        "Large Wardrobe",
-        "Glossy Finish",
-        "Wooden Bed Frame"
+        "Contemporary Indian",
+        "Modern bedroom",
+        "Dark wood headboard",
+        "Minimalist design"
       ],
-      "budget_indicator": "Moderate, with a focus on quality materials for a polished look.",
-      "space_type": "Residential",
-      "functionality": "Primary purpose is for rest and relaxation, with efficient storage solutions.",
-      "indian_specific": "Focus on quality materials and clean lines, reflecting a modern take on traditional Indian design."
+      "budget_indicator": "Moderate to high, given the use of dark wood and metallic finishes",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and relaxation space",
+      "indian_specific": "Modern interpretation of traditional Indian carved details"
     }
   },
-  "cached_at": 1753461636765,
+  "cached_at": 1754496303880,
   "cache_key": "c29065bc8e16912fd05d328f89d6c500"
 }

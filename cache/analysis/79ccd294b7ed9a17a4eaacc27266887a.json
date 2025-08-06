@@ -6,75 +6,71 @@
       "room": "Staircase",
       "theme": "Modern Indian",
       "primary_features": [
-        "Glass railings",
         "Curved staircase",
-        "Circular design",
-        "Open space"
+        "Glass railings",
+        "Circular design"
       ],
       "objects": [
         {
           "type": "Staircase",
           "features": [
             "Curved design",
-            "Glass railings",
-            "Light wood steps"
+            "Circular base",
+            "Glass railings"
           ],
           "materials": [
-            "Glass",
-            "Light wood"
+            "Wood",
+            "Glass"
           ],
-          "finish": "Glossy and smooth"
+          "finish": "Smooth finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Clear glass",
-          "Light wood",
-          "White ceiling"
+          "Brown",
+          "Clear",
+          "Muted tones"
         ],
         "materials": [
-          "Glass",
           "Wood",
-          "Cement"
+          "Glass"
         ],
         "lighting": "Natural light from above",
-        "texture": "Smooth and reflective"
+        "texture": "Smooth and polished"
       },
       "indian_context": {
-        "regional_style": "Not clearly identifiable due to modern design",
-        "traditional_elements": [
-          "Not present"
-        ],
+        "regional_style": "Not applicable (modern design)",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Use of glass railings for modern appearance"
+          "Integration of Indian design elements in a modern setting"
         ],
-        "space_utilization": "Open, efficient use of space with a clear focus on the staircase",
-        "cultural_significance": "No specific cultural elements visible; modern take on traditional Indian design"
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "This design could be seen in modern Indian architecture, reflecting a blend of cultural aesthetics with contemporary appeal"
       },
       "confidence_scores": {
-        "room": 0.9,
-        "theme": 0.85,
-        "primary_features": 0.88,
-        "objects": 0.9,
-        "indian_context": 0.75
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "This image shows a modern Indian interior design staircase featuring a curved design with glass railings and light wood steps, indicative of a blend of traditional craftsmanship and contemporary aesthetics. The circular arrangement of the steps and the use of glass creates an airy and open feel, which is a modern adaptation of traditional Indian architectural elements.",
+      "description": "The image showcases a modern Indian-inspired staircase with a curved design and glass railings, reflecting a blend of traditional and contemporary elements. The use of wood and glass creates a sleek and elegant appearance, with a natural light source illuminating the space. The design efficiently utilizes vertical space, which is a common practice in modern Indian architecture.",
       "metadata": {
         "tags": [
-          "modern",
-          "Indian",
-          "staircase",
-          "glass",
-          "wood",
-          "open space"
+          "Modern Indian",
+          "Curved staircase",
+          "Glass railings",
+          "Circular base",
+          "Wooden elements",
+          "Natural light"
         ],
-        "budget_indicator": "Moderate to high due to the use of glass and light wood",
-        "space_type": "Residential",
-        "functionality": "Primary purpose is to provide a functional staircase within the home",
-        "indian_specific": "Modern interpretation of traditional Indian design elements"
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential staircase",
+        "functionality": "Aesthetically pleasing and space-efficient staircase",
+        "indian_specific": "Modern interpretation of Indian design in a staircase setting"
       }
     }
   },
-  "cached_at": 1753462613292,
+  "cached_at": 1754496735143,
   "cache_key": "79ccd294b7ed9a17a4eaacc27266887a"
 }

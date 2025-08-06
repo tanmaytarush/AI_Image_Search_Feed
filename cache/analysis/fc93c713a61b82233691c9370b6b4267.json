@@ -2,105 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1111/image_cropper_1729605558861.jpg",
   "analysis": {
     "image_id": "img_406",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1111/image_cropper_1729605558861.jpg",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Wooden partition",
-        "Modern fixtures",
-        "White walls",
-        "Black flooring",
-        "Decorative lighting"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Partition",
+          "type": "furniture",
           "features": [
-            "Teak wood",
-            "Carved details",
-            "Brown color"
+            "traditional_style"
           ],
           "materials": [
-            "Teak"
+            "wood",
+            "fabric"
           ],
-          "finish": "Natural teak finish"
-        },
-        {
-          "type": "Shower Area",
-          "features": [
-            "Glass partition",
-            "Modern design"
-          ],
-          "materials": [
-            "Glass",
-            "Metal"
-          ],
-          "finish": "Clear glass with metallic frame"
-        },
-        {
-          "type": "Floor",
-          "features": [
-            "Black tiles",
-            "High gloss"
-          ],
-          "materials": [
-            "Ceramic"
-          ],
-          "finish": "High-gloss black tiles"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown",
-          "Black",
-          "White",
-          "Clear"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Teak",
-          "Glass",
-          "Metal",
-          "Ceramic"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Modern recessed lighting with warm tones",
-        "texture": "Teak texture, ceramic tiles, glass smoothness"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Maharashtra",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Carved teak wood partition"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary glass partition, modern lighting"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with a clear separation between the shower area and the rest of the room",
-        "cultural_significance": "The use of teak wood and carved details reflects traditional craftsmanship, while the modern elements like glass and lighting bring in a contemporary touch"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern Indian bathroom with a blend of traditional and contemporary elements. The wooden partition is crafted with intricate carvings, a hallmark of traditional Indian design, especially from the Maharashtra region. The partition is made of teak wood, known for its durability and natural beauty. The modern glass shower area with metallic framing adds a contemporary touch, while the black glossy flooring ties the design together. The room is well-lit with recessed lighting, creating a warm and inviting atmosphere. The use of teak wood reflects cultural craftsmanship, while the glass partition and modern fixtures signify a modern adaptation to traditional elements.",
-      "metadata": {
-        "tags": [
-          "modern",
-          "Indian",
-          "bathroom",
-          "teak",
-          "glass",
-          "craftsmanship",
-          "contemporary"
-        ],
-        "budget_indicator": "Moderate to High",
-        "space_type": "Residential",
-        "functionality": "Private, hygienic, and aesthetically pleasing space for personal use",
-        "indian_specific": "Intricate carved teak wood partition"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729605558861.jpg"
   },
-  "cached_at": 1753461511618,
+  "cached_at": 1754496222356,
   "cache_key": "fc93c713a61b82233691c9370b6b4267"
 }

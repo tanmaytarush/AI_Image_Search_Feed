@@ -4,104 +4,83 @@
     "image_id": "img_218",
     "ai_generated_tags": {
       "room": "Bathroom",
-      "theme": "Colonial Indian",
+      "theme": "Modern with Indian Influences",
       "primary_features": [
+        "Marble countertop",
         "Vanity with mirror",
-        "Sink with countertop",
-        "Mirror cabinet"
+        "White ceramic sink",
+        "Black and white patterned tiles"
       ],
       "objects": [
         {
           "type": "Vanity",
           "features": [
-            "Wooden frame",
-            "Glass countertop",
-            "Round sink"
+            "Mirror mounted above the vanity",
+            "Countertop with sink"
           ],
           "materials": [
-            "Teak wood",
-            "Glass",
-            "Metal"
+            "Marble countertop",
+            "Ceramic sink"
           ],
-          "finish": "Polished wood surface, glass top, metallic edge"
+          "finish": "Shiny and polished"
         },
         {
           "type": "Mirror",
           "features": [
-            "Rectangular shape",
-            "Beveled edges"
+            "Rectangular, framed with a dark border"
           ],
           "materials": [
-            "Metal"
+            "Glass"
           ],
-          "finish": "Beveled mirror frame"
-        },
-        {
-          "type": "Sink",
-          "features": [
-            "Round shape",
-            "Porcelain or ceramic material"
-          ],
-          "materials": [
-            "Porcelain or ceramic"
-          ],
-          "finish": "Sleek, glossy finish"
+          "finish": "Smooth and reflective"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (teak wood)",
-          "Green (countertop)",
-          "White (sink)",
-          "Silver (mirror frame)"
+          "White",
+          "Black",
+          "Marble grey"
         ],
         "materials": [
-          "Teak wood",
-          "Glass",
-          "Metal",
-          "Porcelain or ceramic"
+          "Marble",
+          "Ceramic",
+          "Metal frame"
         ],
-        "lighting": "Natural light from wall-mounted lamps",
-        "texture": "Smooth surfaces on sink and countertop, polished wood texture"
+        "lighting": "Natural light from an unseen window",
+        "texture": "Smooth surfaces of marble and ceramic"
       },
       "indian_context": {
-        "regional_style": "North Indian",
-        "traditional_elements": [
-          "Vanity with mirror",
-          "Round sink"
-        ],
+        "regional_style": "Not strongly indicated by the visible elements",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Use of modern materials like glass and porcelain"
+          "Marble and ceramic materials commonly used in modern Indian interior design"
         ],
-        "space_utilization": "Efficient use of vertical space with mirror cabinet",
-        "cultural_significance": "The symmetry and functionality are reflective of North Indian colonial design, emphasizing aesthetics and practicality"
+        "space_utilization": "Efficient use of space with a compact setup",
+        "cultural_significance": "No traditional Indian cultural elements observed"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.75,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.7
+      },
+      "description": "The image depicts a modern bathroom with Indian design influences, featuring a marble countertop and ceramic sink. The vanity is compact and efficiently designed, with a mirror and sink combination. The color palette is dominated by white, black, and grey marble tones, complementing the modern aesthetic with subtle traditional elements. The space is well-lit, suggesting natural light from an unseen window, enhancing the clean and contemporary look.",
+      "metadata": {
+        "tags": [
+          "Indian modern bathroom",
+          "Marble countertop",
+          "Ceramic sink",
+          "Compact design",
+          "Natural light"
+        ],
+        "budget_indicator": "Moderate (marble and ceramic materials)",
+        "space_type": "Residential bathroom",
+        "functionality": "Personal hygiene and grooming space",
+        "indian_specific": "Modern interpretation of marble and ceramic materials often seen in contemporary Indian interior design"
       }
-    },
-    "confidence_scores": {
-      "room": 0.85,
-      "theme": 0.8,
-      "primary_features": 0.75,
-      "objects": 0.9,
-      "indian_context": 0.95
-    },
-    "description": "This bathroom showcases a colonial-inspired design with a focus on traditional North Indian elements. The vanity with a round sink and beveled mirror cabinet reflects the blend of classical and modern aesthetics. The use of teak wood, glass, and porcelain or ceramic materials is characteristic of North Indian interiors, emphasizing quality and craftsmanship. The space is well-lit with natural light, enhancing the polished and sleek surfaces of the materials used.",
-    "metadata": {
-      "tags": [
-        "Colonial Indian",
-        "North Indian",
-        "Teak wood",
-        "Glass",
-        "Porcelain",
-        "Mirror cabinet",
-        "Round sink",
-        "Bathroom"
-      ],
-      "budget_indicator": "Mid-range, due to the use of quality materials like teak and brass",
-      "space_type": "Residential",
-      "functionality": "Primary purpose is for personal grooming and hygiene activities",
-      "indian_specific": "Traditional vanity design with a modern twist"
     }
   },
-  "cached_at": 1753450093289,
+  "cached_at": 1754493265332,
   "cache_key": "6d32756c271939df51fbbd6ed019611c"
 }

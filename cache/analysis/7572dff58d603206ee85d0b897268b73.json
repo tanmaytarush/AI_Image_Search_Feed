@@ -3,67 +3,92 @@
   "analysis": {
     "image_id": "img_168",
     "ai_generated_tags": {
-      "room": "Entryway",
-      "theme": "Contemporary Indian",
+      "room": "Study Hall or Work Station",
+      "theme": "Modern Indian Home Office",
       "primary_features": [
-        "Wooden shoe cabinet with glass panel doors"
+        "Shelving Unit",
+        "Cabinet Doors",
+        "Decorative Panels"
       ],
       "objects": [
         {
-          "type": "Shoe cabinet",
+          "type": "Shelving Unit",
           "features": [
-            "Double doors with glass panels, wooden frame"
+            "Multiple shelves for storage",
+            "Integrated cabinets"
           ],
           "materials": [
-            "Wood (likely teak), glass"
+            "Wood"
           ],
-          "finish": "Natural wood finish with clear glass"
+          "finish": "Polished"
+        },
+        {
+          "type": "Cabinet Doors",
+          "features": [
+            "Closed storage space"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Painted"
+        },
+        {
+          "type": "Decorative Panels",
+          "features": [
+            "Geometric patterns"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Painted"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light brown (wood), clear glass, beige (wall), white (door trim), floral pattern (wallpaper)"
+          "Brown",
+          "White"
         ],
         "materials": [
-          "Wood, glass, wall paint, wallpaper"
+          "Wood",
+          "Paint"
         ],
-        "lighting": "Natural lighting with ambient light from unseen windows",
-        "texture": "Smooth wood texture, reflective glass surface, painted wall texture, patterned wallpaper"
+        "lighting": "Natural light",
+        "texture": "Smooth"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but contemporary Indian with traditional elements",
+        "regional_style": "Not explicitly regional, but suggests a modern Indian aesthetic",
         "traditional_elements": [
-          "Wooden shoe cabinet with traditional design cues"
+          "Minimal use of traditional Indian elements"
         ],
         "modern_adaptations": [
-          "Integration of contemporary materials like glass and modern finishes"
+          "Integration of modern storage solutions with traditional woodwork"
         ],
-        "space_utilization": "Efficient use of vertical space for storage",
-        "cultural_significance": "The wooden shoe cabinet represents practicality and resourcefulness in traditional Indian design"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a contemporary Indian entryway with a wooden shoe cabinet featuring glass panel doors. The cabinet is designed with traditional Indian sensibilities, using wood as the primary material for a durable and natural look. The glass panels add modernity and allow for visibility and ventilation. The surrounding walls are painted in a beige tone with a subtle floral wallpaper, enhancing the traditional aesthetic. The space is well-organized and optimized for storage, reflecting practicality and resourcefulness in Indian design.",
-      "metadata": {
-        "tags": [
-          "Indian entryway",
-          "contemporary design",
-          "wooden furniture",
-          "glass panels",
-          "storage cabinet"
-        ],
-        "budget_indicator": "Low to moderate, as wood and glass are accessible materials but require craftsmanship",
-        "space_type": "Entryway",
-        "functionality": "Storage solution for shoes",
-        "indian_specific": "Use of wooden elements with traditional design cues"
+        "space_utilization": "Efficient use of vertical space with shelves and cabinets",
+        "cultural_significance": "The space aligns with modern Indian design trends that favor functionality and aesthetics"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian home office setup with a focus on functionality and neatness. The space features a wooden shelving unit with multiple shelves for storage, integrated cabinet doors for closed storage, and decorative panels with geometric patterns. The design utilizes a smooth, polished finish typical of modern Indian interiors. The room is well-lit, likely with natural light, and the color palette consists of warm browns and white, reflecting a contemporary Indian aesthetic.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Home Office",
+        "Wooden Shelving",
+        "Decorative Panels",
+        "Efficient Storage"
+      ],
+      "budget_indicator": "Mid-range, utilizing standard materials and finishes",
+      "space_type": "Study Hall",
+      "functionality": "Primary purpose as a workspace or study area",
+      "indian_specific": "Use of wood as a primary material and the integration of decorative panels with geometric patterns"
     }
   },
-  "cached_at": 1753449553392,
+  "cached_at": 1754492364967,
   "cache_key": "7572dff58d603206ee85d0b897268b73"
 }

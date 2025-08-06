@@ -4,98 +4,86 @@
     "image_id": "img_340",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Contemporary Indian",
+      "theme": "Contemporary",
       "primary_features": [
-        "Wooden accent wall",
-        "Modern bed frame",
-        "Textured wall paneling",
-        "Minimalist lighting"
+        "Wooden furniture",
+        "White bedding",
+        "Blue wall art",
+        "Wooden wardrobe"
       ],
       "objects": [
         {
+          "type": "Wardrobe",
+          "features": [
+            "Wooden texture",
+            "Horizontal slats"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
           "type": "Bed",
           "features": [
-            "Rectangular shape with a tufted headboard"
-          ],
-          "materials": [
-            "Fabric",
-            "Wood"
-          ],
-          "finish": "Textured and matte"
-        },
-        {
-          "type": "Bedside table",
-          "features": [
-            "Simple, sleek design",
-            "Wooden material"
+            "White bedding",
+            "Wooden headboard"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Satin"
-        },
-        {
-          "type": "Painting",
-          "features": [
-            "Abstract design",
-            "Metallic finish"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Glossy"
+          "finish": "White fabric and wooden headboard"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Blue",
-          "Brown",
-          "Gray"
+          "Wood brown"
         ],
         "materials": [
           "Wood",
           "Metal",
-          "Fabric",
-          "Glass"
+          "Fabric"
         ],
-        "lighting": "Soft, ambient lighting from ceiling fixtures",
-        "texture": "Textured wall paneling, fabric on the bed, and smooth metal finish"
+        "lighting": "Natural light through windows",
+        "texture": "Smooth wood, fabric, metallic"
       },
       "indian_context": {
-        "regional_style": "North Indian",
+        "regional_style": "Not applicable",
         "traditional_elements": [
-          "Abstract motif"
+          "Wooden furniture"
         ],
         "modern_adaptations": [
-          "Minimalist design and contemporary furniture"
+          "Combination of traditional and modern elements"
         ],
-        "space_utilization": "Efficient use of space with simple decor",
-        "cultural_significance": "Abstract art representing modern Indian aesthetic"
+        "space_utilization": "Efficient use of space with furniture placement",
+        "cultural_significance": "No specific cultural elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.8,
+        "theme": 0.75,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.6
+      },
+      "description": "The image depicts a modern bedroom with a contemporary design aesthetic. The room features wooden furniture, white bedding, and blue decorative elements on the wall. The wardrobe has a natural wood finish, and the bed has a wooden headboard and white fabric. The space is well-lit with natural light coming through the window, highlighting the smooth textures of the materials used. There are no clear Indian regional design influences or traditional elements present, suggesting a modern interpretation of Indian design elements.",
+      "metadata": {
+        "tags": [
+          "Bedroom",
+          "Contemporary",
+          "Modern",
+          "Wooden furniture",
+          "White bedding",
+          "Blue wall art"
+        ],
+        "budget_indicator": "Moderate, with visible use of wooden furniture and fabric",
+        "space_type": "Residential",
+        "functionality": "Sleeping and relaxation",
+        "indian_specific": "No specific Indian design features visible"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This modern Indian bedroom features a contemporary take on traditional elements, utilizing a wooden accent wall and minimalistic bed frame. The room is decorated with an abstract painting that reflects a modern Indian aesthetic, blending traditional influences with contemporary design. Textured wall paneling adds depth, while the use of soft, ambient lighting creates a serene atmosphere. The space is organized to ensure functionality with a focus on minimalism and efficient use of space.",
-    "metadata": {
-      "tags": [
-        "Modern Indian",
-        "Contemporary Design",
-        "North Indian",
-        "Minimalist",
-        "Textured Wall"
-      ],
-      "budget_indicator": "Mid-range, with use of quality materials like teak and brass",
-      "space_type": "Residential bedroom",
-      "functionality": "Sleeping and relaxing",
-      "indian_specific": "Abstract painting and wooden accent wall"
     }
   },
-  "cached_at": 1753460635667,
+  "cached_at": 1754495576415,
   "cache_key": "9e4eb0fbe417b2165fb66779689fa345"
 }

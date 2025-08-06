@@ -3,46 +3,62 @@
   "analysis": {
     "image_id": "img_207",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modern Minimalist",
+      "room": "Bathroom",
+      "theme": "Contemporary Indian Interior",
       "primary_features": [
-        "White wardrobe with sliding doors",
-        "Built-in storage",
+        "Built-in wardrobe",
+        "Modern fixtures",
         "Neutral color palette"
       ],
       "objects": [
         {
-          "type": "Sliding wardrobe doors",
+          "type": "Built-in wardrobe",
           "features": [
-            "Smooth, sleek design",
-            "Minimal handles"
+            "Modern design",
+            "Slim profile",
+            "Integrated into wall"
           ],
           "materials": [
-            "Painted wood or MDF"
+            "wood, laminate"
           ],
-          "finish": "Glossy white finish"
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Modern fixtures",
+          "features": [
+            "Minimalist design",
+            "Slimline style",
+            "Integrated into wall"
+          ],
+          "materials": [
+            "ceramic, acrylic"
+          ],
+          "finish": "Matte, clean finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Cream",
-          "Neutral tones"
+          "beige",
+          "white",
+          "brown"
         ],
         "materials": [
-          "Painted wood or MDF"
+          "wood",
+          "laminate",
+          "ceramic",
+          "acrylic"
         ],
-        "lighting": "Soft, ambient lighting visible through a doorway",
-        "texture": "Smooth, minimal textures"
+        "lighting": "Ambient lighting with no visible light sources",
+        "texture": "Smooth, uniform texture"
       },
       "indian_context": {
         "regional_style": "Not applicable",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Integration of traditional Indian elements into modern design"
+          "Contemporary take on Indian design"
         ],
-        "space_utilization": "Efficient use of space with built-in storage solutions",
-        "cultural_significance": "No culturally significant elements visible"
+        "space_utilization": "Efficient use of space with built-in fixtures",
+        "cultural_significance": "Minimal traditional elements, modern interpretation of Indian aesthetic"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -51,22 +67,20 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern minimalist bedroom with a built-in wardrobe featuring sleek, sliding white doors. The room uses a neutral color palette with white and cream tones, emphasizing a clean and uncluttered space. The design is contemporary and lacks any traditional Indian elements, focusing on functionality and simplicity.",
+      "description": "The image depicts a modern, minimalist bathroom with a contemporary Indian twist. The space features a built-in wardrobe with a sleek, slim design integrated into the wall, showcasing a blend of traditional Indian craftsmanship in wood and modern aesthetics. The color palette is neutral, dominated by beige and white, with hints of brown, reflecting a clean and contemporary look. The absence of traditional Indian design elements suggests a modern interpretation of a typically Indian-inspired space.",
       "metadata": {
         "tags": [
-          "Modern",
-          "Minimalist",
-          "Bedroom",
-          "Built-in Wardrobe",
-          "Neutrals"
+          "Contemporary Indian",
+          "Modern bathroom",
+          "Built-in wardrobe"
         ],
-        "budget_indicator": "Mid-range, as it features painted wood or MDF doors with a glossy finish.",
-        "space_type": "Residential Bedroom",
-        "functionality": "Primary purpose is to provide storage and organization in a bedroom setting.",
-        "indian_specific": "No Indian-specific design features are visible."
+        "budget_indicator": "Moderate, with modern materials and finishes",
+        "space_type": "Residential bathroom",
+        "functionality": "Storage and utility",
+        "indian_specific": "Modern interpretation of Indian design"
       }
     }
   },
-  "cached_at": 1753449987932,
+  "cached_at": 1754493105165,
   "cache_key": "580551fdb77c077fab6355df3086bbb0"
 }

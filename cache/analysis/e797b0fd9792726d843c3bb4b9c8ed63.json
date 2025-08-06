@@ -3,81 +3,94 @@
   "analysis": {
     "image_id": "img_219",
     "ai_generated_tags": {
-      "room": "Living room",
-      "theme": "Contemporary with Indian influences",
+      "room": "Living Room",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Marble flooring",
-        "Wardrobe with glass doors",
-        "Wall-mounted shelves"
+        "Wooden paneling",
+        "Marble wall",
+        "Glass art piece"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Wooden paneling",
           "features": [
-            "Glass doors with metal handles",
-            "Carved wooden frame"
+            "Vertical lines",
+            "Carved details"
           ],
           "materials": [
-            "Glass, metal, wood"
+            "Teak"
           ],
-          "finish": "Sleek, modern finish"
+          "finish": "Polished"
         },
         {
-          "type": "Wall-mounted shelves",
+          "type": "Marble wall",
           "features": [
-            "Carved wooden design",
-            "Embedded lighting"
+            "Inlaid design"
           ],
           "materials": [
-            "Wood, metal"
+            "Marble"
           ],
-          "finish": "Polished, elegant finish"
+          "finish": "Smooth"
+        },
+        {
+          "type": "Glass art piece",
+          "features": [
+            "Abstract pattern"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, beige, brown"
+          "White",
+          "Brown",
+          "Black"
         ],
         "materials": [
-          "Marble, wood, glass, metal"
+          "Teak",
+          "Marble",
+          "Glass"
         ],
-        "lighting": "Natural light with embedded lighting in shelves",
-        "texture": "Smooth marble flooring, polished wood, glass surfaces"
+        "lighting": "Natural light",
+        "texture": "Smooth and polished surfaces"
       },
       "indian_context": {
-        "regional_style": "Not strictly regional as it blends contemporary with traditional",
+        "regional_style": "Modern Indian",
         "traditional_elements": [
-          "Carved wooden details"
+          "Wooden paneling"
         ],
         "modern_adaptations": [
-          "Glass doors, contemporary lighting"
+          "Abstract glass art"
         ],
-        "space_utilization": "Efficient use of vertical space with wall-mounted shelves",
-        "cultural_significance": "The carved wood and glass doors reflect traditional craftsmanship"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The interior showcases a modern living room with Indian design influences. The space features a sleek, contemporary wardrobe with glass doors and metal handles, complemented by wall-mounted shelves with embedded lighting and carved wooden details. The marble flooring adds a touch of elegance, while the overall color palette of white, beige, and brown reflects traditional Indian aesthetics. The design effectively blends traditional craftsmanship with modern functionality, creating a culturally rich and stylish living environment.",
-      "metadata": {
-        "tags": [
-          "Indian interior design",
-          "Modern living room",
-          "Carved wood",
-          "Glass doors",
-          "Marble flooring"
-        ],
-        "budget_indicator": "Moderate to high, due to use of marble and glass",
-        "space_type": "Residential",
-        "functionality": "Storage and display space",
-        "indian_specific": "Carved wood and glass doors"
+        "space_utilization": "Open and symmetrical layout",
+        "cultural_significance": "Modern interpretations of traditional woodwork"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian living room features wooden paneling with vertical lines and carved details, complemented by a smooth marble wall with an inlaid design. An abstract glass art piece adds a contemporary touch to the space. The room is illuminated by natural light, creating a bright and open atmosphere. The design incorporates traditional elements like wooden paneling while modernizing them with abstract art and minimalistic finishes.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Living Room",
+        "Wooden Paneling",
+        "Marble Wall",
+        "Glass Art"
+      ],
+      "budget_indicator": "Mid-range to high, given the use of marble and polished finishes.",
+      "space_type": "Residential",
+      "functionality": "Primary purpose for relaxation and socializing",
+      "indian_specific": "Use of traditional wooden paneling in a contemporary setting"
     }
   },
-  "cached_at": 1753450100688,
+  "cached_at": 1754493276703,
   "cache_key": "e797b0fd9792726d843c3bb4b9c8ed63"
 }

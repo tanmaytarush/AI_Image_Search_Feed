@@ -3,65 +3,63 @@
   "analysis": {
     "image_id": "img_209",
     "ai_generated_tags": {
-      "room": "living room",
-      "theme": "contemporary Indian style",
+      "room": "Living Area",
+      "theme": "Contemporary with Traditional Accents",
       "primary_features": [
-        "ceiling design",
-        "wall paneling",
-        "furniture arrangement"
+        "Exposed brick wall, modern lighting, traditional wooden furniture"
       ],
       "objects": [
         {
-          "type": "furniture",
+          "type": "Wall Unit",
           "features": [
-            "wooden coffee table",
-            "cushioned chairs",
-            "modern armchair"
+            "Commodities integrated into the wall, storage space"
           ],
           "materials": [
-            "wood",
-            "textile"
+            "Exposed brick, wood"
           ],
-          "finish": "polished wood and fabric upholstery"
+          "finish": "Exposed brick texture, polished wood finish"
         },
         {
-          "type": "wall paneling",
+          "type": "Furniture",
           "features": [
-            "horizontal wooden panels"
+            "Traditional wooden furniture with carved details, wooden side table"
           ],
           "materials": [
-            "wood"
+            "Wood"
           ],
-          "finish": "unpainted wood"
+          "finish": "Polished wood finish, intricate carvings"
+        },
+        {
+          "type": "Lighting",
+          "features": [
+            "Ceiling-mounted chandelier, wall sconces"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Metallic finish, possibly brass or copper"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white ceiling",
-          "brown wood",
-          "blue cushions",
-          "dark wooden floor"
+          "White, brown (wood), beige (wall and floor), metallic (lighting)"
         ],
         "materials": [
-          "wood",
-          "textile",
-          "concrete"
+          "Exposed brick, polished wood, metal"
         ],
-        "lighting": "natural light from glass panel and artificial light from ceiling",
-        "texture": "smooth ceiling, textured wood panels, soft fabric cushions"
+        "lighting": "Warm, ambient lighting from chandelier and wall sconces",
+        "texture": "Exposed brick texture, polished wood, smooth metal"
       },
       "indian_context": {
-        "regional_style": "central Indian contemporary",
+        "regional_style": "Not distinctly regional, but with traditional influences",
         "traditional_elements": [
-          "wooden wall paneling",
-          "modern furniture"
+          "Traditional wooden furniture with carved details"
         ],
         "modern_adaptations": [
-          "industrial lighting fixtures",
-          "minimalist design"
+          "Exposed brick wall, contemporary lighting"
         ],
-        "space_utilization": "efficient use of space with open layout",
-        "cultural_significance": "use of wood symbolizes warmth and traditional craftsmanship"
+        "space_utilization": "Efficient use of wall space for storage with integrated furniture",
+        "cultural_significance": "Traditional elements like carved furniture add cultural significance, reflecting craftsmanship and heritage"
       }
     },
     "confidence_scores": {
@@ -71,20 +69,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This contemporary Indian living room features a blend of traditional and modern elements. The wooden wall panels with horizontal lines provide a touch of traditional craftsmanship, while the modern furniture and industrial-style lighting create a contemporary vibe. The space is efficiently organized with an open layout, and the use of wood in the furniture and paneling symbolizes warmth and traditional Indian design principles.",
+    "description": "This image depicts a modern living area with a contemporary design aesthetic that incorporates traditional Indian elements. The room features an exposed brick wall, modern ceiling fixtures, and traditional wooden furniture with intricate carvings. The color palette is neutral, with brown tones from the wood and brick, complemented by white walls and flooring, and metallic accents from the lighting. The furniture, especially the side table and possibly the sofa, showcases detailed wood carvings, reflecting traditional craftsmanship. The wall unit with integrated storage demonstrates a modern adaptation of traditional Indian storage solutions, optimized for space efficiency.",
     "metadata": {
       "tags": [
-        "contemporary Indian style",
-        "wooden paneling",
-        "modern furniture",
-        "industrial lighting"
+        "Modern Indian Design",
+        "Traditional Furniture",
+        "Exposed Brick Wall",
+        "Polished Wood",
+        "Contemporary Lighting",
+        "Storage Solutions"
       ],
-      "budget_indicator": "moderate",
-      "space_type": "living room",
-      "functionality": "relaxation and socializing",
-      "indian_specific": "wooden wall paneling, modern interpretation of traditional furniture"
+      "budget_indicator": "Moderate, with a mix of traditional and modern materials and finishes",
+      "space_type": "Residential Living Area",
+      "functionality": "Primary living and entertainment space",
+      "indian_specific": "Traditional wooden furniture with carvings, exposed brick wall, polished wood finish"
     }
   },
-  "cached_at": 1753450007851,
+  "cached_at": 1754493137849,
   "cache_key": "8cdd24f32ab16db7f71153299604e4de"
 }

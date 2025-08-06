@@ -4,91 +4,103 @@
     "image_id": "img_049",
     "ai_generated_tags": {
       "room": "Entrance Hall",
-      "theme": "Contemporary Indian",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Wooden partition with floral cut-out",
-        "Decorative wall panel above door",
-        "Polished floor tiles",
-        "Open kitchen area in the background"
+        "Wooden paneling",
+        "Decorative partition",
+        "Carved elements",
+        "Temple niche",
+        "Cabinet"
       ],
       "objects": [
         {
-          "type": "Wooden partition",
+          "type": "Partition",
           "features": [
-            "Floral cut-out design",
-            "Brown wood finish",
+            "Cut-out floral design",
             "Wooden frame"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Glossy wood finish with floral cut-outs"
+          "finish": "Natural wood finish"
         },
         {
-          "type": "Decorative wall panel",
+          "type": "Temple niche",
           "features": [
-            "Above the door",
-            "Decorative artwork with traditional elements",
-            "White background with colorful accents"
+            "Decorative frames",
+            "Cultural symbols"
           ],
           "materials": [
-            "Painted wooden panel"
+            "Wood"
           ],
-          "finish": "Painted finish with decorative artwork"
+          "finish": "Polished wood and painted"
+        },
+        {
+          "type": "Cabinet",
+          "features": [
+            "Glass panels",
+            "Blue body"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Metallic and glass"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (wood)",
-          "White (partition, walls)",
-          "Blue (kitchen cabinets)",
-          "Silver (kitchen tiles)"
+          "Brown",
+          "White",
+          "Blue",
+          "Black"
         ],
         "materials": [
           "Wood",
-          "Painted wood",
-          "Tiles"
+          "Metal",
+          "Glass",
+          "Paint"
         ],
-        "lighting": "Natural light from the entrance, ambient lighting from the kitchen",
-        "texture": "Smooth tiles, glossy wood, painted wood"
+        "lighting": "Natural light from window",
+        "texture": "Smooth and glossy"
       },
       "indian_context": {
-        "regional_style": "North Indian",
+        "regional_style": "Not explicitly regional, but could be influenced by Gujarat or any modern Indian design",
         "traditional_elements": [
-          "Floral cut-out design on partition",
-          "Decorative artwork above door"
+          "Temple niche",
+          "Carved wood"
         ],
         "modern_adaptations": [
-          "Contemporary finish on wood and partition design"
+          "Cut-out design on partition",
+          "Modern materials"
         ],
-        "space_utilization": "Open plan with partition for privacy and aesthetic separation",
-        "cultural_significance": "Decorative elements above the door represent traditional Indian symbols, possibly related to auspiciousness"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image showcases a contemporary Indian entrance hall with a wooden partition featuring a floral cut-out design. The decorative panel above the door includes traditional symbols and vibrant colors, indicative of North Indian regional influences. The space is organized for an open plan, with a partition for aesthetic separation. The clean, polished floor tiles and contemporary kitchen in the background suggest a modern interpretation of traditional elements. The use of wood for the partition and the overall finish reflects a focus on traditional craftsmanship and materials.",
-      "metadata": {
-        "tags": [
-          "Entrance Hall",
-          "Contemporary Indian",
-          "Wooden Partition",
-          "Floral Cut-Out",
-          "Decorative Panel",
-          "North Indian Style",
-          "Modern Adaptations"
-        ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential",
-        "functionality": "Entrance and transition space with partition for privacy",
-        "indian_specific": "Traditional symbols and wood finish"
+        "space_utilization": "Efficient use of partition to separate rooms",
+        "cultural_significance": "Temple niche and decorative elements reflect cultural and religious significance"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian entrance hall with a blend of traditional and contemporary elements. The space features a decorative partition with a cut-out floral design, carved wooden elements, and a temple niche with cultural symbols. The partition and temple niche both use wood as the primary material, showcasing the rich tradition of Indian craftsmanship. The cabinet in the background uses modern materials like glass and metal, indicating a modern adaptation. The overall design is simple yet elegant, reflecting a balance between tradition and modernity.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Modern Indian design",
+        "Entrance hall",
+        "Partition",
+        "Temple niche",
+        "Carved wood"
+      ],
+      "budget_indicator": "Moderate, with use of wood and metal finishes",
+      "space_type": "Residential",
+      "functionality": "Entrance and storage",
+      "indian_specific": "Temple niche and carved wood elements"
     }
   },
-  "cached_at": 1753957268817,
+  "cached_at": 1754489849755,
   "cache_key": "54c6108ff71f87497d5a716e0e4e3ce3"
 }

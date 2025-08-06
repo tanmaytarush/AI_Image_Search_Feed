@@ -4,108 +4,90 @@
     "image_id": "img_116",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Minimalist",
+      "theme": "Minimalist",
       "primary_features": [
         "White cabinetry",
         "Wooden countertops",
-        "Built-in shelves",
-        "Integrated cooktop"
+        "Integrated appliances",
+        "Clean lines"
       ],
       "objects": [
         {
-          "type": "Countertop",
-          "features": [
-            "Wooden finish",
-            "Rectangular shape"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural wood"
-        },
-        {
           "type": "Cabinets",
           "features": [
-            "White color",
-            "Integrated design"
+            "White finish",
+            "Square knobs",
+            "Integrated storage"
           ],
           "materials": [
-            "MDF or Melamine"
+            "Wood, likely teak or similar"
           ],
-          "finish": "Painted"
+          "finish": "Glossy, smooth finish"
         },
         {
-          "type": "Built-in Shelves",
+          "type": "Countertops",
           "features": [
-            "Floating design",
-            "Integrated with cabinets"
+            "Wooden texture",
+            "Warm tones"
           ],
           "materials": [
-            "Wood"
+            "Solid wood, possibly teak"
           ],
-          "finish": "Natural wood"
+          "finish": "Natural, polished"
         },
         {
-          "type": "Integrated Cooktop",
+          "type": "Appliances",
           "features": [
-            "Modern design",
-            "Incorporated into cabinetry"
+            "Integrated oven, cooker, and storage area"
           ],
           "materials": [
-            "Metal"
+            "Stainless steel, matte black"
           ],
-          "finish": "Polished"
+          "finish": "Reflective metal, matte coating"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Black"
+          "White, wood tones, black, gray"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "MDF/Melamine"
+          "Wood, metal, laminate"
         ],
-        "lighting": "Artificial lighting with recessed ceiling lights",
-        "texture": "Smooth surfaces with a mix of natural wood textures"
+        "lighting": "Natural light from windows, overhead lights",
+        "texture": "Smooth cabinet finish, textured wood countertop, metallic appliances"
       },
       "indian_context": {
-        "regional_style": "N/A",
-        "traditional_elements": [
-          "N/A"
-        ],
+        "regional_style": "Not strongly indicative of a specific regional style without cultural elements",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Use of modern materials and clean lines"
+          "Integration of modern appliances within traditional cabinetry"
         ],
-        "space_utilization": "Efficient use of space with built-in cabinetry and storage",
-        "cultural_significance": "N/A"
+        "space_utilization": "Efficient use of space with cabinets and countertop for storage and preparation",
+        "cultural_significance": "Minimal cultural elements, leans more towards modern Indian design trends"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.75
+      },
+      "description": "The image depicts a modern kitchen with a minimalist design, featuring white cabinetry, wooden countertops, and integrated appliances. The space utilizes clean lines and a monochromatic color palette with warm wood tones, stainless steel appliances, and white cabinets. The design leans towards contemporary Indian interior trends but lacks distinctly traditional Indian elements.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Minimalist",
+          "Modern",
+          "Indian Design",
+          "Contemporary"
+        ],
+        "budget_indicator": "Mid-range to high, due to use of high-quality materials and finishes",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary function is food preparation and storage, with space optimization for the kitchen layout",
+        "indian_specific": "No traditional Indian design features are present, focusing on modern Indian aesthetics"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The interior space appears to be a modern kitchen with a minimalist design, featuring built-in white cabinetry, wooden countertops, and integrated cooktop. The space is well-organized with efficient use of storage solutions, and the lighting is artificial with recessed ceiling lights. The overall aesthetic leans towards a clean and contemporary style with a focus on functionality and space optimization.",
-    "metadata": {
-      "tags": [
-        "Kitchen",
-        "Modern",
-        "Minimalist",
-        "Built-in Storage",
-        "White Cabinets",
-        "Wood Countertops"
-      ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Primary purpose is for cooking and food preparation",
-      "indian_specific": "N/A"
     }
   },
-  "cached_at": 1753448543146,
+  "cached_at": 1754491314404,
   "cache_key": "39215ef36a794f2eaf5c88f947d69dc5"
 }

@@ -3,86 +3,93 @@
   "analysis": {
     "image_id": "img_190",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Mughal-Inspired",
+      "room": "Bathroom",
+      "theme": "Minimalist",
       "primary_features": [
-        "Decorative ceiling panel",
-        "Carved wooden frame"
+        "Ceiling light fixture with decorative panel",
+        "Mirror above sink",
+        "Wooden cabinet"
       ],
       "objects": [
         {
-          "type": "Ceiling Panel",
+          "type": "Ceiling light fixture with decorative panel",
           "features": [
-            "Decorative with floral motifs",
-            "Material appears to be lacquered wood"
+            "Circular design with central decorative element",
+            "Dark frame"
           ],
           "materials": [
-            "Wood",
-            "Lacquer"
+            "Metal"
           ],
-          "finish": "High-gloss lacquered finish"
+          "finish": "Polished metal finish"
         },
         {
-          "type": "Wooden Frame",
+          "type": "Mirror above sink",
           "features": [
-            "Decorative frame surrounding the ceiling",
-            "Material appears to be teak"
+            "Rectangular shape",
+            "Frameless",
+            "Integrated into wall"
           ],
           "materials": [
-            "Teak"
+            "Glass"
           ],
-          "finish": "Natural teak finish"
+          "finish": "Clear glass"
+        },
+        {
+          "type": "Wooden cabinet",
+          "features": [
+            "Simple design",
+            "Integral with mirror frame"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Unpolished wooden finish"
         }
       ],
       "visual_attributes": {
         "colors": [
+          "Dark brown",
           "White",
-          "Black",
-          "Gold"
+          "Light brown"
         ],
         "materials": [
-          "Wood",
-          "Lacquer"
+          "Metal",
+          "Glass",
+          "Wood"
         ],
-        "lighting": "Ambient lighting with a warm tone, possibly from incandescent bulbs",
-        "texture": "Smooth lacquered wood finish, detailed carvings"
+        "lighting": "Natural light from window not visible, likely artificial lighting",
+        "texture": "Smooth surfaces on glass and metal, textured wood grain"
       },
       "indian_context": {
-        "regional_style": "Mughal",
-        "traditional_elements": [
-          "Decorative ceiling panels",
-          "Carved wooden frames",
-          "Lacquered finishes"
-        ],
-        "modern_adaptations": [
-          "Minimalist interpretation of traditional elements"
-        ],
-        "space_utilization": "The space is highly decorative but does not show a clear functional arrangement.",
-        "cultural_significance": "The design elements reflect the grandeur of Mughal architecture, often associated with royalty and opulence. The use of lacquer and carved wood symbolizes skill and craftsmanship."
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image showcases a Mughal-inspired living room with a focus on traditional Indian design elements. The decorative ceiling panel, adorned with floral motifs, is a hallmark of Mughal architecture, while the carved wooden frame adds to the ornamental richness. The use of lacquered wood and natural teak finish reflects the high level of craftsmanship typical in Indian interiors. The warm lighting enhances the elegant and luxurious atmosphere of the space.",
-      "metadata": {
-        "tags": [
-          "Mughal Style",
-          "Decorative Ceiling",
-          "Carved Wooden Frame",
-          "Lacquered Wood",
-          "Living Room"
-        ],
-        "budget_indicator": "High, due to the use of materials like lacquer and high-quality wood",
-        "space_type": "Living Room",
-        "functionality": "Decorative space, possibly a living room or a formal area for guests",
-        "indian_specific": "The Mughal-inspired design features traditional Indian craftsmanship and aesthetics."
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Efficient use of vertical space with a floating cabinet",
+        "cultural_significance": "No cultural elements specific to Indian design"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern minimalist bathroom with a focus on functionality and simplicity. Key features include a ceiling light fixture with a decorative metal panel, a mirror integrated into the wall design, and a wooden cabinet that complements the mirror. The space appears to be well-lit with artificial lighting, and the materials used are predominantly metal, glass, and wood, reflecting a contemporary aesthetic.",
+    "metadata": {
+      "tags": [
+        "Minimalist bathroom",
+        "Ceiling light fixture",
+        "Mirror with frame",
+        "Wooden cabinet",
+        "Modern design"
+      ],
+      "budget_indicator": "Medium",
+      "space_type": "Residential bathroom",
+      "functionality": "Storage and personal grooming area",
+      "indian_specific": "No Indian-specific design features"
     }
   },
-  "cached_at": 1753459123748,
+  "cached_at": 1754492841184,
   "cache_key": "e71033054b2fb3063006ae2d02ff0da1"
 }

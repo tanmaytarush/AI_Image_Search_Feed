@@ -3,87 +3,100 @@
   "analysis": {
     "image_id": "img_354",
     "ai_generated_tags": {
-      "room": "Closet",
-      "theme": "Modern Minimalist",
+      "room": "Entryway",
+      "theme": "Minimalist",
       "primary_features": [
-        "Built-in wardrobe, mirror, lighting fixture"
+        "Closet doors",
+        "Mirror above the closet",
+        "Wall-mounted shelves"
       ],
       "objects": [
         {
           "type": "Closet",
           "features": [
-            "Built-in design, white finish, sliding doors"
+            "Light wood finish",
+            "Built-in design",
+            "Concealed handles"
           ],
           "materials": [
-            "Painted wood, glass"
+            "Light wood"
           ],
-          "finish": "Smooth, glossy"
+          "finish": "Satin"
         },
         {
           "type": "Mirror",
           "features": [
-            "Large, rectangular, sleek design"
+            "Rectangular shape",
+            "Beveled edge"
           ],
           "materials": [
-            "Glass, metal frame"
+            "Glass"
           ],
-          "finish": "Polished, reflective"
+          "finish": "Clear"
         },
         {
-          "type": "Lighting fixture",
+          "type": "Shelves",
           "features": [
-            "Modern, minimalist design, mounted on the wall"
+            "Wall-mounted",
+            "Modern design",
+            "Light wood finish"
           ],
           "materials": [
-            "Metal, glass"
+            "Light wood"
           ],
-          "finish": "Metallic, transparent"
+          "finish": "Satin"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, metallic, transparent"
+          "Light wood tone",
+          "White",
+          "Dark trim"
         ],
         "materials": [
-          "Wood, glass, metal"
+          "Light wood",
+          "Glass",
+          "Painted walls"
         ],
-        "lighting": "Natural light with ambient lighting from the fixture",
-        "texture": "Smooth, glossy surfaces"
+        "lighting": "Ambient, with no visible light sources in the image",
+        "texture": [
+          "Smooth wood",
+          "Glossy glass",
+          "Painted wall"
+        ]
       },
       "indian_context": {
-        "regional_style": "No prominent regional style",
+        "regional_style": "Not Indian",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist design, modern materials"
+          "Minimalist design with Indian influences"
         ],
-        "space_utilization": "Efficient use of space with built-in storage",
-        "cultural_significance": "No culturally significant elements identified"
+        "space_utilization": "Efficient use of vertical space with built-in storage",
+        "cultural_significance": "No Indian cultural relevance in the design"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
+      "room": 0.85,
+      "theme": 0.9,
+      "primary_features": 0.82,
       "objects": 0.92,
-      "indian_context": 0.9
+      "indian_context": 0.6
     },
-    "description": "The image depicts a modern, minimalist closet featuring a built-in wardrobe with white painted wood slides. A large, rectangular mirror and a modern wall-mounted lighting fixture are also present. The room has a clean, sleek design with smooth, glossy finishes and a focus on efficient space utilization. There are no traditional Indian elements visible, indicating a contemporary approach to interior design.",
+    "description": "The image shows a modern minimalist entryway with a built-in closet, a wall-mounted mirror, and light wood shelves. The design is clean and functional, with a light wood tone and white walls. There are no visible Indian design elements, cultural significance, or traditional furniture styles. The space is organized for efficient storage and entryway functionality.",
     "metadata": {
       "tags": [
-        "closet",
-        "modern",
-        "minimalist",
-        "white",
-        "glass",
-        "metal",
-        "efficient"
+        "Minimalism",
+        "Entryway",
+        "Light wood",
+        "Wall-mounted shelves",
+        "Modern design"
       ],
-      "budget_indicator": "Moderate, as it features modern materials like glass and polished wood",
-      "space_type": "Residential, bedroom or walk-in closet",
-      "functionality": "Storage space, designed for practical use",
-      "indian_specific": "No Indian-specific design features are present"
+      "budget_indicator": "Mid-range, due to the use of high-quality materials like light wood and glass",
+      "space_type": "Residential",
+      "functionality": "Entryway and storage",
+      "indian_specific": "No Indian-specific design features"
     }
   },
-  "cached_at": 1753460807805,
+  "cached_at": 1754495888772,
   "cache_key": "789d8601fe505d6244f49d55586b2288"
 }

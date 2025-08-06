@@ -2,70 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/600/image_cropper_1729750845907.jpg",
   "analysis": {
     "image_id": "img_430",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/600/image_cropper_1729750845907.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Mughal-Inspired",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Marble flooring",
-        "Carved wooden drawer units"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Carved Wooden Drawer Unit",
+          "type": "furniture",
           "features": [
-            "Decorative details on the drawers",
-            "Polished finish"
+            "traditional_style"
           ],
           "materials": [
-            "Teak wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "High-gloss polished finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White marble, dark wood"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Marble, teak wood"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Bright lighting, possibly from overhead fixtures",
-        "texture": "Smooth marble, intricate wood carvings"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "North Indian Mughal style",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Carved woodwork, white marble"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Minimalist approach to design"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with built-in storage",
-        "cultural_significance": "Reflects the grandeur and craftsmanship of Mughal architecture"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image showcases a modern interpretation of the North Indian Mughal style in a bedroom. The room features intricately carved wooden drawer units with a polished teak wood finish, complemented by a luxurious white marble flooring. The design emphasizes the use of traditional materials and craftsmanship, with a contemporary twist in the overall layout and simplicity of the space. The prominent use of marble and wood reflects the cultural significance of these materials in Mughal architecture, symbolizing luxury and grandeur.",
-      "metadata": {
-        "tags": [
-          "Mughal",
-          "Indian Interior",
-          "Marble Flooring",
-          "Carved Wood",
-          "Bedroom"
-        ],
-        "budget_indicator": "High, due to use of marble and polished wood",
-        "space_type": "Residential Bedroom",
-        "functionality": "Sleeping and storage",
-        "indian_specific": "Traditional craftsmanship and cultural materials"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729750845907.jpg"
   },
-  "cached_at": 1753461787735,
+  "cached_at": 1754496429420,
   "cache_key": "231ed5317248d2ff3b1c7fafefa3c231"
 }

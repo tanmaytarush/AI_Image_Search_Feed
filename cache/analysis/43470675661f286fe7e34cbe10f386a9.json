@@ -3,66 +3,84 @@
   "analysis": {
     "image_id": "img_080",
     "ai_generated_tags": {
-      "room": "Children's bedroom",
+      "room": "Bedroom",
       "theme": "Contemporary Indian",
       "primary_features": [
         "Polka dot wallpaper",
-        "Built-in shelving",
-        "Theme-based furniture",
-        "Modern wardrobe"
+        "Green and orange themes",
+        "Built-in storage",
+        "Decorative bed accents"
       ],
       "objects": [
         {
-          "type": "Built-in shelving",
+          "type": "Built-in storage unit",
           "features": [
-            "Multiple compartments",
-            "Open and closed storage"
+            "Shelving for books and decorative items",
+            "Storage compartments"
           ],
           "materials": [
-            "Teak wood",
-            "Metal"
+            "Wood for shelves and doors, glass for doors"
           ],
-          "finish": "Natural wood finish, metallic accents"
+          "finish": "Smooth and polished finish"
         },
         {
-          "type": "Wardrobe",
+          "type": "Bed",
           "features": [
-            "Sliding doors",
-            "Glass panels"
+            "Decorative headboard with green accents",
+            "Patterned bedding"
           ],
           "materials": [
-            "Teak wood",
-            "Glass"
+            "Fabric for bedding and headboard"
           ],
-          "finish": "Teak wood finish, reflective glass"
+          "finish": "Soft and textured"
+        },
+        {
+          "type": "Wall unit",
+          "features": [
+            "Glass doors for storage",
+            "Colorful panels"
+          ],
+          "materials": [
+            "Glass, wood, plastic"
+          ],
+          "finish": "Glossy and reflective"
+        },
+        {
+          "type": "Desk",
+          "features": [
+            "Integrated into storage unit",
+            "Small size for workspace"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth and polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
           "Green",
           "Orange",
-          "Polka dot pattern"
+          "White",
+          "Black",
+          "Brown"
         ],
         "materials": [
-          "Teak wood",
-          "Metal",
-          "Glass",
-          "Polka dot wallpaper"
+          "Wood, glass, metal, fabric"
         ],
-        "lighting": "Natural light from ceiling recessed lights",
-        "texture": "Smooth walls, patterned wallpaper, smooth flooring"
+        "lighting": "Evenly distributed recessed lighting",
+        "texture": "Smooth surfaces with occasional beveled edges"
       },
       "indian_context": {
-        "regional_style": "Maharashtra",
+        "regional_style": "No specific regional influence identified",
         "traditional_elements": [
-          "Built-in furniture"
+          "No traditional Indian elements observed"
         ],
         "modern_adaptations": [
-          "Contemporary design, polka dot wallpaper"
+          "Mix of traditional and modern design elements"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture and storage solutions",
-        "cultural_significance": "The polka dot wallpaper and theme-based furniture reflect contemporary Indian design trends, possibly inspired by modern interpretations of traditional fabrics and patterns"
+        "space_utilization": "Efficient use of space with built-in storage and workspace integration",
+        "cultural_significance": "Color palette and decorative elements reflect contemporary Indian trends rather than traditional cultural significance"
       }
     },
     "confidence_scores": {
@@ -72,21 +90,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "A contemporary Indian design children's bedroom featuring built-in shelving and a theme-based wardrobe. The room includes a polka dot wallpaper, reflecting a modern interpretation of traditional Indian fabrics and patterns. The built-in shelving provides ample storage and space organization, while the wardrobe with sliding glass doors offers both functionality and style. The room is well-lit with recessed ceiling lights, contributing to a bright and cheerful atmosphere.",
+    "description": "This contemporary Indian bedroom features a polka dot wallpaper with a sophisticated contemporary touch. The room incorporates a mix of traditional and modern elements, with built-in storage units combining wood, glass, and metal. The color palette of green and orange is prominent, and the space includes a workspace integrated into the storage unit, demonstrating efficient space utilization. The use of decorative elements, such as patterned bedding and green accents, adds to the modern aesthetic while staying true to contemporary Indian design trends.",
     "metadata": {
       "tags": [
-        "Indian interior design",
-        "Children's room",
-        "Contemporary design",
-        "Built-in furniture",
-        "Polka dot wallpaper"
+        "Contemporary",
+        "Indian",
+        "Bedroom",
+        "Modern Design",
+        "Colorful",
+        "Efficient Storage"
       ],
-      "budget_indicator": "Moderate, with high-quality materials like teak wood and glass",
+      "budget_indicator": "Moderate, with the use of wood, glass, and fabric suggesting a balanced budget",
       "space_type": "Residential bedroom",
-      "functionality": "Primary purpose for sleeping and storage",
-      "indian_specific": "Theme-based furniture and polka dot wallpaper"
+      "functionality": "Primary purpose is for sleeping and working",
+      "indian_specific": "Modern interpretation of contemporary Indian design with a focus on functionality and color"
     }
   },
-  "cached_at": 1753957581273,
+  "cached_at": 1754490480515,
   "cache_key": "43470675661f286fe7e34cbe10f386a9"
 }

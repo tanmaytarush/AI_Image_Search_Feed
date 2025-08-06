@@ -4,73 +4,76 @@
     "image_id": "img_148",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Minimalist",
+      "theme": "Modern Indian Interior",
       "primary_features": [
+        "Minimalist furniture",
         "Dark wood paneling",
-        "Modern furniture",
-        "Large wardrobe",
-        "Dark paint"
+        "Glass sliding door"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "Bedside cabinet",
           "features": [
+            "Rectangular shape",
             "Dark wood finish",
-            "Modern design",
-            "Large size with multiple compartments"
+            "Sliding doors"
           ],
           "materials": [
-            "Dark wood"
+            "Dark wood",
+            "Glass"
           ],
-          "finish": "Shiny dark wood finish"
+          "finish": "High-gloss wood and glass"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark brown",
-          "Black",
-          "White"
+          "Dark brown wood",
+          "Black sliding doors",
+          "White walls",
+          "Dark window frame"
         ],
         "materials": [
-          "Dark wood",
-          "Laminate"
+          "Wood",
+          "Glass",
+          "Paint"
         ],
-        "lighting": "Natural light from a window on the left side",
-        "texture": "Smooth and polished surfaces"
+        "lighting": "Natural light from the window",
+        "texture": "Smooth surfaces of wood and glass"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Rounded edges",
-          "Modern wardrobe design"
+        "regional_style": "No specific regional style evident",
+        "traditional_elements": [
+          "Minimal use of traditional Indian elements"
         ],
-        "space_utilization": "Efficient use of vertical space with large wardrobe",
-        "cultural_significance": "No specific cultural elements present in the image"
+        "modern_adaptations": [
+          "Combination of dark wood and glass, modern design elements"
+        ],
+        "space_utilization": "Efficient use of space with sliding doors for storage",
+        "cultural_significance": "Modern interpretation of Indian interior design principles without overt cultural elements"
       },
       "confidence_scores": {
-        "room": 0.78,
-        "theme": 0.85,
-        "primary_features": 0.85,
-        "objects": 0.88,
-        "indian_context": 0.65
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The image depicts a modern bedroom with a minimalist design. The room features dark wood paneling and a large wardrobe, which are modern adaptations of traditional Indian elements. The space is efficiently organized, utilizing vertical space with the wardrobe, and the overall color palette is dark with black and dark brown tones, complemented by white accents. The lighting is natural, coming from a window on the left side, and the surfaces are smooth and polished.",
+      "description": "A modern Indian interior with a bedroom design that incorporates sleek and minimal furniture. The room features a dark wood bedside cabinet with sliding glass doors, creating a contemporary look. The overall design is clean and uncluttered, emphasizing functionality and modern aesthetics.",
       "metadata": {
         "tags": [
-          "Minimalist Bedroom",
-          "Modern Design",
-          "Dark Wood",
-          "Large Wardrobe",
-          "Modern Adaptation"
+          "Modern Indian interior",
+          "Minimalist design",
+          "Dark wood furniture",
+          "Sliding door system",
+          "Bedroom design"
         ],
         "budget_indicator": "Moderate",
-        "space_type": "Residential Bedroom",
-        "functionality": "Storage and sleeping area",
-        "indian_specific": "Modern interpretation of traditional Indian elements such as wardrobe design and wood materials"
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Modern adaptation of dark wood and glass elements"
       }
     }
   },
-  "cached_at": 1753449221627,
+  "cached_at": 1754491847583,
   "cache_key": "93c0e838004d134da6d7d7ee9bb3db76"
 }

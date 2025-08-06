@@ -1,0 +1,120 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00576.JPG",
+  "analysis": {
+    "image_id": "img_254",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "L-shaped sofa with patterned cushions",
+        "Teak wood ceiling beams",
+        "Marble flooring",
+        "Ganesha idol on the TV unit",
+        "Wooden TV unit with cabinet"
+      ],
+      "objects": [
+        {
+          "type": "L-shaped sofa with patterned cushions",
+          "features": [
+            "Dark brown upholstery",
+            "Printed pattern on cushions"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Teak wood ceiling beams",
+          "features": [
+            "Exposed wooden beams with light fixtures"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural, polished"
+        },
+        {
+          "type": "Marble flooring",
+          "features": [
+            "High-gloss finish, marbled pattern"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Smooth, reflective"
+        },
+        {
+          "type": "Ganesha idol on the TV unit",
+          "features": [
+            "White marble, seated posture"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wooden TV unit with cabinet",
+          "features": [
+            "Dual TV placement, decorative items on top"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural, stained"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, beige, white, black"
+        ],
+        "materials": [
+          "Teak wood, marble, fabric, brass"
+        ],
+        "lighting": "Natural light complemented by embedded ceiling lights",
+        "texture": "Smooth, polished surfaces with intricate details"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra or Andhra Pradesh style",
+        "traditional_elements": [
+          "Teak wood ceiling beams",
+          "Marble flooring",
+          "Wooden TV unit"
+        ],
+        "modern_adaptations": [
+          "L-shaped sofa with modern cushions",
+          "TV unit with integrated cabinet"
+        ],
+        "space_utilization": "Efficient use of space with a central TV zone and seating arrangement",
+        "cultural_significance": "Elements like the Ganesha idol reflect the importance of home deities in Indian households"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary living room blends traditional Indian design elements with modern comfort. The use of teak wood ceiling beams and marble flooring reflects Indian regional styles, while the L-shaped sofa adorned with patterned cushions and the wooden TV unit with a marble backdrop add a modern twist. The presence of a Ganesha idol on the TV unit introduces a cultural and religious significance, typical in Indian homes. The space is well-lit with both natural and artificial light, enhancing the polished textures and materials.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian Interior",
+        "Teak Wood Ceiling",
+        "Marble Flooring",
+        "L-shaped Sofa",
+        "Ganesha Idol",
+        "Wooden TV Unit",
+        "Modern and Traditional Blend",
+        "Living Room Design"
+      ],
+      "budget_indicator": "Higher, with use of marble and polished wood",
+      "space_type": "Residential Living Room",
+      "functionality": "Relaxation and entertainment",
+      "indian_specific": "Teak wood, marble, and Ganesha idol"
+    }
+  },
+  "cached_at": 1754494284422,
+  "cache_key": "3dfdee32d03876b8a060a3250391429c"
+}

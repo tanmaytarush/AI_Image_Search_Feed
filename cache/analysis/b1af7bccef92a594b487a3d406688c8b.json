@@ -2,66 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/648/image_cropper_1729157585493.jpg",
   "analysis": {
     "image_id": "img_441",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/648/image_cropper_1729157585493.jpg",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Open shelving units"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Shelving unit",
+          "type": "furniture",
           "features": [
-            "White painted, floating, open shelves with wooden trim"
+            "traditional_style"
           ],
           "materials": [
-            "Painted wood, wood for trim"
+            "wood",
+            "fabric"
           ],
-          "finish": "Matte and glossy finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, brown, gray"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood, painted wood, metal"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth and polished surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Mumbai/Central Indian",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Combination of traditional and modern design elements"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of vertical space with open shelving",
-        "cultural_significance": "Modern interpretation of Indian design aesthetics"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "A modern kitchen with minimalist white shelving units featuring wooden trim. The design reflects a contemporary Indian aesthetic with a focus on functionality and aesthetic appeal. The open shelving maximizes storage space while maintaining a clean and organized look. The use of white and wood tones is characteristic of modern Indian interior design, which often blends traditional elements with modern styling.",
-      "metadata": {
-        "tags": [
-          "Indian kitchen",
-          "Modern Indian",
-          "Minimalist shelving",
-          "White and wood design",
-          "Efficient storage"
-        ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential kitchen",
-        "functionality": "Storage and food preparation",
-        "indian_specific": "Minimalistic shelving design with a modern twist"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729157585493.jpg"
   },
-  "cached_at": 1753462097573,
+  "cached_at": 1754496460522,
   "cache_key": "b1af7bccef92a594b487a3d406688c8b"
 }

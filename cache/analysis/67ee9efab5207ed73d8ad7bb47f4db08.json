@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/303/image_cropper_1729262381107.jpg",
+  "analysis": {
+    "image_id": "img_450",
+    "ai_generated_tags": {
+      "room": "Dining area",
+      "theme": "Colonial Revival",
+      "primary_features": [
+        "Carved wooden chairs",
+        "Patterned tablecloth",
+        "Teak wood"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden chairs",
+          "features": [
+            "Classical designs",
+            "Turned legs",
+            "Carved backrests"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak oil finish"
+        },
+        {
+          "type": "Tablecloth",
+          "features": [
+            "Patterned design"
+          ],
+          "materials": [
+            "Cotton"
+          ],
+          "finish": "Embroidered with traditional motifs"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (teak)",
+          "White (tablecloth)",
+          "Blue (tablecloth pattern)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Cotton"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth teak wood texture, embroidered cotton texture"
+      },
+      "indian_context": {
+        "regional_style": "Andhra Pradesh",
+        "traditional_elements": [
+          "Carved wooden furniture",
+          "Embroidered textiles"
+        ],
+        "modern_adaptations": [
+          "Modern interpretation of carved patterns"
+        ],
+        "space_utilization": "Compact dining setup with minimal space",
+        "cultural_significance": "Symbolizes hospitality and communal dining traditions"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a compact dining area with colonial revival design elements, featuring carved wooden chairs and a patterned tablecloth. The chairs are crafted from teak wood with traditional designs, while the tablecloth is made of cotton, embroidered with intricate patterns. The natural light from the window enhances the warm brown tones of the teak and the white and blue hues of the tablecloth, creating a cozy and traditional ambiance. This setup reflects hospitality and communal dining traditions in Andhra Pradesh, with modern interpretations of traditional motifs.",
+      "metadata": {
+        "tags": [
+          "Colonial Revival",
+          "Andhra Pradesh",
+          "Carved chairs",
+          "Teak wood",
+          "Embroidered tablecloth"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential dining area",
+        "functionality": "Primary purpose is dining and communal seating",
+        "indian_specific": "Teak wood furniture and embroidered textiles"
+      }
+    }
+  },
+  "cached_at": 1754496545440,
+  "cache_key": "67ee9efab5207ed73d8ad7bb47f4db08"
+}

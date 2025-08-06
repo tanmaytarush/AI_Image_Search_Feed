@@ -4,46 +4,68 @@
     "image_id": "img_126",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Contemporary",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Dark cabinetry",
-        "White countertops",
-        "Island counter",
-        "Modern lighting"
+        "Black and white color scheme",
+        "Minimalist design",
+        "Open shelving",
+        "Round bar stools"
       ],
       "objects": [
         {
-          "type": "Kitchen Island",
+          "type": "Island/Bar Counter",
           "features": [
-            "Sleek design",
+            "Circular top",
             "Integrated sink",
-            "Bar stools underneath"
+            "Lighting fixture above"
           ],
           "materials": [
-            "Wooden surface",
-            "Metal frame"
+            "Marble or quartz countertop",
+            "Metallic frame"
+          ],
+          "finish": "Polished surface"
+        },
+        {
+          "type": "Round Bar Stools",
+          "features": [
+            "Black fabric upholstery",
+            "Contemporary design"
+          ],
+          "materials": [
+            "Fabric, wood"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Open Shelving",
+          "features": [
+            "Dark wood finish",
+            "Built-in design"
+          ],
+          "materials": [
+            "Wood"
           ],
           "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark brown, white, black"
+          "Black, White, Gray"
         ],
         "materials": [
-          "Wood, metal, glass"
+          "Marble, Wood, Metal"
         ],
-        "lighting": "Bright indoor lighting, overhead pendant lights",
-        "texture": "Smooth surfaces"
+        "lighting": "Natural light with additional overhead lighting",
+        "texture": "Smooth, glossy"
       },
       "indian_context": {
-        "regional_style": "Modern",
+        "regional_style": "Not explicitly regional, but modern interpretations of Indian design",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Contemporary design blending traditional Indian aesthetics"
+          "Minimalist design, use of contemporary furniture"
         ],
-        "space_utilization": "Efficient use of space with an island counter for additional workspace",
-        "cultural_significance": "No traditional Indian elements, concentrating on a modern, minimalist look"
+        "space_utilization": "Efficient use of space with an open shelving system",
+        "cultural_significance": "Modern design reflecting contemporary Indian tastes with a focus on minimalism"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -52,22 +74,23 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The kitchen features a modern, minimalist design with a sleek kitchen island as the centerpiece. The cabinetry is dark brown, contrasting with the white countertops and modern pendant lights overhead. The island includes a built-in sink and bar stools, creating a functional and stylish space.",
+      "description": "The image showcases a modern Indian kitchen with a minimalist design approach. The space features a circular black and white color scheme, with an island bar counter, open shelving, and contemporary bar stools. The setting uses materials like marble and wood for a polished, glossy finish, reflecting a contemporary take on Indian design elements.",
       "metadata": {
         "tags": [
-          "Contemporary Kitchen",
-          "Modern Design",
+          "Kitchen",
+          "Modern Indian",
           "Minimalist",
-          "Island Counter",
-          "Dark Brown Cabinets"
+          "Contemporary",
+          "Bar Stools",
+          "Circular Counter"
         ],
-        "budget_indicator": "Mid to high budget due to the use of high-quality materials and finishes",
+        "budget_indicator": "Mid-range, due to the use of materials like marble and wood",
         "space_type": "Residential",
-        "functionality": "Primary kitchen space with additional bar seating",
-        "indian_specific": "No visible Indian-specific design features, adhering to modern aesthetics."
+        "functionality": "Primary function as a kitchen with a bar area for casual dining or socializing",
+        "indian_specific": "Modern interpretation of Indian design, focusing on minimalism and functionality"
       }
     }
   },
-  "cached_at": 1753448773167,
+  "cached_at": 1754491445225,
   "cache_key": "d06e5e83f7b27d2a2e44a770b4321077"
 }

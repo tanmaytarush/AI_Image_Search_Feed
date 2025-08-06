@@ -4,101 +4,78 @@
     "image_id": "img_272",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian",
+      "theme": "Modern Indian Kitchen",
       "primary_features": [
-        "Cabinetry",
-        "Appliances",
-        "Backsplash",
-        "Lighting"
+        "Integrated cabinets and countertops",
+        "Backsplash tiles",
+        "Under-cabinet lighting"
       ],
       "objects": [
         {
-          "type": "Kitchen cabinets",
+          "type": "Integrated cabinets",
           "features": [
-            "U-shaped design",
-            "Cupboard doors with paneling"
+            "Floating design, light wood finish"
           ],
           "materials": [
-            "Wooden panels, possibly teak"
+            "Light wood, possibly teak or oak"
           ],
-          "finish": "Matt or slightly glossy paint finish"
+          "finish": "Smooth, glossy finish"
         },
         {
-          "type": "Appliances",
+          "type": "Backsplash tiles",
           "features": [
-            "Modern oven",
-            "Refrigerator"
+            "Rectangular tiles, light-colored, possibly marble or granite"
           ],
           "materials": [
-            "Metal and plastic"
+            "Marble or granite"
           ],
-          "finish": "Metallic and glossy"
-        },
-        {
-          "type": "Backsplash",
-          "features": [
-            "Tile work"
-          ],
-          "materials": [
-            "Ceramic tiles"
-          ],
-          "finish": "Smooth and glossy"
-        },
-        {
-          "type": "Lighting",
-          "features": [
-            "Under-cabinet lighting"
-          ],
-          "materials": [
-            "Not visible"
-          ],
-          "finish": "Not applicable"
+          "finish": "Polished surface"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light wood tones",
-          "White",
-          "Black"
+          "Light beige/wood tones, white tiles, black accents"
         ],
         "materials": [
-          "Wood, ceramic, metal"
+          "Light wood, tiles, black finish"
         ],
-        "lighting": "Artificial, likely LED under-cabinet lighting",
-        "texture": "Smooth"
+        "lighting": "Warm under-cabinet lighting creating a modern yet cozy ambiance",
+        "texture": "Clean and smooth surfaces with a mix of smooth and slightly rough textures from the tiles"
       },
       "indian_context": {
-        "regional_style": "Not specifically regional, but aligns with urban modern Indian design",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Use of modern appliances, kitchen design"
+        "regional_style": "Modern Indian style with a focus on Indian regional materials",
+        "traditional_elements": [
+          "Not visible"
         ],
-        "space_utilization": "Efficient use of space with a U-shaped cabinetry layout",
-        "cultural_significance": "Modern interpretation of Indian household design, focusing on functionality and contemporary aesthetics"
+        "modern_adaptations": [
+          "Use of modern lighting and cabinetry designs with traditional materials"
+        ],
+        "space_utilization": "Optimized space with integrated design elements",
+        "cultural_significance": "Cultural relevance through the use of traditional materials like wood and marble in a modern context"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian kitchen features clean lines and integrated cabinetry with a focus on traditional materials like light wood and marble. The use of under-cabinet lighting and light-colored tiles creates a contemporary yet warm and inviting space.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Integrated Cabinets",
+          "Teak Finish",
+          "Marble Backsplash",
+          "Under-cabinet Lighting"
+        ],
+        "budget_indicator": "Mid-range, due to the use of quality materials and finishes",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Light wood and marble elements highlight traditional Indian design"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image depicts a modern Indian kitchen with a U-shaped cabinetry layout, featuring light wood-toned cabinetry with paneling, modern appliances like an oven and refrigerator, a ceramic tile backsplash, and under-cabinet lighting. The design is functional and contemporary, with no overt traditional Indian elements, reflecting an urban modern interpretation of Indian household design.",
-    "metadata": {
-      "tags": [
-        "Kitchen",
-        "Modern Indian",
-        "U-shaped cabinetry",
-        "Appliances",
-        "Ceramic tile backsplash"
-      ],
-      "budget_indicator": "Mid-range, with modern materials and finishes",
-      "space_type": "Residential kitchen",
-      "functionality": "Primary purpose is food preparation and storage",
-      "indian_specific": "Modern adaptation of Indian design aesthetics in a kitchen setting"
     }
   },
-  "cached_at": 1753459850240,
+  "cached_at": 1754494534075,
   "cache_key": "38fb24dfebace35a18e7761823b283d7"
 }

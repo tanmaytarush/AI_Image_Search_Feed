@@ -6,46 +6,46 @@
       "room": "Kitchen",
       "theme": "Modern Indian",
       "primary_features": [
-        "White cabinetry",
-        "Integrated appliances",
-        "Linear lighting"
+        "Wooden cabinets",
+        "Glass doors",
+        "Built-in storage"
       ],
       "objects": [
         {
-          "type": "Cabinets",
+          "type": "Cabinet",
           "features": [
-            "Compact design",
-            "Integrated drawers",
-            "White finish"
+            "Wooden finish",
+            "Glass panel door"
           ],
           "materials": [
-            "Wood (likely teak)",
-            "Painted finish"
+            "Wood",
+            "Glass"
           ],
-          "finish": "Smooth and glossy"
+          "finish": "Wooden finish with glass doors"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
           "Brown",
-          "Black"
+          "White"
         ],
         "materials": [
           "Wood",
-          "Paint"
+          "Glass"
         ],
-        "lighting": "Linear overhead lighting",
-        "texture": "Glossy and smooth surfaces"
+        "lighting": "Natural light",
+        "texture": "Smooth wooden texture"
       },
       "indian_context": {
-        "regional_style": "Not applicable - modern",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Integration of modern appliances with traditional Indian materials"
+        "regional_style": "Mughal-influenced",
+        "traditional_elements": [
+          "Wooden cabinets"
         ],
-        "space_utilization": "Effective use of compact space for storage",
-        "cultural_significance": "Modern adaptation of Indian design elements"
+        "modern_adaptations": [
+          "Glass doors, built-in storage"
+        ],
+        "space_utilization": "Efficient storage solution",
+        "cultural_significance": "The use of wood and glass reflects traditional Mughal architecture and modernization"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -54,22 +54,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This modern Indian kitchen showcases a contemporary interpretation of Indian design with compact white cabinetry and integrated appliances. The use of white as the primary color for the cabinetry aligns with the modern Indian aesthetic that often emphasizes clean lines and minimalism. The smooth finish and glossy appearance of the cabinetry suggest the use of high-quality materials, likely teak or a similar wood, painted white. The linear lighting above the cabinets is a modern design choice that complements the overall contemporary look. The design emphasizes space optimization, which is a key aspect of modern Indian interior design, especially in smaller residential spaces.",
+      "description": "The kitchen features modern Indian design elements, including wooden cabinets with glass doors for a sleek and traditional look. The space incorporates efficient built-in storage solutions, reflecting a blend of classical Mughal architectural influences and contemporary functionality. The use of wood and glass is indicative of traditional Indian craftsmanship and modern material selection.",
       "metadata": {
         "tags": [
-          "Modern Indian Kitchen",
-          "Compact Design",
-          "White Cabinets",
-          "Integrated Appliances",
-          "Linear Lighting"
+          "Modern Indian",
+          "Kitchen",
+          "Mughal influences",
+          "Wooden cabinets",
+          "Glass doors"
         ],
         "budget_indicator": "Moderate",
-        "space_type": "Residential Kitchen",
-        "functionality": "Storage",
-        "indian_specific": "Integration of modern design with traditional Indian materials"
+        "space_type": "Residential kitchen",
+        "functionality": "Storage and organization",
+        "indian_specific": "Modern adaptation of traditional wood and glass elements"
       }
     }
   },
-  "cached_at": 1753449396177,
+  "cached_at": 1754492105380,
   "cache_key": "db4ba0f6ee91e325b37f044c6a771f56"
 }

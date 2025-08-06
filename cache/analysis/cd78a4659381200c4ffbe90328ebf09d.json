@@ -1,0 +1,124 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00681.JPG",
+  "analysis": {
+    "image_id": "img_004",
+    "ai_generated_tags": {
+      "room": "Living Area",
+      "theme": "Contemporary with Traditional Elements",
+      "primary_features": [
+        "Wooden columns",
+        "Marble floor",
+        "Staircase with glass railings"
+      ],
+      "objects": [
+        {
+          "type": "Wooden Partition",
+          "features": [
+            "Decorative elements",
+            "Carved details"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "High-gloss, polished"
+        },
+        {
+          "type": "Carved Wooden Paneling",
+          "features": [
+            "Decorative design",
+            "Gold accents"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Rich, warm tone"
+        },
+        {
+          "type": "Staircase",
+          "features": [
+            "Wooden steps",
+            "Glass railings"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Sleek, contemporary"
+        },
+        {
+          "type": "Diwan",
+          "features": [
+            "Cushioned seating",
+            "Soft fabric"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Comfortable, luxurious"
+        },
+        {
+          "type": "God Statue",
+          "features": [
+            "Bronze finish",
+            "Traditional design"
+          ],
+          "materials": [
+            "Bronze"
+          ],
+          "finish": "Polished, reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gold"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Glass"
+        ],
+        "lighting": "Bright, artificial (LED lights)",
+        "texture": "Smooth, polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden Partition",
+          "God Statue",
+          "Carved Wooden Paneling"
+        ],
+        "modern_adaptations": [
+          "Glass railings",
+          "Marble floor"
+        ],
+        "space_utilization": "Open floor plan with a clear view of the staircase and living area",
+        "cultural_significance": "The presence of a God statue signifies a sacred area in Indian homes, often used for worship or prayer"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This interior space showcases a blend of contemporary design with traditional Indian elements, evident in the use of wooden partitions with ornate carvings and gold accents, a staircase with glass railings, and a living area with a comfortable diwan. The warm tones of the wood and the contrast with the white marble floor highlight the traditional and modern influences, respectively. A prominent God statue in the background underscores the cultural significance of the space, reflecting a common practice in Indian homes for religious or spiritual purposes.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian Interior",
+        "Wooden Partition",
+        "Marble Floor",
+        "Staircase with Glass Railings",
+        "God Statue"
+      ],
+      "budget_indicator": "Moderate to High, due to the use of polished wood, marble, and glass in the staircase",
+      "space_type": "Residential (Living Area)",
+      "functionality": "Social and relaxation area, with a focus on openness and natural light",
+      "indian_specific": "Carved wooden elements, God statue, and use of marble"
+    }
+  },
+  "cached_at": 1754488207981,
+  "cache_key": "cd78a4659381200c4ffbe90328ebf09d"
+}

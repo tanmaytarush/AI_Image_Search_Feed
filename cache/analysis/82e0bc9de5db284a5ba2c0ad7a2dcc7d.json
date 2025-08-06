@@ -3,89 +3,76 @@
   "analysis": {
     "image_id": "img_262",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Contemporary Indian",
+      "room": "Entrance Hall",
+      "theme": "(classical Indian)",
       "primary_features": [
-        "Dark wood paneling",
-        "Glass partition",
-        "Carved wood elements",
-        "Teak furniture",
-        "Marble flooring",
-        "Copper accents"
+        "Wooden paneling",
+        "Carved detailing",
+        "Lampshades",
+        "Railing"
       ],
       "objects": [
         {
-          "type": "Teak furniture",
+          "type": "wooden paneling",
           "features": [
-            "Carved wood design",
-            "Rich brown color"
+            "horizontal slats",
+            "intricate carvings"
           ],
           "materials": [
-            "Teak"
+            "teak"
           ],
-          "finish": "High gloss"
+          "finish": "polished"
         },
         {
-          "type": "Teak sofa",
+          "type": "lampshades",
           "features": [
-            "Carved details",
-            "Dark wood finish"
+            "textured fabric",
+            "round shape"
           ],
           "materials": [
-            "Teak"
+            "fabric"
           ],
-          "finish": "High gloss"
+          "finish": "smooth"
         },
         {
-          "type": "Glass partition",
+          "type": "railing",
           "features": [
-            "Translucent glass panels",
-            "Gold accents"
+            "metal bars",
+            "wooden posts"
           ],
           "materials": [
-            "Glass",
-            "Copper"
+            "metal",
+            "wood"
           ],
-          "finish": "High polish"
-        },
-        {
-          "type": "Flooring",
-          "features": [
-            "Marble tiles"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Smooth, polished"
+          "finish": "shiny, painted"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark brown",
-          "Gold",
-          "Green",
-          "White",
-          "Black"
+          "brown",
+          "white",
+          "green",
+          "red"
         ],
         "materials": [
-          "Teak",
-          "Glass",
-          "Copper",
-          "Marble"
+          "wood",
+          "metal",
+          "fabric"
         ],
-        "lighting": "Ambient lighting with accent lighting on the glass partition",
-        "texture": "Combination of smooth and textured (carved wood)"
+        "lighting": "soft ambient lighting",
+        "texture": "mix of smooth and textured surfaces"
       },
       "indian_context": {
-        "regional_style": "North Indian",
+        "regional_style": "North Indian (specifically, Rajasthan)",
         "traditional_elements": [
-          "Carved wood (diwan style)"
+          "carved woodwork",
+          "jharokha-like design"
         ],
         "modern_adaptations": [
-          "Contemporary glass partition, modern lighting"
+          "use of metal railings for safety"
         ],
-        "space_utilization": "Open layout with a focus on symmetry and clean lines",
-        "cultural_significance": "Use of natural materials like teak and marble, along with gold accents, reflects a blend of traditional and modern values"
+        "space_utilization": "optimized for entrance, with clear pathways and decorative elements",
+        "cultural_significance": "The craftsmanship reflects traditional Indian art and architecture"
       }
     },
     "confidence_scores": {
@@ -95,23 +82,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The interior space features a contemporary take on traditional North Indian design. Dark wood paneling and carved teak furniture are prominent, creating a rich and luxurious feel. A glass partition with gold accents adds a modern touch, while the space is well-lit with both ambient and accent lighting. The use of marble flooring and natural materials like teak and copper emphasizes a blend of traditional craftsmanship and modern aesthetics.",
+    "description": "This entrance hall exemplifies classical Indian design with its rich wood paneling adorned with intricate carvings, metal railings, and lampshades draped in textured fabric. The color palette, dominated by earthy tones, is typical of North Indian aesthetics, particularly Rajasthan. The design focuses on traditional elements while incorporating modern safety features, making the space both functional and culturally significant.",
     "metadata": {
       "tags": [
+        "entrance hall",
         "Indian interior",
-        "Contemporary design",
-        "Teak furniture",
-        "Glass partition",
-        "North Indian style",
-        "Marble flooring",
-        "Gold accents"
+        "classical design",
+        "carved wood",
+        "metal railings"
       ],
-      "budget_indicator": "Higher",
-      "space_type": "Living Room",
-      "functionality": "Social and relaxation area",
-      "indian_specific": "Carved wood accents, natural wood materials, and gold accents"
+      "budget_indicator": "moderate, with a focus on quality materials like teak and polished metals",
+      "space_type": "residential",
+      "functionality": "welcoming guests into the home, with clear pathways and decorative elements",
+      "indian_specific": "carved wood paneling, metal railings, and traditional lampshades"
     }
   },
-  "cached_at": 1753459772173,
+  "cached_at": 1754494401363,
   "cache_key": "82e0bc9de5db284a5ba2c0ad7a2dcc7d"
 }

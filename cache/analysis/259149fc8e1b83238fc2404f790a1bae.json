@@ -4,83 +4,99 @@
     "image_id": "img_245",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Indo-Western",
+      "theme": "Indian Traditional",
       "primary_features": [
         "Carved wooden headboard",
-        "Blue and beige color scheme",
-        "Built-in storage unit"
+        "Marble flooring",
+        "Teak wood furniture"
       ],
       "objects": [
         {
           "type": "Carved wooden headboard",
           "features": [
-            "Decorative carving on the headboard",
-            "Traditional design elements",
+            "Classic Indian design",
+            "Dark wood with intricate carvings",
+            "Decorative motifs"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Dark polish and natural wood grain"
+        },
+        {
+          "type": "Marble flooring",
+          "features": [
+            "Smooth and polished surface",
+            "White marble tiles"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High polish"
+        },
+        {
+          "type": "Teak wood furniture",
+          "features": [
+            "Solid wood construction",
+            "Traditional design",
             "Dark wood finish"
           ],
           "materials": [
             "Teak wood"
           ],
-          "finish": "Dark wood finish with intricate carvings"
-        },
-        {
-          "type": "Built-in storage unit",
-          "features": [
-            "Integrated into the wall",
-            "Rustic design with exposed wood"
-          ],
-          "materials": [
-            "Teak wood"
-          ],
-          "finish": "Dark wood finish with a rustic look"
+          "finish": "Dark polish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark brown, blue, beige, white"
+          "Dark wood tones",
+          "White marble",
+          "Blue accents"
         ],
         "materials": [
-          "Teak wood, wood, the headboard is likely upholstered in fabric"
+          "Teak wood",
+          "Marble",
+          "Wood"
         ],
-        "lighting": "Ambient lighting with no visible direct light source, suggesting soft, diffused lighting",
-        "texture": "Smooth wood texture on the headboard and storage unit, fabric texture on the upholstered headboard"
+        "lighting": "Natural light from unseen windows",
+        "texture": "Smooth marble, polished wood"
       },
       "indian_context": {
-        "regional_style": "No specific regional style is evident, but the use of teak wood and traditional carved elements suggest a nod to Indian craftsmanship",
+        "regional_style": "North Indian (Mughal influence)",
         "traditional_elements": [
           "Carved wooden headboard",
-          "Rustic wood finish"
+          "Teak wood furniture",
+          "Marble flooring"
         ],
         "modern_adaptations": [
-          "Built-in storage unit with a modern design"
+          "Contemporary lines integrated into traditional forms"
         ],
-        "space_utilization": "Efficient use of space with built-in storage and a functional design",
-        "cultural_significance": "The use of teak wood and carved elements reflects traditional Indian craftsmanship and materials"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a bedroom with a rustic, Indo-Western design. The centerpiece is a carved wooden headboard, which is a traditional element, complemented by a built-in storage unit that integrates seamlessly into the design. The color scheme uses a deep blue and beige palette, with the wooden elements showcasing a dark finish that adds a touch of elegance. The space utilizes a traditional Indian material, teak, which is both culturally significant and durable. The overall design blends traditional Indian craftsmanship with modern functional elements, creating a harmonious and visually appealing interior.",
-      "metadata": {
-        "tags": [
-          "Indo-Western",
-          "Indian interior design",
-          "Carved wooden headboard",
-          "Built-in storage unit",
-          "Rustic design",
-          "Teak wood"
-        ],
-        "budget_indicator": "Medium",
-        "space_type": "Bedroom",
-        "functionality": "Sleeping and storage",
-        "indian_specific": "Carved wooden headboard, use of teak wood"
+        "space_utilization": "Efficient use of space with minimalistic furniture",
+        "cultural_significance": "Elements reflect traditional craftsmanship and materials valued in Indian interiors"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a bedroom with a focus on traditional Indian design elements. The room features a carved wooden headboard with intricate Indian motifs, indicative of North Indian Mughal influences, and is complemented by solid teak wood furniture with dark polish finishes. The floor is covered in white marble tiles, adding a touch of luxury and traditional craftsmanship. The overall design reflects a blend of traditional Indian aesthetics with modern interpretations, emphasizing the use of high-quality materials and detailed craftsmanship.",
+    "metadata": {
+      "tags": [
+        "Indian traditional",
+        "Mughal influence",
+        "Teak wood",
+        "Marble flooring",
+        "Carved furniture"
+      ],
+      "budget_indicator": "Higher, due to the use of high-quality materials like marble and polished woods",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and relaxation",
+      "indian_specific": "Use of carved wooden elements and teak wood, traditional materials"
     }
   },
-  "cached_at": 1753459616914,
+  "cached_at": 1754494119244,
   "cache_key": "259149fc8e1b83238fc2404f790a1bae"
 }

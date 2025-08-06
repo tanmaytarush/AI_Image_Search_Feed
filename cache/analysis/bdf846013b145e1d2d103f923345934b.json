@@ -2,77 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1728129508372.jpg",
   "analysis": {
     "image_id": "img_402",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1728129508372.jpg",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Contemporary Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Walk-in shower",
-        "Bathroom vanity with built-in storage",
-        "Modern mirror"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Vanity mirror",
+          "type": "furniture",
           "features": [
-            "Large, rectangular, modern frame",
-            "Integrated with storage above the counter"
+            "traditional_style"
           ],
           "materials": [
-            "Glass",
-            "Metal"
+            "wood",
+            "fabric"
           ],
-          "finish": "Sleek, polished"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Light beige",
-          "Silver"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Glass",
-          "Metal",
-          "Teak"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from a window with frosted glass",
-        "texture": "Smooth surfaces with a contemporary feel"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "South Indian",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Teak wood used in vanity cabinet"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Combination of modern and traditional elements"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with built-in storage and minimalistic design",
-        "cultural_significance": "Use of teak wood represents durability and connection to nature, common in South Indian homes"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This contemporary Indian bathroom design features a walk-in shower, a modern vanity with a built-in storage unit, and a large, sleek mirror. The use of light-colored materials and integrated storage emphasizes a clean, functional, and minimalist approach. Traditional elements like teak wood in the vanity cabinet add a touch of cultural significance, showcasing a modern adaptation of traditional design. The overall aesthetic is elegant and efficient, reflecting the South Indian architectural trend of combining modern functionality with traditional materials and craftsmanship.",
-      "metadata": {
-        "tags": [
-          "Contemporary Indian",
-          "South Indian",
-          "Teak",
-          "Modern bathroom",
-          "Walk-in shower",
-          "Integrated storage"
-        ],
-        "budget_indicator": "Mid-range, with a focus on quality materials and modern design",
-        "space_type": "Bathroom",
-        "functionality": "Primary purpose is to serve as a functional bathroom with a modern aesthetic",
-        "indian_specific": "Use of teak wood and modern interpretation of traditional elements"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1728129508372.jpg"
   },
-  "cached_at": 1753461459295,
+  "cached_at": 1754496206973,
   "cache_key": "bdf846013b145e1d2d103f923345934b"
 }

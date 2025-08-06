@@ -3,66 +3,92 @@
   "analysis": {
     "image_id": "img_137",
     "ai_generated_tags": {
-      "room": "Jewelry Display Room",
-      "theme": "Mughal-Inspired Display",
+      "room": "Store/Shop",
+      "theme": "Utility",
       "primary_features": [
-        "Shelving unit",
-        "Jewelry",
-        "Wooden shelves"
+        "Wall display shelves",
+        "Jewelry pieces"
       ],
       "objects": [
         {
-          "type": "Jewelry Display",
+          "type": "Wall display shelves",
           "features": [
-            "Necklaces, earrings, bracelets arranged on shelves"
+            "Organized",
+            "Stacked levels",
+            "Curved design"
           ],
           "materials": [
-            "Wood, metal"
+            "Wood",
+            "Metal"
           ],
-          "finish": "Polished wood"
+          "finish": "Rustic"
+        },
+        {
+          "type": "Jewelry pieces",
+          "features": [
+            "Arrays of necklaces",
+            "Variety of designs",
+            "Colors"
+          ],
+          "materials": [
+            "Brass",
+            "Gold",
+            "Copper"
+          ],
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown, gold, black, silver"
+          "Gold",
+          "Silver",
+          "Brown",
+          "Red",
+          "Green",
+          "Blue"
         ],
         "materials": [
-          "Wood, metal"
+          "Wood",
+          "Metal",
+          "Brass",
+          "Marble"
         ],
-        "lighting": "Natural light, possibly from a window out of frame",
-        "texture": "Smooth wood, reflective metal"
+        "lighting": "Soft and diffused lighting",
+        "texture": "Rustic wood and shiny metals"
       },
       "indian_context": {
-        "regional_style": "Mughal",
+        "regional_style": "No specific regional style present",
         "traditional_elements": [
-          "Carved wooden shelves"
+          "No traditional Indian elements visible"
         ],
-        "modern_adaptations": "Use of contemporary jewelry display",
+        "modern_adaptations": [
+          "Utilization of modern display techniques"
+        ],
         "space_utilization": "Efficient use of vertical space",
-        "cultural_significance": "Mughal architecture and craftsmanship influence"
+        "cultural_significance": "No cultural significance in this image"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a jewelry store with wall-mounted display shelves holding a variety of jewelry pieces. The shelves are constructed with a rustic wood finish, supported by metal frames, creating a display that is both functional and visually appealing. The jewelry pieces, ranging from necklaces to rings, are neatly arranged, showcasing a mix of traditional and modern designs with materials like brass and gold. The soft lighting enhances the metallic and wooden textures, creating a warm and inviting atmosphere.",
+      "metadata": {
+        "tags": [
+          "Jewelry Store",
+          "Utility Room",
+          "Wall Display",
+          "Indian Jewelry"
+        ],
+        "budget_indicator": "Moderate to High, given the polished metallic and wood finishes",
+        "space_type": "Store/Shop",
+        "functionality": "Display and sale of jewelry",
+        "indian_specific": "Traditional jewelry design elements, albeit in a modern display format"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image depicts a jewelry display room with a Mughal-inspired aesthetic. The space features wooden shelves that are intricately carved, reminiscent of traditional Mughal designs. The jewelry, including necklaces, earrings, and bracelets, is artfully arranged on these shelves, showcasing a blend of modern jewelry display with traditional craftsmanship. The color palette is dominated by earthy tones, with the polished wood providing a warm brown backdrop that complements the metallic sheen of the jewelry.",
-    "metadata": {
-      "tags": [
-        "Jewelry Display",
-        "Mughal Style",
-        "Indian Design",
-        "Traditional Craftsmanship"
-      ],
-      "budget_indicator": "Moderate, with a focus on quality materials",
-      "space_type": "Retail or Private Collection",
-      "functionality": "Focus on showcasing jewelry in an elegant and organized manner",
-      "indian_specific": "Carved wood and Mughal-inspired design elements"
     }
   },
-  "cached_at": 1753448987259,
+  "cached_at": 1754491597771,
   "cache_key": "6ee135822c5187f76579afe864fe8869"
 }

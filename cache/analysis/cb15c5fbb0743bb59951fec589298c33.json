@@ -2,77 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.34%20PM%20%281%29.jpeg",
   "analysis": {
     "image_id": "img_042",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.34%20PM%20%281%29.jpeg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Large wardrobe with sliding doors"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "furniture",
           "features": [
-            "Large, dark grey with a textured finish",
-            "Sliding doors with handles",
-            "Multiple storage compartments"
+            "traditional_style"
           ],
           "materials": [
-            "Composite wood, possibly MDF with a textured finish"
+            "wood",
+            "fabric"
           ],
-          "finish": "Textured, matte finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark grey",
-          "White",
-          "Red",
-          "Beige"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Composite wood",
-          "White tiles",
-          "Red painted wall"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from unseen windows",
-        "texture": "Textured finish on the wardrobe, smooth tiles on the floor, painted wall"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Not applicable"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Wardrobe with modern sliding doors and a minimalist design"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with a large wardrobe occupying the wall area",
-        "cultural_significance": "Not relevant to the provided image as it does not contain traditional Indian decorative elements"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a minimalist bedroom with a large, dark grey wardrobe with sliding doors. The room features a painted red wall, white tiled flooring, and natural light from an unseen window. The wardrobe is a modern adaptation of traditional Indian storage solutions, with a sleek and contemporary design.",
-      "metadata": {
-        "tags": [
-          "Minimalist bedroom",
-          "Large wardrobe",
-          "Sliding doors",
-          "Dark grey",
-          "Red wall",
-          "White tiles",
-          "Modern design"
-        ],
-        "budget_indicator": "Moderate, due to the use of composite wood and sliding doors",
-        "space_type": "Bedroom",
-        "functionality": "Storage and organization",
-        "indian_specific": "Minimalist adaptation of traditional Indian storage solutions"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "WhatsApp%20Image%202023-04-10%20at%209.47.34%20PM%20%281%29.jpeg"
   },
-  "cached_at": 1753957224512,
+  "cached_at": 1754489399072,
   "cache_key": "cb15c5fbb0743bb59951fec589298c33"
 }

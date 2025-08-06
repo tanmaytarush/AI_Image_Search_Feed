@@ -4,96 +4,80 @@
     "image_id": "img_175",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Minimalist",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Wall-mounted shelves",
+        "Built-in storage",
         "Modern furniture",
-        "Simple decor"
+        "Minimalistic decor"
       ],
       "objects": [
         {
-          "type": "Wall-mounted shelf",
-          "features": [
-            "Built-in into the wall",
-            "Fits seamlessly with the architecture"
-          ],
-          "materials": [
-            "Painted wood",
-            "Painted metal"
-          ],
-          "finish": "Smooth, glossy finish"
-        },
-        {
           "type": "Modern sofa",
           "features": [
-            "Contemporary design",
-            "Compact size"
+            "Compact design",
+            "Sleek finish"
           ],
           "materials": [
-            "Fabric",
-            "Metal frame"
+            "Fabric, foam"
           ],
-          "finish": "Textured fabric, metallic sheen"
+          "finish": "Smooth, glossy"
         },
         {
-          "type": "Floor lamp",
+          "type": "Built-in storage unit",
           "features": [
-            "Simple design",
-            "Single bulb"
+            "Wall-mounted",
+            "Decorative elements"
           ],
           "materials": [
-            "Glass shade",
-            "Metal base"
+            "Wood, metal"
           ],
-          "finish": "Matte glass, metallic finish"
+          "finish": "Painted, metallic"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Black",
-          "Gray"
+          "White, black, metallic accents"
         ],
         "materials": [
-          "Painted wood",
-          "Metal",
-          "Glass",
-          "Fabric"
+          "Wood, metal, fabric"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Smooth surfaces, matte glass"
+        "lighting": "Soft, ambient lighting",
+        "texture": "Sleek, smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "Not identifiable",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Minimalist adaptation of traditional Indian design"
+        "regional_style": "Not apparent",
+        "traditional_elements": [
+          "Modern interpretations of traditional design"
         ],
-        "space_utilization": "Efficient use of space with furniture and decor",
-        "cultural_significance": "Not culturally significant in this context"
+        "modern_adaptations": [
+          "Incorporation of traditional motifs in contemporary styles"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Modern adaptations of traditional design elements to suit contemporary living spaces"
       }
     },
     "confidence_scores": {
-      "room": 0.78,
-      "theme": 0.8,
-      "primary_features": 0.82,
-      "objects": 0.85,
-      "indian_context": 0.75
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
     },
-    "description": "This living room features a modern minimalist design with a focus on clean lines and functionality. The space includes a wall-mounted shelf that complements the room's architecture, a compact sofa with a contemporary design, and a floor lamp with a simple yet elegant finish. The color palette is predominantly white with black and gray accents, creating a sleek and contemporary aesthetic. The room does not exhibit traditional Indian design elements, suggesting a modern interpretation of minimalism.",
+    "description": "The image depicts a contemporary living room with a design that blends modern aesthetics with subtle traditional Indian influences. The room features a sleek, compact sofa with a smooth, glossy finish, which is a modern take on traditional Indian furniture. The built-in storage unit, with its painted wood and metallic accents, also showcases a modern adaptation of traditional design elements. The minimalist decor and efficient use of space reflect a focus on functionality and modern interior design principles, while the color palette and smooth textures maintain a clean, sophisticated look.",
     "metadata": {
       "tags": [
-        "Living Room",
-        "Minimalist Design",
-        "Modern Furniture",
-        "Wall-mounted Shelf"
+        "Modern Indian",
+        "Minimalist",
+        "Contemporary",
+        "Built-in Storage",
+        "Living Room"
       ],
       "budget_indicator": "Moderate",
-      "space_type": "Residential Living Room",
-      "functionality": "Relaxation and socializing",
-      "indian_specific": "No visible Indian-specific design features"
+      "space_type": "Living Room",
+      "functionality": "Primary purpose for relaxation and socializing",
+      "indian_specific": "Contemporary interpretation of traditional design"
     }
   },
-  "cached_at": 1753449637824,
+  "cached_at": 1754492518108,
   "cache_key": "39b876cb0ac1e6276cf185e6b6963c32"
 }

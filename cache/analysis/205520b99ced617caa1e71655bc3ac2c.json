@@ -2,101 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/812/image_cropper_1729261912825.jpg",
   "analysis": {
     "image_id": "img_325",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/812/image_cropper_1729261912825.jpg",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "White cabinetry",
-        "Granite countertop",
-        "Ceramic floor tiles",
-        "White backsplash tiles"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Countertop",
+          "type": "furniture",
           "features": [
-            "Smooth surface",
-            "Rectangular shape",
-            "Granite material"
+            "traditional_style"
           ],
           "materials": [
-            "Granite"
+            "wood",
+            "fabric"
           ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Backsplash",
-          "features": [
-            "Rectangular tiles",
-            "White color",
-            "Vertical installation"
-          ],
-          "materials": [
-            "Ceramic"
-          ],
-          "finish": "Glazed"
-        },
-        {
-          "type": "Cabinets",
-          "features": [
-            "White color",
-            "Rectangular shape",
-            "Closed design"
-          ],
-          "materials": [
-            "MDF"
-          ],
-          "finish": "Painted"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Gray",
-          "Black"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Granite",
-          "Ceramic",
-          "MDF"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Smooth surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "No specific regional style",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Minimalist design with modern materials"
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
         ],
-        "space_utilization": "Efficient use of vertical space with cabinets and countertops",
-        "cultural_significance": "No cultural elements relevant to Indian interiors"
+        "modern_adaptations": [
+          "contemporary_design"
+        ],
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image shows a modern kitchen with a minimalist design. The cabinets are white, providing a clean and sleek appearance. The countertop is made of granite with a polished finish, and the backsplash features rectangular ceramic tiles in white. The space appears well-organized with efficient use of vertical space, indicating a contemporary approach to kitchen design. There are no visible traditional Indian design elements or cultural decorations in this image.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Kitchen",
-        "Minimalist",
-        "Modern",
-        "Granite",
-        "Ceramic",
-        "White",
-        "Efficient"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, given the use of materials like granite and ceramic tiles",
-      "space_type": "Residential",
-      "functionality": "Primary purpose is to serve as a functional kitchen space",
-      "indian_specific": "No Indian-specific design features"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729261912825.jpg"
   },
-  "cached_at": 1753460474125,
+  "cached_at": 1754495381034,
   "cache_key": "205520b99ced617caa1e71655bc3ac2c"
 }

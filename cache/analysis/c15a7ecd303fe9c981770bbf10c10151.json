@@ -2,70 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/290/image_cropper_1728319834986.jpg",
   "analysis": {
     "image_id": "img_459",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/290/image_cropper_1728319834986.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Sliding wardrobe doors",
-        "Blue and white color scheme"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Sliding wardrobe",
+          "type": "furniture",
           "features": [
-            "Modern design with sleek lines",
-            "Blue and white color combination"
+            "traditional_style"
           ],
           "materials": [
-            "Unknown due to image quality"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth surface finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Blue",
-          "White",
-          "Dark blue"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Unknown due to image quality"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not identifiable from image",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Minimalist use of traditional colors"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with large wardrobe",
-        "cultural_significance": "No specific cultural elements visible"
-      },
-      "confidence_scores": {
-        "room": 0.8,
-        "theme": 0.75,
-        "primary_features": 0.85,
-        "objects": 0.8,
-        "indian_context": 0.6
-      },
-      "description": "The image depicts a modern Indian-inspired bedroom with a focus on a contemporary wardrobe. The sliding doors are a sleek, minimalist design with a color scheme of blue and white, typical of modern Indian interiors. The space appears to utilize efficient storage solutions, with the large wardrobe taking up significant wall space. The lighting suggests natural light from a window, contributing to the brightness of the room. The overall design is clean and uncluttered, with a focus on contemporary aesthetics rather than traditional Indian elements.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Bedroom",
-          "Sliding Wardrobe",
-          "Blue and White",
-          "Minimalist Design"
-        ],
-        "budget_indicator": "Budget-friendly",
-        "space_type": "Residential bedroom",
-        "functionality": "Storage and relaxation",
-        "indian_specific": "Use of blue and white in a modern context"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1728319834986.jpg"
   },
-  "cached_at": 1753462274213,
+  "cached_at": 1754496581873,
   "cache_key": "c15a7ecd303fe9c981770bbf10c10151"
 }

@@ -3,80 +3,71 @@
   "analysis": {
     "image_id": "img_059",
     "ai_generated_tags": {
-      "room": "Wardrobe",
-      "theme": "Modern Indian Minimalist",
+      "room": "living room",
+      "theme": "contemporary with Indian influences",
       "primary_features": [
-        "White wardrobe with black lace patterns",
-        "Decorative Om and Swastika symbols",
-        "Simple white desk",
-        "Metallic clock"
+        "wardrobe with religious symbols",
+        "clock",
+        "simple furniture"
       ],
       "objects": [
         {
-          "type": "Wardrobe",
+          "type": "wardrobe",
           "features": [
-            "Two-door design with lace patterns",
-            "Decorative symbols on doors"
+            "white with black religious symbols",
+            "double doors",
+            "metallic handles"
           ],
           "materials": [
-            "White finish, likely MDF or particle board",
-            "Black lacquer for lace patterns"
+            "MDF or similar, likely"
           ],
-          "finish": "Glossy metallic black for decorative elements, white smooth finish for wardrobe surface"
+          "finish": "high-gloss finish"
         },
         {
-          "type": "Desk",
+          "type": "clock",
           "features": [
-            "Simple white design",
-            "Rectangular shape",
-            "One drawer"
+            "round design",
+            "brass or gold-colored"
           ],
           "materials": [
-            "White finish, likely MDF or particle board"
+            "metal"
           ],
-          "finish": "Smooth white finish"
+          "finish": "polished, metallic"
         },
         {
-          "type": "Clock",
+          "type": "table",
           "features": [
-            "Rectangular shape",
-            "Metals (likely brass or gold)"
+            "simple, white, with drawers"
           ],
           "materials": [
-            "Metallic surface"
+            "likely MDF or particle board"
           ],
-          "finish": "Polished metallic with a golden frame"
+          "finish": "glossy white paint"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Black",
-          "Gold",
-          "Brown"
+          "white, black, brass/gold, beige"
         ],
         "materials": [
-          "MDF/Particle board",
-          "Metallic",
-          "Plastic"
+          "MDF or particle board, metal, glass"
         ],
-        "lighting": "Natural light from a window with metal grills",
+        "lighting": "indirect, natural light from window",
         "texture": [
-          "Smooth and glossy for wardrobe",
-          "Metallic finish for clock",
-          "Matte for desk"
+          "smooth, glossy surfaces"
         ]
       },
       "indian_context": {
-        "regional_style": "Non-specific, but likely from a modern urban Indian home",
+        "regional_style": "non-specific regional influence; general Indian design with modern adaptations",
         "traditional_elements": [
-          "Decorative Om and Swastika symbols"
+          "religious symbols (Om and Swastika)",
+          "carved elements (decoration on wardrobe)"
         ],
         "modern_adaptations": [
-          "Simple white furniture with modern design elements"
+          "simplified design, use of MDF instead of traditional materials"
         ],
-        "space_utilization": "Efficient use of vertical space with a wardrobe, minimal desk area, and open space for movement",
-        "cultural_significance": "The Om symbol represents the ultimate reality, while the Swastika is a symbol of good fortune and prosperity in Hindu culture"
+        "space_utilization": "efficient use of space with a wardrobe dominating the area",
+        "cultural_significance": "religious symbols may indicate a space used for prayer or spiritual activities"
       }
     },
     "confidence_scores": {
@@ -86,23 +77,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image showcases a modernized Indian interior with a focus on minimalism and cultural symbolism. A white wardrobe with intricate black lace patterns serves as the centerpiece, adorned with decorative Om and Swastika symbols, representing Hindu religious and cultural elements. A simple white desk and a metallic clock (likely brass or gold) complete the scene, emphasizing contemporary design with traditional influences. The natural light from the window highlights the clean lines and smooth finishes of the furniture, creating a serene and culturally significant space.",
+    "description": "The interior features a white wardrobe with black religious symbols (Om and Swastika) and metallic handles, indicating a space with Indian cultural significance. The wardrobe is the focal point, positioned near a simple white table with drawers. A clock with a brass or gold-colored frame is mounted on the wall above the wardrobe. The room appears to be a living area, with a window providing natural light. The overall design is contemporary with subtle Indian influences, using modern materials like MDF and brass.",
     "metadata": {
       "tags": [
-        "Modern Indian Interior",
-        "Minimalist Design",
-        "Cultural Symbols",
-        "Om",
-        "Swastika",
-        "White Furniture",
-        "Metallic Accents"
+        "Indian interior design",
+        "religious symbols",
+        "contemporary design",
+        "living room",
+        "white and black color scheme"
       ],
-      "budget_indicator": "Moderate, given the use of MDF/PVC for furniture and metal for decorative elements",
-      "space_type": "Living Space",
-      "functionality": "Storage and display area, possibly for a home office or a small living room",
-      "indian_specific": "Decorative symbols and white furniture with black accents"
+      "budget_indicator": "moderate, using materials like MDF and brass",
+      "space_type": "residential living space",
+      "functionality": "storage and display for religious or cultural items",
+      "indian_specific": "wardrobe with religious symbols and simple wooden furniture"
     }
   },
-  "cached_at": 1753957344314,
+  "cached_at": 1754489996350,
   "cache_key": "88bdb81d067f1c9818496d792892b3ce"
 }

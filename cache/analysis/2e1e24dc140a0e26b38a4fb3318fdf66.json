@@ -2,129 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1686/image_cropper_1729866622373.jpg",
   "analysis": {
     "image_id": "img_455",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1686/image_cropper_1729866622373.jpg",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Modern Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Carpet",
-        "Sofa",
-        "Coffee table",
-        "Television",
-        "Mirror"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Carpet",
+          "type": "furniture",
           "features": [
-            "Patterned design"
+            "traditional_style"
           ],
           "materials": [
-            "Wool"
+            "wood",
+            "fabric"
           ],
-          "finish": "Soft texture"
-        },
-        {
-          "type": "Sofa",
-          "features": [
-            "Comfortable seating",
-            "exposed wooden frame"
-          ],
-          "materials": [
-            "Fabric",
-            "Wood"
-          ],
-          "finish": "Smooth fabric, polished wood"
-        },
-        {
-          "type": "Coffee table",
-          "features": [
-            "Rectangular shape",
-            "Metal frame"
-          ],
-          "materials": [
-            "Metal",
-            "Glass"
-          ],
-          "finish": "Glossy metal, clear glass"
-        },
-        {
-          "type": "Television",
-          "features": [
-            "Flat screen"
-          ],
-          "materials": [
-            "Metal",
-            "Plastic"
-          ],
-          "finish": "Shiny metal, matte plastic"
-        },
-        {
-          "type": "Mirror",
-          "features": [
-            "Large size",
-            "Frameless"
-          ],
-          "materials": [
-            "Glass",
-            "Metal"
-          ],
-          "finish": "Clear glass, polished metal"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown",
-          "Beige",
-          "White",
-          "Blue",
-          "Red"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Glass",
-          "Fabric",
-          "Wool"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from window, artificial light from lamp",
-        "texture": "Soft carpet, smooth fabric, shiny glass, polished metal"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not specific to a regional style",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Carpet"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary furniture design"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space, open concept",
-        "cultural_significance": "Carpet often represents hospitality and warmth in Indian homes"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "This image showcases a modern Indian living room with a blend of traditional and contemporary elements. The room features a patterned carpet, a wooden sofa with exposed frames, a rectangular metal coffee table with a glass top, and a flat-screen television. The design incorporates elements of both modern and traditional Indian aesthetics, with a focus on comfort and functionality. The use of natural and artificial lighting, along with a mix of materials like wood, metal, glass, and fabric, creates a warm and inviting atmosphere.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Indian interior design",
-        "Modern Indian living room",
-        "Carpet",
-        "Sofa",
-        "Television",
-        "Mirrors",
-        "Contemporary furniture"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Mid-range to high, given materials like wool carpet and polished wood",
-      "space_type": "Residential living room",
-      "functionality": "Entertainment and relaxation",
-      "indian_specific": "Patterned carpet, wooden furniture with exposed frames"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729866622373.jpg"
   },
-  "cached_at": 1753462237527,
+  "cached_at": 1754496571218,
   "cache_key": "2e1e24dc140a0e26b38a4fb3318fdf66"
 }

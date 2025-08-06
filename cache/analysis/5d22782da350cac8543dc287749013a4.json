@@ -3,76 +3,68 @@
   "analysis": {
     "image_id": "img_125",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Indian Traditional",
+      "room": "Foyer or entrance hall",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Wooden Partition",
-        "Teak Furniture",
-        "Carved Headboard",
-        "Marble Fireplace"
+        "Modern furniture",
+        "Decorative partition",
+        "LED lighting"
       ],
       "objects": [
         {
-          "type": "Wooden Partition",
+          "type": "Partition",
           "features": [
-            "Vertical slats with intricate carving",
-            "Dark wood finish"
+            "Decorative, wooden design with geometric patterns",
+            "Composed of vertical slats"
           ],
           "materials": [
-            "Teak"
+            "Wood"
           ],
-          "finish": "Dark polished wood"
+          "finish": "Natural wood finish with a slightly aged appearance"
         },
         {
-          "type": "Teak Furniture",
+          "type": "Furniture",
           "features": [
-            "Carved headboard",
-            "Curved legs"
+            "Modern, sleek design",
+            "Compact and functional"
           ],
           "materials": [
-            "Teak"
+            "Metal, possibly brass or gold-toned"
           ],
-          "finish": "Dark polished wood"
+          "finish": "Polished and reflective finish"
         },
         {
-          "type": "Marble Fireplace",
+          "type": "Lighting",
           "features": [
-            "Inset design",
-            "Smooth finish"
+            "Integrated LED strip lights in the partition"
           ],
           "materials": [
-            "Marble"
+            "Electric components"
           ],
-          "finish": "White marble"
+          "finish": "Embedded and not visible"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark Brown",
-          "White",
-          "Black",
-          "Brown"
+          "Neutral tones (beige, brown, white)",
+          "Gold accents"
         ],
         "materials": [
-          "Teak",
-          "Marble",
-          "Wood"
+          "Wood, metal, glass"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth marble, polished wood"
+        "lighting": "Soft, ambient lighting from LED strip lights in the partition",
+        "texture": "Smooth surfaces with a mix of natural wood grain and metallic sheen"
       },
       "indian_context": {
-        "regional_style": "North Indian",
+        "regional_style": "Mughal-influenced contemporary",
         "traditional_elements": [
-          "Wooden Partition",
-          "Teak Furniture",
-          "Carved Headboard"
+          "Decorative partition resembling jharokha elements"
         ],
         "modern_adaptations": [
-          "Marble Fireplace, modern lighting"
+          "Integration of modern materials and design"
         ],
-        "space_utilization": "Open and spacious with a focus on natural light",
-        "cultural_significance": "The wooden partition and carved furniture are indicative of traditional North Indian homes, often used to separate spaces while maintaining an open flow. The marble fireplace adds a modern touch, blending traditional aesthetics with contemporary design."
+        "space_utilization": "Efficient use of vertical space with a focus on functional partitioning",
+        "cultural_significance": "Emphasis on traditional craftsmanship and materials with a contemporary twist"
       }
     },
     "confidence_scores": {
@@ -82,21 +74,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The interior showcases a traditional North Indian design style, characterized by a wooden partition with intricate carving, teak furniture with carved headboards, and a marble fireplace. The space is well-lit with natural light, creating a warm and inviting atmosphere. The use of dark teak for the furniture and partition, paired with the white marble fireplace, highlights a contrast between traditional and modern elements, reflecting a contemporary interpretation of North Indian design aesthetics.",
+    "description": "The image showcases a modern Indian foyer with a contemporary take on traditional design elements. The entrance features a decorative wooden partition with geometric patterns, reminiscent of jharokha elements, used as both a functional and aesthetic divider. Modern furniture with a polished metal finish complements the partition, and soft ambient lighting is provided by embedded LED strip lights. The color palette is neutral with a touch of gold, reflecting a traditional Indian aesthetic adapted for a modern setting. The space utilizes vertical space efficiently, emphasizing a blend of tradition and contemporary design.",
     "metadata": {
       "tags": [
-        "Indian Traditional",
-        "North Indian",
-        "Teak Furniture",
-        "Wooden Partition",
-        "Marble Fireplace"
+        "Indian interior design",
+        "Contemporary Indian",
+        "Decorative partition",
+        "Modern furniture",
+        "LED lighting"
       ],
-      "budget_indicator": "Mid-range, with teak and marble being premium materials but modern adaptations keeping it within a mid-range budget",
-      "space_type": "Living Room",
-      "functionality": "Reception or living space, designed for relaxation and social gatherings",
-      "indian_specific": "The use of teak for furniture and carved detailing, indicative of traditional North Indian design"
+      "budget_indicator": "Mid-range",
+      "space_type": "Foyer or entrance hall",
+      "functionality": "Entrance and utility space with a decorative and modern approach",
+      "indian_specific": "Use of traditional craftsmanship and materials in a contemporary setting"
     }
   },
-  "cached_at": 1753448754686,
+  "cached_at": 1754491433040,
   "cache_key": "5d22782da350cac8543dc287749013a4"
 }

@@ -3,19 +3,14 @@
   "analysis": {
     "image_id": "img_268",
     "ai_generated_tags": {
-      "room": "Indoor Portrait",
-      "theme": "Contemporary with Indian Influence",
-      "primary_features": [
-        "Man wearing traditional attire",
-        "Outdoor setting"
-      ],
+      "room": "Not applicable",
+      "theme": "Not applicable",
+      "primary_features": [],
       "objects": [
         {
-          "type": "Man",
+          "type": "Person",
           "features": [
-            "Wearing traditional Indian attire",
-            "Smiling",
-            "Well-groomed"
+            "Wearing a black suit and white shirt"
           ],
           "materials": [],
           "finish": "Not applicable"
@@ -23,44 +18,37 @@
       ],
       "visual_attributes": {
         "colors": [
-          "Dark blue shirt",
-          "Black hair",
-          "Neutral background"
+          "Black",
+          "White"
         ],
         "materials": [],
-        "lighting": "Natural light, possibly from sunlight",
-        "texture": "Smooth skin texture, well-finished clothing"
+        "lighting": "Neutral lighting, likely indoors",
+        "texture": "Not applicable"
       },
       "indian_context": {
-        "regional_style": "",
-        "traditional_elements": [
-          "Traditional attire"
-        ],
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
         "modern_adaptations": [],
-        "space_utilization": "",
-        "cultural_significance": "The traditional attire suggests a cultural or formal event"
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.75,
-        "primary_features": 0.95,
-        "objects": 0.8,
-        "indian_context": 0.7
-      },
-      "description": "The image features a man wearing traditional Indian attire, standing outdoors with a neutral background. The attire suggests a formal or cultural event, highlighting traditional elements of Indian dress.",
-      "metadata": {
-        "tags": [
-          "Indian attire",
-          "Outdoor setting",
-          "Traditional fashion"
-        ],
-        "budget_indicator": "Not applicable",
-        "space_type": "Indoor Portrait",
-        "functionality": "Cultural or formal presentation",
-        "indian_specific": "Traditional attire"
+        "space_utilization": "Not applicable",
+        "cultural_significance": "Not applicable"
       }
+    },
+    "confidence_scores": {
+      "room": 0,
+      "theme": 0,
+      "primary_features": 0,
+      "objects": 0,
+      "indian_context": 0
+    },
+    "description": "The image features a person wearing a black suit and white shirt. There are no indicative elements of an interior space or Indian design elements present in the image.",
+    "metadata": {
+      "tags": [],
+      "budget_indicator": "N/A",
+      "space_type": "N/A",
+      "functionality": "N/A",
+      "indian_specific": "N/A"
     }
   },
-  "cached_at": 1753459815429,
+  "cached_at": 1754494474298,
   "cache_key": "2ceca2eecba6432bbe9ce18e9296e374"
 }

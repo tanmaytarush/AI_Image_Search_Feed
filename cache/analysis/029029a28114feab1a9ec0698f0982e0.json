@@ -3,71 +3,81 @@
   "analysis": {
     "image_id": "img_163",
     "ai_generated_tags": {
-      "room": "Not applicable (This is a digital card or poster)",
-      "theme": "Festive Indian Diwali Theme",
+      "room": "No room type identified",
+      "theme": "Festive Diwali theme",
       "primary_features": [
-        "Traditional Diya lamps",
-        "Colorful background",
-        "Text 'Happy Diwali'"
+        "Text: 'Happy Diwali'",
+        "Decorative diya lamps"
       ],
       "objects": [
         {
-          "type": "Diya lamps",
+          "type": "Text: 'Happy Diwali'",
           "features": [
-            "Handcrafted",
-            "Golden finish",
-            "Candle-like appearance"
+            "Festive greeting text"
           ],
           "materials": [
-            "Brass or copper"
+            "Digital rendering"
           ],
-          "finish": "Smooth and shiny"
+          "finish": "Text is solid and lacks texture"
+        },
+        {
+          "type": "Decorative diya lamps",
+          "features": [
+            "Double diya lamps with flame effect",
+            "Amber and purple gradient background"
+          ],
+          "materials": [
+            "Amber and purple gradient digital rendering"
+          ],
+          "finish": "Smooth digital gradient surface"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Purple, blue, red, yellow"
+          "Purple",
+          "Amber",
+          "Blue",
+          "White"
         ],
         "materials": [
-          "Golden, metallic, glossy"
+          "Digital rendering"
         ],
-        "lighting": "Bright and festive",
-        "texture": "Smooth and reflective"
+        "lighting": "Ambient light with a gradient effect",
+        "texture": "Smooth digital rendering texture"
       },
       "indian_context": {
-        "regional_style": "Not applicable (Digital design)",
+        "regional_style": "No specific regional style evident",
         "traditional_elements": [
           "Diya lamps"
         ],
         "modern_adaptations": [
-          "Digital rendering"
+          "Digital rendering and gradient background"
         ],
-        "space_utilization": "Not applicable (Digital design)",
-        "cultural_significance": "Diwali is a significant festival in India, celebrating light, knowledge, and goodness"
+        "space_utilization": "No space utilization details",
+        "cultural_significance": "Cultural significance related to Diwali festival"
       },
       "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.95,
-        "primary_features": 0.9,
-        "objects": 0.95,
-        "indian_context": 0.8
+        "room": 0.67,
+        "theme": 0.9,
+        "primary_features": 0.82,
+        "objects": 0.92,
+        "indian_context": 0.75
       },
-      "description": "A festive digital card celebrating Diwali, featuring traditional diya lamps in a golden finish against a colorful, bokeh background with the text 'Happy Diwali'.",
+      "description": "This image is a festive digital artwork celebrating Diwali, featuring decorative diya lamps with a gradient background. The color palette is vibrant with shades of purple, amber, blue, and white, creating a festive and celebratory atmosphere. The absence of a physical room type suggests this is a digital greeting card or promotional image.",
       "metadata": {
         "tags": [
           "Diwali",
-          "Festival",
-          "India",
           "Festive",
-          "Traditional"
+          "Greeting",
+          "Digital Art"
         ],
-        "budget_indicator": "Low to moderate (Depends on digital rendering, likely low cost)",
-        "space_type": "Not applicable (Digital design)",
-        "functionality": "Decorative (Digital card)",
-        "indian_specific": "Traditional Diya lamps"
+        "budget_indicator": "Low",
+        "space_type": "Unspecified",
+        "functionality": "No specific functionality observed",
+        "indian_specific": "Diya lamps are a traditional Indian element"
       }
     }
   },
-  "cached_at": 1753458963204,
+  "cached_at": 1754492243773,
   "cache_key": "029029a28114feab1a9ec0698f0982e0"
 }

@@ -3,104 +3,105 @@
   "analysis": {
     "image_id": "img_466",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Contemporary with Indian Influences",
+      "room": "Master Bedroom",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Queen-sized bed",
-        "Carpeted flooring",
-        "Wall-mounted mirror with wooden frame",
-        "Built-in wardrobes"
+        "Carved wooden bed frame",
+        "Marble flooring",
+        "Wardrobe with mirrored doors",
+        "Modern lighting fixture"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "Carved wooden bed frame",
           "features": [
-            "Queen-sized",
-            "White bedding",
-            "Wooden frame"
+            "Traditional carved details on the headboard",
+            "Aged teak finish"
           ],
           "materials": [
-            "Wood",
-            "Fabric"
+            "Teak wood"
           ],
-          "finish": "Smooth, polished wood finish"
+          "finish": "Aged and polished finish"
         },
         {
-          "type": "Wardrobe",
+          "type": "Wardrobe with mirrored doors",
           "features": [
-            "Built-in",
-            "Shelving and hanging space"
+            "Rectangular shape",
+            "Sleek modern handles",
+            "Mirrored front"
           ],
           "materials": [
-            "Wood"
+            "Metal for frame, glass for mirrored doors"
           ],
-          "finish": "Same as bed frame"
+          "finish": "Matte black and clear reflective"
         },
         {
-          "type": "Mirror",
+          "type": "Modern lighting fixture",
           "features": [
-            "Wall-mounted",
-            "Wooden frame"
+            "Circular design",
+            "Multiple lights",
+            "Elegant design"
           ],
           "materials": [
-            "Wood"
+            "Metal and glass"
           ],
-          "finish": "Polished wood finish"
+          "finish": "Polished metal with textured glass"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Beige"
+          "Beige walls",
+          "Dark wood paneling",
+          "White walls behind the bed",
+          "Brown wooden bed frame",
+          "Gold metallic accents"
         ],
         "materials": [
-          "Wood",
-          "Fabric",
+          "Marble flooring",
+          "Teak wood",
+          "Metal",
           "Glass",
-          "Metal"
+          "Wood"
         ],
-        "lighting": "Natural light through door, artificial light from ceiling fixtures",
-        "texture": [
-          "Smooth wood",
-          "Soft fabric",
-          "Glass panel"
-        ]
+        "lighting": "Dim ambient lighting, accentuated by a modern circular light fixture",
+        "texture": "Smooth marble, polished wood, reflective glass, matte metal"
       },
       "indian_context": {
-        "regional_style": "Not distinct regional style visible",
+        "regional_style": "Northern Indian style with modern influences",
         "traditional_elements": [
-          "Carved elements on mirror frame"
+          "Carved wooden bed frame",
+          "Marble flooring"
         ],
         "modern_adaptations": [
-          "Contemporary furniture design with traditional materials"
+          "Use of mirrored doors for wardrobe",
+          "Contemporary lighting fixture"
         ],
-        "space_utilization": "Efficient use of built-in wardrobes and carpeted flooring for comfort",
-        "cultural_significance": "Traditional elements like the carved mirror frame add a cultural touch to the modern bedroom design"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This contemporary bedroom features a queen-sized bed with a wooden frame, complemented by built-in wardrobes and a wall-mounted mirror with a carved wooden frame. The space utilizes modern elements like glass and metal, while incorporating traditional Indian design touches. The color palette is a harmonious blend of white, brown, and beige, creating a calm and inviting atmosphere. The use of natural light and artificial ceiling fixtures ensures adequate lighting.",
-      "metadata": {
-        "tags": [
-          "Contemporary Bedroom",
-          "Indian Design Elements",
-          "Carved Wood Frame",
-          "Built-in Wardrobes",
-          "Queen-sized Bed"
-        ],
-        "budget_indicator": "Moderate, with visible use of wood and fabric for the bed, and glass for the mirror",
-        "space_type": "Residential bedroom",
-        "functionality": "Sleeping and storage",
-        "indian_specific": "Carved wood frame on the mirror"
+        "space_utilization": "Efficient use of space with a double-sided wardrobe and minimalistic design",
+        "cultural_significance": "Carved wooden elements represent craftsmanship and traditional Indian artistry"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This master bedroom showcases a blend of traditional Indian design elements with modern adaptations. The carved wooden bed frame, a hallmark of Northern Indian design, is complemented by a polished teak finish and modern amenities like a mirrored wardrobe and contemporary lighting. The use of marble flooring and a sleek, metallic light fixture adds a touch of modern elegance, while the dark wood paneling in the background evokes a sense of traditional luxury. The overall design is a testament to traditional craftsmanship and cultural artistry, adapted to a contemporary living space.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Teak furniture",
+        "Marble flooring",
+        "Carved wood",
+        "Modern lighting"
+      ],
+      "budget_indicator": "High to medium, with the use of premium materials like marble and polished wood",
+      "space_type": "Residential",
+      "functionality": "Sleeping and relaxation",
+      "indian_specific": "Traditional carved wood bed frame with modern wardrobe and lighting"
     }
   },
-  "cached_at": 1753462352124,
+  "cached_at": 1754496618852,
   "cache_key": "96ba1cddc84ab4aa84410a08af12b155"
 }

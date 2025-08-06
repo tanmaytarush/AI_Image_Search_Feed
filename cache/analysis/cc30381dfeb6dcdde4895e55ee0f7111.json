@@ -4,64 +4,56 @@
     "image_id": "img_373",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Modern Indian Interior",
+      "theme": "Minimalist Modern",
       "primary_features": [
-        "Built-in Wardrobe",
-        "Bed with Mattress",
-        "Bedside Table"
+        "Built-in wardrobes",
+        "Modern bed",
+        "Rug"
       ],
       "objects": [
         {
-          "type": "Built-in Wardrobe",
+          "type": "Built-in wardrobes",
           "features": [
             "Integrated with the wall",
-            "Dark wood finish",
-            "Built-in design"
+            "Dark brown finish"
           ],
           "materials": [
-            "Dark wood"
+            "MDF or engineered wood"
           ],
-          "finish": "Satin wood finish"
+          "finish": "Glossy or semi-glossy"
         },
         {
-          "type": "Bed",
-          "features": [
-            "Modern design",
-            "Mattress",
-            "Simple bed frame"
-          ],
-          "materials": [
-            "Woven fabric",
-            "Metal or bentwood frame"
-          ],
-          "finish": "Unspecified"
-        },
-        {
-          "type": "Bedside Table",
+          "type": "Modern bed",
           "features": [
             "Simple design",
-            "Minimalist",
-            "Dark wood material"
+            "Metal frame"
           ],
           "materials": [
-            "Dark wood"
+            "Metal"
           ],
-          "finish": "Satin wood finish"
+          "finish": "Polished"
+        },
+        {
+          "type": "Rug",
+          "features": [
+            "Textured",
+            "Light-colored"
+          ],
+          "materials": [
+            "Wool or synthetic blend"
+          ],
+          "finish": "Soft and plush"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark wood, black",
-          "White",
-          "Dark gray"
+          "Dark brown, white, light beige"
         ],
         "materials": [
-          "Dark wood",
-          "Metal",
-          "Woven fabric"
+          "MDF, metal, wool"
         ],
-        "lighting": "No direct lighting observed, likely ambient lighting",
-        "texture": "Satin wood finish, woven fabric texture, metallic smoothness"
+        "lighting": "Natural light from unseen window",
+        "texture": "Combination of smooth and soft textures"
       },
       "indian_context": {
         "regional_style": "Not specifically regional",
@@ -69,10 +61,10 @@
           "None"
         ],
         "modern_adaptations": [
-          "Integration of modern design with traditional materials and color schemes"
+          "Use of modern materials and minimalism in traditional Indian bedroom design"
         ],
-        "space_utilization": "Efficient use of space with a built-in wardrobe",
-        "cultural_significance": "No overtly religious or cultural decorative elements present"
+        "space_utilization": "Efficient use of space with built-in wardrobes",
+        "cultural_significance": "No cultural elements visible; focuses on modern design principles"
       }
     },
     "confidence_scores": {
@@ -82,20 +74,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image depicts a modern Indian interior design in a bedroom. The space features a built-in wardrobe with a dark wood finish that complements the overall dark theme. The bed, with a simple design, is dressed with a dark fabric, while the bedside table matches the wardrobe's finish. The dark wood and metallic elements suggest a contemporary take on traditional Indian design aesthetics, emphasizing functionality and minimalism.",
+    "description": "This image showcases a modern bedroom design with a minimalist approach. The space features built-in wardrobes that seamlessly integrate with the wall, a contemporary bed with a metal frame, and a plush rug that adds a layer of comfort and softness. The color palette is dominated by dark brown, white, and light beige, with the use of smooth and soft textures creating a calming atmosphere. The design lacks traditional Indian elements, focusing instead on modern adaptations of traditional Indian bedroom aesthetics.",
     "metadata": {
       "tags": [
-        "Modern Indian Interior",
-        "Bedroom Design",
-        "Dark Wood Finish",
-        "Built-in Wardrobe"
+        "Minimalist",
+        "Modern",
+        "Bedroom",
+        "Built-in Wardrobes",
+        "Simple Design",
+        "Glossy Finish"
       ],
-      "budget_indicator": "Moderate, given the use of dark wood and metal materials",
-      "space_type": "Residential Bedroom",
-      "functionality": "Sleeping and personal storage",
-      "indian_specific": "Integration of modern design with traditional Indian materials"
+      "budget_indicator": "Moderate, with the use of MDF, metal, and wool materials",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is as a bedroom for sleeping and storage solutions",
+      "indian_specific": "No traditional Indian design features are present"
     }
   },
-  "cached_at": 1753461037189,
+  "cached_at": 1754496043864,
   "cache_key": "cc30381dfeb6dcdde4895e55ee0f7111"
 }

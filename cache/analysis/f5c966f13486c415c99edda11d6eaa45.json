@@ -3,96 +3,72 @@
   "analysis": {
     "image_id": "img_144",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Simplistic Traditional",
+      "room": "Living Room",
+      "theme": "Modern Minimalist",
       "primary_features": [
-        "Built-in wardrobe",
-        "Window with wooden jalousie",
-        "Matress on the floor"
+        "Wooden flooring",
+        "Dark wooden furniture",
+        "Sliding door"
       ],
       "objects": [
         {
-          "type": "Built-in wardrobe",
+          "type": "Furniture",
           "features": [
-            "Wooden finish",
-            "Sliding doors"
+            "Dark wood finish",
+            "Simple design"
           ],
           "materials": [
-            "Wood"
+            "Teak wood"
           ],
-          "finish": "Natural wood finish"
-        },
-        {
-          "type": "Window",
-          "features": [
-            "Wooden frame",
-            "Jalousie shutters"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural wood finish"
-        },
-        {
-          "type": "Matress on the floor",
-          "features": [
-            "Simple design",
-            "No headboard"
-          ],
-          "materials": [
-            "Fabric"
-          ],
-          "finish": "Fabric upholstery"
+          "finish": "High gloss, smooth texture"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown",
+          "Dark brown",
           "White",
-          "Dark brown"
+          "Black"
         ],
         "materials": [
-          "Wood",
-          "Fabric"
+          "Teak wood",
+          "White walls",
+          "Black sliding door"
         ],
-        "lighting": "Natural light from the window",
-        "texture": "Smooth wooden texture, matte fabric texture"
+        "lighting": "Natural light from window",
+        "texture": "Smooth wooden surfaces"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but aligned with traditional Indian interior sensibilities",
-        "traditional_elements": [
-          "Built-in wardrobe",
-          "Window with jalousie"
-        ],
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Simplistic design without ornate elements"
+          "Use of teak wood, modern minimalist design"
         ],
-        "space_utilization": "Optimizes space with a built-in wardrobe and simple mattress setup",
-        "cultural_significance": "Reflects practicality and utility, common in traditional Indian homes"
+        "space_utilization": "Efficient use of space with sliding door and built-in furniture",
+        "cultural_significance": "No specific cultural elements visible, but modern minimalism aligns with contemporary Indian design trends"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.78,
+        "primary_features": 0.8,
+        "objects": 0.9,
+        "indian_context": 0.75
+      },
+      "description": "The image depicts a modern minimalist living room with a focus on clean lines and a monochromatic color scheme. The space features dark wooden furniture, a sliding door, and wooden flooring. The design leans towards contemporary Indian aesthetics with an emphasis on simplicity and functionality.",
+      "metadata": {
+        "tags": [
+          "living room",
+          "modern minimalist",
+          "dark wood",
+          "sliding door",
+          "Indian contemporary design"
+        ],
+        "budget_indicator": "Medium to high, due to the use of teak wood and the quality of finish",
+        "space_type": "Residential, likely a single room",
+        "functionality": "Primary purpose is for relaxation and socializing within the home",
+        "indian_specific": "The use of teak wood is a nod to traditional Indian furniture materials, adapted into a modern design"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This image depicts a minimalist bedroom with a built-in wardrobe, a window with wooden jalousie, and a simple mattress on the floor. The room utilizes traditional Indian design elements such as the wardrobe and window frame, but with a modern, functional approach. The natural wood finish and fabric upholstery suggest a focus on practicality and comfort in a traditional Indian interior style.",
-    "metadata": {
-      "tags": [
-        "Indian interior design",
-        "Simplistic",
-        "Traditional style",
-        "Built-in wardrobe",
-        "Window jalousie"
-      ],
-      "budget_indicator": "Moderate, due to the use of wood and fabric",
-      "space_type": "Bedroom",
-      "functionality": "Sleeping and storage",
-      "indian_specific": "Built-in wardrobe, window with jalousie"
     }
   },
-  "cached_at": 1753449134113,
+  "cached_at": 1754491729066,
   "cache_key": "f5c966f13486c415c99edda11d6eaa45"
 }

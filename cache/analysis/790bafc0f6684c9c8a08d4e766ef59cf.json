@@ -4,51 +4,47 @@
     "image_id": "img_145",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Contemporary",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Cabinetry with glass doors",
-        "Integrated sink and countertop",
-        "Modular shelving"
+        "Modern cabinetry",
+        "Glass back splash",
+        "Lighting fixtures"
       ],
       "objects": [
         {
           "type": "Kitchen cabinets",
           "features": [
-            "White matte finish",
-            "Glass doors with metal handles",
-            "Integrated countertops and sink"
+            "Cupboard with glass front",
+            "Custom cutout design",
+            "Integrated lighting"
           ],
           "materials": [
-            "White painted wood",
-            "Metal for handles",
-            "Composite or solid surface for countertops"
+            "Wood with a glossy finish",
+            "Glass"
           ],
-          "finish": "Matte white paint on wooden cabinets, metal hardware, and smooth countertop"
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Gray",
-          "Black",
-          "Blue"
+          "Blue, white, beige"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Composite/solid surface"
+          "Wood, glass, metal"
         ],
-        "lighting": "Natural light from a window",
-        "texture": "Smooth surfaces on cabinets and countertops, matte finish on cabinets"
+        "lighting": "Integrated under-cabinet lighting",
+        "texture": "Smooth"
       },
       "indian_context": {
-        "regional_style": "Not significantly evident",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Contemporary design with clean lines and modern materials"
+        "regional_style": "No regional specific style identified",
+        "traditional_elements": [
+          "None"
         ],
-        "space_utilization": "Efficient use of space with built-in units",
-        "cultural_significance": "No culturally significant elements observed"
+        "modern_adaptations": [
+          "Integration of modern elements with traditional craftsmanship"
+        ],
+        "space_utilization": "Efficient use of space with functional cabinetry",
+        "cultural_significance": "No traditional Indian cultural elements observed"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -57,22 +53,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern kitchen with clean lines and contemporary design elements. The cabinets feature a white matte finish with glass doors and metal handles. The countertops and sink are integrated into a single unit, and there is modular shelving for storage. The overall design is minimalistic and functional, with a focus on practicality and aesthetics.",
+      "description": "The image depicts a modern kitchen featuring custom cabinetry with a glossy finish and glass front panels. The design incorporates traditional Indian craftsmanship in the form of intricate cutout patterns on the cabinetry, reflecting a modern interpretation of traditional elements. The use of wood, glass, and metal materials, along with integrated lighting, creates a contemporary Indian aesthetic. The space is organized efficiently, catering to a modern kitchen functionality.",
       "metadata": {
         "tags": [
           "Kitchen",
+          "Modern Indian",
           "Contemporary",
-          "White cabinetry",
-          "Integrated sink",
-          "Modular shelving"
+          "Custom Cabinetry",
+          "Glass Front"
         ],
-        "budget_indicator": "Moderate, with materials like painted wood and metal handles that are cost-effective",
-        "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is food preparation and storage",
-        "indian_specific": "No Indian-specific design features visible"
+        "budget_indicator": "Mid to high",
+        "space_type": "Residential",
+        "functionality": "Kitchen",
+        "indian_specific": "Traditional cutout patterns on cabinetry"
       }
     }
   },
-  "cached_at": 1753449156519,
+  "cached_at": 1754491749826,
   "cache_key": "790bafc0f6684c9c8a08d4e766ef59cf"
 }

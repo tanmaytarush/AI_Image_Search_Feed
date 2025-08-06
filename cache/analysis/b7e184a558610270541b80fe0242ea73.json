@@ -2,72 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/53/image_cropper_1726667605475.jpg",
   "analysis": {
     "image_id": "img_393",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/53/image_cropper_1726667605475.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Wooden bed frame",
-        "Light-colored mattress",
-        "Simple window with white frames"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Wooden bed frame",
+          "type": "furniture",
           "features": [
-            "Curved headboard",
-            "Simple legs"
+            "traditional_style"
           ],
           "materials": [
-            "Wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "Natural wood finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Beige",
-          "White",
-          "Wooden tone"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Textile"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Smooth wood texture, soft fabric"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not strongly indicative of a specific regional style",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Simple design with minimal Indian embellishments"
+          "contemporary_design"
         ],
-        "space_utilization": "Basic bedroom layout with bed as the central piece",
-        "cultural_significance": "No strongly Indian cultural elements visible"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.6
-      },
-      "description": "The image depicts a minimalist bedroom with a simple wooden bed frame and a light-colored mattress. The room features a natural light source from a window with white frames, emphasizing a clean and contemporary aesthetic. The design lacks strong Indian elements, focusing on simplicity and functionality.",
-      "metadata": {
-        "tags": [
-          "Minimalist bedroom",
-          "Simple design",
-          "Natural light",
-          "Wooden bed frame"
-        ],
-        "budget_indicator": "Moderate, with wood and metal as primary materials",
-        "space_type": "Residential bedroom",
-        "functionality": "Sleeping area",
-        "indian_specific": "No Indian-specific design features visible"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1726667605475.jpg"
   },
-  "cached_at": 1753461345616,
+  "cached_at": 1754496123133,
   "cache_key": "b7e184a558610270541b80fe0242ea73"
 }

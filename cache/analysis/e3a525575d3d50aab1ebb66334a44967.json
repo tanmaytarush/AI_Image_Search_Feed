@@ -3,87 +3,117 @@
   "analysis": {
     "image_id": "img_398",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Contemporary with Traditional Influences",
+      "room": "Master Bedroom",
+      "theme": "Contemporary Indian",
       "primary_features": [
         "Wooden wardrobe with circular cutouts",
         "Teak flooring",
-        "Carved headboard"
+        "Modern lighting fixtures",
+        "Blue carpet",
+        "Wooden bed frame"
       ],
       "objects": [
         {
           "type": "Wardrobe",
           "features": [
-            "Circular cutouts on the door",
-            "Teak wood finish"
+            "Circular cutouts on wooden panels",
+            "Modern handles"
           ],
           "materials": [
-            "Teak"
+            "Teak wood"
           ],
-          "finish": "Natural teak finish"
+          "finish": "Satin or polished teak finish"
         },
         {
-          "type": "Headboard",
+          "type": "Bed",
           "features": [
-            "Carved wooden design",
-            "Teak wood finish"
+            "Modern design with headboard",
+            "Teak wood frame"
           ],
           "materials": [
-            "Teak"
+            "Teak wood"
           ],
-          "finish": "Natural teak finish"
+          "finish": "Satin or polished teak finish"
+        },
+        {
+          "type": "Flooring",
+          "features": [
+            "Polished teak wood"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Satin or polished teak finish"
+        },
+        {
+          "type": "Lighting",
+          "features": [
+            "Modern wall sconces"
+          ],
+          "materials": [
+            "Brass or metal"
+          ],
+          "finish": "Brushed metal"
+        },
+        {
+          "type": "Carpet",
+          "features": [
+            "Blue cotton or wool"
+          ],
+          "materials": [
+            "Cotton or wool"
+          ],
+          "finish": "Woven"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Teak brown",
-          "Beige",
-          "Blue"
+          "Blue",
+          "White"
         ],
         "materials": [
-          "Teak",
-          "Wood",
-          "Metal"
+          "Teak wood",
+          "Brass or metal",
+          "Cotton or wool"
         ],
-        "lighting": "Soft lighting from a bedside lamp",
-        "texture": "Smooth teak surface, carved wooden texture"
+        "lighting": "Natural light with accent wall sconces",
+        "texture": "Smooth teak wood, woven carpet"
       },
       "indian_context": {
-        "regional_style": "Northern Indian",
+        "regional_style": "Maharashtra/Goa style",
         "traditional_elements": [
-          "Wooden wardrobe",
-          "Carved headboard"
+          "Teak wood furniture"
         ],
         "modern_adaptations": [
-          "Circular cutouts on wardrobe",
-          "Teak flooring"
+          "Contemporary handling of traditional materials"
         ],
-        "space_utilization": "Efficient wardrobe design for storage",
-        "cultural_significance": "Wardrobe and headboard reflect traditional craftsmanship and material usage"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The interior space is a bedroom that features a contemporary design with traditional Indian elements. The wooden wardrobe with circular cutouts and the carved headboard are traditional Indian design features, while the teak flooring and overall minimalist approach give it a modern twist. The space utilizes efficient storage solutions by integrating a wardrobe into the wall design.",
-      "metadata": {
-        "tags": [
-          "Bedroom",
-          "Teak",
-          "Circular Cutouts",
-          "Carved Furniture",
-          "Indian Design"
-        ],
-        "budget_indicator": "Moderate, uses high-quality teak wood for both wardrobe and headboard",
-        "space_type": "Residential Bedroom",
-        "functionality": "Storage and sleeping area",
-        "indian_specific": "Use of teak wood and carved furniture"
+        "space_utilization": "Efficient use of wardrobe space with minimalistic design",
+        "cultural_significance": "Teak wood is a traditional material in many Indian regions, often symbolizing strength and durability"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian master bedroom with a contemporary interpretation of traditional elements. The use of teak wood in the wardrobe, bed frame, and flooring showcases a regional style influence. The circular cutouts on the wardrobe and the modern design of the bed frame introduce a contemporary twist. The blue carpet adds a pop of color, and the wall sconces provide both functionality and style. The overall design emphasizes cultural heritage through traditional materials while incorporating modern aesthetics.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Modern Indian",
+        "Teak furniture",
+        "Master bedroom",
+        "Circular cutouts"
+      ],
+      "budget_indicator": "Medium to high, given the use of teak wood and modern finishes",
+      "space_type": "Residential",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Use of teak wood and traditional design elements"
     }
   },
-  "cached_at": 1753461411996,
+  "cached_at": 1754496196146,
   "cache_key": "e3a525575d3d50aab1ebb66334a44967"
 }

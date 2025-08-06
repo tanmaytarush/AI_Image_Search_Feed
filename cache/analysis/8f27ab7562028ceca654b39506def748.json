@@ -2,98 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.03%E2%80%AFPM.png",
   "analysis": {
     "image_id": "img_083",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.03%E2%80%AFPM.png",
     "ai_generated_tags": {
-      "room": "Study",
-      "theme": "Contemporary with Indian Influences",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Built-in study desk with storage",
-        "Shelving unit with books and decorative items",
-        "Roll-up window with roman shade"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Study desk",
+          "type": "furniture",
           "features": [
-            "Integrated with storage compartments underneath",
-            "Light green and beige finish",
-            "Rectangular shape"
+            "traditional_style"
           ],
           "materials": [
-            "MDF for frame, possibly with a veneer finish",
-            "Fabric or laminate panels"
+            "wood",
+            "fabric"
           ],
-          "finish": "Matte finish with subtle texture"
-        },
-        {
-          "type": "Roll-up window with roman shade",
-          "features": [
-            "Natural wood slats",
-            "Soft beige fabric shade"
-          ],
-          "materials": [
-            "Wood slats, fabric"
-          ],
-          "finish": "Natural wood finish and soft fabric texture"
-        },
-        {
-          "type": "Bookshelf",
-          "features": [
-            "U-shaped with multiple compartments",
-            "Orange and beige striped shelves",
-            "Integrated lighting"
-          ],
-          "materials": [
-            "MDF or similar for frame, possibly with laminate or veneer finish",
-            "Wood or laminate for shelves"
-          ],
-          "finish": "Matte finish with striped pattern"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Beige, orange, green, white, brown, black, gold"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "MDF, wood, fabric, laminate, marble"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Mixed lighting with built-in shelves and ambient light from the roll-up window",
-        "texture": "Matte finish with smooth and striped patterns"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but has a mix of contemporary and traditional elements",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "No traditional Indian elements like carved furniture or jharokha"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary cabinet design with built-in storage and modular shelves"
+          "contemporary_design"
         ],
-        "space_utilization": "Optimized with built-in furniture and shelves for storage and functionality",
-        "cultural_significance": "The use of colors and materials may reflect a modern interpretation of traditional Indian design"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "This contemporary study space incorporates elements of Indian design, featuring a built-in study desk with storage and a U-shaped shelving unit that integrates seamlessly with the walls. The use of beige, orange, and green colors, along with the matte finish and striped patterns, echo traditional Indian aesthetics. The roll-up window with a roman shade adds a touch of modern functionality. The space is well-organized, optimizing storage and workspace, and reflects a modern interpretation of Indian design.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Contemporary",
-        "Indian Design",
-        "Study Room",
-        "Modular Furniture",
-        "Beige and Orange Palette",
-        "Built-in Storage"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, utilizing MDF and laminate for the built-in furniture with a focus on functionality and style",
-      "space_type": "Residential Study",
-      "functionality": "Primary purpose is to provide a dedicated workspace with efficient storage solutions",
-      "indian_specific": "Use of color and materials reflects modern Indian design influences"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "Screenshot%202024-07-11%20at%203.48.03%E2%80%AFPM.png"
   },
-  "cached_at": 1753957629434,
+  "cached_at": 1754490542447,
   "cache_key": "8f27ab7562028ceca654b39506def748"
 }

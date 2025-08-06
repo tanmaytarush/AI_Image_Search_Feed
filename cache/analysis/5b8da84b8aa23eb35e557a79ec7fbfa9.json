@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1738/insta_assets_crop_48572367-ffab-4a93-a847-69972b42de557071422472219206379.jpg",
+  "analysis": {
+    "image_id": "img_212",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Withdrawal cabinet",
+        "Shelf units"
+      ],
+      "objects": [
+        {
+          "type": "Withdrawal cabinet",
+          "features": [
+            "Multiple compartment storage"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Unfinished wood"
+        },
+        {
+          "type": "Shelf units",
+          "features": [
+            "Multiple shelf levels"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Unfinished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Natural wood color"
+        ],
+        "materials": [
+          "Wood"
+        ],
+        "lighting": "Natural light",
+        "texture": "Smooth wood texture"
+      },
+      "indian_context": {
+        "regional_style": null,
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design"
+        ],
+        "space_utilization": "Optimal use of vertical space for storage",
+        "cultural_significance": null
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image shows a bathroom with a focus on a withdrawal cabinet and shelf units. The design is minimalist with a focus on storage. The cabinet and shelves are made of wood, and the finish appears to be unfinished, giving a natural wood texture. There is no indication of traditional Indian design elements or cultural significance, as the design is more modern and functional.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Bathroom",
+        "Storage",
+        "Wooden furniture"
+      ],
+      "budget_indicator": "Low",
+      "space_type": "Residential",
+      "functionality": "Storage and organization",
+      "indian_specific": []
+    }
+  },
+  "cached_at": 1754493182731,
+  "cache_key": "5b8da84b8aa23eb35e557a79ec7fbfa9"
+}

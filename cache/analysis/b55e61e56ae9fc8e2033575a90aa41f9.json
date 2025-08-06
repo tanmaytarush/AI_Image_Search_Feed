@@ -3,183 +3,97 @@
   "analysis": {
     "image_id": "img_064",
     "ai_generated_tags": {
-<<<<<<< HEAD
-      "room": "Living Room",
-      "theme": "Contemporary",
+      "room": "Living room",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Modern sofa set",
-        "Marble floor",
-        "Wall-mounted shelves",
-        "Abstract art piece",
-        "Circular coffee table"
+        "Minimalist sofa",
+        "Marble flooring",
+        "Geometric rug",
+        "Built-in desk shelf",
+        "Decorative plants"
       ],
       "objects": [
         {
           "type": "Sofa",
           "features": [
-            "U-shaped design",
-            "Neutral beige color",
-            "Brown wooden base"
+            "Modern design, light gray upholstery, two brown throw pillows"
           ],
           "materials": [
-            "Fabric upholstery",
-            "Wood"
+            "Fabric"
           ],
-          "finish": "Fabric has a matte finish, wood has a polished finish"
+          "finish": "Smooth and soft"
         },
         {
-          "type": "Coffee Table",
+          "type": "Built-in desk shelf",
           "features": [
-            "Circular shape",
-            "Wooden material"
-=======
-      "room": "Lounge",
-      "theme": "Contemporary with Indian Influences",
-      "primary_features": [
-        "L-shaped sofa with white upholstery",
-        "Marble flooring",
-        "Modern artwork on the wall",
-        "Round wooden coffee table",
-        "Marble and wood shelving unit"
-      ],
-      "objects": [
-        {
-          "type": "L-shaped sofa",
-          "features": [
-            "White fabric upholstery",
-            "Wooden base"
+            "Dark wood, mid-century modern style, white glossy drawers"
           ],
           "materials": [
-            "Fabric, Wood"
+            "Wood, plastic"
           ],
-          "finish": "Matte"
+          "finish": "Glossy, smooth"
         },
         {
-          "type": "Marble flooring",
+          "type": "Desk",
           "features": [
-            "White with grey veining"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Round wooden coffee table",
-          "features": [
-            "Dark wood",
-            "Simple design"
->>>>>>> origin/main
+            "Dark wood, sleek, modern design"
           ],
           "materials": [
             "Wood"
           ],
-<<<<<<< HEAD
-          "finish": "Polished wood finish"
+          "finish": "Smooth, polished"
         },
         {
-          "type": "Shelves",
+          "type": "Coffee table",
           "features": [
-            "Wall-mounted",
-            "Multi-layered",
-            "Wooden shelves with white doors"
+            "Dark wood, round, minimal design"
           ],
           "materials": [
-            "Wood",
-            "MDF or similar material"
+            "Wood"
           ],
-          "finish": "Dark wood with white glossy finish"
-=======
-          "finish": "Glossy"
+          "finish": "Polished, glossy"
         },
         {
-          "type": "Marble and wood shelving unit",
+          "type": "Rug",
           "features": [
-            "Dark wood frame",
-            "Marble top"
+            "Abstract design in black and blue on a white background"
           ],
           "materials": [
-            "Wood, Marble"
+            "Wool, synthetic"
           ],
-          "finish": "Matt"
->>>>>>> origin/main
+          "finish": "Textured"
+        },
+        {
+          "type": "Decorative plants",
+          "features": [
+            "Small, modern planters, green foliage"
+          ],
+          "materials": [
+            "Plastic, soil"
+          ],
+          "finish": "Glossy, natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-<<<<<<< HEAD
-          "Beige",
-          "Brown",
-          "White",
-          "Black",
-          "Green",
-          "Blue",
-          "Marble gray"
+          "Neutral tones (beige, brown, gray, white, black, blue, green)"
         ],
         "materials": [
-          "Marble",
-          "Wood",
-          "Metal",
-          "Fabric"
+          "Marble, wood, fabric, plastic, synthetic"
         ],
-        "lighting": "Natural light from the window, supplemented by recessed lights in the ceiling",
-        "texture": "Smooth surfaces of furniture and walls, patterned rug, glossy marble floor"
+        "lighting": "Natural light from window, supplemented by recessed ceiling lights",
+        "texture": "Smooth, glossy, and textured surfaces"
       },
       "indian_context": {
-        "regional_style": "Not distinctly Indian regional style",
+        "regional_style": "Mumbai Contemporary",
         "traditional_elements": [
-          "No traditional Indian elements visible"
+          "Marble flooring, geometric rug"
         ],
         "modern_adaptations": [
-          "Contemporary furniture and minimalist design, inspiration possibly from modern Indian homes"
+          "Minimalist furniture, built-in desk, modern lighting"
         ],
-        "space_utilization": "Efficient use of space with a focus on functionality and aesthetics. Shelves provide storage and utility.",
-        "cultural_significance": "The modern design reflects a blend of Indian contemporary tastes, likely influenced by global modern designs."
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.8,
-        "primary_features": 0.9,
-        "objects": 0.95,
-        "indian_context": 0.6
-      },
-      "description": "This living room showcases a modern and minimalist design with a hint of contemporary Indian aesthetics. The neutral color palette, sleek furniture, and efficient use of space are indicative of a contemporary style. However, the absence of traditional Indian elements suggests this is not a purely Indian design but rather a modern interpretation with global influences.",
-      "metadata": {
-        "tags": [
-          "Modern Living",
-          "Minimalist Interior",
-          "Contemporary Style",
-          "Indian Contemporary"
-        ],
-        "budget_indicator": "Moderate, with a focus on high-quality materials like marble and polished wood",
-        "space_type": "Residential Living Room",
-        "functionality": "Social and relaxation area",
-        "indian_specific": "The design elements are not distinctly Indian, with a modern and global influence"
-      }
-    }
-  },
-  "cached_at": 1753451341968,
-=======
-          "White, Beige, Brown, Dark Grey, Blue, Black, Green"
-        ],
-        "materials": [
-          "Marble, Wood, Fabric, Glass"
-        ],
-        "lighting": "Natural light from the window, with recessed ceiling lights",
-        "texture": "Smooth marble, matte wood, fabric, glossy wood"
-      },
-      "indian_context": {
-        "regional_style": "Not distinctly regional, but includes modern interpretations of traditional motifs",
-        "traditional_elements": [
-          "Carved wooden elements in the shelving unit",
-          "Use of wood and marble"
-        ],
-        "modern_adaptations": [
-          "Minimalist design with modern furniture and clean lines",
-          "Geometric wall art"
-        ],
-        "space_utilization": "Efficient use of space with a compact layout, maximizing the seating area",
-        "cultural_significance": "Incorporation of natural materials and clean lines reflects a modern take on traditional Indian aesthetics"
+        "space_utilization": "Efficient use of space with a mix of seating and work area",
+        "cultural_significance": "Modern adaptation of traditional Indian aesthetic with a focus on functionality and style"
       }
     },
     "confidence_scores": {
@@ -189,22 +103,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image showcases a contemporary lounge with a touch of Indian design elements. The L-shaped sofa with white upholstery and wooden base is a modern interpretation of traditional seating. The marble flooring and wood shelving unit add a refined feel, while the geometric artwork on the wall brings in a more modern aesthetic. The use of natural materials like wood and marble, along with the clean lines and minimalist design, align with contemporary interpretations of traditional Indian design, such as the incorporation of natural motifs and the use of wood and stone in various forms.",
+    "description": "A modern Indian living room with a minimalist sofa, a built-in desk shelf, and a geometric rug. The space is well-lit with natural light and recessed ceiling lights, featuring a minimalistic design with a mix of traditional Indian elements like marble flooring and geometric patterns, and modern adaptations such as built-in furniture and sleek lighting. The color palette is neutral with beige, brown, gray, white, black, and blue, creating a contemporary yet warm atmosphere.",
     "metadata": {
       "tags": [
-        "Contemporary Lounge",
-        "Indian Design Influences",
-        "Marble Flooring",
-        "Wooden Furniture",
-        "Geometric Artwork"
+        "modern indian",
+        "living room",
+        "minimalist design",
+        "marble",
+        "geometric rug",
+        "built-in desk"
       ],
-      "budget_indicator": "Higher",
-      "space_type": "Living Room",
-      "functionality": "Relaxation and socializing",
-      "indian_specific": "Incorporation of natural materials and clean lines"
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Living and working space",
+      "indian_specific": "Geometric rug, marble flooring, built-in desk shelf"
     }
   },
-  "cached_at": 1753181188561,
->>>>>>> origin/main
+  "cached_at": 1754490069177,
   "cache_key": "b55e61e56ae9fc8e2033575a90aa41f9"
 }

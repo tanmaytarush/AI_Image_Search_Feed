@@ -3,89 +3,89 @@
   "analysis": {
     "image_id": "img_355",
     "ai_generated_tags": {
-      "room": "Living room or entrance hall",
-      "theme": "Indian traditional style",
+      "room": "Living Room",
+      "theme": "Mughal-Influenced Indo-Western",
       "primary_features": [
-        "Wooden flooring",
-        "Carved wooden screens",
-        "Teak furniture"
+        "Wooden furniture",
+        "Carved wooden elements",
+        "Glass partition",
+        "Teak wood flooring"
       ],
       "objects": [
         {
-          "type": "Teak bench",
+          "type": "Diwan",
           "features": [
-            "Carved wooden design",
-            "Gilt accents",
-            "Comfortable seating"
+            "Carved wooden backrest",
+            "Teak wood frame"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak wood finish"
+        },
+        {
+          "type": "Wooden Partition",
+          "features": [
+            "Carved wooden elements",
+            "Glass panels"
           ],
           "materials": [
             "Teak wood",
-            "Brass"
+            "Glass"
           ],
-          "finish": "Gilded and polished"
-        },
-        {
-          "type": "Carved wooden screens",
-          "features": [
-            "Decorative patterns",
-            "Lattice design"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural wood finish"
+          "finish": "Teak wood varnished and glass panels"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (wood)",
-          "Gold (gilt)",
-          "White (walls)"
+          "Teak brown",
+          "White",
+          "Brown"
         ],
         "materials": [
           "Teak wood",
-          "Brass",
-          "Wood"
+          "Glass",
+          "Painted walls"
         ],
-        "lighting": "Soft, ambient lighting",
-        "texture": "Smooth surfaces on furniture, textured wood on screens"
+        "lighting": "Natural daylight from windows",
+        "texture": "Smooth teak wood texture, glass panels"
       },
       "indian_context": {
-        "regional_style": "Northern Indian style (Mughal influence)",
+        "regional_style": "Northern India",
         "traditional_elements": [
-          "Teak furniture",
-          "Carved wooden screens",
-          "Gilt accents"
+          "Diwan",
+          "Carved wooden elements"
         ],
         "modern_adaptations": [
-          "Minimalist approach to space and lighting"
+          "Glass partition for modern lighting and visibility"
         ],
-        "space_utilization": "Open and airy design with a balance between functional and decorative spaces",
-        "cultural_significance": "Emphasis on craftsmanship and natural materials reflects Indian cultural values of beauty and functionality"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This living room features a traditional Indian design with Mughal influences, characterized by the use of teak wood, carved wooden screens, and gilt accents. The room has a warm and inviting atmosphere, enhanced by the natural wood tones and ambient lighting. The space is organized to blend functionality with aesthetic appeal, reflecting Indian cultural values of craftsmanship and natural materials.",
-      "metadata": {
-        "tags": [
-          "Indian interior design",
-          "Mughal style",
-          "teak furniture",
-          "carved wooden screens",
-          "gilt accents"
-        ],
-        "budget_indicator": "Mid-range, with a focus on high-quality materials and craftsmanship",
-        "space_type": "Living room or entrance hall",
-        "functionality": "Primary purpose is for relaxation and social interaction, with a secondary function of serving as an entrance area",
-        "indian_specific": "Teak furniture, carved wooden screens, and gilt accents"
+        "space_utilization": "Efficient use of space with a partition for separation",
+        "cultural_significance": "The diwan is a traditional seating area in Indian homes, often used for hosting guests or family gatherings"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This living room features a Mughal-inspired design with traditional elements like the carved wooden diwan and glass-paneled wooden partition. The space utilizes teak wood for furniture and flooring, creating a warm and traditional aesthetic. The partition serves both as a decorative element and a functional divider, enhancing the visual appeal while maintaining a sense of openness. The natural lighting and clean lines reflect a modern adaptation of traditional Mughal architecture.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Mughal-Influenced",
+        "Teak Wood",
+        "Glass Partition",
+        "Carved Elements",
+        "Northern India"
+      ],
+      "budget_indicator": "Moderate, utilizing quality materials like teak wood and glass for a durable and traditional look",
+      "space_type": "Residential",
+      "functionality": "Gathering and relaxation space",
+      "indian_specific": "Traditional furniture with modern adaptations"
     }
   },
-  "cached_at": 1753460828063,
+  "cached_at": 1754495904419,
   "cache_key": "7366988d2cc4705bd511b9388a065e52"
 }

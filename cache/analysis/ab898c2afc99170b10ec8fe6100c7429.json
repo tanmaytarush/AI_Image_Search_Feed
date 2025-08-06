@@ -3,101 +3,87 @@
   "analysis": {
     "image_id": "img_151",
     "ai_generated_tags": {
-      "room": "Conference Room",
-      "theme": "Contemporary Indian Design",
+      "room": "Conference room",
+      "theme": "Modern Indian",
       "primary_features": [
         "Marble flooring",
-        "Metal chairs",
-        "Glass partition",
-        "Teak wood paneling"
+        "Walls with intricate crown molding",
+        "Teak wood furniture",
+        "Glass partition"
       ],
       "objects": [
         {
-          "type": "Chair",
+          "type": "Teak wood chairs",
           "features": [
-            "Metal frame, upholstered cushions"
-          ],
-          "materials": [
-            "Metal, fabric"
-          ],
-          "finish": "Polished metal, soft fabric"
-        },
-        {
-          "type": "Flooring",
-          "features": [
-            "Marble tiles"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "High-gloss"
-        },
-        {
-          "type": "Partition",
-          "features": [
-            "Clear glass with metal frame"
-          ],
-          "materials": [
-            "Glass, metal"
-          ],
-          "finish": "Clear glass, metallic"
-        },
-        {
-          "type": "Paneling",
-          "features": [
-            "Teak wood"
+            "Stacked in a row",
+            "Simple design",
+            "Warm wood tone"
           ],
           "materials": [
             "Teak wood"
           ],
-          "finish": "Natural wood finish"
+          "finish": "Polished"
+        },
+        {
+          "type": "Teak wood table",
+          "features": [
+            "Rectangular shape",
+            "Central placement",
+            "Smooth surface"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, Brown, Black, Gold"
+          "White marble (floor)",
+          "Neutral beige (walls)",
+          "Warm brown (teak wood)"
         ],
         "materials": [
-          "Marble, Metal, Glass, Teak"
+          "Marble",
+          "Teak wood"
         ],
-        "lighting": "Natural light coming from the left side, artificial overhead lights",
-        "texture": "Smooth marble, polished metal, clear glass, natural wood"
+        "lighting": "Natural light streaming through glass partition",
+        "texture": "Smooth marble floor, polished teak wood"
       },
       "indian_context": {
-        "regional_style": "Not strongly regionalized, but leans towards a modern take on traditional Indian design",
+        "regional_style": "Mughal-inspired crown molding",
         "traditional_elements": [
-          "Teak wood paneling"
+          "Teak wood furniture"
         ],
         "modern_adaptations": [
-          "Use of glass, contemporary chair design, modern finish"
+          "Glass partition for semi-open space design"
         ],
-        "space_utilization": "Open and spacious layout, designed for large gatherings or meetings",
-        "cultural_significance": "The use of teak wood paneling might hint at a connection to traditional Indian furniture styles, though the overall design is modern"
+        "space_utilization": "Efficiently organized for meetings and discussions",
+        "cultural_significance": "Teak wood is a traditional material in Indian interiors, symbolizing durability and elegance"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This conference room features modern interpretations of traditional Indian design elements, utilizing teak wood furniture and Mughal-inspired crown molding. The space is efficiently organized for meetings, with a polished marble floor and a glass partition adding a contemporary touch. Cultural significance is represented through the use of teak wood, a material traditionally associated with durability and elegance in Indian interiors.",
+      "metadata": {
+        "tags": [
+          "conference room",
+          "modern Indian",
+          "teak wood",
+          "marble flooring",
+          "Mughal style"
+        ],
+        "budget_indicator": "Moderate to high, due to use of marble and teak wood",
+        "space_type": "Residential or corporate conference room",
+        "functionality": "Primary purpose is for meetings and discussions",
+        "indian_specific": "Teak wood furniture and Mughal-inspired crown molding"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This conference room features a contemporary take on traditional Indian design elements. The space incorporates marble flooring for a modern touch, while the walls are adorned with teak wood paneling, evoking a sense of tradition. Metal chairs with upholstered cushions provide a comfortable seating arrangement, and a glass partition enhances the open feel of the room. The blend of traditional materials like teak with modern elements such as glass and polished metal creates a harmonious space that is both functional and aesthetically pleasing.",
-    "metadata": {
-      "tags": [
-        "Conference Room",
-        "Contemporary Indian Design",
-        "Marble Flooring",
-        "Teak Wood Paneling",
-        "Metal Chairs",
-        "Glass Partition"
-      ],
-      "budget_indicator": "Moderate, due to the use of high-quality materials like marble and teak",
-      "space_type": "Residential Conference Room",
-      "functionality": "Primary purpose is for meetings or conferences, with space optimization for a large number of participants",
-      "indian_specific": "Teak wood paneling and the overall modern interpretation of traditional Indian design elements"
     }
   },
-  "cached_at": 1753449264915,
+  "cached_at": 1754491922674,
   "cache_key": "ab898c2afc99170b10ec8fe6100c7429"
 }

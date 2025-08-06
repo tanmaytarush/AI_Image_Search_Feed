@@ -4,76 +4,78 @@
     "image_id": "img_202",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Minimalist",
+      "theme": "Modern Indian Kitchen",
       "primary_features": [
-        "Green cabinetry",
-        "White countertop",
-        "Built-in shelving",
-        "Modern lighting"
+        "Cabinetry",
+        "Countertops",
+        "Appliances",
+        "Lighting"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "Cabinetry",
           "features": [
-            "Green, sleek design",
-            "Integrated handles",
-            "Modular design"
+            "Green upper cabinets",
+            "Wooden lower cabinets",
+            "Modern handles"
           ],
           "materials": [
-            "Painted wood or MDF"
+            "Painted wood for upper cabinets, wood for lower cabinets"
           ],
-          "finish": "Glossy"
+          "finish": "Glossy finish on upper cabinets, matte finish on lower cabinets"
         },
         {
-          "type": "Countertop",
+          "type": "Countertops",
           "features": [
-            "White, smooth surface"
+            "White countertops",
+            "Integrated sink"
           ],
           "materials": [
-            "Marble or Quartz"
+            "Marble or quartz"
           ],
-          "finish": "Polished"
+          "finish": "Smooth surface finish"
         },
         {
-          "type": "Shelving",
+          "type": "Appliances",
           "features": [
-            "Built-in, modern style",
-            "Match the cabinetry color"
+            "Refrigerator",
+            "Oven"
           ],
           "materials": [
-            "Painted wood or MDF"
+            "Metal for appliances"
           ],
-          "finish": "Glossy"
+          "finish": "Metallic finish"
         },
         {
           "type": "Lighting",
           "features": [
-            "Modern, recessed ceiling lights"
+            "Under-cabinet lights",
+            "Overhead lights"
           ],
           "materials": [
-            "Metal"
+            "Metal for light fixtures"
           ],
-          "finish": "Polished"
+          "finish": "Modern finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Green, White, Brown, Black"
+          "Green, white, brown, metallic"
         ],
         "materials": [
-          "Wood, Marble, Metal"
+          "Wood, marble/quartz, metal"
         ],
-        "lighting": "Recessed ceiling lights",
-        "texture": "Smooth surfaces"
+        "lighting": "Bright, modern lighting fixtures",
+        "texture": "Smooth surfaces with glossy and matte finishes"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "No specific regional style evident",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Modern interpretations of minimalism"
+          "Combination of traditional materials (wood, marble) with modern design elements (glossy finishes, integrated appliances)"
         ],
-        "space_utilization": "Optimized for functionality with built-in storage",
-        "cultural_significance": "No visible elements with cultural or religious significance"
+        "space_utilization": "Efficient use of space with clean lines and minimalistic design",
+        "cultural_significance": "Minimal traditional Indian elements, focusing on modern adaptability"
       }
     },
     "confidence_scores": {
@@ -83,23 +85,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The kitchen features a modern minimalist design with green cabinetry, white countertops, and built-in shelving. The space is well-organized with sleek, contemporary features and recessed ceiling lights, lacking any traditional Indian design elements.",
+    "description": "This image depicts a modern Indian kitchen with a blend of traditional and contemporary design elements. The kitchen features green upper cabinets with a glossy finish, wooden lower cabinets with a matte finish, and white countertops integrated with modern appliances. The space is well-lit with under-cabinet and overhead lights, creating a bright and clean aesthetic. The design emphasizes functionality with efficient space utilization, avoiding overtly traditional Indian elements to maintain a modern look.",
     "metadata": {
       "tags": [
-        "Kitchen",
-        "Modern",
-        "Minimalist",
-        "Green Cabinets",
+        "Green Kitchen",
+        "Modern Indian",
+        "Glossy Cabinets",
         "White Countertops",
-        "Built-in Shelving",
-        "Recessed Lighting"
+        "Efficient Space"
       ],
-      "budget_indicator": "Mid-range, with modern materials like marble and polished finishes.",
+      "budget_indicator": "Moderate",
       "space_type": "Residential",
-      "functionality": "Primary purpose is food preparation and storage, with optimized space for modern living.",
-      "indian_specific": []
+      "functionality": "Cooking and food preparation",
+      "indian_specific": "Modern interpretation of Indian design with traditional materials"
     }
   },
-  "cached_at": 1753459261176,
+  "cached_at": 1754493045077,
   "cache_key": "087abd234ccceff7c903f5ed9d0ead89"
 }

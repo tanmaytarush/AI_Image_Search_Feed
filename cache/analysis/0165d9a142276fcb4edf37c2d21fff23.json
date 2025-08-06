@@ -2,84 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/820/image_cropper_1729262195519.jpg",
   "analysis": {
     "image_id": "img_326",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/820/image_cropper_1729262195519.jpg",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Contemporary Indian",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Geometric patterned wall panels",
-        "Modern furniture design",
-        "Black and white color scheme"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Wall panel",
+          "type": "furniture",
           "features": [
-            "Geometric patterned design",
-            "Black and white color scheme",
-            "Modern aesthetic"
+            "traditional_style"
           ],
           "materials": [
-            "Painted wood or MDF"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth and glossy"
-        },
-        {
-          "type": "Furniture",
-          "features": [
-            "Modern design with clean lines",
-            "Black and white color scheme"
-          ],
-          "materials": [
-            "Painted wood or MDF"
-          ],
-          "finish": "Smooth and glossy"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Black",
-          "White",
-          "Brown"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Metal"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light with soft indoor illumination",
-        "texture": "Smooth and glossy"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Integration of modern design with traditional Indian color palettes"
+          "contemporary_design"
         ],
-        "space_utilization": "Optimized use of space with wall panels for storage",
-        "cultural_significance": "Modern interpretation of traditional Indian color schemes"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image depicts a contemporary interpretation of Indian interior design, characterized by a modern living room with geometric patterned wall panels in black and white. The design incorporates traditional Indian color schemes and materials in a modern context. The room features sleek, minimalist furniture with a focus on clean lines and a glossy finish, reflecting a blend of traditional aesthetics and modern simplicity.",
-      "metadata": {
-        "tags": [
-          "Contemporary Indian",
-          "Geometric design",
-          "Black and white",
-          "Modern furniture",
-          "Interior design"
-        ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Living Room",
-        "functionality": "Relaxation and socializing",
-        "indian_specific": "Modern adaptation of traditional colors and patterns"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729262195519.jpg"
   },
-  "cached_at": 1753460482191,
+  "cached_at": 1754495382666,
   "cache_key": "0165d9a142276fcb4edf37c2d21fff23"
 }

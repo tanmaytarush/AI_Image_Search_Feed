@@ -4,77 +4,59 @@
     "image_id": "img_352",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Contemporary Indian Fusion",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Wall-mounted TV unit",
-        "Wooden wall paneling",
-        "Linear lighting",
-        "Abstract art"
+        "Carpeted floor",
+        "Large TV unit",
+        "Recliner chair"
       ],
       "objects": [
         {
-          "type": "Wall-mounted TV unit",
+          "type": "Recliner chair",
           "features": [
-            "Modern design with linear elements",
+            "Comfortable design",
+            "Brown upholstery"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Sleek, polished appearance"
+        },
+        {
+          "type": "Large TV unit",
+          "features": [
+            "Modern design",
+            "Wooden finish",
             "Integrated lighting"
           ],
           "materials": [
-            "Wood, metal"
+            "Wood, Metal"
           ],
-          "finish": "Smooth, glossy"
-        },
-        {
-          "type": "Wooden wall paneling",
-          "features": [
-            "Vertically aligned planks",
-            "Warm wood tones"
-          ],
-          "materials": [
-            "Teak or similar hardwood"
-          ],
-          "finish": "Natural, polished"
-        },
-        {
-          "type": "Linear lighting",
-          "features": [
-            "Integrated into the TV unit design"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Abstract art",
-          "features": [
-            "Modern, geometric shapes"
-          ],
-          "materials": [
-            "Painted canvas or similar"
-          ],
-          "finish": "Visible texture"
+          "finish": "Shiny, lacquered"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Warm wood tones, neutral beige floor, white ceiling"
+          "Brown",
+          "White",
+          "Black"
         ],
         "materials": [
-          "Wood, metal, canvas"
+          "Wood, Metal, Fabric"
         ],
-        "lighting": "Soft, ambient, linear lighting integrated into the TV unit",
-        "texture": "Smooth wood paneling, glossy finish on TV unit, visible texture on abstract art"
+        "lighting": "Modern minimalistic lighting with recessed panels above the TV unit",
+        "texture": "Smooth surfaces with a polished finish"
       },
       "indian_context": {
-        "regional_style": "Modern Indian",
+        "regional_style": "Not explicitly regional, leaning towards contemporary Indian",
         "traditional_elements": [
-          "Wooden wall paneling"
+          "Carpeted floor"
         ],
         "modern_adaptations": [
-          "Contemporary linear lighting and furniture design"
+          "Contemporary furniture designs with a touch of Indian craftsmanship"
         ],
-        "space_utilization": "Efficient use of wall space for storage and display",
-        "cultural_significance": "Integration of traditional Indian woodwork elements in a modern, functional design"
+        "space_utilization": "Efficient use of space with a focus on comfort and functionality",
+        "cultural_significance": "The carpeted floor and furniture design reflect a modern interpretation of traditional Indian aesthetics"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -83,22 +65,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image showcases a modern Indian living room with a contemporary fusion design. The space features a wall-mounted TV unit with integrated linear lighting, wooden wall paneling, and abstract art. The design combines traditional Indian wooden paneling with contemporary furniture and lighting, creating a harmonious and functional space. The warm wood tones and neutral color palette are typical of traditional Indian interiors, while the linear lighting and sleek furniture design reflect modern interpretations.",
+      "description": "The interior features a modern Indian living room with a contemporary design aesthetic. The living room includes a large, sleek TV unit with integrated lighting, a comfortable brown upholstered recliner chair, and a carpeted floor that adds warmth to the space. The design elements are a blend of traditional Indian influences, such as the use of carpeted flooring, with modern furniture and minimalistic lighting, creating a sophisticated and functional living space.",
       "metadata": {
         "tags": [
-          "Indian contemporary",
-          "wooden paneling",
-          "linear lighting",
-          "abstract art",
-          "modern Indian"
+          "Modern Indian",
+          "Contemporary Living Room",
+          "Carpeted Floor",
+          "Recliner Chair",
+          "TV Unit"
         ],
-        "budget_indicator": "Moderate, with the use of quality materials like teak and polished metals.",
-        "space_type": "Living Room",
+        "budget_indicator": "Moderate, as the materials and finishes suggest a balanced budget without luxury items",
+        "space_type": "Residential",
         "functionality": "Entertainment and relaxation",
-        "indian_specific": "Integration of traditional woodwork elements with modern design"
+        "indian_specific": "Use of carpeted flooring and contemporary furniture with a touch of traditional Indian craftsmanship"
       }
     }
   },
-  "cached_at": 1753460788373,
+  "cached_at": 1754495850719,
   "cache_key": "ca1e476b233deb2c6e0c773ce4dbc787"
 }

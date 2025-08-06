@@ -4,84 +4,71 @@
     "image_id": "img_317",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian Kitchen",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Dark wood cabinets",
-        "White countertops",
-        "Inset shelving",
-        "Minimalist design",
-        "Lighting fixture"
+        "Light-colored cabinets",
+        "Black countertops",
+        "Open shelving",
+        "Television mounted on the wall",
+        "Minimalist design"
       ],
       "objects": [
         {
           "type": "Kitchen cabinets",
           "features": [
-            "Dark wood with simple lines",
-            "Plywood or engineered wood finish"
+            "Light-colored wood finish",
+            "Contemporary design"
           ],
           "materials": [
-            "Dark wood"
+            "Teak"
           ],
           "finish": "Glossy"
         },
         {
           "type": "Countertop",
           "features": [
-            "Smooth, polished surface",
-            "Dark color contrasts with cabinets"
+            "Black granite surface"
           ],
           "materials": [
-            "Granite or quartz"
+            "Granite"
           ],
-          "finish": "Highly polished"
+          "finish": "Polished"
         },
         {
-          "type": "Shelving",
+          "type": "Television",
           "features": [
-            "Inset shelves with wooden frames",
-            "Simple design"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural wood finish"
-        },
-        {
-          "type": "Lighting fixture",
-          "features": [
-            "Modern, sleek design with multiple bulbs"
+            "Wall-mounted",
+            "Modern design"
           ],
           "materials": [
             "Metal"
           ],
-          "finish": "Chrome"
+          "finish": "Powder-coated"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark wood tones",
-          "White walls",
-          "Black countertops",
-          "Neutral wall color"
+          "Light beige",
+          "Black",
+          "White",
+          "Brown"
         ],
         "materials": [
-          "Wood",
-          "Granite or quartz",
-          "Metal"
+          "Teak wood",
+          "Granite",
+          "Copper"
         ],
-        "lighting": "Artificial lighting with recessed ceiling lights and a modern wall-mounted fixture",
-        "texture": "Smooth surfaces with glossy and matte finishes"
+        "lighting": "Bright lighting with recessed ceiling lights",
+        "texture": "Smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "Not strongly regional, as this is a modern interpretation",
-        "traditional_elements": [
-          "Minimal traditional Indian elements"
-        ],
+        "regional_style": "Elevated contemporary style",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Use of dark wood for modern appeal"
+          "Modern interpretations of traditional materials like teak and marble"
         ],
-        "space_utilization": "Efficient use of space with in-built shelving and minimalistic design",
-        "cultural_significance": "Modern Indian kitchens often aim for functionality and aesthetics, reflecting contemporary preferences"
+        "space_utilization": "Efficient layout with open shelving for storage",
+        "cultural_significance": "Minimalist design aligns with modern Indian aesthetics while avoiding overt traditional elements"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -90,22 +77,23 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This image showcases a modern Indian kitchen with a sleek, minimalist design. Dark wood cabinets with a glossy finish are paired with white walls and black countertops, creating a striking contrast. Inset shelving and a modern lighting fixture contribute to the contemporary feel, while the absence of traditional Indian elements like carved wood or marble inlays indicates a focus on modern aesthetics. The kitchen appears to be optimized for functionality with efficient space utilization.",
+      "description": "The kitchen showcases a modern Indian design with light-colored cabinets made from teak, which is a traditional material here, paired with black granite countertops. The space is designed with an open shelving system and a mounted television, emphasizing functionality and contemporary style. The minimalist color palette of beige, black, and white complements the glossy surfaces, creating a sleek and modern look. The design avoids overt traditional elements, focusing on a clean, efficient, and culturally relevant modern Indian aesthetic.",
       "metadata": {
         "tags": [
-          "Modern Indian Kitchen",
-          "Dark Wood Cabinets",
-          "White Walls",
-          "Black Countertops",
-          "Minimalist Design"
+          "Modern Indian",
+          "Teak cabinets",
+          "Black granite",
+          "Minimalist kitchen",
+          "Contemporary design",
+          "Wall-mounted TV"
         ],
-        "budget_indicator": "Moderate, as dark wood and polished materials are used but still within a modern budget range",
+        "budget_indicator": "Moderate to high, given the use of teak and granite",
         "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is meal preparation and storage",
-        "indian_specific": "Minimal traditional Indian design elements, focusing on modern appeal"
+        "functionality": "Primary purpose is for cooking and storage, with additional entertainment functionality provided by the mounted TV",
+        "indian_specific": "Light-colored teak cabinets and black granite countertops represent a modern adaptation of traditional Indian materials"
       }
     }
   },
-  "cached_at": 1753460359843,
+  "cached_at": 1754495288053,
   "cache_key": "c0b94da67d86053910adbe1f782d33ed"
 }

@@ -3,90 +3,79 @@
   "analysis": {
     "image_id": "img_270",
     "ai_generated_tags": {
-      "room": "Bedroom with storage",
+      "room": "Bedroom",
       "theme": "Modern Indian",
       "primary_features": [
-        "Built-in wardrobe with sliding doors",
-        "Bunk bed",
-        "Storage compartments",
-        "Window with blinds"
+        "Built-in wardrobes",
+        "Bed",
+        "Minimalist decor"
       ],
       "objects": [
         {
-          "type": "Bunk bed",
+          "type": "Built-in Wardrobe",
           "features": [
-            "Metal frame",
-            "Slatted wooden slats",
-            "Elegant design"
+            "Integrated with the wall",
+            "Large storage capacity"
           ],
           "materials": [
-            "Metal",
-            "Wood"
+            "Wood, likely teak or oak"
           ],
-          "finish": "Metallic sheen, polished wood"
+          "finish": "Smooth, glossy finish"
         },
         {
-          "type": "Built-in wardrobe",
+          "type": "Bed",
           "features": [
-            "Sliding glass doors",
-            "Integrated storage compartments",
-            "Minimalist design"
+            "Modern design",
+            "Minimal headboard"
           ],
           "materials": [
-            "Glass",
-            "Metal"
+            "Wood frame, likely teak or oak"
           ],
-          "finish": "Glossy glass, metallic hardware"
+          "finish": "Natural wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Black"
+          "White, brown, beige"
         ],
         "materials": [
-          "Glass",
-          "Metal",
-          "Wood"
+          "Wood, metal, glass"
         ],
-        "lighting": "Natural light from the window, artificial light from the ceiling",
-        "texture": "Smooth surfaces with some texture from the wood"
+        "lighting": "Natural light from the window, ambient lighting from the wall sconces",
+        "texture": "Smooth surface finish of the walls and furniture"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but has touches of modern Indian design",
-        "traditional_elements": [
-          "Minimal use of traditional Indian elements"
-        ],
+        "regional_style": "Not explicitly regional, but could be considered North Indian due to the use of wood and simplicity",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Incorporation of modern materials and finishes"
+          "Integration of traditional materials (wood) with modern design principles"
         ],
-        "space_utilization": "Optimizes the space with built-in storage and a bunk bed",
-        "cultural_significance": "No overt cultural or religious elements, but the design reflects a contemporary interpretation of Indian style"
+        "space_utilization": "Efficient use of wall space for storage, maximizing the available floor space",
+        "cultural_significance": "The use of natural wood materials reflects the preference for eco-friendly and sustainable practices in modern Indian design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern Indian bedroom with a focus on functionality and minimalism. The space utilizes built-in wardrobes for storage, creating a clean and uncluttered look. The bed, with its simple design and natural wood finish, complements the overall modern Indian aesthetic. The use of natural light and subtle decorative elements, such as wall sconces, enhances the simplicity and elegance of the room.",
+      "metadata": {
+        "tags": [
+          "Bedroom",
+          "Modern Indian",
+          "Built-in wardrobes",
+          "Natural wood",
+          "Minimal design"
+        ],
+        "budget_indicator": "Moderate, with the use of high-quality materials like wood and glass, but minimal over-the-top embellishments",
+        "space_type": "Residential",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Modern adaptation of traditional wood materials"
       }
-    },
-    "confidence_scores": {
-      "room": 0.92,
-      "theme": 0.88,
-      "primary_features": 0.85,
-      "objects": 0.9,
-      "indian_context": 0.85
-    },
-    "description": "This image showcases a modern Indian-inspired bedroom with a focus on efficient space utilization and contemporary design elements. The room features a bunk bed with a metal frame and wooden slats, a built-in wardrobe with sliding glass doors, and storage compartments. The design includes a minimalist aesthetic with smooth surfaces and a neutral color palette, reflecting a modern interpretation of Indian design. The room exudes a sense of practicality and functional beauty, making efficient use of the available space.",
-    "metadata": {
-      "tags": [
-        "Bedroom",
-        "Modern Indian",
-        "Built-in wardrobe",
-        "Bunk bed",
-        "Storage optimization"
-      ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential bedroom",
-      "functionality": "Sleeping and storage",
-      "indian_specific": "Contemporary interpretation of Indian design elements"
     }
   },
-  "cached_at": 1753459825281,
+  "cached_at": 1754494503405,
   "cache_key": "546ed44dfb00755ead5ff7aa71f203f2"
 }

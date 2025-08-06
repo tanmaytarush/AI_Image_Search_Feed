@@ -4,93 +4,82 @@
     "image_id": "img_201",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian Kitchen Design",
+      "theme": "Modern kitchen with Indian influences",
       "primary_features": [
-        "Cabinets with metallic handles",
-        "Granite countertops",
-        "Built-in appliances"
+        "Acrylic countertops",
+        "Metallic cabinetry",
+        "Flooring with tiles"
       ],
       "objects": [
         {
-          "type": "Kitchen cabinets",
+          "type": "Cabinetry",
           "features": [
-            "Shallow drawers for storage",
-            "Metallic handles"
+            "Metallic finish",
+            "Multidrawer units"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "Metallic coating"
           ],
-          "finish": "Matte metallic finish on handles, wood finish on cabinets"
+          "finish": "Glossy metallic"
         },
         {
-          "type": "Countertop",
+          "type": "Countertops",
           "features": [
-            "Granite surface"
+            "Acrylic surface"
           ],
           "materials": [
-            "Granite"
+            "Acrylic"
           ],
-          "finish": "Polished granite finish"
-        },
-        {
-          "type": "Appliances",
-          "features": [
-            "Integrated stove and oven"
-          ],
-          "materials": [
-            "Not visible"
-          ],
-          "finish": "Not visible"
+          "finish": "Smooth"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Gray",
+          "Grey",
           "White",
-          "Gold"
+          "Black"
         ],
         "materials": [
-          "Wood",
           "Metal",
-          "Granite"
+          "Acrylic",
+          "Tile"
         ],
-        "lighting": "Natural light coming from off-frame window",
-        "texture": "Smooth surfaces with natural wood grain texture"
+        "lighting": "Natural light from window",
+        "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Not applicable as this is a modern interpretation",
+        "regional_style": "Not specific to any regional style",
         "traditional_elements": [
-          "Not applicable as this is a modern kitchen"
+          "Not visible"
         ],
         "modern_adaptations": [
-          "Use of teak wood in cabinet frames, modern metallic finishes, and granite countertops"
+          "Modern materials and finishes with Indian design elements"
         ],
-        "space_utilization": "Efficient use of space with integrated appliances and built-in storage",
-        "cultural_significance": "Modern adaptation of Indian kitchens focusing on functionality and aesthetics"
+        "space_utilization": "Compact and functional layout",
+        "cultural_significance": "Modern interpretation of Indian design aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.9,
+        "primary_features": 0.88,
+        "objects": 0.89,
+        "indian_context": 0.85
+      },
+      "description": "The image depicts a modern kitchen with elements that hint at Indian design influences. The metallic cabinetry and glossy acrylic countertops suggest a contemporary style, but the design's layout and materials could be adapted from traditional Indian concepts. The use of smooth, high-gloss surfaces aligns with modern preferences while the color palette is typical of Indian interiors, featuring neutral tones like grey, white, and black. The compact and functional layout is common in modern Indian homes, where maximizing space is a priority.",
+      "metadata": {
+        "tags": [
+          "Modern Kitchen",
+          "Indian Style",
+          "Glossy Surfaces",
+          "Compact Layout"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential kitchen",
+        "functionality": "Preparation and storage",
+        "indian_specific": "Modern interpretation of Indian design elements in materials and finish"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.85
-    },
-    "description": "The image depicts a modern kitchen designed with elements of traditional Indian aesthetics. The cabinets, made of wood, feature metallic handles, while the countertops are made of polished granite. The space is organized with built-in appliances, emphasizing functionality and efficiency. The color palette includes gray, white, and gold, reflecting a contemporary yet sophisticated Indian design approach.",
-    "metadata": {
-      "tags": [
-        "Modern Indian Kitchen",
-        "Granite Countertops",
-        "Built-in Appliances",
-        "Metallic Handles"
-      ],
-      "budget_indicator": "Moderate, due to the use of granite countertops and metallic finishes",
-      "space_type": "Residential kitchen",
-      "functionality": "Primary purpose is for cooking and food preparation",
-      "indian_specific": "Modern interpretation of Indian design with teak wood and metallic finishes"
     }
   },
-  "cached_at": 1753459247237,
+  "cached_at": 1754493028455,
   "cache_key": "5a8982edc406c5291a8235e6989e0a82"
 }

@@ -4,87 +4,84 @@
     "image_id": "img_426",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Kitchen with Indian Influences",
+      "theme": "Indian Contemporary",
       "primary_features": [
-        "Blue cabinetry",
-        "White countertops",
-        "Range hood",
-        "Appliances"
+        "Blue and white color scheme",
+        "Cupboard with glass panels",
+        "White countertop",
+        "Decorative pendant lights"
       ],
       "objects": [
         {
-          "type": "Range hood",
+          "type": "Kitchen Island",
           "features": [
-            "Curved",
-            "Decorative"
+            "Central island with sink and countertop",
+            "Integrated storage cabinets underneath"
           ],
           "materials": [
-            "Metallic"
+            "Teak wood for the island, white countertops, metallic handles"
           ],
-          "finish": "Shiny, reflective"
+          "finish": "Polished and shiny"
         },
         {
-          "type": "Cabinets",
+          "type": "Cupboard",
           "features": [
-            "Blue",
-            "Modern lines"
+            "Glass panels for the upper section",
+            "White doors for the lower section",
+            "Decorative handles"
           ],
           "materials": [
-            "Painted wood or laminate"
+            "Teak wood for the doors, glass panels, metallic handles"
           ],
-          "finish": "Smooth, glossy"
+          "finish": "Shiny and reflective"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Blue",
-          "White",
-          "Black",
-          "Metallic"
+          "Blue, white, metallic"
         ],
         "materials": [
-          "Metal",
-          "Painted wood",
-          "Granite"
+          "Teak, glass, metal, marble"
         ],
-        "lighting": "Bright, artificial lighting with recessed lights in ceiling",
-        "texture": "Smooth, glossy surfaces"
+        "lighting": "Warm and inviting, with pendant lights",
+        "texture": "Smooth and glossy"
       },
       "indian_context": {
-        "regional_style": "Non-specific regional influence, more of a modern interpretation of Indian design",
+        "regional_style": "Indian Contemporary with urban influences",
         "traditional_elements": [
-          "Range hood with decorative elements, which are commonly seen in traditional Indian kitchens"
+          "White and blue color combination",
+          "Teak wood for cabinetry"
         ],
         "modern_adaptations": [
-          "Integration of modern materials and design aesthetics"
+          "Glass panels for cabinets",
+          "Integrated storage solutions"
         ],
-        "space_utilization": "Open and efficient use of space with a central island and ample counter space",
-        "cultural_significance": "The range hood with decorative elements aims to blend traditional craftsmanship with modern functionality"
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.75,
-        "primary_features": 0.9,
-        "objects": 0.88,
-        "indian_context": 0.78
-      },
-      "description": "A modern kitchen that incorporates elements of traditional Indian design, such as the decorative range hood, into a contemporary kitchen layout and color scheme. The blue cabinetry and white countertops create a fresh and clean look, while the metallic finish on the hood adds a touch of traditional craftsmanship.",
-      "metadata": {
-        "tags": [
-          "Modern Kitchen",
-          "Indian Influences",
-          "Blue Cabinets",
-          "White Countertops",
-          "Decorative Range Hood",
-          "Contemporary Design"
-        ],
-        "budget_indicator": "Moderate to high, given the use of materials like metal and possibly granite or high-quality laminate for countertops",
-        "space_type": "Residential Kitchen",
-        "functionality": "Cooking and food preparation area with storage and workspace",
-        "indian_specific": "Range hood with decorative elements"
+        "space_utilization": "Efficient use of space with a central island and integrated storage",
+        "cultural_significance": "The color blue is associated with spiritual and calmness in Indian culture, often used in modern Indian interiors"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The kitchen space embodies an Indian contemporary style with a focus on modern amenities and traditional design elements. The blue and white color scheme is a nod to the calming effects of blue in Indian culture. The use of teak wood for cabinetry and glass panels for the upper cabinets adds a touch of traditional craftsmanship with a modern twist. The kitchen island with integrated storage and a central sink provides both functionality and a stylish centerpiece. The warm pendant lights contribute to an inviting and comfortable atmosphere.",
+    "metadata": {
+      "tags": [
+        "Indian Contemporary",
+        "Teak Kitchen",
+        "Glass Cabinets",
+        "Blue and White",
+        "Modern Indian Design"
+      ],
+      "budget_indicator": "Moderate, with the use of teak wood and glass panels",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary space for cooking and food preparation with additional storage solutions",
+      "indian_specific": "Use of blue and white color scheme, teak wood, and glass panels"
     }
   },
-  "cached_at": 1753461742446,
+  "cached_at": 1754496401970,
   "cache_key": "68c01eafebaef97fe9b9280daced6b8c"
 }

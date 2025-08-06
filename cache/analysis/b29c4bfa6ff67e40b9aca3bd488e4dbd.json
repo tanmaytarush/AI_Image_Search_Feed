@@ -3,110 +3,87 @@
   "analysis": {
     "image_id": "img_316",
     "ai_generated_tags": {
-      "room": "Retail or showroom",
-      "theme": "Modern retail interior",
+      "room": "Commercial Storefront",
+      "theme": "Retail Interior Design",
       "primary_features": [
-        "Framed product display",
         "Shelving units",
-        "Lighting fixtures",
-        "Customer seating"
+        "Display products",
+        "Branded signage"
       ],
       "objects": [
         {
-          "type": "Framed product display",
+          "type": "Shelving unit",
           "features": [
-            "Visibility of products",
-            "organized arrangement"
-          ],
-          "materials": [
-            "Glass",
-            "Metal"
-          ],
-          "finish": "Polished, reflective"
-        },
-        {
-          "type": "Shelving units",
-          "features": [
-            "Storage capacity",
-            "style of shelving"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Painted"
-        },
-        {
-          "type": "Lighting fixtures",
-          "features": [
-            "Bright, overhead lighting"
+            "Multipurpose storage",
+            "Organized product display"
           ],
           "materials": [
             "Metal",
-            "Plastic"
+            "Wood"
           ],
-          "finish": "Nickel, painted"
+          "finish": "Polished metal, natural wood"
         },
         {
-          "type": "Customer seating",
+          "type": "Branded signage",
           "features": [
-            "Seating arrangement",
-            "comfort"
+            "Prominent brand logo",
+            "Textual information"
           ],
           "materials": [
-            "Fabric",
-            "Metal"
+            "Metal",
+            "Painted surface"
           ],
-          "finish": "Comfortable, durable"
+          "finish": "Metallic, painted"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White walls",
-          "Blue fabric",
-          "Multi-colored product labels"
+          "White",
+          "Black",
+          "Red",
+          "Blue",
+          "Green"
         ],
         "materials": [
           "Metal",
-          "Glass",
-          "Fabric",
-          "Wooden accents"
+          "Wood",
+          "Glass"
         ],
-        "lighting": "Bright overhead lighting, enhancing visibility of products",
-        "texture": "Smooth surfaces with some texture from product displays"
+        "lighting": "Artificial lighting from above",
+        "texture": "Smooth metal, textured wood, reflective glass"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "No specific regional influence",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Use of modern retail technologies",
-          "minimalistic approach"
+          "Use of modular shelving"
         ],
-        "space_utilization": "Efficient use of space with clear product presentation",
-        "cultural_significance": "No specific cultural elements visible"
+        "space_utilization": "Highly functional with efficient product placement",
+        "cultural_significance": "No cultural elements visible, purely commercial"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.92,
+        "primary_features": 0.88,
+        "objects": 0.9,
+        "indian_context": 0.75
+      },
+      "description": "The image depicts a commercial storefront with a clean, modern retail interior. The space features organized shelving units filled with various products, and branded signage prominently displaying the store's name and offerings. The materials used are primarily metal and wood, with glass shelves for display, suggesting a focus on a sleek and functional design. The lighting is artificial, typical for retail spaces, enhancing the visibility of the products.",
+      "metadata": {
+        "tags": [
+          "Commercial Storefront",
+          "Retail Interior",
+          "Shelving Units",
+          "Branded Signage",
+          "Modern Design"
+        ],
+        "budget_indicator": "Moderate, with a focus on functional and clean design",
+        "space_type": "Storefront",
+        "functionality": "Retail display and branding",
+        "indian_specific": "No visible Indian-specific design features"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This image depicts a modern retail or showroom interior with a focus on product display and customer engagement. The space features organized shelving, bright overhead lighting, and comfortable seating, all designed to enhance the shopping experience. There is no evident Indian design influence or cultural elements, as the focus is on a contemporary retail setup.",
-    "metadata": {
-      "tags": [
-        "Retail",
-        "Showroom",
-        "Modern Interior",
-        "Product Display",
-        "Customer Experience"
-      ],
-      "budget_indicator": "Moderate, with a focus on functionality and visibility of products",
-      "space_type": "Commercial retail",
-      "functionality": "Product presentation and customer interaction",
-      "indian_specific": "No Indian-specific design features"
     }
   },
-  "cached_at": 1753460351121,
+  "cached_at": 1754495272556,
   "cache_key": "b29c4bfa6ff67e40b9aca3bd488e4dbd"
 }

@@ -4,57 +4,49 @@
     "image_id": "img_339",
     "ai_generated_tags": {
       "room": "Bathroom",
-      "theme": "Modern Minimalist",
+      "theme": "Modern",
       "primary_features": [
-        "Tiled walls and floor",
-        "Exposed plumbing"
+        "White marble walls",
+        "Black marble floor",
+        "Wooden cabinet"
       ],
       "objects": [
         {
-          "type": "Bathroom vanity",
+          "type": "Wooden cabinet",
           "features": [
             "Rectangular shape",
-            "Integral countertop"
+            "Vertical slatted design",
+            "Warm brown finish"
           ],
           "materials": [
-            "Composite material",
-            "Soapstone countertop"
+            "Teak or similar wood"
           ],
-          "finish": "Smooth and glossy"
-        },
-        {
-          "type": "Toilet",
-          "features": [
-            "Modern design"
-          ],
-          "materials": [
-            "Glass"
-          ],
-          "finish": "Transparent"
+          "finish": "Natural wood grain"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Black",
-          "Gray"
+          "Brown"
         ],
         "materials": [
-          "Marble",
-          "Glass",
-          "Composite"
+          "Marble (white and black)",
+          "Wood (brown)"
         ],
-        "lighting": "Even and well-lit",
-        "texture": "Smooth and polished surfaces"
+        "lighting": "Natural light from windows",
+        "texture": "Smooth marble walls and floor, textured wood cabinet"
       },
       "indian_context": {
-        "regional_style": "No specific regional influence",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Integration of modern design elements with traditional materials"
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Wooden cabinet with vertical slats"
         ],
-        "space_utilization": "Efficient use of space with minimal decor",
-        "cultural_significance": "No culturally significant elements observed"
+        "modern_adaptations": [
+          "Combination of traditional wood with modern marble surfaces"
+        ],
+        "space_utilization": "Utilized efficiently with a cabinet for storage and display",
+        "cultural_significance": "The wooden cabinet could be a nod to traditional Indian furniture styles, though the modern elements suggest a contemporary approach"
       },
       "confidence_scores": {
         "room": 0.85,
@@ -63,22 +55,21 @@
         "objects": 0.9,
         "indian_context": 0.7
       },
-      "description": "The image depicts a modern minimalist bathroom with a clean and sleek design. The walls and floor are covered in white marble tiles, giving the space a luxurious and contemporary feel. The bathroom vanity, made of a composite material with a soapstone countertop, sits against the wall, providing a functional yet stylish storage solution. A modern glass toilet adds to the overall simplicity and sophistication of the room.",
+      "description": "The image depicts a modern bathroom with a sleek design. The space features white marble walls and a black marble floor, creating a striking contrast. A wooden cabinet with vertical slats is placed against the wall, blending traditional Indian design elements with modern aesthetics. The natural light from the window enhances the overall ambiance, making the space appear airy and inviting.",
       "metadata": {
         "tags": [
-          "Modern bathroom",
-          "Minimalist design",
-          "White marble tiles",
-          "Glass toilet",
-          "Contemporary interior"
+          "Modern Bathroom",
+          "Marble Walls",
+          "Wooden Cabinet",
+          "Indian Traditional Elements"
         ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Bathroom",
-        "functionality": "Hygiene and storage",
-        "indian_specific": "No Indian-specific design features"
+        "budget_indicator": "Mid-range to high, given the use of marble and wood",
+        "space_type": "Residential",
+        "functionality": "Storage and display area within a bathroom",
+        "indian_specific": "Use of traditional wood design with contemporary marble surfaces"
       }
     }
   },
-  "cached_at": 1753460623087,
+  "cached_at": 1754495548879,
   "cache_key": "adc5b8cdb470fd279ec2adbd00a6f2db"
 }

@@ -4,62 +4,59 @@
     "image_id": "img_416",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian",
+      "theme": "Modern Minimalist",
       "primary_features": [
-        "Integrated sink, modern cabinets, countertop"
+        "Dark cabinetry",
+        "Knobless design",
+        "Integrated appliances",
+        "Sleek countertop"
       ],
       "objects": [
         {
-          "type": "Cabinets",
-          "features": [
-            "Flat doors, sleek design, dark finish"
-          ],
-          "materials": [
-            "Black painted wood or wood veneer"
-          ],
-          "finish": "Matte black"
-        },
-        {
           "type": "Countertop",
           "features": [
-            "Smooth, polished surface, glossy finish"
+            "Smooth surface",
+            "Integrated sink",
+            "Flat design"
           ],
           "materials": [
-            "Granite or quartz"
+            "Marble or granite"
           ],
-          "finish": "Glossy"
+          "finish": "High-gloss finish"
         },
         {
-          "type": "Sinks",
+          "type": "Cabinet",
           "features": [
-            "Integrated into cabinetry, modern design"
+            "Knobless design",
+            "Dark wood finish",
+            "Integrated lighting"
           ],
           "materials": [
-            "Glass or acrylic"
+            "Teak or similar wood"
           ],
-          "finish": "Clear"
+          "finish": "Shiny, polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark gray, black, white, beige"
+          "Black, white, gray"
         ],
         "materials": [
-          "Granite, wood, glass"
+          "Marble, wood, glass"
         ],
-        "lighting": "Artificial lighting with recessed spotlights",
-        "texture": "Smooth, glossy surfaces"
+        "lighting": "Integrated under-cabinet lighting",
+        "texture": "Smooth surfaces with a polished look"
       },
       "indian_context": {
-        "regional_style": "Not applicable to this modern design",
+        "regional_style": "Modern adaptation of traditional Indian cabinetry",
         "traditional_elements": [
-          "None"
+          "Absence of traditional Indian elements"
         ],
         "modern_adaptations": [
-          "Integration of traditional materials (e.g., granite) with modern design aesthetics"
+          "Knobless design, sleek surfaces, integrated appliances"
         ],
         "space_utilization": "Efficient use of space with minimalistic design",
-        "cultural_significance": "Cultural relevance is not directly applicable as this is a modern Indian design approach"
+        "cultural_significance": "Modern interpretation of Indian aesthetic in minimalistic design"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -68,22 +65,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This kitchen features a modern Indian design with sleek, dark cabinetry and a polished countertop. The design incorporates traditional materials like granite while maintaining a modern aesthetic. The space is efficiently organized with minimalistic elements, focusing on functionality and visual appeal.",
+      "description": "This kitchen features a modern minimalistic design with sleek, dark cabinetry and a high-gloss countertop. The absence of traditional Indian elements, such as carved wood or brass detailing, suggests a contemporary take on Indian design. The use of dark wood and marble or granite surfaces aligns with traditional Indian aesthetics in a simplified and contemporary manner.",
       "metadata": {
         "tags": [
-          "Modern Indian Kitchen",
-          "Minimalist Design",
-          "Kitchen Cabinets",
-          "Granite Countertop",
-          "Dark Finish"
+          "Kitchen",
+          "Modern",
+          "Minimalist",
+          "Dark cabinetry",
+          "Sleek design"
         ],
-        "budget_indicator": "Moderate to high, due to the use of high-quality materials like granite and polished finishes",
-        "space_type": "Residential Kitchen",
-        "functionality": "Primary purpose is for cooking and food preparation, with space optimization being a key feature",
-        "indian_specific": "Modern interpretation of traditional Indian design elements"
+        "budget_indicator": "High",
+        "space_type": "Residential",
+        "functionality": "Primary cooking and food preparation area",
+        "indian_specific": "Modern adaptation of Indian cabinetry principles"
       }
     }
   },
-  "cached_at": 1753461625637,
+  "cached_at": 1754496293799,
   "cache_key": "4513af00a8955c6cf967ac251dfd8c3b"
 }

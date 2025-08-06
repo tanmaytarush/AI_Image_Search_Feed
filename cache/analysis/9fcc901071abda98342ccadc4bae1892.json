@@ -2,104 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/53/image_cropper_1726467433786.jpg",
   "analysis": {
     "image_id": "img_382",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/53/image_cropper_1726467433786.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Modern Indian Interior",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Double bed",
-        "Curtains",
-        "Bedspread",
-        "Curtains"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Double bed",
+          "type": "furniture",
           "features": [
-            "Wooden frame",
-            "Fabric upholstery"
+            "traditional_style"
           ],
           "materials": [
-            "Wood",
-            "Fabric"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth wooden finish and soft fabric"
-        },
-        {
-          "type": "Curtains",
-          "features": [
-            "Sheer fabric",
-            "Fringed edge",
-            "Matching bedspread"
-          ],
-          "materials": [
-            "Fabric"
-          ],
-          "finish": "Smooth fabric with decorative fringes"
-        },
-        {
-          "type": "Bedspread",
-          "features": [
-            "White with blue stripes"
-          ],
-          "materials": [
-            "Fabric"
-          ],
-          "finish": "Embroidered fabric with patterned design"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Blue",
-          "Brown",
-          "Gray"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Fabric",
-          "Wood",
-          "Metal"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from windows, dim indoor lighting",
-        "texture": "Smooth fabric textures, polished wood"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "North Indian",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Fringed curtains",
-          "Embroidered bedspread"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Minimalist furniture design",
-          "Neutral color palette"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of vertical space with curtains",
-        "cultural_significance": "Curtains and bedspreads are traditional elements symbolizing comfort and hospitality"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The bedroom showcases a modern take on traditional North Indian interior design, featuring a double bed with a wooden frame and fabric upholstery, fringed curtains in matching colors, and an embroidered bedspread. The space utilizes neutral tones with white and blue accents, emphasizing comfort and cultural relevance through traditional elements.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Bedroom",
-        "Modern Indian",
-        "Double Bed",
-        "Furniture",
-        "Curtains",
-        "Bedspread",
-        "North Indian Design"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Moderate, with a focus on quality materials like fabric and wood",
-      "space_type": "Residential bedroom",
-      "functionality": "Sleeping and resting area",
-      "indian_specific": "Fringed curtains and embroidered bedspread"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1726467433786.jpg"
   },
-  "cached_at": 1753461173135,
+  "cached_at": 1754496091262,
   "cache_key": "9fcc901071abda98342ccadc4bae1892"
 }

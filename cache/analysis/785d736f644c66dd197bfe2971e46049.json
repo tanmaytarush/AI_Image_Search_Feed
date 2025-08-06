@@ -4,69 +4,69 @@
     "image_id": "img_200",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Minimalist",
+      "theme": "Modern Minimalist",
       "primary_features": [
-        "Exposed wooden flooring",
-        "Modern furniture",
-        "Large windows"
+        "Hardwood flooring",
+        "Floor-to-ceiling windows",
+        "Exposed light fixture"
       ],
       "objects": [
         {
-          "type": "Furniture",
+          "type": "Exposure light fixture",
           "features": [
-            "Modern, unadorned design",
-            "Simple lines",
-            "Neutral color palette"
+            "Geometric shapes",
+            "Metal finish"
           ],
           "materials": [
-            "Wooden"
+            "Metal"
           ],
-          "finish": "Matte finish"
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown",
-          "White"
+          "Brown (floor)",
+          "White (walls)",
+          "Natural light from windows"
         ],
         "materials": [
-          "Wood"
+          "Hardwood",
+          "Metal",
+          "Glass"
         ],
-        "lighting": "Natural light from large windows",
-        "texture": "Smooth wooden texture"
+        "lighting": "Natural light from windows, complemented by exposed light fixture",
+        "texture": "Fine grain on the hardwood floor"
       },
       "indian_context": {
         "regional_style": "Not applicable",
         "traditional_elements": [],
-        "modern_adaptations": [
-          "Minimalist adaptation of traditional Indian design elements"
+        "modern_adaptations": [],
+        "space_utilization": "Open and spacious with minimalist design",
+        "cultural_significance": "No specific Indian cultural elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.88,
+        "objects": 0.9,
+        "indian_context": 0.75
+      },
+      "description": "The image depicts a modern minimalist living room with hardwood flooring, large floor-to-ceiling windows allowing natural light, and an exposed geometric light fixture. The design is devoid of any traditional Indian elements, focusing on clean lines and a monochromatic color scheme. The space is open and airy, emphasizing functionality and contemporary aesthetics.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Modern",
+          "Living Room",
+          "Hardwood Flooring",
+          "Natural Light"
         ],
-        "space_utilization": "Open and spacious, optimized for modern living",
-        "cultural_significance": "Lack of cultural significance in this image"
+        "budget_indicator": "Moderate, with high-quality materials like hardwood and glass",
+        "space_type": "Residential",
+        "functionality": "Living space",
+        "indian_specific": "No specific Indian design features are present"
       }
-    },
-    "confidence_scores": {
-      "room": 0.85,
-      "theme": 0.75,
-      "primary_features": 0.78,
-      "objects": 0.88,
-      "indian_context": 0.45
-    },
-    "description": "The image depicts a modern living room with a minimalist design. The room features an exposed wooden floor and simple, modern furniture. Large windows allow ample natural light, creating an open and airy space. There is no indication of traditional Indian design elements or cultural significance in the visible elements.",
-    "metadata": {
-      "tags": [
-        "Minimalist",
-        "Living Room",
-        "Modern",
-        "Exposed Wood",
-        "Natural Lighting"
-      ],
-      "budget_indicator": "Low to Medium, given the use of wood and modern furniture",
-      "space_type": "Residential",
-      "functionality": "Relaxation and socializing",
-      "indian_specific": "No visible Indian-specific design features"
     }
   },
-  "cached_at": 1753459236058,
+  "cached_at": 1754493019233,
   "cache_key": "785d736f644c66dd197bfe2971e46049"
 }

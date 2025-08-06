@@ -3,72 +3,74 @@
   "analysis": {
     "image_id": "img_415",
     "ai_generated_tags": {
-      "room": "bedroom",
-      "theme": "contemporary",
+      "room": "Bedroom",
+      "theme": "Contemporary Indian Fusion",
       "primary_features": [
-        "wardrobe",
-        "modern furniture"
+        "Modern furniture",
+        "Sliding wardrobe doors",
+        "White and grey color scheme",
+        "Minimalist design"
       ],
       "objects": [
         {
-          "type": "wardrobe",
+          "type": "Sliding wardrobe doors",
           "features": [
-            "sliding doors",
-            "simple design"
+            "Curved edges",
+            "Silent sliding mechanism"
           ],
           "materials": [
-            "wood",
-            "glass"
+            "MDF"
           ],
-          "finish": "matte"
+          "finish": "Smooth finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "white",
-          "slate gray",
-          "cream"
+          "White",
+          "Grey",
+          "Black"
         ],
         "materials": [
-          "wood",
-          "glass"
+          "MDF",
+          "Metal"
         ],
-        "lighting": "even, natural light from a window",
-        "texture": "smooth surfaces"
+        "lighting": "Natural light through large windows",
+        "texture": "Smooth surfaces"
       },
       "indian_context": {
-        "regional_style": "not applicable",
+        "regional_style": "Not distinctly regional, more of a contemporary style",
         "traditional_elements": [
-          "none"
+          "No traditional Indian elements visible"
         ],
         "modern_adaptations": [
-          "simple design with modern materials"
+          "Minimalist design with curved edges"
         ],
-        "space_utilization": "efficient use of space with a single wardrobe",
-        "cultural_significance": "not applicable"
+        "space_utilization": "Efficient use of space with sliding doors for storage",
+        "cultural_significance": "Modern interpretation of Indian design aesthetics"
       },
       "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.5,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.05
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.83,
+        "objects": 0.9,
+        "indian_context": 0.6
       },
-      "description": "The image shows a modern bedroom with a minimalist wardrobe design, utilizing white and gray tones. The wardrobe features sliding doors with a glass panel, suggesting a contemporary style. The room appears to be well-lit, possibly due to a window not visible in the image. There are no traditional Indian design elements present, indicating a modern interpretation of space optimization.",
+      "description": "The image showcases a contemporary bedroom with a minimalist and modern design approach, incorporating elements of traditional Indian aesthetics in a subtle manner. The sliding wardrobe doors blend seamlessly with the contemporary theme, featuring smooth MDF surfaces and a sleek, curved design with a hint of Indian influence in the material and finish. The color palette is primarily white and grey, with black accents, creating a clean and modern look. The space utilizes efficient storage solutions, reflecting a focus on functionality and space optimization.",
       "metadata": {
         "tags": [
-          "modern bedroom",
-          "wardrobe",
-          "sliding doors",
-          "contemporary design"
+          "Contemporary Indian interior",
+          "Minimalist design",
+          "MDF furniture",
+          "Sliding doors",
+          "Modern bedroom"
         ],
-        "budget_indicator": "moderate to high, due to the use of glass and modern materials",
-        "space_type": "residential bedroom",
-        "functionality": "storage and organization of personal items",
-        "indian_specific": "none"
+        "budget_indicator": "Mid-range, due to modern materials and finishes",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose is storage and bedroom functionality",
+        "indian_specific": "Contemporary interpretation of Indian design elements"
       }
     }
   },
-  "cached_at": 1753461615874,
+  "cached_at": 1754496281216,
   "cache_key": "9d421becdcd5321283ec45f7e49be2bc"
 }

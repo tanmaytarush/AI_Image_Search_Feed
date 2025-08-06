@@ -2,83 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/443/image_cropper_1728580535260.jpg",
   "analysis": {
     "image_id": "img_478",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/443/image_cropper_1728580535260.jpg",
     "ai_generated_tags": {
-      "room": "Living Area",
-      "theme": "Simplistic Indian Contemporary",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Carved wooden elements",
-        "Marble surface"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Carved wooden furniture",
+          "type": "furniture",
           "features": [
-            "Geometric patterns",
-            "Curved edges"
+            "traditional_style"
           ],
           "materials": [
-            "Teak"
+            "wood",
+            "fabric"
           ],
-          "finish": "Natural wood finish"
-        },
-        {
-          "type": "Marble surface",
-          "features": [
-            "Smooth texture",
-            "Polished finish"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "High-gloss"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown",
-          "White",
-          "Black"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Teak",
-          "Marble"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from unseen windows",
-        "texture": "Combination of smooth marble and textured wooden carvings"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but could be from anywhere in India",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Carved wooden elements"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Integration of marble with traditional wood"
+          "contemporary_design"
         ],
-        "space_utilization": "Minimalistic, space is not optimized for storage or furniture arrangement",
-        "cultural_significance": "Traditional carvings hold cultural and aesthetic significance in Indian homes"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image showcases a minimalist living area with a blend of traditional Indian design elements and modern materials. The space features intricately carved wooden furniture with geometric patterns, indicative of classical Indian craftsmanship. The marble surface adds a contemporary touch, contrasting with the natural wood finish. The lighting suggests the room is naturally lit, and the overall atmosphere is one of understated elegance typical in modern Indian interiors.",
-      "metadata": {
-        "tags": [
-          "teak furniture",
-          "marble surface",
-          "Indian interior design",
-          "wooden carvings"
-        ],
-        "budget_indicator": "Mid-range, as marble and teak are quality materials",
-        "space_type": "Living Area",
-        "functionality": "Relaxation and socializing",
-        "indian_specific": "Carved wooden furniture"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1728580535260.jpg"
   },
-  "cached_at": 1753462481834,
+  "cached_at": 1754496689899,
   "cache_key": "05bd552662d152a06dbcd94ebe37bef2"
 }

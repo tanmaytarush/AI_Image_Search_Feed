@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1474/image_cropper_1729781607266.jpg",
+  "analysis": {
+    "image_id": "img_425",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Indian Traditional with Modern Adaptations",
+      "primary_features": [
+        "Wooden wall paneling",
+        "Marble flooring",
+        "Arched window with brass frame",
+        "Teak wood elements"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood wall paneling",
+          "features": [
+            "Carved floral motifs",
+            "Vertical slats"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth and polished"
+        },
+        {
+          "type": "Arched window",
+          "features": [
+            "Brass frame",
+            "Glass panels"
+          ],
+          "materials": [
+            "Brass"
+          ],
+          "finish": "Shiny and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood), White (marble), Gray (concrete)",
+          "Teal (accents)"
+        ],
+        "materials": [
+          "Teak wood, Marble, Concrete, Brass"
+        ],
+        "lighting": "Natural light from the arched window, supplemented by ambient lighting",
+        "texture": "Smooth walls and polished surfaces, natural wood grain, marble tiles"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Teak wood paneling",
+          "Arched window with brass frame",
+          "Carved wooden motifs"
+        ],
+        "modern_adaptations": [
+          "Marble flooring",
+          "Teal accents"
+        ],
+        "space_utilization": "Optimal use of space with reflective surfaces and minimalistic design",
+        "cultural_significance": "The use of teak wood and brass reflects traditional craftsmanship, while the marble and modern accents offer a contemporary touch"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This living room showcases a blend of traditional Indian design elements with modern adaptations. The teak wood paneling with intricate floral carvings and the arched window with a brass frame are quintessential North Indian design features. The marble flooring and the teal accents introduce a contemporary and luxurious element, suggesting a mix of old-world charm and modern sophistication. The overall design emphasizes functionality with optimal space utilization, reflecting a balance between cultural heritage and modern comfort.",
+      "metadata": {
+        "tags": [
+          "Indian Living Room",
+          "Teak Wood Paneling",
+          "Arched Window",
+          "Brass Frame",
+          "Marble Flooring",
+          "North Indian Style",
+          "Traditional Craftsmanship",
+          "Modern Adaptations"
+        ],
+        "budget_indicator": "High-end, utilizing premium materials like marble and teak wood, with a focus on detailed craftsmanship and a modern aesthetic to reflect a luxurious lifestyle",
+        "space_type": "Residential Living Room",
+        "functionality": "Primary purpose is to serve as a comfortable and stylish living space with a focus on aesthetics and functionality",
+        "indian_specific": "The use of teak wood paneling and brass in traditional Indian craftsmanship is a strong indicator of Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1754496390604,
+  "cache_key": "22cdfe4ab6d73ef09236967a61aeb2b6"
+}

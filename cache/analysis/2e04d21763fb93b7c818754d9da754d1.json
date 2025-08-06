@@ -7,82 +7,119 @@
       "theme": "Modern Indian Kitchen",
       "primary_features": [
         "U-shaped cabinetry",
-        "marble countertops",
-        "cabinet handles",
-        "tiled backsplash"
+        "Vanity shelving",
+        "Marble countertops",
+        "Stainless steel sink",
+        "Refrigerator"
       ],
       "objects": [
         {
-          "type": "Kitchen counter",
-          "features": [
-            "black color",
-            "marble texture"
-          ],
-          "materials": [
-            "marble"
-          ],
-          "finish": "shiny"
-        },
-        {
           "type": "Cabinets",
           "features": [
-            "red and white doors",
-            "modular design"
+            "Red and white paneling",
+            "Curved top cabinets with glass panels",
+            "Metallic handles"
           ],
           "materials": [
-            "wood (likely teak or similar)",
-            "plastic laminate"
+            "Red and white panels (likely MDF or HDF)",
+            "Metallic handles"
           ],
-          "finish": "glossy"
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Black marble-like surface"
+          ],
+          "materials": [
+            "Marble or granite look-alike"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Stainless steel sink"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Refrigerator",
+          "features": [
+            "Built-in design"
+          ],
+          "materials": [
+            "Metallic and glass"
+          ],
+          "finish": "Sleek, modern finish"
+        },
+        {
+          "type": "Vanity Shelf",
+          "features": [
+            "Attached to the wall",
+            "Decorative items on it"
+          ],
+          "materials": [
+            "Metallic and glass"
+          ],
+          "finish": "Polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "red",
-          "white",
-          "black",
-          "gray"
+          "Red",
+          "White",
+          "Black",
+          "Silver",
+          "Marble-like gray"
         ],
         "materials": [
-          "marble",
-          "wood",
-          "plastic laminate"
+          "Marble or granite",
+          "Metallic",
+          "Glass",
+          "MDF or HDF"
         ],
-        "lighting": "fluorescent lights",
-        "texture": "smooth"
+        "lighting": "Artificial lighting from ceiling fixtures",
+        "texture": "Smooth and glossy surfaces"
       },
       "indian_context": {
-        "regional_style": "Southern Indian",
-        "traditional_elements": [],
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Curved top cabinets with glass panels"
+        ],
         "modern_adaptations": [
-          "use of marble, modern modular design"
+          "U-shaped cabinetry",
+          "Use of modern materials like stainless steel and marble"
         ],
-        "space_utilization": "efficient use of corner space, open layout",
-        "cultural_significance": "Modern kitchen design in a culturally significant region, reflecting a contemporary approach"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "A modern Indian kitchen with U-shaped cabinetry in red and white, marble countertops, and a tiled backsplash. The design reflects a contemporary approach with a Southern Indian influence, utilizing materials and finishes typical of modern Indian interiors. The kitchen is well-organized, maximizing space and functionality.",
-      "metadata": {
-        "tags": [
-          "Indian Kitchen",
-          "Modern Design",
-          "Southern Style",
-          "U-shaped Layout",
-          "Marble Countertops"
-        ],
-        "budget_indicator": "Moderate",
-        "space_type": "Residential Kitchen",
-        "functionality": "Cooking and food preparation",
-        "indian_specific": "Use of modern materials in a traditional style"
+        "space_utilization": "Efficient use of space with L-shaped cabinets and built-in refrigerator",
+        "cultural_significance": "The use of vibrant colors like red is common in Indian interiors to bring warmth and vibrancy"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian kitchen features U-shaped cabinetry with red and white paneling, metallic handles, and curved top cabinets with glass panels. The space includes a sleek, stainless steel sink, a black marble-like countertop, and a built-in refrigerator. The design utilizes space efficiently with built-in storage solutions and incorporates contemporary elements, such as the use of stainless steel and glossy finishes, while still maintaining a touch of traditional Indian design through the color scheme and cabinet shapes.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Kitchen",
+        "Red and White Cabinets",
+        "Marble Countertop",
+        "U-shaped Cabinets",
+        "Built-in Refrigerator"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential Kitchen",
+      "functionality": "Storage, Cooking, Dining",
+      "indian_specific": "Vibrant red color, curved top cabinets with glass panels"
     }
   },
-  "cached_at": 1753878039370,
+  "cached_at": 1754489926328,
   "cache_key": "2e04d21763fb93b7c818754d9da754d1"
 }

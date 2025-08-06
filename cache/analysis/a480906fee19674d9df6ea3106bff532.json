@@ -3,102 +3,85 @@
   "analysis": {
     "image_id": "img_197",
     "ai_generated_tags": {
-      "room": "Living room",
-      "theme": "Modern Indian",
+      "room": "Hospital corridor",
+      "theme": "Modern Indian Medical Center",
       "primary_features": [
-        "Carpet",
-        "Furniture",
-        "Wall decor"
+        "Green and white color scheme",
+        "Specialized medical signage",
+        "Hospital beds in the distance"
       ],
       "objects": [
         {
-          "type": "Carpet",
+          "type": "Hospital bed",
           "features": [
-            "Patterned",
-            "Colorful",
-            "Textured"
+            "Wheeled, modern design",
+            "Integrated side table"
           ],
           "materials": [
-            "Polyester"
+            "Metal frame",
+            "Fabric upholstery"
           ],
-          "finish": "Smooth"
+          "finish": "Metallic and smooth fabric"
         },
         {
-          "type": "Furniture",
+          "type": "Medical signage",
           "features": [
-            "Contemporary design",
-            "Sleek",
-            "Wooden"
+            "Directional and informative text",
+            "Bright green color"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "Metal frame",
+            "Printed paper or plastic"
           ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Wall decor",
-          "features": [
-            "Painted panels",
-            "Geometric designs",
-            "Textured"
-          ],
-          "materials": [
-            "Paint",
-            "Wood"
-          ],
-          "finish": "Satin"
+          "finish": "Metallic and glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Green",
           "White",
-          "Beige"
+          "Black text"
         ],
         "materials": [
-          "Wood",
           "Metal",
-          "Paint"
+          "Fabric",
+          "Paper or plastic"
         ],
-        "lighting": "Natural light from windows",
-        "texture": "Variety of textures including smooth, glossy, and textured surfaces"
+        "lighting": "Bright and evenly lit",
+        "texture": "Smooth metallic, fabric, and printed surfaces"
       },
       "indian_context": {
-        "regional_style": "Northern Indian",
+        "regional_style": "Not applicable to Indian regional styles",
         "traditional_elements": [
-          "Carpet",
-          "Wooden furniture"
+          "Not applicable to Indian traditional elements"
         ],
         "modern_adaptations": [
-          "Contemporary design with traditional materials"
+          "Modern adaptation of typical Indian medical center designs"
         ],
-        "space_utilization": "Open and spacious with minimal furniture placement",
-        "cultural_significance": "The use of green symbolizes good fortune and prosperity in Indian culture"
+        "space_utilization": "Efficient use of space with beds placed for patient care",
+        "cultural_significance": "Cultural relevance is minimal due to the modern medical setting"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern Indian medical center corridor featuring a green and white color scheme. The space includes specialized medical signage, hospital beds with integrated side tables, and a clean, efficiently utilized layout designed for patient care.",
+      "metadata": {
+        "tags": [
+          "Hospital corridor",
+          "Medical center",
+          "Green and white interior"
+        ],
+        "budget_indicator": "Moderate to high, due to specialized medical equipment and professional finishes",
+        "space_type": "Residential healthcare facility",
+        "functionality": "Primary purpose is to provide patient care and medical services",
+        "indian_specific": "Modern adaptations of typical Indian medical facility design elements"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "This modern Indian living room features a combination of traditional elements and contemporary design. The use of a patterned carpet and wooden furniture with glossy finishes is typical of Northern Indian design. The green and white color palette, along with the geometric wall decor, adds a fresh and vibrant touch to the space. The open layout and minimal furniture placement highlight a modern interpretation of traditional space utilization.",
-    "metadata": {
-      "tags": [
-        "Modern Indian",
-        "Northern Indian",
-        "Contemporary design",
-        "Carpet",
-        "Wooden furniture"
-      ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Living space",
-      "indian_specific": "Carpet, Wooden furniture, Green color"
     }
   },
-  "cached_at": 1753449863178,
+  "cached_at": 1754492939048,
   "cache_key": "a480906fee19674d9df6ea3106bff532"
 }

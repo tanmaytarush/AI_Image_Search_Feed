@@ -4,82 +4,91 @@
     "image_id": "img_420",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern",
+      "theme": "Modern Indian Kitchen",
       "primary_features": [
-        "L-shaped countertop",
-        "red and white cabinets",
-        "engineered stone countertops"
+        "Cupboards",
+        "Countertop",
+        "Sink",
+        "Backsplash"
       ],
       "objects": [
         {
-          "type": "countertop",
+          "type": "Cupboard",
           "features": [
-            "L-shaped design",
-            "engineered stone material"
+            "Red and white color scheme",
+            "Shiny surface finish",
+            "U-shaped design"
           ],
           "materials": [
-            "Engineered stone"
+            "Plastic or MDF"
           ],
-          "finish": "Smooth and shiny finish"
+          "finish": "High-gloss"
         },
         {
-          "type": "cabinets",
+          "type": "Countertop",
           "features": [
-            "L-shaped arrangement",
-            "red and white color scheme"
+            "Integrated sink"
           ],
           "materials": [
-            "Wooden base, engineered stone countertops"
+            "Granite or Quartz"
           ],
-          "finish": "Matte and glossy finishes"
+          "finish": "Smooth"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Colorful tiles with a red and white pattern"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Textured"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Red",
           "White",
-          "Orange"
+          "Multicolored tiles"
         ],
         "materials": [
-          "Wood",
-          "Engineered stone",
-          "Metal"
+          "Plastic/MDF, Granite/Quartz, Ceramic tiles"
         ],
-        "lighting": "Artificial lighting with overhead lights",
-        "texture": "Smooth surfaces and glossy finishes"
+        "lighting": "Bright ambient lighting",
+        "texture": "Shiny cupboards, smooth countertop, textured backsplash tiles"
       },
       "indian_context": {
-        "regional_style": "No specific regional style visible",
+        "regional_style": "No specific regional style evident due to modern approach",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Modern L-shaped kitchen design, use of engineered stone"
+          "Modern Indian kitchen design with a contemporary color scheme"
         ],
-        "space_utilization": "Efficient use of space with L-shaped layout",
-        "cultural_significance": "No culturally significant elements observed"
-      },
-      "confidence_scores": {
-        "room": 0.8,
-        "theme": 0.9,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.7
-      },
-      "description": "The image showcases a modern kitchen with a L-shaped countertop and cabinets. The kitchen features a red and white color scheme, with engineered stone countertops and glossy finishes. The overall design is contemporary and efficient, devoid of any traditional Indian architectural elements.",
-      "metadata": {
-        "tags": [
-          "Kitchen",
-          "Modern",
-          "Red and white",
-          "Engineered stone",
-          "L-shaped design"
-        ],
-        "budget_indicator": "Moderate to high, due to the use of engineered stone and glossy finishes.",
-        "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is for food preparation and storage.",
-        "indian_specific": "No Indian-specific design features visible."
+        "space_utilization": "Efficient use of space with an L-shaped layout",
+        "cultural_significance": "No culturally significant elements present in the design"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern kitchen with a vibrant red and white color scheme. The kitchen features U-shaped cupboards with a high-gloss finish, a smooth countertop with an integrated sink, and a backsplash made up of colorful ceramic tiles. The design aligns with contemporary Indian kitchen trends, focusing on clean lines, efficient space utilization, and a bright, cheerful aesthetic.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Kitchen",
+        "Red and White Kitchen",
+        "U-shaped Cabinets",
+        "Granite Countertop",
+        "Ceramic Backsplash"
+      ],
+      "budget_indicator": "Moderate to high, due to the use of polished materials and a glossy finish",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is for food preparation and storage",
+      "indian_specific": "The image showcases a modern interpretation of Indian kitchen design, emphasizing minimalism and a bright color palette"
     }
   },
-  "cached_at": 1753461674348,
+  "cached_at": 1754496353666,
   "cache_key": "64326087b62046e8ed39c7f567e20a9e"
 }

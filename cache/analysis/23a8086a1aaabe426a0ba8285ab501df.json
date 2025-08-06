@@ -6,64 +6,70 @@
       "room": "Kitchen",
       "theme": "Modern Indian",
       "primary_features": [
-        "Wooden cabinetry",
-        "Black countertop",
-        "White backsplash tiles",
-        "Wooden flooring"
+        "Built-in cabinets",
+        "Sink",
+        "Wall tiles"
       ],
       "objects": [
         {
-          "type": "Kitchen Cabinets",
+          "type": "Built-in cabinets",
           "features": [
-            "Wooden finish with a glossy texture",
-            "Built-in storage space"
+            "Wooden finish",
+            "Cylindrical handles"
           ],
           "materials": [
-            "Teak wood"
+            "Wood",
+            "Metal"
           ],
-          "finish": "Glossy wood finish"
+          "finish": "Brushed wood finish"
         },
         {
-          "type": "Countertop",
+          "type": "Sink",
           "features": [
-            "Black material, possibly granite or quartz"
+            "Black surface",
+            "Modern design"
           ],
           "materials": [
-            "Granite or Quartz"
+            "Metal"
           ],
-          "finish": "Smooth, polished surface"
+          "finish": "Black"
         },
         {
-          "type": "Backsplash Tiles",
+          "type": "Wall tiles",
           "features": [
-            "White, rectangular tiles with a glossy finish"
+            "Rectangular pattern",
+            "White color"
           ],
           "materials": [
-            "Ceramic or glass"
+            "Ceramic"
           ],
-          "finish": "Glossy"
+          "finish": "Smooth"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown, Black, White"
+          "Brown",
+          "Black",
+          "White"
         ],
         "materials": [
-          "Wood, Granite, Ceramic"
+          "Wood",
+          "Metal",
+          "Ceramic"
         ],
-        "lighting": "Lighting appears to be artificial, possibly from under-cabinet lights",
-        "texture": "Smooth surfaces with a focus on glossy finishes"
+        "lighting": "Minimal lighting with recessed lights",
+        "texture": "Smooth finishes with some carved wooden elements"
       },
       "indian_context": {
         "regional_style": "Southern Indian",
         "traditional_elements": [
-          "Presence of wooden elements suggesting a traditional approach"
+          "Wooden cabinets"
         ],
         "modern_adaptations": [
-          "Modern cabinetry design and smooth surfaces reflecting contemporary trends"
+          "Modern sink and wall tiles"
         ],
-        "space_utilization": "Efficient use of space with built-in cabinets for storage",
-        "cultural_significance": "The use of wood and the overall design reflects the southern Indian inclination towards natural and warm tones, often seen in homes and kitchens."
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Emphasis on functionality and durability with a modern twist"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -72,22 +78,23 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image depicts a modern Indian kitchen with a focus on natural wood finishes and sleek, contemporary design elements. The use of teak wood for the cabinetry adds a touch of traditional warmth, while the black countertops and white tiles provide a clean and modern contrast. The space is well-organized, with built-in storage solutions, reflecting a practical and efficient approach to interior design.",
+      "description": "The image depicts a modern kitchen designed with a blend of traditional and contemporary elements. The space features built-in wooden cabinets with a brushed finish, adhering to Southern Indian regional style, while incorporating a modern sink and white wall tiles. The design emphasizes functionality with efficient space utilization, blending traditional wooden materials with modern fixtures and materials.",
       "metadata": {
         "tags": [
           "Modern Indian",
-          "Kitchen Design",
-          "Teak Wood",
-          "White Tiles",
-          "Black Countertop"
+          "Southern Indian",
+          "Kitchen",
+          "Built-in cabinets",
+          "Wall tiles",
+          "Wooden finish"
         ],
-        "budget_indicator": "Mid-range, with a focus on quality materials like teak and granite",
-        "space_type": "Residential Kitchen",
-        "functionality": "Primary purpose is for cooking and food preparation",
-        "indian_specific": "Use of natural materials and a blend of traditional and modern design elements"
+        "budget_indicator": "Moderate",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose for food preparation and storage",
+        "indian_specific": "Traditional wooden elements with modern adaptations"
       }
     }
   },
-  "cached_at": 1753459081655,
+  "cached_at": 1754492695909,
   "cache_key": "23a8086a1aaabe426a0ba8285ab501df"
 }

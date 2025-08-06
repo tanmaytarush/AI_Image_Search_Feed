@@ -4,66 +4,87 @@
     "image_id": "img_313",
     "ai_generated_tags": {
       "room": "Bathroom",
-      "theme": "Minimalist",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Marble tiles",
-        "White wall"
+        "Bathtub",
+        "Ceramic tiles",
+        "Walls"
       ],
       "objects": [
         {
-          "type": "Shelf",
+          "type": "Bathtub",
           "features": [
-            "Rectangular",
-            "Installed on wall"
+            "Built-in, modern design"
+          ],
+          "materials": [
+            "Porcelain or ceramic"
+          ],
+          "finish": "Smooth and shiny"
+        },
+        {
+          "type": "Ceramic tiles",
+          "features": [
+            "Marble-looking tiles with white and gray patterns"
           ],
           "materials": [
             "Ceramic"
           ],
-          "finish": "Smooth"
+          "finish": "Polished"
+        },
+        {
+          "type": "Walls",
+          "features": [
+            "Painted in a light color with a subtle texture"
+          ],
+          "materials": [
+            "Paint"
+          ],
+          "finish": "Flat and smooth"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Marble gray"
+          "Gray",
+          "Light yellow"
         ],
         "materials": [
-          "Marble",
-          "Ceramic"
+          "Porcelain",
+          "Ceramic",
+          "Paint"
         ],
-        "lighting": "Natural light",
-        "texture": "Smooth"
+        "lighting": "Natural lighting from an unseen source",
+        "texture": "Tiles have a smooth, glossy texture; walls are painted with a matte finish"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "Not applicable (modern Indian theme)",
         "traditional_elements": [],
         "modern_adaptations": [],
-        "space_utilization": "Minimalist, no visible storage solutions",
-        "cultural_significance": "No culturally significant elements observed"
+        "space_utilization": "Efficient use of space with built-in bathtub",
+        "cultural_significance": "No culturally significant elements present"
       },
       "confidence_scores": {
-        "room": 0.75,
-        "theme": 0.7,
-        "primary_features": 0.8,
+        "room": 0.85,
+        "theme": 0.9,
+        "primary_features": 0.85,
         "objects": 0.9,
-        "indian_context": 0.4
+        "indian_context": 0.75
       },
-      "description": "The image depicts a minimalist bathroom with a marble-tiled wall and a white wall with a rectangular ceramic shelf installed. The design is simple and functional with a focus on minimalism. There are no visible Indian design elements or cultural decorations present.",
+      "description": "The image depicts a modern Indian bathroom design featuring a built-in bathtub with ceramic tiles that mimic the appearance of marble, set against walls painted in a light color with a subtle texture. The overall design is clean and contemporary, lacking any distinctly Indian traditional elements.",
       "metadata": {
         "tags": [
+          "Modern Indian",
           "Bathroom",
-          "Minimalist",
-          "Marble",
-          "White",
-          "Ceramic"
+          "Ceramic tiles",
+          "Bathtub"
         ],
-        "budget_indicator": "Moderate, due to the use of marble tiles and ceramic shelf",
-        "space_type": "Bathroom",
-        "functionality": "Storage and display",
-        "indian_specific": []
+        "budget_indicator": "Moderate, as the materials appear to be high-quality ceramics and porcelain",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is for bathing and personal hygiene",
+        "indian_specific": "None"
       }
     }
   },
-  "cached_at": 1753460314011,
+  "cached_at": 1754495204244,
   "cache_key": "424562e06bdaf27a106aa8a3e6320f79"
 }

@@ -2,93 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/975/image_cropper_1729409250434.jpg",
   "analysis": {
     "image_id": "img_421",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/975/image_cropper_1729409250434.jpg",
     "ai_generated_tags": {
-      "room": "Office",
-      "theme": "Modern",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Green marble desk",
-        "Wooden chairs",
-        "Computer monitors"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Desk",
+          "type": "furniture",
           "features": [
-            "Green marble top",
-            "Wooden frame",
-            "Integrated drawers"
+            "traditional_style"
           ],
           "materials": [
-            "Marble, Wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "High gloss finish"
-        },
-        {
-          "type": "Chair",
-          "features": [
-            "Wooden construction",
-            "Brown upholstery"
-          ],
-          "materials": [
-            "Wood, Fabric"
-          ],
-          "finish": "Natural wood finish, fabric upholstery"
-        },
-        {
-          "type": "Monitor",
-          "features": [
-            "Computer monitors placed on the desk"
-          ],
-          "materials": [
-            "Plastic, glass"
-          ],
-          "finish": "Standard computer monitor finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Green, Brown, White, Black"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Marble, Wood, Plastic, Fabric"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Artificial lighting, likely from overhead fixtures",
-        "texture": "Smooth marble, natural wood grain, fabric upholstery, flat computer screens"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "No specific regional Indian style evident",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "No traditional Indian elements visible"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Modern materials and design with no traditional Indian elements"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient space usage with desk and chairs arranged for work",
-        "cultural_significance": "No culturally significant elements"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.85
-      },
-      "description": "The image depicts a modern office space with a green marble desk and wooden chairs. The design is minimalistic with no Indian-specific elements, focusing on functionality and contemporary aesthetics. The lighting appears to be artificial, likely from overhead fixtures, and the space is organized for work purposes.",
-      "metadata": {
-        "tags": [
-          "Office",
-          "Modern",
-          "Green Desk",
-          "Wooden Chairs",
-          "Computer Monitors"
-        ],
-        "budget_indicator": "Moderate, with use of materials like marble and wood",
-        "space_type": "Residential Office",
-        "functionality": "Workstation for office personnel",
-        "indian_specific": "No Indian-specific design features"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729409250434.jpg"
   },
-  "cached_at": 1753461688359,
+  "cached_at": 1754496359784,
   "cache_key": "d05789f3b476a4be50df4d44c25bdc0c"
 }

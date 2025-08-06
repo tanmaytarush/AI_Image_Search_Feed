@@ -2,87 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1707/insta_assets_crop_eb1ca908-273f-4231-8067-e60cd0ac285e3208393112771921132.jpg",
   "analysis": {
     "image_id": "img_438",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1707/insta_assets_crop_eb1ca908-273f-4231-8067-e60cd0ac285e3208393112771921132.jpg",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modern Indian Kitchen with Contemporary Elements",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Modern cabinets with teal finish",
-        "Backsplash with yellow stone tiles",
-        "Stainless steel appliances"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Cabinet",
+          "type": "furniture",
           "features": [
-            "Teal finish",
-            "Modern design with sleek lines"
+            "traditional_style"
           ],
           "materials": [
-            "Teak or similar wood for inner lining",
-            "Painted exterior for teal finish"
+            "wood",
+            "fabric"
           ],
-          "finish": "Teal painted finish with wood texture"
-        },
-        {
-          "type": "Backsplash",
-          "features": [
-            "Yellow stone tiles",
-            "Geometric pattern"
-          ],
-          "materials": [
-            "Natural stone tiles"
-          ],
-          "finish": "Polished stone finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Teal",
-          "Yellow",
-          "White",
-          "Black"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Teak or wood",
-          "Painted finish",
-          "Yellow stone tiles",
-          "Metal"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from window and artificial light from ceiling fixtures",
-        "texture": "Smooth paint finish on cabinets, polished stone on backsplash, shiny metal appliance surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable - modern interpretation",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Use of modern materials like stone and metal in traditional kitchen design"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with cabinets for storage and open area for working",
-        "cultural_significance": "Modern adaptation of Indian kitchen design principles with contemporary materials and aesthetics"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image depicts a modern Indian kitchen with a contemporary design approach. The space features teal painted cabinets with a wood-like inner lining, yellow stone tiles with a geometric pattern for the backsplash, and stainless steel appliances. The design combines traditional Indian kitchen aesthetics with modern materials and finishes, reflecting a contemporary interpretation of Indian design principles. The space is well-organized with efficient storage solutions and a clean, polished aesthetic.",
-      "metadata": {
-        "tags": [
-          "Indian Kitchen",
-          "Modern Design",
-          "Teal Cabinets",
-          "Yellow Stone Tiles",
-          "Stainless Steel Appliances"
-        ],
-        "budget_indicator": "Moderate to High - due to use of modern materials like stone and metal",
-        "space_type": "Residential kitchen",
-        "functionality": "Primary purpose is for food preparation and storage",
-        "indian_specific": "Contemporary adaptation of traditional Indian kitchen design elements"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "insta_assets_crop_eb1ca908-273f-4231-8067-e60cd0ac285e3208393112771921132.jpg"
   },
-  "cached_at": 1753462065403,
+  "cached_at": 1754496451228,
   "cache_key": "adf87c81910b89b95a2014cd97080a96"
 }

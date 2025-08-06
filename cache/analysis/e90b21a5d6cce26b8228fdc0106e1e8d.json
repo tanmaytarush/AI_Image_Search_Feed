@@ -3,95 +3,96 @@
   "analysis": {
     "image_id": "img_227",
     "ai_generated_tags": {
-      "room": "Foyer / Entrance Hall",
+      "room": "Entryway",
       "theme": "Contemporary with Indian Influences",
       "primary_features": [
-        "Crown molding",
-        "Wooden paneling",
-        "Sliding glass door"
+        "Carved wooden paneling",
+        "Decorative metal accents",
+        "Modern lighting fixtures"
       ],
       "objects": [
         {
-          "type": "Crown molding",
+          "type": "Carved wooden paneling",
           "features": [
-            "Decorative paneling with golden accents"
+            "Rounded edges",
+            "Cascading floral patterns"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "Teak wood"
           ],
-          "finish": "Gold leaf finish"
+          "finish": "Polished"
         },
         {
-          "type": "Wooden paneling",
+          "type": "Decorative metal accents",
           "features": [
-            "Vertical wooden slats"
+            "Gold-colored finish",
+            "Linear designs"
           ],
           "materials": [
-            "Teak"
+            "Copper or brass"
           ],
-          "finish": "Smooth, polished"
+          "finish": "Brushed"
         },
         {
-          "type": "Sliding glass door",
+          "type": "Modern lighting fixtures",
           "features": [
-            "Modern glass door with sleek frame"
+            "Sleek design",
+            "Minimalist style"
           ],
           "materials": [
-            "Glass",
             "Metal"
           ],
-          "finish": "Clear glass with metallic hardware"
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
           "Gold",
-          "Brown"
+          "Black"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Glass"
+          "Teak wood",
+          "Copper/brass",
+          "Metal"
         ],
-        "lighting": "Natural light coming through the glass door, supplemented by recessed lighting in the ceiling",
-        "texture": "Smooth wood paneling, glossy gold accents, reflective glass"
+        "lighting": "Bright, evenly distributed artificial lighting",
+        "texture": "Smooth surfaces with intricate carvings"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but utilizes some common architectural features",
+        "regional_style": "Regional variations in design approach may be present, but not specific regional style evident",
         "traditional_elements": [
-          "Gold leafing for ornamental purposes"
+          "Carved wooden paneling"
         ],
         "modern_adaptations": [
-          "Sliding glass door, contemporary crown molding"
+          "Metal accents, modern lighting"
         ],
-        "space_utilization": "The space is designed for a transitional area, likely leading to other rooms. The placement of the sliding glass door suggests it might be an entrance or a space where one can choose to open it for ventilation or to change the flow of the room",
-        "cultural_significance": "The use of gold leafing is significant in Indian design, often associated with prosperity and good fortune. The ornate crown molding adds a touch of luxury and traditional craftsmanship"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern foyer hall with a blend of contemporary and traditional Indian design elements. The use of gold leafing on the crown molding and the vertical wooden paneling in teak are hallmark features of Indian interior design. The sliding glass door is a modern adaptation, suggesting a preference for natural light and an open, airy feel. The overall design is aimed at creating a welcoming entrance while maintaining a luxurious and traditional aesthetic.",
-      "metadata": {
-        "tags": [
-          "Indian interior design",
-          "Contemporary",
-          "Gold leaf",
-          "Teak paneling",
-          "Sliding glass door"
-        ],
-        "budget_indicator": "Moderate to high, due to the use of materials like teak wood and gold leafing",
-        "space_type": "Residential",
-        "functionality": "Entrance/Transitional space",
-        "indian_specific": "Gold leafing, teak wood paneling"
+        "space_utilization": "Functionally organized, space is maximized by incorporating decorative elements",
+        "cultural_significance": "Decorative elements reflect traditional craftsmanship, although the overall aesthetic is modernized"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases an entryway with a contemporary design that incorporates traditional Indian elements. The carved wooden paneling features intricate floral patterns, reflecting skilled craftsmanship. Metal accents, including gold-colored linear designs, add a modern touch. The clean, minimalist lighting complements the sleek, polished surfaces of the space. The overall design highlights the fusion of traditional Indian aesthetics with contemporary styling, creating a sophisticated and welcoming atmosphere.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Contemporary",
+        "Carved wood",
+        "Metal accents",
+        "Entryway"
+      ],
+      "budget_indicator": "Moderate, with a mix of traditional materials and modern finishes",
+      "space_type": "Residential",
+      "functionality": "The primary purpose is to create a striking first impression as visitors enter the home, with a focus on space optimization",
+      "indian_specific": "Traditional carved paneling is a key Indian design feature, while the use of metal and modern lighting is a modern adaptation"
     }
   },
-  "cached_at": 1753459458508,
+  "cached_at": 1754493455703,
   "cache_key": "e90b21a5d6cce26b8228fdc0106e1e8d"
 }

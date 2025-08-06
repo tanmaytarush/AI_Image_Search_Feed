@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/945/image_cropper_1729360146740.jpg",
+  "analysis": {
+    "image_id": "img_337",
+    "ai_generated_tags": {
+      "room": "Lobby or entrance hall",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden paneling",
+        "geometric patterns",
+        "modern lighting fixtures"
+      ],
+      "objects": [
+        {
+          "type": "Wooden Panel with Geometric Patterns",
+          "features": [
+            "Rectangular panels with colorful geometric designs"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth and polished finish"
+        },
+        {
+          "type": "Modern Lighting Fixture",
+          "features": [
+            "Angular, contemporary design with white finish"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Blue",
+          "Green",
+          "Peach"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Plastic"
+        ],
+        "lighting": "Artificial lighting from ceiling fixtures",
+        "texture": "Smooth surfaces with geometric patterns"
+      },
+      "indian_context": {
+        "regional_style": "Not distinct, but could be influenced by urban Indian design",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of modern materials and shapes in traditional design elements"
+        ],
+        "space_utilization": "Open and spacious, designed for reception or functional purposes",
+        "cultural_significance": "Minimal cultural significance as it leans towards a modern aesthetic"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.7
+      },
+      "description": "The image showcases a contemporary Indian interior, likely a lobby or entrance hall. It features wooden panels with colorful geometric patterns, indicative of modern interpretations of traditional Indian design. The space is illuminated by modern lighting fixtures, and the overall design is clean and spacious, with a focus on functionality and aesthetic appeal. The use of wood and the geometric patterns are typical of Indian design, but the overall style leans more towards a modern aesthetic.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Geometric Patterns",
+          "Wooden Paneling",
+          "Modern Lighting",
+          "Urban Design"
+        ],
+        "budget_indicator": "Moderate to High, given the use of polished materials and modern fixtures",
+        "space_type": "Lobby or Entrance Hall",
+        "functionality": "Reception or Functional Space",
+        "indian_specific": "Modern adaptation of traditional Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1754495494384,
+  "cache_key": "e9e05c5079d6385240db0e8c55ad32b0"
+}

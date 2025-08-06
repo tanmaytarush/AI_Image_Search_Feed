@@ -4,89 +4,92 @@
     "image_id": "img_160",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Minimalist",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Modern furniture",
-        "Built-in shelving",
-        "Flat-screen TV"
+        "Built-in shelves",
+        "Large television unit",
+        "Cabinet doors with a glossy finish"
       ],
       "objects": [
         {
-          "type": "Built-in shelving",
+          "type": "Built-in shelves",
           "features": [
-            "Rectangular shelves",
-            "Integrated lighting",
-            "White finish"
+            "Multi-tiered",
+            "Integral design with the wall"
           ],
           "materials": [
-            "MDF",
-            "Acrylic"
+            "Painted wood or MDF"
           ],
-          "finish": "Glossy white"
+          "finish": "Glossy"
         },
         {
-          "type": "Modern furniture",
+          "type": "Large television unit",
           "features": [
-            "Sleek design",
-            "Geometric shapes",
-            "Light gray upholstery"
+            "Integrated design with shelves"
           ],
           "materials": [
-            "Fabric",
-            "Metal"
+            "Painted wood or MDF"
           ],
-          "finish": "Soft touch upholstery, metallic accents"
+          "finish": "Glossy"
+        },
+        {
+          "type": "Cabinet doors",
+          "features": [
+            "Rectangular panels",
+            "Glossy finish"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Glossy"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Gray",
-          "Light brown (wall paint)"
+          "Beige",
+          "Black",
+          "Gold"
         ],
         "materials": [
-          "MDF",
-          "Acrylic",
-          "Metal",
-          "Fabric"
+          "Painted wood or MDF",
+          "Glass"
         ],
-        "lighting": "Ambient lighting from built-in shelving",
-        "texture": "Smooth surfaces with some tactile elements"
+        "lighting": "Natural light from the left side",
+        "texture": "Glossy finish on the furniture"
       },
       "indian_context": {
-        "regional_style": "No specific regional style",
-        "traditional_elements": [
-          "No traditional Indian elements"
-        ],
+        "regional_style": "Not specifically identifiable",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist adaptation of traditional storage solutions"
+          "Integration of traditional Indian design elements like symmetry and harmony with modern finishes"
         ],
-        "space_utilization": "Efficient use of space with integrated furniture",
-        "cultural_significance": "Cultural significance not applicable to minimalist design"
+        "space_utilization": "Efficient use of space with a built-in television unit and shelving",
+        "cultural_significance": "The design reflects a blend of modernity and traditional aesthetics, common in contemporary Indian homes"
       },
       "confidence_scores": {
-        "room": 0.75,
-        "theme": 0.85,
-        "primary_features": 0.8,
-        "objects": 0.85,
-        "indian_context": 0.65
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
       },
-      "description": "The image showcases a modern living room with a minimalist design, featuring sleek built-in shelving for storage and a contemporary side table with a light gray upholstered seat and metallic legs. The color palette is dominated by white and light gray, with a touch of light brown on the walls. The design emphasizes clean lines, smooth textures, and integrated lighting from the shelving unit, reflecting a contemporary aesthetic.",
+      "description": "The image depicts a modern Indian living room with a blend of traditional and contemporary elements. The built-in shelves and large television unit integrate seamlessly with the wall, indicating a focus on space optimization. The glossy finish of the furniture and the use of white, beige, black, and gold colors give the room a sophisticated and elegant appearance, reflecting a modern approach to Indian design. The natural light from the left side enhances the room's brightness and warmth.",
       "metadata": {
         "tags": [
-          "Minimalist",
+          "Modern Indian Design",
           "Living Room",
-          "Modern",
-          "Integrated Storage",
-          "Lighting"
+          "Built-in Shelves",
+          "Glossy Finish",
+          "Contemporary Indian"
         ],
-        "budget_indicator": "Moderate to high, due to use of materials like MDF, acrylic, and upholstered furniture.",
-        "space_type": "Residential",
-        "functionality": "Entertainment, relaxation, and storage",
-        "indian_specific": "No Indian-specific design features present."
+        "budget_indicator": "Moderate",
+        "space_type": "Residential Living Room",
+        "functionality": "Entertainment and storage",
+        "indian_specific": "Glossy finish and use of neutral colors typical in Indian interiors"
       }
     }
   },
-  "cached_at": 1753449432721,
+  "cached_at": 1754492157254,
   "cache_key": "bcefaab4924234a56730eed699aa3595"
 }

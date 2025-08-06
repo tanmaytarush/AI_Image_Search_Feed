@@ -3,72 +3,81 @@
   "analysis": {
     "image_id": "img_122",
     "ai_generated_tags": {
-      "room": "Temple room",
-      "theme": "Sikh Gurdwara",
+      "room": "Temple",
+      "theme": "Hindu Temple Interior",
       "primary_features": [
-        "Door with intricate carvings",
-        "Wooden paneling",
-        "Light fixture with traditional design"
+        "Carved wooden structure",
+        "Glass display cases",
+        "Wall-mounted lamps",
+        "Wooden floor"
       ],
       "objects": [
         {
-          "type": "Door",
+          "type": "Carved Wooden Structure",
           "features": [
-            "Intricate carvings",
-            "Wooden texture"
+            "Detailed carvings",
+            "Architectural style"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Highly polished"
+          "finish": "Polished surface"
         },
         {
-          "type": "Paneling",
+          "type": "Glass Display Cases",
           "features": [
-            "Wooden texture",
-            "Vertical slats"
+            "Rectangular shape",
+            "Translucent glass"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Smooth, transparent"
+        },
+        {
+          "type": "Wooden Floor",
+          "features": [
+            "Framed design",
+            "Hardwood texture"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Unfinished"
+          "finish": "Natural, polished"
         },
         {
-          "type": "Light fixture",
+          "type": "Wall-Mounted Lamps",
           "features": [
-            "Traditional design",
-            "Metal construction"
+            "Simple design",
+            "Wall-mounted"
           ],
           "materials": [
             "Metal"
           ],
-          "finish": "Painted"
+          "finish": "Metallic, polished"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown",
-          "White",
-          "Gold"
+          "Brown, white, and beige"
         ],
         "materials": [
-          "Wood",
-          "Metal"
+          "Wood, glass, metal"
         ],
-        "lighting": "Natural light through a window",
-        "texture": "Smooth wood surface, detailed metal carving"
+        "lighting": "Natural light coming from a window or skylight",
+        "texture": "Smooth, polished surfaces with intricate wooden carvings"
       },
       "indian_context": {
         "regional_style": "North Indian",
         "traditional_elements": [
-          "Carved wooden door",
-          "Traditional light fixture"
+          "Carved wooden structure",
+          "Glass display cases"
         ],
         "modern_adaptations": [
-          "Updated lighting fixtures"
+          "Integration of modern lighting and display cases"
         ],
-        "space_utilization": "Efficient use of vertical space",
-        "cultural_significance": "Cultural and religious significance of the space as a place of worship"
+        "space_utilization": "Efficient use of space with a focus on display and reverence",
+        "cultural_significance": "Represents a place of worship and cultural heritage, emphasizing devotion and tradition"
       }
     },
     "confidence_scores": {
@@ -78,21 +87,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image depicts a traditional North Indian temple room, specifically resembling a Sikh Gurdwara. The room features a intricately carved wooden door as the focal point, with additional wooden paneling and a traditional light fixture that incorporates both wood and metal materials. The color palette is dominated by brown wood tones, white walls, and gold accents, typical of Indian design elements. The space is well利用, with vertical space being emphasized through the use of paneling and the placement of the light fixture.",
+    "description": "The interior space is designed as a temple, showcasing a blend of traditional and modern elements. The carved wooden structure is a prominent feature, reflecting intricate North Indian architectural styles. Glass display cases add a contemporary touch, likely used for preserving and showcasing religious artifacts. Wall-mounted lamps provide a subtle yet functional lighting solution, enhancing the sacred ambiance. The overall space is organized to maximize reverence and display, aligning with cultural and religious practices.",
     "metadata": {
       "tags": [
-        "Sikh Gurdwara",
-        "North Indian",
-        "Temple",
-        "Wooden Carving",
-        "Traditional Design"
+        "Hindu Temple",
+        "North Indian Architecture",
+        "Traditional Carvings",
+        "Glass Display Cases",
+        "Wall-Mounted Lamps"
       ],
-      "budget_indicator": "Moderate",
-      "space_type": "Religious and Worship Space",
-      "functionality": "Worship and prayer space",
-      "indian_specific": "Traditional wood carvings and paneling"
+      "budget_indicator": "Moderate to High, due to the use of high-quality materials and craftsmanship",
+      "space_type": "Religious Space",
+      "functionality": "Primary purpose is for religious worship and display of cultural artifacts",
+      "indian_specific": "Traditional wooden carvings and religious display elements are central to the design"
     }
   },
-  "cached_at": 1753458200118,
+  "cached_at": 1754491395586,
   "cache_key": "2bab6c9d4d0709049b94f5bd8010fec9"
 }

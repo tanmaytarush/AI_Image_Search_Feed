@@ -2,95 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/224/image_cropper_1727018333098.jpg",
   "analysis": {
     "image_id": "img_443",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/224/image_cropper_1727018333098.jpg",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Blue and white color scheme",
-        "Modern cabinetry",
-        "Lighting fixture above counter"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Cabinets",
+          "type": "furniture",
           "features": [
-            "Modular design",
-            "Integrated handles",
-            "Rectangular shape"
+            "traditional_style"
           ],
           "materials": [
-            "Wooden panels with white laminate finish"
+            "wood",
+            "fabric"
           ],
-          "finish": "White glossy laminate"
-        },
-        {
-          "type": "Countertop",
-          "features": [
-            "Solid surface material",
-            "Integrated sink"
-          ],
-          "materials": [
-            "Solid surface material like granite or quartz"
-          ],
-          "finish": "Smooth and polished"
-        },
-        {
-          "type": "Lighting",
-          "features": [
-            "Flush mounted ceiling light with multiple bulbs"
-          ],
-          "materials": [
-            "Metallic structure"
-          ],
-          "finish": "Shiny metallic"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Blue",
-          "White",
-          "Black"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Wood",
-          "Metals",
-          "Solid surface"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Bright and evenly distributed overhead lighting",
-        "texture": "Smooth surfaces with minimal texture"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not distinctly Indian, more globally modern",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Minimalist design principles"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of vertical space with cabinets",
-        "cultural_significance": "No explicit cultural or religious elements"
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.75,
-        "primary_features": 0.85,
-        "objects": 0.9,
-        "indian_context": 0.5
-      },
-      "description": "The image showcases a modern kitchen with a minimalist design. The space features blue and white cabinets, a smooth countertop with an integrated sink, and a sleek light fixture above the counter. The materials used are predominantly wood for the cabinetry and solid surface for the countertops, with a glossy finish creating a clean and contemporary look. The design does not exhibit any traditional Indian elements, focusing instead on modern aesthetics and efficient space utilization.",
-      "metadata": {
-        "tags": [
-          "Minimalist Kitchen",
-          "Modern Design",
-          "Blue and White",
-          "Efficient Kitchen",
-          "Glossy Finish"
-        ],
-        "budget_indicator": "Mid-range to high, given the use of solid surface materials and modern cabinetry",
-        "space_type": "Residential, likely an apartment",
-        "functionality": "Primary purpose is food preparation and storage",
-        "indian_specific": "No Indian-specific design features visible"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1727018333098.jpg"
   },
-  "cached_at": 1753462117335,
+  "cached_at": 1754496468189,
   "cache_key": "485f19ec19f2011f2e323a75ccdd6ee7"
 }

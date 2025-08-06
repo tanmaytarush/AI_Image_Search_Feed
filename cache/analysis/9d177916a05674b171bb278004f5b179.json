@@ -6,43 +6,40 @@
       "room": "Closet",
       "theme": "Minimalist",
       "primary_features": [
-        "Cupboard with sliding doors",
-        "Built-in storage"
+        "Closet doors with handles",
+        "Light-colored paint"
       ],
       "objects": [
         {
-          "type": "Cupboard",
+          "type": "Closet door",
           "features": [
-            "Sliding doors",
-            "Built-in storage"
+            "Rectangular shape",
+            "Flush with wall"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "Painted wood or melamine"
           ],
-          "finish": "Smooth finish"
+          "finish": "Smooth"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Light gray",
-          "White"
+          "Light gray"
         ],
         "materials": [
-          "Wood",
-          "Metal"
+          "Painted surface"
         ],
-        "lighting": "Natural light",
-        "texture": "Smooth and clean"
+        "lighting": "Even, artificial light",
+        "texture": "Smooth"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "No specific regional influence",
         "traditional_elements": [],
         "modern_adaptations": [
-          "Minimalist design"
+          "Integration of modern design elements"
         ],
-        "space_utilization": "Efficient use of space",
-        "cultural_significance": "Not applicable"
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "No culturally significant elements"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -51,21 +48,21 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This image depicts a modern, minimalist closet with built-in storage solutions, featuring sliding doors and a clean, smooth finish. The use of light gray and white colors is characteristic of contemporary design. There are no visible traditional Indian elements, indicating a modern interpretation of space optimization.",
+      "description": "The image depicts a minimalist closet with light gray painted doors, designed with a modern and functional approach. The space lacks any traditional Indian design elements, focusing instead on simplicity and efficiency.",
       "metadata": {
         "tags": [
-          "Closet",
           "Minimalist",
-          "Built-in storage",
-          "Modern design"
+          "Closet",
+          "Light Gray",
+          "Modern Interior"
         ],
-        "budget_indicator": "Affordable",
+        "budget_indicator": "Moderate, as the space uses painted surfaces and simple hardware",
         "space_type": "Residential",
         "functionality": "Storage",
         "indian_specific": "No Indian-specific design features"
       }
     }
   },
-  "cached_at": 1753460402882,
+  "cached_at": 1754495343702,
   "cache_key": "9d177916a05674b171bb278004f5b179"
 }

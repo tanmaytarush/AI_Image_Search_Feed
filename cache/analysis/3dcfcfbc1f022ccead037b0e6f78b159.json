@@ -2,88 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/72/image_cropper_1726537265092.jpg",
   "analysis": {
     "image_id": "img_287",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/72/image_cropper_1726537265092.jpg",
     "ai_generated_tags": {
-      "room": "Not applicable",
-      "theme": "Contemporary",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Selfie",
-        "Person",
-        "Background with signage"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Person",
+          "type": "furniture",
           "features": [
-            "Casual attire",
-            "smiling",
-            "carrying a bag"
+            "traditional_style"
           ],
           "materials": [
-            "Cloth",
-            "Plastic"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth"
-        },
-        {
-          "type": "Background with signage",
-          "features": [
-            "Text on sign",
-            "Images on sign"
-          ],
-          "materials": [
-            "Metal",
-            "Plastic"
-          ],
-          "finish": "Reflective"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Blue",
-          "White",
-          "Green",
-          "Red"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Cloth",
-          "Metal",
-          "Plastic",
-          "Wood"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from the environment",
-        "texture": "Smooth surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Contemporary design elements"
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
         ],
-        "space_utilization": "Not applicable",
-        "cultural_significance": "Not applicable"
+        "modern_adaptations": [
+          "contemporary_design"
+        ],
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image depicts a person taking a selfie in a public space with signage in the background. The person is wearing casual clothing and has a bag. The background features a sign with text and images, suggesting a modern, public setting. There are no prominent Indian design elements visible in this image.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Selfie",
-        "Casual Attire",
-        "Public Space",
-        "Signage"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Low to moderate",
-      "space_type": "Public",
-      "functionality": "Selfie capture",
-      "indian_specific": "No Indian-specific design features"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1726537265092.jpg"
   },
-  "cached_at": 1753459994358,
+  "cached_at": 1754494682483,
   "cache_key": "3dcfcfbc1f022ccead037b0e6f78b159"
 }

@@ -2,94 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/589/image_cropper_1729089235421.jpg",
   "analysis": {
     "image_id": "img_479",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/589/image_cropper_1729089235421.jpg",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Modern Indian Kitchen",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "U-shaped countertop",
-        "Island with seating",
-        "Wall-mounted cabinets",
-        "Ceramic backsplash"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Kitchen island",
+          "type": "furniture",
           "features": [
-            "Metal frame",
-            "Wooden top",
-            "Metal bar stool"
+            "traditional_style"
           ],
           "materials": [
-            "Metal",
-            "Wood",
-            "Metal"
+            "wood",
+            "fabric"
           ],
-          "finish": "Metallic sheen, smooth wood"
-        },
-        {
-          "type": "Cabinet",
-          "features": [
-            "Wall-mounted",
-            "Shaker style",
-            "Metal hardware"
-          ],
-          "materials": [
-            "Wood",
-            "Metal"
-          ],
-          "finish": "Painted wood with metallic hardware"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Brown",
-          "Red",
-          "Gray"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Metal",
-          "Wood",
-          "Ceramic",
-          "Glass"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from window, artificial light from ceiling fixtures",
-        "texture": "Smooth surfaces, metallic sheen, glossy ceramic"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Modern Indian Kitchen",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "No traditional Indian elements visible"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Contemporary design with Indian influence in materials and finish"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with island for additional seating",
-        "cultural_significance": "Modern interpretation of Indian kitchen design, reflecting cultural trends in contemporary Indian spaces"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern Indian kitchen with a U-shaped countertop and an island with seating, showcasing a blend of contemporary and traditional Indian design elements through the use of wood, metal, and ceramic materials. The kitchen features wall-mounted cabinets with a shaker style and metallic hardware, complementing the metallic sheen of the island and the glossy ceramic backsplash. The space is well-organized, utilizing the island for additional seating, which is a common practice in contemporary Indian kitchen designs. The lighting is a mix of natural light from the window and artificial light from ceiling fixtures, creating a bright and inviting atmosphere.",
-      "metadata": {
-        "tags": [
-          "Modern Indian Kitchen",
-          "U-shaped countertop",
-          "Island seating",
-          "Wall-mounted cabinets",
-          "Ceramic backsplash"
-        ],
-        "budget_indicator": "Moderate to high based on visible materials and finishes",
-        "space_type": "Residential",
-        "functionality": "Cooking and dining",
-        "indian_specific": "Contemporary interpretation of Indian design elements"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729089235421.jpg"
   },
-  "cached_at": 1753462490738,
+  "cached_at": 1754496691631,
   "cache_key": "ab1a18450bb53bb407bdcd0a26ba8186"
 }

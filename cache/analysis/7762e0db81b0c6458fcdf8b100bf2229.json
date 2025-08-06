@@ -6,64 +6,59 @@
       "room": "Living Room",
       "theme": "Modern Indian",
       "primary_features": [
-        "White walls",
-        "Dark wooden ceiling",
-        "Rounded chandelier",
-        "Shelving unit"
+        "Ceiling design with embedded lighting",
+        "Architectural details",
+        "Modern furniture with traditional elements"
       ],
       "objects": [
         {
-          "type": "Round chandelier",
+          "type": "Ceiling Design",
           "features": [
-            "Dark glass globes",
-            "Metal structure"
+            "Embedded lighting",
+            "Architectural details"
           ],
           "materials": [
-            "Glass",
-            "Metal"
+            "Wooden ceiling panel",
+            "Metal frame"
           ],
-          "finish": "Polished"
+          "finish": "Shiny metallic finish on metal frame"
         },
         {
-          "type": "Shelving unit",
+          "type": "Modern Furniture",
           "features": [
-            "Copper accents",
-            "Glass panels"
+            "Minimalist design with traditional influences"
           ],
           "materials": [
-            "Copper",
-            "Glass",
-            "Wood"
+            "Metal",
+            "Glass"
           ],
-          "finish": "Shiny"
+          "finish": "High-gloss metallic finish on metal"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Dark brown",
-          "Gold",
-          "Brown"
+          "Brown",
+          "Black"
         ],
         "materials": [
           "Wood",
           "Metal",
           "Glass"
         ],
-        "lighting": "Warm indoor lighting",
-        "texture": "Smooth and polished surfaces"
+        "lighting": "Ambient lighting from embedded downlights",
+        "texture": "Smooth surfaces with high-gloss finishes"
       },
       "indian_context": {
-        "regional_style": "North Indian",
+        "regional_style": "Not explicitly regional",
         "traditional_elements": [
-          "Copper accents"
+          "Carved wooden ceiling panel"
         ],
         "modern_adaptations": [
-          "Round chandelier",
-          "Copper shelving unit"
+          "Integration of modern furniture and lighting with traditional elements"
         ],
-        "space_utilization": "Optimized for storage and display",
-        "cultural_significance": "Copper is often used in North Indian interiors for its auspicious connotations"
+        "space_utilization": "Open and spacious layout with minimal furniture",
+        "cultural_significance": "The use of wood and metal reflects a blend of modern and traditional Indian design aesthetics"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -72,22 +67,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "A modern interpretation of North Indian interior design featuring a living room with a white wall, dark wooden ceiling, and a round chandelier with glass globes. The shelving unit incorporates copper accents and glass panels, blending traditional materials with contemporary design. The space is well-lit with warm indoor lighting, emphasizing the polished textures and smooth surfaces.",
+      "description": "The image depicts a modern Indian living room with a blend of traditional and contemporary elements. The ceiling features a carved wooden panel with embedded lighting, reflecting regional design influence. The space includes minimalist modern furniture with high-gloss finishes, incorporating traditional wood and metal elements, creating a harmonious blend of modern and traditional aesthetics. The color palette is neutral with white, brown, and black, enhancing the clean and sleek look.",
       "metadata": {
         "tags": [
           "Modern Indian",
           "Living Room",
-          "Copper Accents",
-          "Glass Globes",
-          "North Indian"
+          "Minimalist Design",
+          "Traditional Elements",
+          "High-Gloss Finish"
         ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Residential",
-        "functionality": "Living and display area",
-        "indian_specific": "Copper accents and warm lighting"
+        "budget_indicator": "Mid-range, with modern materials and finishes",
+        "space_type": "Residential Living Space",
+        "functionality": "Primary居住空间功能为休闲和社交",
+        "indian_specific": "High-gloss metal and wood ceiling panel with traditional carved design"
       }
     }
   },
-  "cached_at": 1753460643968,
+  "cached_at": 1754495595259,
   "cache_key": "7762e0db81b0c6458fcdf8b100bf2229"
 }

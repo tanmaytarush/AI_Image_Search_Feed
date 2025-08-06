@@ -3,60 +3,50 @@
   "analysis": {
     "image_id": "img_081",
     "ai_generated_tags": {
-      "room": "Child's bedroom",
-      "theme": "Modern eclectic",
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Bunk bed with decorative headboard",
-        "Built-in storage units",
         "Polka dot wallpaper",
-        "Study table with world map"
+        "Built-in storage unit",
+        "Floral bedding",
+        "Modern office setup"
       ],
       "objects": [
         {
-          "type": "Bunk bed",
+          "type": "Bed",
           "features": [
-            "Fitted with floral bedding",
-            "Decorative headboard with rabbit ears",
-            "Integrated storage beneath the bed"
+            "Green velvet headboard",
+            "Floral bedding",
+            "Circular and heart-shaped cushions"
           ],
           "materials": [
-            "Wood (headboard)",
-            "Textiles (bedding)"
+            "Velvet",
+            "Cotton"
           ],
-          "finish": "Velvet headboard with glossy bedding"
+          "finish": "Smooth and soft"
         },
         {
-          "type": "Built-in storage units",
+          "type": "Built-in Storage",
           "features": [
-            "Integrated wall-mounted shelves",
-            "Shades of orange and beige"
+            "Combination of cabinets and shelves",
+            "Star cut-out design",
+            "Lighting embedded within"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Matte and glossy finishes"
+          "finish": "Matte"
         },
         {
-          "type": "Study table",
-          "features": [
-            "Integrated with world map",
-            "White surface with wooden legs"
-          ],
-          "materials": [
-            "MDF, wood"
-          ],
-          "finish": "Wooden surface with glossy accents"
-        },
-        {
-          "type": "Task lamp",
+          "type": "Desk",
           "features": [
             "Modern design",
-            "Pink shade"
+            "Ergonomic chair"
           ],
           "materials": [
-            "Plastic"
+            "Painted wood"
           ],
-          "finish": "Glossy"
+          "finish": "Smooth"
         }
       ],
       "visual_attributes": {
@@ -64,29 +54,30 @@
           "White",
           "Green",
           "Pink",
-          "Orange",
-          "Beige",
-          "Multicolored (polka dots)"
+          "Blue",
+          "Yellow"
         ],
         "materials": [
           "Wood",
-          "Textiles",
-          "Metal",
-          "Plastic"
+          "Velvet",
+          "Cotton",
+          "Metal"
         ],
-        "lighting": "Natural light from window, ambient lighting from built-in shelves",
-        "texture": "Velvet, glossy, textured wall, smooth table surface"
+        "lighting": "Natural light and embedded lighting within storage unit",
+        "texture": "Smooth, soft, and polished"
       },
       "indian_context": {
-        "regional_style": "Not Indian-specific style",
+        "regional_style": "Not distinctly regional, but incorporates elements typical of Indian interiors",
         "traditional_elements": [
-          "Not applicable"
+          "Carved elements (implied in the design of the storage unit)",
+          "Polka dot wallpaper"
         ],
         "modern_adaptations": [
-          "Rabbit ears headboard, polka dot wallpaper, modern lighting"
+          "Contemporary furniture design",
+          "Integrated lighting"
         ],
-        "space_utilization": "Efficient use of vertical space with shelves and integrated storage",
-        "cultural_significance": "No specific cultural elements, as this appears to be a modern design with global inspiration"
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "The polka dot wallpaper could be seen as a playful modern interpretation of traditional Indian patterns"
       }
     },
     "confidence_scores": {
@@ -96,22 +87,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This modern eclectic child's bedroom features a bunk bed with a decorative headboard in the shape of rabbit ears, integrated storage units, a study table with a world map, and polka dot wallpaper. The room is well-lit with natural light from a window and ambient lighting from built-in shelves. The design is clean and contemporary with a mix of smooth and textured surfaces, using a palette of white, green, pink, orange, and beige. The headboard's velvet texture contrasts with the glossy bedding and the smooth surfaces of the study table and shelving units.",
+    "description": "This contemporary Indian-inspired bedroom features a playful yet functional design with a built-in storage unit adorned with a star-cutout design and embedded lighting. The polka dot wallpaper brings a vibrant and modern touch, while the green velvet headboard and floral bedding add a touch of traditional Indian aesthetics. The modern office setup with an ergonomic chair and sleek desk complements the overall contemporary vibe, blending traditional and modern elements seamlessly.",
     "metadata": {
       "tags": [
-        "modern",
-        "eclectic",
-        "child's room",
-        "polka dot",
-        "rabbit ears",
-        "integrated storage"
+        "Contemporary Indian",
+        "Polka dot",
+        "Built-in storage",
+        "Green velvet",
+        "Floral bedding"
       ],
-      "budget_indicator": "Moderate, with materials such as wood and textiles, but also some modern elements like the task lamp.",
-      "space_type": "Single-child bedroom",
-      "functionality": "Sleeping and studying",
-      "indian_specific": "No Indian-specific design features are visible, suggesting a global modern design approach."
+      "budget_indicator": "Moderate",
+      "space_type": "Bedroom",
+      "functionality": "Sleeping and working",
+      "indian_specific": "Polka dot wallpaper, green velvet headboard"
     }
   },
-  "cached_at": 1753957591429,
+  "cached_at": 1754490500580,
   "cache_key": "58778d572f88b82d44885b26d1679c93"
 }

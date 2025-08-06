@@ -4,80 +4,113 @@
     "image_id": "img_318",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian Kitchen",
+      "theme": "Modern Indian Kitchen with Contemporary Elements",
       "primary_features": [
-        "Compact layout",
-        "Integrated cabinets",
-        "Granite countertops"
+        "White cabinets with sleek handles",
+        "Black countertops",
+        "Integrated appliances",
+        "Glass backsplash",
+        "Open shelving"
       ],
       "objects": [
         {
-          "type": "Granite Countertop",
+          "type": "Kitchen cabinets",
           "features": [
-            "Polished stone surface",
-            "Smooth texture"
+            "Contemporary design with minimalist handles",
+            "White finish",
+            "Integrated design with no handles"
           ],
           "materials": [
-            "Granite"
+            "Painted wood or MDF with a white finish"
           ],
-          "finish": "High-gloss finish"
+          "finish": "Smooth and glossy finish"
         },
         {
-          "type": "Cabinet",
+          "type": "Countertops",
           "features": [
-            "Integrated design",
-            "Light-colored wood"
+            "Black stone or composite surface",
+            "Integrated with cabinetry"
           ],
           "materials": [
-            "Wood"
+            "Marble or granite look-alike"
           ],
-          "finish": "Matte finish"
+          "finish": "Polished and reflective"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Integrated into cabinetry"
+          ],
+          "materials": [
+            "Not visible due to integration"
+          ],
+          "finish": "Integrated finish matching cabinets"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Glass tiles with a modern design"
+          ],
+          "materials": [
+            "Glass tiles"
+          ],
+          "finish": "Shiny and reflective"
+        },
+        {
+          "type": "Open shelving",
+          "features": [
+            "Simple metal frame with glass shelves"
+          ],
+          "materials": [
+            "Metal frame, glass shelves"
+          ],
+          "finish": "Metallic and transparent"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Light wood",
-          "Dark stone"
+          "White, black, glass, metallic grey"
         ],
         "materials": [
-          "Granite, Wood"
+          "Painted wood, marble, glass, metal"
         ],
-        "lighting": "Indirect lighting with recessed ceiling lights",
-        "texture": "Smooth stone and matte wood"
+        "lighting": "Artificial lighting with recessed lighting fixtures",
+        "texture": "Smooth surfaces with some reflective textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [
-          "Modern interpretations of traditional Indian design"
-        ],
+        "regional_style": "Modern Indian with contemporary design",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Integration of Indian design aesthetics with contemporary furniture"
+          "Contemporary design elements integrated into traditional space"
         ],
-        "space_utilization": "Efficient use of space with minimalistic and functional design",
-        "cultural_significance": "Modern adaptation of Indian kitchens focusing on functionality and aesthetics"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "This image depicts a modern Indian kitchen with a compact and efficient layout. The space features integrated cabinets with a light-colored wood finish, providing a cohesive and elegant look. The granite countertops offer a sleek and functional surface for food preparation. The design incorporates modern interpretations of traditional Indian design elements, focusing on functionality and aesthetics, which is evident in the clean lines and minimalistic approach.",
-      "metadata": {
-        "tags": [
-          "Modern Indian Kitchen",
-          "Compact Design",
-          "Granite Countertops"
-        ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Residential Kitchen",
-        "functionality": "Primary purpose is for food preparation and storage",
-        "indian_specific": "Integrated furniture design with a modern twist on traditional Indian aesthetics"
+        "space_utilization": "Efficient use of space with open shelving and integrated appliances",
+        "cultural_significance": "Minimal traditional Indian elements, focusing on modern functionality and aesthetics"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian kitchen with contemporary design elements. The kitchen features sleek white cabinets with minimalistic handles, black countertops, integrated appliances, a glass backsplash, and open shelving. The space utilizes a contemporary color palette with white, black, and metallic grey tones, and the materials include painted wood, glass, and metal. There are no traditional Indian elements, focusing instead on modern functionality and aesthetics. The design is organized with efficient use of space, providing a clean and modern look to the kitchen.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Kitchen",
+        "Contemporary Design",
+        "White Cabinets",
+        "Black Countertops",
+        "Integrated Appliances",
+        "Glass Backsplash",
+        "Open Shelving"
+      ],
+      "budget_indicator": "Moderate to High, due to the use of materials like marble or granite look-alike countertops and integrated appliances",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary purpose is for cooking and food preparation, with efficient space utilization and modern design",
+      "indian_specific": "Minimal traditional Indian elements, emphasizing modern contemporary style"
     }
   },
-  "cached_at": 1753460370401,
+  "cached_at": 1754495304846,
   "cache_key": "0adf3878b072713be67f404350f86017"
 }

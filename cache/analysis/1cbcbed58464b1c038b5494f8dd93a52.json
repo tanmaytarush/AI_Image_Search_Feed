@@ -4,100 +4,99 @@
     "image_id": "img_139",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Modern Indian Kitchen",
+      "theme": "Contemporary",
       "primary_features": [
-        "Black cabinetry",
-        "Marble countertops",
-        "Copper handles",
-        "Laminate flooring"
+        "Dark cabinetry",
+        "Light countertops",
+        "Built-in appliances",
+        "Open shelving"
       ],
       "objects": [
         {
-          "type": "Cabinets",
+          "type": "Cabinet",
           "features": [
-            "Black with sleek design",
-            "Integrated handles"
+            "Dark wood finish",
+            "Modern lines"
           ],
           "materials": [
-            "Painted wood or MDF"
+            "Painted MDF"
           ],
-          "finish": "Glossy"
+          "finish": "Matte black lacquer"
         },
         {
           "type": "Countertop",
           "features": [
-            "Marble with veining pattern"
+            "Light quartz surface"
           ],
           "materials": [
-            "Marble"
+            "Quartz"
           ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Flooring",
-          "features": [
-            "Laminate with wood-like texture"
-          ],
-          "materials": [
-            "Laminate"
-          ],
-          "finish": "High sheen"
+          "finish": "Smooth"
         },
         {
           "type": "Appliances",
           "features": [
-            "Built-in microwave"
+            "Built-in microwave",
+            "Integrated refrigerator"
           ],
           "materials": [
-            "Metal"
+            "Metal, glass"
           ],
-          "finish": "Shiny"
+          "finish": "Polished metal"
+        },
+        {
+          "type": "Shelving",
+          "features": [
+            "Open shelving unit"
+          ],
+          "materials": [
+            "Light wood"
+          ],
+          "finish": "Natural wood"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Black, white, brown, beige, white"
+          "Dark grey, black, light wood, light quartz"
         ],
         "materials": [
-          "Marble, laminate, metal"
+          "Painted MDF, quartz, metal, glass, wood"
         ],
-        "lighting": "Indirect lighting, likely from under-cabinet lights",
-        "texture": "Smooth and glossy textures"
+        "lighting": "Neutral indoor lighting",
+        "texture": "Smooth surfaces with matte finishes"
       },
       "indian_context": {
-        "regional_style": "Not distinctly regional, but with modern Indian influences",
-        "traditional_elements": [
-          "Copper handles"
-        ],
+        "regional_style": "No Indian regional style present",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Integration of modern materials and sleek design"
+          "Contemporary design elements with Indian influence"
         ],
-        "space_utilization": "Efficient use of space with built-in appliances and compact design",
-        "cultural_significance": "Copper handles signify cultural aesthetics and modern interpretations of traditional Indian design"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The image depicts a modern Indian kitchen with sleek black cabinetry, polished marble countertops, and high-gloss laminate flooring. The space incorporates traditional Indian design elements through the use of copper handles, while the overall aesthetic is contemporary. The lighting is subtle, likely to minimize glare on the glossy surfaces. The kitchen is designed with efficient space utilization, featuring built-in appliances.",
-      "metadata": {
-        "tags": [
-          "Indian kitchen",
-          "Modern design",
-          "Black cabinets",
-          "Marble countertops",
-          "Copper details"
-        ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Residential kitchen",
-        "functionality": "Cooking and food preparation",
-        "indian_specific": "Copper handles on cabinetry"
+        "space_utilization": "Efficient use of space with built-in appliances and open shelving",
+        "cultural_significance": "No cultural relevance to Indian design elements"
       }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.7,
+      "primary_features": 0.8,
+      "objects": 0.85,
+      "indian_context": 0.5
+    },
+    "description": "The image depicts a modern kitchen with dark cabinetry, light quartz countertops, and built-in appliances. The design incorporates contemporary lines and clean finishes, with the use of dark grey and black tones creating a sleek and sophisticated look. The open shelving unit adds a touch of functionality and style. There are no traditional Indian design elements visible, suggesting a modern interpretation of a traditional kitchen design in a non-Indian context.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modern",
+        "Dark cabinetry",
+        "Quartz countertops",
+        "Built-in appliances"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential kitchen",
+      "functionality": "Cooking and food preparation area",
+      "indian_specific": "No Indian-specific design features visible"
     }
   },
-  "cached_at": 1753451788713,
+  "cached_at": 1754491630394,
   "cache_key": "1cbcbed58464b1c038b5494f8dd93a52"
 }

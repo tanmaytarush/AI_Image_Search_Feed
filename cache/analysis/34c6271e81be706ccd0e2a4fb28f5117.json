@@ -2,127 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/147/image_cropper_1726671052632.jpg",
   "analysis": {
     "image_id": "img_329",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/147/image_cropper_1726671052632.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Contemporary with Indian accents",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Carved wooden headboard",
-        "Floral wall decor",
-        "Teak wooden furniture",
-        "Marble wall tiles",
-        "Television"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Carved wooden headboard",
+          "type": "furniture",
           "features": [
-            "Elegant floral carvings",
-            "Rich wood finish"
+            "traditional_style"
           ],
           "materials": [
-            "Teak wood"
+            "wood",
+            "fabric"
           ],
-          "finish": "Highly polished"
-        },
-        {
-          "type": "Teak wooden furniture",
-          "features": [
-            "Traditional design",
-            "Compact storage space"
-          ],
-          "materials": [
-            "Teak wood"
-          ],
-          "finish": "Natural wood finish"
-        },
-        {
-          "type": "Marble wall tiles",
-          "features": [
-            "Geometric patterns",
-            "High-end material"
-          ],
-          "materials": [
-            "Marble"
-          ],
-          "finish": "Smooth polished surface"
-        },
-        {
-          "type": "Floral wall decor",
-          "features": [
-            "Painted floral motifs",
-            "Indian traditional style"
-          ],
-          "materials": [
-            "Paint"
-          ],
-          "finish": "Matte finish"
-        },
-        {
-          "type": "Television",
-          "features": [
-            "Modern flat-screen display"
-          ],
-          "materials": [
-            "Glass (tv frame)",
-            "Metal (tv stand)"
-          ],
-          "finish": "Glossy metal and matte glass"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Gold",
-          "Beige",
-          "Green"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Teak wood",
-          "Marble",
-          "Paint",
-          "Metal",
-          "Glass"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light with ambient lighting fixtures",
-        "texture": "Smooth, glossy, matte"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not explicitly regional, but incorporates elements typical of Indian design",
+        "regional_style": "contemporary_indian",
         "traditional_elements": [
-          "Carved wooden headboard",
-          "Floral wall decor"
+          "cultural_influences"
         ],
         "modern_adaptations": [
-          "Television integrated into the design",
-          "Modern furniture with traditional influences"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with storage units and decorative elements",
-        "cultural_significance": "The Indian design elements symbolize tradition and craftsmanship"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "This bedroom interior blends contemporary design elements with traditional Indian touches. The space features a carved wooden headboard with floral motifs, reflecting Indian craftsmanship, while incorporated modern elements such as a flat-screen television and sleek furniture. The use of teak wood for the furniture and marble for the wall tiles symbolizes a blend of tradition and modernity, creating a harmonious and stylish living space.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Indian design",
-        "Contemporary style",
-        "Teak wood",
-        "Marble tiles",
-        "Floral decor",
-        "Modern furniture"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Mid-range, using high-quality materials like teak wood and marble",
-      "space_type": "Residential bedroom",
-      "functionality": "Sleeping and relaxation area with entertainment capabilities",
-      "indian_specific": "Carved wooden headboard, floral wall decor"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1726671052632.jpg"
   },
-  "cached_at": 1753460510591,
+  "cached_at": 1754495391987,
   "cache_key": "34c6271e81be706ccd0e2a4fb28f5117"
 }

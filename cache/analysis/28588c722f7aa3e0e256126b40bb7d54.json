@@ -2,88 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/119/FirebasePopup%20%28Updated%29.png",
   "analysis": {
     "image_id": "img_332",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/119/FirebasePopup%20%28Updated%29.png",
     "ai_generated_tags": {
-      "room": "Not applicable (image is a promotional graphic)",
-      "theme": "Modern Indian Interior Design",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Promotional text",
-        "Smartphone display",
-        "Interior room scene"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Smartphone",
+          "type": "furniture",
           "features": [
-            "Displaying promotional text",
-            "Showcase of a digital profile creation"
+            "traditional_style"
           ],
           "materials": [
-            "Glass screen",
-            "Metal frame"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth and glossy"
-        },
-        {
-          "type": "Interior room scene",
-          "features": [
-            "Lobby or reception area design",
-            "Seating arrangement"
-          ],
-          "materials": [
-            "Carpet",
-            "Wooden furniture",
-            "Curtains"
-          ],
-          "finish": "Polished and elegant"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Green",
-          "Yellow",
-          "Black",
-          "White"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Glass",
-          "Metal",
-          "Wood",
-          "Carpet"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Bright and clear lighting",
-        "texture": "Smooth surfaces with some soft textures (carpet)"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable (image is a promotional graphic)",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Integration of digital elements with traditional design"
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
         ],
-        "space_utilization": "Not applicable (image is a promotional graphic)",
-        "cultural_significance": "Promotes digital identity creation, aligning with modern Indian lifestyle trends"
+        "modern_adaptations": [
+          "contemporary_design"
+        ],
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
     },
     "confidence_scores": {
-      "room": 0.8,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.8
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
     },
-    "description": "The image is a promotional graphic for digital profile creation, showcasing a modern Indian interior design setting with a smartphone display and a well-lit interior room. The design incorporates contemporary elements with a hint of traditional Indian aesthetics, such as the warm color palette and elegant furniture layout.",
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
     "metadata": {
       "tags": [
-        "Digital Profile Creation",
-        "Modern Indian Design",
-        "Interior Design",
-        "Promotional Graphic"
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
       ],
-      "budget_indicator": "Mid-range (mid-end materials and finishes)",
-      "space_type": "Not applicable (image is a promotional graphic)",
-      "functionality": "Focus on digital identity creation",
-      "indian_specific": "Modern interpretation of Indian design elements"
-    }
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "FirebasePopup%20%28Updated%29.png"
   },
-  "cached_at": 1753460549342,
+  "cached_at": 1754495401372,
   "cache_key": "28588c722f7aa3e0e256126b40bb7d54"
 }

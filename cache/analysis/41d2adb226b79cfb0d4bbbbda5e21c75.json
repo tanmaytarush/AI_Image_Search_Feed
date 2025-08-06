@@ -3,92 +3,73 @@
   "analysis": {
     "image_id": "img_103",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Contemporary Indian",
+      "room": "Kitchen",
+      "theme": "Modular Kitchen",
       "primary_features": [
-        "Built-in wardrobes",
-        "Pink and white color scheme",
-        "Shelving units",
-        "Modern design elements",
-        "Integrated lighting"
+        "Pink and white cabinetry",
+        "Integrated shelves",
+        "White countertops"
       ],
       "objects": [
         {
-          "type": "Built-in wardrobes",
+          "type": "Kitchen Cabinets",
           "features": [
-            "Integrated into wall cabinets",
-            "Pink and white finish",
-            "Shelving units for storage"
+            "Pink and white color scheme",
+            "Multi-tiered shelves",
+            "Integrated design"
           ],
           "materials": [
-            "Wood",
-            "Paint"
+            "Solid wood or engineered wood",
+            "Paint for cabinets"
           ],
-          "finish": "Smooth, glossy finish"
-        },
-        {
-          "type": "Wall shelves",
-          "features": [
-            "Integrated with wardrobes",
-            "Decorative shelves",
-            "Pink and white finish"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Smooth, glossy finish"
+          "finish": "Glossy surface finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "Pink",
           "White",
-          "Black"
+          "Gray"
         ],
         "materials": [
           "Wood",
           "Paint",
-          "Metal"
+          "Paint"
         ],
-        "lighting": "Integrated under-cabinet lighting",
-        "texture": "Smooth, glossy"
+        "lighting": "Natural light from windows",
+        "texture": "Smooth and clean"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [
-          "Not applicable"
-        ],
+        "regional_style": "No specific regional style observed",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Integration of traditional elements with modern design"
+          "Use of modern materials and designs"
         ],
-        "space_utilization": "Efficient use of wall space",
-        "cultural_significance": "Not applicable"
+        "space_utilization": "Efficient use of space with integrated cabinets and shelves",
+        "cultural_significance": "No traditional Indian elements observed"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern kitchen setup with a combination of pink and white cabinetry, featuring multi-tiered shelves for storage and a clean, minimalist design. The space is well-organized, maximizing storage with integrated cabinets and countertops, which are typical of contemporary kitchen designs.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern Design",
+          "Pink Cabinets",
+          "Integrated Shelves"
+        ],
+        "budget_indicator": "Moderate, as seen in the use of painted cabinetry and solid materials",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is storage and food preparation",
+        "indian_specific": "No Indian-specific design features observed"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image depicts a modern Indian bedroom with a contemporary design touch. The room features built-in wardrobes with a pink and white color scheme, which is a popular and vibrant choice in contemporary Indian interiors. The wardrobes are equipped with integrated shelving units for storage, emphasizing functionality and space optimization. The design incorporates modern elements with traditional influences, as evidenced by the clean lines and minimalist appeal, while the choice of materials and colors reflects a contemporary Indian aesthetic.",
-    "metadata": {
-      "tags": [
-        "Modern Indian",
-        "Contemporary Bedroom",
-        "Pink and White",
-        "Integrated Storage",
-        "Wall Cabinets",
-        "Minimalist Design",
-        "Interior Design"
-      ],
-      "budget_indicator": "Moderate",
-      "space_type": "Residential",
-      "functionality": "Sleeping and storage",
-      "indian_specific": "Color scheme and integrated storage solutions"
     }
   },
-  "cached_at": 1753448198120,
+  "cached_at": 1754491094024,
   "cache_key": "41d2adb226b79cfb0d4bbbbda5e21c75"
 }

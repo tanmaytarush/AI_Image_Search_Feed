@@ -2,86 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/799/image_cropper_1729260135305.jpg",
   "analysis": {
     "image_id": "img_497",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/799/image_cropper_1729260135305.jpg",
     "ai_generated_tags": {
-      "room": "Bedroom",
-      "theme": "Minimalist",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Large bed with minimalistic design",
-        "Bare floor",
-        "Wall-mounted shelf"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "furniture",
           "features": [
-            "Flat surface",
-            "Minimalistic design",
-            "No headboard"
+            "traditional_style"
           ],
           "materials": [
-            "Possible wood or metal frame"
+            "wood",
+            "fabric"
           ],
-          "finish": "Smooth, plain finish"
-        },
-        {
-          "type": "Wall-mounted shelf",
-          "features": [
-            "Built-in design",
-            "Simple structure",
-            "Wall-mounted"
-          ],
-          "materials": [
-            "Possible metal or wood"
-          ],
-          "finish": "Shiny, reflective finish"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Tan",
-          "Gray",
-          "Brown"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Walls - painted, possibly wood or paneling; Floor - bare wood or similar; Shelving - metal or wood; Bed - metal or wood"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Natural light from window, suggesting daytime with soft lighting",
-        "texture": "Smooth and minimal texture, with bare floor and minimalistic furniture"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not clearly indicative of a specific regional style; minimal and modern design",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Minimalistic design with modern lines, lack of traditional elements"
+          "contemporary_design"
         ],
-        "space_utilization": "Efficient use of space with built-in storage, maximizing functionality",
-        "cultural_significance": "Minimalist design reflects modern trends and simplicity, not culturally specific elements"
-      },
-      "confidence_scores": {
-        "room": 0.9,
-        "theme": 0.85,
-        "primary_features": 0.85,
-        "objects": 0.88,
-        "indian_context": 0.7
-      },
-      "description": "The image showcases a minimalist bedroom with a large bed, a bare floor, and a wall-mounted shelf. The design is modern and functional, with no traditional Indian elements visible. The use of natural light and simple materials suggests a contemporary aesthetic.",
-      "metadata": {
-        "tags": [
-          "Minimalist",
-          "Bedroom",
-          "Modern",
-          "Functionality",
-          "Bare Floor",
-          "Wall-mounted shelf"
-        ],
-        "budget_indicator": "Budget-friendly with simple materials and minimalistic design",
-        "space_type": "Residential",
-        "functionality": "Sleeping and storage",
-        "indian_specific": "No Indian-specific design features"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1729260135305.jpg"
   },
-  "cached_at": 1753462693372,
+  "cached_at": 1754496786148,
   "cache_key": "a6a4e2cd43237458ba64482d6a8654b7"
 }

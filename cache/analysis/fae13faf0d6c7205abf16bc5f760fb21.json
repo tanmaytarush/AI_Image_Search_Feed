@@ -3,110 +3,105 @@
   "analysis": {
     "image_id": "img_205",
     "ai_generated_tags": {
-      "room": "Sitting room",
-      "theme": "Modern minimalist",
+      "room": "Living Room",
+      "theme": "Minimalist",
       "primary_features": [
-        "Concrete wall, gray sofa, wooden side table, black lamp, fireplace, cityscape wall art"
+        "Exposed concrete wall",
+        "Concrete fireplace",
+        "Grey sofa",
+        "Wooden coffee table",
+        "Floor lamp"
       ],
       "objects": [
         {
-          "type": "Side table",
-          "features": [
-            "Wooden, round, small"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural wood finish"
-        },
-        {
-          "type": "Floor lamp",
-          "features": [
-            "Black, modern design"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Shiny black"
-        },
-        {
-          "type": "Fireplace",
-          "features": [
-            "Exposed brick, open design"
-          ],
-          "materials": [
-            "Brick"
-          ],
-          "finish": "Natural brick"
-        },
-        {
           "type": "Sofa",
           "features": [
-            "Gray fabric, low-profile design"
+            "Modern design",
+            "Grey upholstery",
+            "Comfortable cushions"
           ],
           "materials": [
             "Fabric"
           ],
-          "finish": "Textured gray fabric"
+          "finish": "Textured finish"
         },
         {
-          "type": "Wall art",
+          "type": "Coffee Table",
           "features": [
-            "Cityscape, black and white, large"
+            "Round shape",
+            "Wooden material",
+            "Simple design"
           ],
           "materials": [
-            "Canvas"
+            "Wood"
           ],
-          "finish": "Glossy black frame"
+          "finish": "Natural finish"
+        },
+        {
+          "type": "Floor Lamp",
+          "features": [
+            "Modern design",
+            "Black shade",
+            "Flexible arm"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Gray, black, white, brick red"
+          "Grey",
+          "Black",
+          "White",
+          "Brown",
+          "Orange"
         ],
         "materials": [
-          "Concrete, wood, metal, fabric, brick"
+          "Concrete",
+          "Wood",
+          "Concrete",
+          "Metal"
         ],
-        "lighting": "Warm ambient light from the lamp, natural light from the side",
-        "texture": "Textured sofa fabric, concrete wall, wooden side table, brick fireplace"
+        "lighting": "Artificial lighting from the floor lamp, natural light from the window",
+        "texture": "Exposed concrete texture, fabric upholstery, wooden grain"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "No clear regional influence visible",
         "traditional_elements": [
-          "Not visible"
+          "No traditional Indian elements visible"
         ],
         "modern_adaptations": [
-          "Use of concrete and minimalism"
+          "Minimalist design with modern furniture and materials"
         ],
-        "space_utilization": "Efficient use of space with a focus on functionality",
-        "cultural_significance": "No visible cultural elements"
+        "space_utilization": "Efficient use of space with a central seating area",
+        "cultural_significance": "No specific cultural significance observed"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.6
+      },
+      "description": "The image showcases a modern, minimalist living room with a focus on clean lines and neutral colors. The space features an exposed concrete wall and fireplace, which adds a contemporary touch. The furniture includes a grey sofa with textured upholstery, a wooden coffee table, and a sleek floor lamp. The room has a simple yet sophisticated design that is less aligned with traditional Indian interior elements.",
+      "metadata": {
+        "tags": [
+          "Minimalist Living Room",
+          "Modern Design",
+          "Exposed Concrete",
+          "Grey Sofa",
+          "Wooden Coffee Table",
+          "Floor Lamp"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Living Room",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "No Indian-specific design features"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "A modern minimalist sitting room featuring a concrete wall, a gray sofa, a wooden side table, a black floor lamp, and an open fireplace. The space is adorned with a large black and white cityscape wall art, creating a contemporary yet sophisticated ambiance. The room is well-lit with a combination of natural and artificial light, emphasizing the clean lines and natural materials used throughout. Despite the absence of traditional Indian design elements, the use of texture and material contrast aligns with modern Indian interior design trends.",
-    "metadata": {
-      "tags": [
-        "Modern minimalism",
-        "Gray living room",
-        "Concrete wall",
-        "Sofa",
-        "Wooden table",
-        "Black lamp",
-        "Fireplace",
-        "Cityscape art"
-      ],
-      "budget_indicator": "Moderate to high, due to materials like concrete and modern furniture",
-      "space_type": "Residential, sitting room",
-      "functionality": "Relaxation and socializing",
-      "indian_specific": "No Indian-specific design features"
     }
   },
-  "cached_at": 1753459293483,
+  "cached_at": 1754493085210,
   "cache_key": "fae13faf0d6c7205abf16bc5f760fb21"
 }

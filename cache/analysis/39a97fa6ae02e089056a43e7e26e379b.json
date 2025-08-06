@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1148/image_cropper_1729608650913.jpg",
+  "analysis": {
+    "image_id": "img_493",
+    "ai_generated_tags": {
+      "room": "Den or Study",
+      "theme": "Contemporary Indian Interior",
+      "primary_features": [
+        "Cupboard with glass doors",
+        "Carved wooden elements",
+        "Teak wood finish"
+      ],
+      "objects": [
+        {
+          "type": "Cupboard",
+          "features": [
+            "Glass doors with wooden frame",
+            "Shelves for storage"
+          ],
+          "materials": [
+            "Teak wood",
+            "Glass"
+          ],
+          "finish": "Polished teak wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "Brown",
+          "Clear"
+        ],
+        "materials": [
+          "Teak wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light from unseen windows",
+        "texture": "Smooth teak wood surface, glass panels"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Carved wooden elements"
+        ],
+        "modern_adaptations": [
+          "Glass doors and contemporary design"
+        ],
+        "space_utilization": "Efficient use of vertical space with glass doors",
+        "cultural_significance": "Carved wooden elements often represent traditional craftsmanship and family heritage"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a contemporary Indian interior design in a den or study. The cupboard with glass doors and teak wood finish reflects a blend of traditional craftsmanship and modern aesthetics. The polished teak wood and glass doors suggest efficient use of space with a focus on both functionality and style. The carved wooden elements add a traditional touch, emphasizing Indian architectural heritage. The natural light enhances the warm beige and brown tones, creating a cozy and inviting atmosphere.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Maharashtra style",
+          "Contemporary design",
+          "Traditional craftsmanship",
+          "Teak wood"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Den or Study",
+        "functionality": "Storage and display area",
+        "indian_specific": "Carved wooden elements, teak wood finish"
+      }
+    }
+  },
+  "cached_at": 1754496774790,
+  "cache_key": "39a97fa6ae02e089056a43e7e26e379b"
+}

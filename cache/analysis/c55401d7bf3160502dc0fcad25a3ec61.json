@@ -3,56 +3,43 @@
   "analysis": {
     "image_id": "img_214",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Classic Indian Interior",
-      "primary_features": [
-        "Man wearing a white shirt with a mustache"
-      ],
-      "objects": [
-        {
-          "type": "Man",
-          "features": [
-            "Wearing a white shirt and has a mustache"
-          ],
-          "materials": [],
-          "finish": "Not applicable"
-        }
-      ],
+      "room": "Not applicable (face only)",
+      "theme": "Not applicable (face only)",
+      "primary_features": [],
+      "objects": [],
       "visual_attributes": {
         "colors": [
-          "White"
+          "skin tone",
+          "white"
         ],
         "materials": [],
-        "lighting": "Indoor lighting, possibly artificial",
-        "texture": "Not applicable"
+        "lighting": "Natural, possibly daylight",
+        "texture": "Smooth"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
+        "regional_style": "Not applicable (face only)",
         "traditional_elements": [],
         "modern_adaptations": [],
-        "space_utilization": "Not applicable",
-        "cultural_significance": "Not applicable"
+        "space_utilization": "Not applicable (face only)",
+        "cultural_significance": "Not applicable (face only)"
       }
     },
     "confidence_scores": {
-      "room": 0.75,
-      "theme": 0.65,
-      "primary_features": 0.55,
-      "objects": 0.8,
-      "indian_context": 0.7
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
     },
-    "description": "The image shows a man wearing a white shirt with a mustache. There are no visible traditional Indian elements, furniture, or cultural decorations in the image.",
+    "description": "The image shows a close-up of a person's face with a mustache and a light-colored shirt. There are no visible Indian interior design elements, furniture, or cultural decorations within this face image.",
     "metadata": {
-      "tags": [
-        "Man with white shirt",
-        "Mustache"
-      ],
-      "budget_indicator": "Low",
-      "space_type": "Living Room",
-      "functionality": "Photograph",
-      "indian_specific": "No Indian-specific design features visible"
+      "tags": [],
+      "budget_indicator": "Not applicable (face only)",
+      "space_type": "Not applicable (face only)",
+      "functionality": "Not applicable (face only)",
+      "indian_specific": []
     }
   },
-  "cached_at": 1753459359330,
+  "cached_at": 1754493205535,
   "cache_key": "c55401d7bf3160502dc0fcad25a3ec61"
 }

@@ -4,93 +4,126 @@
     "image_id": "img_294",
     "ai_generated_tags": {
       "room": "Living Room",
-      "theme": "Contemporary with Traditional Elements",
+      "theme": "Modern Indian Interior",
       "primary_features": [
-        "Television unit with decorative carvings",
-        "Wooden paneling with geometric patterns",
-        "Gold and black color scheme",
-        "Wooden door with geometric design"
+        "Television unit",
+        "Curtains",
+        "Wall art",
+        "Ceiling fan",
+        "Radiator"
       ],
       "objects": [
         {
           "type": "Television unit",
           "features": [
-            "Carved wooden frame",
-            "Decorative carvings on the top panel",
-            "Integrated shelving for storage"
+            "Carved wooden panels",
+            "Glass shelves"
           ],
           "materials": [
-            "Wood",
-            "Brass"
+            "Teak wood",
+            "Glass"
           ],
-          "finish": "Polished wood and shiny brass accents"
+          "finish": "Rich, polished teak wood finish, clear glass shelves"
         },
         {
-          "type": "Wooden door",
+          "type": "Curtains",
           "features": [
-            "Gold and black geometric design",
-            "Paneling with geometric patterns"
+            "Geometric pattern",
+            "Velvet texture"
           ],
           "materials": [
-            "Wood"
+            "Polyester"
           ],
-          "finish": "Glossy finish"
+          "finish": "Velvet-like finish"
+        },
+        {
+          "type": "Wall art",
+          "features": [
+            "Floral design",
+            "Gold accents"
+          ],
+          "materials": [
+            "Painted wall panel with metallic embellishments"
+          ],
+          "finish": "Elegant, metallic gilded finish"
+        },
+        {
+          "type": "Ceiling fan",
+          "features": [
+            "Modern design",
+            "Metallic finish"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Shiny metallic finish"
+        },
+        {
+          "type": "Radiator",
+          "features": [
+            "Geometric pattern",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Rich, polished teak wood finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Gold",
-          "Black",
           "White",
-          "Brown"
+          "Gold",
+          "Brown",
+          "Green"
         ],
         "materials": [
-          "Wood",
-          "Brass",
-          "Metal"
+          "Teak wood",
+          "Glass",
+          "Polyester",
+          "Metal",
+          "Paint"
         ],
-        "lighting": "Natural light from the window and artificial light from the ceiling fan",
-        "texture": "Smooth and glossy surfaces"
+        "lighting": "Natural light from window, artificial light from ceiling fan",
+        "texture": "Smooth, polished wood, velvet, metallic, textured wall panels"
       },
       "indian_context": {
-        "regional_style": "Mughal-inspired with modern adaptations",
+        "regional_style": "North Indian (Hindi Pradesh)",
         "traditional_elements": [
-          "Wooden paneling",
-          "Carved wooden frames",
-          "Geometric designs"
+          "Teak wood furniture",
+          "Carved wooden panels",
+          "Metallic embellishments"
         ],
         "modern_adaptations": [
-          "Contemporary furniture design",
-          "Monochrome color scheme"
+          "Modern design elements like the ceiling fan and wall art"
         ],
-        "space_utilization": "Optimized for storage with integrated shelving in the television unit",
-        "cultural_significance": "The design elements reflect Mughal architecture, which is often associated with grandeur and luxury in Indian interiors"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The interior space features a modern living room with a contemporary design that incorporates traditional Indian elements such as carved wooden frames and geometric patterns. The room utilizes a rich gold and black color scheme, creating a luxurious and elegant atmosphere. The television unit, with its decorative carvings and integrated shelving, serves both functional and aesthetic purposes. The wooden door with its geometric design adds a touch of traditional craftsmanship to the modern setting.",
-      "metadata": {
-        "tags": [
-          "Living Room",
-          "Contemporary",
-          "Traditional Elements",
-          "Gold and Black",
-          "Wooden Paneling",
-          "Carved Frames",
-          "Geometric Patterns"
-        ],
-        "budget_indicator": "Mid-range, with a focus on quality materials like wood and brass",
-        "space_type": "Residential",
-        "functionality": "Entertainment and relaxation",
-        "indian_specific": "Cultural elements like carved wooden frames and geometric designs"
+        "space_utilization": "Efficient use of space with functional furniture and decorative wall art",
+        "cultural_significance": "The use of teak wood and metallic embellishments reflects traditional craftsmanship and luxury, often seen in North Indian homes, symbolizing wealth and status"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian living room with a blend of traditional and contemporary elements. The room features a richly carved wooden television unit with glass shelves, geometric-patterned curtains, and a wall art piece that complements the space with its floral design and metallic accents. The ceiling fan and wall panels add a touch of modernity without overshadowing the traditional materials like teak wood, which is the primary material used throughout the room. The color palette includes earthy browns, whites, and metallic gold, reflecting a traditional North Indian aesthetic. The space is well-lit with both natural and artificial light, creating a warm and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Interior",
+        "Teak Wood Furniture",
+        "Gold Accents",
+        "North Indian Design",
+        "Carved Panels",
+        "Living Room"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential Living Room",
+      "functionality": "Primary living and relaxation area",
+      "indian_specific": "Use of teak wood, carved wooden panels, and metallic embellishments"
     }
   },
-  "cached_at": 1753460071811,
+  "cached_at": 1754494774830,
   "cache_key": "886300eeaa02865753f1ed917fbf0ffa"
 }

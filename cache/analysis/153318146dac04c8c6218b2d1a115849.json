@@ -6,76 +6,57 @@
       "room": "Kitchen",
       "theme": "Modern Indian",
       "primary_features": [
-        "Wooden cabinets",
-        "Granite countertops",
-        "Lighting fixture",
-        "Wall-mounted shelves"
+        "Light wood cabinets",
+        "Overhead storage",
+        "Built-in counter"
       ],
       "objects": [
         {
-          "type": "Ceiling Light Fixture",
+          "type": "Overhead cabinet",
           "features": [
-            "Rectangular shape with intricate metallic design"
+            "Wooden, light brown color",
+            "Sliding door design",
+            "Carved detailing"
           ],
           "materials": [
-            "Metal"
+            "Teak wood"
           ],
-          "finish": "Polished metallic finish"
+          "finish": "Natural wood finish, possibly with a lacquer coating"
         },
         {
-          "type": "Cabinet Doors",
+          "type": "Built-in counter",
           "features": [
-            "Wooden, with a rustic finish"
+            "Wooden surface",
+            "Integrated sink",
+            "Countertop storage"
           ],
           "materials": [
-            "Wood"
+            "Light wood, possibly teak",
+            "Ceramic tiles"
           ],
-          "finish": "Natural wood finish"
-        },
-        {
-          "type": "Countertop",
-          "features": [
-            "Granite, smooth and glossy surface"
-          ],
-          "materials": [
-            "Granite"
-          ],
-          "finish": "High-gloss finish"
-        },
-        {
-          "type": "Wall-Mounted Shelves",
-          "features": [
-            "Metal brackets, with a modern design"
-          ],
-          "materials": [
-            "Metal"
-          ],
-          "finish": "Painted finish, likely a neutral color"
+          "finish": "Smooth, polished surface on wood, glossy ceramic tiles"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Beige",
-          "White",
-          "Wood tones",
-          " metallic grey"
+          "Light brown wood, white walls, grey backsplash"
         ],
         "materials": [
-          "Wood",
-          "Granite",
-          "Metal"
+          "Teak wood, ceramic tiles, metal sink"
         ],
-        "lighting": "Ambient lighting from a ceiling light with a modern design",
-        "texture": "Combination of smooth granite countertops and textured wooden cabinets"
+        "lighting": "Natural light from the window, artificial overhead lighting",
+        "texture": "Smooth wood surfaces, glossy ceramic tiles"
       },
       "indian_context": {
-        "regional_style": "Not specifically regional style visible",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Use of modern Indian design elements like the ceiling light and wall-mounted shelves"
+        "regional_style": "Not specific to a regional style due to modern adaptations",
+        "traditional_elements": [
+          "Carved detailing on cabinet doors"
         ],
-        "space_utilization": "Efficient and compact kitchen design with minimalistic furniture",
-        "cultural_significance": "Not culturally significant in this image, as it does not incorporate traditional Indian decorative elements"
+        "modern_adaptations": [
+          "Minimalistic design, integrated sink, overhead storage"
+        ],
+        "space_utilization": "Efficient use of space with overhead storage and integrated counter",
+        "cultural_significance": "Carved detailing reflects traditional craftsmanship, though not in a strictly regional context"
       }
     },
     "confidence_scores": {
@@ -85,22 +66,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image depicts a modern Indian kitchen with a combination of traditional and contemporary design elements. The space features wooden cabinetry with a natural finish, granite countertops, and a modern ceiling light with a metallic design. The kitchen is organized in a compact and efficient manner, with wall-mounted shelves for storage, which is a modern adaptation of traditional Indian kitchen designs. The color palette includes beige, white, and wood tones, with a metallic accent from the ceiling light, reflecting a contemporary take on traditional Indian aesthetics.",
+    "description": "This modern Indian kitchen features light wood cabinets with carved detailing, an integrated counter with a built-in sink, and efficient overhead storage. The space utilizes traditional craftsmanship in the form of carved details on the cabinets, which are merged with contemporary design elements for a sleek, functional look.",
     "metadata": {
       "tags": [
-        "Kitchen",
-        "Modern Indian Interior",
-        "Wooden Cabinets",
-        "Granite Countertops",
-        "Modern Ceiling Light",
-        "Compact Kitchen"
+        "Modern Indian Kitchen",
+        "Teak Cabinets",
+        "Carved Details",
+        "Efficient Storage",
+        "Integrated Counter"
       ],
-      "budget_indicator": "Moderate, with the use of granite countertops and a polished metallic finish for the ceiling light",
-      "space_type": "Residential Kitchen",
-      "functionality": "Primary purpose is for cooking and food preparation",
-      "indian_specific": "Furniture design with natural wood finish and a modern interpretation of traditional kitchen shelves"
+      "budget_indicator": "Moderate, with teak wood and quality ceramic tiles indicating a mid-range budget",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is for cooking and food preparation with efficient storage solutions",
+      "indian_specific": "Carved detailing on cabinets, use of teak wood"
     }
   },
-  "cached_at": 1753448804523,
+  "cached_at": 1754491461484,
   "cache_key": "153318146dac04c8c6218b2d1a115849"
 }

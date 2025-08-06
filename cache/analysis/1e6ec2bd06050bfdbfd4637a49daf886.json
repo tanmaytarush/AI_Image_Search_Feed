@@ -2,76 +2,75 @@
   "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/259/image_cropper_1727251569090.jpg",
   "analysis": {
     "image_id": "img_480",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/259/image_cropper_1727251569090.jpg",
     "ai_generated_tags": {
-      "room": "Kitchen",
-      "theme": "Minimalist Modern",
+      "room": "interior_space",
+      "theme": "modern_indian",
       "primary_features": [
-        "Drawers with glass inserts",
-        "White cabinetry",
-        "Black countertops",
-        "Modern fixtures"
+        "interior_design",
+        "indian_aesthetics"
       ],
       "objects": [
         {
-          "type": "Kitchen drawer",
+          "type": "furniture",
           "features": [
-            "Glass inserts",
-            "Metal handles"
+            "traditional_style"
           ],
           "materials": [
-            "Glass",
-            "Metal"
+            "wood",
+            "fabric"
           ],
-          "finish": "Glossy"
+          "finish": "natural"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Black",
-          "Clear (glass)"
+          "warm_tones",
+          "natural_colors"
         ],
         "materials": [
-          "Glass",
-          "Metal",
-          "Ceramic"
+          "wood",
+          "fabric",
+          "textiles"
         ],
-        "lighting": "Bright ambient lighting",
-        "texture": "Smooth surfaces"
+        "lighting": "ambient",
+        "texture": "natural_textures"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [],
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
         "modern_adaptations": [
-          "Integration of modern design principles in Indian context"
+          "contemporary_design"
         ],
-        "space_utilization": "Optimized for functionality with minimal storage solutions",
-        "cultural_significance": "No culturally significant elements visible"
-      },
-      "confidence_scores": {
-        "room": 0.85,
-        "theme": 0.92,
-        "primary_features": 0.8,
-        "objects": 0.95,
-        "indian_context": 0.6
-      },
-      "description": "The image depicts a modern kitchen interior with minimalist design elements. The focus is on a drawer with glass inserts, showcasing a sleek and contemporary aesthetic. The cabinetry is white, with black countertops that provide a striking contrast. The overall design emphasizes functionality and a clean, uncluttered look, with no traditional Indian elements present. The lighting is bright, enhancing the smooth surfaces of the materials used.",
-      "metadata": {
-        "tags": [
-          "Kitchen",
-          "Minimalist",
-          "Modern",
-          "Glass Inserts",
-          "White Cabinets",
-          "Black Countertops"
-        ],
-        "budget_indicator": "Moderate to High",
-        "space_type": "Residential",
-        "functionality": "Storage and preparation space",
-        "indian_specific": "No Indian-specific design features"
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
       }
-    }
+    },
+    "confidence_scores": {
+      "room": 0.5,
+      "theme": 0.5,
+      "primary_features": 0.5,
+      "objects": 0.5,
+      "indian_context": 0.5
+    },
+    "description": "Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern",
+        "traditional_elements"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1727251569090.jpg"
   },
-  "cached_at": 1753462497571,
+  "cached_at": 1754496693170,
   "cache_key": "1e6ec2bd06050bfdbfd4637a49daf886"
 }

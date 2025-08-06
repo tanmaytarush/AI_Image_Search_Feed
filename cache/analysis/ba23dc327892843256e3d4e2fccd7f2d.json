@@ -3,64 +3,71 @@
   "analysis": {
     "image_id": "img_427",
     "ai_generated_tags": {
-      "room": "Master Bedroom",
-      "theme": "Modern Indian",
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
       "primary_features": [
-        "Arched doorframe",
-        "LED ceiling lights",
-        "Teak wardrobe",
-        "Textured wall paneling"
+        "Arched door frame",
+        "Compact bed with stackable storage underneath",
+        "Wall-mounted lighting above bed",
+        "Framed artwork"
       ],
       "objects": [
         {
-          "type": "Teak wardrobe",
+          "type": "Bed",
           "features": [
-            "Carved detailing",
-            "Vertical slats"
+            "Double-sized mattress",
+            "Stackable storage drawers underneath"
           ],
           "materials": [
-            "Teak"
+            "Wooden frame",
+            "Fabric mattress"
           ],
-          "finish": "Natural teak finish"
+          "finish": "Polished finish on wood, soft fabric texture"
         },
         {
-          "type": "Textured wall paneling",
+          "type": "Framed artwork",
           "features": [
-            ".Patterned design",
-            "Cream color"
+            "Simple geometric design"
           ],
           "materials": [
-            "Wallpaper or painted wood"
+            "Paint on canvas"
           ],
-          "finish": "Smooth finish"
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Wall-mounted lighting",
+          "features": [
+            "Modern design, flush with ceiling"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Cream",
-          "Beige",
-          "Brown"
+          "Pink walls",
+          "Light beige bed frame",
+          "Brown storage drawers",
+          "Light wood ceiling"
         ],
         "materials": [
-          "Teak",
-          "Wood",
-          "Wallpaper"
+          "Walls: painted drywall, Bed frame: wood, Storage drawers: wood, Ceiling: painted wood"
         ],
-        "lighting": "Bright, with LED ceiling lights",
-        "texture": "Smooth and patterned texture"
+        "lighting": "Natural light filtered through sheer curtains, supplemented by wall-mounted lighting",
+        "texture": "Smooth walls, matte artwork, smooth ceiling"
       },
       "indian_context": {
-        "regional_style": "Central India",
+        "regional_style": "Mehrauli",
         "traditional_elements": [
-          "Carved teak wardrobe",
-          "Arched doorframe"
+          "Arched door frame"
         ],
         "modern_adaptations": [
-          "LED lighting",
-          "Textured wall paneling"
+          "Contemporary lighting fixtures, simple geometric artwork"
         ],
-        "space_utilization": "Efficient use of space with a clean layout",
-        "cultural_significance": "The carved teak wardrobe and arch are traditional elements that add cultural significance to the space"
+        "space_utilization": "Efficient use of space with integrated storage",
+        "cultural_significance": "Arched door frame symbolizes protection and positivity in traditional Indian homes"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -69,22 +76,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This modern Indian Master Bedroom features a traditional teak wardrobe with intricate carvings, complemented by a cream-colored, textured wall paneling. The space is illuminated by bright LED ceiling lights, creating a contemporary yet warm ambiance. The arched entrance and the overall color palette are indicative of Central Indian design influences.",
+      "description": "This bedroom showcases a contemporary Indian design with a blend of traditional and modern elements. The arched door frame and compact storage under the bed are traditional Indian design features, while the modern lighting fixtures and simple geometric artwork reflect a contemporary influence. The use of pink walls and light wood gives the room a warm and inviting feel, emphasizing a harmonious fusion of traditional and modern aesthetics.",
       "metadata": {
         "tags": [
-          "Master Bedroom",
-          "Modern Indian",
-          "Teak Wardrobe",
-          "Central India",
-          "LED Lighting"
+          "Indian bedroom",
+          "Contemporary design",
+          "Arched door frame",
+          "Compact storage",
+          "Modern lighting"
         ],
-        "budget_indicator": "Mid-range",
-        "space_type": "Residential",
-        "functionality": "Sleeping and personal space",
-        "indian_specific": "Traditional teak wardrobe, arched doorframe, and textured wall paneling"
+        "budget_indicator": "Moderate, with visible use of painted drywall, wood, and simple framed artwork.",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Arched door frame, compact storage"
       }
     }
   },
-  "cached_at": 1753461754459,
+  "cached_at": 1754496420512,
   "cache_key": "ba23dc327892843256e3d4e2fccd7f2d"
 }

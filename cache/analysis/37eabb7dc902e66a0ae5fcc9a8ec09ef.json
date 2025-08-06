@@ -3,68 +3,64 @@
   "analysis": {
     "image_id": "img_129",
     "ai_generated_tags": {
-      "room": "Sitting Area",
-      "theme": "Contemporary Indian",
+      "room": "Living Room",
+      "theme": "Modern Indian Fusion",
       "primary_features": [
-        "Sofa with tufted backrest",
-        "Wall-mounted shelves",
-        "Artwork"
+        "Gray upholstered sofa with a tufted backrest",
+        "Light blue storage unit with a glass top",
+        "White walls with decorative elements",
+        "Painted window frame"
       ],
       "objects": [
         {
           "type": "Sofa",
           "features": [
-            "Tufted backrest",
-            "Textured fabric"
+            "Upholstered in gray fabric",
+            "Tufted backrest for comfort",
+            "Contemporary design"
           ],
           "materials": [
-            "Fabric, upholstery material"
+            "Fabric, possibly leatherette or synthetic fabric"
           ],
-          "finish": "Soft and plush texture"
+          "finish": "Smooth upholstery with a subtle sheen"
         },
         {
-          "type": "Wall-mounted shelves",
+          "type": "Storage Unit",
           "features": [
-            "Elegant design",
-            "Blue finish"
+            "Light blue color",
+            "Glass top for display",
+            "Storage space underneath"
           ],
           "materials": [
-            "Painted wood or metal"
+            "Painted MDF or similar",
+            "Glass top"
           ],
-          "finish": "Smooth and glossy"
-        },
-        {
-          "type": "Artwork",
-          "features": [
-            "Simplistic design",
-            "Abstract pattern"
-          ],
-          "materials": [
-            "Canvas, frame"
-          ],
-          "finish": "Matte and vibrant colors"
+          "finish": "Matte paint finish on the unit, high gloss on the glass top"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Blue, white, beige, metallic accents"
+          "Light blue",
+          "Gray",
+          "White",
+          "Teal"
         ],
         "materials": [
-          "Fabric, wood, metal, canvas"
+          "Painted wood, fabric, glass"
         ],
-        "lighting": "Natural light from window",
-        "texture": "Soft fabric, smooth wood, glossy metal"
+        "lighting": "Natural light from the window",
+        "texture": "Soft upholstery, smooth glass, painted wood"
       },
       "indian_context": {
-        "regional_style": "Not strongly regionalized, but influenced by modern Indian design",
+        "regional_style": "No specific regional influence visible",
         "traditional_elements": [
-          "Tufted backrest"
+          "No traditional Indian furniture or elements like jharokha or carved wood"
         ],
         "modern_adaptations": [
-          "Wall-mounted shelves, contemporary artwork"
+          "The design is a modern interpretation of Indian aesthetics with a focus on functionality and contemporary furniture pieces"
         ],
-        "space_utilization": "Efficient use of space with wall-mounted shelves for storage",
-        "cultural_significance": "The tufted backrest is a traditional element adapted to modern settings"
+        "space_utilization": "Efficient use of space with a sofa and a storage unit",
+        "cultural_significance": "The color scheme and clean lines reflect a modern approach to Indian design, emphasizing simplicity and comfort"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -73,21 +69,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "A modern Indian sitting area featuring a tufted backrest sofa, wall-mounted shelves, and abstract artwork, blending traditional elements with contemporary design.",
+      "description": "This image depicts a modern Indian living room with a focus on contemporary furniture and minimalistic decor. The light blue sofa with a tufted backrest is a contemporary take on traditional Indian seating, while the glass top storage unit combines utility with a sleek design. The room utilizes a light blue and gray color palette, reflecting a modern Indian aesthetic. The space is well-lit with natural light, and the clean lines and simple textures emphasize a contemporary approach to Indian design.",
       "metadata": {
         "tags": [
-          "Sofa",
-          "Sitting Area",
-          "Contemporary Indian",
-          "Wall-mounted shelves"
+          "Living Room",
+          "Modern Indian",
+          "Contemporary Furniture",
+          "Glass Top",
+          "Light Blue"
         ],
-        "budget_indicator": "Moderate",
-        "space_type": "Living Room",
-        "functionality": "Reception or relaxation space",
-        "indian_specific": "Tufted backrest"
+        "budget_indicator": "Moderate to High, due to the use of painted MDF, upholstered fabric, and glass top",
+        "space_type": "Residential",
+        "functionality": "Relaxation and storage",
+        "indian_specific": "Contemporary interpretation of Indian design elements"
       }
     }
   },
-  "cached_at": 1753448841460,
+  "cached_at": 1754491486932,
   "cache_key": "37eabb7dc902e66a0ae5fcc9a8ec09ef"
 }

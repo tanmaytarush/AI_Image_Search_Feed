@@ -3,71 +3,58 @@
   "analysis": {
     "image_id": "img_308",
     "ai_generated_tags": {
-      "room": "Living room",
-      "theme": "Modern Indian",
+      "room": "Sitting Room",
+      "theme": "Bengali Traditional",
       "primary_features": [
-        "Round wooden stool",
-        "Black wall paneling",
-        "Wooden shelves"
+        "Round wooden district",
+        "Copper decorative screen",
+        "Blackboard wall"
       ],
       "objects": [
         {
-          "type": "Round wooden stool",
+          "type": "Round Wooden District",
           "features": [
-            "Carved wooden legs",
-            "Simple geometric pattern on top"
+            "Circular, wooden structure with intricate carvings"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Natural wood finish"
+          "finish": "Natural wood finish with visible grain and carvings"
         },
         {
-          "type": "Black wall paneling",
+          "type": "Copper Decorative Screen",
           "features": [
-            "Smooth surface",
-            "Contrast with furniture"
+            "Circular, circular perforated design, metallic sheen"
           ],
           "materials": [
-            "Painted wood or similar material"
+            "Copper"
           ],
-          "finish": "Flat black finish"
-        },
-        {
-          "type": "Wooden shelves",
-          "features": [
-            "Simple design",
-            "Integrated into wall paneling"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Same as the stool"
+          "finish": "Polished copper with reflective surface"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Black",
-          "Natural wood",
-          "Neutral wall"
+          "Brown (wood)",
+          "Copper",
+          "Black"
         ],
         "materials": [
           "Wood",
-          "Painted wood"
+          "Copper"
         ],
-        "lighting": "Soft ambient lighting",
-        "texture": "Smooth and natural"
+        "lighting": "Natural light from unseen windows, creating soft shadows",
+        "texture": "Rough texture of the wood and smooth texture of the copper"
       },
       "indian_context": {
-        "regional_style": "Maharashtra-style",
+        "regional_style": "Bengali",
         "traditional_elements": [
-          "Carved wooden legs on the stool"
+          "Carved wooden district"
         ],
         "modern_adaptations": [
-          "Contemporary black wall paneling and wooden shelves"
+          "Integration of copper screen for modern aesthetic"
         ],
-        "space_utilization": "Efficient use of vertical space with the shelves",
-        "cultural_significance": "The stool's design reflects traditional craftsmanship and regional artistry"
+        "space_utilization": "The space is organized with a focus on decorative elements, likely a display or a small sitting area",
+        "cultural_significance": "Copper and wood have historical significance in Bengali culture, often used in traditional architecture and furniture"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -76,22 +63,23 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image showcases a modern interpretation of traditional Indian interior design, featuring a round wooden stool with intricately carved legs, placed in a room with black wall paneling and integrated wooden shelves. The design combines the rustic charm of handcrafted wood with contemporary space optimization techniques, symbolizing a blend of heritage and modernity. The natural wood finish and the smooth black paneling create a striking contrast, enhancing the overall aesthetic appeal of the space.",
+      "description": "The image showcases a traditional Bengali interior featuring a circular wooden district with intricate carvings and a polished copper decorative screen. The blackboard wall in the background suggests a multi-functional space, possibly used for both display and everyday activities. The use of natural wood and copper highlights the traditional craftsmanship and aesthetic values of Bengali design, emphasizing natural textures and reflective surfaces.",
       "metadata": {
         "tags": [
-          "Modern Indian",
-          "Maharashtra Style",
-          "Wooden Stool",
-          "Black Paneling",
-          "Integrated Shelves"
+          "Bengali Interior",
+          "Wooden District",
+          "Copper Screen",
+          "Blackboard Wall",
+          "Traditional Design",
+          "Indian Interior"
         ],
-        "budget_indicator": "Moderate, with a focus on quality wood and finish",
-        "space_type": "Living room",
-        "functionality": "Aesthetic enhancement with space optimization",
-        "indian_specific": "Carved wooden stool and integrated shelves as traditional elements"
+        "budget_indicator": "Mid-range, as teak wood and polished copper are quality materials with moderate cost",
+        "space_type": "Residential Sitting Room",
+        "functionality": "Display and casual seating",
+        "indian_specific": "Carved Wood, Copper Decor, Blackboard Wall"
       }
     }
   },
-  "cached_at": 1753460256390,
+  "cached_at": 1754495071267,
   "cache_key": "3d550b84c69d434e8775c6537dcf7dd3"
 }

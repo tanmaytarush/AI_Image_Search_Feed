@@ -3,67 +3,76 @@
   "analysis": {
     "image_id": "img_347",
     "ai_generated_tags": {
-      "room": "Indoor space",
-      "theme": "Contemporary with traditional Indian influences",
+      "room": "Entryway or Foyer",
+      "theme": "Postmodern Indian Interior",
       "primary_features": [
-        "Framed artwork"
+        "Dark wooden panels",
+        "Marble flooring",
+        "Glass partition"
       ],
       "objects": [
         {
-          "type": "Framed artwork",
+          "type": "Glass Partition",
           "features": [
-            "Abstract design, likely depicting natural elements"
+            "Modern design",
+            "Translucent panels",
+            "Metal frame"
           ],
           "materials": [
-            "Unspecified, but likely wood or metal frame"
+            "Glass",
+            "Metal"
           ],
-          "finish": "Glossy or matte finish, depending on the media"
+          "finish": "Glossy, reflective"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Dark brown, black, and white"
+          "Dark brown",
+          "Black",
+          "White"
         ],
         "materials": [
-          "Non-specific, but likely modern materials"
+          "Wood",
+          "Marble",
+          "Glass"
         ],
-        "lighting": "Dim, focused lighting that highlights the framed artwork",
-        "texture": "Smooth surfaces with abstract patterns"
+        "lighting": "Natural light from behind the glass partition",
+        "texture": "Smooth surfaces with some reflective elements"
       },
       "indian_context": {
-        "regional_style": "Not clearly regional, but could be inspired by Mughal or Rajasthani art styles",
+        "regional_style": "Not distinctly regional, but has modern Indian design elements",
         "traditional_elements": [
-          "Abstract designs often found in Indian art"
+          "No traditional Indian elements visible"
         ],
         "modern_adaptations": [
-          "Contemporary style with traditional Indian art elements"
+          "Integration of modern design with traditional materials (wood, marble)"
         ],
-        "space_utilization": "The space appears to be a hallway or entrance area, possibly leading to a living room or bedroom",
-        "cultural_significance": "The framed artwork may represent cultural motifs or themes significant to Indian art and design"
+        "space_utilization": "Streamlined, with a focus on separation and light passage",
+        "cultural_significance": "The space reflects a contemporary Indian aesthetic with an emphasis on clean lines and modern materials"
       }
     },
     "confidence_scores": {
       "room": 0.85,
-      "theme": 0.78,
-      "primary_features": 0.83,
-      "objects": 0.88,
+      "theme": 0.8,
+      "primary_features": 0.82,
+      "objects": 0.9,
       "indian_context": 0.75
     },
-    "description": "This image showcases a contemporary indoor space with a framed abstract artwork that incorporates elements of traditional Indian art. The dark color palette and glossy finish of the frame suggest a modern interpretation of Indian design aesthetics, possibly inspired by Mughal or Rajasthani art styles. The lighting is dim, focusing on the artwork, which enhances its visual impact. The space appears to be a hallway or entrance area, possibly leading to a more traditionally decorated room within the house.",
+    "description": "The image depicts a modern Indian interior design, focusing on an entryway or foyer. The space features dark wooden panels, a glass partition with a metal frame, and a marble floor. The design emphasizes clean lines, modern materials, and a minimalist aesthetic. The lack of traditional Indian elements suggests a contemporary interpretation of Indian design principles.",
     "metadata": {
       "tags": [
-        "abstract art",
-        "contemporary design",
-        "Indian art",
-        "hallway",
-        "traditional elements"
+        "Indian interior design",
+        "Postmodern design",
+        "Glass partition",
+        "Marble flooring",
+        "Modern Indian design"
       ],
-      "budget_indicator": "Moderate to high, given the quality of materials and finishes",
-      "space_type": "Residential entrance or hallway",
-      "functionality": "Decoration and aesthetics",
-      "indian_specific": "Abstract designs and color palette inspired by traditional Indian art"
+      "budget_indicator": "High, given the use of marble and glass materials",
+      "space_type": "Residential (entryway/foyer)",
+      "functionality": "Separation of spaces, light passage, and entryway functionality",
+      "indian_specific": "Integration of modern design elements with traditional materials (wood, marble)"
     }
   },
-  "cached_at": 1753460708800,
+  "cached_at": 1754495729814,
   "cache_key": "c9d7cd237e07627e43250b2eb0c6c59f"
 }

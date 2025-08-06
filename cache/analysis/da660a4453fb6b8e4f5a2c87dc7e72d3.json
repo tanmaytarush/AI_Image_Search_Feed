@@ -3,72 +3,59 @@
   "analysis": {
     "image_id": "img_226",
     "ai_generated_tags": {
-      "room": "Master Bedroom",
-      "theme": "Contemporary Indian",
+      "room": "Bedroom",
+      "theme": "Minimalist with Indian Influences",
       "primary_features": [
-        "Wooden bed frame",
-        "Wall-mounted wardrobe",
-        "Flat-screen TV"
+        "Double bed",
+        "Wooden wardrobe",
+        "Simple lighting fixtures"
       ],
       "objects": [
         {
-          "type": "Bed frame",
-          "features": [
-            "Elevated",
-            "Modern design with clean lines"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Natural wood finish with a glossy top coat"
-        },
-        {
           "type": "Wardrobe",
           "features": [
-            "Wall-mounted",
-            "Integrated with the bed frame"
+            "Wooden finish",
+            "Simple design"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Matte finish with white doors"
+          "finish": "Natural wood finish"
         },
         {
-          "type": "TV",
+          "type": "Double bed",
           "features": [
-            "Flat-screen",
-            "Integrated into the wardrobe design"
+            "Mattress",
+            "Wooden headboard"
           ],
           "materials": [
-            "Glass, metal"
+            "Foam",
+            "Wood"
           ],
-          "finish": "Metal frame with a matte glass front"
+          "finish": "Wooden headboard finish"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Brown",
-          "Gray"
+          "Light wood",
+          "Dark wood"
         ],
         "materials": [
           "Wood",
-          "Metal",
-          "Glass"
+          "Metal"
         ],
-        "lighting": "Natural light from the window and artificial light from the ceiling",
-        "texture": "Smooth wood texture, glossy wood finish, matte glass"
+        "lighting": "Natural light from ceiling lamps, artificial light from wall lamps",
+        "texture": "Smooth wooden texture"
       },
       "indian_context": {
-        "regional_style": "Maharashtrian",
-        "traditional_elements": [
-          "Wooden bed frame"
-        ],
+        "regional_style": "Maharashtra style",
+        "traditional_elements": [],
         "modern_adaptations": [
-          "Wall-mounted wardrobe, flat-screen TV"
+          "Modern minimalistic design with traditional Indian woodwork"
         ],
-        "space_utilization": "Optimized for a small room, with furniture designed to maximize vertical space",
-        "cultural_significance": "The wooden bed frame reflects traditional craftsmanship, while the modern elements symbolize contemporary living"
+        "space_utilization": "Efficient use of space for minimal storage",
+        "cultural_significance": "Reflects contemporary Indian interior design with a touch of traditional elements"
       },
       "confidence_scores": {
         "room": 0.95,
@@ -77,22 +64,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "This contemporary Indian master bedroom features a sleek wooden bed frame with an elevated design, wall-mounted wardrobes that blend seamlessly with the room's aesthetic, and a flat-screen TV integrated into the wardrobe, maximizing space while maintaining a modern look. The color palette consists of earthy browns and whites, reflecting traditional elements with a twist of modernity.",
+      "description": "This image showcases a minimalist bedroom with Indian influences, featuring a wooden wardrobe and a bed with a wooden headboard. The room utilizes a combination of light and dark wood tones, with simple and modern lighting fixtures. The space is efficiently organized for storage, reflecting a contemporary take on traditional Indian design elements.",
       "metadata": {
         "tags": [
-          "Contemporary Indian",
-          "Master Bedroom",
-          "Wooden Bed",
-          "Wall-Mounted Wardrobe",
-          "Maharashtrian Style"
+          "Minimalist",
+          "Indian Interior",
+          "Modern Design",
+          "Wooden Furniture",
+          "Bedroom"
         ],
-        "budget_indicator": "Mid-range, with a focus on quality materials and design",
-        "space_type": "Residential, private suite",
+        "budget_indicator": "Moderate, focused on quality materials like wood and metal fixtures",
+        "space_type": "Residential Bedroom",
         "functionality": "Sleeping and storage",
-        "indian_specific": "Traditional woodwork in a modern setting"
+        "indian_specific": "Modern interpretation of traditional woodwork and storage"
       }
     }
   },
-  "cached_at": 1753459450753,
+  "cached_at": 1754493434417,
   "cache_key": "da660a4453fb6b8e4f5a2c87dc7e72d3"
 }

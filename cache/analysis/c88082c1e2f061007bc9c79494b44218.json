@@ -4,95 +4,82 @@
     "image_id": "img_104",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Minimalist",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Wall-mounted cabinets",
-        "Countertop",
-        "Sink"
+        "Cupboards with teal and cream colors",
+        "White countertop",
+        "Teal wall tiles",
+        "Metal handles on cupboards",
+        "Lighting above counter"
       ],
       "objects": [
         {
-          "type": "Wall-mounted cabinets",
+          "type": "Cupboards",
           "features": [
-            "Rectangular shape",
-            "Blue and white color scheme",
-            "Metallic hardware"
+            "Rectangular design",
+            "Two-tone color scheme (teal and cream)"
           ],
           "materials": [
-            "Wood (likely teak or similar)",
-            "Metal (hardware)"
+            "Cabinet doors appear to be made of wood or wood composite, likely with a painted finish"
           ],
-          "finish": "Matte surface finish"
+          "finish": "Glossy finish on doors and countertops"
         },
         {
           "type": "Countertop",
           "features": [
-            "Smooth surface",
-            "White color"
+            "White surface, possibly made of marble or a similar material"
           ],
           "materials": [
-            "Marble or quartz"
+            "Marble or similar material"
           ],
-          "finish": "Polished surface finish"
-        },
-        {
-          "type": "Sink",
-          "features": [
-            "White color",
-            "Integrated with countertop"
-          ],
-          "materials": [
-            "Ceramic or porcelain"
-          ],
-          "finish": "Smooth surface finish"
+          "finish": "Polished finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
-          "Blue",
-          "Brown (wood tone)"
+          "Teal, cream, white"
         ],
         "materials": [
-          "Wood",
-          "Metal",
-          "Marble/Quartz"
+          "Wood composite, metal, marble"
         ],
-        "lighting": "Natural light from windows",
-        "texture": "Smooth surfaces"
+        "lighting": "Natural light and possibly overhead LED lighting",
+        "texture": "Smooth and shiny surfaces"
       },
       "indian_context": {
-        "regional_style": "Not applicable",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Use of wall-mounted cabinets for space optimization"
+        "regional_style": "Not specific to a regional style",
+        "traditional_elements": [
+          "Not visible"
         ],
-        "space_utilization": "Efficient use of wall space",
-        "cultural_significance": "Minimalist design approach may be influenced by modern Indian interior trends, not specifically traditional"
+        "modern_adaptations": [
+          "Use of modern color schemes and materials, such as teal and white, with a glossy finish"
+        ],
+        "space_utilization": "The space appears to be optimized for storage and functionality, with ample cupboard space and a clean countertop for food preparation or storage",
+        "cultural_significance": "While not overtly traditional, the use of teal and cream could be a nod to the color palette often used in contemporary Indian interiors, which may be influenced by traditional design elements, though not explicitly visible in this image"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern kitchen interior with a clean and functional layout. The cabinets feature a two-tone color scheme of teal and cream, with glossy finishes that highlight their sleek design. The countertops are white, likely made of marble or a similar material, and the space is well-lit by both natural light and overhead lighting. There are no overtly traditional Indian design elements present, but the color palette and clean lines suggest a contemporary interpretation of traditional Indian design aesthetics.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Kitchen",
+          "Teal and cream",
+          "Glossy finish",
+          "Marble countertop",
+          "Functional space"
+        ],
+        "budget_indicator": "Mid-range, due to the use of modern materials like marble and gloss finishes",
+        "space_type": "Residential kitchen",
+        "functionality": "Storage and food preparation",
+        "indian_specific": "Modern interpretation of color palette often seen in contemporary Indian interiors"
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The kitchen features a minimalist design with wall-mounted cabinets in a blue and white color scheme. The cabinets are made of wood, likely teak, and have a metallic finish, reflecting a modern adaptation of traditional Indian wooden furniture. The countertop is made of marble or quartz, providing a smooth and polished surface. The sink is integrated with the countertop, maintaining the minimalist aesthetic. The space is well-lit with natural light, emphasizing the clean and simple design.",
-    "metadata": {
-      "tags": [
-        "Minimalist Kitchen",
-        "Wall-mounted cabinets",
-        "Blue and White",
-        "Modern Indian Interior",
-        "Marble Countertop"
-      ],
-      "budget_indicator": "Moderate to high, given the materials used (wood, marble/quartz, metallic finishes)",
-      "space_type": "Residential kitchen",
-      "functionality": "Storage and preparation area",
-      "indian_specific": "Modern interpretation of space optimization through wall-mounted cabinets"
     }
   },
-  "cached_at": 1753448215601,
+  "cached_at": 1754491114644,
   "cache_key": "c88082c1e2f061007bc9c79494b44218"
 }

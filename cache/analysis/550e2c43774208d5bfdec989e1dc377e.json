@@ -3,98 +3,91 @@
   "analysis": {
     "image_id": "img_224",
     "ai_generated_tags": {
-      "room": "Master Bedroom",
-      "theme": "Contemporary Indian",
+      "room": "Living Room",
+      "theme": "Modern Indian",
       "primary_features": [
-        "Large bed with a plush cushioned mattress",
-        "Modern lighting fixtures",
-        "Minimalist decor",
-        "Large windows with curtains",
-        "Luxury bedding"
+        "Exposed ceiling beams",
+        "Hanging ceiling light fixture",
+        "Textured wall panels",
+        "Low-profile sofa bed",
+        "Glass partition for segmentation"
       ],
       "objects": [
         {
-          "type": "Bed",
+          "type": "Sofa Bed",
           "features": [
-            "Large, plush, cushioned mattress",
-            "Modern design with minimalistic headboard"
+            "Low profile, upholstered, modern design"
           ],
           "materials": [
-            "Cushions appear to be filled with down or a similar material",
-            "Mattress looks to be a combination of foam and fabric"
+            "Fabric, wood frame"
           ],
-          "finish": "No visible finish details"
+          "finish": "Textured and modern"
         },
         {
-          "type": "Lighting",
+          "type": "Wall Panel",
           "features": [
-            "Modern, sleek ceiling fixture"
+            "Textured, possibly made of marble or stone"
           ],
           "materials": [
-            "Not specified"
+            "Marble, stone"
           ],
-          "finish": "Not specified"
+          "finish": "Rough, natural texture"
         },
         {
-          "type": "Curtains",
+          "type": "Partition",
           "features": [
-            "Large, floor-to-ceiling curtains with a simple design"
+            "Glass and wooden frame"
           ],
           "materials": [
-            "Not specified"
+            "Glass, wood"
           ],
-          "finish": "Not specified"
+          "finish": "Clean and modern"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Neutral tones (beige, white, gray)"
+          "Beige, white, brown, black"
         ],
         "materials": [
-          "Cushions and mattress (fabric)",
-          "Ceiling (likely paint or plaster)",
-          "Flooring (likely a polished material)",
-          "Curtains (likely fabric)"
+          "Marble, wood, glass"
         ],
-        "lighting": "Artificial, with ceiling lights providing ambient lighting",
-        "texture": [
-          "Cushion textures, smooth ceiling, likely polished floor, soft fabric of curtains"
-        ]
+        "lighting": "Natural and artificial, evenly distributed",
+        "texture": "Textured wall panels, smooth floor, modern sofa bed finish"
       },
       "indian_context": {
-        "regional_style": "No distinct regional style visible",
+        "regional_style": "Not specifically identifiable due to modern adaptations",
         "traditional_elements": [
-          "No traditional Indian elements like carved jharokhas or diwans"
+          "Carved wood elements on partition"
         ],
         "modern_adaptations": [
-          "Contemporary design with modern fixtures and a minimalist approach"
+          "Textured marble wall panels, modern sofa bed design"
         ],
-        "space_utilization": "Efficient use of space with a large bed as the centerpiece, and curtains for privacy",
-        "cultural_significance": "No specific cultural element visible, but the overall design aligns with a modern Indian aesthetic that incorporates Western design trends"
-      },
-      "confidence_scores": {
-        "room": 0.95,
-        "theme": 0.87,
-        "primary_features": 0.89,
-        "objects": 0.92,
-        "indian_context": 0.9
-      },
-      "description": "The interior space is a modern Indian-inspired master bedroom with a luxurious and minimalist design. The large bed, with a plush mattress and soft cushions, is the focal point, complemented by sleek modern lighting fixtures. The use of neutral tones and smooth materials creates a serene and sophisticated atmosphere. The minimalist decor and efficient space utilization suggest a contemporary adaptation of traditional Indian design principles.",
-      "metadata": {
-        "tags": [
-          "Modern Indian",
-          "Minimalist Design",
-          "Luxury Bedroom",
-          "Neutral Tones",
-          "Contemporary Style"
-        ],
-        "budget_indicator": "Higher, due to the use of plush materials and modern fixtures",
-        "space_type": "Residential",
-        "functionality": "Primary sleeping and relaxation area",
-        "indian_specific": "Modern interpretation of traditional Indian design elements"
+        "space_utilization": "Open, with partition for privacy and segmentation",
+        "cultural_significance": "The use of marble and wood in partition reflects traditional materials, while the modern sofa bed design and clean lines reflect contemporary trends"
       }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian interior features a living space with a contemporary twist to traditional elements. The exposed ceiling beams and hanging light fixture add a touch of modernity, while the textured wall panels in marble or stone bring in the traditional feel. The low-profile sofa bed with a fabric finish and clean lines is a modern interpretation of the traditional diwan. The glass partition with a wooden frame provides segmentation and privacy, maintaining a blend of traditional and modern design. The color palette of beige, white, brown, and black complements the natural and modern aesthetic.",
+    "metadata": {
+      "tags": [
+        "modern Indian",
+        "textured walls",
+        "marble partition",
+        "low-profile sofa bed",
+        "glass partition"
+      ],
+      "budget_indicator": "Mid-range, with materials like marble and fabric",
+      "space_type": "Living Room with a sleeping area",
+      "functionality": "Serves as a combined living and sleeping area with space optimization",
+      "indian_specific": "Textured wall panels and use of marble in partition"
     }
   },
-  "cached_at": 1753459426842,
+  "cached_at": 1754493391388,
   "cache_key": "550e2c43774208d5bfdec989e1dc377e"
 }

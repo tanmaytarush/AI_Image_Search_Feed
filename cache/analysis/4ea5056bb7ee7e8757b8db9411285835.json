@@ -3,96 +3,75 @@
   "analysis": {
     "image_id": "img_418",
     "ai_generated_tags": {
-      "room": "Study or workspace",
-      "theme": "Contemporary Indian",
+      "room": "Study Room",
+      "theme": "Indian Minimalist",
       "primary_features": [
-        "Framed artwork on the wall",
-        "Wooden shelves with books",
         "Wooden desk",
-        "Chair with woven backrest",
-        "Stacked books"
+        "Shelving unit",
+        "Metal chair"
       ],
       "objects": [
         {
-          "type": "Framed artwork",
+          "type": "Wooden desk",
           "features": [
-            "Horizontal orientation",
-            "Geometric patterns"
+            "Rectangular shape",
+            "Simple design",
+            "Curved legs"
           ],
           "materials": [
-            "Unspecified"
-          ],
-          "finish": "Matte finish"
-        },
-        {
-          "type": "Shelves",
-          "features": [
-            "Wooden, two-tiered",
-            "Holds books"
-          ],
-          "materials": [
-            "Teak"
+            "Teak wood"
           ],
           "finish": "Natural wood finish"
         },
         {
-          "type": "Desk",
+          "type": "Shelving unit",
           "features": [
-            "Wooden with a framed leg design",
-            "Surface is clean and uncluttered"
+            "Integrated into wall",
+            "Multiple shelves",
+            "Decorative items"
           ],
           "materials": [
-            "Teak"
+            "Wood"
           ],
-          "finish": "Natural wood finish"
+          "finish": "Matching wood finish"
         },
         {
-          "type": "Chair",
+          "type": "Metal chair",
           "features": [
-            "Woven backrest",
-            "Wooden frame"
+            "Compact design",
+            "Black color"
           ],
           "materials": [
-            "Teak for frame, woven material for backrest"
+            "Metal"
           ],
-          "finish": "Natural wood finish for frame, woven texture for backrest"
-        },
-        {
-          "type": "Stacked books",
-          "features": [
-            "Colorful covers"
-          ],
-          "materials": [
-            "Paper"
-          ],
-          "finish": "Smooth paper texture"
+          "finish": "Matte black finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "Brown (wood), Beige (wall), Green (framed artwork), Multi-colored (books)",
-          "White (chair frame), Beige (woven backrest)"
+          "Brown",
+          "Black",
+          "White",
+          "Multicolor toy"
         ],
         "materials": [
-          "Teak, Marble, Brass, Woven material, Paper"
+          "Teak wood",
+          "Metal",
+          "Wood"
         ],
-        "lighting": "Natural light from the left, possibly from a window",
-        "texture": [
-          "Smooth wood, woven texture, glossy marble, metallic brass accents"
-        ]
+        "lighting": "Natural lighting from the window",
+        "texture": "Smooth and polished surfaces"
       },
       "indian_context": {
-        "regional_style": "Northern Indian, possibly from Rajasthan or Delhi",
+        "regional_style": "Maharashtra",
         "traditional_elements": [
-          "Wooden frames and carvings",
-          "Carpet",
-          "Jharokha (window design)"
+          "Wooden furniture"
         ],
         "modern_adaptations": [
-          "Use of modern materials like marble and brass for accents"
+          "Minimalistic approach"
         ],
-        "space_utilization": "Efficient use of vertical space with shelves, maximizing storage and functionality",
-        "cultural_significance": "The use of natural wood and woven elements reflects traditional craftsmanship and a connection to nature"
+        "space_utilization": "Efficient use of wall space",
+        "cultural_significance": "Emphasis on functionality and clean lines"
       }
     },
     "confidence_scores": {
@@ -102,23 +81,21 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "The image depicts a study or workspace with a contemporary Indian design aesthetic. The room features a wooden desk with a framed leg design and two-tiered shelves, both made of teak. The chair has a woven backrest and a wooden frame, maintaining a traditional look. Framed artwork on the wall adds a decorative element, and the overall color palette includes brown, beige, green, and multi-colored books. The use of natural wood and woven materials reflects traditional craftsmanship, while modern materials like marble and brass for accents offer a blend of traditional and contemporary styles. The space is organized efficiently, maximizing vertical storage with shelves.",
+    "description": "This study room showcases a modern interpretation of traditional Indian design elements. The wooden desk and shelving unit, made of teak wood, are classic features with a contemporary twist, featuring clean lines and a focus on functionality. The metal chair adds a modern touch while maintaining simplicity. The room is well-lit from a natural source, emphasizing the natural beauty of the wood and the minimalist aesthetic, which is characteristic of modern Indian interior design.",
     "metadata": {
       "tags": [
         "Indian interior design",
-        "Contemporary Indian",
-        "Wooden furniture",
-        "Teak",
-        "Shelving units",
-        "Study",
-        "Workspace"
+        "Modern minimalist",
+        "Study room",
+        "Teak wood",
+        "Metal furniture"
       ],
-      "budget_indicator": "Moderate, with a focus on natural wood and traditional craftsmanship",
-      "space_type": "Residential study or home office",
-      "functionality": "Primary function is for study and work",
-      "indian_specific": "Use of teak, woven backrest, and framed artwork"
+      "budget_indicator": "Mid-range, with natural wood and metal indicating a balance between modernity and traditional elements",
+      "space_type": "Residential, likely in a home",
+      "functionality": "Primary use as a study or work area, with efficient use of space",
+      "indian_specific": "Use of teak wood and simple design elements"
     }
   },
-  "cached_at": 1753461653028,
+  "cached_at": 1754496320357,
   "cache_key": "4ea5056bb7ee7e8757b8db9411285835"
 }
