@@ -6,10 +6,16 @@ dotenv.config();
 
 class QdrantService {
   constructor() {
-    this.client = new QdrantClient({
+    const config = {
       url: process.env.QDRANT_URL || "http://localhost:6333",
-      apiKey: process.env.QDRANT_API_KEY,
-    });
+    };
+    
+    // Only add apiKey if it's set and not a placeholder
+    if (process.env.QDRANT_API_KEY && process.env.QDRANT_API_KEY !== "your_qdrant_api_key") {
+      config.apiKey = process.env.QDRANT_API_KEY;
+    }
+    
+    this.client = new QdrantClient(config);
     this.collectionName = "interior_images";
   }
 
