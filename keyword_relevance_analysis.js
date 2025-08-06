@@ -1,6 +1,6 @@
 /**
- * Keyword Relevance Analysis Script
- * Tests search relevance for interior design keywords and generates CSV report
+ * Simple Keyword API Testing Script
+ * Tests search API for interior design keywords and returns basic statistics
  */
 
 import fetch from "node-fetch";
@@ -227,54 +227,73 @@ const KEYWORDS = {
 
 /**
  * Calculate relevance score for search results
+ * High score for room matches, lower score for pattern/theme matches
  */
 function calculateRelevanceScore(results, keyword) {
   if (!results || results.length === 0) return 0;
 
-  const keywordLower = keyword.toLowerCase();
-  const keywordWords = keywordLower
-    .split(/\s+/)
-    .filter((word) => word.length > 2);
-
   let totalRelevance = 0;
   let relevantResults = 0;
 
+  // Break down keyword into individual words for better matching
+  const keywordWords = keyword.toLowerCase().split(' ').filter(word => word.length > 2);
+  
   for (const result of results) {
     let resultRelevance = 0;
+    let matchedWords = 0;
 
-    // Check caption relevance
-    if (result.caption) {
-      const captionLower = result.caption.toLowerCase();
+    // Check room_type relevance (HIGH PRIORITY - 0.4 points per match)
+    if (result.room_type) {
+      const roomTypeLower = result.room_type.toLowerCase();
       for (const word of keywordWords) {
-        if (captionLower.includes(word)) {
-          resultRelevance += 0.3;
-        }
-      }
-    }
-
-    // Check tags relevance
-    if (result.tags) {
-      const tagsLower = result.tags.toLowerCase();
-      for (const word of keywordWords) {
-        if (tagsLower.includes(word)) {
+        if (roomTypeLower.includes(word)) {
           resultRelevance += 0.4;
+          matchedWords++;
         }
       }
     }
 
-    // Check AI generated tags if available
-    if (result.ai_generated_tags) {
-      const aiTags = JSON.stringify(result.ai_generated_tags).toLowerCase();
+    // Check design_theme relevance (MEDIUM PRIORITY - 0.2 points per match)
+    if (result.design_theme) {
+      const themeLower = result.design_theme.toLowerCase();
       for (const word of keywordWords) {
-        if (aiTags.includes(word)) {
-          resultRelevance += 0.5;
+        if (themeLower.includes(word)) {
+          resultRelevance += 0.2;
+          matchedWords++;
         }
       }
     }
 
-    // Check score relevance
-    if (result.score) {
-      resultRelevance += Math.min(result.score / 100, 0.3);
+    // Check tags relevance (LOWER PRIORITY - 0.15 points per match)
+    if (result.tags) {
+      const tagsString = JSON.stringify(result.tags).toLowerCase();
+      for (const word of keywordWords) {
+        if (tagsString.includes(word)) {
+          resultRelevance += 0.15;
+          matchedWords++;
+        }
+      }
+    }
+
+    // Check search_tags relevance (HIGH PRIORITY - 0.3 points per match)
+    if (result.search_tags) {
+      const searchTagsString = result.search_tags.join(' ').toLowerCase();
+      for (const word of keywordWords) {
+        if (searchTagsString.includes(word)) {
+          resultRelevance += 0.3;
+          matchedWords++;
+        }
+      }
+    }
+
+    // Check tag_match_score relevance (BONUS - up to 0.2 points)
+    if (result.tag_match_score) {
+      resultRelevance += Math.min(result.tag_match_score / 100, 0.2);
+    }
+
+    // Bonus for multiple word matches (0.1 points)
+    if (matchedWords >= 2) {
+      resultRelevance += 0.1;
     }
 
     // Consider result relevant if score > 0.3
@@ -295,7 +314,7 @@ function calculateRelevanceScore(results, keyword) {
     relevancePercentage: Math.round(relevancePercentage * 100) / 100,
     averageRelevanceScore: Math.round(averageRelevanceScore * 100) / 100,
     totalResults: results.length,
-    relevantResults: relevantResults,
+    relevantResults: relevantResults
   };
 }
 
@@ -311,20 +330,25 @@ async function testKeyword(keyword, category) {
     );
     const data = await response.json();
 
-    if (data.success && data.images) {
-      const relevance = calculateRelevanceScore(data.images, keyword);
+    if (data.success && data.data) {
+      const relevance = calculateRelevanceScore(data.data, keyword);
 
       return {
         category: category,
         keyword: keyword,
-        totalResults: relevance.totalResults,
+        totalResults: data.data.length,
         relevantResults: relevance.relevantResults,
         relevancePercentage: relevance.relevancePercentage,
         averageRelevanceScore: relevance.averageRelevanceScore,
         searchStrategy: data.search_metadata?.search_strategy || "unknown",
         exactSearchEnabled: data.search_metadata?.exact_search_enabled || false,
-        exactSearchConfidence:
-          data.search_metadata?.exact_search_confidence || 0,
+        exactSearchConfidence: data.search_metadata?.exact_search_confidence || 0,
+        imageUrls: data.data?.map(item => item.image_url).join('; ') || '',
+        // Sample result data for analysis
+        sampleRoomType: data.data[0]?.room_type || '',
+        sampleDesignTheme: data.data[0]?.design_theme || '',
+        sampleTags: JSON.stringify(data.data[0]?.tags || []),
+        sampleSearchTags: data.data[0]?.search_tags?.join(', ') || ''
       };
     } else {
       console.log(
@@ -340,6 +364,11 @@ async function testKeyword(keyword, category) {
         searchStrategy: "error",
         exactSearchEnabled: false,
         exactSearchConfidence: 0,
+        imageUrls: '',
+        sampleRoomType: '',
+        sampleDesignTheme: '',
+        sampleTags: '',
+        sampleSearchTags: ''
       };
     }
   } catch (error) {
@@ -354,6 +383,11 @@ async function testKeyword(keyword, category) {
       searchStrategy: "network_error",
       exactSearchEnabled: false,
       exactSearchConfidence: 0,
+      imageUrls: '',
+      sampleRoomType: '',
+      sampleDesignTheme: '',
+      sampleTags: '',
+      sampleSearchTags: ''
     };
   }
 }
@@ -372,6 +406,11 @@ function generateCSV(results) {
     "Search Strategy",
     "Exact Search Enabled",
     "Exact Search Confidence",
+    "Image URLs",
+    "Sample Room Type",
+    "Sample Design Theme",
+    "Sample Tags",
+    "Sample Search Tags"
   ];
 
   const csvRows = [headers.join(",")];
@@ -387,6 +426,11 @@ function generateCSV(results) {
       `"${result.searchStrategy}"`,
       result.exactSearchEnabled,
       result.exactSearchConfidence,
+      `"${result.imageUrls}"`,
+      `"${result.sampleRoomType}"`,
+      `"${result.sampleDesignTheme}"`,
+      `"${result.sampleTags}"`,
+      `"${result.sampleSearchTags}"`
     ];
     csvRows.push(row.join(","));
   }
@@ -408,29 +452,31 @@ function calculateSummaryStats(results) {
         totalRelevantResults: 0,
         totalRelevancePercentage: 0,
         totalAverageRelevanceScore: 0,
+        successfulSearches: 0,
+        failedSearches: 0
       };
     }
 
     categoryStats[result.category].totalKeywords++;
-    categoryStats[result.category].totalResults += result.totalResults;
-    categoryStats[result.category].totalRelevantResults +=
-      result.relevantResults;
-    categoryStats[result.category].totalRelevancePercentage +=
-      result.relevancePercentage;
-    categoryStats[result.category].totalAverageRelevanceScore +=
-      result.averageRelevanceScore;
+    categoryStats[result.category].totalResults += (result.totalResults || 0);
+    categoryStats[result.category].totalRelevantResults += (result.relevantResults || 0);
+    categoryStats[result.category].totalRelevancePercentage += (result.relevancePercentage || 0);
+    categoryStats[result.category].totalAverageRelevanceScore += (result.averageRelevanceScore || 0);
+    
+    if (result.searchStrategy === "error" || result.searchStrategy === "network_error") {
+      categoryStats[result.category].failedSearches++;
+    } else {
+      categoryStats[result.category].successfulSearches++;
+    }
   }
 
   // Calculate averages
   for (const category in categoryStats) {
     const stats = categoryStats[category];
-    stats.averageRelevancePercentage =
-      Math.round((stats.totalRelevancePercentage / stats.totalKeywords) * 100) /
-      100;
-    stats.averageRelevanceScore =
-      Math.round(
-        (stats.totalAverageRelevanceScore / stats.totalKeywords) * 100
-      ) / 100;
+    stats.averageResultsPerKeyword = Math.round(stats.totalResults / stats.totalKeywords);
+    stats.averageRelevancePercentage = Math.round((stats.totalRelevancePercentage / stats.totalKeywords) * 100) / 100;
+    stats.averageRelevanceScore = Math.round((stats.totalAverageRelevanceScore / stats.totalKeywords) * 100) / 100;
+    stats.successRate = Math.round((stats.successfulSearches / stats.totalKeywords) * 100);
   }
 
   return categoryStats;
@@ -440,7 +486,7 @@ function calculateSummaryStats(results) {
  * Main analysis function
  */
 async function runAnalysis() {
-  console.log("🚀 Starting Keyword Relevance Analysis\n");
+  console.log("🚀 Starting Keyword Relevance Analysis with Proper Scoring\n");
 
   const allResults = [];
 
@@ -467,9 +513,16 @@ async function runAnalysis() {
   const csvContent = generateCSV(allResults);
   const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
   const filename = `keyword_relevance_analysis_${timestamp}.csv`;
-
-  fs.writeFileSync(filename, csvContent);
-  console.log(`📄 CSV report saved: ${filename}`);
+  
+  // Ensure the data directory exists
+  const dataDir = path.join(process.cwd(), 'src', 'data');
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir, { recursive: true });
+  }
+  
+  const filepath = path.join(dataDir, filename);
+  fs.writeFileSync(filepath, csvContent);
+  console.log(`📄 CSV report saved: ${filepath}`);
 
   // Calculate and display summary statistics
   const summaryStats = calculateSummaryStats(allResults);
@@ -482,40 +535,29 @@ async function runAnalysis() {
     console.log(`   Keywords tested: ${stats.totalKeywords}`);
     console.log(`   Total results: ${stats.totalResults}`);
     console.log(`   Total relevant results: ${stats.totalRelevantResults}`);
-    console.log(
-      `   Average relevance percentage: ${stats.averageRelevancePercentage}%`
-    );
+    console.log(`   Average relevance percentage: ${stats.averageRelevancePercentage}%`);
     console.log(`   Average relevance score: ${stats.averageRelevanceScore}%`);
+    console.log(`   Success rate: ${stats.successRate}%`);
   }
 
   // Overall statistics
   const totalKeywords = allResults.length;
-  const totalResults = allResults.reduce((sum, r) => sum + r.totalResults, 0);
-  const totalRelevantResults = allResults.reduce(
-    (sum, r) => sum + r.relevantResults,
-    0
-  );
-  const overallRelevancePercentage =
-    totalResults > 0 ? (totalRelevantResults / totalResults) * 100 : 0;
-  const averageRelevanceScore =
-    allResults.reduce((sum, r) => sum + r.averageRelevanceScore, 0) /
-    totalKeywords;
+  const totalResults = allResults.reduce((sum, r) => sum + (r.totalResults || 0), 0);
+  const totalRelevantResults = allResults.reduce((sum, r) => sum + (r.relevantResults || 0), 0);
+  const overallRelevancePercentage = totalResults > 0 ? (totalRelevantResults / totalResults) * 100 : 0;
+  const averageRelevanceScore = allResults.reduce((sum, r) => sum + (r.averageRelevanceScore || 0), 0) / totalKeywords;
+  const successfulSearches = allResults.filter(r => r.searchStrategy !== "error" && r.searchStrategy !== "network_error").length;
 
   console.log("\n🎯 OVERALL STATISTICS:");
   console.log("=".repeat(80));
   console.log(`Total keywords tested: ${totalKeywords}`);
   console.log(`Total search results: ${totalResults}`);
   console.log(`Total relevant results: ${totalRelevantResults}`);
-  console.log(
-    `Overall relevance percentage: ${
-      Math.round(overallRelevancePercentage * 100) / 100
-    }%`
-  );
-  console.log(
-    `Average relevance score: ${Math.round(averageRelevanceScore * 100) / 100}%`
-  );
+  console.log(`Overall relevance percentage: ${Math.round(overallRelevancePercentage * 100) / 100}%`);
+  console.log(`Average relevance score: ${Math.round(averageRelevanceScore * 100) / 100}%`);
+  console.log(`Overall success rate: ${Math.round((successfulSearches / totalKeywords) * 100)}%`);
 
-  console.log("\n✅ Analysis completed!");
+  console.log("\n✅ Relevance analysis completed!");
 }
 
 // Run analysis if this file is executed directly
@@ -523,4 +565,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   runAnalysis().catch(console.error);
 }
 
-export { runAnalysis, testKeyword, calculateRelevanceScore };
+export { 
+  runAnalysis, 
+  testKeyword,
+  calculateRelevanceScore
+};

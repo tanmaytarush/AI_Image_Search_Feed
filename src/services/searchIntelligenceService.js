@@ -10,8 +10,24 @@ class SearchIntelligenceService {
     this.queryEmbeddingModel = null;
     this.initialized = false;
     
-    // AI-generated concept cache
+    // Instagram-style search components
     this.conceptCache = new Map();
+    this.searchHistory = new Map(); // Track user search patterns
+    this.trendingSearches = new Map(); // Track trending searches
+    this.hashtagCache = new Map(); // Cache hashtag patterns
+    this.realTimeSuggestions = new Map(); // Cache real-time suggestions
+    this.userBehaviorCache = new Map(); // Cache user behavior patterns
+    
+    // Instagram-style hashtag patterns
+    this.hashtagPatterns = {
+      room_types: ['#livingroom', '#bedroom', '#kitchen', '#diningroom', '#bathroom', '#prayerroom', '#office', '#wardrobe', '#balcony', '#entryway'],
+      design_themes: ['#modern', '#traditional', '#contemporary', '#minimalist', '#luxury', '#bohemian', '#industrial', '#scandinavian', '#coastal', '#rustic'],
+      furniture_objects: ['#sofa', '#bed', '#table', '#chair', '#wardrobe', '#cabinet', '#shelf', '#mirror', '#lamp', '#cushion'],
+      materials: ['#wood', '#marble', '#glass', '#metal', '#fabric', '#leather', '#stone', '#bamboo', '#rattan', '#jute'],
+      colors: ['#white', '#black', '#brown', '#beige', '#blue', '#green', '#red', '#yellow', '#pink', '#purple'],
+      indian_contexts: ['#indian', '#desi', '#ethnic', '#cultural', '#traditional', '#heritage', '#regional', '#panindia'],
+      style_variations: ['#modernindian', '#traditionalindian', '#contemporaryindian', '#indianmodern', '#indiantraditional', '#indiancontemporary']
+    };
     
     // Dynamic AI-generated search patterns
     this.searchPatterns = {
@@ -1252,6 +1268,395 @@ class SearchIntelligenceService {
         object_focus: 0.05
       }
     };
+  }
+
+  /**
+   * Instagram-style real-time search suggestions
+   */
+  async getInstagramStyleSuggestions(partialQuery, userId = null) {
+    try {
+      const queryLower = partialQuery.toLowerCase();
+      const suggestions = [];
+      
+      // Get trending searches
+      const trending = this.getTrendingSearches();
+      
+      // Get user search history
+      const userHistory = userId ? this.searchHistory.get(userId) || [] : [];
+      
+      // Generate hashtag suggestions
+      const hashtagSuggestions = this.generateHashtagSuggestions(queryLower);
+      
+      // Generate semantic suggestions
+      const semanticSuggestions = await this.generateSemanticSuggestions(queryLower);
+      
+      // Generate user behavior-based suggestions
+      const behaviorSuggestions = this.generateBehaviorSuggestions(userId, queryLower);
+      
+      // Combine all suggestions with Instagram-style ranking
+      suggestions.push(...trending.slice(0, 3));
+      suggestions.push(...userHistory.slice(0, 2));
+      suggestions.push(...hashtagSuggestions.slice(0, 3));
+      suggestions.push(...semanticSuggestions.slice(0, 2));
+      suggestions.push(...behaviorSuggestions.slice(0, 2));
+      
+      // Remove duplicates and limit
+      const uniqueSuggestions = [...new Set(suggestions)].slice(0, 10);
+      
+      console.log(`📱 Generated ${uniqueSuggestions.length} Instagram-style suggestions for "${partialQuery}"`);
+      return uniqueSuggestions;
+    } catch (error) {
+      console.error("Error generating Instagram-style suggestions:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Instagram-style hashtag suggestion generation
+   */
+  generateHashtagSuggestions(query) {
+    const suggestions = [];
+    const queryLower = query.toLowerCase();
+    
+    // Check all hashtag patterns
+    for (const [category, hashtags] of Object.entries(this.hashtagPatterns)) {
+      for (const hashtag of hashtags) {
+        const cleanHashtag = hashtag.replace('#', '');
+        if (cleanHashtag.includes(queryLower) || queryLower.includes(cleanHashtag.split('')[0])) {
+          suggestions.push(hashtag);
+        }
+      }
+    }
+    
+    return suggestions;
+  }
+
+  /**
+   * Instagram-style semantic suggestion generation
+   */
+  async generateSemanticSuggestions(query) {
+    try {
+      const suggestions = [];
+      const queryLower = query.toLowerCase();
+      
+      // Check all search patterns for semantic matches
+      for (const [category, patterns] of Object.entries(this.searchPatterns)) {
+        for (const pattern of patterns) {
+          if (pattern.toLowerCase().includes(queryLower) || 
+              queryLower.includes(pattern.toLowerCase().split(' ')[0])) {
+            suggestions.push(`${pattern} design`);
+            suggestions.push(`${pattern} interior`);
+            suggestions.push(`${pattern} decor`);
+          }
+        }
+      }
+      
+      return suggestions;
+    } catch (error) {
+      console.error("Error generating semantic suggestions:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Instagram-style behavior-based suggestion generation
+   */
+  generateBehaviorSuggestions(userId, query) {
+    try {
+      const suggestions = [];
+      
+      if (userId && this.userBehaviorCache.has(userId)) {
+        const userBehavior = this.userBehaviorCache.get(userId);
+        
+        // Get user's preferred categories
+        const preferredCategories = userBehavior.preferredCategories || [];
+        
+        for (const category of preferredCategories) {
+          if (this.hashtagPatterns[category]) {
+            suggestions.push(...this.hashtagPatterns[category].slice(0, 2));
+          }
+        }
+      }
+      
+      return suggestions;
+    } catch (error) {
+      console.error("Error generating behavior suggestions:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Track user search behavior (Instagram-style)
+   */
+  trackUserSearch(userId, query, selectedSuggestion = null) {
+    try {
+      if (!this.searchHistory.has(userId)) {
+        this.searchHistory.set(userId, []);
+      }
+      
+      const userHistory = this.searchHistory.get(userId);
+      userHistory.unshift(query);
+      
+      // Keep only last 20 searches
+      if (userHistory.length > 20) {
+        userHistory.splice(20);
+      }
+      
+      this.searchHistory.set(userId, userHistory);
+      
+      // Track trending searches
+      this.updateTrendingSearches(query);
+      
+      // Update user behavior
+      this.updateUserBehavior(userId, query, selectedSuggestion);
+      
+      console.log(`📊 Tracked search for user ${userId}: "${query}"`);
+    } catch (error) {
+      console.error("Error tracking user search:", error);
+    }
+  }
+
+  /**
+   * Update trending searches (Instagram-style)
+   */
+  updateTrendingSearches(query) {
+    try {
+      if (!this.trendingSearches.has(query)) {
+        this.trendingSearches.set(query, 0);
+      }
+      
+      const currentCount = this.trendingSearches.get(query);
+      this.trendingSearches.set(query, currentCount + 1);
+    } catch (error) {
+      console.error("Error updating trending searches:", error);
+    }
+  }
+
+  /**
+   * Get trending searches (Instagram-style)
+   */
+  getTrendingSearches() {
+    try {
+      // Sort by popularity and return top searches
+      const sorted = Array.from(this.trendingSearches.entries())
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 10)
+        .map(([query, count]) => query);
+      
+      return sorted;
+    } catch (error) {
+      console.error("Error getting trending searches:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Update user behavior patterns (Instagram-style)
+   */
+  updateUserBehavior(userId, query, selectedSuggestion) {
+    try {
+      if (!this.userBehaviorCache.has(userId)) {
+        this.userBehaviorCache.set(userId, {
+          preferredCategories: [],
+          searchFrequency: {},
+          selectedSuggestions: []
+        });
+      }
+      
+      const userBehavior = this.userBehaviorCache.get(userId);
+      
+      // Track search frequency
+      if (!userBehavior.searchFrequency[query]) {
+        userBehavior.searchFrequency[query] = 0;
+      }
+      userBehavior.searchFrequency[query]++;
+      
+      // Track selected suggestions
+      if (selectedSuggestion) {
+        userBehavior.selectedSuggestions.push(selectedSuggestion);
+      }
+      
+      // Update preferred categories based on search patterns
+      this.updatePreferredCategories(userId, query);
+      
+      this.userBehaviorCache.set(userId, userBehavior);
+    } catch (error) {
+      console.error("Error updating user behavior:", error);
+    }
+  }
+
+  /**
+   * Update preferred categories based on search patterns
+   */
+  updatePreferredCategories(userId, query) {
+    try {
+      const userBehavior = this.userBehaviorCache.get(userId);
+      const queryLower = query.toLowerCase();
+      
+      // Check which categories the query matches
+      for (const [category, patterns] of Object.entries(this.searchPatterns)) {
+        for (const pattern of patterns) {
+          if (pattern.toLowerCase().includes(queryLower) || 
+              queryLower.includes(pattern.toLowerCase())) {
+            
+            if (!userBehavior.preferredCategories.includes(category)) {
+              userBehavior.preferredCategories.push(category);
+            }
+          }
+        }
+      }
+      
+      // Keep only top 5 preferred categories
+      if (userBehavior.preferredCategories.length > 5) {
+        userBehavior.preferredCategories = userBehavior.preferredCategories.slice(0, 5);
+      }
+      
+      this.userBehaviorCache.set(userId, userBehavior);
+    } catch (error) {
+      console.error("Error updating preferred categories:", error);
+    }
+  }
+
+  /**
+   * Instagram-style multi-modal search with hashtag matching
+   */
+  async performInstagramStyleSearch(query, userId = null, imageData = null) {
+    try {
+      const searchResults = {
+        textResults: [],
+        hashtagResults: [],
+        trendingResults: [],
+        userHistoryResults: [],
+        behaviorResults: [],
+        visualResults: []
+      };
+      
+      // Track user search
+      if (userId) {
+        this.trackUserSearch(userId, query);
+      }
+      
+      // Text-based search with enhanced query
+      const enhancedQuery = await this.enhanceSearchQuery(query);
+      searchResults.textResults = enhancedQuery;
+      
+      // Hashtag search
+      searchResults.hashtagResults = this.generateHashtagSuggestions(query);
+      
+      // Trending search
+      searchResults.trendingResults = this.getTrendingSearches();
+      
+      // User history search
+      if (userId) {
+        const userHistory = this.searchHistory.get(userId) || [];
+        searchResults.userHistoryResults = userHistory.slice(0, 5);
+      }
+      
+      // Behavior-based search
+      if (userId) {
+        const userBehavior = this.userBehaviorCache.get(userId);
+        if (userBehavior) {
+          searchResults.behaviorResults = userBehavior.preferredCategories;
+        }
+      }
+      
+      // Visual search (if image data provided)
+      if (imageData) {
+        searchResults.visualResults = await this.performVisualSearch(imageData);
+      }
+      
+      console.log(`📱 Instagram-style search completed for "${query}"`);
+      return searchResults;
+    } catch (error) {
+      console.error("Error in Instagram-style search:", error);
+      return { textResults: [], hashtagResults: [], trendingResults: [], userHistoryResults: [], behaviorResults: [], visualResults: [] };
+    }
+  }
+
+  /**
+   * Instagram-style visual search (placeholder for future implementation)
+   */
+  async performVisualSearch(imageData) {
+    // Placeholder for visual search implementation
+    // This would integrate with computer vision models
+    return [];
+  }
+
+  /**
+   * Instagram-style fuzzy search with semantic understanding
+   */
+  async performFuzzySearch(query, threshold = 0.7) {
+    try {
+      const queryLower = query.toLowerCase();
+      const results = [];
+      
+      // Check all search patterns with fuzzy matching
+      for (const [category, patterns] of Object.entries(this.searchPatterns)) {
+        for (const pattern of patterns) {
+          const similarity = this.calculateFuzzySimilarity(queryLower, pattern.toLowerCase());
+          if (similarity >= threshold) {
+            results.push({
+              pattern: pattern,
+              category: category,
+              similarity: similarity,
+              hashtags: this.hashtagPatterns[category] || []
+            });
+          }
+        }
+      }
+      
+      // Sort by similarity
+      results.sort((a, b) => b.similarity - a.similarity);
+      
+      return results;
+    } catch (error) {
+      console.error("Error in fuzzy search:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Calculate fuzzy similarity between two strings
+   */
+  calculateFuzzySimilarity(str1, str2) {
+    const longer = str1.length > str2.length ? str1 : str2;
+    const shorter = str1.length > str2.length ? str2 : str1;
+    
+    if (longer.length === 0) return 1.0;
+    
+    const distance = this.levenshteinDistance(longer, shorter);
+    return (longer.length - distance) / longer.length;
+  }
+
+  /**
+   * Calculate Levenshtein distance
+   */
+  levenshteinDistance(str1, str2) {
+    const matrix = [];
+    
+    for (let i = 0; i <= str2.length; i++) {
+      matrix[i] = [i];
+    }
+    
+    for (let j = 0; j <= str1.length; j++) {
+      matrix[0][j] = j;
+    }
+    
+    for (let i = 1; i <= str2.length; i++) {
+      for (let j = 1; j <= str1.length; j++) {
+        if (str2.charAt(i - 1) === str1.charAt(j - 1)) {
+          matrix[i][j] = matrix[i - 1][j - 1];
+        } else {
+          matrix[i][j] = Math.min(
+            matrix[i - 1][j - 1] + 1,
+            matrix[i][j - 1] + 1,
+            matrix[i - 1][j] + 1
+          );
+        }
+      }
+    }
+    
+    return matrix[str2.length][str1.length];
   }
 }
 

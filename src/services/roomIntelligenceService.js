@@ -1,6 +1,6 @@
 /**
- * AI-Powered Room Intelligence Service
- * Dynamically detects room types and filters search results
+ * Instagram-Style AI-Powered Room Intelligence Service
+ * Multi-modal search with real-time suggestions and contextual understanding
  */
 
 import dotenv from "dotenv";
@@ -10,10 +10,29 @@ dotenv.config();
 
 class RoomIntelligenceService {
   constructor() {
-    // Cache for room concepts
+    // Instagram-style search components
     this.conceptCache = new Map();
+    this.searchHistory = new Map(); // Track user search patterns
+    this.trendingConcepts = new Map(); // Track trending room concepts
+    this.semanticCache = new Map(); // Cache semantic embeddings
+    this.realTimeSuggestions = new Map(); // Cache real-time suggestions
     
-    // Fallback room concepts (used if AI fails)
+    // Instagram-style hashtag patterns for rooms
+    this.hashtagPatterns = {
+      living: ['#livingroom', '#sittingroom', '#lounge', '#drawingroom', '#familyroom', '#parlor', '#salon', '#reception', '#openliving', '#greatroom', '#familyliving', '#entertainmentroom', '#hall', '#baithak', '#otur', '#livingarea'],
+      bedroom: ['#bedroom', '#sleepingroom', '#masterbedroom', '#guestbedroom', '#childrenbedroom', '#kidsroom', '#kidsbedroom', '#childbedroom', '#childroom', '#kamra', '#shayankaksh', '#bedroom', '#sleepingarea', '#primarybedroom', '#secondarybedroom', '#suite', '#bedroomsuite', '#sleepingchamber', '#restroom'],
+      kitchen: ['#kitchen', '#cookingarea', '#kitchenette', '#openkitchen', '#closedkitchen', '#modularkitchen', '#rasoi', '#kitchenarea', '#cookingspace', '#kitchenroom', '#gourmetkitchen', '#chefkitchen', '#kitchenisland', '#kitchendining', '#cookingroom', '#foodpreparationarea'],
+      dining: ['#diningroom', '#diningarea', '#eatingarea', '#breakfastnook', '#diningspace', '#bhojankaksh', '#dininghall', '#eatingroom', '#formaldining', '#casualdining', '#diningzone', '#mealroom'],
+      bathroom: ['#bathroom', '#washroom', '#toilet', '#restroom', '#powderroom', '#ensuite', '#bathroom', '#washroom', '#toiletroom', '#batharea', '#masterbathroom', '#guestbathroom', '#halfbath', '#fullbath', '#bathroom'],
+      prayer: ['#pujaroom', '#poojaroom', '#prayerroom', '#temple', '#mandir', '#worshiproom', '#shrine', '#pujakaksh', '#mandirroom', '#worshiparea', '#prayerspace', '#hometemple', '#familymandir', '#prayercorner', '#meditationroom'],
+      wardrobe: ['#wardrobe', '#closet', '#walkinwardrobe', '#dressingroom', '#storageroom', '#almirah', '#cupboard', '#dressingarea', '#storagespace', '#walkincloset', '#dressingroom', '#storagearea'],
+      office: ['#homeoffice', '#studyroom', '#workarea', '#workspace', '#studyarea', '#studykaksh', '#workroom', '#officespace', '#homeoffice', '#studyroom', '#workzone'],
+      entryway: ['#entryway', '#foyer', '#vestibule', '#entrancehall', '#entryarea', '#dwar', '#entrance', '#entryspace', '#entryhall', '#foyerarea', '#entrancezone'],
+      balcony: ['#balcony', '#terrace', '#veranda', '#patio', '#outdoorspace', '#balcony', '#terrace', '#outdoorarea', '#outdoorliving', '#balconyarea', '#terracespace'],
+      utility: ['#utilityroom', '#laundryroom', '#mudroom', '#storagearea', '#utilityspace', '#utility', '#laundry', '#storageroom', '#utilityarea', '#laundryspace', '#storagezone']
+    };
+    
+    // Instagram-style fallback room concepts (used if AI fails)
     this.fallbackRoomConcepts = {
       living: ['living room', 'sitting room', 'lounge', 'drawing room', 'family room', 'parlor', 'salon', 'reception', 'open living', 'great room', 'family living', 'entertainment room', 'hall', 'baithak', 'otur', 'living area'],
       bedroom: ['bedroom', 'sleeping room', 'master bedroom', 'guest bedroom', 'children bedroom', 'kids room', 'kids bedroom', 'child bedroom', 'child room', 'kamra', 'shayan kaksh', 'bed room', 'sleeping area', 'primary bedroom', 'secondary bedroom', 'suite', 'bedroom suite', 'sleeping chamber', 'rest room'],
@@ -348,6 +367,287 @@ class RoomIntelligenceService {
       console.error("Error getting room synonyms:", error);
       return [];
     }
+  }
+
+  /**
+   * Instagram-style real-time search suggestions
+   */
+  async getRealTimeSuggestions(partialQuery, userId = null) {
+    try {
+      const queryLower = partialQuery.toLowerCase();
+      const suggestions = [];
+      
+      // Get trending concepts
+      const trending = this.getTrendingConcepts();
+      
+      // Get user search history
+      const userHistory = userId ? this.searchHistory.get(userId) || [] : [];
+      
+      // Generate hashtag suggestions
+      const hashtagSuggestions = this.generateHashtagSuggestions(queryLower);
+      
+      // Generate semantic suggestions
+      const semanticSuggestions = await this.generateSemanticSuggestions(queryLower);
+      
+      // Combine all suggestions with Instagram-style ranking
+      suggestions.push(...trending.slice(0, 3));
+      suggestions.push(...userHistory.slice(0, 2));
+      suggestions.push(...hashtagSuggestions.slice(0, 3));
+      suggestions.push(...semanticSuggestions.slice(0, 2));
+      
+      // Remove duplicates and limit
+      const uniqueSuggestions = [...new Set(suggestions)].slice(0, 10);
+      
+      console.log(`📱 Generated ${uniqueSuggestions.length} Instagram-style suggestions for "${partialQuery}"`);
+      return uniqueSuggestions;
+    } catch (error) {
+      console.error("Error generating real-time suggestions:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Instagram-style hashtag suggestion generation
+   */
+  generateHashtagSuggestions(query) {
+    const suggestions = [];
+    const queryLower = query.toLowerCase();
+    
+    // Check all hashtag patterns
+    for (const [category, hashtags] of Object.entries(this.hashtagPatterns)) {
+      for (const hashtag of hashtags) {
+        const cleanHashtag = hashtag.replace('#', '');
+        if (cleanHashtag.includes(queryLower) || queryLower.includes(cleanHashtag.split('')[0])) {
+          suggestions.push(hashtag);
+        }
+      }
+    }
+    
+    return suggestions;
+  }
+
+  /**
+   * Instagram-style semantic suggestion generation
+   */
+  async generateSemanticSuggestions(query) {
+    try {
+      const suggestions = [];
+      const queryLower = query.toLowerCase();
+      
+      // Check all room concepts for semantic matches
+      for (const [category, concepts] of Object.entries(this.fallbackRoomConcepts)) {
+        for (const concept of concepts) {
+          if (concept.toLowerCase().includes(queryLower) || 
+              queryLower.includes(concept.toLowerCase().split(' ')[0])) {
+            suggestions.push(`${concept} design`);
+            suggestions.push(`${concept} interior`);
+            suggestions.push(`${concept} decor`);
+          }
+        }
+      }
+      
+      return suggestions;
+    } catch (error) {
+      console.error("Error generating semantic suggestions:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Track user search behavior (Instagram-style)
+   */
+  trackUserSearch(userId, query, selectedSuggestion = null) {
+    try {
+      if (!this.searchHistory.has(userId)) {
+        this.searchHistory.set(userId, []);
+      }
+      
+      const userHistory = this.searchHistory.get(userId);
+      userHistory.unshift(query);
+      
+      // Keep only last 20 searches
+      if (userHistory.length > 20) {
+        userHistory.splice(20);
+      }
+      
+      this.searchHistory.set(userId, userHistory);
+      
+      // Track trending concepts
+      this.updateTrendingConcepts(query);
+      
+      console.log(`📊 Tracked search for user ${userId}: "${query}"`);
+    } catch (error) {
+      console.error("Error tracking user search:", error);
+    }
+  }
+
+  /**
+   * Update trending concepts (Instagram-style)
+   */
+  updateTrendingConcepts(query) {
+    try {
+      const queryLower = query.toLowerCase();
+      
+      // Check if query matches any room concept
+      for (const [category, concepts] of Object.entries(this.fallbackRoomConcepts)) {
+        for (const concept of concepts) {
+          if (concept.toLowerCase().includes(queryLower) || 
+              queryLower.includes(concept.toLowerCase())) {
+            
+            if (!this.trendingConcepts.has(concept)) {
+              this.trendingConcepts.set(concept, 0);
+            }
+            
+            const currentCount = this.trendingConcepts.get(concept);
+            this.trendingConcepts.set(concept, currentCount + 1);
+          }
+        }
+      }
+    } catch (error) {
+      console.error("Error updating trending concepts:", error);
+    }
+  }
+
+  /**
+   * Get trending concepts (Instagram-style)
+   */
+  getTrendingConcepts() {
+    try {
+      // Sort by popularity and return top concepts
+      const sorted = Array.from(this.trendingConcepts.entries())
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 10)
+        .map(([concept, count]) => concept);
+      
+      return sorted;
+    } catch (error) {
+      console.error("Error getting trending concepts:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Instagram-style multi-modal search
+   */
+  async performMultiModalSearch(query, imageData = null) {
+    try {
+      const searchResults = {
+        textResults: [],
+        visualResults: [],
+        hashtagResults: [],
+        trendingResults: [],
+        userHistoryResults: []
+      };
+      
+      // Text-based search
+      const roomType = await this.detectPrimaryRoomType(query);
+      if (roomType.primaryRoomType) {
+        searchResults.textResults = await this.getRoomConceptsForCategory(roomType.primaryRoomType);
+      }
+      
+      // Hashtag search
+      searchResults.hashtagResults = this.generateHashtagSuggestions(query);
+      
+      // Trending search
+      searchResults.trendingResults = this.getTrendingConcepts();
+      
+      // Visual search (if image data provided)
+      if (imageData) {
+        searchResults.visualResults = await this.performVisualSearch(imageData);
+      }
+      
+      console.log(`🔍 Multi-modal search completed for "${query}"`);
+      return searchResults;
+    } catch (error) {
+      console.error("Error in multi-modal search:", error);
+      return { textResults: [], visualResults: [], hashtagResults: [], trendingResults: [], userHistoryResults: [] };
+    }
+  }
+
+  /**
+   * Instagram-style visual search (placeholder for future implementation)
+   */
+  async performVisualSearch(imageData) {
+    // Placeholder for visual search implementation
+    // This would integrate with computer vision models
+    return [];
+  }
+
+  /**
+   * Instagram-style fuzzy search with semantic understanding
+   */
+  async performFuzzySearch(query, threshold = 0.7) {
+    try {
+      const queryLower = query.toLowerCase();
+      const results = [];
+      
+      // Check all concepts with fuzzy matching
+      for (const [category, concepts] of Object.entries(this.fallbackRoomConcepts)) {
+        for (const concept of concepts) {
+          const similarity = this.calculateFuzzySimilarity(queryLower, concept.toLowerCase());
+          if (similarity >= threshold) {
+            results.push({
+              concept: concept,
+              category: category,
+              similarity: similarity,
+              hashtags: this.hashtagPatterns[category] || []
+            });
+          }
+        }
+      }
+      
+      // Sort by similarity
+      results.sort((a, b) => b.similarity - a.similarity);
+      
+      return results;
+    } catch (error) {
+      console.error("Error in fuzzy search:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Calculate fuzzy similarity between two strings
+   */
+  calculateFuzzySimilarity(str1, str2) {
+    const longer = str1.length > str2.length ? str1 : str2;
+    const shorter = str1.length > str2.length ? str2 : str1;
+    
+    if (longer.length === 0) return 1.0;
+    
+    const distance = this.levenshteinDistance(longer, shorter);
+    return (longer.length - distance) / longer.length;
+  }
+
+  /**
+   * Calculate Levenshtein distance
+   */
+  levenshteinDistance(str1, str2) {
+    const matrix = [];
+    
+    for (let i = 0; i <= str2.length; i++) {
+      matrix[i] = [i];
+    }
+    
+    for (let j = 0; j <= str1.length; j++) {
+      matrix[0][j] = j;
+    }
+    
+    for (let i = 1; i <= str2.length; i++) {
+      for (let j = 1; j <= str1.length; j++) {
+        if (str2.charAt(i - 1) === str1.charAt(j - 1)) {
+          matrix[i][j] = matrix[i - 1][j - 1];
+        } else {
+          matrix[i][j] = Math.min(
+            matrix[i - 1][j - 1] + 1,
+            matrix[i][j - 1] + 1,
+            matrix[i - 1][j] + 1
+          );
+        }
+      }
+    }
+    
+    return matrix[str2.length][str1.length];
   }
 }
 

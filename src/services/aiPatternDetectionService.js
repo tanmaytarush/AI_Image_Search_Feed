@@ -12,12 +12,12 @@ class AIPatternDetectionService {
   constructor() {
     try {
       this.hf = new InferenceClient(process.env.HF_TOKEN);
-      // Temporarily disable AI to use fallback responses
-      this.textGenerationModel = "microsoft/DialoGPT-medium";
+      // Use Instagram-style model for better search patterns
+      this.textGenerationModel = "openai/gpt-oss-20b:novita"; // Better for Instagram-style search
       
       this.patternCache = new Map();
-      this.aiAvailable = false; // Temporarily disable AI
-      console.log("⚠️ AI Pattern Detection Service initialized with fallback mode (AI disabled)");
+      this.aiAvailable = true; // Enable AI for Instagram-style search
+      console.log("📱 Instagram-style AI Pattern Detection Service initialized with GPT-OSS-20B model");
     } catch (error) {
       console.warn("AI pattern detection service initialization failed:", error.message);
       this.aiAvailable = false;
@@ -761,6 +761,184 @@ Return JSON:
     return {
       size: this.patternCache.size,
       keys: Array.from(this.patternCache.keys())
+    };
+  }
+
+  /**
+   * Instagram-style hashtag pattern detection
+   */
+  async detectHashtagPatternsAI(query) {
+    try {
+      if (!this.aiAvailable) {
+        return this.fallbackHashtagDetection(query);
+      }
+
+      const prompt = `Analyze this query for Instagram-style hashtag patterns: "${query}"
+
+Generate hashtag patterns for interior design search. Return JSON:
+{
+  "primaryHashtags": ["#primary", "#hashtags"],
+  "relatedHashtags": ["#related", "#hashtags"],
+  "trendingHashtags": ["#trending", "#hashtags"],
+  "culturalHashtags": ["#cultural", "#hashtags"],
+  "confidence": 0.95,
+  "reasoning": "hashtag analysis explanation"
+}`;
+
+      const response = await this.callAI(prompt);
+      return this.parseJSONResponse(response) || this.fallbackHashtagDetection(query);
+    } catch (error) {
+      console.error("Error in AI hashtag pattern detection:", error);
+      return this.fallbackHashtagDetection(query);
+    }
+  }
+
+  /**
+   * Instagram-style user behavior pattern detection
+   */
+  async detectUserBehaviorPatternsAI(userId, searchHistory) {
+    try {
+      if (!this.aiAvailable) {
+        return this.fallbackUserBehaviorDetection(userId, searchHistory);
+      }
+
+      const prompt = `Analyze user search behavior for Instagram-style patterns.
+
+USER ID: ${userId}
+SEARCH HISTORY: ${JSON.stringify(searchHistory)}
+
+Return JSON:
+{
+  "preferredCategories": ["category1", "category2"],
+  "searchPatterns": ["pattern1", "pattern2"],
+  "trendingInterests": ["interest1", "interest2"],
+  "behaviorScore": 0.95,
+  "suggestions": ["suggestion1", "suggestion2"]
+}`;
+
+      const response = await this.callAI(prompt);
+      return this.parseJSONResponse(response) || this.fallbackUserBehaviorDetection(userId, searchHistory);
+    } catch (error) {
+      console.error("Error in AI user behavior detection:", error);
+      return this.fallbackUserBehaviorDetection(userId, searchHistory);
+    }
+  }
+
+  /**
+   * Instagram-style real-time suggestion generation
+   */
+  async generateRealTimeSuggestionsAI(partialQuery, context = {}) {
+    try {
+      if (!this.aiAvailable) {
+        return this.fallbackRealTimeSuggestions(partialQuery, context);
+      }
+
+      const prompt = `Generate Instagram-style real-time search suggestions.
+
+PARTIAL QUERY: "${partialQuery}"
+CONTEXT: ${JSON.stringify(context)}
+
+Return JSON:
+{
+  "suggestions": ["suggestion1", "suggestion2", "suggestion3"],
+  "hashtags": ["#hashtag1", "#hashtag2"],
+  "trending": ["trending1", "trending2"],
+  "personalized": ["personalized1", "personalized2"],
+  "confidence": 0.95
+}`;
+
+      const response = await this.callAI(prompt);
+      return this.parseJSONResponse(response) || this.fallbackRealTimeSuggestions(partialQuery, context);
+    } catch (error) {
+      console.error("Error in AI real-time suggestion generation:", error);
+      return this.fallbackRealTimeSuggestions(partialQuery, context);
+    }
+  }
+
+  /**
+   * Fallback hashtag detection
+   */
+  fallbackHashtagDetection(query) {
+    const queryLower = query.toLowerCase();
+    const hashtags = [];
+    
+    // Basic hashtag patterns
+    const patterns = {
+      'living': ['#livingroom', '#sittingroom', '#lounge'],
+      'bedroom': ['#bedroom', '#sleepingroom', '#masterbedroom'],
+      'kitchen': ['#kitchen', '#cookingarea', '#modularkitchen'],
+      'modern': ['#modern', '#contemporary', '#minimalist'],
+      'traditional': ['#traditional', '#classic', '#heritage'],
+      'indian': ['#indian', '#desi', '#ethnic']
+    };
+    
+    for (const [keyword, hashtagList] of Object.entries(patterns)) {
+      if (queryLower.includes(keyword)) {
+        hashtags.push(...hashtagList);
+      }
+    }
+    
+    return {
+      primaryHashtags: hashtags.slice(0, 3),
+      relatedHashtags: hashtags.slice(3, 6),
+      trendingHashtags: [],
+      culturalHashtags: queryLower.includes('indian') ? ['#indian', '#desi'] : [],
+      confidence: 0.6,
+      reasoning: "Fallback hashtag detection"
+    };
+  }
+
+  /**
+   * Fallback user behavior detection
+   */
+  fallbackUserBehaviorDetection(userId, searchHistory) {
+    const categories = [];
+    const patterns = [];
+    
+    // Analyze search history for patterns
+    for (const search of searchHistory) {
+      const searchLower = search.toLowerCase();
+      
+      if (searchLower.includes('living')) categories.push('living');
+      if (searchLower.includes('bedroom')) categories.push('bedroom');
+      if (searchLower.includes('kitchen')) categories.push('kitchen');
+      if (searchLower.includes('modern')) categories.push('modern');
+      if (searchLower.includes('traditional')) categories.push('traditional');
+    }
+    
+    return {
+      preferredCategories: [...new Set(categories)].slice(0, 3),
+      searchPatterns: patterns,
+      trendingInterests: [],
+      behaviorScore: 0.6,
+      suggestions: []
+    };
+  }
+
+  /**
+   * Fallback real-time suggestions
+   */
+  fallbackRealTimeSuggestions(partialQuery, context) {
+    const queryLower = partialQuery.toLowerCase();
+    const suggestions = [];
+    
+    // Basic suggestions based on partial query
+    if (queryLower.includes('living')) {
+      suggestions.push('living room design', 'living room decor', 'modern living room');
+    }
+    if (queryLower.includes('bedroom')) {
+      suggestions.push('bedroom design', 'bedroom decor', 'modern bedroom');
+    }
+    if (queryLower.includes('kitchen')) {
+      suggestions.push('kitchen design', 'kitchen decor', 'modular kitchen');
+    }
+    
+    return {
+      suggestions: suggestions.slice(0, 5),
+      hashtags: [],
+      trending: [],
+      personalized: [],
+      confidence: 0.6
     };
   }
 }
