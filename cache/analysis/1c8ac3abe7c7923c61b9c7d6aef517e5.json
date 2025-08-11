@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/145/image_cropper_1726669797995.jpg",
+  "analysis": {
+    "image_id": "img_1003",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "L-shaped counter with storage cabinets",
+        "Built-in induction cooktop",
+        "Under-cabinet lighting",
+        "Open shelving with decorative items"
+      ],
+      "objects": [
+        {
+          "type": "L-shaped counter",
+          "features": [
+            "Integrated sink",
+            "Countertop with a smooth finish"
+          ],
+          "materials": [
+            "Marble countertop",
+            "Kabini wood cabinetry"
+          ],
+          "finish": "High-gloss finish"
+        },
+        {
+          "type": "Cooktop",
+          "features": [
+            "Induction cooktop with modern design"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "Shiny metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Warm beige cabinetry",
+          "Light gray countertops",
+          "White upper cabinets",
+          "Brown wooden accents"
+        ],
+        "materials": [
+          "Marble",
+          "Kabini wood",
+          "Stainless steel"
+        ],
+        "lighting": "Natural lighting from large windows, complemented by under-cabinet lighting",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident, as this is a modern interpretation",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Fusion of traditional marble and modern kitchen design",
+          "Simple yet elegant cabinetry design"
+        ],
+        "space_utilization": "Efficient use of space with L-shaped counter and open shelving for storage",
+        "cultural_significance": "No cultural decorative elements present; this is a modern Indian kitchen design meant to be functional and appealing"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian kitchen with a clean and functional design. The L-shaped counter features a marble top and Kabini wood cabinetry, reflecting a blend of traditional materials with contemporary styling. The kitchen is well-lit with both natural light from large windows and under-cabinet lighting, creating a bright and welcoming atmosphere. The space is organized efficiently with integrated storage solutions, including open shelving for decorative items and a built-in induction cooktop for modern cooking needs.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Marble Countertops",
+          "Kabini Wood",
+          "Induction Cooktop",
+          "Open Shelving"
+        ],
+        "budget_indicator": "Mid-range to high due to use of marble and Kabini wood",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose is cooking and food preparation with an emphasis on storage and aesthetics",
+        "indian_specific": "The use of marble and Kabini wood, which are traditional Indian materials, in a modern kitchen setting"
+      }
+    }
+  },
+  "cached_at": 1754893577242,
+  "cache_key": "1c8ac3abe7c7923c61b9c7d6aef517e5"
+}

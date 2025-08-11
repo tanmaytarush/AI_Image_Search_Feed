@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/142/image_cropper_1726669179223.jpg",
+  "analysis": {
+    "image_id": "img_1001",
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/142/image_cropper_1726669179223.jpg",
+    "ai_generated_tags": {
+      "room": "unknown",
+      "theme": "modern_indian",
+      "primary_features": [
+        "interior_design",
+        "indian_aesthetics"
+      ],
+      "objects": [
+        {
+          "type": "furniture",
+          "features": [
+            "traditional_style"
+          ],
+          "materials": [
+            "wood",
+            "fabric"
+          ],
+          "finish": "natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "warm_tones",
+          "natural_colors"
+        ],
+        "materials": [
+          "wood",
+          "fabric",
+          "textiles"
+        ],
+        "lighting": "ambient",
+        "texture": "natural_textures"
+      },
+      "indian_context": {
+        "regional_style": "contemporary_indian",
+        "traditional_elements": [
+          "cultural_influences"
+        ],
+        "modern_adaptations": [
+          "contemporary_design"
+        ],
+        "space_utilization": "functional_layout",
+        "cultural_significance": "indian_aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.3,
+      "theme": 0.6,
+      "primary_features": 0.6,
+      "objects": 0.6,
+      "indian_context": 0.6
+    },
+    "description": "unknown design with modern_indian influences, featuring traditional elements adapted for modern living.",
+    "metadata": {
+      "tags": [
+        "interior",
+        "indian_design",
+        "modern_indian"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "living_space",
+      "indian_specific": "cultural_design_elements"
+    },
+    "fallback_analysis": true,
+    "filename": "image_cropper_1726669179223.jpg"
+  },
+  "cached_at": 1754892741118,
+  "cache_key": "20ba3ac53e6d6e37bee8eb69f41cbbd9"
+}

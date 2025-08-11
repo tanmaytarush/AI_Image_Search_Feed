@@ -191,7 +191,8 @@ async function main() {
   const processor = new ImageProcessor();
 
   // Get CSV file path from command line argument or use default
-  const csvFilePath = process.argv[2] || "../src/data/interior-image-urls.csv";
+   //const csvFilePath = process.argv[2] || "../src/data/interior-image-urls.csv";
+  const csvFilePath = "../src/data/image-data.csv";
 
   if (!fs.existsSync(csvFilePath)) {
     console.error(`❌ CSV file not found: ${csvFilePath}`);

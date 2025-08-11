@@ -7,10 +7,13 @@ dotenv.config();
 
 class ImageAnalysisService {
   constructor() {
-    // Configuration: Set to false to skip images instead of using fallback
+    // Configuration: Set to false to skip images when vision models fail (no fallback)
     this.useFallback = false; // Set to false to maintain data quality
     // Removed deprecated HfInference client
     this.expectedEmbeddingDimension = 384; // Ensure compatibility with embedding system
+    
+    // Test Hugging Face API connectivity on startup
+    this.testHuggingFaceAPI().catch(console.error);
   }
 
   async analyzeImage(imageUrl, imageId) {
@@ -92,9 +95,12 @@ class ImageAnalysisService {
 
       Return ONLY the JSON object with your actual analysis of this specific image.`;
 
-      // Vision model that works with the new token
+      // Vision models that work with Hugging Face router API
       const visionModels = [
-        "Qwen/Qwen2.5-VL-7B-Instruct"  // This model is confirmed working
+        "Qwen/Qwen2.5-VL-7B-Instruct:hyperbolic",  // Primary model - confirmed working
+        "Qwen/Qwen2.5-VL-7B-Instruct",             // Fallback without suffix
+        "microsoft/DialoGPT-medium",                // Alternative vision model
+        "gpt2"                                      // Text fallback
       ];
 
       // Retry logic for API calls
@@ -191,8 +197,20 @@ class ImageAnalysisService {
         }
       }
 
-      // If no vision models work, handle based on configuration
+      // If no vision models work with router API, try direct Hugging Face inference
       if (!successfulModel) {
+        console.log(`🔄 Router API failed, trying direct Hugging Face inference...`);
+        try {
+          const directResult = await this.tryDirectHuggingFaceInference(cdnUrl, prompt, imageId);
+          if (directResult) {
+            console.log(`✅ Direct Hugging Face inference succeeded for ${imageId}`);
+            return directResult;
+          }
+        } catch (directError) {
+          console.log(`❌ Direct Hugging Face inference also failed: ${directError.message}`);
+        }
+        
+        // If all methods fail, handle based on configuration
         if (this.useFallback) {
           console.log(`⚠️ No vision models available. Falling back to text-only analysis for ${imageId}`);
           return await this.fallbackTextAnalysis(imageUrl, imageId);
@@ -635,6 +653,22 @@ class ImageAnalysisService {
   }
 
   /**
+   * Force enable fallback for testing (use sparingly)
+   */
+  forceEnableFallback() {
+    this.useFallback = true;
+    console.log(`⚠️ Fallback analysis force-enabled for testing`);
+  }
+
+  /**
+   * Disable fallback to maintain data quality
+   */
+  disableFallback() {
+    this.useFallback = false;
+    console.log(`✅ Fallback analysis disabled - maintaining data quality`);
+  }
+
+  /**
    * Get current fallback configuration
    */
   getFallbackStatus() {
@@ -644,6 +678,157 @@ class ImageAnalysisService {
         'Fallback enabled - will use generic analysis for failed images' : 
         'Fallback disabled - will skip images that cannot be properly analyzed'
     };
+  }
+
+  /**
+   * Test Hugging Face API connectivity
+   */
+  async testHuggingFaceAPI() {
+    try {
+      console.log(`🔍 Testing Hugging Face Router API connectivity...`);
+      
+      const response = await fetch(
+        "https://router.huggingface.co/v1/models",
+        {
+          headers: {
+            Authorization: `Bearer ${process.env.HF_TOKEN}`,
+          },
+          method: "GET",
+        }
+      );
+      
+      if (response.ok) {
+        console.log(`✅ Hugging Face Router API is accessible`);
+        return true;
+      } else {
+        console.log(`❌ Hugging Face Router API test failed: ${response.status}`);
+        return false;
+      }
+    } catch (error) {
+      console.error(`❌ Hugging Face Router API test error: ${error.message}`);
+      return false;
+    }
+  }
+
+  /**
+   * Try direct Hugging Face inference as fallback
+   */
+  async tryDirectHuggingFaceInference(imageUrl, prompt, imageId) {
+    try {
+      console.log(`🔄 Attempting direct Hugging Face inference for ${imageId}...`);
+      
+      // Try with the working vision model as fallback
+      const directModels = [
+        "Qwen/Qwen2.5-VL-7B-Instruct:hyperbolic",  // Primary working model
+        "Qwen/Qwen2.5-VL-7B-Instruct"              // Fallback without suffix
+      ];
+
+      for (const model of directModels) {
+        try {
+          console.log(`🔄 Trying direct model: ${model}`);
+          
+          // For vision models, we need to send the image data
+          const requestBody = {
+            inputs: {
+              text: prompt,
+              image: imageUrl
+            },
+            parameters: {
+              max_new_tokens: 500,
+              temperature: 0.7,
+              do_sample: true
+            }
+          };
+          
+          // Use the router API format that's working
+          const response = await fetch(
+            "https://router.huggingface.co/v1/chat/completions",
+            {
+              headers: {
+                Authorization: `Bearer ${process.env.HF_TOKEN}`,
+                "Content-Type": "application/json",
+              },
+              method: "POST",
+              body: JSON.stringify({
+                messages: [
+                  {
+                    role: "user",
+                    content: [
+                      {
+                        type: "text",
+                        text: prompt,
+                      },
+                      {
+                        type: "image_url",
+                        image_url: {
+                          url: imageUrl,
+                        },
+                      },
+                    ],
+                  },
+                ],
+                model: model,
+                stream: false,
+              }),
+            }
+          );
+
+          if (response.ok) {
+            const result = await response.json();
+            console.log(`✅ Direct inference succeeded with ${model}`);
+            
+            // Parse router API response format
+            if (result && result.choices && result.choices[0] && result.choices[0].message) {
+              const analysisText = result.choices[0].message.content;
+              console.log(`📝 Raw response: ${analysisText}`);
+              
+              // Try to extract JSON from the response
+              const jsonMatch = analysisText.match(/\{[\s\S]*\}/);
+              if (jsonMatch) {
+                try {
+                  const parsedAnalysis = JSON.parse(jsonMatch[0]);
+                  // Add required fields if missing
+                  if (!parsedAnalysis.image_id) {
+                    parsedAnalysis.image_id = imageId;
+                  }
+                  if (!parsedAnalysis.image_url) {
+                    parsedAnalysis.image_url = imageUrl;
+                  }
+                  
+                  // Cache the successful analysis
+                  await cdnService.cacheAnalysis(imageUrl, parsedAnalysis);
+                  
+                  // Auto inference: Generate embeddings and store in Qdrant
+                  await this.performAutoInference(imageUrl, imageId, parsedAnalysis);
+                  
+                  return parsedAnalysis;
+                } catch (parseError) {
+                  console.log(`⚠️ Failed to parse JSON from ${model} response: ${parseError.message}`);
+                  continue; // Try next model
+                }
+              } else {
+                console.log(`⚠️ No JSON found in response from ${model}`);
+                continue; // Try next model
+              }
+            } else {
+              console.log(`⚠️ Invalid response format from ${model}`);
+              continue; // Try next model
+            }
+          } else {
+            console.log(`❌ Direct model ${model} failed: ${response.status}`);
+          }
+        } catch (modelError) {
+          console.log(`❌ Error with direct model ${model}: ${modelError.message}`);
+          continue; // Try next model
+        }
+      }
+      
+      console.log(`❌ All direct models failed for ${imageId}`);
+      return null;
+    } catch (error) {
+      console.error(`❌ Direct Hugging Face inference failed: ${error.message}`);
+      return null;
+    }
   }
 }
 

@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/143/image_cropper_1726669321231.jpg",
+  "analysis": {
+    "image_id": "img_1002",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Indian Traditional Style",
+      "primary_features": [
+        "Wooden furniture",
+        "Carved details",
+        "Marble flooring"
+      ],
+      "objects": [
+        {
+          "type": "Furniture",
+          "features": [
+            "Wooden, upholstered seat with carved details",
+            "Metallic legs"
+          ],
+          "materials": [
+            "Teak wood",
+            "Metal (possibly brass or copper)"
+          ],
+          "finish": "Polished wood, metallic sheen"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood), Silver (metal)",
+          "Off-white (flooring)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Metal",
+          "Marble"
+        ],
+        "lighting": "Natural light, possibly from a window out of frame",
+        "texture": "Smooth wood, metallic, glossy marble"
+      },
+      "indian_context": {
+        "regional_style": "Central Indian Style",
+        "traditional_elements": [
+          "Carved wood details",
+          "Metallic accents"
+        ],
+        "modern_adaptations": [
+          "Minimal use of marble flooring"
+        ],
+        "space_utilization": "Compact, focused on central seating area",
+        "cultural_significance": "Represents hospitality and comfort in traditional Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a traditional Indian living room with a focus on carved wooden furniture and metallic accents. The primary piece, a wooden seat with intricate carvings, is the centerpiece. The floor is covered with a glossy marble, adding a touch of modernity to the otherwise traditional setting. The lighting appears to be natural, suggesting the presence of a window. The overall design emphasizes comfort and cultural heritage.",
+      "metadata": {
+        "tags": [
+          "Indian Living Room",
+          "Traditional Style",
+          "Carved Furniture",
+          "Marble Flooring",
+          "Teak Wood"
+        ],
+        "budget_indicator": "Moderate to High (due to use of teak wood and marble)",
+        "space_type": "Residential Living Room",
+        "functionality": "Primary seating and relaxation space",
+        "indian_specific": "Carved wood and metal accents"
+      }
+    }
+  },
+  "cached_at": 1754893568472,
+  "cache_key": "c3eed4d41e68f1080966b15074934b53"
+}

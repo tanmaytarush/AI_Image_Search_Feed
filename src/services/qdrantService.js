@@ -16,7 +16,7 @@ class QdrantService {
     }
     
     this.client = new QdrantClient(config);
-    this.collectionName = "interior_images";
+    this.collectionName = "interior_images_description";
   }
 
   async createCollection() {
