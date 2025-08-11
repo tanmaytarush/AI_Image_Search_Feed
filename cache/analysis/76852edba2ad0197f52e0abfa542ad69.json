@@ -1,0 +1,109 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1706/insta_assets_crop_5729fad3-173e-44d7-84e1-98323020b2a93799756653538878697.jpg",
+  "analysis": {
+    "image_id": "img_376",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Contemporary Indian with modern adaptations",
+      "primary_features": [
+        "Carved wooden panel",
+        "Teak wood slatted wall",
+        "Teak wood cabinet"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood cabinet",
+          "features": [
+            "Rectangular shape",
+            "Curved edge design",
+            "Carved decorative elements"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish, possibly teak oil"
+        },
+        {
+          "type": "Teak wood slatted wall",
+          "features": [
+            "Vertical slats",
+            "Curved end panel",
+            "Carved wooden frame"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish, possibly teak oil"
+        },
+        {
+          "type": "Carved wooden panel",
+          "features": [
+            "Rectangular shape",
+            "Decorative floral patterns",
+            "Curved top edge"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish, possibly teak oil"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (teak wood)",
+          "White (wall)",
+          "Orange (pillow)",
+          "Blue (pillars)"
+        ],
+        "materials": [
+          "Teak wood",
+          "White wall",
+          "Copper drawer knobs",
+          "Wooden carving"
+        ],
+        "lighting": "Natural light from the window, possibly supplemented by overhead lighting",
+        "texture": [
+          "Smooth teak wood finish",
+          "Finely carved wooden textures",
+          "Soft fabric of the cushion"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra or Karnataka regional style with modern influences",
+        "traditional_elements": [
+          "Carved wooden panel",
+          "Teak wood furniture"
+        ],
+        "modern_adaptations": [
+          "Modern wall panel with slats",
+          "Teak wood cabinet with curved edges"
+        ],
+        "space_utilization": "The space is organized to maximize the use of vertical space with a wall panel and a cabinet",
+        "cultural_significance": "The use of teak wood and carved elements reflects the Indian tradition of using natural materials and intricate craftsmanship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern interpretation of traditional Indian design elements, featuring a carved wooden panel and teak wood furniture. The use of natural teak wood and intricate carvings highlights the craftsmanship typical of Maharashtrian or Karnataka regions. The contemporary elements, such as the slatted wall panel and curved edges, add a modern twist to the design, maintaining a balance between tradition and contemporary aesthetics. The space is organized to maximize vertical space, with storage solutions provided by a teak wood cabinet. The cultural significance lies in the use of natural materials and traditional craftsmanship, which are essential aspects of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Teak wood",
+        "Carved panel",
+        "Modern adaptations",
+        "Maharashtra design"
+      ],
+      "budget_indicator": "Mid-range, due to the use of natural teak wood and detailed craftsmanship",
+      "space_type": "Entryway",
+      "functionality": "Entryway with storage and decorative elements",
+      "indian_specific": "Carved wooden panel and teak wood furniture"
+    }
+  },
+  "cached_at": 1754910513629,
+  "cache_key": "76852edba2ad0197f52e0abfa542ad69"
+}

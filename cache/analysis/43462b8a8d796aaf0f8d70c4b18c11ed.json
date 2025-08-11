@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1011/image_cropper_1729479263000.jpg",
+  "analysis": {
+    "image_id": "img_498",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modular Bedroom",
+      "primary_features": [
+        "Custom fitted wardrobes",
+        "Built-in storage",
+        "Wooden furniture"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Modern design with a sleek headboard",
+            "Integrated lighting above"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Wood has a glossy finish, fabric has a matte finish"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Customized for space optimization",
+            "Fitted with shelves and drawers"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Wood has a glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "Brown",
+          "White",
+          "Blue"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric",
+          "Metal"
+        ],
+        "lighting": "Natural light from the window, artificial light above the bed",
+        "texture": "Smooth wooden texture, soft fabric texture"
+      },
+      "indian_context": {
+        "regional_style": "Modern with traditional influences",
+        "traditional_elements": [
+          "Carved wooden details on wardrobe"
+        ],
+        "modern_adaptations": [
+          "Integrated lighting, minimalist design"
+        ],
+        "space_utilization": "Optimized for storage and comfort",
+        "cultural_significance": "The use of wood and fabric reflects traditional materials often used in Indian interiors"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern bedroom with Indian design elements. The space is optimized with custom-fitted wardrobes and built-in storage, showcasing a blend of traditional and contemporary styles. The wardrobe features carved wooden details, while the bed has integrated lighting and a minimalist design. The color palette includes beige, brown, white, and blue, with wood and fabric as primary materials. The natural light from the window and artificial lighting above the bed create a balanced, modern ambiance.",
+      "metadata": {
+        "tags": [
+          "Modern Bedroom",
+          "Indian Decor",
+          "Custom Wardrobes",
+          "Wooden Furniture",
+          "Integrated Lighting"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential Bedroom",
+        "functionality": "Primary purpose is for sleeping and personal storage",
+        "indian_specific": "Carved wooden details on the wardrobe, use of wood as a primary material"
+      }
+    }
+  },
+  "cached_at": 1754912273408,
+  "cache_key": "43462b8a8d796aaf0f8d70c4b18c11ed"
+}

@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1261/image_cropper_1729679421302.jpg",
+  "analysis": {
+    "image_id": "img_158",
+    "ai_generated_tags": {
+      "room": "Kitchen Cabinet",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Cabinet Doors",
+        "Integrated Lighting",
+        "White and Wood Color Scheme"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet Door",
+          "features": [
+            "Shaker Style",
+            "Hinged Design",
+            "Textured Finish"
+          ],
+          "materials": [
+            "Wood",
+            "Painted Wood"
+          ],
+          "finish": "Matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Wood Tone"
+        ],
+        "materials": [
+          "Wood",
+          "Painted Wood"
+        ],
+        "lighting": "Integrated LED Strip Lighting",
+        "texture": "Smooth and Shiny"
+      },
+      "indian_context": {
+        "regional_style": "Not Influenced",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of Indian design elements into contemporary style"
+        ],
+        "space_utilization": "Efficient use of space within a cabinet",
+        "cultural_significance": "No specific cultural elements present"
+      },
+      "confidence_scores": {
+        "room": 0.75,
+        "theme": 0.82,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.7
+      },
+      "description": "The image depicts a modern kitchen cabinet with a contemporary design. The cabinet doors are of a shaker style with a hinged design and a textured finish, painted in a wood tone. The cabinet is integrated with LED strip lighting, enhancing its modern appearance. There are no overtly Indian design elements, traditional or otherwise, present in the image.",
+      "metadata": {
+        "tags": [
+          "Kitchen Cabinet",
+          "Contemporary Design",
+          "Wooden Finish",
+          "LED Lighting"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Kitchen",
+        "functionality": "Storage and organization",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1754906857890,
+  "cache_key": "db4ba0f6ee91e325b37f044c6a771f56"
+}

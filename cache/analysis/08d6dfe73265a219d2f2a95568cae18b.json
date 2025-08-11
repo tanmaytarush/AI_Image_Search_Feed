@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/36/WhatsApp%20Image%202024-08-01%20at%2018.45.04%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_283",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Teak wood flooring",
+        "Green marble accent wall",
+        "Built-in entertainment unit"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood coffee table",
+          "features": [
+            "Round shape",
+            "Grooved design"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak wood finish"
+        },
+        {
+          "type": "Teak wood entertainment unit",
+          "features": [
+            "Built-in shelves",
+            "Glass doors"
+          ],
+          "materials": [
+            "Teak wood",
+            "Glass"
+          ],
+          "finish": "Teak wood finish, glass doors"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Teak wood brown"
+        ],
+        "materials": [
+          "Teak wood",
+          "Green marble",
+          "Glass"
+        ],
+        "lighting": "Natural light from large windows",
+        "texture": "Smooth marble, natural wood grain, glass reflections"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional",
+        "traditional_elements": [
+          "Teak wood furniture",
+          "Green marble accent wall"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with built-in units"
+        ],
+        "space_utilization": "Efficient use of space with built-in shelves and entertainment unit",
+        "cultural_significance": "Green marble is often used in Indian homes for its symbolic meaning and aesthetic appeal"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian living room with a contemporary design, featuring a teak wood coffee table and built-in entertainment unit. The room incorporates green marble as an accent wall, adding a touch of traditional Indian aesthetic. The space is well-lit with natural light, highlighting the smooth textures of the marble and the natural wood grain of the teak. The built-in entertainment unit maximizes storage and functionality while maintaining a clean, minimalist look.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Contemporary",
+          "Teak wood",
+          "Green marble",
+          "Built-in units"
+        ],
+        "budget_indicator": "Moderate, due to the use of marble and teak wood",
+        "space_type": "Living Room",
+        "functionality": "Entertainment and relaxation",
+        "indian_specific": "Teak wood furniture and green marble accent wall"
+      }
+    }
+  },
+  "cached_at": 1754908940501,
+  "cache_key": "08d6dfe73265a219d2f2a95568cae18b"
+}

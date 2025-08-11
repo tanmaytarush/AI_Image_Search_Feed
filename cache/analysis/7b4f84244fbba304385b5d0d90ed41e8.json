@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.13.12%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_520",
+    "ai_generated_tags": {
+      "room": "Living Area",
+      "theme": "Contemporary Indian Design",
+      "primary_features": [
+        "Ceiling design with LED lights",
+        "Open kitchen area",
+        "Built-in shelves"
+      ],
+      "objects": [
+        {
+          "type": "Ceiling design",
+          "features": [
+            "LED lights in a geometric pattern"
+          ],
+          "materials": [
+            "Plasterboard"
+          ],
+          "finish": "Smooth finish with LED lights"
+        },
+        {
+          "type": "Open kitchen area",
+          "features": [
+            "Green cabinets",
+            "Built-in shelves"
+          ],
+          "materials": [
+            "Wood, acrylic"
+          ],
+          "finish": "Glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "Green",
+          "White"
+        ],
+        "materials": [
+          "Plasterboard",
+          "Wood",
+          "Acrylic"
+        ],
+        "lighting": "Bright ambient lighting from LED lights with recessed ceiling lights",
+        "texture": "Smooth plasterboard ceiling, glossy finishes on cabinets"
+      },
+      "indian_context": {
+        "regional_style": "General approach to Indian interior design with modern influences",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Geometric ceiling design",
+          "Open kitchen layout"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and open design",
+        "cultural_significance": "Modern interpretation of Indian interior design aesthetic"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a contemporary Indian interior design in a living area with a focus on modern aesthetics. The ceiling is decorated with a geometric LED light design, representing a blend of traditional craftsmanship and modern technology. The open kitchen area features green cabinets and built-in shelves, indicating a practical yet stylish approach to space utilization. The overall design emphasizes bright and clean lines, with a focus on efficient use of space and a modern interpretation of Indian interior design elements.",
+      "metadata": {
+        "tags": [
+          "Indian Contemporary Design",
+          "Modern Indian Interior",
+          "Open Kitchen",
+          "Geometric Ceiling",
+          "Built-in Storage"
+        ],
+        "budget_indicator": "Moderate, with use of modern materials and finishes",
+        "space_type": "Residential Living Area",
+        "functionality": "Living and kitchen area with efficient space utilization",
+        "indian_specific": "Modern interpretation of Indian design with contemporary materials and finishes"
+      }
+    }
+  },
+  "cached_at": 1754912834969,
+  "cache_key": "7b4f84244fbba304385b5d0d90ed41e8"
+}

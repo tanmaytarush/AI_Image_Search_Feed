@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/301/image_cropper_1727410519923.jpg",
+  "analysis": {
+    "image_id": "img_484",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Indian Contemporary",
+      "primary_features": [
+        "Carved wooden partition",
+        "Modern furniture",
+        "Lamp with brass details"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden partition",
+          "features": [
+            "Horizontal slats with intricate carvings",
+            "Natural wood finish"
+          ],
+          "materials": [
+            "Wood (likely teak or sheesham)"
+          ],
+          "finish": "Natural wood finish with some signs of wear and tear, indicating use"
+        },
+        {
+          "type": "Modern furniture",
+          "features": [
+            "Compact and sleek design",
+            "Minimalist style"
+          ],
+          "materials": [
+            "Painted wood or engineered wood"
+          ],
+          "finish": "Smooth painted surface"
+        },
+        {
+          "type": "Lamp with brass details",
+          "features": [
+            "Gold-colored metal accents",
+            "Modern design"
+          ],
+          "materials": [
+            "Brass or copper"
+          ],
+          "finish": "Polished brass finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Natural wood tones",
+          "Gold metallic accents"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Paint"
+        ],
+        "lighting": "Natural light from the windows and ambient lighting from the lamp",
+        "texture": "Smooth surfaces with some texture from the wooden carvings"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Carved wooden partition (likely inspired by diwan or jharokha)"
+        ],
+        "modern_adaptations": [
+          "Integration of modern furniture and lighting"
+        ],
+        "space_utilization": "Efficient use of space with minimal furniture",
+        "cultural_significance": "The carved partition may symbolize cultural heritage and the importance of the entryway in Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts an Indian contemporary entryway with a focus on a carved wooden partition that integrates traditional Indian design elements with modern furniture and lighting. The space uses natural wood tones and gold accents, creating a harmonious blend of old and new. The entryway serves as a welcoming space, emphasizing cultural heritage with the partition while offering a functional and sleek design that is characteristic of modern Indian interiors.",
+      "metadata": {
+        "tags": [
+          "Indian contemporary",
+          "Entryway",
+          "Carved wooden partition",
+          "Modern furniture",
+          "Gold accents"
+        ],
+        "budget_indicator": "Moderate, with a mix of traditional and modern materials",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is to welcome guests and provide a clear pathway to the interior spaces",
+        "indian_specific": "The carved partition with intricate woodwork is a distinctive Indian design feature"
+      }
+    }
+  },
+  "cached_at": 1754912090591,
+  "cache_key": "4722dd0da6a913024b8baae1312fea43"
+}

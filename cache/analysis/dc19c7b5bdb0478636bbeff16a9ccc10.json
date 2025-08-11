@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/779/image_cropper_1729415210876.jpg",
+  "analysis": {
+    "image_id": "img_275",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modular Kitchen",
+      "primary_features": [
+        "Built-in shelving units",
+        "Glass-front cabinets",
+        "Colorful bowl display"
+      ],
+      "objects": [
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Vertical arrangement",
+            "Integrated into wall"
+          ],
+          "materials": [
+            "Wood",
+            "Metal frame"
+          ],
+          "finish": "Polished finish, light wood tone"
+        },
+        {
+          "type": "Cabinet doors",
+          "features": [
+            "Rectangular",
+            "Translucent glass"
+          ],
+          "materials": [
+            "Metal frame",
+            "Glass panel"
+          ],
+          "finish": "Smooth, reflective surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Multicolored (bowl display)"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from window, warm ambient light",
+        "texture": "Smooth surfaces with subtle grain in wood"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional; similar to modern modular kitchens found across India",
+        "traditional_elements": [
+          "No traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Incorporation of glass for modern look"
+        ],
+        "space_utilization": "Optimized for storage and display",
+        "cultural_significance": "Not culturally significant in the traditional Indian context"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.8,
+        "objects": 0.9,
+        "indian_context": 0.6
+      },
+      "description": "The image depicts a modern modular kitchen with built-in shelves and glass-front cabinets. The design is characterized by clean lines, light wood tones, and transparent glass, reflecting a contemporary aesthetic. The space is efficiently organized for storage and display, with a focus on functionality and minimalism. The use of glass and modern materials highlights a more urban, style-conscious approach rather than traditional Indian design elements.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modular Design",
+          "Glass Cabinets",
+          "Storage",
+          "Modern Interior"
+        ],
+        "budget_indicator": "Moderate to high, given the use of glass and polished metal",
+        "space_type": "Residential",
+        "functionality": "Storage and preparation area",
+        "indian_specific": "No Indian-specific design features are observed"
+      }
+    }
+  },
+  "cached_at": 1754908852346,
+  "cache_key": "dc19c7b5bdb0478636bbeff16a9ccc10"
+}

@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/194/image_cropper_1726821373398.jpg",
+  "analysis": {
+    "image_id": "img_232",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Colonial Revival",
+      "primary_features": [
+        "Dark wood paneling",
+        "Classical chandelier",
+        "Large mirror"
+      ],
+      "objects": [
+        {
+          "type": "Chandelier",
+          "features": [
+            "Classical design with drum shades",
+            "Metallic finish"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metallic"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Tall and rectangular",
+            "Gold frame"
+          ],
+          "materials": [
+            "Glass",
+            "Gold"
+          ],
+          "finish": "Gilded gold"
+        },
+        {
+          "type": "Furniture",
+          "features": [
+            "Dark wood paneling",
+            "Traditional design"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Antique teak"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown, gold, brass, cream"
+        ],
+        "materials": [
+          "Teak, brass, glass, gold"
+        ],
+        "lighting": "Warm, ambient lighting from the chandelier",
+        "texture": "Smooth wood paneling, polished glass, gilded gold"
+      },
+      "indian_context": {
+        "regional_style": "No regional style evident",
+        "traditional_elements": [
+          "Wood paneling",
+          "Mirror with gold frame"
+        ],
+        "modern_adaptations": [
+          "Contemporary chandelier design"
+        ],
+        "space_utilization": "Efficient use of space with mirrors to reflect and expand the room",
+        "cultural_significance": "The use of mirrors is a significant cultural element in Indian design, symbolizing prosperity and good fortune"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.78,
+        "primary_features": 0.8,
+        "objects": 0.9,
+        "indian_context": 0.8
+      },
+      "description": "The image depicts a living room with a colonial revival design, featuring dark wood paneling and a large, gilded mirror. The space is illuminated by a classical chandelier, creating a warm and inviting atmosphere. The use of dark wood and gold accents reflects traditional Indian design elements, with the mirror symbolizing prosperity and good fortune. The overall space is efficiently organized, utilizing mirrors to visually expand the room.",
+      "metadata": {
+        "tags": [
+          "Colonial Revival",
+          "Living Room",
+          "Dark Wood Paneling",
+          "Gilded Mirror",
+          "Classical Chandelier"
+        ],
+        "budget_indicator": "Moderate to High",
+        "space_type": "Residential Living Room",
+        "functionality": "Entertainment and relaxation",
+        "indian_specific": "Teak wood paneling and gilded mirror"
+      }
+    }
+  },
+  "cached_at": 1754907881044,
+  "cache_key": "117696e0e72bf50fef0571f737acd9f7"
+}

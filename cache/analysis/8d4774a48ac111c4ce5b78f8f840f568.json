@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/554/image_cropper_1729071248438.jpg",
+  "analysis": {
+    "image_id": "img_142",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Modern furniture",
+        "Large mirror",
+        "Carpeted floor",
+        "Shelving unit"
+      ],
+      "objects": [
+        {
+          "type": "Carpet",
+          "features": [
+            "Adding warmth and comfort to the space"
+          ],
+          "materials": [
+            "Wool or synthetic"
+          ],
+          "finish": "Textured with intricate patterns"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Large, wall-mounted, reflecting the room's features"
+          ],
+          "materials": [
+            "Glass, metallic frame"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Furniture",
+          "features": [
+            "Modern and minimalist"
+          ],
+          "materials": [
+            "Metal, wood"
+          ],
+          "finish": "Sleek, lacquered"
+        },
+        {
+          "type": "Shelving Unit",
+          "features": [
+            "Built-in, rectangular with glass doors"
+          ],
+          "materials": [
+            "Wood, glass"
+          ],
+          "finish": "Stained wood, clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral tones, white walls, beige carpet, dark wood accents"
+        ],
+        "materials": [
+          "Wood, glass, metal, fabric"
+        ],
+        "lighting": "Natural light from large windows, artificial lighting from ceiling fixtures",
+        "texture": "Combination of smooth surfaces and soft textures"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, leans towards Northern Indian aesthetics",
+        "traditional_elements": [
+          "Large mirror, built-in shelves"
+        ],
+        "modern_adaptations": [
+          "Minimalist furniture, contemporary finish"
+        ],
+        "space_utilization": "Efficient, open layout with a mix of modern and traditional elements",
+        "cultural_significance": "The large mirror reflects an appreciative attitude towards symmetry and balance in design, common in Indian architecture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This living room incorporates a modern Indian design theme, featuring a large mirror, contemporary furniture, and a functional shelving unit. The room uses neutral tones with wooden and glass elements, emphasizing a balance of traditional and contemporary aesthetics. The large mirror adds a sense of space and reflects the room's features, while the built-in shelves offer storage solutions. The use of wooden finishes and fabrics is indicative of traditional Indian design influences, adapted with modern materials and finishes.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Contemporary Indian",
+        "Modern Furniture",
+        "Neutral Tones",
+        "Mirror"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials like wood, glass, and metal",
+      "space_type": "Residential",
+      "functionality": "Living and lounge area",
+      "indian_specific": "Large mirror, built-in shelves, use of wood"
+    }
+  },
+  "cached_at": 1754906335271,
+  "cache_key": "8d4774a48ac111c4ce5b78f8f840f568"
+}

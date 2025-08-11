@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.12.13%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_518",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Built-in wardrobes",
+        "Sliding doors",
+        "Open shelf"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Fitted with sliding doors",
+            "Includes open shelving"
+          ],
+          "materials": [
+            "Panelled in wood or wood veneer",
+            "Smooth finish"
+          ],
+          "finish": "Smooth, glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige walls",
+          "Brown doors",
+          "White ceiling"
+        ],
+        "materials": [
+          "Wood or wood veneer",
+          "Metal handles"
+        ],
+        "lighting": "Natural light from an unseen window",
+        "texture": "Smooth surfaces with a few textured elements like the shelving"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of open shelving in modern design"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "No specific cultural elements present"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern, minimalist bedroom with built-in wardrobes, featuring sliding doors and an open shelving unit. The design incorporates smooth, glossy finishes and a mix of natural and metallic elements, reflecting contemporary style without traditional Indian influences. The space utilizes efficient storage solutions, emphasizing functionality over decoration.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Bedroom",
+          "Built-in Wardrobe",
+          "Modern Design"
+        ],
+        "budget_indicator": "Moderate, with a focus on efficiency and materials",
+        "space_type": "Residential",
+        "functionality": "Storage and organization",
+        "indian_specific": "No specific Indian design features"
+      }
+    }
+  },
+  "cached_at": 1754912775787,
+  "cache_key": "bf9b294e7bf77bb36f682960caa2cfd7"
+}

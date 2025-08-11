@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.54.27%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_544",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Glass-paneled cabinet",
+        "Mirror with geometric design",
+        "Cabinet with storage doors"
+      ],
+      "objects": [
+        {
+          "type": "Glass-paneled cabinet",
+          "features": [
+            "Translucent glass panels",
+            "Metal frame with a bronze finish"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy, metallic sheen"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Geometric pattern with a bronze frame"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Brushed bronze"
+        },
+        {
+          "type": "Cabinet with storage doors",
+          "features": [
+            "Two doors with decorative handles",
+            "White and green color scheme"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Bronze",
+          "Black"
+        ],
+        "materials": [
+          "Glass",
+          "Metal",
+          "Wood"
+        ],
+        "lighting": "Recessed ceiling lights, reflection from glass and mirrors",
+        "texture": "Smooth surfaces with a contemporary finish"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly identifiable from the image; could be from any part of India with a modern twist",
+        "traditional_elements": [
+          "Geometric mirror design",
+          "Decorative cabinet handles"
+        ],
+        "modern_adaptations": [
+          "Use of glass and modern finishes, contemporary color scheme"
+        ],
+        "space_utilization": "Effective use of vertical space with mirror and glass panels for storage and display",
+        "cultural_significance": "Geometric patterns and mirror use can be seen in traditional Indian decor, but this is a modern interpretation"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian foyer with a glass-paneled cabinet and a mirror with a geometric design. The cabinet features decorative handles and storage doors, painted in a traditional Indian color scheme of green and white. The mirror adds a contemporary touch with its geometric pattern and bronze frame, reflecting the space and adding depth. The overall design reflects a blend of traditional Indian elements with a modern aesthetic, creating a functional yet stylish entryway.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Foyer",
+        "Glass Cabinet",
+        "Geometric Mirror",
+        "Green and White Color Scheme"
+      ],
+      "budget_indicator": "Moderate to high, due to the use of glass panels and metal frame",
+      "space_type": "Foyer",
+      "functionality": "Storage and display, providing a visually appealing entryway",
+      "indian_specific": "Geometric mirror design, traditional color scheme"
+    },
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.54.27%E2%80%AFPM.png"
+  },
+  "cached_at": 1754913374958,
+  "cache_key": "92e5605f75d21027771eadfe9c463ffc"
+}

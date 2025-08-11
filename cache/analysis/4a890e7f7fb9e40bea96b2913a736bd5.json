@@ -1,0 +1,78 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/724/image_cropper_1729186369594.jpg",
+  "analysis": {
+    "image_id": "img_400",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "White wardrobe with mirrored doors",
+        "Wooden flooring",
+        "neutral color palette"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Rectangular shape",
+            "white finish",
+            "mirrored doors",
+            "carved handles"
+          ],
+          "materials": [
+            "Wood",
+            "mirror"
+          ],
+          "finish": "White paint with reflective mirror"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "brown",
+          "neutral"
+        ],
+        "materials": [
+          "wood",
+          "mirror"
+        ],
+        "lighting": "soft lighting, likely from ceiling fixtures",
+        "texture": "smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian influence",
+        "traditional_elements": [
+          "carved handles on wardrobe"
+        ],
+        "modern_adaptations": [
+          "contemporary wardrobe design with mirrored doors"
+        ],
+        "space_utilization": "efficient use of space with a single piece of furniture",
+        "cultural_significance": "carved handles symbolize craftsmanship and attention to detail"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image features a bedroom with a contemporary wardrobe that incorporates traditional Indian design elements, such as carved handles, reflecting a Northern Indian aesthetic. The white wardrobe with mirrored doors adds a modern touch while still maintaining a connection to historical craftsmanship. The wooden flooring and neutral color palette complete the look, aligning with contemporary design trends while subtly incorporating Indian influences.",
+      "metadata": {
+        "tags": [
+          "contemporary",
+          "Indian design",
+          "white wardrobe",
+          "wooden flooring",
+          "carved handles"
+        ],
+        "budget_indicator": "Moderate, with the use of wood and mirror, indicating a focus on craftsmanship and style.",
+        "space_type": "Residential bedroom",
+        "functionality": "Storage and organization of bedroom items",
+        "indian_specific": "wooden wardrobe with carved handles"
+      }
+    }
+  },
+  "cached_at": 1754911129646,
+  "cache_key": "4a890e7f7fb9e40bea96b2913a736bd5"
+}

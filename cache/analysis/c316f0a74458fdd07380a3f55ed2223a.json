@@ -1,0 +1,72 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/40/1000000049.jpg",
+  "analysis": {
+    "image_id": "img_404",
+    "ai_generated_tags": {
+      "room": "Not applicable (This is a screenshot of a transaction interface, not an interior space)",
+      "theme": "Not applicable (This is a transaction interface, not a design theme)",
+      "primary_features": [
+        "Transaction details",
+        "Financial figures",
+        "User interface elements"
+      ],
+      "objects": [
+        {
+          "type": "Transaction Interface",
+          "features": [
+            "Transaction summary",
+            "Financial figures",
+            "User interface design"
+          ],
+          "materials": [
+            "Not applicable"
+          ],
+          "finish": "Not applicable"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Not applicable"
+        ],
+        "materials": [
+          "Not applicable"
+        ],
+        "lighting": "Not applicable",
+        "texture": "Not applicable"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Not applicable"
+        ],
+        "space_utilization": "Not applicable",
+        "cultural_significance": "Not applicable"
+      }
+    },
+    "confidence_scores": {
+      "room": 0,
+      "theme": 0,
+      "primary_features": 0,
+      "objects": 0,
+      "indian_context": 0
+    },
+    "description": "This is a screenshot of a transaction interface, not an interior space. It displays transaction details, financial figures, and user interface elements.",
+    "metadata": {
+      "tags": [
+        "Transaction",
+        "Financial",
+        "User Interface",
+        "Screenshot"
+      ],
+      "budget_indicator": "Not applicable (This is a transaction interface, not an interior space)",
+      "space_type": "Not applicable (This is a transaction interface, not a residential space)",
+      "functionality": "Display transaction details and financial figures",
+      "indian_specific": "Not applicable (This is a transaction interface, not an interior space)"
+    }
+  },
+  "cached_at": 1754911185422,
+  "cache_key": "c316f0a74458fdd07380a3f55ed2223a"
+}

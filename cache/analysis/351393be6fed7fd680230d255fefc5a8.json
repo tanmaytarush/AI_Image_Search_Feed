@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1547/insta_assets_crop_a11b607e-3ef1-45f8-b04e-de0abfa410d97205265202102720157.jpg",
+  "analysis": {
+    "image_id": "img_225",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist Modern",
+      "primary_features": [
+        "Blue and white color scheme",
+        "Modern wardrobe design",
+        "Simple door"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Modern design with geometric patterns",
+            "Dual-tone finish with blue and white"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Smooth painted surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Brown"
+        ],
+        "materials": [
+          "Painted wood or MDF"
+        ],
+        "lighting": "Natural light visible through the door, indicating daytime",
+        "texture": "Smooth surfaces with subtle geometric patterns"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style visible",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of geometric patterns and modern wardrobe design"
+        ],
+        "space_utilization": "Optimized for storage with a modern wardrobe",
+        "cultural_significance": "No visible cultural or religious elements"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.9,
+        "objects": 0.95,
+        "indian_context": 0.3
+      },
+      "description": "This image depicts a modern bedroom with a minimalist design. The wardrobe features a geometric pattern with a blue and white color scheme. The door is simple and appears to be made of painted wood or MDF, with a smooth finish. There are no visible traditional Indian elements, and the space is optimized for storage with a modern wardrobe. The color palette is primarily blue, white, and brown, reflecting a modern and possibly urban aesthetic.",
+      "metadata": {
+        "tags": [
+          "Bedroom",
+          "Minimalist",
+          "Modern",
+          "Blue and White",
+          "Wardrobe",
+          "Urban Design"
+        ],
+        "budget_indicator": "Low to moderate, as the materials and finishes are simple and functional",
+        "space_type": "Residential Bedroom",
+        "functionality": "Primary purpose is storage and organization of personal items",
+        "indian_specific": "No specific Indian design features are visible"
+      }
+    }
+  },
+  "cached_at": 1754907815860,
+  "cache_key": "351393be6fed7fd680230d255fefc5a8"
+}

@@ -1,0 +1,168 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00623.JPG",
+  "analysis": {
+    "image_id": "img_007",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Kitchen island with bar stools",
+        "Modern kitchen cabinetry",
+        "Open shelving",
+        "Wooden staircase",
+        "Round dining table"
+      ],
+      "objects": [
+        {
+          "type": "Dining table",
+          "features": [
+            "Circular",
+            "Wooden surface",
+            "Simple design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Kitchen island",
+          "features": [
+            "Center of the room",
+            "White countertop",
+            "Bar stools"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Kitchen cabinetry",
+          "features": [
+            "White with wooden accents",
+            "Modern design"
+          ],
+          "materials": [
+            "PVC for doors, wood for accents"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Open shelving",
+          "features": [
+            "Wooden shelves",
+            "Decorative items displayed"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wooden staircase",
+          "features": [
+            "Contemporary design",
+            "Glass railings",
+            "Wooden banister"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Wall mirror",
+          "features": [
+            "Circular",
+            "Gold frame",
+            "Decorative artwork behind"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Polished, metallic"
+        },
+        {
+          "type": "Copper pendant lights",
+          "features": [
+            "Modern design",
+            "Copper finish"
+          ],
+          "materials": [
+            "Copper"
+          ],
+          "finish": "Shiny, metallic"
+        },
+        {
+          "type": "Golden statue",
+          "features": [
+            "Idol-like figure",
+            "Placed on a black stand"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gold",
+          "Green",
+          "Black"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from a window, artificial light from pendant lights",
+        "texture": "Smooth surfaces, glossy finishes, polished wood"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, but has elements commonly found in urban or suburban Indian homes",
+        "traditional_elements": [
+          "Wooden staircase",
+          "Wooden dining table",
+          "Copper pendant lights"
+        ],
+        "modern_adaptations": [
+          "Contemporary kitchen design",
+          "Glass railings"
+        ],
+        "space_utilization": "Open layout with a kitchen island, optimizing space for both cooking and dining",
+        "cultural_significance": "The presence of a golden statue suggests a space where deities might be worshipped, indicating a blend of modern living with traditional religious practices"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.9,
+      "primary_features": 0.92,
+      "objects": 0.92,
+      "indian_context": 0.85
+    },
+    "description": "The image showcases a contemporary Indian fusion kitchen with a modern design aesthetic. The kitchen features sleek white cabinetry with wooden accents, a large kitchen island with a white countertop, and a dining area with a wooden table and chairs. The space is illuminated by natural light from a window and modern copper pendant lights. Traditional elements like a wooden staircase and a golden statue add a touch of cultural significance and warmth to the otherwise modern space. The overall design reflects a balance between traditional Indian design elements and contemporary architectural styles.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Contemporary",
+        "Indian Fusion",
+        "Modern",
+        "Wooden Staircase",
+        "Golden Statue"
+      ],
+      "budget_indicator": "Mid-range, with a focus on modern materials and finishes",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is for cooking and dining, with optimizing space for both activities",
+      "indian_specific": "Traditional furniture styles like the wooden staircase and golden statue"
+    }
+  },
+  "cached_at": 1754895269919,
+  "cache_key": "f0ecc02d6341e9aed82cf5654ad4f2b8"
+}

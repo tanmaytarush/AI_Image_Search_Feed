@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1463/image_cropper_1729776243616.jpg",
+  "analysis": {
+    "image_id": "img_390",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Minimalist with Indian Influences",
+      "primary_features": [
+        "Built-in wardrobe with geometric patterns",
+        "Neutral color palette",
+        "Modern cabinetry with traditional touches"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Geometric shapes on doors",
+            "Modular design"
+          ],
+          "materials": [
+            "Wood with painted finish"
+          ],
+          "finish": "Matte finish with painted geometric patterns"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "Simple lines",
+            "Integrated handles"
+          ],
+          "materials": [
+            "Wood with painted finish"
+          ],
+          "finish": "Matte finish with light paint"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral tones (beige, white, gray)",
+          "Geometric brown and white pattern"
+        ],
+        "materials": [
+          "Natural wood",
+          "Painted wood"
+        ],
+        "lighting": "Ambient lighting with recessed ceiling lights",
+        "texture": "Smooth surfaces with painted textures"
+      },
+      "indian_context": {
+        "regional_style": "Westernized Indian style",
+        "traditional_elements": [
+          "Geometric patterns commonly found in Indian textile designs"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with Indian motifs"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Geometric patterns symbolize balance and harmony in Indian aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.88,
+        "primary_features": 0.9,
+        "objects": 0.92,
+        "indian_context": 0.85
+      },
+      "description": "The image depicts a modern minimalist bedroom with an Indian design influence. The built-in wardrobe features geometric patterns that echo traditional Indian textile designs, while the neutral color palette and simple lines reflect a contemporary aesthetic. The use of wood and painted finishes is a nod to traditional Indian materials and craftsmanship. The space efficiently utilizes built-in storage, maintaining a clean and organized look.",
+      "metadata": {
+        "tags": [
+          "Indian interiors",
+          "Minimalist design",
+          "Neutral color palette",
+          "Geometric patterns",
+          "Modern Indian style",
+          "Built-in storage"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Bedroom",
+        "functionality": "Personal storage and sleeping area",
+        "indian_specific": "Geometric patterns and use of wood"
+      }
+    }
+  },
+  "cached_at": 1754910688960,
+  "cache_key": "72c4f49b5324238be8c1a10de6ae1d0d"
+}

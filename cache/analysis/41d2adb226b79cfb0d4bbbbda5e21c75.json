@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/335/image_cropper_1727609018074.jpg",
+  "analysis": {
+    "image_id": "img_103",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Light-colored cabinets",
+        "Pink accents",
+        "Integrated storage units",
+        "Simple design elements"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Rectangular shape",
+            "Light pink color"
+          ],
+          "materials": [
+            "Painted MDF or similar, possibly teak"
+          ],
+          "finish": "Smooth painted finish"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Integrated into the cabinets"
+          ],
+          "materials": [
+            "Granite or quartz"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light pink",
+          "White",
+          "Neutral tones"
+        ],
+        "materials": [
+          "Painted MDF",
+          "Granite",
+          "Metal"
+        ],
+        "lighting": "Artificial lighting from above",
+        "texture": "Smooth surfaces with some grain texture on materials"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, more of a modern interpretation",
+        "traditional_elements": [
+          "Carved details on cabinets"
+        ],
+        "modern_adaptations": [
+          "Integration of storage and modern cabinetry"
+        ],
+        "space_utilization": "Efficient use of space with integrated storage",
+        "cultural_significance": "Modern reinterpretation of Indian design with minimal cultural decor"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.9,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.85
+      },
+      "description": "The image depicts a modern Indian kitchen with a focus on efficiency and functionality. The design uses light pink cabinets with smooth finishes and integrated storage units, reflecting a contemporary approach to Indian interior design. The inclusion of carved details on the cabinets adds a subtle traditional touch, maintaining cultural relevance in a modern context. The space is well-lit with artificial lighting, emphasizing the clean and organized layout.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern Indian",
+          "Light Pink Cabinets",
+          "Integrated Storage",
+          "Contemporary Design"
+        ],
+        "budget_indicator": "Moderate, with the use of quality materials like granite and painted MDF for the cabinets",
+        "space_type": "Residential Kitchen",
+        "functionality": "Efficient storage and preparation area",
+        "indian_specific": "Carved details on cabinets"
+      }
+    }
+  },
+  "cached_at": 1754905901858,
+  "cache_key": "41d2adb226b79cfb0d4bbbbda5e21c75"
+}

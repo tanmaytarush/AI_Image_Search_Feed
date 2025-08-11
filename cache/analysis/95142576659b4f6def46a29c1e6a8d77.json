@@ -1,0 +1,138 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.54.30%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_546",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Green cabinetry with brass handles",
+        "Marble backsplash",
+        "Integrated cooktop and chimney",
+        "Wooden door frame",
+        "Ceiling recessed lights"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "L-shaped design",
+            "Green color with brass handles"
+          ],
+          "materials": [
+            "MDF or lacquer"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Black countertops"
+          ],
+          "materials": [
+            "Granite or similar material"
+          ],
+          "finish": "Shiny"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Marble tile backsplash"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "Grid window with metal bars"
+          ],
+          "materials": [
+            "Metal"
+          ]
+        },
+        {
+          "type": "Cabinet",
+          "features": [
+            "Upper cabinets with mirrored doors"
+          ],
+          "materials": [
+            "MDF or lacquer"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Door frame",
+          "features": [
+            "Wooden with a reddish-brown tone"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "Black",
+          "White",
+          "Silver",
+          "Brown"
+        ],
+        "materials": [
+          "Green MDF/lacquer",
+          "Marble",
+          "Wood",
+          "Metal",
+          "Granite"
+        ],
+        "lighting": "Recessed ceiling lights providing ambient lighting",
+        "texture": [
+          "Glossy finish on cabinets and countertops",
+          "Polished marble backsplash",
+          "Smooth wooden door frame"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden door frame"
+        ],
+        "modern_adaptations": [
+          "Green cabinetry with modern handles",
+          "Marble backsplash"
+        ],
+        "space_utilization": "Optimizes the kitchen space by L-shape design and integrated appliances",
+        "cultural_significance": "Green cabinets symbolize freshness and nature, a common theme in Indian design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The kitchen showcases a modern take on traditional Indian design, employing green cabinetry with brass handles, a marble backsplash, and an L-shaped layout. The use of green is significant in Indian interiors, symbolizing freshness and harmony with nature, while the modern elements give it a contemporary feel. The wooden door frame adds a touch of traditional craftsmanship, blending modern and traditional aesthetics. The space is well-organized and optimized for functionality, with integrated appliances and sufficient storage.",
+    "metadata": {
+      "tags": [
+        "Indian kitchen",
+        "Modern Indian design",
+        "Green cabinetry",
+        "Marble backsplash",
+        "Wooden door frame",
+        "L-shaped layout",
+        "Functional kitchen"
+      ],
+      "budget_indicator": "Moderate to high, due to the use of marble and glossy finishes",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary cooking and storage space",
+      "indian_specific": "Green cabinetry and brass handles with wooden door frame"
+    }
+  },
+  "cached_at": 1754913394937,
+  "cache_key": "95142576659b4f6def46a29c1e6a8d77"
+}

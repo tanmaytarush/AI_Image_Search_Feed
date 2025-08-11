@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00501.JPG",
+  "analysis": {
+    "image_id": "img_565",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Curved bed with fabric headboard",
+        "White glossy wardrobe",
+        "Marble flooring",
+        "Circular ceiling design"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Curved headboard with fabric upholstery",
+            "Striped bedspread in warm tones"
+          ],
+          "materials": [
+            "Fabric",
+            "Wood"
+          ],
+          "finish": "Fabric upholstery with a matte finish, wood with a polished finish"
+        },
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Glossy white finish",
+            "Sliding doors",
+            "Integrated into wall design"
+          ],
+          "materials": [
+            "MDF",
+            "Glass"
+          ],
+          "finish": "Glossy white finish, glass with a polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Marble tones",
+          "Striped bedspread in red, yellow, grey"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "MDF",
+          "Glass"
+        ],
+        "lighting": "Natural light from balcony, likely enhanced by recessed ceiling lights",
+        "texture": "Smooth marble floor, fabric upholstery with texture, glossy finishes on furniture"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident, but contemporary with Indian elements",
+        "traditional_elements": [
+          "Curved bed headboard"
+        ],
+        "modern_adaptations": [
+          "Glossy finishes, contemporary furniture design"
+        ],
+        "space_utilization": "Efficient use of space with built-in wardrobe and minimalistic decor",
+        "cultural_significance": "Curved bed headboard reflects traditional Indian craftsmanship, though in a modern context"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary Indian bedroom features a curved bed with fabric upholstery, a glossy white wardrobe integrated into the wall, and marble flooring. The design includes a circular ceiling with recessed lights, reflecting a blend of modern and traditional elements. The color palette is dominated by neutral whites and browns with a pop of color from the striped bedspread, maintaining a modern aesthetic while paying homage to Indian design influences.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Curved bed",
+        "Glossy wardrobe",
+        "Marble flooring",
+        "Circular ceiling"
+      ],
+      "budget_indicator": "High, due to use of glossy materials and marble flooring",
+      "space_type": "Single bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Curved bed as a traditional Indian element"
+    }
+  },
+  "cached_at": 1754913908584,
+  "cache_key": "6e445b8351ea91d917c3c5ac32055ef0"
+}

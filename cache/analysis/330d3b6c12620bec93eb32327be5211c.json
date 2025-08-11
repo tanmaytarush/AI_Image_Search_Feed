@@ -1,0 +1,111 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1579/image_cropper_1729837674396.jpg",
+  "analysis": {
+    "image_id": "img_462",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Mughal-Influenced",
+      "primary_features": [
+        "Wooden storage unit",
+        "White marble wall",
+        "Carved wooden panel",
+        "Black and white patterned rug"
+      ],
+      "objects": [
+        {
+          "type": "Wooden Storage Unit",
+          "features": [
+            "Rectangular shape with shelves and drawers",
+            "Carved wooden details"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak finish with dark accents"
+        },
+        {
+          "type": "White Marble Wall",
+          "features": [
+            "Smooth marble surface with inlaid detailing"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished finish"
+        },
+        {
+          "type": "Carved Wooden Panel",
+          "features": [
+            "Segmented into panels with floral and geometric carvings"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Dark stained with intricate details"
+        },
+        {
+          "type": "Black and White Patterned Rug",
+          "features": [
+            "Abstract pattern with geometric shapes"
+          ],
+          "materials": [
+            "Woven fabric"
+          ],
+          "finish": "Textured woven"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Brown",
+          "Dark Brown"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Woven fabric"
+        ],
+        "lighting": "Soft ambient lighting",
+        "texture": "Smooth marble, dark wood carvings, textured rug"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Wooden carvings",
+          "Marble inlay",
+          "Carpet"
+        ],
+        "modern_adaptations": [
+          "Incorporation of modern materials like marble and woven fabrics"
+        ],
+        "space_utilization": "Efficient use of wall space for storage and display",
+        "cultural_significance": "The use of marble and wood carvings reflects the Mughal architectural influence, which is often associated with grandeur and elegance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space features a Mughal-inspired design with a harmonious blend of traditional and modern elements. The room includes a wooden storage unit with intricate carvings, a white marble wall with inlaid designs, and a decorative patterned rug. The use of teak wood and marble exemplifies the rich material palette often seen in North Indian interiors, reflecting cultural significance and traditional craftsmanship.",
+    "metadata": {
+      "tags": [
+        "Mughal-Influenced",
+        "Teak Wood",
+        "Marble",
+        "North Indian Design",
+        "Carved Paneling",
+        "Patterned Rug"
+      ],
+      "budget_indicator": "Higher, due to the use of marble and intricate wood carvings",
+      "space_type": "Living Room",
+      "functionality": "Storage and decorative display",
+      "indian_specific": "Teak wood carvings, marble inlay, and patterned rug"
+    }
+  },
+  "cached_at": 1754911841151,
+  "cache_key": "330d3b6c12620bec93eb32327be5211c"
+}

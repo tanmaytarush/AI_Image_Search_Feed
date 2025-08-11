@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/960/image_cropper_1729403978012.jpg",
+  "analysis": {
+    "image_id": "img_475",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Traditional Influences",
+      "primary_features": [
+        "Crib",
+        "Bedside table",
+        "Storage unit"
+      ],
+      "objects": [
+        {
+          "type": "Crib",
+          "features": [
+            "Curved design",
+            "Wooden material",
+            "Carved details"
+          ],
+          "materials": [
+            "Wood (likely teak)"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Bedside table",
+          "features": [
+            "Compact size",
+            "Wooden material",
+            "Simple design"
+          ],
+          "materials": [
+            "Wood (likely teak)"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Storage unit",
+          "features": [
+            "Built-in storage",
+            "Wooden material",
+            "Simple design"
+          ],
+          "materials": [
+            "Wood (likely teak)"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "Brown",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from a window",
+        "texture": "Smooth wood texture and polished metal"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Wooden crib",
+          "Teak wood"
+        ],
+        "modern_adaptations": [
+          "Modern storage unit",
+          "Minimalistic design"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "The use of teak wood and carved details reflects traditional craftsmanship and cultural heritage in Indian design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space is a bedroom featuring a traditional wooden crib with intricate carvings, a compact wooden bedside table, and a built-in storage unit. The room has a contemporary feel with a modern interpretation of traditional Indian design elements, using teak wood and natural finishes. The space utilizes efficient storage solutions, and the natural light from the window enhances the warm color palette of beige and brown. Cultural significance is evident in the use of teak wood and carved details, which are traditional elements that add a touch of heritage to the modern design.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Maharashtra style",
+        "Traditional furniture",
+        "Teak wood",
+        "Contemporary design",
+        "Bedroom"
+      ],
+      "budget_indicator": "Moderate, with teak wood and natural finishes indicating a mid-range budget",
+      "space_type": "Residential bedroom",
+      "functionality": "Primary purpose is for sleeping and storage, with a focus on comfort and practicality",
+      "indian_specific": "Use of teak wood and carved details"
+    }
+  },
+  "cached_at": 1754911993974,
+  "cache_key": "48ba1042ff65f6876fce8276140498c1"
+}

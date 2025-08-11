@@ -1,0 +1,68 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1039/image_cropper_1729499723734.jpg",
+  "analysis": {
+    "image_id": "img_316",
+    "ai_generated_tags": {
+      "room": "clothing or retail store",
+      "theme": "modern retail",
+      "primary_features": [
+        "shelves with garments",
+        "customer",
+        "storefront display"
+      ],
+      "objects": [
+        {
+          "type": "furniture",
+          "features": [
+            "rows of shelves holding garments"
+          ],
+          "materials": [
+            "wooden frames, cardboard boxes"
+          ],
+          "finish": "plain and functional, without ornate details"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "blue, white, and other retail color schemes"
+        ],
+        "materials": [
+          "wood, cardboard, plastic"
+        ],
+        "lighting": "bright retail lighting, evenly distributed",
+        "texture": "smooth surfaces of shelves and garments"
+      },
+      "indian_context": {
+        "regional_style": "not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "contemporary retail design with simpler decor"
+        ],
+        "space_utilization": "efficient, maximizing space for product display",
+        "cultural_significance": "not applicable"
+      },
+      "confidence_scores": {
+        "room": 0.65,
+        "theme": 0.72,
+        "primary_features": 0.78,
+        "objects": 0.85,
+        "indian_context": 0.6
+      },
+      "description": "The image depicts a modern retail space, likely a clothing store, with a focus on efficient product display. Shelves are neatly arranged to showcase garments, and the space is well-lit with bright retail lighting. There are no traditional Indian design elements visible, and the space appears to be geared towards a contemporary shopping experience.",
+      "metadata": {
+        "tags": [
+          "retail store",
+          "clothing display",
+          "modern retail",
+          "efficient space"
+        ],
+        "budget_indicator": "moderate, with a focus on functionality and cost-effective materials",
+        "space_type": "small to medium retail space",
+        "functionality": "product display and customer browsing",
+        "indian_specific": "no Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1754909618933,
+  "cache_key": "b29c4bfa6ff67e40b9aca3bd488e4dbd"
+}

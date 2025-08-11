@@ -1,0 +1,119 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.16%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_011",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Modern marble flooring",
+        "Circular mirror with wooden frame",
+        "Teak wood cabinetry",
+        "Glass shelf units",
+        "Decorative vases"
+      ],
+      "objects": [
+        {
+          "type": "Circular mirror with wooden frame",
+          "features": [
+            "Circular shape",
+            "Wooden frame with a natural finish"
+          ],
+          "materials": [
+            "Glass",
+            "Wood"
+          ],
+          "finish": "Satin finish on wood"
+        },
+        {
+          "type": "Teak wood cabinetry",
+          "features": [
+            "Horizontal slats",
+            "Wood grain texture",
+            "Natural finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Unfinished, natural teak"
+        },
+        {
+          "type": "Glass shelf units",
+          "features": [
+            "Glass shelves",
+            "Dark wood frame"
+          ],
+          "materials": [
+            "Glass",
+            "Dark wood"
+          ],
+          "finish": "Smooth glass, matte dark wood"
+        },
+        {
+          "type": "Decorative vases",
+          "features": [
+            "Modern design",
+            "Patterns on the surface",
+            "Variety of colors"
+          ],
+          "materials": [
+            "Ceramic"
+          ],
+          "finish": "Glossy ceramic finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Marble white",
+          "Dark gray",
+          "Teak brown",
+          "Light wood",
+          "Dark wood",
+          "Yellowish green"
+        ],
+        "materials": [
+          "Marble",
+          "Glass",
+          "Wood",
+          "Ceramic"
+        ],
+        "lighting": "Natural light coming from the right, possibly from a window",
+        "texture": "Marble texture on the floor and walls, smooth glass on the shelves, matte wooden surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly indicative of a specific regional style",
+        "traditional_elements": [
+          "Circular mirror with wooden frame"
+        ],
+        "modern_adaptations": [
+          "Teak wood cabinetry with modern lines"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves and horizontal space with cabinetry",
+        "cultural_significance": "Circular mirror is often used in Indian homes, symbolizing completeness and wholeness"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This entryway showcases a modern take on Indian interior design, featuring a teak wood cabinetry with horizontal slats, a circular mirror with a wooden frame, and glass shelf units. The use of marble flooring and walls adds a touch of elegance, while decorative vases introduce a pop of pattern and color. The design reflects a balance between traditional Indian elements and contemporary aesthetics.",
+    "metadata": {
+      "tags": [
+        "Contemporary",
+        "Indian Influences",
+        "Teak Wood",
+        "Marble Flooring",
+        "Circular Mirror"
+      ],
+      "budget_indicator": "Moderate to high, given the use of teak wood, marble, and glass",
+      "space_type": "Residential",
+      "functionality": "Entryway for a modern Indian home, designed to be both visually appealing and practical",
+      "indian_specific": "Circular mirror and teak wood cabinetry"
+    }
+  },
+  "cached_at": 1754895340304,
+  "cache_key": "ae5f8f26c92385fb0b75315b622ef907"
+}

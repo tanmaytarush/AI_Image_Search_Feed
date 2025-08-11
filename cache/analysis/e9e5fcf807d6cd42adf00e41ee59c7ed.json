@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.28%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_038",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "contemporary",
+      "primary_features": [
+        "built-in wardrobe",
+        "custom furniture",
+        "wooden flooring",
+        "ceiling fan",
+        "window with jalousie"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe",
+          "features": [
+            "dark wood finish",
+            "marble accents",
+            "sliding doors",
+            "shelving units"
+          ],
+          "materials": [
+            "dark wood",
+            "marble"
+          ],
+          "finish": "high-gloss"
+        },
+        {
+          "type": "ceiling fan",
+          "features": [
+            "metallic finish",
+            "modern design"
+          ],
+          "materials": [
+            "metal"
+          ],
+          "finish": "polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "dark brown",
+          "white",
+          "gray",
+          "beige",
+          "wood tones"
+        ],
+        "materials": [
+          "dark wood",
+          "marble",
+          "metal",
+          "plaster"
+        ],
+        "lighting": "natural light from window",
+        "texture": "smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "not specifically identifiable, but could be modern Indian",
+        "traditional_elements": [
+          "not visible"
+        ],
+        "modern_adaptations": [
+          "contemporary furniture design",
+          "installation of ceiling fan"
+        ],
+        "space_utilization": "efficient use of space with built-in wardrobe",
+        "cultural_significance": "modern interpretation of Indian design aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern bedroom with a built-in wardrobe featuring dark wood and marble accents. The wardrobe includes sliding doors and shelving units, and the room has wooden flooring, a ceiling fan, and a window with jalousie. The design reflects a contemporary style with clean lines and a focus on functionality. The use of dark wood and marble adds a touch of traditional Indian design elements, while the overall aesthetic is modern and minimalist.",
+    "metadata": {
+      "tags": [
+        "bedroom",
+        "modern design",
+        "contemporary",
+        "built-in wardrobe",
+        "dark wood",
+        "marble",
+        "ceiling fan"
+      ],
+      "budget_indicator": "moderate",
+      "space_type": "residential",
+      "functionality": "bedroom",
+      "indian_specific": "dark wood and marble"
+    }
+  },
+  "cached_at": 1754902990046,
+  "cache_key": "e9e5fcf807d6cd42adf00e41ee59c7ed"
+}

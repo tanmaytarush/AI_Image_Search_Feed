@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.06%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_030",
+    "ai_generated_tags": {
+      "room": "Entryway/Corridor",
+      "theme": "Minimalistic",
+      "primary_features": [
+        "Fitted wardrobe with four doors",
+        "Built-in shelving unit",
+        "Wooden floor",
+        "Double doors"
+      ],
+      "objects": [
+        {
+          "type": "Fitted wardrobe",
+          "features": [
+            "Four doors with simple hardware",
+            "White finish"
+          ],
+          "materials": [
+            "Wood",
+            "Paint"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Built-in shelving unit",
+          "features": [
+            "Multi-tiered structure",
+            "Integrated lighting",
+            "Open shelving",
+            "Decorative items"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Natural wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "White",
+          "Brown",
+          "Gray",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Paint",
+          "Metal"
+        ],
+        "lighting": "Integrated ambient lighting in the shelving unit",
+        "texture": [
+          "Smooth",
+          "Lacquered",
+          "Metallic"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not directly identifiable due to minimal elements",
+        "traditional_elements": [
+          "No visible traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Fitted wardrobe and built-in shelving are modern adaptations"
+        ],
+        "space_utilization": "Efficient use of available space for storage and display",
+        "cultural_significance": "Minimal elements, no cultural significance observed"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern minimalistic entryway/corridor featuring a fitted wardrobe with four doors and an integrated built-in shelving unit. The space utilizes efficient storage solutions with a focus on functionality and contemporary design. The materials used are predominantly wood for both the wardrobe and the shelving unit, with a smooth lacquered finish. The built-in shelving unit includes integrated lighting, adding a modern touch to the space. There are no visible traditional Indian elements, indicating a contemporary interpretation of interior design.",
+      "metadata": {
+        "tags": [
+          "Entryway",
+          "Minimalism",
+          "Fitted Wardrobe",
+          "Built-in Shelving",
+          "Modern Design"
+        ],
+        "budget_indicator": "Moderate, as indicated by the use of wood and a painted finish",
+        "space_type": "Residential",
+        "functionality": "Storage and display",
+        "indian_specific": "No visible Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1754902094932,
+  "cache_key": "b1fa0b58f297ec8781034bbf1e9fad85"
+}

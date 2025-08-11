@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.16.16%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_527",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Colorful backsplash",
+        "Modern cabinetry",
+        "Island counter",
+        "Pendant lights"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen Island",
+          "features": [
+            "Blue laminate finish",
+            "Black countertop",
+            "Integrated storage"
+          ],
+          "materials": [
+            "Blue laminate",
+            "Black granite"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Cabinetry",
+          "features": [
+            "White upper cabinets",
+            "Blue lower cabinets",
+            "Glass panel inserts"
+          ],
+          "materials": [
+            "Wood",
+            "MDF"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Colorful patterned tiles",
+            "Mosaic design"
+          ],
+          "materials": [
+            "Ceramic tile"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Pendant Lights",
+          "features": [
+            "Gold textured",
+            "Spherical shape"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Textured gold"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Yellow",
+          "Gold",
+          "Black"
+        ],
+        "materials": [
+          "Laminate",
+          "Granite",
+          "Ceramic",
+          "Metal"
+        ],
+        "lighting": "Artificial, pendant lighting",
+        "texture": "Glossy finish on cabinetry and backsplash"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but could lean towards North Indian due to color palette and cabinetry style",
+        "traditional_elements": [
+          "Modern interpretation of traditional Indian cabinetry"
+        ],
+        "modern_adaptations": [
+          "Use of contemporary materials and design elements"
+        ],
+        "space_utilization": "Efficient use of space with an island counter for storage and workspace",
+        "cultural_significance": "Color selection reflecting traditional Indian aesthetic with a modern twist, blending functionality with cultural design elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space is a contemporary Indian kitchen with a blend of traditional and modern design elements. The use of vibrant blue and white cabinetry with glass panel inserts is reminiscent of classic Indian cabinetry styles, while the colorful mosaic tiles in the backsplash add a modern aesthetic. The inclusion of a sleek island counter with integrated storage suggests a focus on functionality. Pendant lights with a textured gold finish add a touch of luxury and cultural significance, evoking traditional Indian motifs. The overall design is a harmonious blend of tradition and modernity, reflecting Indian design principles while meeting contemporary living needs.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Blue kitchen",
+        "Modern cabinetry",
+        "Island counter",
+        "Colorful backsplash"
+      ],
+      "budget_indicator": "Moderate to high, due to use of glossy materials and modern design elements",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is for cooking and informal dining or socializing",
+      "indian_specific": "Use of blue and white, modern interpretation of traditional Indian cabinetry"
+    }
+  },
+  "cached_at": 1754913024742,
+  "cache_key": "61803468f2adba4690b20a29c20e51b6"
+}

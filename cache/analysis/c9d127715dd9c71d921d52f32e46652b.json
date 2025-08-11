@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00626.JPG",
+  "analysis": {
+    "image_id": "img_090",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Marble countertops",
+        "Black gas stove",
+        "White cabinetry",
+        "Wall-mounted shelves"
+      ],
+      "objects": [
+        {
+          "type": "Gas stove",
+          "features": [
+            "Black glass top",
+            "Chrome knobs"
+          ],
+          "materials": [
+            "Glass, Metal"
+          ],
+          "finish": "Glossy, Polished"
+        },
+        {
+          "type": "Cabinetry",
+          "features": [
+            "White panels",
+            "Square handles",
+            "Glass doors"
+          ],
+          "materials": [
+            "MDF, Glass"
+          ],
+          "finish": "Glossy, Polished"
+        },
+        {
+          "type": "Shelves",
+          "features": [
+            "Wall-mounted",
+            "Glass doors",
+            "Black frames"
+          ],
+          "materials": [
+            "Glass, Metal"
+          ],
+          "finish": "Glossy, Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Brown (marble)",
+          "Green",
+          "Red",
+          "Yellow",
+          "Multicolored"
+        ],
+        "materials": [
+          "Marble, Glass, Metal, MDF"
+        ],
+        "lighting": "Natural light from above",
+        "texture": "Smooth, glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly indicative of a specific regional style",
+        "traditional_elements": [
+          "Traditional copper pot",
+          "Decorative ceramic jars"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with traditional touches"
+        ],
+        "space_utilization": "Efficient use of vertical space with wall-mounted shelves",
+        "cultural_significance": "The presence of traditional copper and ceramic items adds a touch of cultural authenticity"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The kitchen showcases a modern Indian design aesthetic, featuring sleek white cabinetry, a black gas stove, and wall-mounted shelves with glass doors. Traditional elements like a copper pot and decorative ceramic jars are integrated into the contemporary space, reflecting a blend of modernity and cultural heritage. The use of marble countertops and glossy finishes adds to the luxurious feel, while the strategic organization of the space maximizes functionality.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Kitchen Design",
+          "Contemporary",
+          "Functional",
+          "Cultural Fusion"
+        ],
+        "budget_indicator": "Mid to high, due to the use of marble and glass materials",
+        "space_type": "Residential",
+        "functionality": "Cooking and food preparation",
+        "indian_specific": "Integration of traditional copper and ceramic items"
+      }
+    }
+  },
+  "cached_at": 1754905593987,
+  "cache_key": "c9d127715dd9c71d921d52f32e46652b"
+}

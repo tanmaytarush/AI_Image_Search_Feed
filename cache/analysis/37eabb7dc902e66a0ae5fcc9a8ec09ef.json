@@ -1,0 +1,78 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/792/image_cropper_1729258957694.jpg",
+  "analysis": {
+    "image_id": "img_129",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Sofa with storage underneath",
+        "Carved wooden paneling"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Grey upholstery",
+            "Framed with light wood",
+            "Button tufted back"
+          ],
+          "materials": [
+            "Fabric",
+            "Light wood"
+          ],
+          "finish": "Smooth fabric, polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Grey",
+          "Light brown",
+          "White",
+          "Blue"
+        ],
+        "materials": [
+          "Fabric",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth fabric, polished wood, metal"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Carved wooden paneling"
+        ],
+        "modern_adaptations": [
+          "Minimalist furniture design with Indian craftsmanship"
+        ],
+        "space_utilization": "Efficient use of storage in furniture design",
+        "cultural_significance": "The carved paneling represents intricate craftsmanship and is often associated with traditional homes in North India"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a contemporary interpretation of North Indian interior design. The living room features a sofa with built-in storage and light wood carving, reflecting modern adaptations of traditional Indian craftsmanship. The color palette includes neutral tones with accents of blue, highlighting a blend of traditional elements with contemporary aesthetics.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Contemporary design",
+          "North Indian style",
+          "Carved paneling",
+          "Storage furniture"
+        ],
+        "budget_indicator": "Moderate, with a mix of fabric and wood materials",
+        "space_type": "Residential living room",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "Intricate wood carving and storage furniture design"
+      }
+    }
+  },
+  "cached_at": 1754906201620,
+  "cache_key": "37eabb7dc902e66a0ae5fcc9a8ec09ef"
+}

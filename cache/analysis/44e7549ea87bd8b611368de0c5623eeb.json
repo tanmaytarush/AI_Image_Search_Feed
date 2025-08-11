@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/219/image_cropper_1729742527947.jpg",
+  "analysis": {
+    "image_id": "img_327",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Colonial Revival",
+      "primary_features": [
+        "Exposed brickwork",
+        "Wooden cabinetry",
+        "Modern appliances"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Wooden, with a warm tone",
+            "Traditional design with beveled edges"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Natural wood finish with visible grain"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Modern, possibly integrated into the cabinetry"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown (wood)",
+          "Gray (brick)",
+          "Metallic (appliances)"
+        ],
+        "materials": [
+          "Teak",
+          "Brick",
+          "Metal"
+        ],
+        "lighting": "Natural light, possibly from a window not visible in the image",
+        "texture": "Smooth brick texture, glossy metal, natural wood grain"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence visible",
+        "traditional_elements": [
+          "Wooden cabinetry with traditional design"
+        ],
+        "modern_adaptations": [
+          "Integration of modern appliances and materials"
+        ],
+        "space_utilization": "Efficient use of space with cabinetry providing storage",
+        "cultural_significance": "No cultural elements specific to Indian interiors present"
+      },
+      "confidence_scores": {
+        "room": 0.75,
+        "theme": 0.67,
+        "primary_features": 0.79,
+        "objects": 0.85,
+        "indian_context": 0.5
+      },
+      "description": "The image depicts a modern kitchen with a colonial revival theme, featuring wooden cabinetry with traditional design elements and contemporary appliances. The use of teak for the cabinets and exposed brickwork for the wall adds a rustic charm. The space is well-organized, using the cabinetry for storage, and the lighting suggests a natural light source, possibly from a window not shown in the image.",
+      "metadata": {
+        "tags": [
+          "Colonial Revival",
+          "Teak",
+          "Exposed Brick",
+          "Modern Appliances",
+          "Kitchen"
+        ],
+        "budget_indicator": "Medium to high, due to the use of teak and modern appliances",
+        "space_type": "Residential kitchen",
+        "functionality": "Storage and cooking space",
+        "indian_specific": "Traditional wooden cabinet design, though not specific to Indian interiors"
+      }
+    }
+  },
+  "cached_at": 1754909764984,
+  "cache_key": "44e7549ea87bd8b611368de0c5623eeb"
+}

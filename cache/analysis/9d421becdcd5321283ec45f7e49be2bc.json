@@ -1,0 +1,73 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/799/image_cropper_1729783213466.jpg",
+  "analysis": {
+    "image_id": "img_415",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Sliding door wardrobe",
+        "Modern wardrobe design",
+        "Compact and organized space"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Storage unit with sliding doors",
+            "Modern design"
+          ],
+          "materials": [
+            "Visible wood or wood-like finish"
+          ],
+          "finish": "High-gloss or lacquered finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light gray",
+          "Blue"
+        ],
+        "materials": [
+          "Wood",
+          "Metallic hardware"
+        ],
+        "lighting": "Natural light from an unseen source, possibly a window",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Minimalist",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern design with traditional Indian design elements"
+        ],
+        "space_utilization": "Efficient use of space with a focus on storage",
+        "cultural_significance": "The space does not exhibit overt Indian design elements, focusing on modern aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.8,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.7
+      },
+      "description": "The image depicts a modern bedroom with a minimalist design, featuring a wardrobe with sliding doors. The space is compact and well-organized, utilizing high-gloss or lacquered finishes and a smooth texture. There are no traditional Indian design elements visible, suggesting a contemporary, urban style. The color palette is neutral, with white, light gray, and blue tones, and the materials appear to be modern, possibly wood and metallic hardware.",
+      "metadata": {
+        "tags": [
+          "Modern Bedroom",
+          "Minimalist Design",
+          "Compact Wardrobe",
+          "Glossy Finish",
+          "Urban Interior"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential Bedroom",
+        "functionality": "Storage and sleeping area",
+        "indian_specific": "No Indian-specific design features present"
+      }
+    }
+  },
+  "cached_at": 1754911319396,
+  "cache_key": "9d421becdcd5321283ec45f7e49be2bc"
+}

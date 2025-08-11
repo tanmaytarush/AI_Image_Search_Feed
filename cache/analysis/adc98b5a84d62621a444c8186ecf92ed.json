@@ -1,0 +1,72 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00496.JPG",
+  "analysis": {
+    "image_id": "img_502",
+    "ai_generated_tags": {
+      "room": "Ceiling",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Geometric patterns",
+        "LED lighting",
+        "Ceiling fan"
+      ],
+      "objects": [
+        {
+          "type": "Ceiling fan",
+          "features": [
+            "Wooden blades",
+            "Metal hub"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Beige"
+        ],
+        "materials": [
+          "Plasterboard",
+          "LED lights"
+        ],
+        "lighting": "Evenly distributed LED lighting",
+        "texture": "Smooth plasterboard finish"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of LED lights for ambient lighting"
+        ],
+        "space_utilization": "Efficient use of ceiling space",
+        "cultural_significance": "Simplicity and functionality are emphasized, reflecting traditional Indian minimalism"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The ceiling features a modern Indian design with geometric patterns and LED lighting. A ceiling fan with wooden blades and a metal hub is centrally positioned. The use of LED lights for ambient illumination adds a contemporary touch, while the plasterboard ceiling and smooth finish suggest a minimalist approach with traditional Indian influences.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Ceiling design",
+        "LED lighting",
+        "Ceiling fan"
+      ],
+      "budget_indicator": "Moderate, with focus on modern materials and technology",
+      "space_type": "Residential",
+      "functionality": "Aesthetic and functional ceiling space",
+      "indian_specific": "Use of LED lights as a modern adaptation of ambient lighting"
+    }
+  },
+  "cached_at": 1754912342890,
+  "cache_key": "adc98b5a84d62621a444c8186ecf92ed"
+}

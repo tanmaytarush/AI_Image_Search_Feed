@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.13.31%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_522",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Green and white cabinetry",
+        "Recessed lighting",
+        "Tile flooring"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "Green and white finish",
+            "Modern design"
+          ],
+          "materials": [
+            "Painted wood",
+            "MDF"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Brown"
+        ],
+        "materials": [
+          "Painted wood",
+          "MDF",
+          "Tile"
+        ],
+        "lighting": "Recessed lighting with under-cabinet lighting",
+        "texture": "Smooth surfaces with glossy finish"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Modern design elements"
+        ],
+        "space_utilization": "Efficient use of space with minimal decorative elements",
+        "cultural_significance": "Minimal Indian-specific elements, focusing on functionality and modern aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.75
+      },
+      "description": "The image portrays a modern Indian kitchen with a clean and minimalist design. The space features a combination of green and white cabinetry, which are painted with a glossy finish, creating a contemporary look. Recessed ceiling lights and under-cabinet lighting provide illumination, while the floor is covered with white tiles, enhancing the brightness of the room. Modern design elements are evident, with a focus on functionality and efficient use of space, rather than traditional Indian design influences.",
+      "metadata": {
+        "tags": [
+          "Modern Kitchen",
+          "Green Cabinets",
+          "White Tiles",
+          "Recessed Lighting"
+        ],
+        "budget_indicator": "Moderate to High",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "No visible traditional Indian elements"
+      }
+    }
+  },
+  "cached_at": 1754912905025,
+  "cache_key": "0deaeac3c9349ff2555a3d861ba7390d"
+}

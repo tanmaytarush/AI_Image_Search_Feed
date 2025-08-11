@@ -1,0 +1,82 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.26%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_033",
+    "ai_generated_tags": {
+      "room": "Pooja Room",
+      "theme": "Modern Indian Spirituality",
+      "primary_features": [
+        "Glass-paneled cabinet",
+        "Decorative latticework",
+        "Religious idols",
+        "Printed religious posters"
+      ],
+      "objects": [
+        {
+          "type": "Glass-paneled cabinet",
+          "features": [
+            "White frame",
+            "Gold accents",
+            "Mirrored panels",
+            "Decorative latticework"
+          ],
+          "materials": [
+            "MDF",
+            "Glass",
+            "Mirrored panels"
+          ],
+          "finish": "Matte finish on MDF, reflective finish on glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "White background"
+        ],
+        "materials": [
+          "MDF",
+          "Glass",
+          "Mirrored panels"
+        ],
+        "lighting": "Natural light from outside the frame, possibly from a window",
+        "texture": "Smooth surface of MDF, reflective glass"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Glass-paneled cabinet",
+          "Decorative latticework"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with glass and mirrors"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage and display",
+        "cultural_significance": "Space designed for devotional purposes, emphasizing spirituality and cultural heritage"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern interpretation of a Pooja Room in North Indian style. The focal point is a glass-paneled cabinet with decorative latticework, serving as both storage and display for religious items. The cabinet is adorned with gold accents and mirrored panels, blending traditional motifs with contemporary design. The room's white and gold color palette, along with the use of glass and mirrors, creates a serene and spiritual atmosphere, reflecting the cultural significance of the space for prayer and devotion.",
+      "metadata": {
+        "tags": [
+          "Pooja Room",
+          "Modern Indian",
+          "North Indian",
+          "Glass-paneled cabinet",
+          "Religious decor"
+        ],
+        "budget_indicator": "Moderate to high, given the modern materials and reflective surfaces",
+        "space_type": "Residential",
+        "functionality": "Devotional and storage space",
+        "indian_specific": "Decorative latticework, glass-paneled cabinet, and use of religious icons and posters"
+      }
+    }
+  },
+  "cached_at": 1754902927252,
+  "cache_key": "77fbd9c833d7ceb26554a5e12e8796ee"
+}

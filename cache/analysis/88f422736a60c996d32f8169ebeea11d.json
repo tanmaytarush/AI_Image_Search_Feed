@@ -1,0 +1,65 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.33%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_034",
+    "ai_generated_tags": {
+      "room": "Kitchen or Utility Area",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Cabinetry with a modern design and functional layout"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet Doors",
+          "features": [
+            "Flat panel design, symmetric arrangement, vertical black strip detailing"
+          ],
+          "materials": [
+            "Painted or lacquered wood or MDF, possibly with painted overlays"
+          ],
+          "finish": "Glossy or semi-glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Brown, Black"
+        ],
+        "materials": [
+          "Wood, Painted Overlay"
+        ],
+        "lighting": "Indirect or ambient lighting, creating a warm and inviting atmosphere",
+        "texture": "Smooth surfaces with a clean and polished look"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable, as this is a modern, generic design",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design with a focus on functionality and clean lines"
+        ],
+        "space_utilization": "Efficient layout with vertical space optimization",
+        "cultural_significance": "Not applicable, as this is a modern design with no culturally specific elements"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.9,
+        "primary_features": 0.88,
+        "objects": 0.95,
+        "indian_context": 0.75
+      },
+      "description": "The image showcases a modern cabinet design with a minimalist aesthetic, featuring clean lines, a symmetrical arrangement, and a combination of white and brown tones. The doors have a flat panel design with a distinctive black vertical strip, adding a contemporary touch. The cabinet appears to be part of a utility or kitchen area, emphasizing functionality and space optimization.",
+      "metadata": {
+        "tags": [
+          "Kitchen Cabinet",
+          "Minimalist Design",
+          "Modern Furniture"
+        ],
+        "budget_indicator": "Moderate, as the materials and finish suggest a reasonable budget.",
+        "space_type": "Residential Utility Area",
+        "functionality": "Cabinet for storage or organization in a utility or kitchen space",
+        "indian_specific": "No traditional Indian design features present."
+      }
+    }
+  },
+  "cached_at": 1754902943625,
+  "cache_key": "88f422736a60c996d32f8169ebeea11d"
+}

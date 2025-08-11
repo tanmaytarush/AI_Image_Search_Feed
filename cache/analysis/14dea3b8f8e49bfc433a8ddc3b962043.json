@@ -1,0 +1,112 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.50%20PM%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_044",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Green wooden cabinets",
+        "Sliding wardrobe doors with floral pattern",
+        "Shelving unit"
+      ],
+      "objects": [
+        {
+          "type": "Wooden door",
+          "features": [
+            "Dark wood texture",
+            "Metallic handle"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "Green finish",
+            "Curved handles"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Wardrobe doors",
+          "features": [
+            "Floral design",
+            "Translucent material with floral pattern"
+          ],
+          "materials": [
+            "Translucent MDF with printed design"
+          ],
+          "finish": "Printed finish"
+        },
+        {
+          "type": "Shelving unit",
+          "features": [
+            "Green metal brackets",
+            "Metallic finish"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Plastic"
+        ],
+        "lighting": "Natural light from outside the frame",
+        "texture": "Smooth surfaces with some textured wood"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but likely inspired by urban Indian design trends",
+        "traditional_elements": [
+          "Carved wooden elements (implied)",
+          "Traditional cabinet design"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials like MDF for doors",
+          "Minimalist approach to wardrobe design"
+        ],
+        "space_utilization": "Efficient use of space with shelving and wardrobe",
+        "cultural_significance": "The use of floral patterns and green color may symbolize nature and prosperity in Indian culture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.88,
+      "theme": 0.85,
+      "primary_features": 0.9,
+      "objects": 0.88,
+      "indian_context": 0.87
+    },
+    "description": "This modern Indian closet features a combination of traditional and contemporary elements. The green wooden cabinets and sliding wardrobe doors with floral patterns showcase a fusion of traditional Indian aesthetics with modern design sensibilities. The use of natural wood for the door and painted wood for the cabinets highlights the respect for traditional materials, while the floral design on the doors and the metallic shelving unit add a contemporary touch. The overall design is clean and efficient, focusing on practicality and aesthetics, typical of urban Indian interior design trends.",
+    "metadata": {
+      "tags": [
+        "Modern Indian interior",
+        "Green cabinets",
+        "Floral pattern",
+        "Urban design",
+        "Cultural fusion"
+      ],
+      "budget_indicator": "Moderate to high, given the use of MDF for doors and painted wood for cabinets",
+      "space_type": "Residential closet",
+      "functionality": "Storage and organization",
+      "indian_specific": "Floral patterns and green color scheme"
+    }
+  },
+  "cached_at": 1754903068802,
+  "cache_key": "14dea3b8f8e49bfc433a8ddc3b962043"
+}

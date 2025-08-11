@@ -1,0 +1,68 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/73/image_cropper_1726537880927.jpg",
+  "analysis": {
+    "image_id": "img_171",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "contemporary",
+      "primary_features": [
+        "built-in storage unit",
+        "sliding glass doors"
+      ],
+      "objects": [
+        {
+          "type": "furniture",
+          "features": [
+            "white finish",
+            "storage drawers",
+            "sliding doors"
+          ],
+          "materials": [
+            "MDF, melamine"
+          ],
+          "finish": "glossy white"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "brown"
+        ],
+        "materials": [
+          "MDF, melamine"
+        ],
+        "lighting": "soft, ambient light",
+        "texture": "smooth"
+      },
+      "indian_context": {
+        "regional_style": "modern",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "optimization of storage space",
+        "cultural_significance": "contemporary design without specific Indian cultural elements"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.9,
+        "objects": 0.95,
+        "indian_context": 0.75
+      },
+      "description": "The image shows a contemporary bedroom with a built-in storage unit featuring sliding glass doors and white drawers. The design is minimalistic with smooth, glossy finishes, characteristic of modern Indian interiors that blend functionality with aesthetics.",
+      "metadata": {
+        "tags": [
+          "bedroom",
+          "storage",
+          "glossy finish",
+          "modern design"
+        ],
+        "budget_indicator": "moderate",
+        "space_type": "residential",
+        "functionality": "storage optimization",
+        "indian_specific": "contemporary interpretation of Indian design"
+      }
+    }
+  },
+  "cached_at": 1754906990149,
+  "cache_key": "16466e276ea14a5b0eb4e4c261a45d22"
+}

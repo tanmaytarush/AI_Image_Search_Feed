@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1043/image_cropper_1729503131747.jpg",
+  "analysis": {
+    "image_id": "img_456",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Bespoke Wardrobe Doors"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe Doors",
+          "features": [
+            "Arrow Shaped Handles",
+            "Rounded Edges",
+            "Panelled Design"
+          ],
+          "materials": [
+            "Wood",
+            "Painted Finish"
+          ],
+          "finish": "Smooth and glossy painted finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Paint"
+        ],
+        "lighting": "Even lighting, no shadows visible",
+        "texture": "Smooth surface texture"
+      },
+      "indian_context": {
+        "regional_style": "No regional style evident",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Rounded edges and contemporary design"
+        ],
+        "space_utilization": "Efficient use for storage",
+        "cultural_significance": "No culturally significant elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern minimalist closet with bespoke wardrobe doors featuring arrow-shaped handles and rounded edges. The doors are painted with a smooth, glossy finish, primarily in pink and white colors, indicating a contemporary design approach. There are no traditional Indian elements present, and the space appears to be designed for efficient storage, reflecting a modern adaptation of traditional wardrobe designs.",
+      "metadata": {
+        "tags": [
+          "Minimalist Closet",
+          "Modern Design",
+          "Bespoke Wardrobe",
+          "Smooth Finish"
+        ],
+        "budget_indicator": "Moderate, given the painted finish and smooth materials",
+        "space_type": "Residential Closet",
+        "functionality": "Storage",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1754911780391,
+  "cache_key": "caff08c90a742c664807814d7fc26173"
+}

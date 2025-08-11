@@ -1,0 +1,81 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/371/image_cropper_1727963867279.jpg",
+  "analysis": {
+    "image_id": "img_452",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Built-in wardrobe",
+        "Modern furniture",
+        "Minimal decor"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Modern design with metal frame"
+          ],
+          "materials": [
+            "Metal frame, fabric mattress"
+          ],
+          "finish": "Metallic finish, soft fabric"
+        },
+        {
+          "type": "Built-in Wardrobe",
+          "features": [
+            "Sliding doors",
+            "Vertical panel design"
+          ],
+          "materials": [
+            "Wooden panels"
+          ],
+          "finish": "Smooth, polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Brown, Black"
+        ],
+        "materials": [
+          "Wood, Metal, Fabric"
+        ],
+        "lighting": "Soft, ambient lighting with no visible natural light",
+        "texture": "Smooth, polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly indicative of a specific regional style",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials and design principles"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "No culturally significant elements present"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.75,
+      "primary_features": 0.8,
+      "objects": 0.9,
+      "indian_context": 0.6
+    },
+    "description": "The image depicts a modern, minimalist bedroom with contemporary furniture and design principles. There are no traditional Indian elements present, but the use of materials like wood and metal hints at an Indian context, possibly reflecting a modern interpretation of traditional materials. The space is efficiently utilized with a built-in wardrobe, and the overall design is sleek and functional, with a focus on clean lines and a neutral color palette.",
+    "metadata": {
+      "tags": [
+        "Modern Bedroom",
+        "Minimalism",
+        "Indian Materials",
+        "Efficient Storage"
+      ],
+      "budget_indicator": "Moderate, given the use of modern materials and finishes",
+      "space_type": "Residential Bedroom",
+      "functionality": "Sleeping and resting area",
+      "indian_specific": "Minimal use of traditional Indian design elements"
+    }
+  },
+  "cached_at": 1754911737541,
+  "cache_key": "17cf37f35b62da7adff5c2bbe4cadac0"
+}

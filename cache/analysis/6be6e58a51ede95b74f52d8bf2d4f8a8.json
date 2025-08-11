@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00555.JPG",
+  "analysis": {
+    "image_id": "img_120",
+    "ai_generated_tags": {
+      "room": "Entrance",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Decorative ceiling tiles",
+        "Transom windows",
+        "Rug"
+      ],
+      "objects": [
+        {
+          "type": "Ceiling lights",
+          "features": [
+            "Circular, woven design, golden color"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished, reflective"
+        },
+        {
+          "type": "Rug",
+          "features": [
+            "Natural fiber, woven texture"
+          ],
+          "materials": [
+            "Natural fibers"
+          ],
+          "finish": "Rough, natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, white, green, gold, red"
+        ],
+        "materials": [
+          "Wood, glass, metal, plastic"
+        ],
+        "lighting": "Natural light from transom windows and artificial light from ceiling fixtures",
+        "texture": "Rug's woven texture, tile flooring's smooth finish, wooden door's polished surface"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to a regional style; contemporary with traditional elements",
+        "traditional_elements": [
+          "Transom windows, wooden door frame"
+        ],
+        "modern_adaptations": [
+          "Contemporary ceiling design, modern lighting fixtures"
+        ],
+        "space_utilization": "Open and airy layout with clear pathways, utilizing the transom windows for natural light",
+        "cultural_significance": "Transom windows often symbolize welcome and hospitality in Indian homes, while the rug and plants add warmth and traditional aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases an entrance area with contemporary Indian design elements. The room features a decorative ceiling with intricate, hexagonal tiles, transom windows that bring in natural light, and a natural fiber rug that adds warmth and texture. The wooden door frame and ceiling lights have a traditional touch, blending seamlessly with the modern elements. The use of natural colors and materials, along with the inclusion of plants, aligns with the traditional Indian emphasis on creating welcoming and harmonious spaces.",
+    "metadata": {
+      "tags": [
+        "Indian entrance, contemporary design, natural light, transom windows, traditional elements, modern lighting"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Welcome and entryway",
+      "indian_specific": "Transom windows, wooden door frame, natural fiber rug"
+    }
+  },
+  "cached_at": 1754906110886,
+  "cache_key": "6be6e58a51ede95b74f52d8bf2d4f8a8"
+}

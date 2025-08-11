@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/687/image_cropper_1729178400125.jpg",
+  "analysis": {
+    "image_id": "img_391",
+    "ai_generated_tags": {
+      "room": "Modern living room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Large glass tables",
+        "Modern furniture",
+        "Marble flooring",
+        "Dog present in the space"
+      ],
+      "objects": [
+        {
+          "type": "Glass tables",
+          "features": [
+            "Transparent, rectangular design",
+            "Integrated into the space design"
+          ],
+          "materials": [
+            "Glass, metal"
+          ],
+          "finish": "Smooth and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, black, transparent",
+          "Marble flooring with natural patterns"
+        ],
+        "materials": [
+          "Glass, metal, marble"
+        ],
+        "lighting": "Natural light from windows, possibly overexposed in the photo",
+        "texture": "Smooth surfaces with reflective qualities"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regionalized",
+        "traditional_elements": [
+          "No traditional Indian elements present"
+        ],
+        "modern_adaptations": [
+          "Furniture design reflects modern Indian contemporary style"
+        ],
+        "space_utilization": "Open and modern layout with minimal traditional elements",
+        "cultural_significance": "Space does not exhibit cultural significance through traditional Indian elements"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.7
+      },
+      "description": "The image depicts a modern living room with a contemporary Indian design theme. It features large glass tables integrated into the space, modern furniture, and marble flooring. The design lacks traditional Indian elements, focusing more on contemporary aesthetics. A dog is present in the space, adding a homely touch. The lighting is bright, possibly from natural light sources, and the overall color palette is white, black, and transparent, highlighting the minimalist and modern approach.",
+      "metadata": {
+        "tags": [
+          "Modern living room",
+          "Contemporary Indian design",
+          "Glass tables",
+          "Marble flooring",
+          "Minimalist design"
+        ],
+        "budget_indicator": "Moderate to high, due to the use of glass and marble materials",
+        "space_type": "Residential living room",
+        "functionality": "Entertainment or relaxation area",
+        "indian_specific": "No traditional Indian design features"
+      }
+    }
+  },
+  "cached_at": 1754910707938,
+  "cache_key": "74f228d0edc78dc6c8d3bbc37735e3af"
+}

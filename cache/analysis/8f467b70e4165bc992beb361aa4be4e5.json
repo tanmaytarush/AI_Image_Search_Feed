@@ -1,0 +1,112 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1442/image_cropper_1729766273932.jpg",
+  "analysis": {
+    "image_id": "img_165",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Water purifier",
+        "Metallic hooks",
+        "Tiles",
+        "Glass cup"
+      ],
+      "objects": [
+        {
+          "type": "Water purifier",
+          "features": [
+            "Rectangular design",
+            "Modern look"
+          ],
+          "materials": [
+            "Plastic"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Metallic hooks",
+          "features": [
+            "Wall-mounted",
+            "Holds towels"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished finish"
+        },
+        {
+          "type": "Tiles",
+          "features": [
+            "Square tiles",
+            "White color"
+          ],
+          "materials": [
+            "Ceramic"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Glass cup",
+          "features": [
+            "Translucent",
+            "Modern design"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear and smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Black",
+          "Blue"
+        ],
+        "materials": [
+          "Ceramic",
+          "Metal",
+          "Plastic",
+          "Glass"
+        ],
+        "lighting": "Natural light",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "None",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Minimalist and functional design"
+        ],
+        "space_utilization": "Efficient use of wall space, but not typical Indian design",
+        "cultural_significance": "No cultural elements visible, indicative of a modern, non-traditional design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern kitchen interior with a minimalist design. The focus is on a water purifier, metallic hooks for towels, a tiled backsplash, and a glass cup. The color palette is predominantly white, gray, and black, with blue accents, reflecting a contemporary aesthetic. The elements are functional and lack any traditional Indian design elements, suggesting a design approach that is more focused on efficiency and modernity.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Minimalist",
+        "Modern",
+        "Wall-mounted",
+        "Functional"
+      ],
+      "budget_indicator": "Low to moderate, as the materials are common and functional",
+      "space_type": "Residential kitchen",
+      "functionality": "Efficient storage and water filtration",
+      "indian_specific": "No Indian-specific design features are present"
+    }
+  },
+  "cached_at": 1754906925552,
+  "cache_key": "8f467b70e4165bc992beb361aa4be4e5"
+}

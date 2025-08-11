@@ -1,0 +1,65 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/764/image_cropper_1729248986928.jpg",
+  "analysis": {
+    "image_id": "img_149",
+    "ai_generated_tags": {
+      "room": "Identify the actual room type you observe",
+      "theme": "Determine the specific design style present",
+      "primary_features": [
+        "List actual prominent features you see"
+      ],
+      "objects": [
+        {
+          "type": "Identify the specific furniture/object you identify",
+          "features": [
+            "Describe actual visual characteristics"
+          ],
+          "materials": [
+            "Identify materials you can observe"
+          ],
+          "finish": "Describe the actual surface finish visible"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "List actual colors you observe in the image"
+        ],
+        "materials": [
+          "Identify actual materials visible"
+        ],
+        "lighting": "Describe the lighting conditions you observe",
+        "texture": "Describe actual textures visible in the image"
+      },
+      "indian_context": {
+        "regional_style": "Identify specific regional influences if visible",
+        "traditional_elements": [
+          "List any traditional Indian elements you can see"
+        ],
+        "modern_adaptations": [
+          "Note modern interpretations of traditional elements"
+        ],
+        "space_utilization": "Describe how the space is actually organized",
+        "cultural_significance": "Explain cultural relevance of visible elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "Provide detailed description of the actual interior space with focus on Indian design elements",
+    "metadata": {
+      "tags": [
+        "Generate relevant tags based on what you see"
+      ],
+      "budget_indicator": "Assess budget level based on visible materials and finishes",
+      "space_type": "Identify the apparent residential space type",
+      "functionality": "Describe the primary purpose of this space",
+      "indian_specific": "Highlight Indian-specific design features visible"
+    }
+  },
+  "cached_at": 1754906762814,
+  "cache_key": "4e7e115e7e2e9c7d0b09aa74dde0dc30"
+}

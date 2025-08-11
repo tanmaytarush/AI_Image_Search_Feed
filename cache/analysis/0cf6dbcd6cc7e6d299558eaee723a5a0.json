@@ -1,0 +1,116 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.02.17%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_032",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Large wardrobe with circular design elements",
+        "Built-in desk with bookshelf",
+        "Modern office chair",
+        "Decorative pillow"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Mint green and beige",
+            "Circular golden trim",
+            "Shelving space"
+          ],
+          "materials": [
+            "MDF",
+            "Metallic trim"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Built-in desk",
+          "features": [
+            "White finish",
+            "Integrated bookshelf"
+          ],
+          "materials": [
+            "Melamine"
+          ],
+          "finish": "High-gloss"
+        },
+        {
+          "type": "Office chair",
+          "features": [
+            "Blue fabric and black base"
+          ],
+          "materials": [
+            "Polyester",
+            "Metal"
+          ],
+          "finish": "Textured"
+        },
+        {
+          "type": "Decorative pillow",
+          "features": [
+            "Grey color with white pattern"
+          ],
+          "materials": [
+            "Cotton"
+          ],
+          "finish": "Woven"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Mint green",
+          "Beige",
+          "White",
+          "Blue",
+          "Grey",
+          "Brown"
+        ],
+        "materials": [
+          "MDF",
+          "Metal",
+          "Melamine",
+          "Polyester",
+          "Cotton"
+        ],
+        "lighting": "Natural light from unseen window",
+        "texture": "Smooth surfaces with some woven texture"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional",
+        "traditional_elements": [
+          "Circular design elements on wardrobe"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture and color palette"
+        ],
+        "space_utilization": "Efficient use of space for storage and workspace",
+        "cultural_significance": "Modern interpretation of traditional Indian design elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.75,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.8
+    },
+    "description": "This modern Indian bedroom features a large wardrobe with circular design elements, a sleek built-in desk with an integrated bookshelf, and a contemporary office chair. The space is organized efficiently for both storage and workspace, with a focus on seamless transitions between traditional and modern design aesthetics. The color palette includes mint green, beige, white, blue, grey, and brown, creating a harmonious and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Bedroom",
+        "Circular design",
+        "Integrated furniture",
+        "Contemporary office chair"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential Bedroom",
+      "functionality": "Sleeping and studying",
+      "indian_specific": "Circular design elements on wardrobe"
+    }
+  },
+  "cached_at": 1754902160760,
+  "cache_key": "0cf6dbcd6cc7e6d299558eaee723a5a0"
+}

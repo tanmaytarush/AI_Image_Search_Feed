@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.16.54%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_530",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Fitted wardrobe",
+        "Shelving unit"
+      ],
+      "objects": [
+        {
+          "type": "Fitted wardrobe",
+          "features": [
+            "Vertical paneling",
+            "Exposed wooden frame",
+            "Black handles"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Matte finish on wood, metallic handles"
+        },
+        {
+          "type": "Shelving unit",
+          "features": [
+            "Black metal frame",
+            "Glass panels",
+            "Decorative items"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Glossy finish on metal, clear glass panels"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown wood tones",
+          "White panels",
+          "Black metallic handles",
+          "Green curtains",
+          "White wall"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass",
+          "Fabric"
+        ],
+        "lighting": "Natural light coming through the window",
+        "texture": "Smooth wood grain, glossy metal, matte plastic"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly regional",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Integration of contemporary design with traditional Indian craftsmanship elements"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage, minimalistic design",
+        "cultural_significance": "No specific cultural significance observed"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image shows a modern bedroom with a fitted wardrobe and a shelving unit. The wardrobe features vertical wooden paneling and black metal handles, while the shelving unit has a black metal frame with glass panels. The room has a combination of traditional and modern elements, with minimalistic design and efficient space utilization. The use of wood, metal, and glass is indicative of a contemporary style, but the overall design does not exhibit strong regional Indian influences.",
+      "metadata": {
+        "tags": [
+          "Bedroom",
+          "Contemporary",
+          "Modern Design",
+          "Fitted Wardrobe",
+          "Shelving Unit",
+          "Minimalistic"
+        ],
+        "budget_indicator": "Mid-range, due to the use of wood and metal",
+        "space_type": "Residential",
+        "functionality": "Storage and display",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1754913073068,
+  "cache_key": "770f7bd5e80ac75cb7df58598fb4a5e6"
+}

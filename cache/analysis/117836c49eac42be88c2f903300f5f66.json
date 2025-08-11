@@ -1,0 +1,116 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/780/image_cropper_1729391680393.jpg",
+  "analysis": {
+    "image_id": "img_487",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Oriental",
+      "primary_features": [
+        "Teak wood cabinetry",
+        "Marble countertop",
+        "Glass shower enclosure",
+        "Built-in shelving"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood cabinets",
+          "features": [
+            "Carved details",
+            "Hanging utensils holder",
+            "Shelving space"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak wood finish"
+        },
+        {
+          "type": "Marble countertop",
+          "features": [
+            "Granite-like texture"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Smooth polished surface"
+        },
+        {
+          "type": "Glass shower enclosure",
+          "features": [
+            "Translucent glass panels"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear matte finish"
+        },
+        {
+          "type": "Built-in shelving",
+          "features": [
+            "Built into the cabinetry"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teak brown",
+          "Marble white",
+          "Black for appliances"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Glass",
+          "Metal (appliances)"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": [
+          "Smooth marble",
+          "Carved teak wood",
+          "Matte glass"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian",
+        "traditional_elements": [
+          "Teak wood cabinetry",
+          "Carved details"
+        ],
+        "modern_adaptations": [
+          "Glass shower enclosure",
+          "Built-in shelving"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in shelving",
+        "cultural_significance": "Teak wood is commonly used in Indian interiors for its durability and traditional aesthetic; the cabinets reflect the region's craftsmanship."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This kitchen features a blend of traditional and modern elements. The teak wood cabinets with intricate carvings and built-in shelving showcase the Maharashtrian regional style. The marble countertop adds a touch of sophistication, while the glass shower enclosure provides a modern contrast. The space is efficiently utilized with vertical storage solutions, maintaining a clean and organized look.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Maharashtrian style",
+        "Teak wood",
+        "Marble",
+        "Glass shower",
+        "Built-in shelves"
+      ],
+      "budget_indicator": "Moderate, with teak wood and marble being premium materials, but the space is efficiently designed.",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is for food preparation with efficient storage solutions.",
+      "indian_specific": "Use of teak wood, traditional carvings, and vertical storage are indicative of Indian design elements."
+    }
+  },
+  "cached_at": 1754912121125,
+  "cache_key": "117836c49eac42be88c2f903300f5f66"
+}

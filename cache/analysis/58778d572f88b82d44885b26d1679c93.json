@@ -1,0 +1,113 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.48%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_081",
+    "ai_generated_tags": {
+      "room": "Child's bedroom",
+      "theme": "Contemporary Indian-inspired design",
+      "primary_features": [
+        "Rabbit-themed bed frame",
+        "Polka dot wallpaper",
+        "uilt-in shelving",
+        "Study desk"
+      ],
+      "objects": [
+        {
+          "type": "Bed frame",
+          "features": [
+            "Rabbit ears",
+            "Furniture with rabbit pattern"
+          ],
+          "materials": [
+            "Fabric, possibly velvet or linen"
+          ],
+          "finish": "Textured and soft finish"
+        },
+        {
+          "type": "Wallpaper",
+          "features": [
+            "Polka dot pattern"
+          ],
+          "materials": [
+            "Paint or wallpaper material"
+          ],
+          "finish": "Smooth and vibrant"
+        },
+        {
+          "type": "Shelving unit",
+          "features": [
+            "Built-in with modern design"
+          ],
+          "materials": [
+            "Wood, possibly MDF or particleboard"
+          ],
+          "finish": "Custom paint and lighting"
+        },
+        {
+          "type": "Study desk",
+          "features": [
+            "Compact and modern in design"
+          ],
+          "materials": [
+            "Wood, possibly MDF or particleboard"
+          ],
+          "finish": "Smooth finish with metallic accents"
+        },
+        {
+          "type": "Chair",
+          "features": [
+            "Rolling chair with modern design"
+          ],
+          "materials": [
+            "Metal, possibly steel or aluminum"
+          ],
+          "finish": "Glossy and polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Soft pink, green, white, polka dot colors"
+        ],
+        "materials": [
+          "Fabric, wood, metal"
+        ],
+        "lighting": "Warm and soft lighting, accentuated by built-in lights in shelves",
+        "texture": "Soft fabric textures on the bed, smooth wood finishes, and metallic accents"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, but incorporates Indian design elements",
+        "traditional_elements": [
+          "Rabbit motif"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with modern materials and lighting"
+        ],
+        "space_utilization": "Efficient use of space with built-in shelving and desk",
+        "cultural_significance": "The rabbit motif can represent innocence and playfulness, common in Indian children's decor"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This child's bedroom showcases a modern Indian-inspired design with a playful twist. The room features a rabbit-themed bed frame with a soft fabric finish, complemented by a polka dot wallpaper that adds a vibrant touch. Built-in shelving and a compact study desk optimize the space, incorporating contemporary design elements. The use of warm lighting enhances the cozy and inviting atmosphere, while the materials and finishes reflect a mix of traditional and modern Indian design aesthetics.",
+    "metadata": {
+      "tags": [
+        "Child's bedroom",
+        "Indian design",
+        "Contemporary",
+        "Rabbit motif",
+        "Polka dot pattern"
+      ],
+      "budget_indicator": "Moderate, with a focus on modern materials and finishes",
+      "space_type": "Single child bedroom",
+      "functionality": "Sleeping and studying",
+      "indian_specific": "Rabbit-themed furniture and polka dot wallpaper"
+    }
+  },
+  "cached_at": 1754905087382,
+  "cache_key": "58778d572f88b82d44885b26d1679c93"
+}

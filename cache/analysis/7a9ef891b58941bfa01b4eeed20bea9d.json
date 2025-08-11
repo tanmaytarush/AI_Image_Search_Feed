@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1019/image_cropper_1729493575710.jpg",
+  "analysis": {
+    "image_id": "img_106",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Fitted wardrobe",
+        "Carved headboard",
+        "Rattan chair"
+      ],
+      "objects": [
+        {
+          "type": "Fitted wardrobe",
+          "features": [
+            "Light green color",
+            "Rectangular compartments"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Smooth finish with subtle detailing"
+        },
+        {
+          "type": "Carved headboard",
+          "features": [
+            "White color",
+            "Geometric patterns"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Carved wood with painted or coated finish"
+        },
+        {
+          "type": "Rattan chair",
+          "features": [
+            "Natural rattan material",
+            "Textured finish",
+            "Simple design"
+          ],
+          "materials": [
+            "Rattan"
+          ],
+          "finish": "Natural woven rattan"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light green",
+          "White",
+          "Natural brown"
+        ],
+        "materials": [
+          "Painted wood",
+          "Carved wood",
+          "Rattan"
+        ],
+        "lighting": "Ambient lighting with ceiling lights",
+        "texture": "Smooth painted surfaces, textured rattan, and carved wood details"
+      },
+      "indian_context": {
+        "regional_style": "N/A",
+        "traditional_elements": [
+          "Carved headboard",
+          "Rattan chair"
+        ],
+        "modern_adaptations": [
+          "Fitted wardrobe with contemporary lines"
+        ],
+        "space_utilization": "Efficient use of space with a large wardrobe and seating area",
+        "cultural_significance": "The carved headboard and rattan chair highlight traditional craftsmanship, while the fitted wardrobe is a modern adaptation suitable for contemporary living."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This bedroom features a contemporary Indian design with a fitted wardrobe, a carved headboard, and a rattan chair. The light green wardrobe contrasts with the white headboard and natural brown rattan, creating a balanced and modern look while retaining traditional elements. The space is well-organized, utilizing the wardrobe for storage and the rattan chair for a comfortable seating area.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Fitted wardrobe",
+          "Carved headboard",
+          "Rattan chair"
+        ],
+        "budget_indicator": "Moderate, with a mix of traditional and modern materials",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and storage area",
+        "indian_specific": "Rattan chair with traditional woven design and carved headboard with geometric patterns"
+      }
+    }
+  },
+  "cached_at": 1754905933752,
+  "cache_key": "7a9ef891b58941bfa01b4eeed20bea9d"
+}

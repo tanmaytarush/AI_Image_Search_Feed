@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/690/image_cropper_1729687724125.jpg",
+  "analysis": {
+    "image_id": "img_496",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary",
+      "primary_features": [
+        "modern furniture",
+        "white walls",
+        "neutral color palette"
+      ],
+      "objects": [
+        {
+          "type": "modern sofa",
+          "features": [
+            "clean lines",
+            "simple design",
+            "textured cushions"
+          ],
+          "materials": [
+            "fabric",
+            "wood"
+          ],
+          "finish": "smooth, matte finish"
+        },
+        {
+          "type": "wooden shelf unit",
+          "features": [
+            "height adjustable",
+            "space-saving"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "natural wood finish"
+        },
+        {
+          "type": "area rug",
+          "features": [
+            "neutral tones",
+            "soft texture"
+          ],
+          "materials": [
+            "textile"
+          ],
+          "finish": "soft, woven texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "neutral shades",
+          "light wood tones"
+        ],
+        "materials": [
+          "wood",
+          "textile",
+          "metal"
+        ],
+        "lighting": "bright, artificial lighting",
+        "texture": "smooth, matte, woven"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly identifiable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "use of white and neutral tones, modern furniture designs"
+        ],
+        "space_utilization": "efficient, open layout",
+        "cultural_significance": "No visible cultural elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.85
+      },
+      "description": "This interior space is a modern living room with a contemporary design aesthetic. It features a minimalist furniture style, with a focus on clean lines and neutral color palettes. The use of white walls and light wood tones creates a bright and open atmosphere. The furniture includes a modern sofa with textured cushions and a wooden shelf unit for efficient space utilization. The overall design is sleek and uncluttered, reflecting a modern interpretation of Indian interior design principles.",
+      "metadata": {
+        "tags": [
+          "living room",
+          "contemporary design",
+          "neutral tones",
+          "modern furniture"
+        ],
+        "budget_indicator": "Mid-range, with a focus on quality materials and finishes",
+        "space_type": "Residential - living room",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "Modern adaptation of contemporary design elements"
+      }
+    }
+  },
+  "cached_at": 1754912250981,
+  "cache_key": "e6a6193a1f8c60ef3a2f1492733ba42f"
+}

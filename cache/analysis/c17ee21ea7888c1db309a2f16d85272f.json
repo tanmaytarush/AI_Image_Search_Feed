@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.15.37%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_523",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in wardrobes with glass and panel doors",
+        "LED ceiling lights",
+        "Office table and chair"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobes",
+          "features": [
+            "Integrated with sliding doors, stylized with geometric patterns in blue, green, and white",
+            "Equipped with modern handles for doors"
+          ],
+          "materials": [
+            "Painted wood or MDF for the body",
+            "Glass for the doors"
+          ],
+          "finish": "Smooth finish on the body, glossy finish on the glass doors"
+        },
+        {
+          "type": "Office table",
+          "features": [
+            "Simple design with a flat top",
+            "Integrated with a small shelf"
+          ],
+          "materials": [
+            "Painted wood or MDF for the surface"
+          ],
+          "finish": "Smooth finish"
+        },
+        {
+          "type": "Office chair",
+          "features": [
+            "Modern design with a black seat and backrest",
+            "Metal frame"
+          ],
+          "materials": [
+            "Faux leather for the seat",
+            "Metal for the frame"
+          ],
+          "finish": "Polished and shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, blue, green, and black"
+        ],
+        "materials": [
+          "Wood, glass, metal, painted surfaces"
+        ],
+        "lighting": "Artificial lighting from ceiling LED lights",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Modern interpretation of traditional Indian design with geometric patterns"
+        ],
+        "space_utilization": "Efficient use of space with built-in wardrobes and integrated furniture",
+        "cultural_significance": "The use of geometric patterns and modern finishes reflects contemporary Indian design trends, blending traditional aesthetics with modern functionality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian bedroom features built-in wardrobes with a combination of white, blue, and green with geometric patterns, integrated office furniture, and a modern office chair. The room is well-lit with LED ceiling lights, creating a contemporary and functional space.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Bedroom",
+        "Built-in wardrobes",
+        "Geometric patterns",
+        "LED lighting"
+      ],
+      "budget_indicator": "Moderate, with use of painted wood and glass doors, as well as metal frames for the chair",
+      "space_type": "Residential bedroom",
+      "functionality": "Primary use as a bedroom with integrated storage and working space",
+      "indian_specific": "Modern interpretation of Indian design with contemporary finishes and geometric patterns"
+    }
+  },
+  "cached_at": 1754912920252,
+  "cache_key": "c17ee21ea7888c1db309a2f16d85272f"
+}

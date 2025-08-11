@@ -1,0 +1,81 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00666.JPG",
+  "analysis": {
+    "image_id": "img_574",
+    "ai_generated_tags": {
+      "room": "Entrance Hall",
+      "theme": "Traditional Indian",
+      "primary_features": [
+        "Wooden main door",
+        "Decorative brass inlays",
+        "Floral decorations"
+      ],
+      "objects": [
+        {
+          "type": "Main Door",
+          "features": [
+            "Wooden, intricately carved",
+            "Brass inlay designs",
+            "Digital lock"
+          ],
+          "materials": [
+            "Teak wood",
+            "Brass"
+          ],
+          "finish": "High-gloss wood finish with polished brass inlays"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "Gold (brass)",
+          "White (marble walls)",
+          "Multicolored (flowers)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Brass",
+          "Marble"
+        ],
+        "lighting": "Natural light coming from the windows on the sides",
+        "texture": "Smooth wood texture with detailed brass inlays"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden door with brass inlays",
+          "Floral decorations"
+        ],
+        "modern_adaptations": [
+          "Digital lock for security"
+        ],
+        "space_utilization": "Open and functional, allowing easy access to the interior",
+        "cultural_significance": "The main door represents the entrance to the home and often symbolizes hospitality and welcome in Indian culture"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a traditional Indian entrance hall with a wooden main door featuring intricate brass inlays and digital lock, symbolizing modern convenience in traditional design. The room is adorned with floral decorations, reflecting cultural significance, and the space is well-lit with natural light. The use of teak wood and brass highlights regional design influences, while the digital lock represents a modern adaptation to security needs. The open layout of the entrance hall facilitates easy access to the interior of the home.",
+      "metadata": {
+        "tags": [
+          "Indian entrance",
+          "Traditional door",
+          "Brass inlay",
+          "Digital lock",
+          "Floral decorations",
+          "Indian interior"
+        ],
+        "budget_indicator": "High, with the use of premium materials like teak wood and brass",
+        "space_type": "Residential",
+        "functionality": "Entrance to the home, serving as a welcoming space",
+        "indian_specific": "Decorative brass inlays, wooden main door, floral decorations"
+      }
+    }
+  },
+  "cached_at": 1754914145573,
+  "cache_key": "337033147559d8aeb45ea51268422a76"
+}

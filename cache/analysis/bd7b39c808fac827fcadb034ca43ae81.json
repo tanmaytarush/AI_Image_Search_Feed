@@ -1,0 +1,80 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/529/image_cropper_1729065494053.jpg",
+  "analysis": {
+    "image_id": "img_378",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Indian Colonial",
+      "primary_features": [
+        "Wooden wardrobe with multiple doors",
+        "Mirror embedded in the wardrobe",
+        "Bamboo finish on the wardrobe"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Multiple doors for storage",
+            "Integrated mirror for reflection"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Bamboo finish"
+          ],
+          "finish": "Wooden bamboo finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wooden bamboo finish)",
+          "White (wardrobe interior)",
+          "Silver (mirror frame)"
+        ],
+        "materials": [
+          "Wood",
+          "Bamboo",
+          "Metal"
+        ],
+        "lighting": "Natural light with minimal artificial lighting",
+        "texture": "Smooth wooden bamboo texture for the wardrobe"
+      },
+      "indian_context": {
+        "regional_style": "Indian Colonial",
+        "traditional_elements": [
+          "Carved wooden elements",
+          "Bamboo finish"
+        ],
+        "modern_adaptations": [
+          "Integrated mirror",
+          "Multiple door design"
+        ],
+        "space_utilization": "Efficient use of space with multiple storage options",
+        "cultural_significance": "Cultural relevance through traditional materials and design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a closet with a traditional Indian colonial design, featuring a wooden wardrobe with multiple doors and an integrated mirror. The wardrobe has a bamboo finish, reflecting regional influences, and the space is organized efficiently with a focus on storage. The use of bamboo material and carved wooden elements are traditional Indian design features, while the multiple door design and integrated mirror are modern adaptations.",
+      "metadata": {
+        "tags": [
+          "Indian design",
+          "Colonial style",
+          "Wardrobe",
+          "Bamboo finish",
+          "Integrated mirror",
+          "Traditional elements"
+        ],
+        "budget_indicator": "Middle to high",
+        "space_type": "Residential closet",
+        "functionality": "Storage and organization",
+        "indian_specific": "Bamboo finish and carved wooden elements"
+      }
+    }
+  },
+  "cached_at": 1754910537226,
+  "cache_key": "bd7b39c808fac827fcadb034ca43ae81"
+}

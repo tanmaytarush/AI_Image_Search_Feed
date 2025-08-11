@@ -1,0 +1,84 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/718/image_cropper_1729182795914.jpg",
+  "analysis": {
+    "image_id": "img_347",
+    "ai_generated_tags": {
+      "room": "Entrance Hall",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Large wooden folding doors with intricate carvings",
+        "Dark marble flooring",
+        "Decorative metallic grill on the door"
+      ],
+      "objects": [
+        {
+          "type": "Wooden folding doors",
+          "features": [
+            "Intricate carvings, possibly in the form of floral or geometric patterns",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Teak or similar hardwood"
+          ],
+          "finish": "Smooth and polished surface"
+        },
+        {
+          "type": "Metallic grill",
+          "features": [
+            "Decorative design, possibly inspired by traditional Indian motifs",
+            "Metallic sheen"
+          ],
+          "materials": [
+            "Copper or brass"
+          ],
+          "finish": "Shiny and reflective surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark wood tones, dark marble, metallic accents"
+        ],
+        "materials": [
+          "Wood, marble, metal"
+        ],
+        "lighting": "Dim and warm lighting, possibly from an overhead source",
+        "texture": "Smooth surfaces with detailed carvings and metallic sheen"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly identifiable, but could hint towards a blend of urban and traditional styles",
+        "traditional_elements": [
+          "Intricate wood carvings",
+          "Metallic grill"
+        ],
+        "modern_adaptations": [
+          "Minimalist approach with traditional elements"
+        ],
+        "space_utilization": "Efficient use of space with a focus on the entrance",
+        "cultural_significance": "Elements like carvings and metallic grill may hold symbolic or aesthetic significance in Indian culture, possibly related to hospitality or protection"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases an entrance hall with a blend of minimalist design and traditional Indian influences. The large wooden folding doors feature intricate carvings, suggesting craftsmanship and attention to detail. The dark marble flooring adds a touch of elegance and durability, while the metallic grill on the door enhances the aesthetic appeal with a reflective, metallic sheen. The overall design reflects a modern interpretation of traditional Indian motifs, creating a welcoming yet sophisticated atmosphere.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "minimalism",
+        "wooden folding doors",
+        "dark marble flooring",
+        "metallic grill"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials like teak wood and dark marble, but also incorporating decorative metallic elements.",
+      "space_type": "Residential Entrance Hall",
+      "functionality": "Entrance and transition space, designed to leave a lasting impression on visitors.",
+      "indian_specific": "Intricate carvings and metallic grill elements are indicative of traditional Indian design."
+    }
+  },
+  "cached_at": 1754910196337,
+  "cache_key": "c9d7cd237e07627e43250b2eb0c6c59f"
+}

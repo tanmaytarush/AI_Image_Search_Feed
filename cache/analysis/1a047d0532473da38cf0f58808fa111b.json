@@ -1,0 +1,72 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1390/image_cropper_1729754398811.jpg",
+  "analysis": {
+    "image_id": "img_481",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden accent wall",
+        "Built-in lighting",
+        "Modern ceiling design"
+      ],
+      "objects": [
+        {
+          "type": "Built-in lighting fixture",
+          "features": [
+            "Modern, recessed, with warm light"
+          ],
+          "materials": [
+            "Metallic finish"
+          ],
+          "finish": "Polished and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Warm earth tones",
+          "Neutral beige"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Warm and ambient",
+        "texture": "Smooth and polished"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regionalized",
+        "traditional_elements": [
+          "Not prominent"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials and lighting in a traditionally inspired setting"
+        ],
+        "space_utilization": "Efficient use of space, focusing on modern amenities",
+        "cultural_significance": "Cultural relevance in the use of warm tones and modern reinterpretation of traditional lighting"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The space features a modern interpretation of Indian interior design with a focus on warm, earthy tones and contemporary lighting. The built-in lighting fixtures emulate traditional Indian lanterns with a sleek, modern twist, while the wooden accent wall adds a touch of traditional craftsmanship. The overall design is a blend of traditional and contemporary elements, emphasizing functionality and modern aesthetics.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Modern Indian",
+          "Warm tones",
+          "Contemporary lighting"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Living Room",
+        "functionality": "Relaxation and entertainment",
+        "indian_specific": "Warm earth tones and modern reinterpretation of traditional lighting"
+      }
+    }
+  },
+  "cached_at": 1754912058539,
+  "cache_key": "1a047d0532473da38cf0f58808fa111b"
+}

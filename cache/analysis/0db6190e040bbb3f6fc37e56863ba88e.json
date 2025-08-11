@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/443/image_cropper_1728581794259.jpg",
+  "analysis": {
+    "image_id": "img_387",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Wooden storage bed",
+        "Pink wall"
+      ],
+      "objects": [
+        {
+          "type": "Wooden storage bed",
+          "features": [
+            "Built-in storage beneath the bed",
+            "Carved wooden panels on the headboard"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "Cork or similar material for the storage"
+          ],
+          "finish": "Natural wood finish with a polished cork storage surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink",
+          "Natural wood tone"
+        ],
+        "materials": [
+          "Wood",
+          "Cork"
+        ],
+        "lighting": "Natural light from a window (not visible in the image, but implied by the lighting)",
+        "texture": "Smooth wood texture with a slightly textured cork storage surface"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but general Indian design elements are present",
+        "traditional_elements": [
+          "Carved wooden panels, storage bed design"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with natural materials"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "The design elements reflect the practicality and functionality valued in Indian homes, especially for storage solutions"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image shows a contemporary bedroom with Indian design elements. The focus is on a wooden storage bed that features carved wooden panels on the headboard and a polished cork storage surface beneath the mattress. The walls are painted a vibrant pink, adding a pop of color to the otherwise natural wood tones. The design reflects a blend of traditional Indian storage solutions with a modern aesthetic, emphasizing functionality and space optimization.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Contemporary",
+          "Wooden furniture",
+          "Storage bed",
+          "Carved elements",
+          "Pink walls"
+        ],
+        "budget_indicator": "Moderate, with natural wood and cork materials used",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose is for sleeping with additional storage capacity",
+        "indian_specific": "Carved wooden panels and storage bed design"
+      }
+    }
+  },
+  "cached_at": 1754910659957,
+  "cache_key": "0db6190e040bbb3f6fc37e56863ba88e"
+}

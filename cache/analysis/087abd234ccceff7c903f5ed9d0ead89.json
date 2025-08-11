@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/945/image_cropper_1729360868687.jpg",
+  "analysis": {
+    "image_id": "img_202",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Green cabinetry",
+        "Copper backsplash",
+        "White marble countertops",
+        "Modern cabinetry design",
+        "Open shelving"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "Green with wooden drawer fronts",
+            "Modern design with minimalist handles"
+          ],
+          "materials": [
+            "Painted wood",
+            "Wood"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Copper tiles"
+          ],
+          "materials": [
+            "Copper"
+          ],
+          "finish": "Shiny and reflective"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "White marble, polished finish"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Copper",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Copper"
+        ],
+        "lighting": "Bright, with overhead lighting and natural light from the window",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident; modern adaptation of Indian design elements",
+        "traditional_elements": [
+          "Carved wooden elements typically seen in traditional Indian kitchens"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials like marble and copper, minimalist design"
+        ],
+        "space_utilization": "Efficient use of space with open shelving and minimalistic cabinets",
+        "cultural_significance": "Modern interpretation of Indian design elements, reflecting a blend of traditional and contemporary styles"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The kitchen features a modern Indian design aesthetic with green painted cabinetry, copper backsplash, and white marble countertops. The space is well-organized with minimalist cabinetry and open shelving, reflecting a contemporary take on traditional Indian kitchen elements. The use of green and copper colors is typical in Indian kitchens, symbolizing prosperity and wealth, respectively. The bright lighting and polished textures create a modern and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Kitchen",
+        "Green Cabinets",
+        "Copper Backsplash",
+        "Marble Countertops",
+        "Minimalist Design"
+      ],
+      "budget_indicator": "The use of marble and copper suggests a higher budget, indicating the presence of premium materials",
+      "space_type": "Residential Kitchen",
+      "functionality": "The primary purpose of this space is for cooking and food preparation, with additional functionality provided by the open shelving for storage and display",
+      "indian_specific": "The use of green and copper, as well as the minimalist design with traditional influences, are key Indian-specific design features"
+    }
+  },
+  "cached_at": 1754907545794,
+  "cache_key": "087abd234ccceff7c903f5ed9d0ead89"
+}

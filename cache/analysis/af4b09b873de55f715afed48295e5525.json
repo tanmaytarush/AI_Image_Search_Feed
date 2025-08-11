@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1106/image_cropper_1729602556775.jpg",
+  "analysis": {
+    "image_id": "img_161",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Traditional Indian Interior",
+      "primary_features": [
+        "Carved wooden elements",
+        "Handwoven textiles",
+        "Marble flooring"
+      ],
+      "objects": [
+        {
+          "type": "Carved Wooden Furniture",
+          "features": [
+            "Exquisite wood carving",
+            "Rustic design"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood polish"
+        },
+        {
+          "type": "Handwoven Textiles",
+          "features": [
+            "Cotton and silk fabrics",
+            "Embroidered patterns"
+          ],
+          "materials": [
+            "Cotton, silk"
+          ],
+          "finish": "Handwoven texture"
+        },
+        {
+          "type": "Marble Flooring",
+          "features": [
+            "Smooth surface",
+            "White marble tiles"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "White (marble)",
+          "Gold (decorative accents)",
+          "Black (furniture frames)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Cotton",
+          "Silk",
+          "Copper"
+        ],
+        "lighting": "Natural light from large windows",
+        "texture": "Smooth marble, rough wood grain, soft fabric texture"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Carved wooden furniture",
+          "Marble flooring",
+          "Handwoven textiles"
+        ],
+        "modern_adaptations": [
+          "Combination of traditional and contemporary elements"
+        ],
+        "space_utilization": "Optimally arranged with functional furniture and decor",
+        "cultural_significance": "Elements reflect cultural importance of woodwork, textiles, and marble in North Indian design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This living room exemplifies North Indian traditional interior design, featuring intricately carved wooden furniture, handwoven textiles, and marble flooring. The space is thoughtfully arranged, combining traditional elements with modern adaptations, creating a harmonious blend that reflects cultural significance and functionality. The use of natural materials such as teak wood and white marble, along with the handcrafted textiles, highlights the importance of craftsmanship and sustainability in Indian design.",
+      "metadata": {
+        "tags": [
+          "North Indian interior",
+          "Traditional furniture",
+          "Handwoven textiles",
+          "Marble flooring",
+          "Rustic design"
+        ],
+        "budget_indicator": "Moderate to high, given the use of marble and handcrafted materials",
+        "space_type": "Living Room",
+        "functionality": "Relaxation, entertainment, and socializing",
+        "indian_specific": "Notable traditional elements like carved wooden furniture and handwoven textiles"
+      }
+    }
+  },
+  "cached_at": 1754906887998,
+  "cache_key": "af4b09b873de55f715afed48295e5525"
+}

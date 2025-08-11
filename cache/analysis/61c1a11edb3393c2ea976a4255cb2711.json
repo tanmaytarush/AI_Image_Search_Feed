@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/724/image_cropper_1729186252119.jpg",
+  "analysis": {
+    "image_id": "img_259",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Indian Colonial",
+      "primary_features": [
+        "Wooden flooring",
+        "Green accent wall",
+        "Wooden shelves",
+        "Exposed beams"
+      ],
+      "objects": [
+        {
+          "type": "Wooden shelves",
+          "features": [
+            "Built into the wall",
+            "Holds decorative items"
+          ],
+          "materials": [
+            "Wooden"
+          ],
+          "finish": "Untreated, natural finish"
+        },
+        {
+          "type": "Exposed beams",
+          "features": [
+            "Decorative and structural",
+            "Painted with a white paint"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Painted"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light green",
+          "White",
+          "Natural wood tone",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "Paint",
+          "Metal"
+        ],
+        "lighting": "Natural light coming from the doorway",
+        "texture": "Smooth surfaces with a slightly rustic look due to natural wood"
+      },
+      "indian_context": {
+        "regional_style": "Central Indian",
+        "traditional_elements": [
+          "Exposed beams",
+          "Wooden shelves"
+        ],
+        "modern_adaptations": [
+          "Painted white beams for a modern touch"
+        ],
+        "space_utilization": "Efficient use of wall space for storage and decorative elements",
+        "cultural_significance": "Exposure of beams is a traditional architectural element that symbolizes strength and durability, often found in colonial-era architecture."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a central Indian colonial-style living room with a focus on traditional elements and a modern twist. The use of exposed beams, wooden shelves, and a light green accent wall are characteristic of this style. The natural wood tones and the white-painted beams add a rustic yet elegant feel, blending traditional with contemporary aesthetics.",
+      "metadata": {
+        "tags": [
+          "Indian Colonial",
+          "Wooden Shelves",
+          "Exposed Beams",
+          "Central Indian",
+          "Living Room"
+        ],
+        "budget_indicator": "Moderate, with the use of natural wood and painted beams",
+        "space_type": "Residential",
+        "functionality": "Storage and display space",
+        "indian_specific": "Exposed beams and wooden shelves"
+      }
+    }
+  },
+  "cached_at": 1754908403127,
+  "cache_key": "61c1a11edb3393c2ea976a4255cb2711"
+}

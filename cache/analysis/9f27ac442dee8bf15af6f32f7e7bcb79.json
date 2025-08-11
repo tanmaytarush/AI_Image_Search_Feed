@@ -1,0 +1,113 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/469/image_cropper_1728730429617.jpg",
+  "analysis": {
+    "image_id": "img_105",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Carpeted flooring",
+        "Panelled wooden walls",
+        "Textured wall covering",
+        "Built-in storage",
+        "Minimalist bed design"
+      ],
+      "objects": [
+        {
+          "type": "Wooden bed frame",
+          "features": [
+            "Simple design",
+            "Integrated storage drawers"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak finish"
+        },
+        {
+          "type": "Textured wall covering",
+          "features": [
+            "Elegant pattern",
+            "Neutral color scheme"
+          ],
+          "materials": [
+            "Wallpaper or fabric"
+          ],
+          "finish": "Textured finish"
+        },
+        {
+          "type": "Panelled wooden walls",
+          "features": [
+            "Elevated design",
+            "Dark wood tone"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished finish"
+        },
+        {
+          "type": "Carpeted flooring",
+          "features": [
+            "Thick, comfortable look",
+            "Neutral color"
+          ],
+          "materials": [
+            "Carpet"
+          ],
+          "finish": "Woven texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral tones",
+          "Beige carpet",
+          "Dark wood paneling"
+        ],
+        "materials": [
+          "Teak wood",
+          "Carpet",
+          "Wallpaper or fabric"
+        ],
+        "lighting": "Natural light, no visible decorative lighting",
+        "texture": "Textured wall covering, polished wood, woven carpet"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident",
+        "traditional_elements": [
+          "Carved wooden elements (implied through paneling and bed design)",
+          "Textured wall coverings (likely inspired by traditional wall fabrics)"
+        ],
+        "modern_adaptations": [
+          "Minimalist design approach",
+          "Use of modern materials like teak"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Cultural relevance through use of traditional materials and subtle regional influences"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.85,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian bedroom features a minimalist design with a focus on traditional Indian elements. The use of teak wood in the bed frame and panelled walls reflects a nod to traditional craftsmanship. The textured wall covering adds a sophisticated yet culturally rich look, evoking the use of traditional Indian textiles. The overall color palette is neutral, with beige carpet and dark wood paneling, creating a calming and elegant space. The built-in storage and simple bed design cater to contemporary comfort while hinting at Indian design sensibilities.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Minimalist Bedroom",
+        "Teak Wood",
+        "Textured Wall Coverings",
+        "Neutral Color Palette"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials like teak wood and polished finishes",
+      "space_type": "Residential Bedroom",
+      "functionality": "Sleeping and relaxation area",
+      "indian_specific": "Integration of traditional materials and subtle regional design elements"
+    }
+  },
+  "cached_at": 1754905924974,
+  "cache_key": "9f27ac442dee8bf15af6f32f7e7bcb79"
+}

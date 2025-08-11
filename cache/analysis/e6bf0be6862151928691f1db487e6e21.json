@@ -1,0 +1,108 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/308/image_cropper_1728307574472.jpg",
+  "analysis": {
+    "image_id": "img_432",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modular Contemporary with Indian Influences",
+      "primary_features": [
+        "Modular shelving unit",
+        "Modern lighting fixture",
+        "Painted wall art"
+      ],
+      "objects": [
+        {
+          "type": "Modular Shelving Unit",
+          "features": [
+            "Multiple storage compartments",
+            "Glass front panels",
+            "Teak wood finish"
+          ],
+          "materials": [
+            "Teak wood",
+            "Acrylic",
+            "Metal"
+          ],
+          "finish": "Teak wood has a natural finish, acrylic panels are clear, and metal has a polished finish"
+        },
+        {
+          "type": "Lighting Fixture",
+          "features": [
+            "Modern design with LED lights",
+            "Integrated into the wall"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glass appears to be frosted or semi-transparent, metal is polished"
+        },
+        {
+          "type": "Wall Art",
+          "features": [
+            "Abstract design with black and white colors",
+            "Textured surface"
+          ],
+          "materials": [
+            "Canvas",
+            "Paint"
+          ],
+          "finish": "Canvas appears to be stretched, paint is matte and textured"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Natural wood tone",
+          "Frosted glass"
+        ],
+        "materials": [
+          "Teak wood",
+          "Acrylic",
+          "Metal",
+          "Glass",
+          "Canvas",
+          "Paint"
+        ],
+        "lighting": "Modern LED lighting fixture integrated into the wall",
+        "texture": "Teak wood has a smooth texture, acrylic is smooth, metal has a polished finish, glass is frosted, canvas has a stretched texture, and paint has a matte finish"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional; contemporary with some Indian design elements",
+        "traditional_elements": [
+          "Carved elements (implied in the modular shelving unit design)"
+        ],
+        "modern_adaptations": [
+          "Integration of LED lighting and modern materials"
+        ],
+        "space_utilization": "The space is organized with a focus on storage, featuring a modular shelving unit and integrated lighting",
+        "cultural_significance": "The modular shelving unit could be a modern interpretation of traditional storage solutions, reflecting the Indian emphasis on functionality and organization"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern living room with contemporary elements, including a modular shelving unit, a modern LED lighting fixture, and a painted wall art piece. The shelving unit features a natural teak wood finish with glass and metal accents, while the wall art has a matte, textured surface. The design incorporates Indian design principles by emphasizing functionality and organization, with the shelving unit potentially drawing inspiration from traditional storage solutions. The overall aesthetic is clean and minimalistic, with a focus on modern materials and lighting, yet the use of teak wood and the sleek design hints at an Indian influence.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Modern",
+        "Indian Design",
+        "Modular Shelving",
+        "LED Lighting",
+        "Teak Wood"
+      ],
+      "budget_indicator": "Moderate, due to the use of modern materials and finishes",
+      "space_type": "Residential",
+      "functionality": "Storage and display",
+      "indian_specific": "Modern interpretation of traditional storage solutions with teak wood finishing"
+    }
+  },
+  "cached_at": 1754911505933,
+  "cache_key": "e6bf0be6862151928691f1db487e6e21"
+}

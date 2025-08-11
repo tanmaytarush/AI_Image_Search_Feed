@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00576.JPG",
+  "analysis": {
+    "image_id": "img_254",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Dark wooden ceiling beams",
+        "Marble flooring",
+        "Sectional sofa with patterned cushions",
+        "Built-in entertainment unit",
+        "Decorative wall niche"
+      ],
+      "objects": [
+        {
+          "type": "Sectional sofa",
+          "features": [
+            "Dark brown base",
+            "Patterned cushions with floral design"
+          ],
+          "materials": [
+            "Fabric cushions",
+            "Dark upholstery material"
+          ],
+          "finish": "Smooth and polished"
+        },
+        {
+          "type": "Built-in entertainment unit",
+          "features": [
+            "Wooden cabinet with white doors",
+            "Mounted flat-screen TV",
+            "Decorative items on top"
+          ],
+          "materials": [
+            "Wood, marble for wall paneling"
+          ],
+          "finish": "Polished wood, glossy marble"
+        },
+        {
+          "type": "Decorative wall niche",
+          "features": [
+            "Wooden frame",
+            "Shelving unit",
+            "Decorative items"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, white, beige, yellow, gray",
+          "Dark brown sofa, white marble, beige rug, yellow backlighting"
+        ],
+        "materials": [
+          "Wood, marble, fabric, metal"
+        ],
+        "lighting": "Natural light supplemented by decorative wall lights and ceiling lights",
+        "texture": "Smooth marble, polished wood, patterned fabric"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Wooden beams on the ceiling",
+          "Built-in entertainment unit",
+          "Decorative wall niche"
+        ],
+        "modern_adaptations": [
+          "Flat-screen TV",
+          "Contemporary furniture"
+        ],
+        "space_utilization": "Efficient use of space with a focus on entertainment and relaxation",
+        "cultural_significance": "The built-in entertainment unit and decorative wall niche reflect the Indian tradition of incorporating functional space for worship or prayer, often found in home temples"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The living room showcases a contemporary Indian design with a focus on natural wood and marble. The dark wooden beams on the ceiling add a traditional element, while the modern sectional sofa and entertainment unit create a balanced blend of tradition and contemporary style. The built-in entertainment unit and decorative wall niche are reminiscent of traditional home temples, adding a cultural significance to the space.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Contemporary Indian",
+        "Wooden Beams",
+        "Marble Flooring",
+        "Sectional Sofa",
+        "Built-in Entertainment Unit",
+        "Decorative Wall Niche"
+      ],
+      "budget_indicator": "Mid to high-end",
+      "space_type": "Residential Living Room",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Use of traditional elements in a modern setting"
+    }
+  },
+  "cached_at": 1754908341459,
+  "cache_key": "3dfdee32d03876b8a060a3250391429c"
+}

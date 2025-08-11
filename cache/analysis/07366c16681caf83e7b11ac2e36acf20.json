@@ -1,0 +1,72 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/496/image_cropper_1729099324356.jpg",
+  "analysis": {
+    "image_id": "img_301",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary",
+      "primary_features": [
+        "White cabinetry",
+        "Gray walls",
+        "Tile backsplash",
+        "Granite countertops"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "White, sleek design with minimal hardware",
+            "Integrated lighting"
+          ],
+          "materials": [
+            "Wooden panels, possibly teak or similar, with a painted finish"
+          ],
+          "finish": "Smooth, glossy paint"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Gray, Brown"
+        ],
+        "materials": [
+          "Wood, Ceramic, Metal"
+        ],
+        "lighting": "Integrated under-cabinet lighting, natural light from window",
+        "texture": "Smooth, polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of traditional Indian design elements like carved wood would be a modern adaptation"
+        ],
+        "space_utilization": "Efficient use of space with a focus on functionality",
+        "cultural_significance": "No specific Indian cultural elements are present in this image; it is a contemporary design approach."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern kitchen with sleek white cabinetry, gray walls, and a tile backsplash. The space is well-lit with integrated under-cabinet lighting and natural light from a window. The cabinets are made of painted wood, possibly teak, with a smooth, glossy finish. The countertops appear to be granite, adding a touch of elegance to the contemporary design. There are no traditional Indian design elements visible, suggesting a modern interpretation of Indian design aesthetics.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Contemporary",
+          "Modern",
+          "Interior Design",
+          "Minimalist",
+          "White Cabinets"
+        ],
+        "budget_indicator": "Mid-range, as the use of paint and polished wood suggests a moderate investment.",
+        "space_type": "Residential",
+        "functionality": "The primary purpose of this space is for cooking and food preparation.",
+        "indian_specific": "No Indian-specific design features are visible."
+      }
+    }
+  },
+  "cached_at": 1754909180520,
+  "cache_key": "07366c16681caf83e7b11ac2e36acf20"
+}

@@ -1,0 +1,128 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00681.JPG",
+  "analysis": {
+    "image_id": "img_575",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden staircase",
+        "Marble flooring",
+        "Wooden paneling"
+      ],
+      "objects": [
+        {
+          "type": "Wooden staircase",
+          "features": [
+            "Curved design",
+            "Glass railing",
+            "Teak wood finish"
+          ],
+          "materials": [
+            "Teak wood",
+            "Glass"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Wooden paneling",
+          "features": [
+            "Horizontal planks",
+            "Carved details",
+            "Teak wood finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Marble flooring",
+          "features": [
+            "White with gold veining",
+            "High luster"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High gloss"
+        },
+        {
+          "type": "Diwan",
+          "features": [
+            "Seated area against wall",
+            "Cushioned seating"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Comfortable"
+        },
+        {
+          "type": "Statue",
+          "features": [
+            "Metal statue",
+            "Religious iconography"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "Brown",
+          "Teal"
+        ],
+        "materials": [
+          "Marble",
+          "Teak wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from windows",
+        "texture": "Smooth and glossy textures"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Teak wood",
+          "Diwan",
+          "Statue"
+        ],
+        "modern_adaptations": [
+          "Glass railing",
+          "Marble flooring"
+        ],
+        "space_utilization": "Open and spacious, with a clear flow to other areas",
+        "cultural_significance": "The diwan serves as a traditional seating area for guests, reflecting Indian hospitality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space is a modern interpretation of a traditional South Indian foyer, characterized by a classic teak wood staircase with a glass railing and a matching wooden diwan. The warm brown tones of the wood contrast beautifully with the white and gold marble flooring, creating a luxurious yet inviting atmosphere. Traditional elements like the carved wooden details and a metal statue of a deity are incorporated, reflecting the cultural significance of hospitality and spirituality. The overall design is contemporary, with an emphasis on clean lines and modern materials, yet the use of traditional Indian wood and decorative elements ties the space to its cultural roots.",
+    "metadata": {
+      "tags": [
+        "South Indian Foyer",
+        "Teak Wood Staircase",
+        "Marble Flooring",
+        "Diwan",
+        "Contemporary Indian Design"
+      ],
+      "budget_indicator": "Mid to high, due to the use of marble and teak wood",
+      "space_type": "Residential",
+      "functionality": "Entrance area transitioning to other parts of the house",
+      "indian_specific": "Traditional Indian woodwork and religious iconography"
+    }
+  },
+  "cached_at": 1754914168109,
+  "cache_key": "56351c92f51b076351e5cf887719de8e"
+}

@@ -1,0 +1,120 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/147/image_cropper_1726671052632.jpg",
+  "analysis": {
+    "image_id": "img_329",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wardrobe",
+        "Television unit",
+        "Side table",
+        "Seating area"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Wooden construction",
+            "Carved wooden doors",
+            "Storage shelves"
+          ],
+          "materials": [
+            "Wood",
+            "Brass"
+          ],
+          "finish": "Polished wood, decorative brass"
+        },
+        {
+          "type": "Television unit",
+          "features": [
+            "Marble top",
+            "Wooden bottom",
+            "Display shelves"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Polished marble, natural wood"
+        },
+        {
+          "type": "Side table",
+          "features": [
+            "Wooden construction",
+            "Decorative brass accents"
+          ],
+          "materials": [
+            "Wood",
+            "Brass"
+          ],
+          "finish": "Polished wood, decorative brass"
+        },
+        {
+          "type": "Seating area",
+          "features": [
+            "Wooden floor",
+            "Light-colored upholstery"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric"
+          ],
+          "finish": "Natural wood, soft upholstery"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Wooden brown",
+          "Marble beige",
+          "Light blue"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Brass",
+          "Fabric"
+        ],
+        "lighting": "Natural light with overhead lighting",
+        "texture": "Smooth marble, polished wood, soft fabric"
+      },
+      "indian_context": {
+        "regional_style": "Rajasthani or Gujarati",
+        "traditional_elements": [
+          "Carved wooden doors",
+          "Marble top"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design",
+          "Modern lighting"
+        ],
+        "space_utilization": "Optimized with storage units and seating",
+        "cultural_significance": "Indian craftsmanship and materials reflect cultural heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The space is a modern interpretation of a traditional Indian living room, with elements like carved wooden doors and marble tops blending with contemporary furniture. The use of wood, brass, and marble reflects the cultural significance of these materials in Indian design, while the contemporary layout and lighting create a sleek, comfortable atmosphere.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Rajasthani",
+        "Contemporary Design",
+        "Marble Top",
+        "Wooden Furniture"
+      ],
+      "budget_indicator": "Mid-range, with a mix of traditional and contemporary elements",
+      "space_type": "Living room",
+      "functionality": "Relaxation and entertainment",
+      "indian_specific": "Carved wooden elements, marble tops"
+    }
+  },
+  "cached_at": 1754909785012,
+  "cache_key": "34c6271e81be706ccd0e2a4fb28f5117"
+}

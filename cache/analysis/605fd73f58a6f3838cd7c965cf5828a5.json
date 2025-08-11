@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.15.49%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_206",
+    "ai_generated_tags": {
+      "room": "Closet or storage room",
+      "theme": "Minimalist modern with traditional Indian influences",
+      "primary_features": [
+        "White cabinet with intricate detailing",
+        "Carved bell motifs",
+        "Decorative floral vases"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Rectangular with double doors",
+            "Central floral patterned design",
+            "Bottom section with handles"
+          ],
+          "materials": [
+            "White painted wood or MDF"
+          ],
+          "finish": "Smooth and glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown (carved details)"
+        ],
+        "materials": [
+          "White painted wood/MDF",
+          "Metallic (carved details)"
+        ],
+        "lighting": "Soft, ambient lighting",
+        "texture": "Smooth and glossy, with intricate carved textures"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Carved bell motifs",
+          "Floral vases with traditional symbols"
+        ],
+        "modern_adaptations": [
+          "Minimalistic design with traditional detailing"
+        ],
+        "space_utilization": "Efficient use of vertical space with simple design",
+        "cultural_significance": "The decorative elements symbolize traditional craftsmanship and cultural heritage"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern minimalist cabinet with traditional Indian design elements. The central floral pattern and carved bell motifs suggest Northern Indian regional influences. The cabinet is painted white with a glossy finish, featuring a double-door design with handles at the base, symbolizing efficient use of vertical space. The intricate carved details on the cabinet doors include traditional decorative elements like floral vases with a cultural significance, reflecting the blend of modern and traditional design aesthetics.",
+      "metadata": {
+        "tags": [
+          "Minimalist design",
+          "Northern Indian style",
+          "Traditional motifs",
+          "Carved details",
+          "White cabinet"
+        ],
+        "budget_indicator": "Moderate, with the use of painted wood/MDF and metallic carvings",
+        "space_type": "Storage room",
+        "functionality": "Primary purpose is for storage with a decorative focus",
+        "indian_specific": "Traditional Indian design features visible"
+      }
+    }
+  },
+  "cached_at": 1754907599331,
+  "cache_key": "605fd73f58a6f3838cd7c965cf5828a5"
+}

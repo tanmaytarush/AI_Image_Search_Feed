@@ -1,0 +1,119 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00645.JPG",
+  "analysis": {
+    "image_id": "img_091",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Light green cabinets",
+        "White marble countertops",
+        "Modern appliances",
+        "Decorative plants"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen island",
+          "features": [
+            "White countertop with marble patterns",
+            "Integrated sink and stove",
+            "Decorative items on countertop"
+          ],
+          "materials": [
+            "Marble countertop",
+            "Light green laminate cabinets"
+          ],
+          "finish": "High-gloss finish"
+        },
+        {
+          "type": "Wall cabinets",
+          "features": [
+            "Light green cabinets with modern handles",
+            "Transparent glass doors"
+          ],
+          "materials": [
+            "Light green laminate",
+            "Glass"
+          ],
+          "finish": "High-gloss finish"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "Wooden window frame with metal grills",
+            "Plants on window sill"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Natural wood finish, metallic finish"
+        },
+        {
+          "type": "Decorative items",
+          "features": [
+            "Colorful ceramic containers",
+            "Green plants"
+          ],
+          "materials": [
+            "Ceramic",
+            "Plastic"
+          ],
+          "finish": "Glossy ceramic, glossy plastic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light green",
+          "White",
+          "Green",
+          "Black",
+          "Red"
+        ],
+        "materials": [
+          "Marble",
+          "Laminate",
+          "Glass",
+          "Wood",
+          "Copper"
+        ],
+        "lighting": "Natural light from window, overhead lights",
+        "texture": "Smooth marble, glossy laminate, transparent glass"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but includes Indian elements",
+        "traditional_elements": [
+          "Decorative plants, colorful containers"
+        ],
+        "modern_adaptations": [
+          "Modern appliances, sleek design"
+        ],
+        "space_utilization": "Open and functional layout",
+        "cultural_significance": "Use of decorative elements suggests hospitality and warmth"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern kitchen with contemporary Indian influences. The light green cabinets and white marble countertops give it a striking, modern look, while the decorative plants and colorful containers add a touch of traditional warmth. The sleek design and integrated appliances suggest a contemporary approach, yet the ornamental elements bring a cultural relevance, making it distinctly Indian. The overall layout is open and functional, optimized for cooking and social interaction.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian Kitchen",
+        "Modern Cabinets",
+        "White Marble Countertops",
+        "Decorative Plants",
+        "Colorful Containers"
+      ],
+      "budget_indicator": "Mid-range, with a focus on quality finishes and modern appliances",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary purpose is cooking and dining, with space for social interaction",
+      "indian_specific": "Use of decorative elements that are culturally significant in Indian design"
+    }
+  },
+  "cached_at": 1754905615414,
+  "cache_key": "580d710c4f68f9ff64d7d99c64cfb30b"
+}

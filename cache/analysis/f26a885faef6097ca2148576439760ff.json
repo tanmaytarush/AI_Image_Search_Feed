@@ -1,0 +1,78 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/222/image_cropper_1727009901876.jpg",
+  "analysis": {
+    "image_id": "img_399",
+    "ai_generated_tags": {
+      "room": "Temple",
+      "theme": "Traditional Indian Temple Interior",
+      "primary_features": [
+        "Shrines",
+        "Wooden carvings",
+        "Glass panels"
+      ],
+      "objects": [
+        {
+          "type": "Shrines",
+          "features": [
+            "Carved wooden frames",
+            "Glass panels with decorative patterns",
+            "Small niches"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Polished wood, clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Warm wood tones",
+          "Clear glass"
+        ],
+        "materials": [
+          "Wood",
+          "Glass"
+        ],
+        "lighting": "Natural light coming through glass panels",
+        "texture": "Smooth wood, reflective glass"
+      },
+      "indian_context": {
+        "regional_style": "North Indian Temple Architecture",
+        "traditional_elements": [
+          "Wooden carvings",
+          "Glass panels",
+          "Shrines"
+        ],
+        "modern_adaptations": [
+          "Minimalist design approach within traditional elements"
+        ],
+        "space_utilization": "Efficient organization of shrines and niches",
+        "cultural_significance": "These spaces are typically dedicated to religious or spiritual worship, indicating cultural reverence for deities"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.92,
+      "primary_features": 0.9,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a serene temple interior with traditional Indian design elements. The space features intricately carved wooden shrines adorned with glass panels, highlighting the use of warm wood tones and reflective glass. The design is rooted in North Indian temple architecture, with a focus on spirituality and devotion. The shrines are organized in a way that suggests a functional and respectful use of space, typical of religious structures in India.",
+    "metadata": {
+      "tags": [
+        "Indian temple",
+        "Wooden shrines",
+        "Glass panels",
+        "Traditional Indian design",
+        "Spiritual space"
+      ],
+      "budget_indicator": "Moderate, utilizing high-quality wood and glass for a traditional yet refined look",
+      "space_type": "Religious and spiritual temple space",
+      "functionality": "Religious worship and spiritual reflection",
+      "indian_specific": "Traditional carvings, use of wood and glass, organized shrines"
+    }
+  },
+  "cached_at": 1754911109767,
+  "cache_key": "f26a885faef6097ca2148576439760ff"
+}

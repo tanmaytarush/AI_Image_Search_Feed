@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.57.09%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_557",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "modern",
+      "primary_features": [
+        "built-in wardrobe"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe",
+          "features": [
+            "white doors with silver handles",
+            "brown panels on upper section"
+          ],
+          "materials": [
+            "wood for doors",
+            "mDF or particle board for panels"
+          ],
+          "finish": "glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "brown",
+          "beige"
+        ],
+        "materials": [
+          "wood",
+          "mDF/particle board",
+          "metal (handles)"
+        ],
+        "lighting": "indirect, likely from ceiling",
+        "texture": "smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "use of modern materials like MDF or particle board"
+        ],
+        "space_utilization": "efficient storage solution",
+        "cultural_significance": "no specific cultural elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern bedroom with a large built-in wardrobe. The wardrobe has white doors with silver handles and brown panels on the upper section, suggesting it is made of wood or a similar material. The room has beige walls, a white ceiling, and a dark floor, creating a simple and functional space. The lighting appears to be indirect, likely from the ceiling, enhancing the clean and minimalistic design.",
+      "metadata": {
+        "tags": [
+          "bedroom",
+          "wardrobe",
+          "minimalist",
+          "modern",
+          "storage"
+        ],
+        "budget_indicator": "affordable",
+        "space_type": "residential",
+        "functionality": "storage and organization",
+        "indian_specific": "no specific Indian design features visible"
+      }
+    },
+    "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.57.09%E2%80%AFPM.png"
+  },
+  "cached_at": 1754913705590,
+  "cache_key": "643f5c8f4f7a95f1be12e136d5efa203"
+}

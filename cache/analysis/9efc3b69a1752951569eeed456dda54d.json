@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/452/image_cropper_1728890051580.jpg",
+  "analysis": {
+    "image_id": "img_284",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Traditional Indian",
+      "primary_features": [
+        "Carved wooden elements",
+        "Marble tiles",
+        "Walnut wood furniture",
+        "Glass panels"
+      ],
+      "objects": [
+        {
+          "type": "carved wooden furniture",
+          "features": [
+            "intricate wooden carvings",
+            "traditional patterns",
+            "symmetrical design"
+          ],
+          "materials": [
+            "wood (possibly walnut)"
+          ],
+          "finish": "polished wooden surface with natural sheen"
+        },
+        {
+          "type": "marble tiles",
+          "features": [
+            "smooth texture",
+            "natural pattern"
+          ],
+          "materials": [
+            "marble"
+          ],
+          "finish": "glossy"
+        },
+        {
+          "type": "glass panels",
+          "features": [
+            "transparent",
+            "reflective"
+          ],
+          "materials": [
+            "glass"
+          ],
+          "finish": "clear and smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "brown (wood)",
+          "white (marble)",
+          "brown (wood)",
+          "clear (glass)"
+        ],
+        "materials": [
+          "wood",
+          "marble",
+          "glass"
+        ],
+        "lighting": "natural light from the window",
+        "texture": "smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "North Indian (possibly Rajasthan due to the style of carvings)",
+        "traditional_elements": [
+          "carved wooden furniture",
+          "marble tiles"
+        ],
+        "modern_adaptations": [
+          "integration of glass panels for modern aesthetics"
+        ],
+        "space_utilization": "efficient use of space with a combination of traditional and modern elements",
+        "cultural_significance": "The use of intricate carvings and marble tiles reflects a blend of traditional craftsmanship and cultural heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a traditional Indian living room with a focus on North Indian design elements. The room features intricately carved wooden furniture and marble tiles, both of which are characteristic of traditional craftsmanship. The integration of glass panels adds a modern touch to the otherwise classic layout. The room's organization is efficient, with a clean and polished aesthetic that emphasizes the use of natural materials and cultural significance.",
+    "metadata": {
+      "tags": [
+        "traditional Indian interior",
+        "carved wood furniture",
+        "marble tiles",
+        "glass panels",
+        "North Indian design",
+        "Rajasthan style"
+      ],
+      "budget_indicator": "Moderate to High, due to the use of marble tiles and polished wood",
+      "space_type": "Residential Living Room",
+      "functionality": "Primary purpose is for relaxation and socializing, with a focus on comfort and cultural integration",
+      "indian_specific": "The presence of carved wooden furniture, marble tiles, and glass panels highlights a blend of traditional and modern aesthetics within a North Indian design context."
+    }
+  },
+  "cached_at": 1754908953867,
+  "cache_key": "9efc3b69a1752951569eeed456dda54d"
+}

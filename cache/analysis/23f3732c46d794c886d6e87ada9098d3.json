@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.57.03%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_556",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Wall-mounted shelves with LED lighting"
+      ],
+      "objects": [
+        {
+          "type": "Shelves",
+          "features": [
+            "Floating shelves with a modern design"
+          ],
+          "materials": [
+            "White paint on shelves, wooden supports"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Lighting",
+          "features": [
+            "LED strip lights under the shelves"
+          ],
+          "materials": [
+            "Not visible"
+          ],
+          "finish": "Integrated lighting"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Light Brown, Beige"
+        ],
+        "materials": [
+          "Paint, Wood"
+        ],
+        "lighting": "Warm, ambient lighting from LED strips",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary adaptation of traditional wall-mounted shelving"
+        ],
+        "space_utilization": "Efficient use of wall space for storage or display",
+        "cultural_significance": "Not applicable as it is a modern design approach"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern wall-mounted shelving unit with LED lighting, designed in a minimalist style with Indian influences. The shelves are white with wooden supports, offering a contemporary take on traditional wall-mounted shelving. Ambient lighting from LED strips enhances the modern aesthetic.",
+      "metadata": {
+        "tags": [
+          "Minimalist Interior",
+          "Wall Shelves",
+          "LED Lighting",
+          "Modern Design"
+        ],
+        "budget_indicator": "Moderate, given the use of painted shelves and wooden supports",
+        "space_type": "Living Room",
+        "functionality": "Storage or display",
+        "indian_specific": "Modern adaptation of traditional wall-mounted shelving"
+      }
+    }
+  },
+  "cached_at": 1754913652683,
+  "cache_key": "23f3732c46d794c886d6e87ada9098d3"
+}

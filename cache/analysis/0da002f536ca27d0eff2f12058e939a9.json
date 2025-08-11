@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/404/image_cropper_1728376012754.jpg",
+  "analysis": {
+    "image_id": "img_309",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian Minimalist",
+      "primary_features": [
+        "White walls",
+        "Built-in wardrobe",
+        "Compact space"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "White finish",
+            "Integrated into the wall"
+          ],
+          "materials": [
+            "Wood",
+            "Paint"
+          ],
+          "finish": "White painted surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light wood"
+        ],
+        "materials": [
+          "Wood",
+          "Paint"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with modern Indian influences"
+        ],
+        "space_utilization": "Efficient use of space with minimal furniture",
+        "cultural_significance": "Modern interpretation of Indian aesthetics with clean lines and simplicity"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian minimalist bedroom with a clean and uncluttered design. The room features white walls and a built-in wardrobe integrated into the wall, utilizing the space efficiently. The color palette is predominantly white with light wood accents, reflecting a contemporary interpretation of Indian design aesthetics. The natural light from the window enhances the brightness of the room.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Modern Indian",
+          "Minimalist design",
+          "Compact bedroom",
+          "White color scheme"
+        ],
+        "budget_indicator": "Low to medium, due to simple materials and finishes",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Contemporary Indian design elements with a focus on minimalism"
+      }
+    }
+  },
+  "cached_at": 1754909275250,
+  "cache_key": "0da002f536ca27d0eff2f12058e939a9"
+}

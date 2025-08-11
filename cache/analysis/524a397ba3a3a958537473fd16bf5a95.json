@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/282/image_cropper_1727334056169.jpg",
+  "analysis": {
+    "image_id": "img_366",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Modern bed with blue bedding",
+        "Wooden bedside table",
+        "Wall-mounted shelves with storage",
+        "LED lights"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Modern design",
+            "Blue and white striped bedding",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood (likely teak or similar)",
+            "Fabric for bedding"
+          ],
+          "finish": "Matte finish for the wood, smooth fabric finish"
+        },
+        {
+          "type": "Bedside Table",
+          "features": [
+            "Simple, modern design",
+            "Wooden"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Wall-Mounted Shelves",
+          "features": [
+            "Storage solution for books or decorative items",
+            "Wooden shelves"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Matte wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue, white, brown, black, gray"
+        ],
+        "materials": [
+          "Wood, metal, glass"
+        ],
+        "lighting": "LED lights for ambient lighting",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not specific, modern Indian design elements are present",
+        "traditional_elements": [
+          "Wooden furniture",
+          "Cupboard design"
+        ],
+        "modern_adaptations": [
+          "Minimalist design elements",
+          "LED lights"
+        ],
+        "space_utilization": "Efficient use of vertical space with wall-mounted shelves",
+        "cultural_significance": "Use of wood and modern LED lighting reflect a blend of traditional and contemporary styles"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian bedroom with a blend of traditional and contemporary elements. The room features a wooden bed with blue bedding, a simple bedside table, and wall-mounted shelves for storage, all indicative of efficient space utilization. The use of LED lights for ambient lighting adds a modern touch. The color palette includes shades of blue, white, brown, and gray, which are common in Indian interior design, reflecting both traditional and contemporary aesthetics.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Bedroom",
+        "Contemporary",
+        "Wooden furniture",
+        "LED lighting"
+      ],
+      "budget_indicator": "Moderate, wood and LED lighting suggest a mid-range budget.",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Wooden bed frame and wall-mounted shelves"
+    }
+  },
+  "cached_at": 1754910406429,
+  "cache_key": "524a397ba3a3a958537473fd16bf5a95"
+}

@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1150/image_cropper_1729608808379.jpg",
+  "analysis": {
+    "image_id": "img_159",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Light-colored cabinetry",
+        "White countertops",
+        "Compact layout"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "Flat doors",
+            "Integrated handles"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Satin lacquer"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light blue, white, beige"
+        ],
+        "materials": [
+          "Painted wood or MDF, white countertops, metal handles"
+        ],
+        "lighting": "Natural light with recessed ceiling lights",
+        "texture": "Flat and smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional Indian style evident",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design with Indian influences in materials and colors"
+        ],
+        "space_utilization": "Efficient use of space with compact cabinetry",
+        "cultural_significance": "The color palette and materials used may have cultural significance in certain regions, but this image does not explicitly depict traditional Indian design elements"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.78,
+        "primary_features": 0.84,
+        "objects": 0.88,
+        "indian_context": 0.65
+      },
+      "description": "The image depicts a modern minimalist kitchen with light blue cabinetry, white countertops, and integrated handles, suggesting a contemporary design with possible Indian influences in color and material selections.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "Minimalist",
+          "Light Blue",
+          "White",
+          "Compact"
+        ],
+        "budget_indicator": "Moderate, with painted wood or MDF cabinetry and white countertops",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "No distinct Indian-specific design features are present"
+      }
+    }
+  },
+  "cached_at": 1754906866494,
+  "cache_key": "957c9093e66fc02f90a1c0fcdfd75038"
+}

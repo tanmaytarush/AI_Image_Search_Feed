@@ -1,0 +1,78 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/523/image_cropper_1729591723536.jpg",
+  "analysis": {
+    "image_id": "img_383",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Custom cabinetry with open shelves",
+        "Decorative wall art",
+        "Built-in storage"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Fitted with open shelves and closed compartments",
+            "Painted with white and gold accents"
+          ],
+          "materials": [
+            "Teak wood",
+            "Metal handles"
+          ],
+          "finish": "Glossy finish on the cabinets, painted with a metallic gold accent"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "Brown"
+        ],
+        "materials": [
+          "Teak wood",
+          "Metal",
+          "Paint"
+        ],
+        "lighting": "Natural light from a window visible on the left side",
+        "texture": "Smooth and glossy surfaces on cabinets, textured wall art"
+      },
+      "indian_context": {
+        "regional_style": "Andhra Pradesh",
+        "traditional_elements": [
+          "Teak wood",
+          "Metal accents"
+        ],
+        "modern_adaptations": [
+          "Incorporation of open shelving and minimalist design"
+        ],
+        "space_utilization": "Efficient use of vertical space with open shelving for storage",
+        "cultural_significance": "Teak wood is a traditional material used in Indian homes, symbolizing strength and durability. The gold accents are often used for festive occasions and signify prosperity."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This kitchen interior showcases a modern interpretation of traditional Indian design, using teak wood and gold accents. The cabinetry features a combination of open shelving and closed compartments, creating a functional and stylish storage solution. The decorative wall art adds a cultural touch, reflecting regional influences. The use of natural light enhances the brightness and warmth of the space, highlighting the craftsmanship of the materials.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Teak Wood Cabinets",
+          "Gold Accents",
+          "Open Shelving",
+          "Andhra Pradesh Style"
+        ],
+        "budget_indicator": "Mid-range, given the use of quality materials like teak wood and brass hardware",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose is storage and preparation of food, with additional display and aesthetic use of open shelving.",
+        "indian_specific": "Teak wood and gold accents are key Indian-specific design elements, reflecting regional and cultural traditions."
+      }
+    }
+  },
+  "cached_at": 1754910592071,
+  "cache_key": "769e00670b7de1523305d6748eb60eff"
+}

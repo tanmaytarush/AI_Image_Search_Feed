@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/459/image_cropper_1728815996715.jpg",
+  "analysis": {
+    "image_id": "img_297",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Mughal-Inspired",
+      "primary_features": [
+        "Wooden door with carved detailing",
+        "Marble wall paneling",
+        "Teak wood flooring"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Door",
+          "features": [
+            "Carved floral motifs",
+            "Hinged design"
+          ],
+          "materials": [
+            "Teak Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Marble Wall Paneling",
+          "features": [
+            "Smooth surface",
+            "Dark gray marble"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark gray",
+          "Brown",
+          "White"
+        ],
+        "materials": [
+          "Teak Wood",
+          "Marble",
+          "Cement"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces on marble, polished teak wood, and rough concrete"
+      },
+      "indian_context": {
+        "regional_style": "Mughal",
+        "traditional_elements": [
+          "Carved wood",
+          "Marble paneling"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture not visible in image"
+        ],
+        "space_utilization": "Efficient use of vertical space with wall paneling and minimal clutter",
+        "cultural_significance": "Mughal architecture is known for its use of marble, intricate carvings, and symmetry. The image reflects these traditional elements while adhering to modern Indian design aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a Mughal-inspired interior with a teak wood door adorned with floral carvings and marble wall paneling. The space utilizes vertical surfaces efficiently, reflecting traditional Indian architectural elements with a contemporary touch. The overall design is rich in color and texture, with smooth surfaces and a focus on craftsmanship.",
+      "metadata": {
+        "tags": [
+          "Mughal Architecture",
+          "Indian Interior Design",
+          "Carved Wood",
+          "Marble Paneling",
+          "Teak Wood"
+        ],
+        "budget_indicator": "Moderate to high, as Mughal-inspired designs typically use high-quality materials like marble and intricately carved wood",
+        "space_type": "Living Room",
+        "functionality": "Social or relaxation area, given the elegant and inviting design",
+        "indian_specific": "The use of teak wood and marble, along with the carved floral motifs, are key Indian design features"
+      }
+    }
+  },
+  "cached_at": 1754909107150,
+  "cache_key": "ab467e19a23ef0b6e2f6ea9a46b0556c"
+}

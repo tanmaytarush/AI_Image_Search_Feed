@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-07-10%20at%2013.03.28.jpeg",
+  "analysis": {
+    "image_id": "img_002",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Marble Wall",
+        "Wooden Frame",
+        "Integrated Lighting"
+      ],
+      "objects": [
+        {
+          "type": "Marble Wall",
+          "features": [
+            "Smooth surface",
+            "Natural stone texture"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wooden Frame",
+          "features": [
+            "Dark wood finish",
+            "Simple rectangular design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Stained"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Beige",
+          "Brown"
+        ],
+        "materials": [
+          "Marble",
+          "Wood"
+        ],
+        "lighting": "Integrated recessed lighting, creating a warm ambiance",
+        "texture": "Smooth marble wall with natural wood frame"
+      },
+      "indian_context": {
+        "regional_style": "Not overtly regional, but could suggest modern adaptations of traditional elements",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern lighting and materials"
+        ],
+        "space_utilization": "Efficient use of vertical space with a decorative wall feature",
+        "cultural_significance": "The marble and wood suggest a blend of modern and traditional aesthetics, often seen in contemporary Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a minimalist living room with a modern interpretation of Indian design elements. A polished marble wall is framed by a dark wood structure, creating a striking contrast. The space utilizes integrated recessed lighting to enhance the natural beauty of the marble and wood, blending traditional materials with contemporary design principles.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Indian Design",
+          "Marble Wall",
+          "Wood Frame",
+          "Modern",
+          "Living Room"
+        ],
+        "budget_indicator": "Mid-range, with the use of marble and wood indicating a moderate budget.",
+        "space_type": "Living Room",
+        "functionality": "Decorative and possibly functional, given the wall's placement in a living space.",
+        "indian_specific": "The use of marble and wood, both traditional Indian materials, in a minimalist setting."
+      }
+    }
+  },
+  "cached_at": 1754895140915,
+  "cache_key": "b94fbad1fd6430b46e30a8b7f175fa92"
+}

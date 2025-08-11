@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/722/image_cropper_1729185089880.jpg",
+  "analysis": {
+    "image_id": "img_150",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Framed wall art with green and white motifs",
+        "Carpeted flooring",
+        "Modern furniture with Indian influences"
+      ],
+      "objects": [
+        {
+          "type": "Framed wall art",
+          "features": [
+            "Green and white motifs, likely representing traditional Indian designs"
+          ],
+          "materials": [
+            "Wood or MDF for frame, possibly paper or fabric for artwork"
+          ],
+          "finish": "Matte finish with vibrant colors"
+        },
+        {
+          "type": "Carpeted flooring",
+          "features": [
+            "Dark brown or black color, likely traditional Indian patterns"
+          ],
+          "materials": [
+            "Wool or synthetic fibers"
+          ],
+          "finish": "Textured for comfort and warmth"
+        },
+        {
+          "type": "Modern furniture with Indian influences",
+          "features": [
+            "Contemporary lines with solid wood frame, likely teak, and upholstered seating"
+          ],
+          "materials": [
+            "Teak wood, foam, polyester or similar upholstery material"
+          ],
+          "finish": "Natural teak wood finish with a soft and comfortable upholstery"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown/black, green, white"
+        ],
+        "materials": [
+          "Teak wood, wool, polyester, MDF, paper or fabric"
+        ],
+        "lighting": "Soft ambient lighting, likely from ceiling fixtures",
+        "texture": "Textured carpet, matte finished artwork, smooth upholstery"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra or Karnataka",
+        "traditional_elements": [
+          "Carpet patterns, teak furniture"
+        ],
+        "modern_adaptations": [
+          "Contemporary lines with traditional materials"
+        ],
+        "space_utilization": "Optimized for comfort with modern fixtures",
+        "cultural_significance": "Elements reflect Indian heritage through materials and patterns, blending modern and traditional aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bedroom features a modern Indian design approach, incorporating traditional elements with contemporary furniture. The room includes a framed wall art with green and white motifs, indicative of traditional Indian designs, set against carpeted flooring with dark brown or black patterns. The main furniture piece combines modern lines with solid wood frame (likely teak) and upholstered seating, reflecting a blend of traditional materials and modern aesthetics. The room's overall color palette includes dark browns, greens, and whites, contributing to a warm and inviting atmosphere while maintaining cultural relevance.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Carpeted Flooring",
+        "Teak Furniture",
+        "Green and White Motifs",
+        "Bedroom Design"
+      ],
+      "budget_indicator": "Moderate to high, with the use of quality materials like teak wood and wool carpets",
+      "space_type": "Residential Bedroom",
+      "functionality": "Primary purpose for sleep and relaxation, with additional space for storage and lounging.",
+      "indian_specific": "Teak furniture, traditional carpet patterns, and culturally significant wall art"
+    }
+  },
+  "cached_at": 1754906771998,
+  "cache_key": "9bf2cdd5087c5d4ababefd7a0d332fa7"
+}

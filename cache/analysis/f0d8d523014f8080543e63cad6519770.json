@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/611/image_cropper_1729135450008.jpg",
+  "analysis": {
+    "image_id": "img_288",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Red cabinet with glass panels",
+        "Decorative knobs",
+        "Digital display on cabinet door"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Red cabinet with glass panels, decorative knobs, digital display on door"
+          ],
+          "materials": [
+            "Red paint or lacquer, glass panels, metal knobs"
+          ],
+          "finish": "Glossy finish on cabinet, reflective glass panels"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Red",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Red paint/lacquer",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Ambient indoor lighting, possibly from overhead fixtures",
+        "texture": "Smooth finish on cabinet, reflective glass panels"
+      },
+      "indian_context": {
+        "regional_style": "Mumbai/Marathi style, with modern adaptations",
+        "traditional_elements": [
+          "Decorative knobs"
+        ],
+        "modern_adaptations": [
+          "Digital display, contemporary cabinet design"
+        ],
+        "space_utilization": "Efficient use of vertical space with a cabinet door",
+        "cultural_significance": "Red is often used in Indian interiors for its auspicious connotations, especially in kitchens"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a contemporary Indian kitchen with a red cabinet featuring glass panels and decorative knobs. The digital display adds a modern touch, reflecting a fusion of traditional and contemporary design elements. The use of red is culturally significant, often associated with good fortune in Indian households.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Red cabinet",
+          "Contemporary Indian",
+          "Digital display",
+          "Mumbai style"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential kitchen",
+        "functionality": "Storage and display",
+        "indian_specific": "Red cabinet with decorative elements"
+      }
+    }
+  },
+  "cached_at": 1754908996388,
+  "cache_key": "f0d8d523014f8080543e63cad6519770"
+}

@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/260/image_cropper_1727316448026.jpg",
+  "analysis": {
+    "image_id": "img_306",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "contemporary with Indian influences",
+      "primary_features": [
+        "fitted wardrobe",
+        "white walls",
+        "yellow accents"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe",
+          "features": [
+            "fitted design",
+            "storage space"
+          ],
+          "materials": [
+            "white panels",
+            "yellow accents"
+          ],
+          "finish": "smooth, painted"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "yellow",
+          "light grey"
+        ],
+        "materials": [
+          "painted wood",
+          "yellow fabric"
+        ],
+        "lighting": "soft, ambient light",
+        "texture": "smooth, modern"
+      },
+      "indian_context": {
+        "regional_style": "Mughal-inspired",
+        "traditional_elements": [
+          "no visible traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "indian-inspired color scheme, modern wardrobe design"
+        ],
+        "space_utilization": "optimized for storage with minimal traditional elements",
+        "cultural_significance": "fuses modern functionality with aesthetic appeal, applicable in contemporary Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.88,
+        "theme": 0.85,
+        "primary_features": 0.8,
+        "objects": 0.9,
+        "indian_context": 0.82
+      },
+      "description": "A contemporary bedroom with a fitted wardrobe in a white and yellow color scheme. The design integrates modern functionality with subtle Indian Mughal-inspired influences through the use of traditional colors. The white walls and yellow accents create a bright and airy feel, while the smooth, modern finish of the wardrobe suggests a focus on practicality and minimalism.",
+      "metadata": {
+        "tags": [
+          "contemporary bedroom",
+          "indian color scheme",
+          "fitted wardrobe",
+          "modern design",
+          "white and yellow"
+        ],
+        "budget_indicator": "moderate",
+        "space_type": "residential bedroom",
+        "functionality": "storage and storage optimization",
+        "indian_specific": "contemporary interpretation of Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1754909242356,
+  "cache_key": "d70834b1828523d82350ba0ee95022a1"
+}

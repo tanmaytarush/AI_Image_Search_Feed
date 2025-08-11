@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.49.26%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_534",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Interior",
+      "primary_features": [
+        "Partition wall",
+        "Polished floor",
+        "Window",
+        "Plastic chair"
+      ],
+      "objects": [
+        {
+          "type": "Partition wall",
+          "features": [
+            "Dark wood finish",
+            "Glass panels",
+            "Single shelf"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Plastic chair",
+          "features": [
+            "Black color",
+            "Simple design"
+          ],
+          "materials": [
+            "Plastic"
+          ],
+          "finish": "Matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark brown",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Plastic",
+          "Marble"
+        ],
+        "lighting": "Bright indoor lighting with natural light from the window",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style visible",
+        "traditional_elements": [
+          "No traditional Indian elements present"
+        ],
+        "modern_adaptations": [
+          "Use of contemporary materials in a traditional space concept"
+        ],
+        "space_utilization": "The space is organized with a partition wall for separation, but the overall layout is minimalistic",
+        "cultural_significance": "The partition wall might represent a modern take on the 'veena' or 'pooja' wall, which is often seen in traditional Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian interior with a focus on minimalistic design. A dark wood partition wall with glass panels and a single shelf is the central feature, separating the space. The room has a polished floor and is illuminated by bright indoor lighting and natural light from a window. A simple black plastic chair is placed near the partition. The design incorporates contemporary materials and concepts, blending traditional aesthetics with modern functionality.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Interior",
+          "Partition Wall",
+          "Polished Floor",
+          "Plastic Chair",
+          "Bright Lighting"
+        ],
+        "budget_indicator": "Moderate to High",
+        "space_type": "Living Room",
+        "functionality": "Seperate but open living space",
+        "indian_specific": "Use of dark wood and glass in partition wall, contemporary implementation of traditional elements"
+      }
+    }
+  },
+  "cached_at": 1754913139304,
+  "cache_key": "214a2848fb64b2ce7970cbc18f939dc7"
+}

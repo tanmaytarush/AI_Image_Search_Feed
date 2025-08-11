@@ -19,16 +19,16 @@ router.get("/object-search", imageController.objectSearch);
 router.get("/simple-search", async (req, res) => {
   try {
     const { query = "bedroom", limit = 5 } = req.query;
-    
+
     // Import services
     const qdrantService = await import("../services/qdrantService.js");
-    
+
     // Get embedding for query
     const queryVector = await qdrantService.default.getEmbedding(query);
-    
+
     // Simple search on primary_search vector only
     const searchResults = await qdrantService.default.client.search(
-      "interior_images",
+      "interior_images_description",
       {
         vector: { name: "primary_search", vector: queryVector },
         limit: parseInt(limit),
@@ -36,7 +36,7 @@ router.get("/simple-search", async (req, res) => {
         with_vector: false,
       }
     );
-    
+
     // Format results
     const formattedResults = searchResults.map((result) => ({
       image_id: result.payload.image_id,
@@ -51,13 +51,13 @@ router.get("/simple-search", async (req, res) => {
       data: formattedResults,
       query: query,
       message: `Found ${formattedResults.length} matching images`,
-      mode: "simple_search"
+      mode: "simple_search",
     });
   } catch (error) {
     res.json({
       success: false,
       error: error.message,
-      stack: error.stack
+      stack: error.stack,
     });
   }
 });
@@ -66,27 +66,27 @@ router.get("/simple-search", async (req, res) => {
 router.get("/debug-search", async (req, res) => {
   try {
     const { query = "bedroom" } = req.query;
-    
+
     // Test each component step by step
     const testResults = {
       step1_query: query,
       step2_qdrant_service: null,
       step3_search_result: null,
-      step4_error: null
+      step4_error: null,
     };
 
     try {
       // Test qdrant service import
       const qdrantService = await import("../services/qdrantService.js");
       testResults.step2_qdrant_service = "✅ Imported successfully";
-      
+
       // Test simple embedding
       const embedding = await qdrantService.default.getEmbedding("test");
       testResults.step2_qdrant_service += " | ✅ Embedding works";
-      
+
       // Test basic search (bypass AI enhancement)
       const simpleSearchResult = await qdrantService.default.client.search(
-        "interior_images",
+        "interior_images_description",
         {
           vector: { name: "primary_search", vector: embedding },
           limit: 3,
@@ -94,22 +94,21 @@ router.get("/debug-search", async (req, res) => {
           with_vector: false,
         }
       );
-      
+
       testResults.step3_search_result = `✅ Found ${simpleSearchResult.length} results`;
-      
     } catch (error) {
       testResults.step4_error = error.message;
     }
 
     res.json({
       success: true,
-      debug_results: testResults
+      debug_results: testResults,
     });
   } catch (error) {
     res.json({
       success: false,
       debug_error: error.message,
-      stack: error.stack
+      stack: error.stack,
     });
   }
 });
@@ -118,9 +117,17 @@ router.get("/debug-search", async (req, res) => {
 router.get("/query-insights", async (req, res) => {
   try {
     const insights = await imageService.getQueryInsights();
-    res.json({ success: true, data: insights, message: "Query intelligence insights retrieved successfully" });
+    res.json({
+      success: true,
+      data: insights,
+      message: "Query intelligence insights retrieved successfully",
+    });
   } catch (error) {
-    res.status(500).json({ success: false, error: "Failed to get query insights", message: error.message });
+    res.status(500).json({
+      success: false,
+      error: "Failed to get query insights",
+      message: error.message,
+    });
   }
 });
 
@@ -129,17 +136,18 @@ router.post("/collection/recreate", async (req, res) => {
   try {
     const qdrantService = await import("../services/qdrantService.js");
     await qdrantService.default.recreateCollection();
-    
-    res.json({ 
-      success: true, 
-      message: "Collection recreated successfully with correct dimensions (384)",
-      collection_name: "interior_images"
+
+    res.json({
+      success: true,
+      message:
+        "Collection recreated successfully with correct dimensions (384)",
+      collection_name: "interior_images_description",
     });
   } catch (error) {
-    res.status(500).json({ 
-      success: false, 
-      error: "Failed to recreate collection", 
-      message: error.message 
+    res.status(500).json({
+      success: false,
+      error: "Failed to recreate collection",
+      message: error.message,
     });
   }
 });
@@ -149,17 +157,17 @@ router.get("/collection/info", async (req, res) => {
   try {
     const qdrantService = await import("../services/qdrantService.js");
     const info = await qdrantService.default.getCollectionInfo();
-    
-    res.json({ 
-      success: true, 
+
+    res.json({
+      success: true,
       data: info,
-      message: "Collection information retrieved successfully"
+      message: "Collection information retrieved successfully",
     });
   } catch (error) {
-    res.status(500).json({ 
-      success: false, 
-      error: "Failed to get collection info", 
-      message: error.message 
+    res.status(500).json({
+      success: false,
+      error: "Failed to get collection info",
+      message: error.message,
     });
   }
 });

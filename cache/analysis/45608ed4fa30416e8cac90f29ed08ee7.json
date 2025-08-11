@@ -1,0 +1,116 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1727954630138.jpg",
+  "analysis": {
+    "image_id": "img_222",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Tile flooring",
+        "Vanity",
+        "Mirror",
+        "Sink",
+        "Towel rack"
+      ],
+      "objects": [
+        {
+          "type": "Vanity",
+          "features": [
+            "Rectangular shape with a single basin",
+            "Embedded storage space below"
+          ],
+          "materials": [
+            "Granite countertop",
+            "Wooden base"
+          ],
+          "finish": "Granite has a polished finish, wood has a natural finish"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Large, rectangular in shape",
+            "Frameless design"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Metal has a polished finish, glass is clear"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Over-the-vanity basin",
+            "Modern design"
+          ],
+          "materials": [
+            "Porcelain",
+            "Metal"
+          ],
+          "finish": "Porcelain has a glossy finish, metal has a polished finish"
+        },
+        {
+          "type": "Towel rack",
+          "features": [
+            "Wall-mounted",
+            "Simple design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Metal has a polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gray",
+          "Black"
+        ],
+        "materials": [
+          "Granite",
+          "Wood",
+          "Porcelain",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Artificial lighting with a warm tone",
+        "texture": "Smooth surfaces with a mix of natural and polished materials"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but incorporates some modern Indian design elements",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Modern vanities, frameless mirrors, and polished finishes"
+        ],
+        "space_utilization": "Efficient use of space with functional furniture",
+        "cultural_significance": "The design focuses on modern aesthetics rather than traditional Indian elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern Indian bathroom with a focus on sleek and functional design. The vanity features a granite countertop with a wooden base, a rectangular mirror, and a wall-mounted towel rack. The space utilizes a color palette dominated by white, brown, gray, and black, with smooth finishes and polished materials. The design incorporates contemporary elements while maintaining a clean and organized layout, reflecting a modern interpretation of Indian interior design.",
+      "metadata": {
+        "tags": [
+          "Bathroom",
+          "Modern Indian",
+          "Granite",
+          "Wood",
+          "Frameless Mirror",
+          "Towel Rack"
+        ],
+        "budget_indicator": "Moderate, due to the use of granite and polished finishes",
+        "space_type": "Residential Bathroom",
+        "functionality": "Primary purpose is for personal hygiene and grooming",
+        "indian_specific": "Modern adaptation of Indian design, focusing on functionality and contemporary aesthetics"
+      }
+    }
+  },
+  "cached_at": 1754907781612,
+  "cache_key": "45608ed4fa30416e8cac90f29ed08ee7"
+}

@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Living%20004.png",
+  "analysis": {
+    "image_id": "img_583",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "White Leather Sofas",
+        "Wooden Coffee Table",
+        "Teak Wood Furniture",
+        "Modern Lighting",
+        "Marble TV Stand"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Coffee Table",
+          "features": [
+            "Modern design with polished finish",
+            "Dark teak wood color"
+          ],
+          "materials": [
+            "Teak Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "White Leather Sofas",
+          "features": [
+            "Modern design with clean lines",
+            "Comfortable seating"
+          ],
+          "materials": [
+            "Leather"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Wooden TV Stand",
+          "features": [
+            "Matching wooden design with built-in TV",
+            "Modern TV placement"
+          ],
+          "materials": [
+            "Teak Wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Decorative Items",
+          "features": [
+            "Statues, religious symbols, framed art",
+            "Cultural relevance"
+          ],
+          "materials": [
+            "Copper, Marble, Brass"
+          ],
+          "finish": "Polished, Patina"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black",
+          "Brown"
+        ],
+        "materials": [
+          "Teak Wood",
+          "Marble",
+          "Brass",
+          "Copper",
+          "Leather"
+        ],
+        "lighting": "Modern recessed ceiling lights",
+        "texture": "Smooth, polished surfaces with some textured walls"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to any regional style, but incorporates elements from various regions",
+        "traditional_elements": [
+          "Wooden furniture",
+          "Statues",
+          "Religious symbols"
+        ],
+        "modern_adaptations": [
+          "Modern lighting and furniture",
+          "Combination of traditional and contemporary elements"
+        ],
+        "space_utilization": "Efficient use of space with a central seating area and TV setup",
+        "cultural_significance": "Incorporation of religious symbols and traditional furniture reflects cultural and spiritual significance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian living room with a blend of traditional and contemporary elements. The space features white leather sofas, a polished teak wood coffee table, and a wooden TV stand that houses a modern flat-screen TV. The walls are painted white with a brown accent wall, and there are cultural and religious symbols placed tastefully throughout the room. The use of brass and copper decorative items adds a touch of traditional Indian craftsmanship. The lighting is modern with recessed ceiling lights, and the overall design is clean and minimalist, yet rich in cultural significance.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Living Room",
+        "Teak Wood",
+        "White Leather",
+        "Religious Symbols"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Traditional furniture and religious icons"
+    }
+  },
+  "cached_at": 1754914311556,
+  "cache_key": "f6e128c923f82f7f56446ffa17b22196"
+}

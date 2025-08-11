@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1349/image_cropper_1729738981100.jpg",
+  "analysis": {
+    "image_id": "img_242",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Patterned wallpaper",
+        "Simple furniture",
+        "Minimalist decor"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Simple design",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Wallpaper",
+          "features": [
+            "Abstract animal print"
+          ],
+          "materials": [
+            "Textured paper"
+          ],
+          "finish": "Printed"
+        },
+        {
+          "type": "Small side table",
+          "features": [
+            "Minimalistic design"
+          ],
+          "materials": [
+            "Metallic finish"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, white, black"
+        ],
+        "materials": [
+          "Wood, metallic, paper"
+        ],
+        "lighting": "Natural light",
+        "texture": "Textured wallpaper, smooth wooden frame"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but possibly inspired by North Indian styles due to the animal print wallpaper",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Abstract animal print on the wallpaper, modern furniture design"
+        ],
+        "space_utilization": "Minimal, with items placed on the wall rather than on the floor",
+        "cultural_significance": "The animal print wallpaper, while abstract, may draw inspiration from traditional Indian motifs but in a modern interpretation"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern bedroom with a bedroom wall featuring a patterned animal print wallpaper. The bed has a simple wooden frame, and there is a minimalistic side table next to it. The room has a contemporary feel with a touch of traditional Indian influence due to the animal print, which is a common motif in Indian design. The furniture is functional and uncluttered, suggesting a preference for simplicity and modernity in design.",
+      "metadata": {
+        "tags": [
+          "Bedroom",
+          "Modern",
+          "Animal Print",
+          "Minimalist",
+          "Indian Influence"
+        ],
+        "budget_indicator": "Moderate, as the room features modern furniture and patterned wallpaper, suggesting a balance between traditional and contemporary elements.",
+        "space_type": "Residential",
+        "functionality": "Sleeping and rest area",
+        "indian_specific": "Abstract animal print wallpaper with a modern twist"
+      }
+    }
+  },
+  "cached_at": 1754908010043,
+  "cache_key": "39c7a57166d1b31dab5edd556590668c"
+}

@@ -1,0 +1,120 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/975/image_cropper_1729409250434.jpg",
+  "analysis": {
+    "image_id": "img_421",
+    "ai_generated_tags": {
+      "room": "Office",
+      "theme": "Modern with Indian Influences",
+      "primary_features": [
+        "Green marble desk",
+        "Wooden office chairs",
+        "Built-in storage cabinets",
+        "Monitors on desk"
+      ],
+      "objects": [
+        {
+          "type": "Green marble desk",
+          "features": [
+            "Rectangular shape",
+            "Smooth surface",
+            "Dark green color"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wooden office chairs",
+          "features": [
+            "Contemporary design",
+            "Dark wood finish",
+            "Simple backrest with armrests"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Painted"
+        },
+        {
+          "type": "Built-in storage cabinets",
+          "features": [
+            "Dark wood finish",
+            "Closed storage",
+            "Storage space below desk"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Painted"
+        },
+        {
+          "type": "Monitors on desk",
+          "features": [
+            "Laptop and desktop computers",
+            "Professional setup"
+          ],
+          "materials": [
+            "Not visible"
+          ],
+          "finish": ""
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark green marble",
+          "Dark wood",
+          "Neutral wall color",
+          "Black monitors"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Paint",
+          "Metal"
+        ],
+        "lighting": "Bright, possibly fluorescent ceiling lights",
+        "texture": [
+          "Smooth marble",
+          "Painted wood",
+          "Metallic screen on monitor"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, but could be Southern Indian influences based on wood and color palette",
+        "traditional_elements": [
+          "Not visible"
+        ],
+        "modern_adaptations": [
+          "Contemporary office furniture with traditional Indian materials"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and modern office furniture",
+        "cultural_significance": "The use of green marble and dark wood is contemporary and not strongly rooted in Indian design tradition"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.75
+      },
+      "description": "The interior space features a modern office setup with a green marble desk, wooden office chairs, and built-in storage cabinets, showcasing a blend of contemporary and traditional Indian design elements. The use of dark green marble and dark wood reflects a modern interpretation of Indian design aesthetics, primarily Southern Indian influences, but the space is otherwise a typical office environment.",
+      "metadata": {
+        "tags": [
+          "Office",
+          "Green Marble",
+          "Wooden Chairs",
+          "Built-in Storage",
+          "Modern",
+          "Indian Influences"
+        ],
+        "budget_indicator": "Moderate, with durable materials like marble and wood",
+        "space_type": "Home Office",
+        "functionality": "Professional working space",
+        "indian_specific": "Modern adaptation of Indian design materials and color palette"
+      }
+    }
+  },
+  "cached_at": 1754911384171,
+  "cache_key": "d05789f3b476a4be50df4d44c25bdc0c"
+}

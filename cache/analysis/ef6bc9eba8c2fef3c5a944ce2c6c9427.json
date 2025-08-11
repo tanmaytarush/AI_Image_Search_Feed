@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00555.JPG",
+  "analysis": {
+    "image_id": "img_298",
+    "ai_generated_tags": {
+      "room": "entrance hallway",
+      "theme": "modern traditional",
+      "primary_features": [
+        "ceiling with decorative tiles",
+        "wooden flooring",
+        "glass sliding doors",
+        "air conditioning unit"
+      ],
+      "objects": [
+        {
+          "type": "ceiling fixtures",
+          "features": [
+            "metallic, spherical, ornate design"
+          ],
+          "materials": [
+            "metallic"
+          ],
+          "finish": "polished, reflective"
+        },
+        {
+          "type": "glass doors",
+          "features": [
+            "white frame, clear glass"
+          ],
+          "materials": [
+            "glass, metal"
+          ],
+          "finish": "transparent, reflective"
+        },
+        {
+          "type": "air conditioning unit",
+          "features": [
+            "white, built-in"
+          ],
+          "materials": [
+            "metallic"
+          ],
+          "finish": "polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "brown",
+          "red",
+          "green",
+          "beige"
+        ],
+        "materials": [
+          "wood",
+          "glass",
+          "metal",
+          "ceramic",
+          "synthetic"
+        ],
+        "lighting": "natural light from ceiling tiles, ambient light from fixtures",
+        "texture": "smooth tiles on ceiling, glossy floor, textured wooden doors"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian or South Indian style (influenced by regional materials and design)",
+        "traditional_elements": [
+          "wooden doors with paneling",
+          "red and white ceiling tiles with traditional patterns"
+        ],
+        "modern_adaptations": [
+          "contemporary ceiling fixtures, glass doors, modern air conditioning"
+        ],
+        "space_utilization": "open, spacious layout with clear delineation between indoor and outdoor areas",
+        "cultural_significance": "The use of wood and red tiles reflects regional design aesthetics, often used in residential spaces for warmth and vibrancy"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern traditional entrance hallway in an Indian residential setting. The space features a red-tiled ceiling with ornate patterns, which is a characteristic element in Maharashtrian or South Indian architecture. The wooden flooring and panelled doors are common in traditional Indian homes, while the contemporary glass sliding doors and ceiling fixtures blend modern design elements. The use of natural light from the ceiling tiles and ambient light from the fixtures creates a bright and welcoming atmosphere. The space is organized to maximize light and create a seamless transition from the outdoor garden area into the indoor living space.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "entrance design",
+        "modern traditional",
+        "wooden flooring",
+        "red tiles"
+      ],
+      "budget_indicator": "Moderate to high, given the use of materials like wood, glass, and polished metals",
+      "space_type": "residential entrance",
+      "functionality": "welcoming and transitional space between outdoor and indoor areas",
+      "indian_specific": "use of traditional materials and design elements with modern adaptations"
+    }
+  },
+  "cached_at": 1754909130561,
+  "cache_key": "ef6bc9eba8c2fef3c5a944ce2c6c9427"
+}

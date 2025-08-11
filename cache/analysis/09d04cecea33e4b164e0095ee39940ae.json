@@ -1,0 +1,114 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Hallway.png",
+  "analysis": {
+    "image_id": "img_577",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian with Fusion",
+      "primary_features": [
+        "TV Wall Unit",
+        "Coffee Table",
+        "Ceiling Fan",
+        "Wall Sconces",
+        "Decorative Unit"
+      ],
+      "objects": [
+        {
+          "type": "TV Wall Unit",
+          "features": [
+            "Modern design with vertical paneling and gold accents"
+          ],
+          "materials": [
+            "Marble and Wood"
+          ],
+          "finish": "Smooth with metallic gold accents"
+        },
+        {
+          "type": "Coffee Table",
+          "features": [
+            "Rectangular shape, wooden top with metal base"
+          ],
+          "materials": [
+            "Wood and Metal"
+          ],
+          "finish": "Natural wood and polished metal"
+        },
+        {
+          "type": "Ceiling Fan",
+          "features": [
+            "Gold and brass finish with intricate detailing"
+          ],
+          "materials": [
+            "Brass"
+          ],
+          "finish": "Polished brass"
+        },
+        {
+          "type": "Wall Sconces",
+          "features": [
+            "Modern design with sleek lines"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        },
+        {
+          "type": "Decorative Unit",
+          "features": [
+            "Glass display cabinet with wooden shelves"
+          ],
+          "materials": [
+            "Glass and Wood"
+          ],
+          "finish": "Clear glass and polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Beige, Gold, Silver, Brown"
+        ],
+        "materials": [
+          "Marble, Wood, Brass, Metal, Glass"
+        ],
+        "lighting": "Well-lit with natural light from the right and accent lighting from wall sconces",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Wooden doors with geometric carvings"
+        ],
+        "modern_adaptations": [
+          "Combination of traditional wood and modern materials"
+        ],
+        "space_utilization": "Open and spacious with clear demarcation of zones",
+        "cultural_significance": "The use of gold and brass reflects traditional Indian luxury and opulence"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian living room features a blend of traditional and contemporary elements. The TV wall unit, with its vertical paneling and gold accents, is a hallmark of Northern Indian design. The coffee table's natural wood top and metal base introduce a modern industrial touch. The ceiling fan with its gold and brass finish is a traditional Indian luxury element. The wall sconces provide a modern contrast with their sleek lines. The space is well-lit with natural light and accent lighting, highlighting the smooth and polished textures of the materials used. The wooden doors with geometric carvings add a traditional Indian influence to the room, while the overall design is a contemporary interpretation that caters to modern living spaces.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Northern Design",
+        "Gold Accents",
+        "Wood Paneling",
+        "Marble Walls",
+        "Open Living Space"
+      ],
+      "budget_indicator": "Moderate, with a mix of traditional and modern materials and finishes",
+      "space_type": "Residential, Living Room",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Use of gold and brass, wooden doors with carvings, and vertical paneling"
+    }
+  },
+  "cached_at": 1754914207721,
+  "cache_key": "09d04cecea33e4b164e0095ee39940ae"
+}

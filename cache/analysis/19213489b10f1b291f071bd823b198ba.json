@@ -1,0 +1,119 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/347/image_cropper_1727693499061.jpg",
+  "analysis": {
+    "image_id": "img_252",
+    "ai_generated_tags": {
+      "room": "Master bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "King-sized bed",
+        "Built-in wardrobe",
+        "Ceiling lights",
+        "Carpet"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "King-sized with white bedding",
+            "Carved wooden headboard"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "Fabric (likely cotton or linen)"
+          ],
+          "finish": "Polished wood with a natural finish, soft fabric texture"
+        },
+        {
+          "type": "Built-in Wardrobe",
+          "features": [
+            "Dark wood with glass doors",
+            "Shelving and hanging space"
+          ],
+          "materials": [
+            "Dark wood (likely Sheesham or Rosewood)",
+            "Glass"
+          ],
+          "finish": "Polished wood with smooth edges, clear glass finish"
+        },
+        {
+          "type": "Ceiling Lights",
+          "features": [
+            "Flush-mounted fixtures",
+            "Chrome or brass finish"
+          ],
+          "materials": [
+            "Metal (likely chrome or brass)"
+          ],
+          "finish": "Metallic with a polished finish"
+        },
+        {
+          "type": "Carpet",
+          "features": [
+            "Light beige or cream color with subtle patterns"
+          ],
+          "materials": [
+            "Wool or polyester"
+          ],
+          "finish": "Soft texture with a subtle pattern"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Beige",
+          "Black",
+          "Beige carpet"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass",
+          "Fabric",
+          "Carpet"
+        ],
+        "lighting": "Warm and ambient, provided by ceiling lights",
+        "texture": "Sculpted wood, smooth metal and glass, soft fabric, textured carpet"
+      },
+      "indian_context": {
+        "regional_style": "Rajasthani or Marwari style",
+        "traditional_elements": [
+          "Carved wooden headboard",
+          "Built-in wardrobe"
+        ],
+        "modern_adaptations": [
+          "Flush-mounted ceiling lights",
+          "Carpet"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "The use of traditional materials and elements, such as the carved wooden headboard and built-in wardrobe, reflects a blend of modern living with traditional Indian aesthetics."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian bedroom features a king-sized bed with a carved wooden headboard, reflecting traditional Rajasthani design elements. The built-in wardrobe, made of dark wood and glass, provides a balance between modern functionality and traditional aesthetics. The warm lighting from flush-mounted ceiling lights enhances the cozy ambiance, while the light beige carpet adds a touch of traditional comfort. The overall design is a sophisticated blend of modern and traditional Indian design principles, emphasizing space efficiency and cultural relevance.",
+    "metadata": {
+      "tags": [
+        "Master bedroom",
+        "Modern Indian",
+        "Rajasthani design",
+        "Carved wooden headboard",
+        "Built-in wardrobe",
+        "Warm lighting",
+        "Light beige carpet"
+      ],
+      "budget_indicator": "Moderate to high, given the use of wood and glass materials in furniture and built-in wardrobe, as well as the quality of the ceiling lights and carpet.",
+      "space_type": "Residential",
+      "functionality": "Primary sleeping area with additional storage and personal space",
+      "indian_specific": "Use of carved wooden headboard and built-in wardrobe for efficient space utilization"
+    }
+  },
+  "cached_at": 1754908300545,
+  "cache_key": "19213489b10f1b291f071bd823b198ba"
+}

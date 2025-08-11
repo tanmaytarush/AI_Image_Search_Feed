@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/209/image_cropper_1726914865696.jpg",
+  "analysis": {
+    "image_id": "img_278",
+    "ai_generated_tags": {
+      "room": "Storage Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Closet with built-in storage",
+        "White painted wooden cabinetry",
+        "Open shelving for display"
+      ],
+      "objects": [
+        {
+          "type": "Closet",
+          "features": [
+            "Built-in design",
+            "White painted finish",
+            "Multiple door panels"
+          ],
+          "materials": [
+            "Wooden cabinetry"
+          ],
+          "finish": "White painted"
+        },
+        {
+          "type": "Shelving",
+          "features": [
+            "Open shelving",
+            "Multiple levels"
+          ],
+          "materials": [
+            "Wooden cabinetry"
+          ],
+          "finish": "White painted"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown (wooden tones)",
+          "Neutral tones"
+        ],
+        "materials": [
+          "Wooden cabinetry"
+        ],
+        "lighting": "Natural light from unseen windows",
+        "texture": "Smooth wooden texture"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly identifiable due to modern design",
+        "traditional_elements": [
+          "Minimal traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Incorporation of modern furniture design"
+        ],
+        "space_utilization": "Efficient storage solution",
+        "cultural_significance": "Modern adaptation of traditional storage solutions"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern Indian-style storage room with built-in wooden cabinetry and open shelving. The design emphasizes functionality and efficiency, incorporating a contemporary approach to storage while maintaining a clean and minimal aesthetic. The white painted finish of the cabinetry brings a touch of modernity, while the wooden texture adds a natural and warm element, common in Indian interiors.",
+    "metadata": {
+      "tags": [
+        "Storage Room",
+        "Modern Indian",
+        "Built-in Furniture",
+        "Open Shelving",
+        "White Painted Wood"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Storage and organization",
+      "indian_specific": "Modern interpretation of traditional storage solutions"
+    }
+  },
+  "cached_at": 1754908887393,
+  "cache_key": "2a5833ee55a4746cf21e6ac56bfa5204"
+}

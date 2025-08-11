@@ -1,0 +1,79 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/716/image_cropper_1729181993694.jpg",
+  "analysis": {
+    "image_id": "img_442",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern with Indian Influences",
+      "primary_features": [
+        "Frosted glass cabinets",
+        "Modern handles",
+        "White and blue color scheme"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "Frosted glass panels",
+            "Modern handles"
+          ],
+          "materials": [
+            "Frosted glass",
+            "Metal for handles"
+          ],
+          "finish": "Polished surfaces"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Blue",
+          "Brown"
+        ],
+        "materials": [
+          "Frosted glass",
+          "Metal",
+          "Wood"
+        ],
+        "lighting": "Artificial lighting, possibly from overhead fixtures",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern",
+        "traditional_elements": [
+          "Frosted glass for cabinets"
+        ],
+        "modern_adaptations": [
+          "Integration of traditional elements with modern design"
+        ],
+        "space_utilization": "Efficient use of space with integrated cabinetry",
+        "cultural_significance": "Frosted glass cabinets can be symbolic of a modern take on traditional Indian windows, where such elements are often used to allow light while maintaining privacy"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.85,
+        "primary_features": 0.85,
+        "objects": 0.85,
+        "indian_context": 0.85
+      },
+      "description": "The image shows a modern kitchen with frosted glass cabinets, featuring a contemporary design with an Indian twist. The use of frosted glass for cabinet doors is a nod to traditional Indian architectural elements, specifically the jharokha, where such elements are used to allow light while maintaining privacy. The overall design is sleek and functional, with a color scheme of white, blue, and brown, which is typical in modern Indian interiors. The light brown color of the handles and the smooth, polished surfaces of the cabinets suggest the use of high-quality materials, indicating a mid to high-end budget.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "Frosted Glass",
+          "Indian Style",
+          "White",
+          "Blue",
+          "Furniture"
+        ],
+        "budget_indicator": "Mid to high-end",
+        "space_type": "Residential (Kitchen)",
+        "functionality": "Storage and preparation area",
+        "indian_specific": "Frosted glass cabinets as a modern adaptation of traditional Indian architectural elements"
+      }
+    }
+  },
+  "cached_at": 1754911621008,
+  "cache_key": "48602c680668f3eb56208203764aef36"
+}

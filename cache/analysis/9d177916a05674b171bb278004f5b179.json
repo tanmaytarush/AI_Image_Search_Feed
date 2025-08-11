@@ -1,0 +1,67 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/665/image_cropper_32F783A4-D6B5-431F-9E7E-86E39AC3CF26-5121-0000034B5FFA235E.jpg",
+  "analysis": {
+    "image_id": "img_321",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Closet with sliding doors"
+      ],
+      "objects": [
+        {
+          "type": "Closet",
+          "features": [
+            "Sliding wooden doors, simple handles"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, polished surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Gray, white, brown"
+        ],
+        "materials": [
+          "Wood, metal"
+        ],
+        "lighting": "Natural light from a window",
+        "texture": "Smooth wooden texture, metallic handles"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "No culturally significant elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image shows a minimalist bedroom with a focus on functionality and simplicity. The closet features sliding wooden doors with metallic handles, indicating a modern design approach. The color palette is neutral with gray, white, and brown tones. The lighting appears to be natural, suggesting a window is out of frame. There are no visible traditional Indian design elements, indicating a contemporary interpretation of space organization.",
+      "metadata": {
+        "tags": [
+          "bedroom",
+          "minimalist",
+          "closet",
+          "wooden doors",
+          "metallic handles"
+        ],
+        "budget_indicator": "Moderate, given the use of wood and metal",
+        "space_type": "Residential bedroom",
+        "functionality": "Storage and organization",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1754909687311,
+  "cache_key": "9d177916a05674b171bb278004f5b179"
+}

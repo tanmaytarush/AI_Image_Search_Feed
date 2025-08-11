@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/363/image_cropper_1727876445828.jpg",
+  "analysis": {
+    "image_id": "img_379",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Modern furniture with traditional accents",
+        "Walk-in closet with sliding doors",
+        "Textured walls",
+        "Glass partition for semi-separation"
+      ],
+      "objects": [
+        {
+          "type": "Glass Partition",
+          "features": [
+            "Translucent glass panels",
+            "Built-in lighting strips"
+          ],
+          "materials": [
+            "Glass, metal"
+          ],
+          "finish": "Polished glass with metal frame"
+        },
+        {
+          "type": "Living Room Furniture",
+          "features": [
+            "Modern sofa set with wooden accents",
+            "Round coffee table"
+          ],
+          "materials": [
+            "Wood, metal"
+          ],
+          "finish": "Painted wood with metallic accents"
+        },
+        {
+          "type": "Walk-in Closet",
+          "features": [
+            "Sliding wooden doors with metal handles",
+            "Built-in storage shelves"
+          ],
+          "materials": [
+            "Wood, metal"
+          ],
+          "finish": "Painted wood with metallic hardware"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, beige, white, black"
+        ],
+        "materials": [
+          "Wood, glass, metal, painted surfaces"
+        ],
+        "lighting": "Combination of natural light and built-in LED lighting",
+        "texture": "Smooth glass, polished wood, painted walls"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but leans towards North Indian due to use of wood and glass",
+        "traditional_elements": [
+          "Wooden furniture with metal accents",
+          "Glass partitions"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture with traditional materials",
+          "Modern lighting and design"
+        ],
+        "space_utilization": "Efficient use of space with semi-separation and storage integration",
+        "cultural_significance": "Modern interpretation of traditional Indian design elements, promoting functionality and aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a contemporary Indian living room with a blend of modern and traditional elements. The space features a sleek glass partition for semi-separation, modern furniture with wooden and metallic accents, and a walk-in closet with sliding wooden doors and built-in storage. The walls are textured with painted surfaces, and the overall design is well-lit with a mix of natural and built-in lighting, creating a sophisticated and functional living area. The use of wood, polished glass, and painted surfaces reflects traditional Indian design sensibilities adapted to a contemporary aesthetic.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Contemporary Indian",
+        "Modern Furniture",
+        "Glass Partition",
+        "Walk-in Closet",
+        "Textured Walls"
+      ],
+      "budget_indicator": "Moderate to high due to use of glass, polished wood, and modern fixtures",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is to serve as a living room with semi-separation and storage integration",
+      "indian_specific": "Modern interpretation of traditional Indian design elements such as wood and glass"
+    }
+  },
+  "cached_at": 1754910552596,
+  "cache_key": "01f81cb389b1ca0246a62c16228287f0"
+}

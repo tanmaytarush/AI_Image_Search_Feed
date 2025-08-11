@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/256/image_cropper_1727244094049.jpg",
+  "analysis": {
+    "image_id": "img_223",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Traditional Indian Interior",
+      "primary_features": [
+        "Panelled wooden door",
+        "Carved wooden detailing",
+        "Decorative blue and gold wall"
+      ],
+      "objects": [
+        {
+          "type": "Panelled Wooden Door",
+          "features": [
+            "Richly carved wooden panels",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished and glossy"
+        },
+        {
+          "type": "Wall Decor",
+          "features": [
+            "Blue and gold pattern",
+            "Carved wooden elements integrated within"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Painted with metallic gold accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark wood tones",
+          "Blue",
+          "Gold",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Concealed, ambient lighting, influencing a warm and inviting atmosphere",
+        "texture": "Combination of smooth and carved textures"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian with Rajasthan influence",
+        "traditional_elements": [
+          "Carved wooden detailing",
+          "Teak wood"
+        ],
+        "modern_adaptations": [
+          "Integration of modern paint and metal finishes"
+        ],
+        "space_utilization": "Efficient use of vertical and horizontal space with decorative elements",
+        "cultural_significance": "Use of blue and gold signifies royalty and opulence in Indian culture, often seen in royal and temple interiors"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior depicts a traditional Indian bedroom, characterized by richly carved wooden doors and walls adorned with blue and gold patterns, emphasizing cultural and regional aesthetics. The use of teak wood and detailed carvings reflects northern Indian, possibly Rajasthan, design influences, while the modern paint and metallic gold accents indicate a contemporary adaptation. The space is organized to enhance visual appeal and cultural significance, with an emphasis on symmetry and decorative elements.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Traditional design",
+          "Rajasthan style",
+          "Carved wood",
+          "Blue and gold decor"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary function is rest and relaxation, with decorative elements serving both aesthetic and cultural purposes",
+        "indian_specific": "Traditional furniture styles and regional color palettes"
+      }
+    }
+  },
+  "cached_at": 1754907790386,
+  "cache_key": "40eb61fa6666f64a2658f045801c30d4"
+}

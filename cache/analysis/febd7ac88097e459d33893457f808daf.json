@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/569/image_cropper_1729079648618.jpg",
+  "analysis": {
+    "image_id": "img_217",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Indo-Western",
+      "primary_features": [
+        "Wall unit with shelves",
+        "Teak wood furniture",
+        "Black finish TV unit"
+      ],
+      "objects": [
+        {
+          "type": "Wall unit with shelves",
+          "features": [
+            "Grid design",
+            "Vertical shelves"
+          ],
+          "materials": [
+            "Teak wood",
+            "Metal"
+          ],
+          "finish": "Teak wood with a polished, natural finish; metal with a brushed finish"
+        },
+        {
+          "type": "Teak wood furniture",
+          "features": [
+            "Low storage units",
+            "Dark finish"
+          ],
+          "materials": "Teak wood",
+          "finish": "Polished teak wood with a dark varnish"
+        },
+        {
+          "type": "Black finish TV unit",
+          "features": [
+            "Simple, elegant design",
+            "Integrated storage"
+          ],
+          "materials": "Wood with a dark finish",
+          "finish": "Wood with a high-gloss black finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teak wood",
+          "Black",
+          "Natural grid pattern"
+        ],
+        "materials": [
+          "Teak wood",
+          "Metal",
+          "Wood with dark finish"
+        ],
+        "lighting": "Indirect lighting highlighting the wall unit and TV unit",
+        "texture": "Smooth surfaces with a polished finish"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Teak wood furniture"
+        ],
+        "modern_adaptations": [
+          "Indo-Western design with contemporary storage solutions"
+        ],
+        "space_utilization": "Efficient use of vertical space with wall unit and storage units",
+        "cultural_significance": "Teak wood is a traditional material in Indian interiors, symbolizing durability and cultural heritage, while the wall unit design reflects modern adaptations in interior design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.9,
+        "primary_features": 0.92,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern interpretation of traditional Indian interior design, specifically a combination of Indo-Western and Maharashtra regional styles. The space features a wall unit with shelves made of teak wood, exhibiting a polished natural finish. The unit integrates modern storage solutions with the use of vertical shelves and a black finish TV unit, reflecting contemporary design trends. The overall color palette is dominated by teak wood and black, creating a sophisticated and elegant ambiance.",
+      "metadata": {
+        "tags": [
+          "Maharashtra",
+          "Indo-Western",
+          "Teak wood",
+          "Wall unit",
+          "Television unit",
+          "Modern Indian design"
+        ],
+        "budget_indicator": "Moderate, with the use of teak wood and metal, suggesting a mid-range budget.",
+        "space_type": "Living Room",
+        "functionality": "Entertainment and storage",
+        "indian_specific": "Teak wood furniture, modern adaptation of traditional design"
+      }
+    }
+  },
+  "cached_at": 1754907721265,
+  "cache_key": "febd7ac88097e459d33893457f808daf"
+}

@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.19%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_085",
+    "ai_generated_tags": {
+      "room": "Entryway or foyer",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Integrated storage unit",
+        "Decorative shelves",
+        "Built-in desk"
+      ],
+      "objects": [
+        {
+          "type": "Desk",
+          "features": [
+            "Curved design",
+            "Integrated into storage unit"
+          ],
+          "materials": [
+            "Wooden top",
+            "Metal frame"
+          ],
+          "finish": "Matte finish on wood top, metallic sheen on frame"
+        },
+        {
+          "type": "Shelves",
+          "features": [
+            "Green paneling",
+            "Decorative items placed"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Metal brackets"
+          ],
+          "finish": "Matte finish on wood, metallic finish on brackets"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Cream",
+          "Green",
+          "Brown",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Cork"
+        ],
+        "lighting": "Natural light from the entrance",
+        "texture": "Smooth surfaces on walls, shelves, and desk"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, more modern",
+        "traditional_elements": [
+          "Decorative shelves with items"
+        ],
+        "modern_adaptations": [
+          "Integrated storage solutions"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Cultural relevance through use of natural materials and functional design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern entryway or foyer with an integrated desk and storage unit. The design incorporates Indian traditional elements like decorative shelves, but the overall aesthetic is contemporary. The use of natural wood and metallic accents is a nod to traditional Indian design, while the functional layout and clean lines suggest a modern adaptation. The space is designed for efficiency and comfort, utilizing vertical space effectively and providing a functional area for work or personal use.",
+    "metadata": {
+      "tags": [
+        "Entryway",
+        "Foyer",
+        "Modern",
+        "Indian Influences",
+        "Integrated Storage",
+        "Decorative Shelves"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Personal work or storage space",
+      "indian_specific": "Use of natural wood and metallic accents"
+    }
+  },
+  "cached_at": 1754905189946,
+  "cache_key": "61bdc21ff148387341889b5b7d077b4b"
+}

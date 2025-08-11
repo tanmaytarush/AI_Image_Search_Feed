@@ -1,0 +1,128 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.38%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_079",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Cupboards with pink and wood tones",
+        "Marble countertops",
+        "Integrated appliances",
+        "Open shelving",
+        "Rounded dining table",
+        "Pendant lighting"
+      ],
+      "objects": [
+        {
+          "type": "Pendant light",
+          "features": [
+            "Circular design",
+            "Black frame with gold accents"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Cupboard",
+          "features": [
+            "Pink and wood tone with high-gloss finish",
+            "Integrated handles"
+          ],
+          "materials": [
+            "Wood and MDF"
+          ],
+          "finish": "High-gloss Lacquer"
+        },
+        {
+          "type": "Marble Countertop",
+          "features": [
+            "White marble with gold veins",
+            "Large surface area"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Integrated Appliance",
+          "features": [
+            "Refrigerator and microwave oven"
+          ],
+          "materials": [
+            "Stainless steel and metal"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Open Shelving",
+          "features": [
+            "Wooden shelves with decorative items"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Dining Table",
+          "features": [
+            "Rounded edges",
+            "Transparent glass top"
+          ],
+          "materials": [
+            "Glass and metal"
+          ],
+          "finish": "Transparent glass and metallic frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink, White, Gold, Black, Wood tone"
+        ],
+        "materials": [
+          "Marble, Wood, Metal, MDF"
+        ],
+        "lighting": "Natural light with pendant lighting",
+        "texture": "Glossy, Marble, Wooden"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Pink and wood tone cupboards, modern appliances, glossy finishes"
+        ],
+        "space_utilization": "Efficient use of space with open shelving and integrated appliances",
+        "cultural_significance": "Modern interpretation of Indian color palette with pink and wood tones"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern kitchen with Indian design elements, featuring pink and wood tone cupboards, marble countertops, and integrated appliances. The space is well-lit with both natural and pendant lighting, and includes modern interpretations of traditional Indian color schemes. The kitchen is efficiently organized with open shelving and a rounded dining table, reflecting a contemporary yet culturally sensitive design approach.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Kitchen",
+        "Pink and Wood Tones",
+        "Marble Countertops",
+        "Integrated Appliances",
+        "Cultural Design"
+      ],
+      "budget_indicator": "Moderate to high, due to the use of high-gloss finishes and marble countertops",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary focus is on storage, appliance integration, and dining",
+      "indian_specific": "Pink and wood tones, modern interpretation of traditional elements"
+    }
+  },
+  "cached_at": 1754904188383,
+  "cache_key": "6e4f411c38656b19ee461a69bb99a964"
+}

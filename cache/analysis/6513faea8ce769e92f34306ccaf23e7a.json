@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/404/image_cropper_1728376658428.jpg",
+  "analysis": {
+    "image_id": "img_240",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian Home Office",
+      "primary_features": [
+        "Built-in storage shelves",
+        "Compact desk setup",
+        "Contemporary lighting fixture",
+        "Minimalist decor"
+      ],
+      "objects": [
+        {
+          "type": "Desk",
+          "features": [
+            "Compact design",
+            "Sliding drawers",
+            "Integrated storage"
+          ],
+          "materials": [
+            "Wooden top, metal frame"
+          ],
+          "finish": "Wood grain texture, metallic sheen"
+        },
+        {
+          "type": "Shelves",
+          "features": [
+            "Built-in, wall-mounted",
+            "Open design for display",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Dark, polished wood"
+        },
+        {
+          "type": "Lighting Fixture",
+          "features": [
+            "Modern, sleek design",
+            "Integrated into the shelf unit"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Brown wooden tones",
+          "Dark wood shelves",
+          "Neutral carpet"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Polished surfaces"
+        ],
+        "lighting": "Natural light from the window, supplemented by integrated lighting",
+        "texture": "Smooth walls, textured wood surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional, modern design with Indian influence",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary furniture and lighting, minimal use of traditional elements"
+        ],
+        "space_utilization": "Efficient use of wall space for storage and workspace",
+        "cultural_significance": "Minimal cultural significance, modern interpretation of Indian home office"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern Indian home office with a minimalist design. The space features built-in shelves for storage, a compact desk setup with sliding drawers, and a sleek, integrated lighting fixture. The color palette is predominantly neutral with white walls, dark wood for the shelves, and a brown wooden top on the desk. The design focuses on maximizing space and functionality with a contemporary twist on Indian interior elements.",
+      "metadata": {
+        "tags": [
+          "Modern Home Office",
+          "Indian Interior",
+          "Compact Design",
+          "Built-in Storage"
+        ],
+        "budget_indicator": "Moderate, with the use of quality materials like polished wood and metal",
+        "space_type": "Residential",
+        "functionality": "Primarily used as a home office, with storage and workspace functionality",
+        "indian_specific": "Minimal use of traditional Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1754907992140,
+  "cache_key": "6513faea8ce769e92f34306ccaf23e7a"
+}

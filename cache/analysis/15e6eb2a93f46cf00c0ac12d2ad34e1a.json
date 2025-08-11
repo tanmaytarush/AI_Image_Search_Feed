@@ -1,0 +1,82 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/193/image_cropper_1726818376701.jpg",
+  "analysis": {
+    "image_id": "img_156",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Modern cabinetry",
+        "Marble countertop",
+        "Subtle color palette"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinet",
+          "features": [
+            "Slim design",
+            "Integrated handles",
+            "Modern lines"
+          ],
+          "materials": [
+            "Wood and laminate"
+          ],
+          "finish": "High-gloss finish"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Marble texture",
+            "Polished finish"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue, white, gray, brown"
+        ],
+        "materials": [
+          "Wood, laminate, marble"
+        ],
+        "lighting": "Indirect lighting visible in reflected surfaces",
+        "texture": "Smooth and glossy textures"
+      },
+      "indian_context": {
+        "regional_style": "No clear regional influence",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist style with Indian materials"
+        ],
+        "space_utilization": "Efficient use of space with clean lines",
+        "cultural_significance": "No cultural significance visible"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.9,
+        "objects": 0.88,
+        "indian_context": 0.65
+      },
+      "description": "The image depicts a modern kitchen with clean lines and a minimalist design. The cabinetry is made of wood and laminate with a high-gloss finish, and the countertop is a polished marble. The color palette is subdued with blue, white, gray, and brown tones. There are no visible traditional Indian design elements, and the overall space is optimized for functionality with no cultural significance evident.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Minimalist",
+          "Modern Design",
+          "Clean Lines",
+          "Blue Kitchen"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "No Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1754906835773,
+  "cache_key": "15e6eb2a93f46cf00c0ac12d2ad34e1a"
+}

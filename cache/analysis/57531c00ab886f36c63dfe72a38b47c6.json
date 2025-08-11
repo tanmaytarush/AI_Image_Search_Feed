@@ -1,0 +1,67 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.49%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_014",
+    "ai_generated_tags": {
+      "room": "No room identified",
+      "theme": "Modern",
+      "primary_features": [
+        "Glass sliding doors with metallic accents"
+      ],
+      "objects": [
+        {
+          "type": "Sliding door",
+          "features": [
+            "Glass panels, metallic lines, geometric patterns"
+          ],
+          "materials": [
+            "Glass, metallic"
+          ],
+          "finish": "High-gloss finish on glass, shiny metallic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Grey, gold, white"
+        ],
+        "materials": [
+          "Glass, metal, wood"
+        ],
+        "lighting": "Natural light from outside",
+        "texture": "Smooth surfaces on glass and metal, textured marble floor"
+      },
+      "indian_context": {
+        "regional_style": "No regional style identified",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Combines traditional metallic accents with modern glass and clean lines"
+        ],
+        "space_utilization": "Optimized vertical space with sliding doors",
+        "cultural_significance": "No specific cultural elements observed"
+      },
+      "confidence_scores": {
+        "room": 0.75,
+        "theme": 0.65,
+        "primary_features": 0.85,
+        "objects": 0.95,
+        "indian_context": 0.3
+      },
+      "description": "The image showcases a modern interior design with glass sliding doors featuring metallic accents. The design is sleek and contemporary, utilizing smooth surfaces and geometric patterns. The materials include glass with a high-gloss finish, metallic elements, and a wooden base. The space is optimized for vertical storage or partitioning, with clean lines and a minimalist aesthetic. The absence of traditional Indian elements or cultural motifs suggests a modern interpretation of Indian design",
+      "metadata": {
+        "tags": [
+          "Modern Design",
+          "Glass Doors",
+          "Metal Accents",
+          "Minimalist",
+          "Contemporary"
+        ],
+        "budget_indicator": "Mid to high, due to use of glass and metallic materials",
+        "space_type": "Indoor residential or commercial space",
+        "functionality": "Storage or partitioning solution",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1754895405155,
+  "cache_key": "57531c00ab886f36c63dfe72a38b47c6"
+}

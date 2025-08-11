@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/68/image_cropper_1726507681881.jpg",
+  "analysis": {
+    "image_id": "img_318",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modular and Contemporary",
+      "primary_features": [
+        "Kitchen cabinets with glass doors, stainless steel countertops, backsplash tiles"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Glass doors, modern handles, sleek design"
+          ],
+          "materials": [
+            "Wood (likely teak or maple), glass"
+          ],
+          "finish": "Glossy, smooth surface"
+        },
+        {
+          "type": "Countertops",
+          "features": [
+            "Stainless steel, smooth surface, high durability"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "Polished, reflective"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Tile backsplash, patterned design"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Glossy, textured"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black, white, gray, metallic tones"
+        ],
+        "materials": [
+          "Wood, glass, stainless steel, ceramic tiles"
+        ],
+        "lighting": "Artificial lighting from overhead fixtures, bright and evenly distributed",
+        "texture": "Smooth, glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not Indian-style kitchen",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary design with modern appliances and sleek materials"
+        ],
+        "space_utilization": "Optimally designed for efficient workflow, with minimal storage solutions",
+        "cultural_significance": "No cultural elements visible, as this is a modern kitchen design"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.7,
+        "primary_features": 0.8,
+        "objects": 0.9,
+        "indian_context": 0.1
+      },
+      "description": "This image depicts a modern kitchen with sleek, contemporary design elements. The space features glass-front cabinets, stainless steel countertops, and a tiled backsplash, emphasizing a minimalist and functional aesthetic. There are no visible traditional Indian design elements, indicating a focus on modern, functional space optimization.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "Contemporary",
+          "Minimalist",
+          "Stainless Steel"
+        ],
+        "budget_indicator": "Mid-range to high, due to modern materials and finishes",
+        "space_type": "Residential, kitchen",
+        "functionality": "Primary function is meal preparation, with consideration for workflow efficiency",
+        "indian_specific": "No Indian-specific design features are present"
+      }
+    }
+  },
+  "cached_at": 1754909650878,
+  "cache_key": "0adf3878b072713be67f404350f86017"
+}

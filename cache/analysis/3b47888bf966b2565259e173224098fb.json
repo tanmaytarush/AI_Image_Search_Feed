@@ -1,0 +1,79 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1670/insta_assets_crop_2cebee81-d6ee-4b93-834a-ae76c385411f1951310428043321373.jpg",
+  "analysis": {
+    "image_id": "img_492",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist",
+      "primary_features": [
+        "White cabinets",
+        "Gray flooring",
+        "Marble backsplash"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinet",
+          "features": [
+            "Modern design",
+            "Shaker style",
+            "Integrated handles"
+          ],
+          "materials": [
+            "MDF or particleboard",
+            "Painted finish"
+          ],
+          "finish": "Flat, smooth surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Marble grey"
+        ],
+        "materials": [
+          "MDF/particleboard",
+          "Paint",
+          "Marble"
+        ],
+        "lighting": "Even lighting, no visible light sources",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "None",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with Indian materials and color palettes"
+        ],
+        "space_utilization": "Efficient use of space with cabinets for storage",
+        "cultural_significance": "Indian context may be implied through the use of traditional Indian colors and materials, but this space is purely modern and contemporary"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.78,
+      "primary_features": 0.89,
+      "objects": 0.88,
+      "indian_context": 0.65
+    },
+    "description": "This image depicts a modern kitchen with a minimalist design. The space features white cabinets with a shaker style, integrated handles, and a gray tiled floor. The backsplash is a marble-like material, adding a touch of elegance. The room is well-lit with even lighting, and the overall color palette is composed of white, gray, and a subtle marble tone. The design is contemporary with no overt Indian regional influences, but the use of white and gray could be influenced by Indian color palettes. The space is organized to optimize storage and functionality, with cabinets for storage and a tiled floor for easy cleaning.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Minimalist",
+        "Modern",
+        "White Cabinets",
+        "Gray Flooring",
+        "Marble Backsplash"
+      ],
+      "budget_indicator": "Moderate, due to the use of MDF/particleboard and standard paint",
+      "space_type": "Residential",
+      "functionality": "Cabinet storage for kitchen items",
+      "indian_specific": "Minimal Indian-specific design features, but potential influence of white and gray color palettes"
+    }
+  },
+  "cached_at": 1754912200735,
+  "cache_key": "3b47888bf966b2565259e173224098fb"
+}

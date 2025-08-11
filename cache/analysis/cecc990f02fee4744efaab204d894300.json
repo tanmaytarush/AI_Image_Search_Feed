@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/166/image_cropper_1726717399373.jpg",
+  "analysis": {
+    "image_id": "img_192",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Indian Modern",
+      "primary_features": [
+        "Exquisite wall decor with marble and brass elements",
+        "Laminate flooring",
+        "Modern lighting fixtures"
+      ],
+      "objects": [
+        {
+          "type": "Marble Wall Panel",
+          "features": [
+            "White marble with intricate black inlay",
+            "Elegant brass details"
+          ],
+          "materials": [
+            "Marble",
+            "Brass"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Laminate Flooring",
+          "features": [
+            "Smooth and glossy finish"
+          ],
+          "materials": [
+            "Laminate"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Modern Lighting Fixture",
+          "features": [
+            "Contemporary design with LED lights"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Textured metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Brown",
+          "Silver"
+        ],
+        "materials": [
+          "Marble",
+          "Brass",
+          "Laminate",
+          "Metal"
+        ],
+        "lighting": "Artificial, soft and ambient lighting",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional",
+        "traditional_elements": [
+          "Marble inlay patterns"
+        ],
+        "modern_adaptations": [
+          "Brass accents in modern design"
+        ],
+        "space_utilization": "Open and well-organized space",
+        "cultural_significance": "Marble and brass are often associated with wealth and tradition in Indian culture"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space features a modern interpretation of Indian design, utilizing traditional materials like marble and brass in a contemporary setting. The marble wall panel with intricate inlay is a focal point, complemented by glossy laminate flooring and modern lighting, reflecting a blend of traditional and contemporary aesthetics.",
+      "metadata": {
+        "tags": [
+          "Indian Modern",
+          "Marble Wall",
+          "Brass Accents",
+          "Contemporary Design"
+        ],
+        "budget_indicator": "Moderate to high, as marble and brass are premium materials.",
+        "space_type": "Living Room",
+        "functionality": "Entertainment or relaxation area",
+        "indian_specific": "Traditional marble inlay and brass accents"
+      }
+    }
+  },
+  "cached_at": 1754907202084,
+  "cache_key": "cecc990f02fee4744efaab204d894300"
+}

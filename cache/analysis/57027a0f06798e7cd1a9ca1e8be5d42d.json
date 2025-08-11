@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/460/image_cropper_1728648164909.jpg",
+  "analysis": {
+    "image_id": "img_403",
+    "ai_generated_tags": {
+      "room": "Closet or wardrobe",
+      "theme": "Modern Indian Interior Design",
+      "primary_features": [
+        "Glass sliding doors",
+        "Wooden shelves",
+        "Metal frame"
+      ],
+      "objects": [
+        {
+          "type": "Clothing rack",
+          "features": [
+            "Hangers for organizing clothes"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal surface"
+        },
+        {
+          "type": "Shelving unit",
+          "features": [
+            "Wooden shelves for storage"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "Silver (metal)",
+          "White (glass doors)"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Ambient lighting from unseen sources, likely overhead",
+        "texture": "Smooth wood, polished metal, clear glass"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but hints of modern Indian design",
+        "traditional_elements": [
+          "Missing traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Use of contemporary materials and minimal design"
+        ],
+        "space_utilization": "Efficiently organized wardrobe space with clear delineation between shelves and hanging area",
+        "cultural_significance": "Design reflects a modern interpretation of Indian interior aesthetics, focusing on functionality and minimalism"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern, minimalist wardrobe setup in an Indian interior, characterized by sleek glass sliding doors, a wooden shelving unit, and a metal-framed structure. The design blends contemporary materials like glass and metal with the natural wood finish, reflecting a contemporary take on Indian home decor. The space is well-organized, with a focus on efficient use of vertical space for hanging and storing clothes.",
+      "metadata": {
+        "tags": [
+          "Minimalist design",
+          "Indian interior design",
+          "Modern wardrobe",
+          "Wooden shelves",
+          "Glass doors"
+        ],
+        "budget_indicator": "Moderate, with the use of modern materials like glass and metal, but affordable as it is a common design approach in contemporary Indian homes",
+        "space_type": "Residential (wardrobe in a bedroom or hallway)",
+        "functionality": "Primary purpose is storage and organization of clothing",
+        "indian_specific": "Design elements are modern interpretations of Indian design, focusing on functionality and simplicity"
+      }
+    }
+  },
+  "cached_at": 1754911173619,
+  "cache_key": "57027a0f06798e7cd1a9ca1e8be5d42d"
+}

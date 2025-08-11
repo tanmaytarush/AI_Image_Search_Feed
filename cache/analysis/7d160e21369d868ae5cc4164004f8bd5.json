@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-06-13%20at%2016.07.32%20%281%29.jpeg",
+  "analysis": {
+    "image_id": "img_429",
+    "ai_generated_tags": {
+      "room": "Entrance Hall",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden wall paneling",
+        "Sliding glass doors",
+        "Modern cabinetry"
+      ],
+      "objects": [
+        {
+          "type": "Sliding glass door",
+          "features": [
+            "Translucent glass panels",
+            "Silver handle"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Smooth, reflective"
+        },
+        {
+          "type": "Wooden wall paneling",
+          "features": [
+            "Horizontal grain pattern",
+            "Rich brown color"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Cabinetry",
+          "features": [
+            "Sliding doors",
+            "White panels",
+            "Modern handles"
+          ],
+          "materials": [
+            "Painted wood",
+            "Metal"
+          ],
+          "finish": "Glossy white"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "White",
+          "Silver"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light",
+        "texture": "Smooth, glossy"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, leans toward urban contemporary style",
+        "traditional_elements": [
+          "Absence of traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Modern interpretation of traditional Indian materials (e.g., wood and glass)"
+        ],
+        "space_utilization": "Efficient use of space with storage and functional design",
+        "cultural_significance": "Cultural relevance through use of natural materials and clean lines, reflecting modern Indian design sensibilities"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.85,
+      "primary_features": 0.92,
+      "objects": 0.92,
+      "indian_context": 0.8
+    },
+    "description": "This space showcases a modern interpretation of Indian interior design, utilizing elements like wood for warmth and modern cabinetry for functionality. The sliding glass doors and sleek cabinetry reflect a contemporary approach while the rich wood tones add a touch of traditional Indian aesthetic. The space is designed for efficiency with storage and a welcoming entrance feel.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Urban contemporary",
+        "Wood paneling",
+        "Glass doors",
+        "Storage cabinetry"
+      ],
+      "budget_indicator": "Moderate, with the use of quality materials like wood and glass",
+      "space_type": "Entrance Hall/Entryway",
+      "functionality": "Entrance/Storage",
+      "indian_specific": "Focus on natural materials with modern design"
+    }
+  },
+  "cached_at": 1754911475571,
+  "cache_key": "7d160e21369d868ae5cc4164004f8bd5"
+}

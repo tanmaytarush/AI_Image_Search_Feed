@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/2.png",
+  "analysis": {
+    "image_id": "img_590",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Arched wooden doorframe",
+        "Wall-mounted coat rack",
+        "Textile stools",
+        "Artwork with botanical patterns",
+        "Simple wall sconces"
+      ],
+      "objects": [
+        {
+          "type": "Wall-mounted coat rack",
+          "features": [
+            "White top, black base, minimalist design"
+          ],
+          "materials": [
+            "White marble top, black metal base"
+          ],
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Textile stools",
+          "features": [
+            "Circular, cushioned, wooden legs"
+          ],
+          "materials": [
+            "Polyester upholstery, wood legs"
+          ],
+          "finish": "Textured upholstery, natural wood finish"
+        },
+        {
+          "type": "Artwork",
+          "features": [
+            "Botanical patterns, framed"
+          ],
+          "materials": [
+            "Paper or canvas, wooden frame"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Wall sconces",
+          "features": [
+            "Modern style, linear design, single bulb"
+          ],
+          "materials": [
+            "Metal, glass"
+          ],
+          "finish": "Brushed metal, clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, beige, brown, black, green, yellow"
+        ],
+        "materials": [
+          "Marble, metal, wood, glass, textile"
+        ],
+        "lighting": "Soft, ambient, with wall-mounted linear sconces",
+        "texture": "Smooth surfaces, textured stools, glossy marble"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but incorporates elements of contemporary Indian design",
+        "traditional_elements": [
+          "Architectural details of the doorframe"
+        ],
+        "modern_adaptations": [
+          "Integration of modern design elements like wall sconces and minimalist coat rack"
+        ],
+        "space_utilization": "Efficient use of a small space with functional and decorative elements",
+        "cultural_significance": "The use of botanical patterns and natural materials reflects a connection to nature, a common theme in Indian design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian-designed entryway featuring a contemporary aesthetic. The space incorporates clean lines, natural materials, and a minimalist approach. Key elements include an arched wooden doorframe, a wall-mounted coat rack with a white marble top and black metal base, and two textile stools with a natural wood finish. The walls are adorned with framed botanical artwork, adding a touch of traditional Indian motif. The lighting is soft and ambient, provided by wall-mounted linear sconces, complementing the neutral color palette of white, beige, brown, and black. The overall design balances traditional elements with modern interpretations, resulting in a harmonious and stylish entryway.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Entryway",
+        "Marble",
+        "Textile",
+        "Botanical Artwork",
+        "Arched Doorframe"
+      ],
+      "budget_indicator": "Moderate, with the use of quality materials like marble and metallic finishes, but also cost-effective elements like textiles and simple sconces",
+      "space_type": "Residential",
+      "functionality": "A functional space for entry and minor storage",
+      "indian_specific": "Integration of botanical patterns and natural wood elements"
+    }
+  },
+  "cached_at": 1754914507406,
+  "cache_key": "cad7b6fb498f67119c96f53d8b50656d"
+}

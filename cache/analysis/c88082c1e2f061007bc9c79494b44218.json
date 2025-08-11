@@ -1,0 +1,111 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/651/image_cropper_1729169556835.jpg",
+  "analysis": {
+    "image_id": "img_104",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Wall-mounted cabinets",
+        "Storage drawers",
+        "Countertop",
+        "Sink"
+      ],
+      "objects": [
+        {
+          "type": "Wall-mounted cabinets",
+          "features": [
+            "Rectangular",
+            "Blue color",
+            "White interior"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Storage drawers",
+          "features": [
+            "Underneath countertop",
+            "Silver handles"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "White",
+            "Smooth surface"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Undermount",
+            "White color"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White",
+          "Gray"
+        ],
+        "materials": [
+          "Painted wood",
+          "Marble",
+          "Metal"
+        ],
+        "lighting": "Natural light from outside the frame",
+        "texture": "Smooth and glossy"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "No traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Integration of Indian color schemes (blue, white) in modern design"
+        ],
+        "space_utilization": "Efficient use of vertical space with wall-mounted cabinets",
+        "cultural_significance": "Minimal cultural relevance, modern Indian kitchen"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.92,
+        "indian_context": 0.8
+      },
+      "description": "The image depicts a modern Indian kitchen with a focus on efficient space utilization and a blend of traditional and contemporary design elements. The kitchen features wall-mounted cabinets painted in a vibrant blue, with white interiors, and silver handles on storage drawers. The countertop is a smooth, polished marble, and the sink is an undermount design. The color palette is predominantly blue and white, reflecting a modern interpretation of traditional Indian designs.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Blue Cabinets",
+          "White Marble",
+          "Silver Handles",
+          "Efficient Space"
+        ],
+        "budget_indicator": "Moderate, due to the use of polished marble and painted wood",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for food preparation and storage",
+        "indian_specific": "Integration of blue and white color schemes from traditional Indian interiors"
+      }
+    }
+  },
+  "cached_at": 1754905914795,
+  "cache_key": "c88082c1e2f061007bc9c79494b44218"
+}

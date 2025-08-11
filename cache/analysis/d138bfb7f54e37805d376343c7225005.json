@@ -1,0 +1,68 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1742/insta_assets_crop_61ed13b0-70c8-44f6-b663-2a5974a84e121046926242148801678.jpg",
+  "analysis": {
+    "image_id": "img_453",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern with Indian Influence",
+      "primary_features": [
+        "Glass frosted partition",
+        "Modern light fixture"
+      ],
+      "objects": [
+        {
+          "type": "Glass Partition",
+          "features": [
+            "Frosted texture",
+            "Sliding mechanism"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Frosted"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Frosted glass"
+        ],
+        "materials": [
+          "Glass"
+        ],
+        "lighting": "Modern light fixture with warm light",
+        "texture": "Frosted glass texture"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Frosted glass as space divider, modern light fixture"
+        ],
+        "space_utilization": "Optimized space use with frosted glass partition for privacy",
+        "cultural_significance": "Not applicable"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.8,
+        "objects": 0.9,
+        "indian_context": 0.6
+      },
+      "description": "The image depicts a modern bathroom interior with a frosted glass partition, blending contemporary aesthetics with a hint of Indian design. The frosted glass adds an element of privacy while maintaining lightness, which is a common practice in modern Indian interiors to preserve the openness of the space. The modern lighting fixture complements the contemporary feel, yet the frosted glass partition subtly hints at a cultural influence through its use as a space divider.",
+      "metadata": {
+        "tags": [
+          "Modern Bathroom",
+          "Frosted Glass Partition",
+          "Contemporary Design"
+        ],
+        "budget_indicator": "Moderate, as frosted glass is a cost-effective material option",
+        "space_type": "Residential Bathroom",
+        "functionality": "Privacy and space optimization",
+        "indian_specific": "Subtle modern adaptation of traditional space divider technique"
+      }
+    }
+  },
+  "cached_at": 1754911748639,
+  "cache_key": "d138bfb7f54e37805d376343c7225005"
+}

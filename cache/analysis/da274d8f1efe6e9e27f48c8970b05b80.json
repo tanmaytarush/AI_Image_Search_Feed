@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00550.JPG",
+  "analysis": {
+    "image_id": "img_386",
+    "ai_generated_tags": {
+      "room": "Balcony",
+      "theme": "Contemporary with Traditional Indian Influences",
+      "primary_features": [
+        "Tile flooring",
+        "Decorative ceiling tiles",
+        "Potted plants",
+        "Wall-mounted shelves",
+        "Decorative railings"
+      ],
+      "objects": [
+        {
+          "type": "Potted plants",
+          "features": [
+            "Green foliage, varied shapes and sizes"
+          ],
+          "materials": [
+            "Plastic pots"
+          ],
+          "finish": "Shiny"
+        },
+        {
+          "type": "Decorative shelves",
+          "features": [
+            "Wall-mounted",
+            "Stone-like texture"
+          ],
+          "materials": [
+            "Artificial stone"
+          ],
+          "finish": "Textured"
+        },
+        {
+          "type": "Decorative railings",
+          "features": [
+            "White metal with golden accents"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Painted white with gold detailing"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Green",
+          "Gold",
+          "Red"
+        ],
+        "materials": [
+          "Tile",
+          "Metal",
+          "Plastic",
+          "Artificial stone"
+        ],
+        "lighting": "Natural light from the ceiling and window",
+        "texture": "Tile with a wood-like texture, metal railings, artificial stone"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Decorative railings"
+        ],
+        "modern_adaptations": [
+          "Tile flooring with a wood-like texture"
+        ],
+        "space_utilization": "Open and well-ventilated with a focus on indoor greenery and decorative elements",
+        "cultural_significance": "The decorative railings and potted plants reflect an emphasis on aesthetics and the use of natural elements, which is common in South Indian architecture and design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This balcony features a contemporary design with traditional Indian influences. The space includes a wall-mounted stone-like shelf with potted plants, decorative metal railings with gold accents, and a ceiling with intricate tile patterns. The use of materials such as white metal, artificial stone, and wooden-like tile flooring is characteristic of modern interpretations of traditional Indian design elements. The inclusion of greenery and the focus on natural light contribute to a welcoming and serene atmosphere.",
+    "metadata": {
+      "tags": [
+        "Balcony",
+        "Contemporary",
+        "Traditional Indian",
+        "Decorative Railings",
+        "Potted Plants",
+        "South Indian"
+      ],
+      "budget_indicator": "Mid-range, with the use of materials like metal railings and decorative stone shelves, as well as potted plants.",
+      "space_type": "Residential",
+      "functionality": "Relaxation and indoor gardening",
+      "indian_specific": "Decorative railings and use of artificial stone"
+    }
+  },
+  "cached_at": 1754910649068,
+  "cache_key": "da274d8f1efe6e9e27f48c8970b05b80"
+}

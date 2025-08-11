@@ -1,0 +1,68 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/941/image_cropper_1729350738583.jpg",
+  "analysis": {
+    "image_id": "img_408",
+    "ai_generated_tags": {
+      "room": "Living Area",
+      "theme": "Sarai Style",
+      "primary_features": [
+        "Circular patterned wall hanging"
+      ],
+      "objects": [
+        {
+          "type": "Wall Hanging",
+          "features": [
+            "Circular design with concentric patterns, golden tones"
+          ],
+          "materials": [
+            "Possible use of fabric with metallic embellishments"
+          ],
+          "finish": "Metallic sheen, intricate detailing"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown, gold"
+        ],
+        "materials": [
+          "Fabric, metallic threads"
+        ],
+        "lighting": "Ambient lighting, possibly from natural light source",
+        "texture": "Smooth fabric with textured patterns"
+      },
+      "indian_context": {
+        "regional_style": "Gujarati Sarai Style",
+        "traditional_elements": [
+          "Circular geometric patterns"
+        ],
+        "modern_adaptations": [],
+        "space_utilization": "Wall space being used for decorative purposes",
+        "cultural_significance": "The circular patterns often symbolize the sun or the moon in Indian culture, representing a central theme of unity and prosperity"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.88,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a wall hanging with a sarai-style design, characterized by its circular patterns and gold accents. The sarai style originates from Gujarati interiors and is known for its intricate geometric designs that blend traditional craftsmanship with contemporary aesthetics. The wall hanging is likely made of fabric with metallic threads, creating a luxurious and eye-catching piece that adds a touch of cultural significance to the living area. The dark brown background contrasts beautifully with the golden patterns, emphasizing the design's ornate details.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Sarai style",
+          "Gujarati design",
+          "Wall hanging",
+          "Circular patterns",
+          "Gold accents"
+        ],
+        "budget_indicator": "Mid to high, due to the use of metallic threads and possibly fabric with intricate embroidery",
+        "space_type": "Living Area",
+        "functionality": "Decorative purpose",
+        "indian_specific": "Circular geometric patterns, metallic embellishments"
+      }
+    }
+  },
+  "cached_at": 1754911234402,
+  "cache_key": "2058ddb57a8eec34dcccfcef946c5020"
+}

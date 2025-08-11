@@ -1,0 +1,74 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/468/image_cropper_1729262047080.jpg",
+  "analysis": {
+    "image_id": "img_166",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Traditional Elements",
+      "primary_features": [
+        "Wooden floor",
+        "Wooden furniture",
+        "Decorative elements"
+      ],
+      "objects": [
+        {
+          "type": "Furniture",
+          "features": [
+            "Curved design",
+            "Wooden texture"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "White (walls)",
+          "Green (rug)"
+        ],
+        "materials": [
+          "Teak",
+          "Painted walls",
+          "Rug"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth wood texture, soft rug surface"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly identifiable",
+        "traditional_elements": [
+          "Carved wooden furniture"
+        ],
+        "modern_adaptations": [],
+        "space_utilization": "Compact and functional, maximizing small space",
+        "cultural_significance": "Traditional wooden furniture often symbolizes wealth and status in Indian homes"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This living room features a contemporary design with traditional Indian elements. The wooden furniture and floor suggest a modern interpretation of traditional materials, while the curved design and natural finish add a stylish, minimalist touch. The room is illuminated by natural light from a window, and a green rug adds a pop of color to the otherwise neutral palette.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Contemporary furniture",
+          "Wooden floor",
+          "Natural light",
+          "Compact living space"
+        ],
+        "budget_indicator": "Mid-range, due to the use of teak wood and natural finishes.",
+        "space_type": "Residential living area",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "Contemporary adaptation of traditional teak furniture"
+      }
+    }
+  },
+  "cached_at": 1754906932983,
+  "cache_key": "d50eff02d76dcf8100ef3cb76f8301ee"
+}

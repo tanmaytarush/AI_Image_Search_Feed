@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/224/image_cropper_1727018446307.jpg",
+  "analysis": {
+    "image_id": "img_303",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Lighting cabinets",
+        "Linen cabinet",
+        "Counter space",
+        "Sink"
+      ],
+      "objects": [
+        {
+          "type": "Lighting cabinets",
+          "features": [
+            "Vertical structure, sleek design, white finish"
+          ],
+          "materials": [
+            "White painted wood, modern design"
+          ],
+          "finish": "Sleek, glossy white paint"
+        },
+        {
+          "type": "Linen cabinet",
+          "features": [
+            "Horizontal structure, storage space, white finish"
+          ],
+          "materials": [
+            "White painted wood, modern design"
+          ],
+          "finish": "Sleek, glossy white paint"
+        },
+        {
+          "type": "Counter space",
+          "features": [
+            "Integrated with cabinetry, smooth surface, no visible objects"
+          ],
+          "materials": [
+            "White painted wood, modern design"
+          ],
+          "finish": "Sleek, glossy white paint"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Built into counter, stainless steel or similar material"
+          ],
+          "materials": [
+            "Stainless steel or similar material"
+          ],
+          "finish": "Shiny, metallic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, grey, black"
+        ],
+        "materials": [
+          "Painted wood, metal"
+        ],
+        "lighting": "Natural light, artificial lighting from the side",
+        "texture": "Smooth, glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of traditional Indian design with modern materials and aesthetics"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage and counter space",
+        "cultural_significance": "Modern interpretation of Indian style with a focus on functionality and minimalism"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian kitchen with a focus on functionality and minimalism. The kitchen features sleek white lighting cabinets and a linen cabinet, both with a glossy white paint finish, maximizing vertical storage. A built-in counter space with a sink is integrated into the design, emphasizing a clean and contemporary look. The use of modern materials and a lack of traditional Indian elements highlights a contemporary interpretation of Indian design principles.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Kitchen",
+        "Contemporary Design",
+        "Vertical Storage",
+        "Functional Space"
+      ],
+      "budget_indicator": "Mid-range, due to the use of modern materials and finishes",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary purpose is to serve as a cooking and food preparation area",
+      "indian_specific": "Modern interpretation of Indian design with a focus on functionality and minimalism"
+    }
+  },
+  "cached_at": 1754909202762,
+  "cache_key": "85cae41e02b758387b649d0007d49a8d"
+}

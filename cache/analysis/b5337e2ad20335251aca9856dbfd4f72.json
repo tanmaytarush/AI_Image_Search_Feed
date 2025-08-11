@@ -1,0 +1,130 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/680/image_cropper_1729177970341.jpg",
+  "analysis": {
+    "image_id": "img_199",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Double bed with headboard",
+        "Built-in wardrobe",
+        "Ceiling fan",
+        "Glass panel windows",
+        "Artwork on walls"
+      ],
+      "objects": [
+        {
+          "type": "Double bed with headboard",
+          "features": [
+            "Wooden headboard with brass accents",
+            "Contemporary design",
+            "Green textile pillow"
+          ],
+          "materials": [
+            "Wood, brass"
+          ],
+          "finish": "Wood with a polished finish, brass with a shiny finish"
+        },
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Tall and sleek design",
+            "Light wood material"
+          ],
+          "materials": [
+            "Light wood"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Ceiling fan",
+          "features": [
+            "Modern design",
+            "Flush mount"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Shiny metallic finish"
+        },
+        {
+          "type": "Glass panel windows",
+          "features": [
+            "Translucent glass",
+            "Minimalistic design"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear finish"
+        },
+        {
+          "type": "Artwork on walls",
+          "features": [
+            "Abstract designs",
+            "Frameless"
+          ],
+          "materials": [
+            "Paint on canvas"
+          ],
+          "finish": "Glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Green",
+          "Brown",
+          "Blue",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Brass",
+          "Glass",
+          "Paint on canvas",
+          "Metal"
+        ],
+        "lighting": "Natural light from glass windows, artificial lighting from ceiling fan",
+        "texture": "Smooth wood texture, shiny metal, reflective glass, matte paint"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to a regional style, but has elements inspired by regional aesthetics",
+        "traditional_elements": [
+          "Brass accents on headboard",
+          "Carved wooden headboard"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with contemporary furniture",
+          "Use of glass and metal in a traditionally influenced context"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in wardrobe and ceiling fan",
+        "cultural_significance": "The use of brass and wood reflects a blend of traditional materials with modern living"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian bedroom with a contemporary design that incorporates traditional Indian elements. The room features a double bed with a wooden headboard accented with brass detailing, a built-in wardrobe made of light wood, and a ceiling fan with a modern design. The walls are adorned with abstract artwork, and the room is illuminated by natural light from glass windows. The color palette includes white, green, brown, blue, and beige, reflecting a blend of traditional and modern aesthetics. The use of brass and wood highlights the cultural significance of these materials in Indian interiors.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Contemporary",
+        "Wood and Brass",
+        "Built-in Wardrobe",
+        "Glass Windows",
+        "Abstract Artwork"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential Bedroom",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Brass accents and wood"
+    }
+  },
+  "cached_at": 1754907513852,
+  "cache_key": "b5337e2ad20335251aca9856dbfd4f72"
+}

@@ -1,0 +1,70 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/991/image_cropper_14690E24-6C96-4279-A259-3DB166098522-930-0000006B10762046.jpg",
+  "analysis": {
+    "image_id": "img_409",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Framed bed",
+        "Wooden floor"
+      ],
+      "objects": [
+        {
+          "type": "Framed bed",
+          "features": [
+            "Rectangular, wooden frame",
+            "Flat, padded surface"
+          ],
+          "materials": [
+            "Wood",
+            "Foam, fabric"
+          ],
+          "finish": "Smooth, polished wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, white"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric"
+        ],
+        "lighting": "Soft, diffused lighting",
+        "texture": "Smooth, polished wood"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence visible",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary interpretation of traditional Indian wooden furniture"
+        ],
+        "space_utilization": "Minimal, single-purpose space",
+        "cultural_significance": "No culturally significant elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.75,
+        "theme": 0.85,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.6
+      },
+      "description": "This image depicts a contemporary bedroom with a framed bed. The bed features a wooden frame with a flat, padded surface, likely made of foam and fabric. The room has a polished wood finish on the floor, which is typical of modern Indian interior designs. The lighting appears soft and diffused, suggesting a calm and relaxing atmosphere. The overall design is minimal and functional, with no traditional Indian elements visible.",
+      "metadata": {
+        "tags": [
+          "Bedroom",
+          "Contemporary",
+          "Wooden furniture",
+          "Minimal design"
+        ],
+        "budget_indicator": "Moderate, likely due to the use of solid wood and foam padding",
+        "space_type": "Residential (bedroom)",
+        "functionality": "Sleeping and relaxation",
+        "indian_specific": "Contemporary interpretation of traditional Indian wooden furniture"
+      }
+    }
+  },
+  "cached_at": 1754911246235,
+  "cache_key": "11d011ad280b7183fb209252b59562b3"
+}

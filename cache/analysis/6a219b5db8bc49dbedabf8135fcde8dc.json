@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/227/image_cropper_1727029595464.jpg",
+  "analysis": {
+    "image_id": "img_489",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Mod-Indian",
+      "primary_features": [
+        "Fitted bed with patterned upholstery",
+        "Built-in wardrobe with mirrored accent",
+        "Built-in vanity area with polished marble top"
+      ],
+      "objects": [
+        {
+          "type": "Fitted bed",
+          "features": [
+            "Patterned upholstery with traditional motifs",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Fabric",
+            "Wood"
+          ],
+          "finish": "Fabric with a glossy wood frame"
+        },
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Mirror paneling",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Wood",
+            "Mirror"
+          ],
+          "finish": "Glossy wood with reflective mirror"
+        },
+        {
+          "type": "Built-in vanity area",
+          "features": [
+            "Polished marble top",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "Polished marble with glossy wood frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White marble",
+          "Glossy wood",
+          "Neutral tones for the built-in area"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Mirror"
+        ],
+        "lighting": "Soft, ambient lighting with hidden or indirect light sources",
+        "texture": "Smooth marble, glossy wood, and polished mirror surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but with elements of modern-Indian",
+        "traditional_elements": [
+          "Wooden framing",
+          "Mirrored accents"
+        ],
+        "modern_adaptations": [
+          "Fitted bed with modern materials",
+          "Integrated vanity area"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture and storage",
+        "cultural_significance": "Elements such as the mirror and the use of wood reflect traditional Indian interior aesthetics, but the modern adaptation ensures the space is functional and contemporary"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern-Indian style bedroom with a fitted bed, a built-in wardrobe with a mirrored accent, and an integrated vanity area with a polished marble top. The room features a combination of traditional elements like wood framing and mirrors, with modern interpretations such as the use of a fitted bed and integrated furniture. The space is efficiently organized, utilizing built-in storage and functional design elements.",
+    "metadata": {
+      "tags": [
+        "Bedroom",
+        "Modern-Indian",
+        "Fitted Bed",
+        "Builtin Storage",
+        "Marble Surface",
+        "Glossy Wood"
+      ],
+      "budget_indicator": "Moderate, utilizes high-quality materials like marble and polished wood",
+      "space_type": "Residential",
+      "functionality": "Sleeping and dressing area",
+      "indian_specific": "Polished wood and mirror use"
+    }
+  },
+  "cached_at": 1754912155859,
+  "cache_key": "6a219b5db8bc49dbedabf8135fcde8dc"
+}

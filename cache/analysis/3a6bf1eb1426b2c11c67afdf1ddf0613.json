@@ -1,0 +1,84 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/496/image_cropper_1728990974472.jpg",
+  "analysis": {
+    "image_id": "img_471",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Storage cabinet with mirrored shelves",
+        "Built-in bed with wooden frame",
+        "Carved decorative elements on the headboard"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Mirrored doors",
+            "Shelving with lighting"
+          ],
+          "materials": [
+            "Wood, glass"
+          ],
+          "finish": "Matte finish on wood, reflective finish on glass"
+        },
+        {
+          "type": "Bed",
+          "features": [
+            "Carved wooden headboard",
+            "Built-in design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Carved, polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, gray, brown, black"
+        ],
+        "materials": [
+          "Wood, glass, metal"
+        ],
+        "lighting": "Subtle ambient lighting within the cabinet",
+        "texture": "Smooth wood texture, reflective glass"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional but features indicative of traditional Indian craftsmanship",
+        "traditional_elements": [
+          "Carved wooden headboard"
+        ],
+        "modern_adaptations": [
+          "Contemporary use of mirrors and built-in storage"
+        ],
+        "space_utilization": "Efficient use of vertical space with a built-in bed and storage cabinet",
+        "cultural_significance": "The carved headboard represents traditional craftsmanship and attention to detail, which are culturally significant in Indian interiors"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This interior space features a contemporary bedroom with Indian influences, highlighted by a carved wooden headboard and mirrored storage cabinets. The design combines traditional craftsmanship with modern functionality, utilizing space efficiently and incorporating reflective surfaces for a sophisticated look.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Contemporary",
+          "Carved wood",
+          "Mirrored cabinets",
+          "Bedroom design",
+          "Efficient storage"
+        ],
+        "budget_indicator": "Moderate, with a focus on quality materials like wood and glass",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "Carved wooden headboard with traditional design elements"
+      }
+    }
+  },
+  "cached_at": 1754911949927,
+  "cache_key": "3a6bf1eb1426b2c11c67afdf1ddf0613"
+}

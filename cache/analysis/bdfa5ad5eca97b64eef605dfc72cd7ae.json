@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1667/insta_assets_crop_a46907b6-2a50-4ebf-a4a3-da16145e4dfa6263437988023872189.jpg",
+  "analysis": {
+    "image_id": "img_185",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modular",
+      "primary_features": [
+        "Glass partition walls",
+        "Modern fixtures",
+        "Linear lighting"
+      ],
+      "objects": [
+        {
+          "type": "Glass shower door",
+          "features": [
+            "Translucent glass",
+            "Silver metallic frame"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Smooth and shiny"
+        },
+        {
+          "type": "Modern vanity mirror",
+          "features": [
+            "Rectangular shape",
+            "Integrated lighting"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Silver metallic finish, glossy glass"
+        },
+        {
+          "type": "Shelf unit with glass panels",
+          "features": [
+            "Rectangular shape",
+            "Modern design",
+            "Glass panels"
+          ],
+          "materials": [
+            "Metal",
+            "Glass"
+          ],
+          "finish": "Silver metallic finish, transparent glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Silver",
+          "Clear"
+        ],
+        "materials": [
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Modern linear lighting embedded in fixtures",
+        "texture": "Smooth and sleek surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern fixtures with traditional Indian aesthetics"
+        ],
+        "space_utilization": "Efficient use of space with modular design",
+        "cultural_significance": "No traditional Indian elements observed in this modern bathroom design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.85
+    },
+    "description": "The image depicts a modern bathroom interior with a focus on sleek and functional design. The space features glass partition walls, modern fixtures, and linear lighting. The materials used include glass and metal, contributing to a contemporary and minimalist look. There are no traditional Indian design elements present, emphasizing a modern, clean aesthetic.",
+    "metadata": {
+      "tags": [
+        "Modern Bathroom",
+        "Glass Partition",
+        "Linear Lighting",
+        "Minimalist Design"
+      ],
+      "budget_indicator": "Moderate to high, given the use of glass and metal materials",
+      "space_type": "Residential",
+      "functionality": "Private and functional bathroom space",
+      "indian_specific": "No Indian-specific design features visible"
+    }
+  },
+  "cached_at": 1754907126949,
+  "cache_key": "bdfa5ad5eca97b64eef605dfc72cd7ae"
+}

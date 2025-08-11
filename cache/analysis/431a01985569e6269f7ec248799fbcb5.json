@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/690/image_cropper_1729686876657.jpg",
+  "analysis": {
+    "image_id": "img_241",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Fusion",
+      "primary_features": [
+        "Wall-mounted cabinets",
+        "Marble countertop",
+        "Built-in oven"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Modern design with glass panels",
+            "Vertical stripes on doors"
+          ],
+          "materials": [
+            "Teak wood, glass"
+          ],
+          "finish": "Glossy finish on wood, transparent glass"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Marble surface with intricate patterns"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished finish"
+        },
+        {
+          "type": "Oven",
+          "features": [
+            "Built-in design, modern control panel"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "Satin finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, marble tones, teak brown, metallic accents"
+        ],
+        "materials": [
+          "Marble, teak wood, stainless steel"
+        ],
+        "lighting": "Natural light from a large window, artificial overhead lights",
+        "texture": "Smooth surfaces with a mix of smooth and textured marble"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian regional style with modern adaptations",
+        "traditional_elements": [
+          "Marble countertops"
+        ],
+        "modern_adaptations": [
+          "Modern cabinet design, built-in oven"
+        ],
+        "space_utilization": "Efficient use of vertical space with wall-mounted cabinets",
+        "cultural_significance": "Marble countertops symbolize a blend of traditional craftsmanship and modern luxury"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern kitchen with a fusion of traditional and contemporary Indian elements. The space features wall-mounted cabinets with a traditional teak wood and glass finish, blending seamlessly with a sleek marble countertop that exudes a modern touch. The built-in oven and contemporary kitchen equipment indicate a focus on functionality and modernity, yet the use of marble and teak wood adds a cultural touch, typical of Indian design. The lighting and clean lines further enhance the contemporary feel while still maintaining a subtle nod to traditional design principles.",
+    "metadata": {
+      "tags": [
+        "Modern Indian kitchen",
+        "Teak wood",
+        "Marble countertops",
+        "Built-in oven",
+        "Indian fusion design"
+      ],
+      "budget_indicator": "Mid-range to high, due to quality materials like marble and teak.",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is food preparation with a blend of storage and cooking functionalities",
+      "indian_specific": "Indian-specific design features include the use of teak wood and marble, which are traditional materials in Indian interiors."
+    }
+  },
+  "cached_at": 1754908000960,
+  "cache_key": "431a01985569e6269f7ec248799fbcb5"
+}

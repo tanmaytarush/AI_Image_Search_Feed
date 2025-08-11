@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/659/image_cropper_1729169558083.jpg",
+  "analysis": {
+    "image_id": "img_486",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modular Kitchen",
+      "primary_features": [
+        "Modular cabinets with wooden finish",
+        "White countertops",
+        "Recessed lighting",
+        "Countertop with sink"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Rectangular shape",
+            "Wooden finish",
+            "Mirror panels"
+          ],
+          "materials": [
+            "Wood",
+            "Painted finish"
+          ],
+          "finish": "Shiny, lacquered finish"
+        },
+        {
+          "type": "Kitchen countertop",
+          "features": [
+            "White surface",
+            "Sink embedded"
+          ],
+          "materials": [
+            "Marble or solid surface material"
+          ],
+          "finish": "Smooth, polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (cabinets)",
+          "White (countertops)",
+          "Blue (back wall)",
+          "Neutral (ceiling and floor)"
+        ],
+        "materials": [
+          "Wood",
+          "Marble or solid surface",
+          "Painted wood"
+        ],
+        "lighting": "Recessed ceiling lights providing ambient lighting",
+        "texture": "Smooth surfaces with a lacquered finish"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern kitchen design with Indian aesthetics"
+        ],
+        "space_utilization": "Efficient use of space with modular cabinets",
+        "cultural_significance": "No specific cultural elements visible, but modern kitchen designs often reflect practicality and functionality"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern kitchen with a focus on efficiency and functionality. It features wooden cabinets with mirror panels, white countertops, and recessed lighting, creating a clean and organized space. The kitchen design is minimalist, aligning with contemporary Indian trends in kitchen aesthetics.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modular Design",
+          "Wooden Cabinets",
+          "White Countertops",
+          "Recessed Lighting",
+          "Modern Kitchen"
+        ],
+        "budget_indicator": "Moderate, as it includes both wood and marble surfaces",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is food preparation and kitchen storage",
+        "indian_specific": "Minimal Indian-specific design features, but the use of wood and modular design reflects a modern take on efficient kitchen design"
+      }
+    }
+  },
+  "cached_at": 1754912106489,
+  "cache_key": "74d02f68754ed4aaaab4f684c621d746"
+}

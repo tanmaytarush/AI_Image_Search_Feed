@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00496.JPG",
+  "analysis": {
+    "image_id": "img_564",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Ceiling with recessed lighting",
+        "Ceiling fan",
+        "White walls"
+      ],
+      "objects": [
+        {
+          "type": "Ceiling fan",
+          "features": [
+            "Wooden blades",
+            "Metal hub"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White"
+        ],
+        "materials": [
+          "Plasterboard",
+          "Ceiling tiles"
+        ],
+        "lighting": "Recessed LED lights",
+        "texture": "Smooth"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern lighting with traditional fan"
+        ],
+        "space_utilization": "Optimized space with minimalistic design",
+        "cultural_significance": "No traditional Indian elements visible"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.9,
+      "primary_features": 0.95,
+      "objects": 0.92,
+      "indian_context": 0.85
+    },
+    "description": "This image depicts a living room with a modern, minimalist design. The ceiling features recessed lighting with a grid pattern, creating a clean and sophisticated look. A ceiling fan with wooden blades and a metal hub is centrally located, adding a functional yet stylish element. The walls are painted in a plain white, emphasizing the simplicity of the design. The overall aesthetic is contemporary with no visible traditional Indian elements, reflecting a modern interpretation of minimalism.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Living Room",
+        "Ceiling Design",
+        "Modern Ceiling Fan"
+      ],
+      "budget_indicator": "Mid-range, as indicated by the quality of materials and modern design",
+      "space_type": "Residential Living Room",
+      "functionality": "Primary purpose is to provide a comfortable and stylish space",
+      "indian_specific": "No traditional Indian design features are present"
+    }
+  },
+  "cached_at": 1754913868356,
+  "cache_key": "5e37f5707ba6783f41c07ea84f41ae82"
+}

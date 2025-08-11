@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00458.JPG",
+  "analysis": {
+    "image_id": "img_098",
+    "ai_generated_tags": {
+      "room": "Master Bedroom",
+      "theme": "Contemporary Indian with Minimalist Influences",
+      "primary_features": [
+        "Marble flooring",
+        "Sliding wardrobe",
+        "Built-in bed",
+        "Textured ceiling"
+      ],
+      "objects": [
+        {
+          "type": "Built-in bed",
+          "features": [
+            "Tufted headboard",
+            "Marble accents"
+          ],
+          "materials": [
+            "Plywood for frame",
+            "Marble for accents"
+          ],
+          "finish": "Sleek and glossy"
+        },
+        {
+          "type": "Sliding wardrobe",
+          "features": [
+            "Marble front panel",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Marble",
+            "Solid wood"
+          ],
+          "finish": "Sleek and glossy"
+        },
+        {
+          "type": "Textured ceiling",
+          "features": [
+            "Modern design with recessed lights"
+          ],
+          "materials": [
+            "Plasterboard with imprinted texture"
+          ],
+          "finish": "Smooth and shiny"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige marble",
+          "Brown wood",
+          "White curtains",
+          "Blue and white bedspread"
+        ],
+        "materials": [
+          "Marble",
+          "Plywood",
+          "Metal (copper handles)",
+          "Textured plasterboard"
+        ],
+        "lighting": "Natural light from windows, augmented by recessed ceiling lights",
+        "texture": "Smooth marble, glossy wood, textured ceiling, sheer curtains"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional",
+        "traditional_elements": [
+          "Marble accents",
+          "Copper handles"
+        ],
+        "modern_adaptations": [
+          "Textured ceiling",
+          "Built-in furniture"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture and storage",
+        "cultural_significance": "Marble and wood are traditional materials in Indian interiors, symbolizing luxury and heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This master bedroom showcases a contemporary Indian design with minimalist influences. The use of marble flooring and sliding wardrobe with marble front panels adds a luxurious touch. The built-in bed with a tufted headboard and marble accents is both functional and decorative. The textured ceiling and recessed lighting contribute to a modern aesthetic while maintaining a sense of warmth and comfort. Traditional elements like marble and copper are adapted into modern designs, creating a harmonious blend of old and new. Cultural significance is evident in the use of traditional materials and the overall spacious, well-organized design that reflects a modern take on Indian interior design.",
+    "metadata": {
+      "tags": [
+        "Master Bedroom",
+        "Contemporary Indian",
+        "Marble Flooring",
+        "Sliding Wardrobe",
+        "Built-in Furniture",
+        "Textured Ceiling"
+      ],
+      "budget_indicator": "Mid to High",
+      "space_type": "Residential Master Bedroom",
+      "functionality": "Sleeping and Storage",
+      "indian_specific": "Marble accents, copper handles, traditional materials"
+    }
+  },
+  "cached_at": 1754905806677,
+  "cache_key": "259fe5f8b6c16e69cf4c69358425cf8d"
+}

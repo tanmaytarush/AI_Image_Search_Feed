@@ -1,0 +1,115 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.01.18%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_025",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "L-shaped cabinetry",
+        "white marble backsplash",
+        "black countertops",
+        "under-cabinet lighting",
+        "electric stove"
+      ],
+      "objects": [
+        {
+          "type": "Electric stove",
+          "features": [
+            "Modern electric cooktop",
+            "four burners",
+            "sleek black design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Glossy black"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Black granite-like surface",
+            "smooth texture"
+          ],
+          "materials": [
+            "Granite or quartz"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "White marble tiles with grey veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Cabinetry",
+          "features": [
+            "L-shaped design",
+            "light purple matte finish"
+          ],
+          "materials": [
+            "MDF or particleboard"
+          ],
+          "finish": "Matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black",
+          "White",
+          "Purple",
+          "Gold"
+        ],
+        "materials": [
+          "Marble",
+          "Granite",
+          "MDF",
+          "Metal"
+        ],
+        "lighting": "Under-cabinet lighting providing ambient illumination",
+        "texture": "Smooth surfaces with glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence is evident, but the use of marble and clean lines could hint at a contemporary approach to Indian design.",
+        "traditional_elements": [
+          "No traditional Indian elements are visible"
+        ],
+        "modern_adaptations": [
+          "The use of modern materials and minimalist design is a typical modern adaptation"
+        ],
+        "space_utilization": "Efficient use of L-shaped cabinetry to maximize space and functionality",
+        "cultural_significance": "The design focuses on modern efficiency and minimalism rather than cultural or religious significance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.85,
+      "primary_features": 0.88,
+      "objects": 0.92,
+      "indian_context": 0.75
+    },
+    "description": "The image depicts a modern minimalist kitchen with L-shaped cabinetry in a light purple finish, complemented by a white marble backsplash with grey veining. The black countertops and sleek electric stove add a contemporary touch. Under-cabinet lighting provides ambient illumination, enhancing the clean and organized look of the space. There are no traditional Indian elements present, emphasizing a modern, functional design approach.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modern",
+        "Minimalist",
+        "Contemporary",
+        "Purple Cabinets",
+        "White Marble",
+        "Black Countertops"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary purpose is preparation and cooking food, with an emphasis on efficiency and modern design.",
+      "indian_specific": "No Indian-specific design features are visible."
+    }
+  },
+  "cached_at": 1754901923919,
+  "cache_key": "8568dfa5b11d2ab3307d15cc09ba4603"
+}

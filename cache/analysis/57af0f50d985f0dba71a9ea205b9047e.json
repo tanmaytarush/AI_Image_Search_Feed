@@ -1,0 +1,115 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.48.11%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_084",
+    "ai_generated_tags": {
+      "room": "Master Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Modern bed frame",
+        "Faux wood panels",
+        "Textured wall panels",
+        "Geometric wallpaper"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Modern design with curved legs",
+            "Dark wood base",
+            "Light-colored headboard"
+          ],
+          "materials": [
+            "Dark wood",
+            "Light-colored fabric"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Bedside Tables",
+          "features": [
+            "Minimalist design",
+            "Faux wood finish"
+          ],
+          "materials": [
+            "Faux wood"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Wall Panel",
+          "features": [
+            "Rectangular panels",
+            "Faux wood finish"
+          ],
+          "materials": [
+            "Faux wood"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Wallpaper",
+          "features": [
+            "Geometric pattern",
+            "Green and beige colors"
+          ],
+          "materials": [
+            "PVC"
+          ],
+          "finish": "Textured"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige",
+          "Gold",
+          "Green",
+          "White",
+          "Dark Brown"
+        ],
+        "materials": [
+          "Faux wood",
+          "Faux marble",
+          "PVC",
+          "Metal"
+        ],
+        "lighting": "Natural light with recessed lighting in ceiling",
+        "texture": "Smooth surfaces with subtle textures in wallpaper"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly Indian regional style",
+        "traditional_elements": [
+          "Minimal use of traditional elements"
+        ],
+        "modern_adaptations": [
+          "Modern interpretation of Indian design elements"
+        ],
+        "space_utilization": "Efficient use of space with bedside tables and minimal accessories",
+        "cultural_significance": "The use of neutral colors and modern design reflects a contemporary Indian aesthetic that is often seen in urban homes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a contemporary Indian-inspired master bedroom. The design features a modern bed frame with a dark wood base and a light-colored headboard, complemented by minimalist bedside tables with a faux wood finish. The wall is adorned with textured panels in a faux wood finish and a geometric patterned wallpaper in green and beige tones. The room utilizes natural light from a large window covered with sheer white curtains, creating a bright and airy atmosphere. The use of neutral colors and modern design elements reflects a contemporary Indian aesthetic, often seen in urban homes.",
+    "metadata": {
+      "tags": [
+        "Master Bedroom",
+        "Contemporary Indian",
+        "Modern Design",
+        "Faux Wood",
+        "Geometric Wallpaper"
+      ],
+      "budget_indicator": "Medium-high, due to the use of faux wood panels and modern furniture",
+      "space_type": "Residential",
+      "functionality": "Sleeping and relaxation",
+      "indian_specific": "Modern interpretation of Indian design elements"
+    }
+  },
+  "cached_at": 1754905156390,
+  "cache_key": "57af0f50d985f0dba71a9ea205b9047e"
+}

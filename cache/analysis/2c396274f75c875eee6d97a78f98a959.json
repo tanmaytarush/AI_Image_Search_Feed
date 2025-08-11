@@ -1,0 +1,78 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1084/image_cropper_1729578614508.jpg",
+  "analysis": {
+    "image_id": "img_188",
+    "ai_generated_tags": {
+      "room": "Office or home office",
+      "theme": "Modern Indian Interior",
+      "primary_features": [
+        "Modern design with traditional elements",
+        "Symmetrical layout",
+        "Integrated wardrobe design"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Fitted Wardrobe with sliding doors",
+            "Decorative geometric pattern"
+          ],
+          "materials": [
+            "Wooden door with sheen finish",
+            "Metallic hardware"
+          ],
+          "finish": "Sheen finish on doors and smooth metallic hardware"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark wood",
+          "Brown"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Well-lit interior with natural light",
+        "texture": "Smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern adaptation of traditional Indian furniture",
+        "traditional_elements": [
+          "Geometric patterns",
+          "Symmetrical design"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and finishes"
+        ],
+        "space_utilization": "Efficient use of space with integrated wardrobe",
+        "cultural_significance": "Modern interpretation of traditional Indian design for a contemporary space"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian interior design for an office or home office space. The design features a symmetrical layout with a fitted wardrobe that incorporates traditional Indian design elements through geometric patterns. The use of white and dark wood creates a contemporary yet traditional aesthetic. The furniture and materials used are modern interpretations of traditional Indian elements, blending functionality with cultural relevance.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Interior",
+          "Office Design",
+          "Symmetrical Layout",
+          "Fitted Wardrobe",
+          "Traditional Patterns",
+          "Contemporary Indian Design"
+        ],
+        "budget_indicator": "Mid-range, due to the use of modern materials with a focus on traditional design elements",
+        "space_type": "Office or Home Office",
+        "functionality": "Primary purpose is to serve as a workspace or a dedicated area for office activities",
+        "indian_specific": "Integration of traditional Indian design patterns with modern furniture and materials"
+      }
+    }
+  },
+  "cached_at": 1754907154008,
+  "cache_key": "2c396274f75c875eee6d97a78f98a959"
+}

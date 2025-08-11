@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/290/image_cropper_1727357662682.jpg",
+  "analysis": {
+    "image_id": "img_260",
+    "ai_generated_tags": {
+      "room": "living room",
+      "theme": "contemporary",
+      "primary_features": [
+        "modern furniture",
+        "large windows"
+      ],
+      "objects": [
+        {
+          "type": "furniture",
+          "features": [
+            "minimalistic design",
+            "light color scheme",
+            "modern seating"
+          ],
+          "materials": [
+            "wood",
+            "metal"
+          ],
+          "finish": "polished surface"
+        },
+        {
+          "type": "window",
+          "features": [
+            "large glass panes",
+            "horizontal blinds"
+          ],
+          "materials": [
+            "glass",
+            "metal"
+          ],
+          "finish": "transparent and metallic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "neutral tones",
+          "white walls",
+          "wooden flooring"
+        ],
+        "materials": [
+          "wood",
+          "metal",
+          "glass"
+        ],
+        "lighting": "natural light from the large windows",
+        "texture": "smooth surfaces with minimal texture"
+      },
+      "indian_context": {
+        "regional_style": "modern interpretation of Indian design",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "use of modern materials in traditional styles"
+        ],
+        "space_utilization": "optimized space for minimalistic living",
+        "cultural_significance": "modern adaptation of Indian interior design elements"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a contemporary living room with modern furniture and large windows. The space features a minimalist design with neutral colors and smooth surfaces. The furniture appears to be made of wood and metal, with a polished finish. The windows allow ample natural light into the room, enhancing the contemporary feel. There are no traditional Indian elements present, indicating a modern interpretation of Indian interior design.",
+    "metadata": {
+      "tags": [
+        "living room",
+        "contemporary interior",
+        "modern furniture",
+        "large windows",
+        "neutral tones"
+      ],
+      "budget_indicator": "mid-range",
+      "space_type": "residential",
+      "functionality": "primary living space",
+      "indian_specific": "modern adaptation of Indian design elements"
+    }
+  },
+  "cached_at": 1754908414970,
+  "cache_key": "2f0231a9aed6971431469458a29d080b"
+}

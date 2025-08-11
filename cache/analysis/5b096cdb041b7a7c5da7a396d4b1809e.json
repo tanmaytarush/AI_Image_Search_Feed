@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1570/insta_assets_crop_5ae2e1c0-e3ff-4635-b36b-9d05b23fadcd7084070613397781011.jpg",
+  "analysis": {
+    "image_id": "img_295",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Teak wood furniture",
+        "Carved wooden elements",
+        "Marble flooring",
+        "Curtains with intricate patterns"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Settee",
+          "features": [
+            "Hand-carved wooden backrest",
+            "Comfortable cushioning"
+          ],
+          "materials": [
+            "Teak wood",
+            "Cushions"
+          ],
+          "finish": "Natural wood finish with intricate carvings"
+        },
+        {
+          "type": "Marble Flooring",
+          "features": [
+            "Polished marbles with natural variations"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Highly polished"
+        },
+        {
+          "type": "Teak Wood Coffee Table",
+          "features": [
+            "Intricate carvings on the legs and surface"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish with carvings"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teak wood brown",
+          "Marble white",
+          "Curtains with brown and white patterns"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Curtains with silk"
+        ],
+        "lighting": "Natural light from large windows and artificial light from ceiling lights",
+        "texture": "Smooth marble and intricate wood carvings"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra-style",
+        "traditional_elements": [
+          "Intricately carved wooden furniture",
+          "Carved jharokha-like elements"
+        ],
+        "modern_adaptations": [
+          "Integration of modern lighting and electronics"
+        ],
+        "space_utilization": "Optimal use of space with a focus on seating and display areas",
+        "cultural_significance": "The use of traditional wood carving and marble flooring pays homage to the rich craftsmanship associated with the region"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image captures a contemporary Indian living room, blending traditional craftsmanship with modern aesthetics. The space features intricately carved teak wood furniture that showcases regional artistry, paired with polished marble flooring that adds a touch of sophistication. Large windows allow ample natural light, enhancing the overall ambiance. Traditional Indian design elements are evident in the carved wooden settee and coffee table, while modern adaptations, such as the LED lighting, are seamlessly integrated into the space. The cultural significance lies in the use of traditional wood carving and the regional style, reflecting the rich architectural heritage of Maharashtra.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Maharashtra style",
+          "Teak wood furniture",
+          "Marble flooring",
+          "Cultural interior design"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Living and entertainment area",
+        "indian_specific": "Traditional carved wood, marble floor, regional style"
+      }
+    }
+  },
+  "cached_at": 1754909083316,
+  "cache_key": "5b096cdb041b7a7c5da7a396d4b1809e"
+}

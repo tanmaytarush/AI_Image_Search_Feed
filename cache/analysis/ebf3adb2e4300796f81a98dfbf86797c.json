@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.54.43%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_548",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Decorative wooden screen with carved patterns",
+        "Built-in wooden shelves",
+        "Carved wooden door frame"
+      ],
+      "objects": [
+        {
+          "type": "Carved Wooden Screen",
+          "features": [
+            "Decorative cut-out patterns",
+            "Wooden slats for partition"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth polished finish"
+        },
+        {
+          "type": "Wooden Shelves",
+          "features": [
+            "Built-in shelves with open compartments"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished wooden surface"
+        },
+        {
+          "type": "Carved Wooden Door Frame",
+          "features": [
+            "Detailed wood carving",
+            "Glass window panel"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Polished wood and smooth glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Blue"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light from window and artificial ceiling lights",
+        "texture": "Smooth polished surfaces with intricate carvings"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Carved wooden door frame",
+          "Decorative wooden screen"
+        ],
+        "modern_adaptations": [
+          "Built-in shelves",
+          "Contemporary lighting"
+        ],
+        "space_utilization": "Limited storage, primarily used as a transitional space",
+        "cultural_significance": "The carved wooden elements symbolize craftsmanship and cultural heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a contemporary foyer with Indian design elements. The space features a carved wooden screen with intricate patterns, built-in wooden shelves, and a carved wooden door frame with a glass panel. The room utilizes a monochromatic color palette of white and brown, with polished materials and contemporary lighting. The cultural significance lies in the traditional craftsmanship of the wooden elements, which reflect South Indian design influences.",
+    "metadata": {
+      "tags": [
+        "Indian Foyer",
+        "Contemporary Design",
+        "Carved Wood",
+        "South Indian Style",
+        "Decorative Screen"
+      ],
+      "budget_indicator": "Moderate to High",
+      "space_type": "Residential Interior",
+      "functionality": "Transition space for entering the home",
+      "indian_specific": "Carved wooden elements, traditional craftsmanship"
+    }
+  },
+  "cached_at": 1754913437092,
+  "cache_key": "ebf3adb2e4300796f81a98dfbf86797c"
+}

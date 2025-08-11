@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/937/image_cropper_1729350619573.jpg",
+  "analysis": {
+    "image_id": "img_369",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Colorful sliding doors",
+        "Built-in storage unit"
+      ],
+      "objects": [
+        {
+          "type": "Sliding doors",
+          "features": [
+            "Geometric pattern",
+            "Colorful design"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Smooth finish"
+        },
+        {
+          "type": "Built-in storage unit",
+          "features": [
+            "Simple design",
+            "Storage space"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Smooth finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Blue",
+          "Teal",
+          "Gray"
+        ],
+        "materials": [
+          "Painted wood",
+          "Metal hardware"
+        ],
+        "lighting": "Even lighting, no visible light sources",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly indicative of any specific regional style",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with traditional color schemes"
+        ],
+        "space_utilization": "Efficient storage solution with built-in unit",
+        "cultural_significance": "Color palette reflects Indian cultural elements, though not in traditional forms"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.75,
+      "primary_features": 0.85,
+      "objects": 0.88,
+      "indian_context": 0.65
+    },
+    "description": "This image depicts a bedroom with a minimalist design incorporating Indian color influences. The sliding doors feature a geometric pattern in shades of blue and teal, suggesting a nod to traditional Indian aesthetics. The built-in storage unit is a modern interpretation, providing efficient space utilization. The room's overall color palette and door designs reflect a blend of contemporary and traditional Indian design elements.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Indian Color Palette",
+        "Sliding Doors",
+        "Built-in Storage",
+        "Bedroom"
+      ],
+      "budget_indicator": "Moderate, as the materials and finishes suggest a balance between affordability and quality.",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is storage and efficient use of space, typical of a bedroom setting.",
+      "indian_specific": "Color scheme and door design reflect traditional Indian color palettes and geometric patterns."
+    }
+  },
+  "cached_at": 1754910437909,
+  "cache_key": "7a472a4a89bbc5d147ffc05b5914b301"
+}

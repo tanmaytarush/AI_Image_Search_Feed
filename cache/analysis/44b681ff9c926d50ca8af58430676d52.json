@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/307/image_cropper_1727700379835.jpg",
+  "analysis": {
+    "image_id": "img_123",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Ceiling lights",
+        "Rearranged furniture",
+        "Decorative shelves"
+      ],
+      "objects": [
+        {
+          "type": "Furniture - Diwan",
+          "features": [
+            "Carved wooden paneling",
+            "Teak wood construction"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished finish"
+        },
+        {
+          "type": "Shelves",
+          "features": [
+            "Modern glass doors",
+            "Multiple compartments"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Teak brown",
+          "Green",
+          "Brown"
+        ],
+        "materials": [
+          "Teak wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light from large windows",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Diwan"
+        ],
+        "modern_adaptations": [
+          "Glass doors on diwan, modern shelving"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelving",
+        "cultural_significance": "The diwan is a traditional seating area, often used for formal gatherings and ceremonies"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern interpretation of a traditional Indian living room. The space features a diwan, traditionally used for seating, with a polished teak wood finish, reflecting the rich cultural tradition of Indian craftsmanship. Modern elements are integrated, such as glass doors on the diwan and sleek shelving units, blending traditional aesthetics with contemporary design. The use of glass and metal in the shelving offers a touch of modernity, while the white and green color palette is common in Indian interiors, symbolizing purity and nature respectively. The natural light from the windows enhances the warmth of the teak wood, creating a cozy and inviting atmosphere. The space is efficiently organized, with vertical storage solutions maximizing the use of space, a common practice in Indian homes to optimize limited floor area.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Teak wood",
+          "Glass doors",
+          "Living Room",
+          "Vertical storage"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential",
+        "functionality": "Living/Seating area",
+        "indian_specific": "Diwan with modern adaptations"
+      }
+    }
+  },
+  "cached_at": 1754906141762,
+  "cache_key": "44b681ff9c926d50ca8af58430676d52"
+}

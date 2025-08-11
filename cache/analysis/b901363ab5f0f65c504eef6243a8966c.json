@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/8/image_cropper_39674B79-4282-4777-A3CE-B431AA62882C-1402-000001696AD7F75F.jpg",
+  "analysis": {
+    "image_id": "img_374",
+    "ai_generated_tags": {
+      "room": "Guest bedroom",
+      "theme": "Contemporary Indian interior",
+      "primary_features": [
+        "wooden flooring",
+        "white sliding doors",
+        "curved ceiling lights",
+        "mirror on the wall"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe",
+          "features": [
+            "white with modern design"
+          ],
+          "materials": [
+            "wooden"
+          ],
+          "finish": "smooth and glossy"
+        },
+        {
+          "type": "mirror",
+          "features": [
+            "rectangular with a wooden frame"
+          ],
+          "materials": [
+            "wooden with glass"
+          ],
+          "finish": "polished wood and reflective glass"
+        },
+        {
+          "type": "ceiling lights",
+          "features": [
+            "curved with wooden accents"
+          ],
+          "materials": [
+            "wooden with metal"
+          ],
+          "finish": "glossy and metallic"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "brown",
+          "yellow",
+          "blue"
+        ],
+        "materials": [
+          "wood",
+          "metal",
+          "glass",
+          "plastic"
+        ],
+        "lighting": "natural light with accent lighting from ceiling lights",
+        "texture": "smooth and glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "N/A",
+        "traditional_elements": [
+          "N/A"
+        ],
+        "modern_adaptations": [
+          "Mirror with a modern design, curved ceiling lights"
+        ],
+        "space_utilization": "Efficient use of space with a wardrobe and mirror as focal points",
+        "cultural_significance": "N/A"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a contemporary Indian interior, specifically a guest bedroom. The design features a wooden floor and ceiling with a modern twist, highlighted by curved ceiling lights and a sleek wardrobe. The space includes a mirror with a wooden frame, adding a touch of traditional Indian decor. The use of white sliding doors and a blue accent wall adds a contemporary feel. The overall design balances traditional Indian aesthetics with modern elements, making it a blend of old and new.",
+    "metadata": {
+      "tags": [
+        "guest bedroom",
+        "contemporary Indian interior",
+        "wooden floor",
+        "curved lights",
+        "white wardrobe",
+        "mirror"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Modern interpretation of traditional elements like the mirror with a wooden frame"
+    }
+  },
+  "cached_at": 1754910490269,
+  "cache_key": "b901363ab5f0f65c504eef6243a8966c"
+}

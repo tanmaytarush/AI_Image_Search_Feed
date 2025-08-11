@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/690/image_cropper_1729243813946.jpg",
+  "analysis": {
+    "image_id": "img_267",
+    "ai_generated_tags": {
+      "room": "Studio",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Exposed beams",
+        "Modern staircase",
+        "Open space"
+      ],
+      "objects": [
+        {
+          "type": "Staircase",
+          "features": [
+            "Metal railings",
+            "Concrete steps"
+          ],
+          "materials": [
+            "Metal",
+            "Concrete"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Gray"
+        ],
+        "materials": [
+          "Metal",
+          "Concrete"
+        ],
+        "lighting": "Artificial, bright lighting from ceiling fixture",
+        "texture": "Smooth surfaces with clean lines"
+      },
+      "indian_context": {
+        "regional_style": "None",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist style reflects contemporary Indian design trends"
+        ],
+        "space_utilization": "Open and efficient, maximizing use of vertical space",
+        "cultural_significance": "No traditional Indian elements or cultural symbols present"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern minimalist studio with a focus on open spaces and clean lines. The room features an exposed metal staircase with concrete steps, highlighting a contemporary design aesthetic. The use of white, black, and gray colors, along with the lack of traditional Indian design elements, suggests a modern interpretation of Indian design trends, which often emphasize simplicity and functionality.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Studio",
+          "Modern Design",
+          "Exposed Beams",
+          "Concrete Stairs",
+          "Interior Design"
+        ],
+        "budget_indicator": "Moderate to High, given the use of metal and concrete materials",
+        "space_type": "Studio",
+        "functionality": "Living and working space, designed with openness and efficiency in mind",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1754908757598,
+  "cache_key": "e4927aa797f6cf4b8bc955711de87bf5"
+}

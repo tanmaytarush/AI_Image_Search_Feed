@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.57.22%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_558",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Modern bed frame",
+        "Minimalist design",
+        "Built-in storage"
+      ],
+      "objects": [
+        {
+          "type": "Bed frame",
+          "features": [
+            "White frame",
+            "Tufted headboard in light brown fabric"
+          ],
+          "materials": [
+            "White bed frame material (possibly MDF or wood)",
+            "Light brown fabric for headboard"
+          ],
+          "finish": "Glossy surface finish on the bed frame, matte finish on the headboard fabric"
+        },
+        {
+          "type": "Nightstand",
+          "features": [
+            "White with light brown accents",
+            "Two drawers"
+          ],
+          "materials": [
+            "White material (possibly MDF or wood)",
+            "Light brown material for accents"
+          ],
+          "finish": "Matte surface finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light brown",
+          "Beige",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric",
+          "Metal (knobs, possibly)"
+        ],
+        "lighting": "Natural light from the window, no visible artificial lighting",
+        "texture": "Smooth surfaces on the bed frame and nightstand, fabric texture on the headboard"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with minimal Indian traditional elements"
+        ],
+        "space_utilization": "Efficient use of space with a built-in nightstand and storage underneath the bed",
+        "cultural_significance": "No specific cultural significance related to Indian design elements"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.8,
+        "objects": 0.9,
+        "indian_context": 0.5
+      },
+      "description": "The image shows a modern bedroom with a minimalist design. The bed features a white frame with a tufted headboard in light brown fabric. The nightstand next to the bed is white with light brown accents and has two drawers. The room has a simple color palette with white, light brown, beige, and black. The space utilizes built-in storage beneath the bed, optimizing the room's functionality. The design does not reflect specific Indian regional or traditional elements, focusing more on contemporary aesthetics.",
+      "metadata": {
+        "tags": [
+          "Contemporary",
+          "Modern",
+          "Minimalist",
+          "Bedroom",
+          "Built-in storage"
+        ],
+        "budget_indicator": "Moderate, due to the use of materials and finishes typical of contemporary bedroom furniture",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and personal storage",
+        "indian_specific": "No Indian-specific design features are visible"
+      }
+    }
+  },
+  "cached_at": 1754913723807,
+  "cache_key": "98c598c4b1073347177c70510b5a3bd7"
+}

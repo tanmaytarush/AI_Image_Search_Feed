@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/194/image_cropper_1726821053189.jpg",
+  "analysis": {
+    "image_id": "img_322",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wardrobe with geometric patterns",
+        "Modern lighting fixture",
+        "Carpeted flooring"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Rectangular shape with angular cutouts",
+            "Glass windows on one side",
+            "White and dark wood color scheme"
+          ],
+          "materials": [
+            "Wood, glass"
+          ],
+          "finish": "High-gloss finish on wood, transparent glass"
+        },
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Modern design, metallic finish",
+            "Located above the bed area"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal finish"
+        },
+        {
+          "type": "Carpet",
+          "features": [
+            "Rectangular shape, patterned design"
+          ],
+          "materials": [
+            "Carpeted material"
+          ],
+          "finish": "Textured finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, dark wood, metallic, neutral tones, patterned carpet"
+        ],
+        "materials": [
+          "Wood, glass, metal, carpet"
+        ],
+        "lighting": "Soft, ambient lighting with a modern fixture",
+        "texture": "Combination of smooth, glossy, and patterned textures"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regionalized, but has elements that could be interpreted as modernized Indian",
+        "traditional_elements": [
+          "Geometric patterns reminiscent of traditional Indian art"
+        ],
+        "modern_adaptations": [
+          "Use of modern lighting and materials with traditional design elements"
+        ],
+        "space_utilization": "Efficient use of space with a focus on functionality and aesthetics",
+        "cultural_significance": "The geometric patterns might symbolize symmetry and balance, both culturally significant in Indian design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian-inspired bedroom with a contemporary design. The wardrobe features angular cutouts and geometric patterns that are reminiscent of traditional Indian art, while the overall aesthetic is sleek and minimalistic. The use of white and dark wood, along with glass, adds a modern twist to the traditional design. The room is well-lit with a modern light fixture, and the carpet adds a layer of warmth and texture to the space. The overall design is both functional and stylish, reflecting a blend of traditional influences and modern aesthetics.",
+    "metadata": {
+      "tags": [
+        "modern Indian interior",
+        "geometric design",
+        "contemporary wardrobe",
+        "patterned carpet",
+        "minimalistic style"
+      ],
+      "budget_indicator": "Mid-range, with the use of modern materials and finishes that are cost-effective while maintaining a stylish look",
+      "space_type": "Bedroom",
+      "functionality": "Primary purpose is to provide a modern and stylish bedroom with ample storage and a comfortable sleeping environment",
+      "indian_specific": "Traditional geometric patterns used in the wardrobe, reflecting an Indian design inspiration"
+    }
+  },
+  "cached_at": 1754909696117,
+  "cache_key": "df5a36292aa7327ddca896f81e0debec"
+}

@@ -1,0 +1,64 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/634/image_cropper_1729149557311.jpg",
+  "analysis": {
+    "image_id": "img_467",
+    "ai_generated_tags": {
+      "room": "Close-up of a person, no room type visible",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Person's face, clothing, background"
+      ],
+      "objects": [
+        {
+          "type": "Clothing",
+          "features": [
+            "Wearing a formal shirt and tie"
+          ],
+          "materials": [
+            "Cloth and fabric"
+          ],
+          "finish": "Smooth fabric finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White shirt, dark tie, light blue background"
+        ],
+        "materials": [
+          "Cloth, fabric, plastic"
+        ],
+        "lighting": "Even lighting with no strong shadows",
+        "texture": "Smooth clothing texture"
+      },
+      "indian_context": {
+        "regional_style": "No regional Indian style visible",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "No space utilization details visible",
+        "cultural_significance": ""
+      }
+    },
+    "confidence_scores": {
+      "room": 0.75,
+      "theme": 0.7,
+      "primary_features": 0.8,
+      "objects": 0.85,
+      "indian_context": 0.2
+    },
+    "description": "The image is a close-up of a person wearing a formal shirt and tie against a light blue background with simple lighting. There are no visible Indian design elements or room features.",
+    "metadata": {
+      "tags": [
+        "Close-up",
+        "Person",
+        "Formal attire",
+        "Light blue background"
+      ],
+      "budget_indicator": "High-end due to formal attire",
+      "space_type": "Unknown, as it is a close-up",
+      "functionality": "Unknown, as it is a close-up",
+      "indian_specific": "No Indian-specific design features visible"
+    }
+  },
+  "cached_at": 1754911900322,
+  "cache_key": "c4735c759f2458572997df4cd5505644"
+}

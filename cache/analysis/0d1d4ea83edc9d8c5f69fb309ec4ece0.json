@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%204.34.58%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_510",
+    "ai_generated_tags": {
+      "room": "Living Area",
+      "theme": "Contemporary Indian Style",
+      "primary_features": [
+        "Wooden table and chairs",
+        "Perforated wooden wardrobe",
+        "Dark wooden door"
+      ],
+      "objects": [
+        {
+          "type": "Wooden table",
+          "features": [
+            "Natural wood grain",
+            "Round shape",
+            "Central vase with white flowers"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Natural oil finish"
+        },
+        {
+          "type": "Wooden chairs",
+          "features": [
+            "Simple design",
+            "Backrests"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Natural oil finish"
+        },
+        {
+          "type": "Perforated wooden wardrobe",
+          "features": [
+            "Sliding doors with perforated panels",
+            "Wooden handles"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Natural oil finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige walls",
+          "Dark brown doors",
+          "Natural wood tones",
+          "White flowers"
+        ],
+        "materials": [
+          "Teak",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Warm indoor lighting",
+        "texture": "Smooth wood textures"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian or South Indian influence, due to the use of teak and the style of the wardrobe",
+        "traditional_elements": [
+          "Wooden furniture with carved elements",
+          "Perforated wooden panels"
+        ],
+        "modern_adaptations": [
+          "Sleek finishes and simple designs"
+        ],
+        "space_utilization": "Efficient use of space with a focus on functionality",
+        "cultural_significance": "The use of teak wood is significant as it symbolizes strength and durability in Indian culture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a contemporary Indian living area with a focus on traditional materials and design elements. The use of teak wood for the table, chairs, and wardrobe is a clear nod to traditional Indian craftsmanship. The perforated wooden panels on the wardrobe add a modern touch while maintaining a traditional aesthetic. The simple and functional design of the space aligns with contemporary Indian interior design, where traditional elements are often adapted to fit modern lifestyles.",
+    "metadata": {
+      "tags": [
+        "Teak",
+        "Perforated Wood",
+        "Modern Indian Style",
+        "Natural Wood Finish",
+        "Living Area"
+      ],
+      "budget_indicator": "Moderate, due to the use of teak wood and simple design",
+      "space_type": "Living Room",
+      "functionality": "Seating and storage",
+      "indian_specific": "Use of teak, traditional motifs in modern design"
+    }
+  },
+  "cached_at": 1754912553449,
+  "cache_key": "0d1d4ea83edc9d8c5f69fb309ec4ece0"
+}

@@ -1,0 +1,112 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/8/image_cropper_A1A66B09-C0F2-4361-ABE5-4CFFBDA41EB2-388-0000003D2A8A64F6.jpg",
+  "analysis": {
+    "image_id": "img_311",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Colonial Indian",
+      "primary_features": [
+        "Wooden door with glass panels",
+        "Carved wooden frame",
+        "Marble flooring",
+        "Decorative ceiling beams"
+      ],
+      "objects": [
+        {
+          "type": "Wooden door",
+          "features": [
+            "Glass panels for visibility and light",
+            "Wooden frame for structure and design"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Polished wood finish, clear glass"
+        },
+        {
+          "type": "Carved wooden frame",
+          "features": [
+            "Ornate details for decorative purposes"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Carved wood finish"
+        },
+        {
+          "type": "Marble flooring",
+          "features": [
+            "Smooth and glossy finish"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished marble finish"
+        },
+        {
+          "type": "Decorative ceiling beams",
+          "features": [
+            "Carved details for aesthetic appeal"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Carved wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood), White (marble), Brown (wood design)",
+          "Reddish-brown (carvings)",
+          "Yellow (ceiling beams)"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Marble",
+          "Metal"
+        ],
+        "lighting": "Natural light from the glass panels and ambient indoor lighting",
+        "texture": "Smooth marble, polished wood, glass, textured wooden carvings"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden doors with glass",
+          "Carved wooden frame",
+          "Marble flooring"
+        ],
+        "modern_adaptations": [
+          "Combination of traditional elements with modern finishes"
+        ],
+        "space_utilization": "Entryway efficiently uses space for both functionality and aesthetics, with clear pathways and minimal clutter",
+        "cultural_significance": "Elements like the wooden door with glass are symbolic of hospitality and openness, reflecting Indian architectural traditions"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a colonial-style Indian entryway with a focus on traditional elements. The wooden door with glass panels and carved wooden frame exemplifies South Indian architectural aesthetics, while the marble flooring adds a touch of luxury. The decorative ceiling beams with carved details further enhance the cultural richness of the space, making it both functional and visually appealing.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Colonial style",
+          "Wooden door",
+          "Carved frame",
+          "Marble flooring",
+          "South Indian design"
+        ],
+        "budget_indicator": "Moderate, with the use of polished marble and carved wooden elements",
+        "space_type": "Residential or commercial",
+        "functionality": "Entrance to the property, providing a welcoming and stylish approach",
+        "indian_specific": "Traditional Indian design features such as carved wooden frames and marble floors"
+      }
+    }
+  },
+  "cached_at": 1754909296124,
+  "cache_key": "813b0ab4e32dddfb96dca81ff0a39e47"
+}

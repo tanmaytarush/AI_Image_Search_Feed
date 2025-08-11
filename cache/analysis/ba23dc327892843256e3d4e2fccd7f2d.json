@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/675/image_cropper_D4FADCB4-5E70-4CB3-A4AA-5A91D543420C-9282-0000047100CA3ABB.jpg",
+  "analysis": {
+    "image_id": "img_427",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian with a touch of modern",
+      "primary_features": [
+        "Architectural archway",
+        "Textured wall panels",
+        "Ceiling fan with lights"
+      ],
+      "objects": [
+        {
+          "type": "Bed frame",
+          "features": [
+            "Rectangular shape, wooden frame, minimalistic design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished finish"
+        },
+        {
+          "type": "Textured wall panels",
+          "features": [
+            "Pink and beige color combination",
+            "Vertical panels with intricate patterns"
+          ],
+          "materials": [
+            "Wood or wood-like material"
+          ],
+          "finish": "Textured and painted"
+        },
+        {
+          "type": "Ceiling fan with lights",
+          "features": [
+            "Modern design, LED lights",
+            "Integrated into the ceiling"
+          ],
+          "materials": [
+            "Metal, plastic"
+          ],
+          "finish": "Shiny metallic finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Pink, beige, white, brown"
+        ],
+        "materials": [
+          "Wood, metal, plastic, painted materials"
+        ],
+        "lighting": "Natural and artificial lighting with LED ceiling fan",
+        "texture": "Textured wall panels, smooth ceiling and wood frame"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, but elements suggest a blend of traditional and modern styles",
+        "traditional_elements": [
+          "Architectural archway, carved patterns on wall panels"
+        ],
+        "modern_adaptations": [
+          "Minimalistic design, modern lighting"
+        ],
+        "space_utilization": "Bedroom is organized with a focus on the bed and wall décor, maximizing vertical space",
+        "cultural_significance": "The archway and carved patterns on wall panels reflect traditional Indian architectural elements, possibly symbolizing heritage and cultural pride"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a modern Indian bedroom with a blend of contemporary and traditional design elements. The space features an architectural archway, textured wall panels in pink and beige, and a ceiling fan with integrated LED lights. The bed frame is simple and wooden, complementing the overall design. The color palette is warm and inviting, with a focus on natural materials and textures. The traditional elements like the archway and carved patterns on the wall panels add a cultural touch, while the modern elements like the LED ceiling fan and minimalistic design bring a fresh, contemporary feel. The space is well-organized, maximizing the vertical space without clutter, and the overall design reflects a balance between tradition and modernity.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Contemporary Indian",
+          "Modern bedroom",
+          "Textured wall panels",
+          "Architectural archway",
+          "LED ceiling fan"
+        ],
+        "budget_indicator": "Moderate, with a focus on quality materials like wood and metal for the ceiling fan, but with budget-friendly finishes for the wall panels and bed frame",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose is to serve as a comfortable and stylish sleeping area, with space for accommodation and minimal storage",
+        "indian_specific": "Traditional architectural elements like the archway and carved patterns are highlighted, reflecting a blend of Indian cultural heritage and modern design"
+      }
+    }
+  },
+  "cached_at": 1754911458060,
+  "cache_key": "ba23dc327892843256e3d4e2fccd7f2d"
+}

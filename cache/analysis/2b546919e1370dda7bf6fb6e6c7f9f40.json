@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1727954723922.jpg",
+  "analysis": {
+    "image_id": "img_465",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Blue and white color scheme",
+        "Cupboard with sliding doors",
+        "Wall-mounted shelves"
+      ],
+      "objects": [
+        {
+          "type": "Cupboard",
+          "features": [
+            "Sliding doors",
+            "Wall-mounted",
+            "Blue and white color scheme",
+            "Metal frame"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Smooth and glossy"
+        },
+        {
+          "type": "Wall-mounted shelves",
+          "features": [
+            "Blue and white color scheme",
+            "Wooden structure"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth and glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident",
+        "traditional_elements": [
+          "No traditional Indian elements present"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials and design"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "No cultural elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.88,
+        "theme": 0.9,
+        "primary_features": 0.93,
+        "objects": 0.92,
+        "indian_context": 0.75
+      },
+      "description": "The image depicts a modern Indian bedroom with a striking blue and white color scheme. The space features a wall-mounted cupboard with sliding doors and a matching wall-mounted shelving unit, both made from wood with a smooth and glossy finish. The design reflects a contemporary approach with a clean, minimalist aesthetic, and there are no traditional Indian elements visible in the design. The lighting is natural, likely from a window not shown in the image, and the space is well-organized, maximizing the use of vertical space.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Bedroom",
+          "Blue and White",
+          "Minimalist",
+          "Wall-mounted storage"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Sleeping and storage",
+        "indian_specific": "No traditional Indian design features"
+      }
+    }
+  },
+  "cached_at": 1754911870639,
+  "cache_key": "2b546919e1370dda7bf6fb6e6c7f9f40"
+}

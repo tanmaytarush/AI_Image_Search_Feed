@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%204.36.35%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_517",
+    "ai_generated_tags": {
+      "room": "Storage or utility room",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Closed wardrobe with marble finish",
+        "Built-in desk with drawers",
+        "Glass partition"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Marble finish",
+            "Two doors with vertical gold-tone handles"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished marble"
+        },
+        {
+          "type": "Built-in desk",
+          "features": [
+            "Light beige marble surface",
+            "Three drawers with round brass knobs"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished marble"
+        },
+        {
+          "type": "Glass partition",
+          "features": [
+            "Rectangular panels with horizontal stripes"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear, frosted"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light beige",
+          "Golden",
+          "Frosted"
+        ],
+        "materials": [
+          "Marble",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Artificial light from ceiling",
+        "texture": "Smooth marble with subtle grain, glass panels with frosted texture"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with contemporary furniture and finishes"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "Minimalist design elements with a focus on functionality and modern aesthetics, not specific to Indian culture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern, minimalist storage or utility room with built-in furniture. The closet features a polished marble finish with smooth surfaces and vertical gold-tone handles, while the desk beneath it has a light beige marble top with three drawers, each fitted with round brass knobs. A glass partition with frosted rectangular panels adds a division between the space, allowing for natural light while maintaining privacy. The design is contemporary, focusing on simplicity and functionality with a neutral color palette and smooth textures.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Modern",
+        "Marble",
+        "Glass",
+        "Utility Room",
+        "Built-in Furniture"
+      ],
+      "budget_indicator": "Mid-range, due to the use of polished marble and glass",
+      "space_type": "Storage or utility room",
+      "functionality": "Primary purpose is for storage or as a utility space, possibly for a home office or guest room",
+      "indian_specific": "No significant Indian-specific design features are present"
+    }
+  },
+  "cached_at": 1754912747522,
+  "cache_key": "edc39b6298b3b673e3656ed7d52daf88"
+}

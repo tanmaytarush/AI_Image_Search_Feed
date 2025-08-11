@@ -1,0 +1,116 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Mother_s%20bedroom%20002.png",
+  "analysis": {
+    "image_id": "img_586",
+    "ai_generated_tags": {
+      "room": "Walk-in wardrobe",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Walk-in wardrobe with built-in cabinets",
+        "Marble floor",
+        "Damask wallpaper",
+        "Wooden accents"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe cabinets",
+          "features": [
+            "White cabinetry",
+            "Gold handles",
+            "Vertical wood slats"
+          ],
+          "materials": [
+            "White wood",
+            "Wooden slats",
+            "Gold hardware"
+          ],
+          "finish": "Glossy finish on white cabinetry with subtle wood grain and polished metal hardware"
+        },
+        {
+          "type": "Floor",
+          "features": [
+            "Marble tiles"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished marble with natural veining"
+        },
+        {
+          "type": "Wall",
+          "features": [
+            "Damask wallpaper"
+          ],
+          "materials": [
+            "Paper"
+          ],
+          "finish": "Patterned texture"
+        },
+        {
+          "type": "Ceiling",
+          "features": [
+            "Recessed lighting"
+          ],
+          "materials": [
+            "Painted ceiling"
+          ],
+          "finish": "Smooth finish with recessed lights"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "Brown",
+          "Beige",
+          "Off-white"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Paper",
+          "Painted ceiling"
+        ],
+        "lighting": "Ambient lighting with recessed ceiling lights",
+        "texture": "Polished marble floor with wood grain on cabinets and damask wallpaper"
+      },
+      "indian_context": {
+        "regional_style": "Not directly identifiable due to modern adaptations",
+        "traditional_elements": [
+          "Damask wallpaper"
+        ],
+        "modern_adaptations": [
+          "Contemporary cabinetry design",
+          "Marble flooring"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage cabinets",
+        "cultural_significance": "Damask wallpaper represents traditional patterns often found in Indian design, blending modern functionality with cultural aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian-inspired walk-in wardrobe with a contemporary design. The space features white cabinetry with gold handles and vertical wood slats, complemented by a marble floor and damask wallpaper on the walls. The design blends traditional Indian patterns with a clean, contemporary look, utilizing efficient space utilization for storage. The use of white, gold, and brown tones creates a sophisticated and elegant atmosphere, while the recessed ceiling lights provide ambient illumination. Cultural significance is represented by the damask wallpaper, a traditional pattern often used in Indian interiors, which adds a touch of classic charm to the otherwise modern design.",
+    "metadata": {
+      "tags": [
+        "Indian design",
+        "Contemporary Indian",
+        "Walk-in wardrobe",
+        "Marble floor",
+        "Damask wallpaper",
+        "White cabinetry",
+        "Gold hardware"
+      ],
+      "budget_indicator": "Moderate to high, due to use of marble and white cabinetry with gold hardware",
+      "space_type": "Residential, likely a bedroom or a dedicated walk-in closet",
+      "functionality": "Primary purpose is storage and organization of clothing and accessories, with additional aesthetic appeal",
+      "indian_specific": "Damask wallpaper and use of white and gold as primary colors, reflecting Indian design aesthetics"
+    }
+  },
+  "cached_at": 1754914371546,
+  "cache_key": "db73d601a128547459851236b3373ad5"
+}

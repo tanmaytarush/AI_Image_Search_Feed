@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/KITCHEN%20003.png",
+  "analysis": {
+    "image_id": "img_579",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Mix",
+      "primary_features": [
+        "White marble countertops",
+        "Blue cabinetry",
+        "Open shelving",
+        "Integrated appliances",
+        "Neutral color palette"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen Counter",
+          "features": [
+            "White marble surface, black borders"
+          ],
+          "materials": [
+            "Marble, Acrylic"
+          ],
+          "finish": "Shiny, high-gloss finish"
+        },
+        {
+          "type": "Furniture",
+          "features": [
+            "Blue cabinetry with sleek handles"
+          ],
+          "materials": [
+            "Acrylic, MDF"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Integrated oven, cooktop"
+          ],
+          "materials": [
+            "Stainless steel, Acrylic"
+          ],
+          "finish": "Polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Blue, Brown, Black"
+        ],
+        "materials": [
+          "Marble, Acrylic, Glass, Stainless Steel, Wood"
+        ],
+        "lighting": "Natural light from window and ambient lighting",
+        "texture": [
+          "Marble, glossy finish, smooth surfaces"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regional",
+        "traditional_elements": [
+          "No traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Modern interpretations of minimalism and functionality"
+        ],
+        "space_utilization": "Efficient use of space with minimalistic cabinetry and open shelving",
+        "cultural_significance": "Modern adaptation of Indian interior design principles focusing on functionality and minimalism"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian kitchen design with a focus on minimalism and functionality. The kitchen features sleek, blue cabinetry with glossy finishes, white marble countertops, and integrated appliances. The design incorporates neutral colors and materials, creating a clean and contemporary space. The open shelving and efficient use of space reflect a modern adaptation of Indian interior design principles.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modern Indian",
+        "Minimalism",
+        "Marble",
+        "Blue Cabinets",
+        "Integrated Appliances"
+      ],
+      "budget_indicator": "Moderate, with use of high-quality materials like marble and acrylic",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary purpose is for cooking and food preparation",
+      "indian_specific": "Modern interpretation of minimalistic design with a touch of Indian aesthetic in color and materials"
+    }
+  },
+  "cached_at": 1754914244077,
+  "cache_key": "8f973eeed55ea96dfde95cc7ecea837b"
+}

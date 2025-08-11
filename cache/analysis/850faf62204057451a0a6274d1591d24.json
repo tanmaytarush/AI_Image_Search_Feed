@@ -1,0 +1,70 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1648/insta_assets_crop_cda581e3-3799-4009-9307-a8701cc0ec73341984793471102461.jpg",
+  "analysis": {
+    "image_id": "img_333",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in cabinets",
+        "Geometric patterned wallpaper",
+        "Dark wood flooring"
+      ],
+      "objects": [
+        {
+          "type": "Built-in cabinets",
+          "features": [
+            "Integrated with the wall, dark wood finish, decorative geometric patterns"
+          ],
+          "materials": [
+            "Dark wood, possibly teak or mango"
+          ],
+          "finish": "Matte dark wood finish with geometric carvings"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown wood, off-white wallpaper, dark gray accents"
+        ],
+        "materials": [
+          "Dark wood, wallpaper, dark gray flooring"
+        ],
+        "lighting": "Natural light coming from a window (not visible)",
+        "texture": "Matte finish on wood, smooth wallpaper, textured dark gray flooring"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, but includes modern adaptations of traditional elements",
+        "traditional_elements": [
+          "Geometric carvings on the cabinets"
+        ],
+        "modern_adaptations": [
+          "Integration of modern cabinetry with traditional carvings"
+        ],
+        "space_utilization": "Efficient use of space with built-in cabinetry",
+        "cultural_significance": "Geometric patterns are often seen in traditional Indian art and architecture, symbolizing symmetry and balance"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space features a modern interpretation of traditional Indian design elements, such as the geometric carvings on the dark wood cabinets. The space is organized with built-in cabinetry, blending modern functionality with cultural influences. The use of dark wood and off-white wallpaper creates a sophisticated and culturally rich environment.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Geometric patterns",
+          "Dark wood cabinets",
+          "Living Room"
+        ],
+        "budget_indicator": "Mid-range, with dark wood as the primary material and geometric carvings",
+        "space_type": "Living Room",
+        "functionality": "Storage and display",
+        "indian_specific": "Geometric carvings on cabinets"
+      }
+    }
+  },
+  "cached_at": 1754909846827,
+  "cache_key": "850faf62204057451a0a6274d1591d24"
+}

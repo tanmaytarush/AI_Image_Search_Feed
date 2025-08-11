@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/812/image_cropper_1729261912825.jpg",
+  "analysis": {
+    "image_id": "img_325",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "dark countertops",
+        "white cabinets",
+        "marble backsplash",
+        "tile flooring"
+      ],
+      "objects": [
+        {
+          "type": "cabinet",
+          "features": [
+            "minimalist design",
+            "white finish",
+            "under-cabinet lighting"
+          ],
+          "materials": [
+            "wood",
+            "paint"
+          ],
+          "finish": "glossy"
+        },
+        {
+          "type": "backsplash",
+          "features": [
+            "marble tiles",
+            "textured pattern"
+          ],
+          "materials": [
+            "marble"
+          ],
+          "finish": "polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "dark grey",
+          "white",
+          "marble tones"
+        ],
+        "materials": [
+          "wood",
+          "paint",
+          "marble"
+        ],
+        "lighting": "overhead recessed lighting",
+        "texture": "smooth surfaces with textured backsplash"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly indicative of a specific regional style",
+        "traditional_elements": [
+          "missing traditional elements"
+        ],
+        "modern_adaptations": [
+          "teak and brass are missing; modern materials used"
+        ],
+        "space_utilization": "efficient use of space with minimal decor",
+        "cultural_significance": "No cultural or religious elements visible, designed for practicality rather than cultural display"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.65
+      },
+      "description": "The kitchen features modern Indian design elements with a focus on practicality. Dark countertops and white cabinets create a sleek, modern look, while the marble backsplash and tile flooring add a touch of elegance. The design adheres to typical Indian themes by using high-quality materials, but lacks traditional Indian elements.",
+      "metadata": {
+        "tags": [
+          "modern kitchen",
+          "white cabinets",
+          "marble backsplash",
+          "tile flooring",
+          "Indian design"
+        ],
+        "budget_indicator": "Moderate, with use of high-quality materials like marble and teak",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary function is meal preparation and storage",
+        "indian_specific": "No Indian-specific design features, but uses materials commonly seen in modern Indian kitchens"
+      }
+    }
+  },
+  "cached_at": 1754909739794,
+  "cache_key": "205520b99ced617caa1e71655bc3ac2c"
+}

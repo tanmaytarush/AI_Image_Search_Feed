@@ -1,0 +1,98 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/886/image_cropper_1729269889848.jpg",
+  "analysis": {
+    "image_id": "img_157",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Copper utensils",
+        "White countertops",
+        "Wooden shelves"
+      ],
+      "objects": [
+        {
+          "type": "Copper utensils",
+          "features": [
+            "Shiny, reflective surface",
+            "Arranged on countertop"
+          ],
+          "materials": [
+            "Copper"
+          ],
+          "finish": "High gloss"
+        },
+        {
+          "type": "White countertops",
+          "features": [
+            "Smooth, clean surface",
+            "Modern design"
+          ],
+          "materials": [
+            "Granite"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wooden shelves",
+          "features": [
+            "Vertical arrangement",
+            "Natural wood texture"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Natural, matte"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Silver"
+        ],
+        "materials": [
+          "Copper",
+          "Granite",
+          "Teak"
+        ],
+        "lighting": "Natural light, possibly from skylight or large windows",
+        "texture": "Smooth surfaces with natural wood grain"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly indicative of a specific regional style",
+        "traditional_elements": [
+          "Traditional copper utensils"
+        ],
+        "modern_adaptations": [
+          "Modern design with white countertops and wooden shelves"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves and horizontal space with countertops",
+        "cultural_significance": "The presence of copper utensils may indicate an emphasis on traditional cooking methods, possibly related to a specific cultural or regional tradition"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern kitchen setting with a blend of traditional and contemporary elements, featuring copper utensils, white granite countertops, and wooden teak shelves. The design reflects a focus on functionality and aesthetic appeal, with a cultural nod to traditional cooking practices through the use of copper utensils.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Kitchen Design",
+          "Copper Cuisine",
+          "White Countertops",
+          "Teak Shelves"
+        ],
+        "budget_indicator": "Higher, due to the use of granite and copper materials",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is food preparation and storage",
+        "indian_specific": "Copper utensils and wooden shelves highlight Indian-specific design features"
+      }
+    }
+  },
+  "cached_at": 1754906843809,
+  "cache_key": "a7a6d562a1c9c1d093b8eac79783c4bd"
+}

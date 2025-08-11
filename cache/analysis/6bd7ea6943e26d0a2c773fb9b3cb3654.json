@@ -1,0 +1,82 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1142/image_cropper_1729608768776.jpg",
+  "analysis": {
+    "image_id": "img_280",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Mughal-Inspired",
+      "primary_features": [
+        "Decorative lattice screen",
+        "Carved wooden door"
+      ],
+      "objects": [
+        {
+          "type": "Decorative lattice screen",
+          "features": [
+            "Horizontal and vertical slats with intricate patterns"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, possibly varnished or painted"
+        },
+        {
+          "type": "Carved wooden door",
+          "features": [
+            "Central floral motif",
+            "Symmetrical design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished, glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White (screen), Brown (wood), Gray (door handle, wall)",
+          "Neutral color palette"
+        ],
+        "materials": [
+          "Wood, metal"
+        ],
+        "lighting": "Well-lit with natural light, possibly from an unseen window",
+        "texture": "Smooth wood texture on door, grid-like texture on screen"
+      },
+      "indian_context": {
+        "regional_style": "North Indian (Delhi-Hyderabad region)",
+        "traditional_elements": [
+          "Lattice screen, carved wooden door"
+        ],
+        "modern_adaptations": [
+          "Simplification of traditional patterns, modern materials like metal"
+        ],
+        "space_utilization": "The space is organized to allow for ventilation and privacy, typical in traditional Indian entries",
+        "cultural_significance": "The lattice screen is a common feature in Mughal architecture, symbolizing elegance and tradition. The carved door reflects the intricate craftsmanship valued in Indian homes."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases an entryway with Mughal-inspired design, featuring a decorative lattice screen and a carved wooden door. The screen is made of wood with a grid of horizontal and vertical slats, adorned with intricate patterns, while the door boasts a central floral motif and a symmetrical design, all finished in a polished wood. The neutral color palette and the use of wood reflect traditional Indian aesthetics. The space is designed to allow for ventilation and privacy, which is typical in traditional Indian entries.",
+      "metadata": {
+        "tags": [
+          "Mughal-Inspired",
+          "Decorative Lattice",
+          "Carved Door",
+          "Indian Entryway",
+          "Traditional Design"
+        ],
+        "budget_indicator": "Moderate, with high-quality materials used for the screen and door",
+        "space_type": "Residential",
+        "functionality": "Entrance/Transition space",
+        "indian_specific": "Intricate wood carving, lattice screen"
+      }
+    }
+  },
+  "cached_at": 1754908913079,
+  "cache_key": "6bd7ea6943e26d0a2c773fb9b3cb3654"
+}

@@ -1,0 +1,84 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1124/image_cropper_1729605779778.jpg",
+  "analysis": {
+    "image_id": "img_151",
+    "ai_generated_tags": {
+      "room": "Waiting area",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Couches",
+        "tables",
+        "marble flooring",
+        "white walls"
+      ],
+      "objects": [
+        {
+          "type": "Couches",
+          "features": [
+            "Modern design with low backrests"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth and sleek"
+        },
+        {
+          "type": "tables",
+          "features": [
+            "Rectangular shapes with a minimalist design"
+          ],
+          "materials": [
+            "Metal frames with glass tops"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Clear"
+        ],
+        "materials": [
+          "Marble",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from large windows",
+        "texture": "Smooth surfaces with a polished look"
+      },
+      "indian_context": {
+        "regional_style": "Mughal influence with a modern twist",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist furniture with contemporary shapes"
+        ],
+        "space_utilization": "Open and spacious, designed for waiting or casual meetings",
+        "cultural_significance": "The use of white walls and marble flooring reflects a sense of purity and opulence, often associated with traditional Indian architecture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern Indian waiting area characterized by minimalist furniture with Mughal influences. The space features a clean design with white walls, polished marble flooring, and contemporary furniture. The use of metal frames with glass tops adds a touch of sophistication and modernity to the traditional Indian elements often seen in Mughal architecture.",
+    "metadata": {
+      "tags": [
+        "modern",
+        "Indian",
+        "minimalist",
+        "Mughal",
+        "waiting room"
+      ],
+      "budget_indicator": "Moderate, with the use of modern materials like marble and metal",
+      "space_type": "Waiting area in a commercial or public setting",
+      "functionality": "Designed for waiting or casual meetings in a modern Indian context",
+      "indian_specific": "Modern interpretation of Mughal aesthetics with smooth lines and polished surfaces"
+    }
+  },
+  "cached_at": 1754906785929,
+  "cache_key": "ab898c2afc99170b10ec8fe6100c7429"
+}

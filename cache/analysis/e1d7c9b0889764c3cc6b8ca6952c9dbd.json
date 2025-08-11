@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/739/image_cropper_1729675863998.jpg",
+  "analysis": {
+    "image_id": "img_234",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian with traditional influences",
+      "primary_features": [
+        "Built-in wardrobe",
+        "Wooden bed frame",
+        "Teak wood furniture"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Sliding glass doors",
+            "Modern design with traditional details"
+          ],
+          "materials": [
+            "Glass",
+            "Painted wood"
+          ],
+          "finish": "Smooth, glossy finish on glass and wood"
+        },
+        {
+          "type": "Wooden bed frame",
+          "features": [
+            "Solid wood construction",
+            "Carved headboard"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish with visible grain patterns"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Teak wood"
+        ],
+        "materials": [
+          "Glass",
+          "Wood",
+          "Painted wood"
+        ],
+        "lighting": "Natural light streaming through the window",
+        "texture": "Smooth surfaces of glass and wood, with a natural texture on the wood"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian style with modern adaptations",
+        "traditional_elements": [
+          "Carved headboard",
+          "Solid wood furniture"
+        ],
+        "modern_adaptations": [
+          "Contemporary lines with sliding glass doors"
+        ],
+        "space_utilization": "Maximizes storage with a built-in wardrobe",
+        "cultural_significance": "The use of solid wood and carved elements reflects traditional craftsmanship and durability"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image showcases a contemporary Indian bedroom with a focus on traditional craftsmanship. The built-in wardrobe features sliding glass doors, blending modern functionality with traditional Indian design elements. The wooden bed frame is crafted from solid teak wood, showcasing intricate carvings on the headboard, which is a traditional feature. The room utilizes a neutral color palette with white walls and a brown wooden floor, creating a clean and calm ambiance. The natural light from the window enhances the textures and colors of the materials used, emphasizing the natural beauty of the wood and glass.",
+      "metadata": {
+        "tags": [
+          "Bedroom",
+          "Indian interior",
+          "Contemporary style",
+          "Teak wood",
+          "Glass doors",
+          "Traditional craftsmanship"
+        ],
+        "budget_indicator": "Moderate to high, as it includes solid wood and glass materials",
+        "space_type": "Residential bedroom",
+        "functionality": "Sleeping and storage, with a focus on organization and aesthetics",
+        "indian_specific": "Solid wood furniture and carved details reflect traditional Indian design"
+      }
+    }
+  },
+  "cached_at": 1754907904990,
+  "cache_key": "e1d7c9b0889764c3cc6b8ca6952c9dbd"
+}

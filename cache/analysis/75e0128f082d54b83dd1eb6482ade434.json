@@ -1,0 +1,106 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/308/image_cropper_1728305976837.jpg",
+  "analysis": {
+    "image_id": "img_302",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Comfortable seating arrangement",
+        "Modern lighting fixtures",
+        "Open floor plan"
+      ],
+      "objects": [
+        {
+          "type": "Living room sofa",
+          "features": [
+            "U-shaped design",
+            "White upholstery",
+            "Modern style"
+          ],
+          "materials": [
+            "Fabric",
+            "Foam"
+          ],
+          "finish": "Smooth and polished"
+        },
+        {
+          "type": "Coffee table",
+          "features": [
+            "Glass top",
+            "Metal frame",
+            "Geometric design"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Clear glass top with metallic legs"
+        },
+        {
+          "type": "Floor lamp",
+          "features": [
+            "Minimalist design",
+            "Wooden base",
+            "Glass shade"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Natural wood tones with clear glass shade"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gray",
+          "Brown",
+          "Green",
+          "Red"
+        ],
+        "materials": [
+          "Fabric",
+          "Metal",
+          "Glass",
+          "Wood",
+          "Brick"
+        ],
+        "lighting": "Natural light from large windows and modern pendant lights",
+        "texture": "Smooth surfaces with some textured elements like the brick wall"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, but elements suggest a modern Indian interpretation",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of modern materials and design techniques"
+        ],
+        "space_utilization": "Open layout with minimal furniture, maximizing space",
+        "cultural_significance": "Minimal cultural elements, focusing on modern aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This living room showcases a contemporary design with a modern twist, featuring a U-shaped sofa, glass coffee table with metal frame, and minimalist floor lamp with wooden base and glass shade. The space utilizes natural light from large windows and is decorated with a mix of modern materials like glass, metal, and wood. The color palette includes white, gray, brown, and green, with the presence of red accents. The design is open and uncluttered, emphasizing comfort and functionality.",
+      "metadata": {
+        "tags": [
+          "Contemporary Living Room",
+          "Modern Interior",
+          "Open Floor Plan",
+          "Minimalist Design",
+          "Modern Lighting"
+        ],
+        "budget_indicator": "Moderate, with modern materials and finishes",
+        "space_type": "Residential, likely a family home",
+        "functionality": "Primary purpose is relaxation and socializing",
+        "indian_specific": "No traditional Indian elements, but modern interpretations of Indian design aesthetics."
+      }
+    }
+  },
+  "cached_at": 1754909194225,
+  "cache_key": "75e0128f082d54b83dd1eb6482ade434"
+}

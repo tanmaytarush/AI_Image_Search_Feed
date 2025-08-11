@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/823/image_cropper_1729262318827.jpg",
+  "analysis": {
+    "image_id": "img_482",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "White wall with built-in shelves",
+        "Wooden cabinet with glass doors",
+        "Mirror above the cabinet",
+        "Rounded corner design"
+      ],
+      "objects": [
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Wall-mounted with stylish design",
+            "Can store books, decorative items"
+          ],
+          "materials": [
+            "White painted wood"
+          ],
+          "finish": "Smooth and glossy finish"
+        },
+        {
+          "type": "Wooden cabinet",
+          "features": [
+            "Large storage space",
+            "Glass doors for display"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish with polished edges"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Above the cabinet",
+            "Rectangular shape"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Clear"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Painted wood"
+        ],
+        "lighting": "Ambient light from unseen source, giving a soft glow",
+        "texture": "Smooth surfaces with polished edges and clear glass"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and clean lines to represent modern Indian design"
+        ],
+        "space_utilization": "Efficient use of space with built-in shelves and a cabinet",
+        "cultural_significance": "The design does not explicitly reference any specific cultural significance in Indian interiors"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space showcases a contemporary Indian design with a modern twist, featuring clean lines and a mix of traditional and modern elements. The built-in shelves, wooden cabinet with glass doors, and the mirror above create a functional and stylish space. The color palette is dominated by white and natural wood tones, complemented by the clear glass mirror, which enhances the sense of space and light.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Living Room",
+        "Built-in shelves",
+        "Wooden cabinet",
+        "Glass mirror"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Storage and display area",
+      "indian_specific": "Modern interpretation of traditional Indian design elements"
+    }
+  },
+  "cached_at": 1754912066057,
+  "cache_key": "4400b8a4880b935d47abf6ed59f339bf"
+}

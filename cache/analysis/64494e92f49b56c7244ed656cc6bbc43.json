@@ -1,0 +1,79 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1651/insta_assets_crop_1ab2d50d-5f3f-4025-b657-6f04b050af9c4902255224844124145.jpg",
+  "analysis": {
+    "image_id": "img_451",
+    "ai_generated_tags": {
+      "room": "Not applicable - The image is of a person's face and does not depict a room or interior space",
+      "theme": "Not applicable - The image does not depict a design style or theme",
+      "primary_features": [
+        "The image shows a person's face with clothing and background items"
+      ],
+      "objects": [
+        {
+          "type": "Clothing",
+          "features": [
+            "The person is wearing a traditional Indian garment with intricate patterns"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Textured with detailed embroidery"
+        },
+        {
+          "type": "Background Items",
+          "features": [
+            "A cloth with traditional designs is visible in the background"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Embroidered and patterned"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Rich reds, vibrant blues, and subtle golds"
+        ],
+        "materials": [
+          "Fabric with embroidery"
+        ],
+        "lighting": "Natural lighting with a soft, diffused effect",
+        "texture": "Rich textures from the clothing and background cloth"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable - The image does not depict a specific regional style",
+        "traditional_elements": [
+          "Traditional embroidery and patterns"
+        ],
+        "modern_adaptations": [
+          "Not applicable - The image is of a person and does not show a modern adaptation of traditional elements"
+        ],
+        "space_utilization": "Not applicable - The image does not depict space organization",
+        "cultural_significance": "The image highlights traditional Indian textile arts and cultural attire, which hold significant cultural value and are often associated with festivals, ceremonies, and everyday wear"
+      },
+      "confidence_scores": {
+        "room": 0,
+        "theme": 0,
+        "primary_features": 0.8,
+        "objects": 0.8,
+        "indian_context": 0.8
+      },
+      "description": "The image shows a person's face with traditional Indian clothing and background items, highlighting the rich textures and vibrant colors of Indian textile arts. The clothing features intricate embroidery and detailed patterns, reflecting cultural significance and craftsmanship.",
+      "metadata": {
+        "tags": [
+          "Indian clothing",
+          "traditional embroidery",
+          "cultural attire",
+          "vibrant colors",
+          "fabric texture"
+        ],
+        "budget_indicator": "Moderate - The image shows traditional Indian garments with intricate embroidery, indicating a higher budget for materials and craftsmanship",
+        "space_type": "Not applicable - The image does not depict a room or residential space",
+        "functionality": "The image focuses on displaying traditional Indian clothing and cultural attire, not the functionality of a space",
+        "indian_specific": "Traditional embroidery, vibrant colors, and cultural attire"
+      }
+    }
+  },
+  "cached_at": 1754911729435,
+  "cache_key": "64494e92f49b56c7244ed656cc6bbc43"
+}

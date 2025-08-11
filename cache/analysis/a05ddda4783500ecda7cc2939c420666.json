@@ -1,0 +1,137 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.38%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_013",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Minimalist",
+      "primary_features": [
+        "Black countertops",
+        "Light wood cabinets",
+        "Built-in shelving",
+        "Sink and faucet",
+        "Electric cooktop",
+        "Decorative spices"
+      ],
+      "objects": [
+        {
+          "type": "Sink and faucet",
+          "features": [
+            "Modern design with curved spout"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Black countertops",
+          "features": [
+            "Smooth surface",
+            "Contrast with cabinetry"
+          ],
+          "materials": [
+            "Artificial stone"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Light wood cabinets",
+          "features": [
+            "Vertical grain pattern",
+            "Flat panels",
+            "Silver handles"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Built-in shelving",
+          "features": [
+            "Floating design",
+            "Geometric shape"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Electric cooktop",
+          "features": [
+            "Built-in design",
+            "Modern appearance"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Decorative spices",
+          "features": [
+            "Red and gold labels",
+            "Organized display"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Light wood",
+          "Silver",
+          "Green"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Artificial stone",
+          "Glass"
+        ],
+        "lighting": "Even, artificial lighting with no prominent light sources",
+        "texture": "Smooth surfaces with a blend of matte and glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern materials and design with traditional Indian craftsmanship"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in shelving and cabinets",
+        "cultural_significance": "No cultural elements present in the image"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a contemporary minimalist kitchen with a sleek and modern design. The space features light wood cabinets with a vertical grain pattern and silver handles, complemented by black countertops and a modern electric cooktop. Built-in shelving with a geometric shape adds to the functionality and aesthetic appeal. The use of black and white creates a clean look, while the natural wood tones add warmth. The kitchen is well-lit with even artificial lighting, and there is a small potted plant and decorative spices on the countertop, adding a touch of personality without traditional Indian elements.",
+    "metadata": {
+      "tags": [
+        "Minimalist Kitchen",
+        "Modern Design",
+        "Light Wood Cabinets",
+        "Black Countertops",
+        "Built-in Shelving",
+        "Contemporary Style"
+      ],
+      "budget_indicator": "Mid-range (due to materials and finishes)",
+      "space_type": "Residential Kitchen",
+      "functionality": "Primary cooking and food preparation area",
+      "indian_specific": "No Indian-specific design features visible"
+    }
+  },
+  "cached_at": 1754895389687,
+  "cache_key": "a05ddda4783500ecda7cc2939c420666"
+}

@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1132/image_cropper_1729608738706.jpg",
+  "analysis": {
+    "image_id": "img_136",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern with Indian Influence",
+      "primary_features": [
+        "Closet with mirrored doors",
+        "Small vanity area",
+        "Built-in shelves"
+      ],
+      "objects": [
+        {
+          "type": "Closet",
+          "features": [
+            "Mirrored doors, sleek design"
+          ],
+          "materials": [
+            "MDF, glass"
+          ],
+          "finish": "Sleek, glossy"
+        },
+        {
+          "type": "Vanity",
+          "features": [
+            "Built-in, minimalistic design"
+          ],
+          "materials": [
+            "MDF, glass"
+          ],
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Shelving",
+          "features": [
+            "Integrated into the wall, provides storage"
+          ],
+          "materials": [
+            "MDF"
+          ],
+          "finish": "Smooth, glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Peachy pink, white, beige"
+        ],
+        "materials": [
+          "MDF, glass"
+        ],
+        "lighting": "Natural light, soft overhead lighting",
+        "texture": "Smooth, glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Not traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Modern interpretation of Indian design with minimalistic approach"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and minimalistic design",
+        "cultural_significance": "Modern adaptation of Indian design with sleek, contemporary features"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image shows a modern bathroom with a contemporary design, incorporating sleek lines and minimalistic elements. The space features a closet with mirrored doors and a built-in vanity area, creating a space that is both functional and stylish. The use of materials such as MDF and glass, along with the smooth, glossy finishes, reflects a modern aesthetic. The color palette is composed of warm tones such as peachy pink and beige, which are often used in Indian interior design to create a cozy and inviting atmosphere. The overall design is a modern adaptation of traditional Indian design, focusing on efficient space utilization and a clean, contemporary look.",
+      "metadata": {
+        "tags": [
+          "Modern Bathroom",
+          "Indian Influence",
+          "Minimalistic Design",
+          "Functional Space",
+          "Efficient Storage"
+        ],
+        "budget_indicator": "Moderate, with use of MDF and glass materials",
+        "space_type": "Residential Bathroom",
+        "functionality": "Storage and vanity area",
+        "indian_specific": "Modern interpretation of Indian design features"
+      }
+    }
+  },
+  "cached_at": 1754906278126,
+  "cache_key": "307f25059e04fc39f78f18e43fcbf9af"
+}

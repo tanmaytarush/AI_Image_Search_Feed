@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/495/image_cropper_1728988289144.jpg",
+  "analysis": {
+    "image_id": "img_454",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Large window with sheer curtains",
+        "Light pink sofa",
+        "Built-in storage unit"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Light pink fabric",
+            "Modern design with clean lines"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Built-in Storage Unit",
+          "features": [
+            "White color",
+            "Integrated with the wall"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light pink",
+          "White",
+          "Green"
+        ],
+        "materials": [
+          "Fabric",
+          "Painted wood",
+          "Glass"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Soft fabric texture of the sofa, smooth painted wood of the storage unit"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Carved wooden elements on the window frame"
+        ],
+        "modern_adaptations": [
+          "Minimalistic design with clean lines"
+        ],
+        "space_utilization": "Efficient use of space with integrated storage",
+        "cultural_significance": "The use of light pink and white reflects the cultural emphasis on light and fresh colors in Indian design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian living room with a contemporary design aesthetic. The living room features a light pink sofa with a clean, minimalistic design and a built-in white storage unit that optimizes space. The room is brightly lit by natural light coming through a large window with sheer curtains. Traditional elements are subtly integrated, such as the carved wooden elements on the window frame, which suggest a blend of modern and traditional design. The color palette of light pink and white is characteristic of modern Indian interiors, emphasizing lightness and freshness.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Living Room",
+          "Light Pink",
+          "White",
+          "Integrated Storage"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential Living Room",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "Minimalist design with traditional elements"
+      }
+    }
+  },
+  "cached_at": 1754911761120,
+  "cache_key": "6d9bff500701b628f5576fff7589d724"
+}

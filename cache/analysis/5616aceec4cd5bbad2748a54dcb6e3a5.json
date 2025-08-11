@@ -1,0 +1,69 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.16%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_035",
+    "ai_generated_tags": {
+      "room": "Closet",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Custom wardrobe with floral pattern"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Sliding doors, floral pattern, geometric designs"
+          ],
+          "materials": [
+            "MDF with textured finish"
+          ],
+          "finish": "Textured finish with metallic accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, beige, white"
+        ],
+        "materials": [
+          "MDF, metallic"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth MDF texture with metallic accents"
+      },
+      "indian_context": {
+        "regional_style": "Regional style not distinct",
+        "traditional_elements": [
+          "Floral patterns"
+        ],
+        "modern_adaptations": [
+          "Geometric designs, metallic accents"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Floral patterns could be influenced by traditional Mughal or Rajasthani aesthetics, though modernized"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.88,
+      "theme": 0.87,
+      "primary_features": 0.9,
+      "objects": 0.92,
+      "indian_context": 0.85
+    },
+    "description": "The image showcases a modern wardrobe with a floral patterned MDF finish and metallic geometric accents, likely inspired by traditional Indian design elements. The sliding doors are well-integrated into a space that appears to be a bedroom or a walk-in closet, emphasizing efficient space utilization. The design reflects a contemporary approach with a touch of regional character.",
+    "metadata": {
+      "tags": [
+        "MDF wardrobe",
+        "Floral pattern",
+        "Metallic accents",
+        "Modern Indian design",
+        "Efficient space use"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Bedroom/Walk-in closet",
+      "functionality": "Storage",
+      "indian_specific": "Floral pattern and metallic accents"
+    }
+  },
+  "cached_at": 1754902959474,
+  "cache_key": "5616aceec4cd5bbad2748a54dcb6e3a5"
+}

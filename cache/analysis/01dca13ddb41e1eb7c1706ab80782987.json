@@ -1,0 +1,126 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.03%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_009",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian Fusion",
+      "primary_features": [
+        "Built-in entertainment unit",
+        "Television",
+        "Bookshelves",
+        "Wall-mounted shelves",
+        "Rug"
+      ],
+      "objects": [
+        {
+          "type": "Entertainment unit",
+          "features": [
+            "Built-in shelves for storage and display",
+            "Integrated lighting below shelves",
+            "Wood and metal finish"
+          ],
+          "materials": [
+            "Teak wood",
+            "Metal"
+          ],
+          "finish": "High-gloss finish on wood and metallic accents"
+        },
+        {
+          "type": "Television",
+          "features": [
+            "Flat-screen TV with stand"
+          ],
+          "materials": [
+            "Plastic"
+          ],
+          "finish": "Matte finish on stand"
+        },
+        {
+          "type": "Bookshelves",
+          "features": [
+            "Built-in shelves on one side of the entertainment unit",
+            "Open shelving for books and decorative items"
+          ],
+          "materials": [
+            "Teak wood",
+            "Metal"
+          ],
+          "finish": "High-gloss finish on wood and metallic accents"
+        },
+        {
+          "type": "Wall-mounted shelves",
+          "features": [
+            "Wooden slats above the TV",
+            "Decorative items placed on top"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Rug",
+          "features": [
+            "Soft, plush rug beneath seating area"
+          ],
+          "materials": [
+            "Polyester"
+          ],
+          "finish": "Soft texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral tones (white, grey, beige, brown)",
+          "Green accents on shelves",
+          "Warm wood tones"
+        ],
+        "materials": [
+          "Teak wood",
+          "Metal",
+          "Marble",
+          "Concrete",
+          "Polyester"
+        ],
+        "lighting": "Ambient lighting from ceiling fixtures and built-in shelves",
+        "texture": "Smooth surfaces with high-gloss finishes on wooden elements, soft texture of the rug"
+      },
+      "indian_context": {
+        "regional_style": "Mumbai Contemporary",
+        "traditional_elements": [
+          "Teak wood in furniture and cabinetry"
+        ],
+        "modern_adaptations": [
+          "Integrated lighting and modern finishes"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage and display, open floor plan",
+        "cultural_significance": "Use of traditional Indian wood materials and elements, blended with modern aesthetics, reflecting a contemporary take on traditional Indian design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian living room with a contemporary twist. The space features a built-in entertainment unit with a flat-screen TV, bookshelves, and decorative wall-mounted shelves. The use of teak wood in the furniture and cabinetry, along with modern finishes and lighting, reflects a fusion of traditional Indian design elements with contemporary aesthetics. The neutral color palette and the integration of wooden textures create a warm and inviting atmosphere, typical of modern Indian residential interiors.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Indian Interior",
+        "Modern Fusion",
+        "Teak Wood",
+        "Marble",
+        "Bookshelves"
+      ],
+      "budget_indicator": "Moderate to Higher",
+      "space_type": "Residential",
+      "functionality": "Entertainment and storage",
+      "indian_specific": "Teak wood and traditional elements"
+    }
+  },
+  "cached_at": 1754895301890,
+  "cache_key": "01dca13ddb41e1eb7c1706ab80782987"
+}

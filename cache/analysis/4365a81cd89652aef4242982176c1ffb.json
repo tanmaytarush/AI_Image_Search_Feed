@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1341/image_cropper_1729755494071.jpg",
+  "analysis": {
+    "image_id": "img_405",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern",
+      "primary_features": [
+        "Cabins",
+        "Countertop",
+        "Appliances",
+        "Lighting"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen Cabinets",
+          "features": [
+            "White cabinetry with modern handles"
+          ],
+          "materials": [
+            "Wood and possibly MDF"
+          ],
+          "finish": "Matte white paint with gold accents"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Dark stone-like material"
+          ],
+          "materials": [
+            "Marble or granite"
+          ],
+          "finish": "Polished finish"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Integrated microwave"
+          ],
+          "materials": [
+            "Metal and glass"
+          ],
+          "finish": "Shiny surface"
+        },
+        {
+          "type": "Lighting",
+          "features": [
+            "Under-cabinet LED lights"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Matte gold with white"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "Dark gray/black",
+          "Silver"
+        ],
+        "materials": [
+          "Wood, MDF, Marble, Granite, Metal"
+        ],
+        "lighting": "Artificial lighting from under-cabinet LED lights",
+        "texture": "Smooth surfaces with subtle grain texture in cabinets"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of traditional wood elements with modern aesthetics"
+        ],
+        "space_utilization": "Efficient use of vertical space with cabinets and countertops",
+        "cultural_significance": "No direct cultural elements present, as it is a modern kitchen design"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern kitchen with a blend of traditional wood elements and contemporary aesthetics, featuring clean lines, integrated appliances, and a mix of white and gold finishes. The design is efficient and functional, utilizing vertical space effectively with cabinetry and countertops.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "White cabinetry",
+          "Gold accents",
+          "Integrated appliances",
+          "Polished countertops"
+        ],
+        "budget_indicator": "Medium to high, considering the use of quality materials like marble or granite and modern finishes",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is cooking and food preparation",
+        "indian_specific": "No traditional Indian design features are present, as this is a modern kitchen design"
+      }
+    }
+  },
+  "cached_at": 1754911198284,
+  "cache_key": "4365a81cd89652aef4242982176c1ffb"
+}

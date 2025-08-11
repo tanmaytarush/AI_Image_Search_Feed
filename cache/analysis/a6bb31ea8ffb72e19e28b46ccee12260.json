@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/477/image_cropper_1728831942134.jpg",
+  "analysis": {
+    "image_id": "img_162",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "U-shaped countertop",
+        "colorful backsplash",
+        "open shelving",
+        "tile flooring"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Light wood finish",
+            "glass inserts",
+            "sleek handles"
+          ],
+          "materials": [
+            "Wood",
+            "glass"
+          ],
+          "finish": "High-gloss, polished"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Colorful tiles",
+            "geometric design"
+          ],
+          "materials": [
+            "Ceramic tiles"
+          ],
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Light wood top",
+            "U-shaped design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished, natural"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light wood, white, colorful tiles"
+        ],
+        "materials": [
+          "Wood, glass, ceramic tiles"
+        ],
+        "lighting": "Natural light, possibly from a window not visible",
+        "texture": "Smooth, glossy, and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional influence",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Combination of traditional wood elements with modern design and color schemes"
+        ],
+        "space_utilization": "Efficient use of space with open shelving and a U-shaped countertop",
+        "cultural_significance": "The design reflects a blend of modern practicality and cultural aesthetics, with a focus on functionality and style"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian kitchen with a combination of traditional and contemporary elements. The light wood cabinets and glass inserts suggest a modern touch, while the colorful backsplash and U-shaped countertop add a vibrant and traditional Indian aesthetic. The space is organized with open shelving and efficient use of the countertop, likely enhancing functionality and style.",
+      "metadata": {
+        "tags": [
+          "Indian Kitchen",
+          "Modern Design",
+          "U-shaped Counter",
+          "Colorful Backsplash",
+          "Light Wood Cabinets"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose for food preparation and storage",
+        "indian_specific": "Modern interpretation of traditional Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1754906895672,
+  "cache_key": "a6bb31ea8ffb72e19e28b46ccee12260"
+}

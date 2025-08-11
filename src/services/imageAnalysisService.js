@@ -11,7 +11,7 @@ class ImageAnalysisService {
     this.useFallback = false; // Set to false to maintain data quality
     // Removed deprecated HfInference client
     this.expectedEmbeddingDimension = 384; // Ensure compatibility with embedding system
-    
+
     // Test Hugging Face API connectivity on startup
     this.testHuggingFaceAPI().catch(console.error);
   }
@@ -97,10 +97,10 @@ class ImageAnalysisService {
 
       // Vision models that work with Hugging Face router API
       const visionModels = [
-        "Qwen/Qwen2.5-VL-7B-Instruct:hyperbolic",  // Primary model - confirmed working
-        "Qwen/Qwen2.5-VL-7B-Instruct",             // Fallback without suffix
-        "microsoft/DialoGPT-medium",                // Alternative vision model
-        "gpt2"                                      // Text fallback
+        "Qwen/Qwen2.5-VL-7B-Instruct:hyperbolic", // Primary model - confirmed working
+        "Qwen/Qwen2.5-VL-7B-Instruct", // Fallback without suffix
+        "microsoft/DialoGPT-medium", // Alternative vision model
+        "gpt2", // Text fallback
       ];
 
       // Retry logic for API calls
@@ -113,10 +113,12 @@ class ImageAnalysisService {
       // Try each model until one works
       for (const model of visionModels) {
         console.log(`🔄 Trying model: ${model}`);
-        
+
         for (let attempt = 1; attempt <= maxRetries; attempt++) {
           try {
-            console.log(`🔄 Attempt ${attempt}/${maxRetries} for ${imageId} with ${model}`);
+            console.log(
+              `🔄 Attempt ${attempt}/${maxRetries} for ${imageId} with ${model}`
+            );
 
             response = await fetch(
               "https://router.huggingface.co/auto/v1/chat/completions",
@@ -151,7 +153,9 @@ class ImageAnalysisService {
             );
 
             if (response.ok) {
-              console.log(`✅ Success on attempt ${attempt} for ${imageId} with ${model}`);
+              console.log(
+                `✅ Success on attempt ${attempt} for ${imageId} with ${model}`
+              );
               successfulModel = model;
               break;
             } else {
@@ -191,7 +195,7 @@ class ImageAnalysisService {
             await new Promise((resolve) => setTimeout(resolve, delay));
           }
         }
-        
+
         if (successfulModel) {
           break; // Found a working model
         }
@@ -199,20 +203,32 @@ class ImageAnalysisService {
 
       // If no vision models work with router API, try direct Hugging Face inference
       if (!successfulModel) {
-        console.log(`🔄 Router API failed, trying direct Hugging Face inference...`);
+        console.log(
+          `🔄 Router API failed, trying direct Hugging Face inference...`
+        );
         try {
-          const directResult = await this.tryDirectHuggingFaceInference(cdnUrl, prompt, imageId);
+          const directResult = await this.tryDirectHuggingFaceInference(
+            cdnUrl,
+            prompt,
+            imageId
+          );
           if (directResult) {
-            console.log(`✅ Direct Hugging Face inference succeeded for ${imageId}`);
+            console.log(
+              `✅ Direct Hugging Face inference succeeded for ${imageId}`
+            );
             return directResult;
           }
         } catch (directError) {
-          console.log(`❌ Direct Hugging Face inference also failed: ${directError.message}`);
+          console.log(
+            `❌ Direct Hugging Face inference also failed: ${directError.message}`
+          );
         }
-        
+
         // If all methods fail, handle based on configuration
         if (this.useFallback) {
-          console.log(`⚠️ No vision models available. Falling back to text-only analysis for ${imageId}`);
+          console.log(
+            `⚠️ No vision models available. Falling back to text-only analysis for ${imageId}`
+          );
           return await this.fallbackTextAnalysis(imageUrl, imageId);
         } else {
           const errorMessage = `❌ No vision models available for ${imageId}. Skipping image to maintain data quality.`;
@@ -234,11 +250,18 @@ class ImageAnalysisService {
           content = content.replace(/```json\n?/g, "").replace(/```\n?/g, "");
         }
 
-        // Check for template responses
+        // Check for template responses - be more specific to avoid false positives
         if (
           content.includes("Room Type (") ||
           content.includes("Design Theme (") ||
-          content.includes("Traditional Indian")
+          // More specific patterns that indicate actual template placeholders
+          content.includes("Traditional Indian (") ||
+          content.includes("Modern (") ||
+          content.includes("Contemporary (") ||
+          // Check for incomplete template patterns, not just the words
+          content.includes("Room Type: [") ||
+          content.includes("Design Theme: [") ||
+          content.includes("Traditional Indian: [")
         ) {
           throw new Error(
             "Template response detected - model returned placeholder text instead of actual analysis"
@@ -322,7 +345,7 @@ class ImageAnalysisService {
 
       // Convert string ID to integer for Qdrant compatibility
       const numericId = this.convertStringIdToNumber(imageId);
-      
+
       // Create point for Qdrant storage
       const point = {
         id: numericId,
@@ -559,12 +582,12 @@ class ImageAnalysisService {
     if (match) {
       return parseInt(match[0], 10);
     }
-    
+
     // Fallback: generate hash from string
     let hash = 0;
     for (let i = 0; i < stringId.length; i++) {
       const char = stringId.charCodeAt(i);
-      hash = ((hash << 5) - hash) + char;
+      hash = (hash << 5) - hash + char;
       hash = hash & hash; // Convert to 32-bit integer
     }
     return Math.abs(hash);
@@ -576,11 +599,11 @@ class ImageAnalysisService {
   async fallbackTextAnalysis(imageUrl, imageId) {
     try {
       console.log(`📝 Performing text-only analysis for ${imageId}`);
-      
+
       // Extract filename and path information for basic analysis
-      const urlParts = imageUrl.split('/');
+      const urlParts = imageUrl.split("/");
       const filename = urlParts[urlParts.length - 1];
-      
+
       // Create a basic analysis based on URL patterns and filename
       const basicAnalysis = {
         image_id: imageId,
@@ -594,29 +617,29 @@ class ImageAnalysisService {
               type: "furniture",
               features: ["traditional_style"],
               materials: ["wood", "fabric"],
-              finish: "natural"
-            }
+              finish: "natural",
+            },
           ],
           visual_attributes: {
             colors: ["warm_tones", "natural_colors"],
             materials: ["wood", "fabric", "textiles"],
             lighting: "ambient",
-            texture: "natural_textures"
+            texture: "natural_textures",
           },
           indian_context: {
             regional_style: "contemporary_indian",
             traditional_elements: ["cultural_influences"],
             modern_adaptations: ["contemporary_design"],
             space_utilization: "functional_layout",
-            cultural_significance: "indian_aesthetics"
-          }
+            cultural_significance: "indian_aesthetics",
+          },
         },
         confidence_scores: {
           room: 0.5,
           theme: 0.5,
           primary_features: 0.5,
           objects: 0.5,
-          indian_context: 0.5
+          indian_context: 0.5,
         },
         description: `Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.`,
         metadata: {
@@ -624,10 +647,10 @@ class ImageAnalysisService {
           budget_indicator: "moderate",
           space_type: "residential",
           functionality: "living_space",
-          indian_specific: "cultural_design_elements"
+          indian_specific: "cultural_design_elements",
         },
         fallback_analysis: true,
-        filename: filename
+        filename: filename,
       };
 
       // Cache the fallback analysis
@@ -638,7 +661,10 @@ class ImageAnalysisService {
 
       return basicAnalysis;
     } catch (error) {
-      console.error(`❌ Fallback analysis failed for ${imageId}:`, error.message);
+      console.error(
+        `❌ Fallback analysis failed for ${imageId}:`,
+        error.message
+      );
       throw error;
     }
   }
@@ -649,7 +675,7 @@ class ImageAnalysisService {
    */
   setFallbackEnabled(enabled) {
     this.useFallback = enabled;
-    console.log(`🔄 Fallback analysis ${enabled ? 'enabled' : 'disabled'}`);
+    console.log(`🔄 Fallback analysis ${enabled ? "enabled" : "disabled"}`);
   }
 
   /**
@@ -674,9 +700,9 @@ class ImageAnalysisService {
   getFallbackStatus() {
     return {
       useFallback: this.useFallback,
-      message: this.useFallback ? 
-        'Fallback enabled - will use generic analysis for failed images' : 
-        'Fallback disabled - will skip images that cannot be properly analyzed'
+      message: this.useFallback
+        ? "Fallback enabled - will use generic analysis for failed images"
+        : "Fallback disabled - will skip images that cannot be properly analyzed",
     };
   }
 
@@ -686,22 +712,21 @@ class ImageAnalysisService {
   async testHuggingFaceAPI() {
     try {
       console.log(`🔍 Testing Hugging Face Router API connectivity...`);
-      
-      const response = await fetch(
-        "https://router.huggingface.co/v1/models",
-        {
-          headers: {
-            Authorization: `Bearer ${process.env.HF_TOKEN}`,
-          },
-          method: "GET",
-        }
-      );
-      
+
+      const response = await fetch("https://router.huggingface.co/v1/models", {
+        headers: {
+          Authorization: `Bearer ${process.env.HF_TOKEN}`,
+        },
+        method: "GET",
+      });
+
       if (response.ok) {
         console.log(`✅ Hugging Face Router API is accessible`);
         return true;
       } else {
-        console.log(`❌ Hugging Face Router API test failed: ${response.status}`);
+        console.log(
+          `❌ Hugging Face Router API test failed: ${response.status}`
+        );
         return false;
       }
     } catch (error) {
@@ -715,31 +740,33 @@ class ImageAnalysisService {
    */
   async tryDirectHuggingFaceInference(imageUrl, prompt, imageId) {
     try {
-      console.log(`🔄 Attempting direct Hugging Face inference for ${imageId}...`);
-      
+      console.log(
+        `🔄 Attempting direct Hugging Face inference for ${imageId}...`
+      );
+
       // Try with the working vision model as fallback
       const directModels = [
-        "Qwen/Qwen2.5-VL-7B-Instruct:hyperbolic",  // Primary working model
-        "Qwen/Qwen2.5-VL-7B-Instruct"              // Fallback without suffix
+        "Qwen/Qwen2.5-VL-7B-Instruct:hyperbolic", // Primary working model
+        "Qwen/Qwen2.5-VL-7B-Instruct", // Fallback without suffix
       ];
 
       for (const model of directModels) {
         try {
           console.log(`🔄 Trying direct model: ${model}`);
-          
+
           // For vision models, we need to send the image data
           const requestBody = {
             inputs: {
               text: prompt,
-              image: imageUrl
+              image: imageUrl,
             },
             parameters: {
               max_new_tokens: 500,
               temperature: 0.7,
-              do_sample: true
-            }
+              do_sample: true,
+            },
           };
-          
+
           // Use the router API format that's working
           const response = await fetch(
             "https://router.huggingface.co/v1/chat/completions",
@@ -776,12 +803,17 @@ class ImageAnalysisService {
           if (response.ok) {
             const result = await response.json();
             console.log(`✅ Direct inference succeeded with ${model}`);
-            
+
             // Parse router API response format
-            if (result && result.choices && result.choices[0] && result.choices[0].message) {
+            if (
+              result &&
+              result.choices &&
+              result.choices[0] &&
+              result.choices[0].message
+            ) {
               const analysisText = result.choices[0].message.content;
               console.log(`📝 Raw response: ${analysisText}`);
-              
+
               // Try to extract JSON from the response
               const jsonMatch = analysisText.match(/\{[\s\S]*\}/);
               if (jsonMatch) {
@@ -794,16 +826,22 @@ class ImageAnalysisService {
                   if (!parsedAnalysis.image_url) {
                     parsedAnalysis.image_url = imageUrl;
                   }
-                  
+
                   // Cache the successful analysis
                   await cdnService.cacheAnalysis(imageUrl, parsedAnalysis);
-                  
+
                   // Auto inference: Generate embeddings and store in Qdrant
-                  await this.performAutoInference(imageUrl, imageId, parsedAnalysis);
-                  
+                  await this.performAutoInference(
+                    imageUrl,
+                    imageId,
+                    parsedAnalysis
+                  );
+
                   return parsedAnalysis;
                 } catch (parseError) {
-                  console.log(`⚠️ Failed to parse JSON from ${model} response: ${parseError.message}`);
+                  console.log(
+                    `⚠️ Failed to parse JSON from ${model} response: ${parseError.message}`
+                  );
                   continue; // Try next model
                 }
               } else {
@@ -818,15 +856,19 @@ class ImageAnalysisService {
             console.log(`❌ Direct model ${model} failed: ${response.status}`);
           }
         } catch (modelError) {
-          console.log(`❌ Error with direct model ${model}: ${modelError.message}`);
+          console.log(
+            `❌ Error with direct model ${model}: ${modelError.message}`
+          );
           continue; // Try next model
         }
       }
-      
+
       console.log(`❌ All direct models failed for ${imageId}`);
       return null;
     } catch (error) {
-      console.error(`❌ Direct Hugging Face inference failed: ${error.message}`);
+      console.error(
+        `❌ Direct Hugging Face inference failed: ${error.message}`
+      );
       return null;
     }
   }

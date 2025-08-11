@@ -1,0 +1,123 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.11.21%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_066",
+    "ai_generated_tags": {
+      "room": "Home office or study",
+      "theme": "Contemporary with Indian influence",
+      "primary_features": [
+        "Wooden partition with carved details",
+        "Marble floor",
+        "Wall-mounted shelves",
+        "Wooden desk",
+        "Cabinet"
+      ],
+      "objects": [
+        {
+          "type": "Wooden partition",
+          "features": [
+            "Carved border",
+            "Decorative top",
+            "Glass doors"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wall-mounted shelves",
+          "features": [
+            "Modern design",
+            "LED lighting",
+            "Decorative items"
+          ],
+          "materials": [
+            "Wooden shelves",
+            "Metal brackets"
+          ],
+          "finish": "Wooden"
+        },
+        {
+          "type": "Wooden desk",
+          "features": [
+            "Integrated storage",
+            "Computer setup",
+            "Decorative items on top"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Cabinet",
+          "features": [
+            "Marble top",
+            "Glass doors",
+            "Storage space"
+          ],
+          "materials": [
+            "Marble",
+            "Wooden frame"
+          ],
+          "finish": "Marble top, polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Dark wooden tones",
+          "Purple cabinet",
+          "Marble floor"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Ambient lighting from ceiling lights, accent lighting from shelves",
+        "texture": "Smooth marble, polished wood, textured wood carving"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Wooden partition with carved details",
+          "Decorative top of the partition",
+          "Cabinet design"
+        ],
+        "modern_adaptations": [
+          "Wall-mounted shelves",
+          "Computer setup",
+          "Modern finish"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves and cabinet, and horizontal space with desk",
+        "cultural_significance": "The partition is reminiscent of a jharokha, often used in traditional architecture for privacy and light, here adapted for modern functionality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern home office or study space with a significant Indian architectural influence. The room features a wooden partition with intricate carvings, reminiscent of a jharokha, which adds a touch of traditional North Indian design. The walls are painted white, providing a clean backdrop that contrasts with the dark wooden tones of the partition. Wall-mounted shelves with LED lighting and a wooden desk with integrated storage create a functional workspace. A cabinet with a marble top and glass doors adds storage and complements the overall design. The space utilizes a mix of traditional and modern elements, creating a harmonious blend. The use of teak wood for the partition and desk, along with marble for the top, indicates a mid-range budget. The overall design is practical and visually appealing, reflecting a balance between tradition and modernity.",
+    "metadata": {
+      "tags": [
+        "Home office",
+        "Wooden partition",
+        "Jharokha",
+        "Marble floor",
+        "Contemporary Indian design"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential",
+      "functionality": "Workstation",
+      "indian_specific": "Wooden partition with carved details, traditional top design"
+    }
+  },
+  "cached_at": 1754903612534,
+  "cache_key": "b8a3b14112bbf20aea2caab31649f1f9"
+}

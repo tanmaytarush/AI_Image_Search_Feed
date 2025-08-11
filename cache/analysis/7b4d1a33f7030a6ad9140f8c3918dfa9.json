@@ -1,0 +1,79 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/417/image_cropper_1728471091190.jpg",
+  "analysis": {
+    "image_id": "img_115",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in cabinets",
+        "Built-in shelves"
+      ],
+      "objects": [
+        {
+          "type": "Built-in cabinet",
+          "features": [
+            "Double door design",
+            "Carved panels",
+            "Dowel rod storage"
+          ],
+          "materials": [
+            "Teak",
+            "Marble"
+          ],
+          "finish": "Polished finish on teak and marble top"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark teak",
+          "White marble",
+          "Orange accents"
+        ],
+        "materials": [
+          "Teak",
+          "Marble",
+          "Painted walls"
+        ],
+        "lighting": "Natural light from unseen windows",
+        "texture": "Smooth teak finish, textured marble top"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian with Rajasthani influences",
+        "traditional_elements": [
+          "Carved panels",
+          "Dowel rod storage"
+        ],
+        "modern_adaptations": [
+          "Modern built-in cabinetry"
+        ],
+        "space_utilization": "Efficient use of wall space for storage and display",
+        "cultural_significance": "Carved elements and material choices reflect regional craftsmanship and materials used in traditional Indian homes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern Indian living room with built-in cabinetry that incorporates traditional elements. The cabinetry features double doors with carved patterns, and there are dowel rods for additional storage, a blend of traditional craftsmanship and modern functionality. The use of teak and marble reflects the integration of regional materials into contemporary designs. The space is well-lit and utilizes the wall space effectively for storage and display, creating a harmonious blend of tradition and modernity.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Rajasthani Style",
+        "Built-in cabinets",
+        "Teak",
+        "Marble",
+        "Living Room"
+      ],
+      "budget_indicator": "Moderate, as it uses high-quality materials like teak and marble, but the design is streamlined",
+      "space_type": "Residential",
+      "functionality": "Storage and display area",
+      "indian_specific": "Carved panels and use of teak and marble"
+    }
+  },
+  "cached_at": 1754906038896,
+  "cache_key": "7b4d1a33f7030a6ad9140f8c3918dfa9"
+}

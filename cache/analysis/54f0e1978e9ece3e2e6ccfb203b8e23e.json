@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/577/image_cropper_1729087284399.jpg",
+  "analysis": {
+    "image_id": "img_372",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Marble wall paneling",
+        "Wooden bed frame",
+        "Curtains with traditional patterns",
+        "Ceiling fan"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Wooden frame with intricate carving",
+            "Carved headboard"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "Carved wood"
+          ],
+          "finish": "Natural wood finish with hand-carved details"
+        },
+        {
+          "type": "Wall Decor",
+          "features": [
+            "Marble wall paneling withуйтериь"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished marble"
+        },
+        {
+          "type": "Curtains",
+          "features": [
+            "Traditional patterns with floral motifs"
+          ],
+          "materials": [
+            "Silk or polyester blend"
+          ],
+          "finish": "Textured fabric with embroidery"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Marble grey",
+          "Brown wood",
+          "Blue curtains"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Silk/polyester blend"
+        ],
+        "lighting": "Natural light from window, artificial light from ceiling fan",
+        "texture": "Smooth marble, textured fabric, polished wood"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian (likely Rajasthani or Jaipur style with regional variations)",
+        "traditional_elements": [
+          "Carved wooden headboard",
+          "Marble wall paneling",
+          "Curtains with traditional patterns"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design with traditional details"
+        ],
+        "space_utilization": "Efficient use of space with a focus on storage and aesthetics",
+        "cultural_significance": "Elements reflect traditional craftsmanship and regional artistry, symbolizing wealth and status"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a contemporary Indian bedroom with a blend of traditional and modern elements. The space features a wooden bed with intricate carvings, a marble wall panel, and curtains with traditional floral patterns. The room is well-lit with natural light and enhanced by a ceiling fan. The design reflects Northern Indian influences, particularly from Rajasthani or Jaipur styles, with a focus on craftsmanship and cultural elements.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Contemporary Indian",
+        "Carved wooden bed",
+        "Marble wall paneling",
+        "Traditional curtains"
+      ],
+      "budget_indicator": "Mid to high, due to use of marble and hand-carved wood",
+      "space_type": "Residential bedroom",
+      "functionality": "Primary purpose is for sleeping and relaxation, with elements for aesthetic and storage purposes",
+      "indian_specific": "Traditional craftsmanship and regional artistry are evident in the carved wood and marble paneling"
+    }
+  },
+  "cached_at": 1754910469365,
+  "cache_key": "54f0e1978e9ece3e2e6ccfb203b8e23e"
+}

@@ -1,0 +1,108 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/244/image_cropper_1727176306416.jpg",
+  "analysis": {
+    "image_id": "img_469",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Large bed with modern bedding",
+        "Wooden paneling on wall",
+        "Television unit",
+        "Modern lighting fixture"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Modern design with clean lines",
+            "Plush bedding with monochromatic tones"
+          ],
+          "materials": [
+            "Bamboo or wood for frame",
+            "Fabric for bedding"
+          ],
+          "finish": "Smooth and glossy finish on the bed frame"
+        },
+        {
+          "type": "Television Unit",
+          "features": [
+            "Embedded in wooden paneling",
+            "Simple and sleek design"
+          ],
+          "materials": [
+            "Wood with a polished finish"
+          ],
+          "finish": "Smooth and glossy finish on the wood"
+        },
+        {
+          "type": "Wall Paneling",
+          "features": [
+            "Wooden with a natural grain pattern",
+            "Paneling extends across the wall"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished and glossy finish"
+        },
+        {
+          "type": "Lighting Fixture",
+          "features": [
+            "Modern and linear in design",
+            "Simple and unobtrusive"
+          ],
+          "materials": [
+            "Metal and possibly glass"
+          ],
+          "finish": "Metallic with a polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral shades of white, gray, and brown"
+        ],
+        "materials": [
+          "Wood, metal, fabric, glass"
+        ],
+        "lighting": "Natural light from a window with no visible artificial light source",
+        "texture": "Smooth and glossy surfaces on furniture and walls"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident",
+        "traditional_elements": [
+          "No traditional Indian elements present"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with modern interpretations of Indian aesthetics"
+        ],
+        "space_utilization": "Efficient use of space with a clean and organized layout",
+        "cultural_significance": "No culturally significant elements present"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a modern, minimalist bedroom with a clean and uncluttered design. The room features a large bed with contemporary bedding, wooden paneling on the wall, a television unit integrated into the paneling, and a simple lighting fixture. The materials used include wood for the paneling and frame of the bed, along with metal and possibly glass in the lighting fixture. The color palette is neutral with shades of white, gray, and brown, contributing to the room's modern and sleek look. There are no visible Indian traditional elements, suggesting a modern interpretation of Indian design principles.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Modern",
+        "Bedroom",
+        "Wooden Paneling",
+        "Television Unit",
+        "Neutral Colors"
+      ],
+      "budget_indicator": "Low to medium, depending on the quality of materials used",
+      "space_type": "Residential",
+      "functionality": "Sleeping and entertainment",
+      "indian_specific": "No Indian-specific design features, but modern adaptations of Indian aesthetics"
+    }
+  },
+  "cached_at": 1754911932375,
+  "cache_key": "f294bbfe0d88717c4b5fc0e65beccef0"
+}

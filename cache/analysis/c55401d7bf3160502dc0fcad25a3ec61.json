@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1595/insta_assets_crop_20ab041d-dd77-4af6-b3ee-4e4fe9883f036221420655321949684.jpg",
+  "analysis": {
+    "image_id": "img_214",
+    "ai_generated_tags": {
+      "room": "Photography of an individual",
+      "theme": "Formal/Professional",
+      "primary_features": [
+        "Sleeved shirt",
+        "Mustache",
+        "Traditional headgear"
+      ],
+      "objects": [
+        {
+          "type": "Sleeved shirt",
+          "features": [
+            "Collared",
+            "Patterned",
+            "Formal design"
+          ],
+          "materials": [
+            "Cotton or Polyester blend"
+          ],
+          "finish": "Smooth and clean"
+        },
+        {
+          "type": "Mustache",
+          "features": [
+            "Well-groomed"
+          ],
+          "materials": [
+            "Hairs"
+          ],
+          "finish": "Natural"
+        },
+        {
+          "type": "Traditional headgear",
+          "features": [
+            "Embroidered",
+            "Ornate"
+          ],
+          "materials": [
+            "Cotton or Silk"
+          ],
+          "finish": "Rough texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Gold"
+        ],
+        "materials": [
+          "Cotton",
+          "Silk",
+          "Metal"
+        ],
+        "lighting": "Even and soft lighting",
+        "texture": "Smooth, rough, and embroidered"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable as this is a close-up portrait",
+        "traditional_elements": [
+          "Mustache",
+          "Traditional headgear"
+        ],
+        "modern_adaptations": [
+          "Formal shirt with modern design"
+        ],
+        "space_utilization": "Not applicable as this is a portrait",
+        "cultural_significance": "The mustache and traditional headgear may signify cultural pride or profession"
+      },
+      "confidence_scores": {
+        "room": 0.5,
+        "theme": 0.7,
+        "primary_features": 0.9,
+        "objects": 0.9,
+        "indian_context": 0.8
+      },
+      "description": "This image features a close-up of an individual wearing a traditional headgear and a formal, patterned shirt. The formal attire suggests a professional setting, while the traditional headgear indicates cultural pride or belonging to a specific community. The soft lighting highlights the details of the clothing and accessories.",
+      "metadata": {
+        "tags": [
+          "formal",
+          "traditional",
+          "headgear",
+          "mustache",
+          "clothing",
+          "portrait"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Photography studio/indoor space",
+        "functionality": "Portraiture",
+        "indian_specific": "Traditional headgear and mustache"
+      }
+    }
+  },
+  "cached_at": 1754907690405,
+  "cache_key": "c55401d7bf3160502dc0fcad25a3ec61"
+}

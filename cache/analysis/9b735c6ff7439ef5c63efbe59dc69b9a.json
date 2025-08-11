@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/839/image_cropper_1729683476722.jpg",
+  "analysis": {
+    "image_id": "img_457",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Indian Traditional",
+      "primary_features": [
+        "Wooden paneling",
+        "Teak wood furniture",
+        "Marble flooring",
+        "Carved wooden elements",
+        "Curtains"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Coffee Table",
+          "features": [
+            "Round shape",
+            "Carved wooden legs"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Teak Wood Corner Unit",
+          "features": [
+            "Open shelves",
+            "Carved wooden panels"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Marble Flooring",
+          "features": [
+            "Polished surface",
+            "White with gray veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High gloss"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teak brown",
+          "White",
+          "Gray",
+          "Marble white with gray veining"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble"
+        ],
+        "lighting": "Natural light from windows",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Northern",
+        "traditional_elements": [
+          "Teak wood",
+          "Marble",
+          "Carved wooden elements"
+        ],
+        "modern_adaptations": [
+          "Contemporary lines combined with traditional materials"
+        ],
+        "space_utilization": "Efficient use of space with built-in shelves and open floor plan",
+        "cultural_significance": "Elements like carved wooden panels and curtains reflect traditional craftsmanship and materials used in Northern Indian interiors"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This interior space is designed in a traditional Indian style, emphasizing the use of teak wood and marble. The living room features a corner unit with carved wooden panels and open shelves, complemented by a teak wood coffee table with carved legs. The flooring is made of polished marble, adding a luxurious touch. The room is lit by natural light coming through the windows, and the space is organized to maximize storage with built-in shelves. The use of traditional materials and craftsmanship reflects cultural significance and regional design influences.",
+    "metadata": {
+      "tags": [
+        "Indian Traditional",
+        "Teak Wood",
+        "Marble Flooring",
+        "Carved Wooden Elements",
+        "Northern Style"
+      ],
+      "budget_indicator": "Mid to high budget due to use of marble and carved wooden elements",
+      "space_type": "Living Room",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Teak wood furniture, marble flooring, and carved wooden details"
+    }
+  },
+  "cached_at": 1754911792845,
+  "cache_key": "9b735c6ff7439ef5c63efbe59dc69b9a"
+}

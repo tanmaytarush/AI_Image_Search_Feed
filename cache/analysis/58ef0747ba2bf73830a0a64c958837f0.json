@@ -1,0 +1,69 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.16.37%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_529",
+    "ai_generated_tags": {
+      "room": "Storage or utility room",
+      "theme": "Indian modern contemporary",
+      "primary_features": [
+        "Cabinet with intricate designs"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Decorative patterns, black and white color scheme"
+          ],
+          "materials": [
+            "Paneling"
+          ],
+          "finish": "Matt white with detailed black cut-out designs"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black, white, green, white"
+        ],
+        "materials": [
+          "Paneling, paint, metallic cut-out designs"
+        ],
+        "lighting": "Indirect lighting, natural light from window",
+        "texture": "Smooth paneling with detailed textured designs"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regionalized, but hints of Gujarati or Rajasthani influence with the geometric designs",
+        "traditional_elements": [
+          "Intricate cut-out designs resembling traditional paan motifs"
+        ],
+        "modern_adaptations": [
+          "Contemporary interpretation of traditional patterns"
+        ],
+        "space_utilization": "Efficient use of vertical space for storage",
+        "cultural_significance": "The cut-out patterns may symbolize traditional Indian craftsmanship, though it's a modern take"
+      },
+      "confidence_scores": {
+        "room": 0.93,
+        "theme": 0.85,
+        "primary_features": 0.86,
+        "objects": 0.9,
+        "indian_context": 0.88
+      },
+      "description": "The image showcases a modern cabinet with intricate black and white cut-out designs, reflecting traditional Indian craftsmanship. The cabinet is part of a utility room, with visible greenery and a hint of a sofa in the background, suggesting a contemporary yet culturally aware design approach.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "modern contemporary",
+          "utility room",
+          "intricate designs",
+          "cut-out patterns"
+        ],
+        "budget_indicator": "Moderate, with focus on design rather than high-end materials",
+        "space_type": "Utility room",
+        "functionality": "Storage",
+        "indian_specific": "Geometric traditional designs"
+      }
+    }
+  },
+  "cached_at": 1754913064221,
+  "cache_key": "58ef0747ba2bf73830a0a64c958837f0"
+}

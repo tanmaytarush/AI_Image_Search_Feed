@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1371/image_cropper_A95F88ED-0A32-4178-BCFF-D437340D4E5D-9135-000009B699D731E4.jpg",
+  "analysis": {
+    "image_id": "img_270",
+    "ai_generated_tags": {
+      "room": "Study space",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Built-in cabinets",
+        "Built-in lighting",
+        "Panelled wall"
+      ],
+      "objects": [
+        {
+          "type": "Built-in cabinets",
+          "features": [
+            "Rectangular design",
+            "Modern handles",
+            "Inside storage"
+          ],
+          "materials": [
+            "Plywood",
+            "Painted finish"
+          ],
+          "finish": "Glossy paint"
+        },
+        {
+          "type": "Panelled wall",
+          "features": [
+            "Vertical panel design",
+            "Decorative molding"
+          ],
+          "materials": [
+            "Plywood",
+            "Painted finish"
+          ],
+          "finish": "Matte paint"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Tan",
+          "Dark brown"
+        ],
+        "materials": [
+          "Plywood",
+          "Painted finish"
+        ],
+        "lighting": "Built-in recessed lighting",
+        "texture": "Smooth surface"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Integration of modern elements with traditional craftsmanship"
+        ],
+        "space_utilization": "Optimized storage space",
+        "cultural_significance": "Functional design reflecting contemporary Indian aesthetic"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a contemporary Indian study space with built-in cabinets and a panelled wall. The design incorporates modern elements while maintaining a clean and organized appearance typical of contemporary Indian interiors. The built-in cabinets offer ample storage, and the panelled wall provides a structured yet elegant backdrop, reflecting a blend of functionality and aesthetics. The use of white and tan colors along with a glossy paint finish gives the space a bright and modern look.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Study Space",
+          "Built-in Cabinets",
+          "Panelled Wall"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Study",
+        "functionality": "Storage and study area",
+        "indian_specific": "Integration of modern elements with traditional craftsmanship"
+      }
+    }
+  },
+  "cached_at": 1754908793406,
+  "cache_key": "546ed44dfb00755ead5ff7aa71f203f2"
+}

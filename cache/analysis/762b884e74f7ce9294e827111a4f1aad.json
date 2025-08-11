@@ -1,0 +1,108 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1191/image_cropper_1729740905314.jpg",
+  "analysis": {
+    "image_id": "img_464",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Carpet",
+        "Framed artwork",
+        "Modern sofas",
+        "Decorative pillows",
+        "Glass coffee table"
+      ],
+      "objects": [
+        {
+          "type": "Sofa",
+          "features": [
+            "Cushioned",
+            "Modern design",
+            "Dark upholstery"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Smooth, matte"
+        },
+        {
+          "type": "Framed artwork",
+          "features": [
+            "Large",
+            "Horizontal orientation",
+            "Modern design"
+          ],
+          "materials": [
+            "Paint on canvas"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Coffee table",
+          "features": [
+            "Glass top",
+            "Simple design",
+            "Metal base"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Dark brown",
+          "Gold",
+          "Green"
+        ],
+        "materials": [
+          "Marble",
+          "Metal",
+          "Glass",
+          "Fabric",
+          "Paint"
+        ],
+        "lighting": "Bright, artificial with ceiling lights",
+        "texture": "Smooth, glossy, matte"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly Indian regional style",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Use of modern materials and minimalistic design"
+        ],
+        "space_utilization": "Open, with furniture arranged for social interaction",
+        "cultural_significance": "The use of modern elements within a space that aims to evoke contemporary Indian aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian living room with a contemporary design. The room features a dark fabric sofa, a glass coffee table with a metal base, and framed artwork on the wall. The color palette includes white, black, dark brown, gold, and green, with glossy and smooth textures throughout. The space is well-lit with artificial ceiling lights, and the overall design adheres to a modern Indian aesthetic with an emphasis on minimalism and functional furniture.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian interior",
+        "Modern furniture",
+        "Glass coffee table",
+        "Dark upholstery",
+        "Framed artwork"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Living Room",
+      "functionality": "Social and relaxation space",
+      "indian_specific": "Minimal traditional elements, but uses modern materials to evoke an Indian aesthetic"
+    }
+  },
+  "cached_at": 1754911862863,
+  "cache_key": "762b884e74f7ce9294e827111a4f1aad"
+}

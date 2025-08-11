@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/1-min.png",
+  "analysis": {
+    "image_id": "img_597",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Indian Influence",
+      "primary_features": [
+        "Built-in TV unit",
+        "Marble wall panels",
+        "Wooden door",
+        "Cabinet with leaf design"
+      ],
+      "objects": [
+        {
+          "type": "TV unit",
+          "features": [
+            "Modern design, light beige color, built-in storage"
+          ],
+          "materials": [
+            "Wood, marble, plaster"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Marble wall panels",
+          "features": [
+            "White marble with subtle veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wooden door",
+          "features": [
+            "Dark brown wood, smooth finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Cabinet",
+          "features": [
+            "Rectangular, with leaf design panels on one side"
+          ],
+          "materials": [
+            "Wood, plaster"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, beige, brown, green, black"
+        ],
+        "materials": [
+          "Marble, wood, plaster"
+        ],
+        "lighting": "Natural light, no visible artificial lighting",
+        "texture": "Smooth, polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Mysore or Southern India",
+        "traditional_elements": [
+          "Carved wooden elements"
+        ],
+        "modern_adaptations": [
+          "Integration of modern materials and design"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Cultural elements like the leaf design and wooden finish reflect traditional Indian craftsmanship"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern living room with a contemporary design that incorporates traditional Indian elements. The built-in TV unit, marble wall panels, and wooden door are all modern interpretations of traditional Indian design. The leaf design on the cabinet reflects a regional style, possibly Mysore or Southern India. The smooth finishes and polished surfaces contribute to the contemporary aesthetic, while the use of marble and wood maintains the traditional Indian touch. The space is well-organized with efficient storage solutions, and the natural lighting enhances the overall ambiance.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Contemporary Design",
+        "Indian Influence",
+        "Marble Wall Panels",
+        "Wooden Door",
+        "Built-in Storage",
+        "Mysore Style"
+      ],
+      "budget_indicator": "Mid to High",
+      "space_type": "Residential",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Carved wooden elements, leaf design, marble finishes"
+    }
+  },
+  "cached_at": 1754914891912,
+  "cache_key": "75168d529b7f9550fbd84f658b4149ec"
+}

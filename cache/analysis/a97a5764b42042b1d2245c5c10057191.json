@@ -1,0 +1,81 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1425/image_cropper_1729761480242.jpg",
+  "analysis": {
+    "image_id": "img_423",
+    "ai_generated_tags": {
+      "room": "Modern living room",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Exposed ceiling beams",
+        "Lighting fixture",
+        "Wall paneling"
+      ],
+      "objects": [
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Modern design with visible bulb"
+          ],
+          "materials": [
+            "Metallic finish"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Wall paneling",
+          "features": [
+            "Smooth texture"
+          ],
+          "materials": [
+            "Painted wood"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown"
+        ],
+        "materials": [
+          "Painted wood",
+          "Metallic"
+        ],
+        "lighting": "Artificial lighting from the ceiling",
+        "texture": "Smooth and glossy"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design elements with modern materials"
+        ],
+        "space_utilization": "Space is organized with focus on utility and aesthetics",
+        "cultural_significance": "No traditional Indian elements present, focus on modern design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.9,
+      "primary_features": 0.85,
+      "objects": 0.9,
+      "indian_context": 0.8
+    },
+    "description": "The image depicts a modern living room with a minimalist design. The room features exposed ceiling beams and a clean, white wall with a smooth, glossy finish. A modern lighting fixture with a visible bulb is mounted on the ceiling, providing artificial lighting. The wall paneling is made of painted wood, giving a contemporary touch to the room. The space is organized in a way that emphasizes utility and aesthetics, focusing on clean lines and modern materials.",
+    "metadata": {
+      "tags": [
+        "Modern living room",
+        "Minimalist design",
+        "Exposed beams",
+        "Artificial lighting",
+        "Smooth surfaces"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential living room",
+      "functionality": "Primary purpose is to serve as a living space for relaxation and entertainment",
+      "indian_specific": "No traditional Indian design elements visible; rather, it showcases modern Indian design influences"
+    }
+  },
+  "cached_at": 1754911407871,
+  "cache_key": "a97a5764b42042b1d2245c5c10057191"
+}

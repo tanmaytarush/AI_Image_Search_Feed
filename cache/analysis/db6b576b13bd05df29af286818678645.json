@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.18.29%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_012",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Modern Indian Fusion",
+      "primary_features": [
+        "Marble flooring",
+        "Wooden cabinetry",
+        "Swastik decoration",
+        "Aum symbol"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Wooden with light oak finish",
+            "Open shelving with black accents"
+          ],
+          "materials": [
+            "Wood (oak)",
+            "Metal (hardware for door handles)"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Door",
+          "features": [
+            "Dark wood with white marble inlays",
+            "Swastik and Aum symbols"
+          ],
+          "materials": [
+            "Wood (dark tone)",
+            "Marble (inlay)"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark brown",
+          "Light oak",
+          "Black"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from ceiling fixtures",
+        "texture": "Smooth marble surface, matte wood finish"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly regional as it combines elements from various regions",
+        "traditional_elements": [
+          "Swastik and Aum symbols"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with modern materials"
+        ],
+        "space_utilization": "Efficient use of vertical space with cabinets",
+        "cultural_significance": "Swastik symbolizes good luck and prosperity, Aum symbol represents spirituality and unity"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian foyer with a blend of traditional and contemporary design elements. The space features sleek marble flooring, light oak wooden cabinetry, and a dark wood door with decorative Indian symbols (Swastik and Aum). The use of natural light from ceiling fixtures enhances the brightness of the space, while the minimalist design with modern materials demonstrates a fusion of traditional Indian aesthetics with contemporary trends.",
+    "metadata": {
+      "tags": [
+        "Foyer",
+        "Modern Indian",
+        "Swastik",
+        "Aum",
+        "Marble",
+        "Wooden cabinetry",
+        "Minimalist design"
+      ],
+      "budget_indicator": "Moderate, as it includes high-quality materials like marble and wooden cabinetry",
+      "space_type": "Residential, specifically a foyer leading into a living area",
+      "functionality": "Primary purpose is to act as a welcoming entrance, providing utility for storage and decoration",
+      "indian_specific": "Swastik and Aum symbols are common Indian design elements, reflecting cultural significance"
+    }
+  },
+  "cached_at": 1754895359279,
+  "cache_key": "db6b576b13bd05df29af286818678645"
+}

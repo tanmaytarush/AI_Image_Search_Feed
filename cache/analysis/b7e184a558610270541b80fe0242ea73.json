@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/53/image_cropper_1726667605475.jpg",
+  "analysis": {
+    "image_id": "img_393",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "contemporary",
+      "primary_features": [
+        "bed with headboard",
+        "side table"
+      ],
+      "objects": [
+        {
+          "type": "bed",
+          "features": [
+            "rectangular with headboard"
+          ],
+          "materials": [
+            "wooden headboard, fabric cover"
+          ],
+          "finish": "polished wood, soft fabric"
+        },
+        {
+          "type": "side table",
+          "features": [
+            "small, square, metallic"
+          ],
+          "materials": [
+            "metal"
+          ],
+          "finish": "shiny metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white, grey, metallic"
+        ],
+        "materials": [
+          "wood, fabric, metal"
+        ],
+        "lighting": "bright, natural light from window",
+        "texture": "smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "contemporary design with minimal traditional elements"
+        ],
+        "space_utilization": "efficient use of space around bed and side table",
+        "cultural_significance": "modern interpretation of Indian design aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.8,
+      "primary_features": 0.85,
+      "objects": 0.9,
+      "indian_context": 0.5
+    },
+    "description": "The image depicts a modern bedroom with a minimalist design. The bed has a wooden headboard and a fabric cover, reflecting a contemporary approach to traditional Indian furniture. A shiny metallic side table is placed beside the bed, adding to the modern aesthetic. The room is well-lit with natural light coming through the window, and the overall color palette is neutral with white walls and a light-colored wooden floor. The space appears to be organized efficiently, with a focus on functionality and a clean, uncluttered look.",
+    "metadata": {
+      "tags": [
+        "contemporary bedroom",
+        "modern design",
+        "neutral color scheme",
+        "minimalist furniture"
+      ],
+      "budget_indicator": "moderate, with a mix of wood and metal",
+      "space_type": "residential bedroom",
+      "functionality": "sleeping and storage",
+      "indian_specific": "modern interpretation of Indian design elements"
+    }
+  },
+  "cached_at": 1754910725105,
+  "cache_key": "b7e184a558610270541b80fe0242ea73"
+}

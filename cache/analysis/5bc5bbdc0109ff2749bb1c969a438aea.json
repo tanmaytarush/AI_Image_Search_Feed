@@ -1,0 +1,125 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.54.38%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_547",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern minimalist",
+      "primary_features": [
+        "MDF cabinets with glossy finish",
+        "L-shaped countertop",
+        "Marble backsplash",
+        "Gas stove",
+        "Sink"
+      ],
+      "objects": [
+        {
+          "type": "Cabinets",
+          "features": [
+            "L-shaped layout",
+            "Glossy finish",
+            "Light green color"
+          ],
+          "materials": [
+            "MDF"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "L-shaped",
+            "Black color",
+            "Smooth surface"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Marble with white and brown veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Gas Stove",
+          "features": [
+            "Built-in on the countertop",
+            "Modern design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Sink",
+          "features": [
+            "Built-in on the countertop",
+            "Modern design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light green",
+          "Black",
+          "White",
+          "Brown",
+          "Silver"
+        ],
+        "materials": [
+          "MDF",
+          "Marble",
+          "Metal"
+        ],
+        "lighting": "Natural light coming through the window",
+        "texture": "Smooth surfaces on countertops and cabinets"
+      },
+      "indian_context": {
+        "regional_style": "Not prominent",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "L-shaped cabinets",
+          "Modern materials and finishes"
+        ],
+        "space_utilization": "Efficient use of space with L-shaped layout",
+        "cultural_significance": "No specific cultural elements present"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern minimalist kitchen features L-shaped cabinets with a glossy light green finish and black countertops. The backsplash is a marble with white and brown veining, and the space includes a built-in gas stove and a sink. The overall design is sleek and functional, prioritizing a clean and contemporary aesthetic.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "Minimalist",
+          "Glossy Finish",
+          "L-shaped",
+          "Marble"
+        ],
+        "budget_indicator": "Medium to high, due to the use of MDF and marble",
+        "space_type": "Residential",
+        "functionality": "Cooking and food preparation area",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1754913427415,
+  "cache_key": "5bc5bbdc0109ff2749bb1c969a438aea"
+}

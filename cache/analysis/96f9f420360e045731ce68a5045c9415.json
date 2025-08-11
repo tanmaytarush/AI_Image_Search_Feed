@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1600/insta_assets_crop_246d2869-0e7c-4cd9-b4ad-2ea33ab81b7c8304546360719746902.jpg",
+  "analysis": {
+    "image_id": "img_304",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary with regional Indian influences",
+      "primary_features": [
+        "Bentwood-style cabinetry",
+        "Linen countertops",
+        "Exposed brick wall",
+        "Louvered sliding door"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Bentwood style with intricate carvings"
+          ],
+          "materials": [
+            "Bentwood, possibly teak"
+          ],
+          "finish": "Natural wood finish with visible grain patterns"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Linen texture"
+          ],
+          "materials": [
+            "Linen fabric or similar material"
+          ],
+          "finish": "Textured fabric surface"
+        },
+        {
+          "type": "Wall",
+          "features": [
+            "Exposed brick"
+          ],
+          "materials": [
+            "Brick"
+          ],
+          "finish": "Natural brick finish"
+        },
+        {
+          "type": "Door",
+          "features": [
+            "Louvered design"
+          ],
+          "materials": [
+            "Wood or composite material"
+          ],
+          "finish": "Light wood or painted finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, beige, white, red"
+        ],
+        "materials": [
+          "Bentwood, linen, brick, wood, composite"
+        ],
+        "lighting": "Natural and artificial light sources, possibly overhead recessed lights",
+        "texture": "Rough brick, smooth bentwood, textured linen"
+      },
+      "indian_context": {
+        "regional_style": "Rajasthan-inspired with bentwood and exposed brick",
+        "traditional_elements": [
+          "Bentwood style cabinetry"
+        ],
+        "modern_adaptations": [
+          "Contemporary use of linen and exposed brick"
+        ],
+        "space_utilization": "Efficient use of space with cabinetry and countertop",
+        "cultural_significance": "Bentwood style reflects craftsmanship and traditional woodwork in Indian interiors, while exposed brick adds a modern, industrial touch"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The kitchen showcases a blend of contemporary design elements with traditional Indian touches. Bentwood-style cabinetry, featuring intricate carvings, is a clear nod to Indian craftsmanship, while the exposed brick wall and linen countertops add a modern, industrial aesthetic. The sliding louvered door provides a practical storage solution, maintaining the open feel of the space. The natural wood and brick textures, combined with the linen countertop, create a warm, inviting atmosphere that is both functional and aesthetically pleasing, reflecting a fusion of traditional and contemporary design philosophies.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "contemporary kitchen",
+        "Rajasthan style",
+        "bentwood cabinetry",
+        "exposed brick",
+        "linen countertops"
+      ],
+      "budget_indicator": "Moderate to high, with attention to quality materials like bentwood and exposed brick",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is for cooking and food preparation, with additional storage and display options",
+      "indian_specific": "Bentwood style cabinetry, traditional woodwork elements, and exposed brick"
+    }
+  },
+  "cached_at": 1754909218843,
+  "cache_key": "96f9f420360e045731ce68a5045c9415"
+}

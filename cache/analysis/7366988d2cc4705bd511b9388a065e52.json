@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/830/image_cropper_1729263189019.jpg",
+  "analysis": {
+    "image_id": "img_355",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Rajasthani Minimalist",
+      "primary_features": [
+        "Wooden floor",
+        "Carved wooden screen",
+        "Teak wood furniture",
+        "Marble fireplace",
+        "Pillars with intricate designs"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood furniture",
+          "features": [
+            "Carved designs",
+            "Simple lines",
+            "Natural wood finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood polish"
+        },
+        {
+          "type": "Marble fireplace",
+          "features": [
+            "Rectangular shape",
+            "Smooth surface",
+            "Light-colored marble"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Smooth polished surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (teak wood)",
+          "Dark brown (carved details)",
+          "White (marble)",
+          "Green (pillars)",
+          "Black (pillars details)"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Concrete (pillars)",
+          "Stone (pillars base)"
+        ],
+        "lighting": "Natural light from windows",
+        "texture": "Smooth marble, polished teak wood, textured stone pillars"
+      },
+      "indian_context": {
+        "regional_style": "Rajasthani",
+        "traditional_elements": [
+          "Carved wooden screen",
+          "Teak wood furniture",
+          "Marble fireplace"
+        ],
+        "modern_adaptations": [
+          "Minimalist design elements",
+          "Use of modern materials like marble"
+        ],
+        "space_utilization": "Optimized for functionality with a focus on central elements like the fireplace",
+        "cultural_significance": "The Rajasthani style often incorporates traditional craftsmanship and materials, symbolizing heritage and culture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a Rajasthani-inspired living room with a minimalist approach. The space features a carved wooden screen that serves as a partition, teak wood furniture with intricate details, and a marble fireplace. The wooden floor and stone pillars add to the traditional elements, while the overall design is sleek and modern, reflecting a contemporary interpretation of Rajasthani aesthetics. The use of natural light enhances the rich brown tones of the teak wood and the white marble, creating a warm and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Rajasthani design",
+        "Minimalist interior",
+        "Carved wood",
+        "Marble fireplace",
+        "Teak furniture"
+      ],
+      "budget_indicator": "Moderate to high, due to the use of marble and intricately carved wood, but the minimalist design keeps it from being excessive.",
+      "space_type": "Living Room",
+      "functionality": "Relaxation and socializing, with a central focus on the fireplace and the carved screen as decorative and functional elements.",
+      "indian_specific": "The use of traditional materials and craftsmanship is evident in the intricate carvings and the choice of teak wood, which are hallmarks of Rajasthani interior design."
+    }
+  },
+  "cached_at": 1754910286529,
+  "cache_key": "7366988d2cc4705bd511b9388a065e52"
+}

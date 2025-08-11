@@ -1,0 +1,79 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/238/image_cropper_1727104388157.jpg",
+  "analysis": {
+    "image_id": "img_356",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden cabinets",
+        "Built-in shelves",
+        "Lighting fixtures",
+        "Window with frosted glass"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinets",
+          "features": [
+            "Vertical design with paneling",
+            "Mirror finish on top"
+          ],
+          "materials": [
+            "Wood",
+            "Mirror"
+          ],
+          "finish": "Sleek, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Silver",
+          "Trimmed in black"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Bright, artificial lighting from ceiling fixtures",
+        "texture": "Smooth surfaces with glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not strongly regionalized",
+        "traditional_elements": [
+          "Mirror finish on top of cabinets"
+        ],
+        "modern_adaptations": [
+          "Fusion of traditional Indian aesthetics with modern design elements"
+        ],
+        "space_utilization": "Optimized for storage with built-in shelves and cabinets",
+        "cultural_significance": "The mirror finish on the top of the cabinets may symbolize reflection and prosperity, common in Indian decor"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.88,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.85
+    },
+    "description": "This image showcases a modern Indian kitchen with a focus on contemporary design. The kitchen features sleek wooden cabinets with a mirror finish on top, built-in shelves for storage, and modern lighting fixtures. The color palette is a mix of white, brown, silver, and black, reflecting a modern Indian aesthetic. The presence of a frosted glass window adds privacy while maintaining an open feel. The design emphasizes functionality and space optimization, typical in modern Indian interior design.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Modern Indian",
+        "Wooden Cabinets",
+        "Mirror Finish",
+        "Frosted Glass"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Cooking and storage",
+      "indian_specific": "Mirror finish on cabinets"
+    }
+  },
+  "cached_at": 1754910294679,
+  "cache_key": "f99df0448a3717614a6a1308904b28ec"
+}

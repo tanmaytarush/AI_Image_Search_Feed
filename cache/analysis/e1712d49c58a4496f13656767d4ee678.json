@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/742/image_cropper_1729238773102.jpg",
+  "analysis": {
+    "image_id": "img_363",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Mahogany wardrobe",
+        "Mirror with wooden frame",
+        "Decorative wall art"
+      ],
+      "objects": [
+        {
+          "type": "Mahogany wardrobe",
+          "features": [
+            "Dovetail joints",
+            "Curved wooden handles",
+            "Multiple drawers and compartments"
+          ],
+          "materials": [
+            "Mahogany"
+          ],
+          "finish": "Natural wood stain, polished"
+        },
+        {
+          "type": "Mirror with wooden frame",
+          "features": [
+            "Rectangular shape",
+            "Carved wooden frame"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Dark stain, polished"
+        },
+        {
+          "type": "Decorative wall art",
+          "features": [
+            "Painted frame",
+            "Abstract design"
+          ],
+          "materials": [
+            "Painted wooden frame"
+          ],
+          "finish": "Glossy paint finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Mahogany",
+          "Dark wood",
+          "Gold accents"
+        ],
+        "materials": [
+          "Mahogany",
+          "Wood",
+          "Paint"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth wood, glossy paint"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian",
+        "traditional_elements": [
+          "Carved wood, Mahogany furniture"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with modern lines"
+        ],
+        "space_utilization": "Compact and functional, maximizing storage in a small space",
+        "cultural_significance": "Mahogany is a symbol of luxury and status in Indian culture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian entryway with a mahogany wardrobe, a mirror with a carved wooden frame, and decorative wall art. The space features a minimalist design with a focus on traditional Indian elements, such as the carved wood and polished mahogany finish. The color palette includes white walls, dark wood, and gold accents, which are typical in modern Indian interiors. The mahogany wardrobe provides ample storage and is a symbol of luxury and status in Indian culture. The overall design reflects a blend of traditional craftsmanship with contemporary aesthetics.",
+    "metadata": {
+      "tags": [
+        "Mahogany",
+        "Modern Indian",
+        "Entryway",
+        "Minimalist",
+        "Carved Wood"
+      ],
+      "budget_indicator": "Medium to high, due to the use of polished mahogany and decorative elements",
+      "space_type": "Residential entryway",
+      "functionality": "Storage and visual appeal",
+      "indian_specific": "Mahogany wardrobe, carved wood frame, and polished finish"
+    }
+  },
+  "cached_at": 1754910375937,
+  "cache_key": "e1712d49c58a4496f13656767d4ee678"
+}

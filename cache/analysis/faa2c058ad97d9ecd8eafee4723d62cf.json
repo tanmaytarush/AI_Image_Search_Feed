@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1178/image_cropper_1729610991420.jpg",
+  "analysis": {
+    "image_id": "img_348",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian Contemporary",
+      "primary_features": [
+        "LED panel lighting",
+        "wooden headboard",
+        "mirror"
+      ],
+      "objects": [
+        {
+          "type": "LED panel lighting",
+          "features": [
+            "Integrated with the wooden headboard",
+            "modern design"
+          ],
+          "materials": [
+            "Wood, acrylic"
+          ],
+          "finish": "Matte finish with warm lighting"
+        },
+        {
+          "type": "Wooden headboard",
+          "features": [
+            "Carved details",
+            "Modern design"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural teak finish"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Large, wall-mounted",
+            "Rectangular shape"
+          ],
+          "materials": [
+            "Glass, metal frame"
+          ],
+          "finish": "Polished metal frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Warm wood tones",
+          "Neutral wall color",
+          "White"
+        ],
+        "materials": [
+          "Teak wood",
+          "Acrylic",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "LED strip lighting integrated with the wooden headboard",
+        "texture": "Smooth wood texture, polished metal frame"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Wooden headboard with carving"
+        ],
+        "modern_adaptations": [
+          "Integration of LED lighting with traditional elements"
+        ],
+        "space_utilization": "Efficient use of wall space for lighting and decoration",
+        "cultural_significance": "The wooden headboard symbolizes heritage and craftsmanship, often seen in traditional Indian furniture."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bedroom features a modern interpretation of traditional Indian design elements. The wooden headboard, characterized by carved details, is a nod to heritage craftsmanship. The integration of LED lighting within the headboard showcases a contemporary approach to traditional furniture. The room also includes a large mirror, adding to the space's modern aesthetic while maintaining a connection to traditional Indian decor practices. The color palette is neutral with warm wood tones, creating a harmonious and stylish environment.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Contemporary",
+        "Wooden Headboard",
+        "LED Lighting",
+        "Traditional Elements",
+        "Maharashtra Style"
+      ],
+      "budget_indicator": "Moderate, with high-quality materials like teak and polished metals",
+      "space_type": "Residential - Bedroom",
+      "functionality": "Sleeping and relaxation",
+      "indian_specific": "Carved wooden headboard, integration of LED lighting with traditional furniture"
+    }
+  },
+  "cached_at": 1754910204800,
+  "cache_key": "faa2c058ad97d9ecd8eafee4723d62cf"
+}

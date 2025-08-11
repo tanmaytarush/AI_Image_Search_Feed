@@ -1,0 +1,106 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/830/image_cropper_1729275726355.jpg",
+  "analysis": {
+    "image_id": "img_419",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Traditional Indian Interior",
+      "primary_features": [
+        "Carved wooden elements",
+        "Marble countertop",
+        "Copper accents",
+        "Textured wall covering",
+        "Open shelves"
+      ],
+      "objects": [
+        {
+          "type": "Carved Wooden Console Table",
+          "features": [
+            "Decorative carvings on the legs and top",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished dark wood finish"
+        },
+        {
+          "type": "Marble Countertop",
+          "features": [
+            "Smooth marble surface",
+            "Rectangular shape"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Copper Shelf",
+          "features": [
+            "Curved design",
+            "Hanging",
+            "Copper finish"
+          ],
+          "materials": [
+            "Copper"
+          ],
+          "finish": "Shiny copper finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown wood",
+          "White marble",
+          "Copper",
+          "Natural wood"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Copper",
+          "Textured wall covering"
+        ],
+        "lighting": "Soft, ambient lighting with natural light from the window",
+        "texture": "Combination of smooth marble, shiny copper, and textured wall covering"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Carved wooden elements",
+          "Marble countertops",
+          "Copper accents"
+        ],
+        "modern_adaptations": [
+          "Open shelves and modern shelving units"
+        ],
+        "space_utilization": "Efficient use of wall space with open shelving and a console table",
+        "cultural_significance": "The use of marble, copper, and carving reflects a blend of luxury and traditional craftsmanship, often seen in North Indian homes"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image depicts a traditional North Indian living room with a blend of classic and modern elements. The room features a carved wooden console table with dark wood finish, a smooth marble countertop, and a shiny copper shelf. The textured wall covering adds a sophisticated look, while the open shelving on the wall maximizes the use of space. The soft, ambient lighting and natural light from the window create a warm and inviting atmosphere, highlighting the rich textures and materials commonly used in North Indian interiors.",
+    "metadata": {
+      "tags": [
+        "North Indian Interior",
+        "Traditional Design",
+        "Carved Wood",
+        "Marble Countertop",
+        "Copper Accents",
+        "Textured Walls"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Living Room",
+      "functionality": "Seating and storage area",
+      "indian_specific": "Carved wood, marble, and copper elements"
+    }
+  },
+  "cached_at": 1754911363309,
+  "cache_key": "faf6cc51496e1f871b03a045b3f332e1"
+}

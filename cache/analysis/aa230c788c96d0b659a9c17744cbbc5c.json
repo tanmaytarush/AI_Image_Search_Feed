@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/993/image_cropper_1729416478232.jpg",
+  "analysis": {
+    "image_id": "img_365",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Bathroom door with frosted glass panels",
+        "Wall-mounted cabinet"
+      ],
+      "objects": [
+        {
+          "type": "Frosted glass bathroom door",
+          "features": [
+            "Panelled design",
+            "Frosted glass texture"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Wall-mounted cabinet",
+          "features": [
+            "Modular design",
+            "Light color scheme"
+          ],
+          "materials": [
+            "Wood",
+            "Paint"
+          ],
+          "finish": "Matte finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light wood tones",
+          "Frosted glass"
+        ],
+        "materials": [
+          "Glass",
+          "Metal",
+          "Wood"
+        ],
+        "lighting": "Natural light suggesting daylight",
+        "texture": "Smooth surfaces with a slightly matte finish"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with contemporary materials"
+        ],
+        "space_utilization": "Efficient use of vertical space with cabinets",
+        "cultural_significance": "No culturally significant elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.9,
+        "primary_features": 0.92,
+        "objects": 0.92,
+        "indian_context": 0.85
+      },
+      "description": "The image depicts a modern bathroom with a minimalist design. The frosted glass bathroom door and wall-mounted cabinet are key features, utilizing light colors and clean lines. The space appears organized and space-efficient, with a focus on functionality and contemporary aesthetics.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Bathroom",
+          "Modern Design",
+          "Frosted Glass",
+          "Wall-Mounted Cabinets"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential Bathroom",
+        "functionality": "Storage and access to bathroom facilities",
+        "indian_specific": "No traditional Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1754910397765,
+  "cache_key": "aa230c788c96d0b659a9c17744cbbc5c"
+}

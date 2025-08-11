@@ -1,0 +1,129 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/276/image_cropper_1727274839162.jpg",
+  "analysis": {
+    "image_id": "img_463",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Modern Indian styled living room",
+      "primary_features": [
+        "Ceiling light fixture",
+        "Cozy seating arrangement",
+        "Large mirror",
+        "Stone flooring"
+      ],
+      "objects": [
+        {
+          "type": "Seating area",
+          "features": [
+            "Carved wooden furniture",
+            "Soft upholstery",
+            "Colorful cushions"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric",
+            "Copper accents"
+          ],
+          "finish": "Cherry wood with polished finish, fabric with soft texture, copper accents with shiny finish"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Large rectangular frame",
+            "Silver finish"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glass with reflective silver frame"
+        },
+        {
+          "type": "Lighting",
+          "features": [
+            "Modern chandelier with geometric design"
+          ],
+          " materials": [
+            "Metal"
+          ],
+          "finish": "Metal with shiny finish"
+        },
+        {
+          "type": "Wall decor",
+          "features": [
+            "Minimalistic wall art"
+          ],
+          "materials": [
+            "Paint"
+          ],
+          "finish": "Paint with modern aesthetic"
+        },
+        {
+          "type": "Flooring",
+          "features": [
+            "Stone tiles with glossy finish"
+          ],
+          "materials": [
+            "Stone"
+          ],
+          "finish": "Glossy stone with smooth texture"
+        },
+        {
+          "type": "TV Unit",
+          "features": [
+            "Rectangular shape",
+            "Wooden construction"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Wooden with polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, Beige, Silver, Green, Red, Cream"
+        ],
+        "materials": [
+          "Wood, Metal, Stone, Fabric, Brass"
+        ],
+        "lighting": "Modern indoor lighting with a chandelier and ambient lighting from the ceiling",
+        "texture": "Smooth stone flooring, polished wood, fabric with soft texture, shiny metal accents"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Carved wooden furniture"
+        ],
+        "modern_adaptations": [
+          "Minimalistic wall art, modern chandelier"
+        ],
+        "space_utilization": "Efficient use of space with seating area, TV unit, and decorative elements",
+        "cultural_significance": "The seating arrangement and decor reflect a traditional North Indian living room setup, emphasizing comfort and aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a modern Indian styled living room with a cozy seating arrangement that includes richly carved wooden furniture, soft upholstery, and colorful cushions. The space features a large mirror, a chandelier with geometric designs, and stone flooring that adds a touch of elegance. The room is organized efficiently, with a TV unit and decorative elements that blend traditional and modern aesthetics, reflecting the cultural significance of comfort and style in a North Indian living room setup.",
+    "metadata": {
+      "tags": [
+        "North Indian Living Room",
+        "Carved Furniture",
+        "Modern Indian Style",
+        "Stone Flooring",
+        "Cozy Seating"
+      ],
+      "budget_indicator": "Moderate",
+      "space_type": "Residential",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Traditional carved wood elements and modern interpretations"
+    }
+  },
+  "cached_at": 1754911854723,
+  "cache_key": "9bd6b55a9282703c175942902decf475"
+}

@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/555/image_cropper_1729071604894.jpg",
+  "analysis": {
+    "image_id": "img_468",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden slatted wall panels",
+        "Exposed ceiling beams",
+        "Modern lighting fixture",
+        "Built-in storage unit"
+      ],
+      "objects": [
+        {
+          "type": "Built-in storage unit",
+          "features": [
+            "Integrated into wall",
+            "Dark wood finish",
+            "Curved design"
+          ],
+          "materials": [
+            "Dark wood"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Wall panel",
+          "features": [
+            "Slat design",
+            "Wooden material",
+            "Natural finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood"
+        },
+        {
+          "type": "Ceiling beams",
+          "features": [
+            "Exposed beams",
+            "Modern design",
+            "Light wood"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Sanded"
+        },
+        {
+          "type": "Lighting fixture",
+          "features": [
+            "Modern design",
+            "Metal frame",
+            "Glass shade"
+          ],
+          "materials": [
+            "Metal, glass"
+          ],
+          "finish": "Polished metal, clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown",
+          "Warm beige",
+          "Light brown",
+          "White"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass",
+          "Plastic"
+        ],
+        "lighting": "Modern, ambient, warm light from ceiling fixture",
+        "texture": "Sanded wood, polished metal, smooth glass, matte finish on storage unit"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Built-in storage units",
+          "Wooden wall panels"
+        ],
+        "modern_adaptations": [
+          "Slat design, modern lighting"
+        ],
+        "space_utilization": "Efficient use of wall space for storage and display, open layout for movement",
+        "cultural_significance": "Traditional Indian elements like wall panels and storage units maintain cultural relevance while incorporating modern design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior features a contemporary take on traditional Indian design, with built-in storage units, wooden slatted wall panels, and exposed ceiling beams. The modern lighting fixture adds a sleek, urban touch, blending traditional textures and materials like wood and metal with contemporary design principles.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Modern Indian",
+        "Built-in storage",
+        "Wooden paneling",
+        "Exposed beams"
+      ],
+      "budget_indicator": "Moderate, utilizing high-quality materials like dark wood and polished metal",
+      "space_type": "Living Room",
+      "functionality": "Storage and display area, open living space",
+      "indian_specific": "Wooden wall panels, built-in storage units"
+    }
+  },
+  "cached_at": 1754911918502,
+  "cache_key": "6d9dfe47ce33b887a4adbd1d17e9fd6e"
+}

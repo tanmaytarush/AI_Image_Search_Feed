@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/171/image_cropper_1726723069281.jpg",
+  "analysis": {
+    "image_id": "img_138",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wardrobe with wooden panels",
+        "Metal handles",
+        "Built-in storage"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Wooden panels with horizontal stripes",
+            "Metal handles",
+            "Built-in storage"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Natural wood finish with metallic handles"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth wood texture"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "Not applicable"
+        ],
+        "modern_adaptations": [
+          "Wardrobe designed with modern lines and materials"
+        ],
+        "space_utilization": "Efficient use of space for storage",
+        "cultural_significance": "No specific cultural elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian bedroom with a wardrobe featuring wooden panels and horizontal stripes, equipped with metal handles. The design incorporates contemporary lines while using traditional Indian wood materials, optimized for storage. The room benefits from natural lighting through a window, enhancing the warm brown tones of the wood. The overall aesthetic is a blend of traditional and modern elements, suitable for a younger generation with an appreciation for Indian craftsmanship.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Bedroom",
+          "Wooden wardrobe",
+          "Metal handles",
+          "Storage"
+        ],
+        "budget_indicator": "Moderate, with a focus on quality wood and metal",
+        "space_type": "Residential",
+        "functionality": "Storage and organization",
+        "indian_specific": "Modern adaptation of traditional Indian materials and design"
+      }
+    }
+  },
+  "cached_at": 1754906297792,
+  "cache_key": "7fe6b2ad58b1f7cc32024e7468506e70"
+}

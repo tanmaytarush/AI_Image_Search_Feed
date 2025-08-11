@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/443/image_cropper_1728568657882.jpg",
+  "analysis": {
+    "image_id": "img_177",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian Contemporary",
+      "primary_features": [
+        "Built-in wardrobe",
+        "Sofa bed",
+        "Wooden flooring",
+        "Modern wardrobe"
+      ],
+      "objects": [
+        {
+          "type": "Sofa bed",
+          "features": [
+            "Blue and white fabric",
+            "Foldable design"
+          ],
+          "materials": [
+            "Fabric",
+            "Wood"
+          ],
+          "finish": "Soft fabric texture, polished wood finish"
+        },
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "White with wooden accents",
+            "Modular design"
+          ],
+          "materials": [
+            "Wood",
+            "Metal hardware"
+          ],
+          "finish": "Smooth white paint, polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, Blue, Brown, Beige"
+        ],
+        "materials": [
+          "Wood, Metal, Fabric"
+        ],
+        "lighting": "Natural light coming from the window",
+        "texture": "Soft fabric, polished wood, smooth paint"
+      },
+      "indian_context": {
+        "regional_style": "Bengali or Gujarati modern contemporary",
+        "traditional_elements": [
+          "Wooden accents in modern design"
+        ],
+        "modern_adaptations": [
+          "Integration of modern furniture with traditional materials"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture",
+        "cultural_significance": "Combination of traditional woodwork and modern aesthetics reflecting cultural evolution"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian contemporary bedroom with a blend of traditional and contemporary elements. The space features a blue and white fabric sofa bed, a built-in wardrobe with white and wooden accents, and wooden flooring. The design integrates traditional woodwork with modern furniture, reflecting a regional style possibly from Bengal or Gujarat. The room is efficiently organized with built-in furniture, and the lighting suggests natural light from the window, enhancing the space's modern appeal.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Contemporary",
+          "Bengali Style",
+          "Gujarati Style",
+          "Built-in Furniture",
+          "Wooden Accents"
+        ],
+        "budget_indicator": "Moderate, with a focus on traditional materials and modern finishes",
+        "space_type": "Residential Bedroom",
+        "functionality": "Sleeping and relaxation area",
+        "indian_specific": "Integration of traditional woodwork with modern furniture and design"
+      }
+    }
+  },
+  "cached_at": 1754907043812,
+  "cache_key": "add6bab7010dc663dd6123760533fa27"
+}

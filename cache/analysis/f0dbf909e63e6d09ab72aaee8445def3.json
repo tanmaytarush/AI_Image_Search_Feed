@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/618/image_cropper_1729781077824.jpg",
+  "analysis": {
+    "image_id": "img_324",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Minimal",
+      "primary_features": [
+        "Modern furniture",
+        "Neutral color palette",
+        "Open space"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet/Storage Unit",
+          "features": [
+            "Open shelves",
+            "Integrated electronics",
+            "Minimalistic design"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Matte finish"
+        },
+        {
+          "type": "Sofa",
+          "features": [
+            "Contemporary design",
+            "Ergonomically shaped",
+            "Compact size"
+          ],
+          "materials": [
+            "Fabric",
+            "Faux leather"
+          ],
+          "finish": "Standard upholstery finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Brown",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Fabric",
+          "Plastic"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces with a mix of matte and glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of traditional motifs in modern designs"
+        ],
+        "space_utilization": "Efficient use of space with minimalistic furniture",
+        "cultural_significance": "Minimalism reflects a modern approach to Indian design, avoiding overt cultural symbols"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian living room with a contemporary minimalist theme. The space features a white and brown color palette with clean lines and simple, functional furniture. A cabinet with open shelves and a contemporary sofa are the focal points, creating a space that is both stylish and practical. The design avoids overtly traditional elements, focusing instead on clean lines and a modern aesthetic.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Contemporary Living Room",
+          "Minimalist Design",
+          "Neutral Color Palette"
+        ],
+        "budget_indicator": "Mid-range, due to the combination of wood and metal materials in the furniture",
+        "space_type": "Residential Single Room",
+        "functionality": "Living and possible storage space with a sofa",
+        "indian_specific": "The furniture design aligns with modern Indian trends, integrating traditional motifs in a contemporary context"
+      }
+    }
+  },
+  "cached_at": 1754909725091,
+  "cache_key": "f0dbf909e63e6d09ab72aaee8445def3"
+}

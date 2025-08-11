@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/640/image_cropper_1729689838193.jpg",
+  "analysis": {
+    "image_id": "img_245",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Indian Colonial",
+      "primary_features": [
+        "Carved bed frame",
+        "Decorative headboard",
+        "Woven rug"
+      ],
+      "objects": [
+        {
+          "type": "Bed frame",
+          "features": [
+            "Carved wooden design",
+            "Sleek finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Sleek finish"
+        },
+        {
+          "type": "Headboard",
+          "features": [
+            "Decorative carving",
+            "Geometric patterns"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Carved"
+        },
+        {
+          "type": "Rug",
+          "features": [
+            "Woven design",
+            "Cream and brown tones"
+          ],
+          "materials": [
+            "Wool"
+          ],
+          "finish": "Woven"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown, Cream, Blue",
+          "Gold accents"
+        ],
+        "materials": [
+          "Wood",
+          "Wool",
+          "Metal"
+        ],
+        "lighting": "Natural light through window",
+        "texture": "Carved wood, woven wool, metal accents"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Carved wood",
+          "Woven rug",
+          "Metal accents"
+        ],
+        "modern_adaptations": [
+          "Sleek finish on wood"
+        ],
+        "space_utilization": "Optimized for bedroom functionality",
+        "cultural_significance": "Elements symbolize comfort and cultural heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bedroom showcases a blend of traditional Indian design elements with a modern twist. The bed features a carved wooden frame with a sleek finish, reminiscent of North Indian architectural styles. The geometric patterns on the headboard and the woven rug add a touch of cultural significance. The color palette includes warm browns and creams, with gold accents, typical of traditional Indian interiors. The space is well-organized, prioritizing comfort and functionality while honoring cultural heritage.",
+    "metadata": {
+      "tags": [
+        "Indian bedroom",
+        "Carved furniture",
+        "Woven rug",
+        "North Indian style",
+        "Sleek wood finish"
+      ],
+      "budget_indicator": "Mid-range, due to quality wood and woven rug",
+      "space_type": "Residential bedroom",
+      "functionality": "Primary sleeping and rest area",
+      "indian_specific": "Traditional Indian carved wooden elements"
+    }
+  },
+  "cached_at": 1754908040308,
+  "cache_key": "259149fc8e1b83238fc2404f790a1bae"
+}

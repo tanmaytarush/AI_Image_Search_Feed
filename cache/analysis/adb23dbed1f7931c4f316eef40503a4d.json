@@ -1,0 +1,81 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.30%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_050",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Colorful wall paneling",
+        "Modern modular storage unit",
+        "Open living space view"
+      ],
+      "objects": [
+        {
+          "type": "Modular Storage Unit",
+          "features": [
+            "Wooden frame",
+            "Glass and white panel inserts",
+            "Open shelving"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Glossy finish with reflective glass elements"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Purple",
+          "White",
+          "Blue",
+          "Brown",
+          "Beige"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light from window, ceiling light not visible",
+        "texture": "Smooth surfaces with a polished look"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but incorporates elements of modern Indian interiors",
+        "traditional_elements": [
+          "Modern interpretation of wooden modular designs"
+        ],
+        "modern_adaptations": [
+          "Contemporary use of glass and color blocking"
+        ],
+        "space_utilization": "Open and functional layout with storage in an entryway",
+        "cultural_significance": "The use of wood is common in Indian interiors, symbolizing strength and durability"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.9,
+        "objects": 0.95,
+        "indian_context": 0.8
+      },
+      "description": "The image depicts an entryway with a modern modular storage unit in a room with a contemporary design. The storage unit features a wooden frame with glass and white panel inserts, creating an open and functional space. The wall behind the unit is painted purple, and the room opens up to a larger living area, suggesting an open-concept design. The use of wood in the unit aligns with traditional Indian materials, while the contemporary design elements reflect a modern adaptation.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Contemporary design",
+          "Wooden storage",
+          "Open living space",
+          "Purple wall"
+        ],
+        "budget_indicator": "Moderate, with use of quality materials like wood and glass",
+        "space_type": "Residential",
+        "functionality": "Entryway and storage",
+        "indian_specific": "Use of wood in the modular unit"
+      }
+    }
+  },
+  "cached_at": 1754903132631,
+  "cache_key": "adb23dbed1f7931c4f316eef40503a4d"
+}

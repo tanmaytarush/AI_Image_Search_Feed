@@ -1,0 +1,48 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/39/image_cropper_1726421441081.jpg",
+  "analysis": {
+    "image_id": "img_268",
+    "ai_generated_tags": {
+      "room": "Not applicable - this image is a close-up portrait of a person",
+      "theme": "Not applicable - this image is a close-up portrait of a person",
+      "primary_features": [],
+      "objects": [],
+      "visual_attributes": {
+        "colors": [
+          "Not applicable - this image is a close-up portrait of a person"
+        ],
+        "materials": [
+          "Not applicable - this image is a close-up portrait of a person"
+        ],
+        "lighting": "Not applicable - this image is a close-up portrait of a person",
+        "texture": [
+          "Not applicable - this image is a close-up portrait of a person"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not applicable - this image is a close-up portrait of a person",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Not applicable - this image is a close-up portrait of a person",
+        "cultural_significance": "Not applicable - this image is a close-up portrait of a person"
+      }
+    },
+    "confidence_scores": {
+      "room": 0,
+      "theme": 0,
+      "primary_features": 0,
+      "objects": 0,
+      "indian_context": 0
+    },
+    "description": "This image is a close-up portrait of a person, not an interior space. There are no Indian design elements, traditional furniture, or cultural decorative elements visible in the image.",
+    "metadata": {
+      "tags": [],
+      "budget_indicator": "Not applicable - this image is a close-up portrait of a person",
+      "space_type": "Not applicable - this image is a close-up portrait of a person",
+      "functionality": "Not applicable - this image is a close-up portrait of a person",
+      "indian_specific": "Not applicable - this image is a close-up portrait of a person"
+    }
+  },
+  "cached_at": 1754908763951,
+  "cache_key": "2ceca2eecba6432bbe9ce18e9296e374"
+}

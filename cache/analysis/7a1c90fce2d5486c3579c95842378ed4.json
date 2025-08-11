@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/833/image_cropper_1729593782948.jpg",
+  "analysis": {
+    "image_id": "img_392",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Traditional Indian Interior",
+      "primary_features": [
+        "Carved wooden paneling",
+        "Decorative lattice design",
+        "White and golden color scheme"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden panel",
+          "features": [
+            "Intricate floral and geometric designs",
+            "Dark wood finish"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Shiny, lacquered finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Gold",
+          "Dark wood"
+        ],
+        "materials": [
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light from side windows",
+        "texture": "Smooth wood surface with detailed carvings"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Carved wooden paneling",
+          "Decorative lattice"
+        ],
+        "modern_adaptations": [
+          "Contemporary use of white and gold for a clean look"
+        ],
+        "space_utilization": "Focus on decorative elements rather than functional furniture",
+        "cultural_significance": "The paneling and lattice design symbolize traditional craftsmanship and the importance of aesthetics in Indian culture"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image shows a beautifully crafted wooden panel with intricate floral and geometric designs, indicative of Northern Indian traditional craftsmanship. The white and gold color scheme contrasts with the dark wood, creating a visually appealing and culturally rich atmosphere. The lattice design adds a layer of elegance and depth to the panel, showcasing the artistry of traditional Indian interior design.",
+      "metadata": {
+        "tags": [
+          "Traditional Indian",
+          "Northern Style",
+          "Carved Wood",
+          "Decorative Lattice",
+          "White and Gold"
+        ],
+        "budget_indicator": "Mid-range, high-quality materials and finishes suggest a moderate budget.",
+        "space_type": "Living Room",
+        "functionality": "Decorative and accent piece for the space, adding cultural and aesthetic value.",
+        "indian_specific": "Intricate carvings and lattice designs are hallmark features of traditional Indian interior design."
+      }
+    }
+  },
+  "cached_at": 1754910717936,
+  "cache_key": "7a1c90fce2d5486c3579c95842378ed4"
+}

@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1165/image_cropper_1729612787721.jpg",
+  "analysis": {
+    "image_id": "img_389",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "minimalist",
+      "primary_features": [
+        "wooden flooring",
+        "fitted wardrobe",
+        "glass door"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe",
+          "features": [
+            "fitted design",
+            "white color"
+          ],
+          "materials": [
+            "wood",
+            "glass"
+          ],
+          "finish": "smooth, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "brown",
+          "white",
+          "transparent"
+        ],
+        "materials": [
+          "wood",
+          "glass"
+        ],
+        "lighting": "natural light",
+        "texture": "smooth, flat"
+      },
+      "indian_context": {
+        "regional_style": "modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "fitted wardrobes",
+          "clean lines"
+        ],
+        "space_utilization": "efficient use of space with a single piece of furniture",
+        "cultural_significance": "No specific cultural elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern bedroom with a minimalist design, featuring a fitted wardrobe with glass doors and wooden flooring. The space is well-lit with natural light, emphasizing clean lines and efficient space utilization.",
+      "metadata": {
+        "tags": [
+          "minimalist design",
+          "bedroom",
+          "fitted wardrobe",
+          "wooden flooring",
+          "modern interior"
+        ],
+        "budget_indicator": "moderate",
+        "space_type": "residential bedroom",
+        "functionality": "storage and organization",
+        "indian_specific": "no Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1754910679578,
+  "cache_key": "b0639e9597bc7bbddd5b534d19055045"
+}

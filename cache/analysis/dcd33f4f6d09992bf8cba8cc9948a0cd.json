@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/KITCHEN%20002.png",
+  "analysis": {
+    "image_id": "img_578",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Minimalist",
+      "primary_features": [
+        "Integrated cabinetry",
+        "L-shaped countertop",
+        "Built-in appliances",
+        "Marble backsplash"
+      ],
+      "objects": [
+        {
+          "type": "Sink",
+          "features": [
+            "Black faucet",
+            "Rectangular basin"
+          ],
+          "materials": [
+            "Metallic finish"
+          ],
+          "finish": "Shiny, reflective surface"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "L-shaped design",
+            "White marble look"
+          ],
+          "materials": [
+            "Synthetic marble"
+          ],
+          "finish": "Textured, high-gloss"
+        },
+        {
+          "type": "Appliances",
+          "features": [
+            "Microwave",
+            "Coffee machine",
+            "Induction cooktop"
+          ],
+          "materials": [
+            "Stainless steel",
+            "Metallic"
+          ],
+          "finish": "Shiny, reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Blue",
+          "Brown",
+          "Black",
+          "Marble effect"
+        ],
+        "materials": [
+          "Synthetic marble",
+          "Metallic",
+          "Wooden door"
+        ],
+        "lighting": "Neutral, artificial lighting",
+        "texture": "Smooth, glossy surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of traditional Indian motifs in modern design",
+          "Use of marble and metallic elements in contemporary context"
+        ],
+        "space_utilization": "Optimized for functionality with compact design",
+        "cultural_significance": "No visible cultural elements relevant to Indian interiors"
+      },
+      "confidence_scores": {
+        "room": 0.9,
+        "theme": 0.85,
+        "primary_features": 0.88,
+        "objects": 0.91,
+        "indian_context": 0.65
+      },
+      "description": "The image showcases a modern minimalist kitchen with sleek, integrated cabinetry and a L-shaped countertop. The design incorporates elements of contemporary Indian aesthetics, such as the use of marble and metallic finishes, while maintaining a compact and functional layout. The absence of traditional Indian design elements suggests a modern interpretation with a focus on space optimization and clean lines.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Minimalist",
+          "Modern Design",
+          "Compact Space",
+          "Integrated Cabinets"
+        ],
+        "budget_indicator": "Moderate to High, due to the use of synthetic marble and metallic finishes",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is a kitchen for food preparation",
+        "indian_specific": "Modern adaptation of Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1754914217049,
+  "cache_key": "dcd33f4f6d09992bf8cba8cc9948a0cd"
+}

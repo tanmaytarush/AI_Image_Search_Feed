@@ -1,0 +1,119 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/1.png",
+  "analysis": {
+    "image_id": "img_589",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Marble accent wall",
+        "LED strip lighting",
+        "Minimalist furniture",
+        "Carved wood door",
+        "Botanical wall art"
+      ],
+      "objects": [
+        {
+          "type": "TV Stand",
+          "features": [
+            "Beige, minimalist design",
+            "Integrated storage"
+          ],
+          "materials": [
+            "Beige finish",
+            "Glass top"
+          ],
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Carved Wood Door",
+          "features": [
+            "Vertical panel design",
+            "Rich, reddish-brown finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "TV",
+          "features": [
+            "Modern, flat-screen design"
+          ],
+          "materials": [
+            "Metal, possibly stainless steel"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Botanical Wall Art",
+          "features": [
+            "Large, framed artwork with leaf patterns"
+          ],
+          "materials": [
+            "Paper, possibly with a textured finish"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Sconces",
+          "features": [
+            "Slim, rectangular LED lights",
+            "Integrated into the wall paneling"
+          ],
+          "materials": [
+            "Metal for framework, glass for cover"
+          ],
+          "finish": "Brushed metal, clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige, white, brown, green"
+        ],
+        "materials": [
+          "Marble, wood, glass, metal"
+        ],
+        "lighting": "Soft ambient lighting from LED strips, natural light from the unseen window",
+        "texture": "Smooth surfaces, glossy finish on furniture and wall panels, textured leaf patterns in artwork"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly Indian regional style identified, but elements like carved wood and botanical motifs suggest inspiration",
+        "traditional_elements": [
+          "Carved wood door"
+        ],
+        "modern_adaptations": [
+          "Minimalist furniture, LED lighting, contemporary wall art"
+        ],
+        "space_utilization": "Efficient use of space with integrated storage and clean lines",
+        "cultural_significance": "The botanical wall art and carved door may symbolize nature and heritage, respectively"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern living room incorporates elements of Indian design, such as the carved wood door and botanical wall art, within a contemporary setting. The space features a marble accent wall with built-in LED lighting, minimalist furniture, and a clean, polished aesthetic. The use of rich wood contrasts with the crisp white marble and beige tones, creating a harmonious balance. Botanical patterns in the artwork and the natural finish of the wood door add a touch of traditional Indian charm, while the sleek, modern furniture and lighting fixtures maintain a contemporary feel. The space appears to be designed for relaxation and entertainment, with a focus on functionality and aesthetic appeal.",
+    "metadata": {
+      "tags": [
+        "Modern Living Room",
+        "Contemporary Indian Design",
+        "Marble Accent Wall",
+        "LED Lighting",
+        "Carved Wood Door",
+        "Botanical Artwork",
+        "Minimalist Furniture"
+      ],
+      "budget_indicator": "Medium to High, due to use of marble, polished wood, and LED lighting",
+      "space_type": "Living Room",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Carved wood door, botanical art, marble accents"
+    }
+  },
+  "cached_at": 1754914477003,
+  "cache_key": "e202c397744d1b2ca03cf852b42e2196"
+}

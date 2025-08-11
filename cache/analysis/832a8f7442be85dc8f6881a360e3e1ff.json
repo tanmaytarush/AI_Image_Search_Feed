@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00645.JPG",
+  "analysis": {
+    "image_id": "img_571",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Integrated countertop and cabinetry",
+        "Glass-front cabinets",
+        "L-shaped island"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Glass-front with frosted glass",
+            "Modern design with sleek lines"
+          ],
+          "materials": [
+            "MDF",
+            "Painted finish"
+          ],
+          "finish": "High-gloss finish"
+        },
+        {
+          "type": "Island",
+          "features": [
+            "Integrated countertop with white marble",
+            "U-shaped design"
+          ],
+          "materials": [
+            "Marble countertop",
+            "MDF cabinet"
+          ],
+          "finish": "High-gloss finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Mint green cabinets",
+          "White marble countertops",
+          "Brown marble flooring",
+          "Black accents"
+        ],
+        "materials": [
+          "Glass",
+          "Marble",
+          "MDF",
+          "Metal"
+        ],
+        "lighting": "Recessed lighting with pendant lights above the island",
+        "texture": "Smooth surfaces with glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Modern interpretations of traditional materials and design elements"
+        ],
+        "space_utilization": "Efficient use of space with an L-shaped island for additional workspace",
+        "cultural_significance": "The kitchen design aligns with modern Indian trends of incorporating sleek designs with minimalistic and functional elements"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian kitchen features a sleek design with glass-front cabinets, an L-shaped island, and white marble countertops. The space is well-lit with recessed lighting and pendant lights, creating a contemporary aesthetic. The use of mint green cabinets and black accents adds a touch of vibrancy while maintaining a clean and modern look. The island provides additional workspace and storage, making it a functional and stylish space.",
+      "metadata": {
+        "tags": [
+          "Modern Kitchen",
+          "Glass Cabinets",
+          "Marble Countertops",
+          "L-Shaped Island",
+          "Indian Design"
+        ],
+        "budget_indicator": "Mid to high-end, given the use of marble and glass in cabinetry",
+        "space_type": "Residential, likely a single-family home",
+        "functionality": "Primary purpose is food preparation with additional storage and workspace provided by the island",
+        "indian_specific": "The use of modern Indian design elements with glass and marble, aligning with contemporary trends"
+      }
+    }
+  },
+  "cached_at": 1754914068956,
+  "cache_key": "832a8f7442be85dc8f6881a360e3e1ff"
+}

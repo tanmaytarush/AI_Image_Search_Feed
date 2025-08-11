@@ -1,0 +1,119 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1703/insta_assets_crop_63612876-3ea8-4346-8d72-8e9bbcfa1f573414636832079757364.jpg",
+  "analysis": {
+    "image_id": "img_436",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Classic Indian",
+      "primary_features": [
+        "Teak wood paneling",
+        "Built-in bookshelves",
+        "Television unit",
+        "Carved wooden doors"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood paneling",
+          "features": [
+            "Warm brown color",
+            "Vertical lines"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Built-in bookshelves",
+          "features": [
+            "Elegant design",
+            "Copper accents"
+          ],
+          "materials": [
+            "Teak wood",
+            "Copper"
+          ],
+          "finish": "Matching wood and metallic"
+        },
+        {
+          "type": "Television unit",
+          "features": [
+            "Marble top",
+            "Carved wooden frame"
+          ],
+          "materials": [
+            "Marble",
+            "Teak wood"
+          ],
+          "finish": "Marble top with polished wood frame"
+        },
+        {
+          "type": "Carved wooden doors",
+          "features": [
+            "Artistic patterns",
+            "Golden accents"
+          ],
+          "materials": [
+            "Teak wood",
+            "Metal"
+          ],
+          "finish": "Carved wood with metallic details"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Warm brown",
+          "Marble grey",
+          "Gold",
+          "White"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Copper",
+          "Metal"
+        ],
+        "lighting": "Soft, natural lighting suggesting daytime",
+        "texture": "Smooth, polished surfaces with intricate carved details"
+      },
+      "indian_context": {
+        "regional_style": "Mughal-inspired",
+        "traditional_elements": [
+          "Teak wood paneling",
+          "Carved wooden doors"
+        ],
+        "modern_adaptations": [
+          "Built-in bookshelves",
+          "Television unit"
+        ],
+        "space_utilization": "Efficient use of wall space for storage and display",
+        "cultural_significance": "Elements symbolize the blend of traditional craftsmanship with modern functionality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a classic Indian living room with Mughal-inspired elements. The room features warm brown teak wood paneling, ornate carved wooden doors with golden accents, and a built-in bookshelf with a matching teak wood and copper finish. A marble-topped television unit with a carved wooden frame adds to the traditional aesthetic. The space utilizes wall space efficiently for storage and display, blending traditional craftsmanship with modern functionality.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Classic style",
+        "Mughal influence",
+        "Teak wood",
+        "Marble",
+        "Carved wood",
+        "Built-in shelves"
+      ],
+      "budget_indicator": "Mid-range, due to the use of high-quality materials like teak wood and marble",
+      "space_type": "Residential living room",
+      "functionality": "Entertainment and storage",
+      "indian_specific": "Carved wooden doors and teak wood paneling"
+    }
+  },
+  "cached_at": 1754911553609,
+  "cache_key": "5b9646d6675bae367eb1da9c5e54a0f4"
+}

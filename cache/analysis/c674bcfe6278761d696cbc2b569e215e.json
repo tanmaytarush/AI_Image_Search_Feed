@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/297/image_cropper_1729172645955.jpg",
+  "analysis": {
+    "image_id": "img_361",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Contemporary Minimalist",
+      "primary_features": [
+        "Bathroom cabinet with organization space",
+        "White walls",
+        "Wooden door",
+        "Light blue panel on wall"
+      ],
+      "objects": [
+        {
+          "type": "Bathroom cabinet",
+          "features": [
+            "Simple design",
+            "Organized storage"
+          ],
+          "materials": [
+            "Painted wood",
+            "Cabinet material"
+          ],
+          "finish": "Smooth finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Light blue",
+          "Wooden brown"
+        ],
+        "materials": [
+          "Painted wood",
+          "Metallic hardware"
+        ],
+        "lighting": "Natural light visible",
+        "texture": "Smooth and sleek surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly Indian",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary design with Indian-inspired wood and smooth surfaces"
+        ],
+        "space_utilization": "Efficient use of vertical space with organized storage",
+        "cultural_significance": "No specific cultural elements"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.92,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.75
+      },
+      "description": "This image depicts a modern minimalist bathroom with a focus on efficient space utilization and clean lines. The white walls and light blue panel on the wall create a fresh and calming atmosphere, while the wooden door and cabinet add a touch of warmth. The bathroom cabinet is designed with a simple yet functional approach, providing organized storage solutions. The overall design is contemporary, with a modern interpretation of traditional Indian elements like wood and smooth surfaces.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Bathroom",
+          "Modern Design",
+          "Contemporary",
+          "Efficient Storage"
+        ],
+        "budget_indicator": "Moderate, with a focus on functional and simple design",
+        "space_type": "Residential",
+        "functionality": "Primary purpose is as a functional bathroom with storage",
+        "indian_specific": "Modern adaptation of traditional Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1754910359102,
+  "cache_key": "c674bcfe6278761d696cbc2b569e215e"
+}

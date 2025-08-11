@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/755/image_cropper_1729529217550.jpg",
+  "analysis": {
+    "image_id": "img_385",
+    "ai_generated_tags": {
+      "room": "Hallway",
+      "theme": "Traditional Indian Interior",
+      "primary_features": [
+        "Wooden doors",
+        "Carved wooden ceiling",
+        "Brass or copper accents"
+      ],
+      "objects": [
+        {
+          "type": "Wooden doors",
+          "features": [
+            "Large, traditional Indian wooden doors with intricate carvings"
+          ],
+          "materials": [
+            "Teak or similar wood"
+          ],
+          "finish": "Smooth with carved details"
+        },
+        {
+          "type": "Ceiling",
+          "features": [
+            "Decorative wooden ceiling with traditional patterns"
+          ],
+          "materials": [
+            "Teak or similar wood"
+          ],
+          "finish": "Polished with intricate carvings"
+        },
+        {
+          "type": "Ceiling light",
+          "features": [
+            "Ceiling mounted light fixture with a white cover"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Shiny and reflective"
+        },
+        {
+          "type": "Doors",
+          "features": [
+            "Closed wooden doors with a traditional design"
+          ],
+          "materials": [
+            "Teak or similar wood"
+          ],
+          "finish": "Polished and smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood), white (ceiling light), metallic (hardware)"
+        ],
+        "materials": [
+          "Wood, metal, plaster"
+        ],
+        "lighting": "Natural light from the ceiling light",
+        "texture": "Smooth surfaces with intricate carvings"
+      },
+      "indian_context": {
+        "regional_style": "North Indian style",
+        "traditional_elements": [
+          "Wooden doors with carvings, carved wooden ceiling"
+        ],
+        "modern_adaptations": [
+          "Use of brass or copper accents for hardware"
+        ],
+        "space_utilization": "Compact hallway with doors for entry and exit",
+        "cultural_significance": "These elements reflect traditional craftsmanship and are often used in formal spaces for cultural significance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a traditional Indian hallway with wooden doors richly adorned with intricate carvings, a polished wooden ceiling with traditional patterns, and a ceiling-mounted light fixture with a white cover. The space is characterized by the use of teak or similar wood, brass or copper accents, and a color palette dominated by warm browns. The design elements reflect North Indian style, with a focus on traditional craftsmanship and cultural significance.",
+    "metadata": {
+      "tags": [
+        "Traditional Indian interior",
+        "North Indian style",
+        "wooden carvings",
+        "carved ceiling",
+        "wooden doors"
+      ],
+      "budget_indicator": "Moderate, with visible use of quality wood and some metallic accents",
+      "space_type": "Hallway",
+      "functionality": "Entry and exit point for the residential space",
+      "indian_specific": "Traditional Indian craftsmanship and cultural elements"
+    }
+  },
+  "cached_at": 1754910622340,
+  "cache_key": "0344996eaef33f13337e1b5f7734905a"
+}

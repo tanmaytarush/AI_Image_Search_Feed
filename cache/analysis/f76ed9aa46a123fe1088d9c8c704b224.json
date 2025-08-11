@@ -1,0 +1,127 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.47.36%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_078",
+    "ai_generated_tags": {
+      "room": "kitchen",
+      "theme": "contemporary",
+      "primary_features": [
+        "white cabinetry",
+        "pink accents",
+        "modern dining area",
+        "built-in appliances",
+        "marble countertops",
+        "under-cabinet lighting"
+      ],
+      "objects": [
+        {
+          "type": "dining table",
+          "features": [
+            "round shape",
+            "metallic base",
+            "black and gold accents"
+          ],
+          "materials": [
+            "wood",
+            "metal"
+          ],
+          "finish": "polished"
+        },
+        {
+          "type": "dining chairs",
+          "features": [
+            "orange and black frames",
+            "white cushions"
+          ],
+          "materials": [
+            "metal",
+            "fabric"
+          ],
+          "finish": "smooth"
+        },
+        {
+          "type": "cabinets",
+          "features": [
+            "white gloss finish",
+            "pink top section"
+          ],
+          "materials": [
+            "wood",
+            "paint"
+          ],
+          "finish": "glossy"
+        },
+        {
+          "type": "countertops",
+          "features": [
+            "marble pattern"
+          ],
+          "materials": [
+            "marble"
+          ],
+          "finish": "polished"
+        },
+        {
+          "type": "backsplash",
+          "features": [
+            "grid pattern"
+          ],
+          "materials": [
+            "tile"
+          ],
+          "finish": "smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "pink",
+          "black",
+          "orange",
+          "brown"
+        ],
+        "materials": [
+          "wood",
+          "metal",
+          "marble",
+          "tile",
+          "paint"
+        ],
+        "lighting": "natural light with accent lighting from under-cabinets",
+        "texture": "smooth surfaces with some glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "no specific regional style evident",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "contemporary design elements, such as pink accents and simple furniture"
+        ],
+        "space_utilization": "efficient use of space with built-in appliances and open layout",
+        "cultural_significance": "no culturally significant elements, as it appears to be a modern design space"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern kitchen features a contemporary design with a mix of traditional influences. The space includes built-in white cabinetry with a pink top section, sleek round dining table with metallic base, and modern dining chairs with orange and black frames. The marble countertops and grid-patterned backsplash add a touch of elegance, while the under-cabinet lighting enhances the contemporary aesthetic. The overall design is efficient and functional, with a focus on clean lines and a mix of traditional and contemporary elements.",
+    "metadata": {
+      "tags": [
+        "contemporary kitchen",
+        "modern design",
+        "pink accents",
+        "white cabinetry",
+        "marble countertops"
+      ],
+      "budget_indicator": "mid to high-end, with materials such as marble and polished finishes suggesting a higher budget",
+      "space_type": "residential kitchen",
+      "functionality": "primary purpose for dining and preparing food",
+      "indian_specific": "no specific Indian design features are present, as the space is modern and contemporary in style"
+    }
+  },
+  "cached_at": 1754904172857,
+  "cache_key": "f76ed9aa46a123fe1088d9c8c704b224"
+}

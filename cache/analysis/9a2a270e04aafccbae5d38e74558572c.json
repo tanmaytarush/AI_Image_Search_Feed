@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/318/image_cropper_1727446613419.jpg",
+  "analysis": {
+    "image_id": "img_440",
+    "ai_generated_tags": {
+      "room": "Entryway or Hallway",
+      "theme": "Traditional Indian Interior",
+      "primary_features": [
+        "Wooden door",
+        "Carved door handles",
+        "Glass inserts in door"
+      ],
+      "objects": [
+        {
+          "type": "Door",
+          "features": [
+            "Wooden, with carved designs on the handles",
+            "Glass inserts for privacy"
+          ],
+          "materials": [
+            "Wood (likely teak)",
+            "Glass"
+          ],
+          "finish": "Natural wood finish, possibly varnished or painted"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood), Clear (glass)"
+        ],
+        "materials": [
+          "Wood, Glass"
+        ],
+        "lighting": "Natural light, possibly from a source outside the frame",
+        "texture": "Smooth wood texture, slightly rougher at the door handles"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to a regional style, but could be from North India given the style of the door handles",
+        "traditional_elements": [
+          "Carved door handles"
+        ],
+        "modern_adaptations": [],
+        "space_utilization": "The space is organized for entrance, with the door as the focal point",
+        "cultural_significance": "The door handle carvings might be symbolic or decorative, reflecting cultural heritage and craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts an entryway or hallway with a wooden door featuring traditional carved handles and glass inserts. The design showcases elements of traditional Indian interior design, emphasizing craftsmanship and cultural heritage. The natural wood finish and the use of glass suggest a blend of functionality and aesthetics, typical of Indian interiors. The door serves as a primary functional element, optimizing the use of space for an entrance point.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Traditional design",
+          "Wooden door",
+          "Glass inserts",
+          "Carved handles"
+        ],
+        "budget_indicator": "Moderate, with the use of wood and glass indicating a middle to higher budget",
+        "space_type": "Residential entryway",
+        "functionality": "Entrance to the building, space for guests to pause before entering",
+        "indian_specific": "Carved door handles, wooden door, glass inserts"
+      }
+    }
+  },
+  "cached_at": 1754911595269,
+  "cache_key": "9a2a270e04aafccbae5d38e74558572c"
+}

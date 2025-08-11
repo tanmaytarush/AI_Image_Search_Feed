@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1452/image_cropper_1729770709871.jpg",
+  "analysis": {
+    "image_id": "img_296",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Striped accent wall",
+        "Circular mirror",
+        "Lamps with traditional base"
+      ],
+      "objects": [
+        {
+          "type": "Lamps",
+          "features": [
+            "Traditional base design",
+            "Decorative details"
+          ],
+          "materials": [
+            "Wood for base",
+            "Glass for lampshade"
+          ],
+          "finish": "Polished metallic finish"
+        },
+        {
+          "type": "Circular mirror",
+          "features": [
+            "Wall-mounted",
+            "Frameless modern design"
+          ],
+          "materials": [
+            "Glass",
+            "Metal frame"
+          ],
+          "finish": "Polished metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown and white stripes",
+          "White walls",
+          "Gold accents"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Natural light from unseen source, possibly from a window",
+        "texture": "Smooth wall finish, polished metal, glass"
+      },
+      "indian_context": {
+        "regional_style": "Southern Indian",
+        "traditional_elements": [
+          "Circular mirror, traditional base lamps"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with traditional elements"
+        ],
+        "space_utilization": "Efficient use of wall space, minimal furniture",
+        "cultural_significance": "Cultural relevance of circular mirrors in Southern Indian homes, often seen in prayer rooms or family halls"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This space features a contemporary design with modern elements and traditional Indian influences. The living room incorporates a striped accent wall with a circular mirror and traditional base lamps, creating a harmonious blend of modern sophistication and cultural heritage. The use of wood for the base and polished metal for the mirror frame reflects a Southern Indian regional style, integrating traditional decorative elements with a sleek, modern aesthetic.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Contemporary",
+          "Southern Indian",
+          "Traditional Base Lamps",
+          "Circular Mirror",
+          "Striped Accent Wall"
+        ],
+        "budget_indicator": "Mid to High, due to use of polished materials and traditional craftsmanship",
+        "space_type": "Residential - Living Room",
+        "functionality": "Relaxation and socializing",
+        "indian_specific": "Use of traditional base lamps and circular mirror"
+      }
+    }
+  },
+  "cached_at": 1754909095921,
+  "cache_key": "111b57baa8e5000b669fe9f161e9b120"
+}

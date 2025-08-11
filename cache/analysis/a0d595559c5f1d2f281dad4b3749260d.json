@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00702.JPG",
+  "analysis": {
+    "image_id": "img_576",
+    "ai_generated_tags": {
+      "room": "Living area",
+      "theme": "Classical Indian",
+      "primary_features": [
+        "Wooden cabinet with intricate brass detailing",
+        "Marble floor",
+        "Potted plants"
+      ],
+      "objects": [
+        {
+          "type": "Wooden cabinet",
+          "features": [
+            "Dark wood finish",
+            "Intricate brass detailing",
+            "Cabinet with drawer and closed door"
+          ],
+          "materials": [
+            "Wood",
+            "Brass"
+          ],
+          "finish": "Polished dark wood with brass accents"
+        },
+        {
+          "type": "Potted plant",
+          "features": [
+            "Green leaves",
+            "Terracotta pot"
+          ],
+          "materials": [
+            "Clay (pot)"
+          ],
+          "finish": "Natural terracotta with smooth finish"
+        },
+        {
+          "type": "Marble floor",
+          "features": [
+            "White marble with gold veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Smooth polished marble"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "White (marble)",
+          "Green (leaves)",
+          "Terracotta (pot)"
+        ],
+        "materials": [
+          "Wood",
+          "Brass",
+          "Marble",
+          "Clay"
+        ],
+        "lighting": "Natural light with warm ambient lighting",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Intricate brass detailing",
+          "Wooden cabinets"
+        ],
+        "modern_adaptations": [
+          "Marble flooring"
+        ],
+        "space_utilization": "Efficient use of space with functional furniture",
+        "cultural_significance": "Elements reflect traditional craftsmanship and respect for nature"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a traditional South Indian living area characterized by a wooden cabinet with ornate brass detailing, complemented by a terracotta potted plant and a polished marble floor. The warm tones of the wood and brass, contrasted with the white marble, create a harmonious blend of traditional and modern elements, reflecting cultural significance and craftsmanship. The use of potted plants adds a fresh, natural touch to the space.",
+    "metadata": {
+      "tags": [
+        "South Indian decor",
+        "Traditional furniture",
+        "Intricate brass detailing",
+        "Marble flooring",
+        "Potted plants"
+      ],
+      "budget_indicator": "Mid to high, due to materials like brass, marble, and polished wood",
+      "space_type": "Living area",
+      "functionality": "Storage and display area",
+      "indian_specific": "Intricate brass detailing and wooden cabinets are hallmark elements of South Indian interior design."
+    }
+  },
+  "cached_at": 1754914192826,
+  "cache_key": "a0d595559c5f1d2f281dad4b3749260d"
+}

@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/774/image_cropper_1729253115310.jpg",
+  "analysis": {
+    "image_id": "img_272",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Modular cabinets",
+        "Incorporated lighting",
+        "Hanging utensils"
+      ],
+      "objects": [
+        {
+          "type": "Modular cabinet",
+          "features": [
+            "Wooden finish",
+            "Integrated storage space",
+            "Textured panels"
+          ],
+          "materials": [
+            "Teak wood",
+            "Kabat material"
+          ],
+          "finish": "Natural wood finish with a hint of stain"
+        },
+        {
+          "type": "Incorporated lighting",
+          "features": [
+            "Recessed lighting",
+            "Under-cabinet lights"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        },
+        {
+          "type": "Hanging utensils",
+          "features": [
+            "Metal hooks",
+            "Organized storage"
+          ],
+          "materials": [
+            "Iron"
+          ],
+          "finish": "Rustic finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black",
+          "Silver"
+        ],
+        "materials": [
+          "Teak wood",
+          "Steel",
+          "Copper"
+        ],
+        "lighting": "A combination of recessed and under-cabinet lighting",
+        "texture": "Smooth surfaces with a mix of textural elements"
+      },
+      "indian_context": {
+        "regional_style": "Non-specific Indian regional style, more modern",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern kitchen features with Indian design elements"
+        ],
+        "space_utilization": "Efficient use of space with modular cabinets providing ample storage",
+        "cultural_significance": "The design reflects a modern interpretation of Indian kitchens, focusing on functionality and aesthetic appeal"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian kitchen with modular cabinets, incorporating both traditional and modern design elements. The kitchen features teak wood cabinets with a natural finish, under-cabinet lighting for functionality, and hanging utensils for storage and organization, reflecting a blend of traditional craftsmanship and contemporary design. The color palette is predominantly white and brown, with the use of metal and copper as accent materials. The lighting is modern, with recessed and under-cabinet lights, creating a well-lit environment. The space utilization is efficient, with ample storage provided by the modular cabinets.",
+    "metadata": {
+      "tags": [
+        "Indian Kitchen",
+        "Modern Design",
+        "Teak Wood",
+        "Under-Cabinet Lighting",
+        "Hanging Utensils"
+      ],
+      "budget_indicator": "Moderate, with the use of teak wood and metal materials",
+      "space_type": "Residential kitchen",
+      "functionality": "The space is primarily used for cooking and food preparation, with a focus on storage and organization",
+      "indian_specific": "The use of teak wood and the integration of hanging utensils are culturally relevant Indian design features"
+    }
+  },
+  "cached_at": 1754908815916,
+  "cache_key": "38fb24dfebace35a18e7761823b283d7"
+}

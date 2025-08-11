@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1111/image_cropper_1729605763678.jpg",
+  "analysis": {
+    "image_id": "img_446",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Contemporary Indian with Fusion Elements",
+      "primary_features": [
+        "Open kitchen design",
+        "Cabinet with marble top",
+        "Decorative wall elements",
+        "Modern kitchen appliances"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen cabinet",
+          "features": [
+            "Wooden texture with marble top",
+            "Glossy finish",
+            "Traditional handles"
+          ],
+          "materials": [
+            "Wood, marble"
+          ],
+          "finish": "Glossy"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Wood brown, marble grey",
+          "White walls",
+          "Light wooden tones"
+        ],
+        "materials": [
+          "Wood, marble, metal"
+        ],
+        "lighting": "Natural light from the window, accompanied by artificial lighting from the overhead lights",
+        "texture": "Glossy finish on furniture, smooth marble surface"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, more of a generic Indian style with fusion elements",
+        "traditional_elements": [
+          "Wooden furniture with traditional handles"
+        ],
+        "modern_adaptations": [
+          "Fusion of traditional and contemporary elements in design"
+        ],
+        "space_utilization": "Efficient use of space with built-in cabinets and open kitchen design",
+        "cultural_significance": "Use of traditional wood and marble, symbolizing luxury and heritage in contemporary settings"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.7,
+        "primary_features": 0.8,
+        "objects": 0.75,
+        "indian_context": 0.75
+      },
+      "description": "The image depicts a modern kitchen with an Indian-inspired design, featuring wooden cabinets with marble tops and traditional handles. The space incorporates contemporary elements like sleek kitchen appliances and lighting, blending traditional materials like wood and marble with contemporary finishes and design sensibilities. The overall aesthetic is elegant and functional, showcasing a fusion of traditional Indian design elements with modern conveniences.",
+      "metadata": {
+        "tags": [
+          "Indian interior",
+          "Kitchen design",
+          "Fusion",
+          "Wooden cabinets",
+          "Marble tops"
+        ],
+        "budget_indicator": "Moderate to High due to materials used (wood, marble)",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for cooking and storage, with an emphasis on aesthetics and practicality",
+        "indian_specific": "Traditional wood and marble finishes, traditional handles"
+      }
+    }
+  },
+  "cached_at": 1754911661561,
+  "cache_key": "099ebd347c5dab9005ed602e889ad0f8"
+}

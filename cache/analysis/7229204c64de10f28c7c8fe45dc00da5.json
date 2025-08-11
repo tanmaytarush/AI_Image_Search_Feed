@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1360/image_cropper_1729747063093.jpg",
+  "analysis": {
+    "image_id": "img_470",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden cabinets",
+        "Granite countertops",
+        "Recessed lighting"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen island",
+          "features": [
+            "Wooden countertop",
+            "Built-in sink",
+            "Recessed lighting"
+          ],
+          "materials": [
+            "Wood",
+            "Granite"
+          ],
+          "finish": "Polished wood, polished granite"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "Wooden finish",
+            "Recessed lighting",
+            "Shelving"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished wood"
+        },
+        {
+          "type": "Countertops",
+          "features": [
+            "Granite finish",
+            "Integrated sink"
+          ],
+          "materials": [
+            "Granite"
+          ],
+          "finish": "Polished granite"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light wood, dark wood, beige walls, metallic accents"
+        ],
+        "materials": [
+          "Wood, granite, metal"
+        ],
+        "lighting": "Recessed ceiling lights, natural light from windows",
+        "texture": "Smooth wood, polished granite, metallic surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Recessed lighting, polished wood and granite surfaces"
+        ],
+        "modern_adaptations": [
+          "Integration of modern design elements with traditional materials"
+        ],
+        "space_utilization": "Efficient layout with built-in storage and workspace",
+        "cultural_significance": "Polished materials and modern design reflect contemporary Indian aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian kitchen design with a blend of traditional and contemporary elements. The space features polished wood cabinets and granite countertops, integrated with recessed lighting for a warm, inviting ambiance. Traditional influences are subtly present in the careful use of wood and polished materials, reflecting a contemporary interpretation of Indian design. The kitchen is efficiently designed with built-in storage and a functional workspace, emphasizing both aesthetics and functionality.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Kitchen Design",
+        "Polished Wood",
+        "Granite Countertops",
+        "Recessed Lighting"
+      ],
+      "budget_indicator": "Moderate to high, due to materials like granite and polished wood cabinets",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is a functional kitchen with additional storage and workspace",
+      "indian_specific": "Polished wood and granite surfaces with modern design elements"
+    }
+  },
+  "cached_at": 1754911941504,
+  "cache_key": "7229204c64de10f28c7c8fe45dc00da5"
+}

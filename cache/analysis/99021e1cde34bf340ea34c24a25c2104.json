@@ -1,0 +1,131 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00655.JPG",
+  "analysis": {
+    "image_id": "img_092",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden partition with vertical slats",
+        "Decorative Buddha statue",
+        "Painting of horses",
+        "Wall-mounted clock",
+        "Modern LED lights",
+        "TV unit"
+      ],
+      "objects": [
+        {
+          "type": "Decorative Buddha statue",
+          "features": [
+            "White ceramic",
+            "Sitting in lotus position"
+          ],
+          "materials": [
+            "Ceramic"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Painting of horses",
+          "features": [
+            "Dynamic scene of running horses",
+            "Vibrant colors"
+          ],
+          "materials": [
+            "Canvas"
+          ],
+          "finish": "Matte"
+        },
+        {
+          "type": "Wall-mounted clock",
+          "features": [
+            "Roman numerals",
+            "Black frame"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Modern LED lights",
+          "features": [
+            "Circled design",
+            "Hanging"
+          ],
+          "materials": [
+            "Glass, Metal"
+          ],
+          "finish": "Shiny"
+        },
+        {
+          "type": "TV unit",
+          "features": [
+            "Large TV",
+            "Integrated storage"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Wood brown",
+          "White",
+          "Golden",
+          "Blue",
+          "Green",
+          "Yellow"
+        ],
+        "materials": [
+          "Wood",
+          "Ceramic",
+          "Metal",
+          "Glass",
+          "Canvas"
+        ],
+        "lighting": "Warm indoor lighting",
+        "texture": "Smooth wood, glossy ceramic, metallic, textured canvas"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional",
+        "traditional_elements": [
+          "Decorative Buddha statue",
+          "Wall hangings"
+        ],
+        "modern_adaptations": [
+          "LED lights",
+          "Modern furniture"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Incorporation of religious and cultural symbols"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space is a modern Indian living room featuring a wooden partition with vertical slats as a focal point. The partition is used to create a focal wall with a Buddha statue, a painting of horses, and LED lights. The room also includes a wall-mounted clock and a TV unit. The design incorporates traditional elements like the Buddha statue and wall hangings, while using modern lighting and furniture. The color palette includes warm browns, whites, and golds, reflecting the blend of traditional and contemporary styles. The space is well-lit with warm indoor lighting, creating a cozy and inviting atmosphere.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Indian Decor",
+        "Modern Design",
+        "Buddha Statue",
+        "Wall Hangings",
+        "LED Lighting"
+      ],
+      "budget_indicator": "Moderate, with the use of high-end materials like ceramic and polished wood",
+      "space_type": "Residential Living Room",
+      "functionality": "Entertainment and relaxation area",
+      "indian_specific": "Glossy Buddha statue, painting of horses, and use of vertical wooden slats"
+    }
+  },
+  "cached_at": 1754905660711,
+  "cache_key": "99021e1cde34bf340ea34c24a25c2104"
+}

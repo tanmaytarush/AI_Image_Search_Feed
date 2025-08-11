@@ -1,0 +1,110 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.47.29%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_059",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Minimalist with Indian Motifs",
+      "primary_features": [
+        "White wardrobe with black motifs",
+        "Clock on the wall",
+        "Window with bars"
+      ],
+      "objects": [
+        {
+          "type": "Wardrobe",
+          "features": [
+            "Double doors with decorative motifs",
+            "Simplified handles",
+            "Decorative screw-like elements at the bottom"
+          ],
+          "materials": [
+            "White painted surface",
+            "Black decorative material"
+          ],
+          "finish": "Glossy and reflective finish"
+        },
+        {
+          "type": "Clock",
+          "features": [
+            "Rectangular shape",
+            "Gold frame",
+            "Numerals in black"
+          ],
+          "materials": [
+            "Gold metal frame",
+            "White clock face"
+          ],
+          "finish": "Lustrous metallic"
+        },
+        {
+          "type": "Window",
+          "features": [
+            "Bars on the window for security",
+            "White painted frame"
+          ],
+          "materials": [
+            "Metal bars",
+            "White painted frame"
+          ],
+          "finish": "Shiny and reflective"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Black",
+          "Gold",
+          "Beige",
+          "Brown"
+        ],
+        "materials": [
+          "Painted wood",
+          "Metal",
+          "Decorative plastic"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": [
+          "Smooth painted surfaces",
+          "Metallic bars",
+          "Decorative plastic motifs"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, could be from any region",
+        "traditional_elements": [
+          "Om and Swastika symbols",
+          "Decorative screw-like elements"
+        ],
+        "modern_adaptations": [
+          "Minimalist approach with black motifs"
+        ],
+        "space_utilization": "Space is organized with functional furniture and decorative elements",
+        "cultural_significance": "Symbols like Om and Swastika are significant in Hindu culture, representing spirituality and good luck respectively"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases an entryway space with a minimalist design incorporating traditional Indian motifs. The wardrobe features a glossy white finish with black decorative motifs, including spiritual symbols like Om and Swastika. The room also includes a clock with a golden frame and a barred window, both adding to the functional yet culturally rich decor. The space utilizes simple yet effective storage with the wardrobe, emphasizing practicality while maintaining a connection to Indian design traditions.",
+    "metadata": {
+      "tags": [
+        "Indian design",
+        "Minimalist",
+        "Spiritual symbols",
+        "Decorative motifs",
+        "Entryway design"
+      ],
+      "budget_indicator": "Moderate, due to the use of glossy finishes and decorative elements",
+      "space_type": "Residential",
+      "functionality": "Storage and entryway",
+      "indian_specific": "Decorative elements with cultural significance"
+    }
+  },
+  "cached_at": 1754903232664,
+  "cache_key": "88bdb81d067f1c9818496d792892b3ce"
+}

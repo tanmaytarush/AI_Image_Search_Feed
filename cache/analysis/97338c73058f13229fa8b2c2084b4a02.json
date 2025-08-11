@@ -1,0 +1,72 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/138/image_cropper_1727768662938.jpg",
+  "analysis": {
+    "image_id": "img_182",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Minimalist with Indian Influences",
+      "primary_features": [
+        "Built-in cabinetry",
+        "Black countertops",
+        "White walls"
+      ],
+      "objects": [
+        {
+          "type": "Built-in cabinetry",
+          "features": [
+            "Shallow depth",
+            "Integrated light fixtures"
+          ],
+          "materials": [
+            "Wood veneer"
+          ],
+          "finish": "Shiny lacquer"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Black, white, light wood"
+        ],
+        "materials": [
+          "Wood, metal, glass"
+        ],
+        "lighting": "Natural light with integrated ceiling lights",
+        "texture": "Smooth surfaces with a slight grain in the wood"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional due to modern approach",
+        "traditional_elements": [
+          "Not visible"
+        ],
+        "modern_adaptations": [
+          "Minimalist interpretation of Indian design elements, such as use of teak for cabinetry"
+        ],
+        "space_utilization": "Efficient use of vertical space with built-in cabinets",
+        "cultural_significance": "The use of light wood may reference Indian architectural elements like teak, but the overall design is modern and functional."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.8
+    },
+    "description": "The image depicts a modern kitchen with a minimalist design, incorporating elements of Indian design. The kitchen features built-in cabinetry with a light wood finish and a black countertop. The room utilizes a clean and simple color palette, primarily white and black, with a smooth texture that is typical of modern design. The built-in cabinetry is a modern adaptation of traditional Indian cabinetry styles, such as the use of teak, though the overall design is more functional and sleek.",
+    "metadata": {
+      "tags": [
+        "modern kitchen",
+        "Indian design elements",
+        "minimalist design",
+        "built-in cabinetry",
+        "light wood"
+      ],
+      "budget_indicator": "Medium to High, due to use of high-quality materials like light wood and possibly granite or quartz countertops.",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is for cooking and food preparation, with an emphasis on efficiency and modern aesthetics.",
+      "indian_specific": "Modern interpretation of Indian design elements like the use of light wood for the cabinetry."
+    }
+  },
+  "cached_at": 1754907098111,
+  "cache_key": "97338c73058f13229fa8b2c2084b4a02"
+}

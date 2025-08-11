@@ -1,0 +1,97 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Enscape_2024-02-25-23-20-51.png",
+  "analysis": {
+    "image_id": "img_594",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Decorative ceiling design",
+        "Marble accent wall",
+        "Modern TV stand"
+      ],
+      "objects": [
+        {
+          "type": "Chandelier",
+          "features": [
+            "Gold finish",
+            "Decorative design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Gold"
+        },
+        {
+          "type": "Ceiling Light",
+          "features": [
+            "Integrated into ceiling design",
+            "Modern style"
+          ],
+          "materials": [
+            "Plastic"
+          ],
+          "finish": "White"
+        },
+        {
+          "type": "TV Stand",
+          "features": [
+            "Modern design",
+            "Light wood finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Light brown"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gold"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Natural light and recessed ceiling lights",
+        "texture": "Smooth surfaces on walls and ceiling"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but contemporary with Indian influences",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary design with traditional motifs",
+          "Marble and wood accents"
+        ],
+        "space_utilization": "Open and spacious, optimized for living and entertainment",
+        "cultural_significance": "Focus on modernity with a touch of traditional Indian design, suggesting a blend of old and new values"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior features a contemporary living room with an emphasis on modern design elements while incorporating traditional Indian motifs. The ceiling design includes intricate geometric patterns, a common feature in traditional Indian homes. The walls are decorated with a marble accent, reflecting a luxurious and modern aesthetic. The room is illuminated by both recessed ceiling lights and a chandelier, creating a warm and welcoming atmosphere. The TV stand, with its light wood finish, adds a touch of traditional craftsmanship to the modern setting.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Marble",
+        "Wood",
+        "Chandelier",
+        "Living Room"
+      ],
+      "budget_indicator": "Moderate-high, due to the use of marble and wood finishes",
+      "space_type": "Living Room",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Decorative ceiling design and use of marble"
+    }
+  },
+  "cached_at": 1754914805967,
+  "cache_key": "00cf342439f65311c324ec2781ae312f"
+}

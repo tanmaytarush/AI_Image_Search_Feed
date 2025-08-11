@@ -1,0 +1,124 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/637/image_cropper_1729238861629.jpg",
+  "analysis": {
+    "image_id": "img_317",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Minimalist",
+      "primary_features": [
+        "U-shaped counter",
+        "stainless steel appliances",
+        "wooden cabinets",
+        "black countertops",
+        "white walls",
+        "recessed lighting"
+      ],
+      "objects": [
+        {
+          "type": "U-shaped counter",
+          "features": [
+            "modern design, sleek lines, integrated sink"
+          ],
+          "materials": [
+            "stainless steel, engineered stone"
+          ],
+          "finish": "smooth, polished"
+        },
+        {
+          "type": "cabinets",
+          "features": [
+            "wooden, clean lines, modern design"
+          ],
+          "materials": [
+            "wood, engineered wood, or MDF"
+          ],
+          "finish": "glossy, lacquered"
+        },
+        {
+          "type": "countertops",
+          "features": [
+            "black, sleek surface"
+          ],
+          "materials": [
+            "engineered stone, quartz"
+          ],
+          "finish": "smooth, glossy"
+        },
+        {
+          "type": "backsplash",
+          "features": [
+            "white tiles, clean, linear design"
+          ],
+          "materials": [
+            "ceramic tiles"
+          ],
+          "finish": "smooth, glossy"
+        },
+        {
+          "type": "appliances",
+          "features": [
+            "stainless steel, modern design"
+          ],
+          "materials": [
+            "stainless steel"
+          ],
+          "finish": "polished, reflective"
+        },
+        {
+          "type": "kitchen island",
+          "features": [
+            "U-shaped, modern design, integrated sink"
+          ],
+          "materials": [
+            "wood, engineered stone"
+          ],
+          "finish": "smooth, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "black, white, silver"
+        ],
+        "materials": [
+          "wood, engineered wood, stainless steel, engineered stone, ceramic tiles"
+        ],
+        "lighting": "recessed, modern, ambient",
+        "texture": "smooth, glossy, linear"
+      },
+      "indian_context": {
+        "regional_style": "Minimalist",
+        "traditional_elements": [
+          "absence of traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "integration of modern design elements with traditional materials"
+        ],
+        "space_utilization": "optimization of space with modern furniture and clean lines",
+        "cultural_significance": "modern adaptation of Indian design principles with contemporary aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.85,
+      "primary_features": 0.88,
+      "objects": 0.92,
+      "indian_context": 0.82
+    },
+    "description": "The image showcases a modern kitchen with minimalist design elements, featuring a sleek U-shaped counter, stainless steel appliances, and wooden cabinets with a glossy finish. The black countertops provide a stark contrast to the white walls and ceiling, while the recessed lighting offers a contemporary feel. The space is optimized for functionality with clean lines and integrated sink solutions, reflecting a modern adaptation of Indian design principles.",
+    "metadata": {
+      "tags": [
+        "modern kitchen",
+        "minimalist design",
+        "wooden cabinets",
+        "black countertops",
+        "recessed lighting"
+      ],
+      "budget_indicator": "Moderate to high, given the use of stainless steel, engineered stone, and modern finishes",
+      "space_type": "Residential kitchen",
+      "functionality": "Primary purpose is for food preparation, with additional space for casual dining or storage",
+      "indian_specific": "No traditional Indian design features are visible, focusing on modern adaptations"
+    }
+  },
+  "cached_at": 1754909634166,
+  "cache_key": "c0b94da67d86053910adbe1f782d33ed"
+}

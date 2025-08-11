@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00489.JPG",
+  "analysis": {
+    "image_id": "img_563",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Large built-in wardrobe",
+        "Marble flooring",
+        "Wooden cabinetry",
+        "Sheer curtain"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Marble panels",
+            "Sliding doors",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Marble",
+            "Wood"
+          ],
+          "finish": "High-gloss finish"
+        },
+        {
+          "type": "Sheer curtain",
+          "features": [
+            "White fabric",
+            "Copper curtain rod"
+          ],
+          "materials": [
+            "Cotton",
+            "Metal"
+          ],
+          "finish": "Soft texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Beige",
+          "Blue"
+        ],
+        "materials": [
+          "Marble",
+          "Wood",
+          "Cotton",
+          "Metal"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth marble, soft cotton, glossy wood"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style evident, but some elements suggest urban Indian design",
+        "traditional_elements": [
+          "Wooden cabinetry"
+        ],
+        "modern_adaptations": [
+          "Marble panels instead of traditional wood, modern sliding doors"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage and minimal decor",
+        "cultural_significance": "Indian design elements, such as the sheer curtain and wooden cabinetry, reflect a blend of traditional and contemporary styles"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The interior space features a minimalist bedroom with a blend of Indian design elements. The large built-in wardrobe is constructed from white marble panels with a glossy finish, framed by dark wood, reflecting urban Indian design trends. A sheer curtain in white fabric, hung on a copper rod, adds a cultural touch and complements the overall aesthetic. The space is well-lit with natural light from a window and demonstrates efficient use of space with built-in storage solutions, combining traditional materials like wood with modern finishes like marble.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Indian Interior",
+        "Marble",
+        "Wood",
+        "Sheer Curtain",
+        "Urban Design"
+      ],
+      "budget_indicator": "Moderate to High, given the use of marble and wood",
+      "space_type": "Residential Bedroom",
+      "functionality": "Storage and sleeping area",
+      "indian_specific": "Sheer curtain and wooden cabinetry"
+    }
+  },
+  "cached_at": 1754913849425,
+  "cache_key": "51895a8ec5edf715daa1b0fc210dc3b4"
+}

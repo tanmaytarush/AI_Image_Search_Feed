@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/606/image_cropper_1729164373880.jpg",
+  "analysis": {
+    "image_id": "img_449",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Ceiling with embedded lights",
+        "Sliding door",
+        "Modern furniture with traditional accents"
+      ],
+      "objects": [
+        {
+          "type": "Furniture",
+          "features": [
+            "Modern design with traditional brass accents"
+          ],
+          "materials": [
+            "Brass",
+            "Wood"
+          ],
+          "finish": "Polished brass and natural wood finish"
+        },
+        {
+          "type": "Lighting",
+          "features": [
+            "Embedded LED lights in ceiling"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Brushed metal finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Blue",
+          "Brass"
+        ],
+        "materials": [
+          "Brass",
+          "Wood",
+          "Metal"
+        ],
+        "lighting": "Modern blue LED lights in ceiling",
+        "texture": "Smooth surfaces with polished brass accents"
+      },
+      "indian_context": {
+        "regional_style": "Mumbai Modern",
+        "traditional_elements": [
+          "Brass accents"
+        ],
+        "modern_adaptations": [
+          "Combination of modern design with traditional brass elements"
+        ],
+        "space_utilization": "Efficient use of space with sliding door for flexible use",
+        "cultural_significance": "Brass is culturally significant in India, symbolizing prosperity and good fortune"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian living room combines contemporary design elements with traditional brass accents. The polished brass furniture adds a touch of elegance and cultural significance, while the embedded LED lights in the ceiling create a sophisticated and stylish ambiance. The sliding door maximizes the use of space, making it a flexible and functional living area.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Brass accents",
+          "LED lights",
+          "Sliding door",
+          "Living room"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Living area",
+        "indian_specific": "Brass accents, traditional meets modern"
+      }
+    }
+  },
+  "cached_at": 1754911701678,
+  "cache_key": "60c161b5aac2c4cea2ae9814487217d2"
+}

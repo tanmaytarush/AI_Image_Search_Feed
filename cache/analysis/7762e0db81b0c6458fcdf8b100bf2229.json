@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1402/image_cropper_1729756489929.jpg",
+  "analysis": {
+    "image_id": "img_341",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Classic chandelier",
+        "Carved wooden paneling",
+        "Glass display case"
+      ],
+      "objects": [
+        {
+          "type": "Chandelier",
+          "features": [
+            "Modern design with intricate metalwork"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Shiny metallic"
+        },
+        {
+          "type": "Wooden Paneling",
+          "features": [
+            "Carved details, symmetrical design"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished, natural wood tone"
+        },
+        {
+          "type": "Glass Display Case",
+          "features": [
+            "Rectangular shape, modern minimalist design"
+          ],
+          "materials": [
+            "Glass",
+            "Metal"
+          ],
+          "finish": "Clear glass with metallic frame"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Teak wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light from ceiling lights, artificial light from chandelier",
+        "texture": "Smooth glass, polished wood, shiny metal"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtra",
+        "traditional_elements": [
+          "Carved wooden paneling"
+        ],
+        "modern_adaptations": [
+          "Minimalist glass display case"
+        ],
+        "space_utilization": "Open layout with clear pathways, focused on functionality and aesthetics",
+        "cultural_significance": "Carved wood symbolizes craftsmanship and heritage in Indian design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This foyer showcases a blend of traditional Indian craftsmanship with modern design sensibilities. The room features intricately carved wooden paneling in the style of Maharashtra, complemented by a contemporary chandelier and a minimalist glass display case. The color palette of white, brown, and black is typical of modern Indian design, reflecting elegance and sophistication. The space is organized for both functionality and aesthetic appeal, making it a perfect entryway that respects Indian design heritage while embracing modern tastes.",
+    "metadata": {
+      "tags": [
+        "Foyer",
+        "Modern Indian",
+        "Carved Wood",
+        "Glass Display Case",
+        "Minimalist Design"
+      ],
+      "budget_indicator": "Moderate to high, due to materials like teak wood and glass",
+      "space_type": "Residential",
+      "functionality": "Entrance and reception area",
+      "indian_specific": "Carved wooden paneling, use of teak wood"
+    }
+  },
+  "cached_at": 1754909918259,
+  "cache_key": "7762e0db81b0c6458fcdf8b100bf2229"
+}

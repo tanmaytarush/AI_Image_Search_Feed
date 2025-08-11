@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00458.JPG",
+  "analysis": {
+    "image_id": "img_560",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian Inspired",
+      "primary_features": [
+        "Marble flooring",
+        "Built-in wardrobe with glass doors",
+        "Tufted fabric headboard",
+        "Ceiling with recessed lighting"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Tufted fabric headboard",
+            "Patterned blue and white bedding"
+          ],
+          "materials": [
+            "Wood (headboard)",
+            "Fabric (bedding)"
+          ],
+          "finish": "Texture of fabric and smooth wood finish"
+        },
+        {
+          "type": "Built-in Wardrobe",
+          "features": [
+            "Glass doors",
+            "Wooden frame"
+          ],
+          "materials": [
+            "Glass",
+            "Wood"
+          ],
+          "finish": "Shiny glass doors with wooden frame"
+        },
+        {
+          "type": "Ceiling",
+          "features": [
+            "Recessed lighting",
+            "Modern design"
+          ],
+          "materials": [
+            "Ceiling tiles"
+          ],
+          "finish": "Smooth ceiling tiles with recessed lights"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige marble flooring",
+          "Blue and white bedding",
+          "Brown wooden headboard",
+          "White ceiling tiles"
+        ],
+        "materials": [
+          "Marble",
+          "Glass",
+          "Wood",
+          "Fabric"
+        ],
+        "lighting": "Natural light from windows and recessed ceiling lights",
+        "texture": "Smooth marble, glass, fabric, and wood textures"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional",
+        "traditional_elements": [
+          "Tufted fabric headboard",
+          "Built-in wardrobe"
+        ],
+        "modern_adaptations": [
+          "Glass doors on wardrobe, recessed ceiling lights"
+        ],
+        "space_utilization": "Efficient use of space with built-in wardrobes and storage under the bed",
+        "cultural_significance": "Tufted headboard reflects traditional comfort and style, while modern elements add a contemporary twist"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern Indian-inspired bedroom with a blend of traditional and contemporary elements. The room features built-in wardrobes with glass doors, enhancing functionality and style, alongside a tufted fabric headboard that adds a touch of traditional comfort. The marble flooring provides a luxurious base, complemented by the neutral beige tones of the ceiling and walls. The use of recessed lighting and natural light from the windows creates a bright and airy atmosphere. The blue and white bedding adds a pop of color, tying in with the overall modern yet warm aesthetic.",
+    "metadata": {
+      "tags": [
+        "Modern Indian Style",
+        "Marble Flooring",
+        "Built-in Wardrobe",
+        "Tufted Headboard",
+        "Glass Doors"
+      ],
+      "budget_indicator": "Mid-range to high, given the use of marble, glass, and fabric in built-in wardrobes",
+      "space_type": "Residential",
+      "functionality": "Sleeping and storage",
+      "indian_specific": "Tufted headboard, built-in wardrobes"
+    }
+  },
+  "cached_at": 1754913771253,
+  "cache_key": "6c6ca022772e11a50d72c733aadde102"
+}

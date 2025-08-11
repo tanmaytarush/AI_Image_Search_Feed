@@ -1,0 +1,118 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/TV%20unit.png",
+  "analysis": {
+    "image_id": "img_588",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Marble wall paneling",
+        "Teak wood cabinet",
+        "TV stand",
+        "Wall sconces",
+        "Chandelier"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood cabinet",
+          "features": [
+            "Dark brown finish",
+            "Modern design with glass doors"
+          ],
+          "materials": [
+            "Teak wood, glass"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "TV stand",
+          "features": [
+            "Dark brown finish",
+            "Modern minimalist design",
+            "Metallic accents"
+          ],
+          "materials": [
+            "Teak wood, metal"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Marble wall paneling",
+          "features": [
+            "White marble with gold accents"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High-gloss"
+        },
+        {
+          "type": "Wall sconces",
+          "features": [
+            "Modern design",
+            "LED lighting"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        },
+        {
+          "type": "Chandelier",
+          "features": [
+            "Gold finish",
+            "Caged design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished gold"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White marble, brown teak, gold accents, beige marble floor"
+        ],
+        "materials": [
+          "Marble, teak wood, glass, metal"
+        ],
+        "lighting": "Mix of natural and artificial lighting with wall sconces and chandelier",
+        "texture": "Smooth surfaces with marble, teak, and metallic finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not specific to any regional style, but could be modern Indian with contemporary influences",
+        "traditional_elements": [
+          "Teak wood"
+        ],
+        "modern_adaptations": [
+          "Marble, glass, metallic finishes"
+        ],
+        "space_utilization": "Efficient use of space with minimalistic decor and integrated storage",
+        "cultural_significance": "Teak wood is often used in Indian homes, symbolizing durability and strength, while the use of marble and modern elements reflects a blend of traditional and contemporary aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The living room features a contemporary Indian design with a blend of traditional elements and modern aesthetics. The room includes a marble wall panel with gold accents, a teak wood cabinet with glass doors, and a modern TV stand with metallic accents. The space is well-lit with wall sconces and a chandelier, showcasing a mix of traditional materials like teak wood and modern materials like marble and glass. The overall design is minimalist yet luxurious, reflecting a blend of cultural significance and contemporary style.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Contemporary Indian",
+        "Teak Wood",
+        "Marble",
+        "Gold Accents"
+      ],
+      "budget_indicator": "Mid to high, due to the use of marble and teak wood",
+      "space_type": "Residential living room",
+      "functionality": "Entertainment and relaxation",
+      "indian_specific": "Teak wood cabinet, marble wall paneling"
+    }
+  },
+  "cached_at": 1754914446570,
+  "cache_key": "a953d7fc673b9ba9a4b70aa3a001f0b5"
+}

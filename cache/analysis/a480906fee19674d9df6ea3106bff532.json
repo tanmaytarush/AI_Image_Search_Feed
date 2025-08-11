@@ -1,0 +1,71 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1281/image_cropper_1729702294726.jpg",
+  "analysis": {
+    "image_id": "img_197",
+    "ai_generated_tags": {
+      "room": "Office or hospitality",
+      "theme": "Modern Indian Commercial",
+      "primary_features": [
+        "Long corridor with glass panels, green accents, white walls"
+      ],
+      "objects": [
+        {
+          "type": "Furniture",
+          "features": [
+            "Seating area with green chairs and white tables"
+          ],
+          "materials": [
+            "Fabric and metal"
+          ],
+          "finish": "Matte and polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, green, gray, black"
+        ],
+        "materials": [
+          "Glass, metal, fabric, wood"
+        ],
+        "lighting": "Natural light from large windows, artificial lighting along the corridor",
+        "texture": "Sleek and modern"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Not traditional Indian elements"
+        ],
+        "modern_adaptations": [
+          "Contemporary use of glass, metal, and modern furniture"
+        ],
+        "space_utilization": "Open and linear design for efficient movement and public interaction",
+        "cultural_significance": "Modern interpretation of Indian design, possibly for a culture-specific business or hospitality setting"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.83,
+        "objects": 0.89,
+        "indian_context": 0.75
+      },
+      "description": "This image depicts a modern Indian office or hospitality space with a focus on clean lines and a contemporary aesthetic. The corridor features long panels of glass, which allow natural light to flood in and create a sense of openness. The walls are painted white, and the floor has a patterned design, adding a touch of sophistication. Green accents, such as the chairs and paneling, provide a pop of color that is often seen in modern Indian design, especially in commercial settings. The seating area includes modern furniture with a mix of fabric and metal finishes, reflecting a blend of traditional craftsmanship and contemporary design principles.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "modern",
+          "office space",
+          "corridor",
+          "glass panels",
+          "green accents",
+          "white walls"
+        ],
+        "budget_indicator": "Mid-range to high, due to the use of glass, metal, and modern furniture",
+        "space_type": "Commercial",
+        "functionality": "Public or semi-public space, likely for waiting, meeting, or general office use",
+        "indian_specific": "Modern adaptation of Indian design elements and color schemes"
+      }
+    }
+  },
+  "cached_at": 1754907371330,
+  "cache_key": "a480906fee19674d9df6ea3106bff532"
+}

@@ -679,11 +679,14 @@ Return ONLY a JSON object with enhanced results:
    */
   async getExistingRoomTypes() {
     try {
-      const response = await qdrantService.client.scroll("interior_images", {
-        limit: 1000,
-        with_payload: true,
-        with_vector: false,
-      });
+      const response = await qdrantService.client.scroll(
+        "interior_images_description",
+        {
+          limit: 1000,
+          with_payload: true,
+          with_vector: false,
+        }
+      );
 
       const roomTypes = new Set();
       response.points.forEach((point) => {
@@ -704,11 +707,14 @@ Return ONLY a JSON object with enhanced results:
    */
   async getAllDatabaseTags() {
     try {
-      const response = await qdrantService.client.scroll("interior_images", {
-        limit: 1000,
-        with_payload: true,
-        with_vector: false,
-      });
+      const response = await qdrantService.client.scroll(
+        "interior_images_description",
+        {
+          limit: 1000,
+          with_payload: true,
+          with_vector: false,
+        }
+      );
 
       const allTags = new Set();
 

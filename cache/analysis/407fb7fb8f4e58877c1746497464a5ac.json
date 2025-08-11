@@ -1,0 +1,94 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Mother_s%20bedroom%20004.png",
+  "analysis": {
+    "image_id": "img_587",
+    "ai_generated_tags": {
+      "room": "Walk-in closet",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Louvered sliding doors",
+        "Built-in storage units",
+        "Central bench with storage drawers"
+      ],
+      "objects": [
+        {
+          "type": "Louvered sliding doors",
+          "features": [
+            "Decorative vertical slats with a natural finish",
+            "Integrated with white paneling for a modern look"
+          ],
+          "materials": [
+            "Wood, lacquer"
+          ],
+          "finish": "Smooth, glossy"
+        },
+        {
+          "type": "Built-in storage units",
+          "features": [
+            "Compact and sleek design",
+            "White lacquered finish with gold accents"
+          ],
+          "materials": [
+            "Lacquered MDF"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Central bench with storage drawers",
+          "features": [
+            "Wooden top with polished finish",
+            "White lacquered storage drawers with gold handles"
+          ],
+          "materials": [
+            "Wood, lacquered MDF"
+          ],
+          "finish": "Glossy, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, natural wood, gold"
+        ],
+        "materials": [
+          "Wood, lacquered MDF, metal"
+        ],
+        "lighting": "Natural light from a window on the right and recessed lighting",
+        "texture": "Smooth surfaces with a mix of natural wood grain textures"
+      },
+      "indian_context": {
+        "regional_style": "Cannot determine specific regional style",
+        "traditional_elements": [
+          "Decorative vertical slats"
+        ],
+        "modern_adaptations": [
+          "Contemporary design with white and gold accents"
+        ],
+        "space_utilization": "Efficient use of wall space for storage and a central bench for functionality",
+        "cultural_significance": "The use of decorative vertical slats adds a touch of traditional Indian aesthetics while incorporating modern design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern and minimalist walk-in closet with a contemporary Indian fusion style. The space features louvered sliding doors with decorative vertical slats, built-in storage units with a white lacquered finish and gold accents, and a central bench with storage drawers. The use of natural wood and metallic gold elements adds a touch of traditional Indian aesthetics, while the overall design is contemporary and sleek.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian Fusion",
+        "Walk-in closet",
+        "Modern design",
+        "Indian elements",
+        "White lacquer"
+      ],
+      "budget_indicator": "Mid to high-end, due to the use of lacquered MDF and metal accents",
+      "space_type": "Residential, private space",
+      "functionality": "Storage and organization",
+      "indian_specific": "Louvered doors with decorative vertical slats, white lacquer finish with gold accents"
+    }
+  },
+  "cached_at": 1754914406146,
+  "cache_key": "407fb7fb8f4e58877c1746497464a5ac"
+}

@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/675/image_cropper_D06F8068-1D50-4D75-9E44-6D9A7269B525-2862-00000111C20E7DC5.jpg",
+  "analysis": {
+    "image_id": "img_183",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Colonial Revival",
+      "primary_features": [
+        "Wooden cabinets",
+        "Black countertop",
+        "White wall tiles"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Wooden",
+            "With glass doors",
+            "Matching wood finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Shiny lacquer finish"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Black",
+            "Smooth surface"
+          ],
+          "materials": [
+            "Marble or granite"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "Black",
+          "White",
+          "Dark brown"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Metal"
+        ],
+        "lighting": "Soft lighting with recessed lights in the ceiling",
+        "texture": "Smooth and shiny surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly identifiable",
+        "traditional_elements": [
+          "Wooden cabinets"
+        ],
+        "modern_adaptations": [
+          "Black countertop, white tiles"
+        ],
+        "space_utilization": "Efficient use of space with designated cabinet and countertop areas",
+        "cultural_significance": "The use of wood in cabinetry reflects traditional craftsmanship and materials commonly used in Indian interiors"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.75,
+      "primary_features": 0.9,
+      "objects": 0.92,
+      "indian_context": 0.85
+    },
+    "description": "The image depicts a kitchen space with elements reflecting a colonial revival design. The wooden cabinets with glass doors suggest an adaptation of traditional Indian cabinetry styles, while the black countertop and white wall tiles provide a modern twist. The overall design is clean and functional, with smooth surfaces and efficient space utilization.",
+    "metadata": {
+      "tags": [
+        "Kitchen",
+        "Colonial Revival",
+        "Wooden Cabinets",
+        "Black Countertop",
+        "Indian Interior"
+      ],
+      "budget_indicator": "Moderate, with the use of wood and polished marble or granite",
+      "space_type": "Residential",
+      "functionality": "Primary purpose is food preparation and storage",
+      "indian_specific": "Wooden cabinets with a traditional finish"
+    }
+  },
+  "cached_at": 1754907106383,
+  "cache_key": "23a8086a1aaabe426a0ba8285ab501df"
+}

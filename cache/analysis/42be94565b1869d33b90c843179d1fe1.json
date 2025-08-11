@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/487/image_cropper_1728896307779.jpg",
+  "analysis": {
+    "image_id": "img_293",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Colonial Revival",
+      "primary_features": [
+        "Dark blue wall paneling",
+        "Carved wooden armchairs",
+        "Built-in wet bar"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden armchair",
+          "features": [
+            "Traditional Indian design with intricate carvings",
+            "Luxurious upholstery"
+          ],
+          "materials": [
+            "Teak wood",
+            "Cotton fabric"
+          ],
+          "finish": "Rich, polished wood finish; soft, plush upholstery"
+        },
+        {
+          "type": "Built-in wet bar",
+          "features": [
+            "Compact and functional design",
+            "Glass panels for storage and display"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Polished wood finish; smooth glass surfaces"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark blue, cream, brown, white"
+        ],
+        "materials": [
+          "Wood, glass, fabric"
+        ],
+        "lighting": "Soft, ambient lighting from ceiling fixtures, creating a warm atmosphere",
+        "texture": "Smooth and polished wood, soft fabric upholstery, glass surfaces"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Carved woodwork",
+          "Armchairs with traditional design"
+        ],
+        "modern_adaptations": [
+          "Wet bar design",
+          "Compact furniture layout"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture and storage solutions",
+        "cultural_significance": "The ornate carvings and luxurious materials reflect South Indian craftsmanship and attention to detail"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a living room with a colonial revival theme, featuring dark blue wall paneling, intricately carved wooden armchairs, and a compact built-in wet bar. The space is designed with traditional Indian elements such as the carved woodwork and luxurious upholstery, while incorporating modern adaptations like the wet bar. The color palette is rich and warm, dominated by dark blue, cream, brown, and white, creating a sophisticated and elegant atmosphere.",
+    "metadata": {
+      "tags": [
+        "Colonial Revival",
+        "South Indian",
+        "Luxury Living Room",
+        "Carved Furniture",
+        "Wet Bar"
+      ],
+      "budget_indicator": "High, as indicated by the use of high-quality materials like teak wood and polished brass",
+      "space_type": "Residential Living Room",
+      "functionality": "Used for relaxation and entertaining, with a focus on stylish and functional design",
+      "indian_specific": "Ornate carvings and luxurious upholstery"
+    }
+  },
+  "cached_at": 1754909058179,
+  "cache_key": "42be94565b1869d33b90c843179d1fe1"
+}

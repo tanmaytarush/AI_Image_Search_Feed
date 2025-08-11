@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/726/image_cropper_1729677149591.jpg",
+  "analysis": {
+    "image_id": "img_213",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist",
+      "primary_features": [
+        "U-shaped counter",
+        "cabinets",
+        "backsplash"
+      ],
+      "objects": [
+        {
+          "type": "Countertop",
+          "features": [
+            "smooth surface",
+            "shiny finish"
+          ],
+          "materials": [
+            "granite"
+          ],
+          "finish": "High-gloss"
+        },
+        {
+          "type": "Cabinets",
+          "features": [
+            "slim design",
+            "light wood finish"
+          ],
+          "materials": [
+            "wood"
+          ],
+          "finish": "Natural wood"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "simple design",
+            "light color"
+          ],
+          "materials": [
+            "ceramic tiles"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "gray",
+          "brown"
+        ],
+        "materials": [
+          "granite",
+          "wood",
+          "ceramic tiles"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No regional specific style observed",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist style with modern materials like granite"
+        ],
+        "space_utilization": "Efficient use of space with U-shaped counter",
+        "cultural_significance": "No cultural elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.9,
+        "objects": 0.92,
+        "indian_context": 0.8
+      },
+      "description": "The image depicts a modern kitchen with minimalistic design elements. The space features an U-shaped counter with a high-gloss granite countertop, slim light wood cabinets, and a simple ceramic tile backsplash. The overall aesthetic is clean and contemporary with an emphasis on functionality and simplicity.",
+      "metadata": {
+        "tags": [
+          "kitchen",
+          "modern",
+          "minimalism",
+          "granite",
+          "wood"
+        ],
+        "budget_indicator": "Mid-range",
+        "space_type": "Residential",
+        "functionality": "Cooking and food preparation",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1754907675707,
+  "cache_key": "8a71baf18249460c893d75ccb3ce0e6c"
+}

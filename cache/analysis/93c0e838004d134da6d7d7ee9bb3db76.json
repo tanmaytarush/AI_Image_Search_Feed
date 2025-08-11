@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/111/image_cropper_1726652899708.jpg",
+  "analysis": {
+    "image_id": "img_148",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modular Furniture",
+      "primary_features": [
+        "Built-in wardrobe",
+        "Dark wood finish",
+        "Glass-enclosed space"
+      ],
+      "objects": [
+        {
+          "type": "Built-in Wardrobe",
+          "features": [
+            "Dark wood finish",
+            "Glass doors on one side",
+            "Embedded lighting"
+          ],
+          "materials": [
+            "Dark wood",
+            "Glass"
+          ],
+          "finish": "Sleek and modern finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown",
+          "Black",
+          "White"
+        ],
+        "materials": [
+          "Dark wood",
+          "Glass"
+        ],
+        "lighting": "Subtle ambient lighting visible through glass doors",
+        "texture": "Smooth finish on wood and glass"
+      },
+      "indian_context": {
+        "regional_style": "Not directly indicative of a specific regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Use of glass doors for a modern touch"
+        ],
+        "space_utilization": "Efficient use of space with built-in features",
+        "cultural_significance": "Modern adaptation of Indian interior design aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This space features a modern interpretation of Indian interior design, characterized by the use of dark wood, glass, and efficient space utilization with a built-in wardrobe. The design elements are influenced by contemporary aesthetics, with a focus on minimalism and functionality.",
+      "metadata": {
+        "tags": [
+          "Indian design",
+          "Modular furniture",
+          "Dark wood",
+          "Glass doors",
+          "Contemporary design"
+        ],
+        "budget_indicator": "Moderate, considering the use of dark wood and glass materials.",
+        "space_type": "Living Room",
+        "functionality": "Storage and organization",
+        "indian_specific": "Modern adaptation of Indian design elements"
+      }
+    }
+  },
+  "cached_at": 1754906413085,
+  "cache_key": "93c0e838004d134da6d7d7ee9bb3db76"
+}

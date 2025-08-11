@@ -1,0 +1,95 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.17.03%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_531",
+    "ai_generated_tags": {
+      "room": "Hallway or entrance area",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wall-mounted mirror with geometric pattern",
+        "Decorative wall plaque",
+        "Plant in a pot",
+        "White ceiling with recessed lighting"
+      ],
+      "objects": [
+        {
+          "type": "Wall-mounted mirror",
+          "features": [
+            "Geometric pattern, reflective surface, white frame"
+          ],
+          "materials": [
+            "Glass, metal"
+          ],
+          "finish": "Smooth, polished surface"
+        },
+        {
+          "type": "Decorative wall plaque",
+          "features": [
+            "Rectangular, embossed, white material"
+          ],
+          "materials": [
+            "Ceramic or similar"
+          ],
+          "finish": "Smooth, matte"
+        },
+        {
+          "type": "Plant in a pot",
+          "features": [
+            "Tall green plant in a white pot"
+          ],
+          "materials": [
+            "Plastic or ceramic for the pot"
+          ],
+          "finish": "Glossy surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light blue wall, white ceiling and mirror frame, green plant, beige pot"
+        ],
+        "materials": [
+          "Glass, metal, ceramic, plastic"
+        ],
+        "lighting": "Natural light from window, recessed ceiling lights",
+        "texture": "Smooth walls, reflective mirror, matte wall plaque, glossy plant pot"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but modern interpretations of traditional elements",
+        "traditional_elements": [
+          "Wall-mounted mirror",
+          "Decorative wall plaque"
+        ],
+        "modern_adaptations": [
+          "Geometric pattern on mirror",
+          "Modern materials used"
+        ],
+        "space_utilization": "Minimal, focusing on decorative elements to enhance visual appeal",
+        "cultural_significance": "Decorative elements reflect an interest in modern Indian aesthetics, possibly influenced by urban design trends"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a modern Indian-style entrance or hallway area. The design incorporates elements like a wall-mounted mirror with a geometric pattern, a decorative wall plaque, and a potted plant, all set against a light blue wall and a white ceiling. The use of modern materials and a clean, minimalist layout highlights contemporary interpretations of traditional Indian design, such as the wall-mounted mirror and decorative wall plaque. The lighting is a mix of natural light from a window and recessed ceiling lights, creating a bright and welcoming atmosphere.",
+      "metadata": {
+        "tags": [
+          "modern Indian",
+          "hallway design",
+          "geometric pattern",
+          "decorative wall plaque",
+          "urban interior",
+          "plant decor"
+        ],
+        "budget_indicator": "Moderate, due to use of modern materials like glass, metal, and ceramic",
+        "space_type": "Residential, likely an entrance or hallway of a modern home",
+        "functionality": "Decorative and possibly serving as a transition space between the outside and the interior of the home",
+        "indian_specific": "Wall-mounted mirror with geometric pattern, decorative wall plaque"
+      }
+    }
+  },
+  "cached_at": 1754913082765,
+  "cache_key": "5072959fdd2a213d3a2728b93fe5d87e"
+}

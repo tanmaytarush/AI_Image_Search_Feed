@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/890/image_cropper_1729317697036.jpg",
+  "analysis": {
+    "image_id": "img_218",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Countertop with sink",
+        "Framed mirror",
+        "Toilet"
+      ],
+      "objects": [
+        {
+          "type": "Countertop with sink",
+          "features": [
+            "Marble surface with green and black inlay",
+            "Curved shape"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Framed mirror",
+          "features": [
+            "Rectangular shape",
+            "Silver metal frame"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Bright polished"
+        },
+        {
+          "type": "Toilet",
+          "features": [
+            "Modern design",
+            "White ceramic"
+          ],
+          "materials": [
+            "Ceramic"
+          ],
+          "finish": "Matt finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Green",
+          "Black",
+          "Silver",
+          "White"
+        ],
+        "materials": [
+          "Marble",
+          "Metal",
+          "Ceramic"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "No specific regional style visible",
+        "traditional_elements": [
+          "Framed mirror"
+        ],
+        "modern_adaptations": [
+          "Contemporary sink and toilet design"
+        ],
+        "space_utilization": "Efficient use of the available space, focused on functionality",
+        "cultural_significance": "Modern interpretation of traditional Indian elements like the framed mirror"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian bathroom with a contemporary sink and toilet design. The countertop features a marble surface with a green and black inlay, and the mirror is framed with a silver metal finish. The overall design blends traditional Indian elements, such as the framed mirror, with modern aesthetics.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Bathroom",
+        "Contemporary Design",
+        "Marble Countertop",
+        "Framed Mirror"
+      ],
+      "budget_indicator": "Moderate, as it includes high-quality materials like marble and metal",
+      "space_type": "Residential bathroom",
+      "functionality": "Primary purpose is for personal hygiene and grooming",
+      "indian_specific": "Framed mirror is a traditional element adapted in a modern context"
+    }
+  },
+  "cached_at": 1754907729198,
+  "cache_key": "6d32756c271939df51fbbd6ed019611c"
+}

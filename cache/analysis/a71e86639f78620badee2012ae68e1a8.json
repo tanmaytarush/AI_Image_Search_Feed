@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/659/image_cropper_1729169516108.jpg",
+  "analysis": {
+    "image_id": "img_231",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Ceiling with decorative recesses",
+        "Carved wooden paneling",
+        "Walls with marquetry designs",
+        "Teak wood furniture with brass accents"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood sofa",
+          "features": [
+            "Traditional design with brass inlay"
+          ],
+          "materials": [
+            "Teak wood",
+            "Brass"
+          ],
+          "finish": "Satin wood finish with brass highlights"
+        },
+        {
+          "type": "Teak wood dining table",
+          "features": [
+            "Central brass inlay",
+            "Modern geometric shapes"
+          ],
+          "materials": [
+            "Teak wood",
+            "Brass"
+          ],
+          "finish": "Satin wood finish with brass highlights"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (teak wood), Gold (brass), Beige (walls), White (ceiling)",
+          "Reddish-brown (wood with iron inlay)"
+        ],
+        "materials": [
+          "Teak wood, Brass, Marble, Copper"
+        ],
+        "lighting": "Diffused lighting with recessed ceiling lights",
+        "texture": "Smooth wood surfaces with intricate brass carvings and marquetry patterns"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Carved wooden panels",
+          "Marquetry designs",
+          "Teak wood furniture"
+        ],
+        "modern_adaptations": [
+          "Contemporary ceiling design",
+          "Minimalist furniture"
+        ],
+        "space_utilization": "Optimized space with a focus on symmetry and functionality",
+        "cultural_significance": "The use of teak wood and brass reflects traditional craftsmanship and status, symbolizing prosperity and elegance"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This modern Indian living room features a blend of traditional and contemporary elements. The living area showcases richly carved teak wood furniture with brass inlay, reflecting the craftsmanship and cultural heritage of Northern India. The ceiling design features decorative recesses, adding a sophisticated touch. The walls are adorned with marquetry designs, commonly found in traditional Indian interiors. The space is well-lit with recessed ceiling lights, creating a warm and inviting atmosphere.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Teak Wood",
+          "Brass Accents",
+          "Northern Indian Style",
+          "Marquetry",
+          "Recessed Ceiling"
+        ],
+        "budget_indicator": "Mid-range to high, due to the use of quality wood and metal",
+        "space_type": "Residential Living Room",
+        "functionality": "Used for relaxation, entertainment, and social gatherings",
+        "indian_specific": "Traditional furniture design with modern adaptations"
+      }
+    }
+  },
+  "cached_at": 1754907872250,
+  "cache_key": "a71e86639f78620badee2012ae68e1a8"
+}

@@ -1,0 +1,110 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00619.JPG",
+  "analysis": {
+    "image_id": "img_569",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Timber ceiling, marble flooring, wooden furniture, decorative elements, modern lighting"
+      ],
+      "objects": [
+        {
+          "type": "Teak sofa",
+          "features": [
+            "Dark brown color, patterned cushions"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Teak TV console",
+          "features": [
+            "Embedded with a marble top, decorative items placed on top"
+          ],
+          "materials": [
+            "Teak wood, marble"
+          ],
+          "finish": "Polished teak, glossy marble"
+        },
+        {
+          "type": "Wooden coffee table",
+          "features": [
+            "Circular, patterned rug underneath"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Decorative wall",
+          "features": [
+            "Marble top with embedded lighting, tree design with metal embellishments"
+          ],
+          "materials": [
+            "Marble, metal"
+          ],
+          "finish": "Glossy marble, shiny metal"
+        },
+        {
+          "type": "Curtains",
+          "features": [
+            "White with floral patterns"
+          ],
+          "materials": [
+            "Textile"
+          ],
+          "finish": "Textured"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, brown, beige, gold, green"
+        ],
+        "materials": [
+          "Teak wood, marble, metal, textiles"
+        ],
+        "lighting": "Combination of recessed ceiling lights, chandeliers, and wall-mounted lights behind the TV console",
+        "texture": "Smooth wooden surfaces, glossy marble, textured curtains"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically regional, but elements indicative of North Indian interior design",
+        "traditional_elements": [
+          "Teak furniture, carved elements on the door, patterns on curtains"
+        ],
+        "modern_adaptations": [
+          "Contemporary lighting fixtures, sleek TV console"
+        ],
+        "space_utilization": "Open layout with minimal obstructive furniture, maximizing space for movement and interaction",
+        "cultural_significance": "The space incorporates elements that reflect traditional Indian aesthetics, such as the use of teak, marble, and intricate patterns, while also embracing modern amenities for comfort and functionality"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.9,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This living room exemplifies a contemporary Indian design approach, blending traditional elements like teak furniture and intricate patterns with modern amenities and sleek lighting. The use of marble flooring and a timber ceiling adds to the luxurious feel, while the space is organized to maximize comfort and functionality, with minimal obstructive furniture.",
+    "metadata": {
+      "tags": [
+        "living room",
+        "contemporary",
+        "Indian interior",
+        "teak furniture",
+        "marble flooring",
+        "incredible design"
+      ],
+      "budget_indicator": "Higher, given the use of premium materials like marble and teak wood",
+      "space_type": "Residential",
+      "functionality": "Relaxation, entertainment, and socialization",
+      "indian_specific": "Traditional teak furniture, marble accents, and intricate patterns"
+    }
+  },
+  "cached_at": 1754914022002,
+  "cache_key": "765c0af0e81c73cffb6c9ab1c3ae164f"
+}

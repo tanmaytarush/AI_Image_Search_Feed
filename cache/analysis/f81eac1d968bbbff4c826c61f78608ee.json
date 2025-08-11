@@ -1,0 +1,96 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.54.49%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_549",
+    "ai_generated_tags": {
+      "room": "Entrance",
+      "theme": "Traditional Indian Interior",
+      "primary_features": [
+        "Carved wooden frame",
+        "Glass doors with cut-out designs",
+        "Bell decorations"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden frame",
+          "features": [
+            "Decorative carvings with floral and animal motifs"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished finish"
+        },
+        {
+          "type": "Glass doors",
+          "features": [
+            "Cut-out design with metallic accents"
+          ],
+          "materials": [
+            "Glass, metal"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Bell decorations",
+          "features": [
+            "Chimes hanging from the frame"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Wooden brown",
+          "White",
+          "Metallic gold"
+        ],
+        "materials": [
+          "Wood, glass, metal"
+        ],
+        "lighting": "Natural light from the environment",
+        "texture": "Smooth surfaces with intricate carvings"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but could be from any Indian region",
+        "traditional_elements": [
+          "Carved wooden frames",
+          "Glass doors with cut-out designs",
+          "Bell decorations"
+        ],
+        "modern_adaptations": [
+          "Metallic accents for cut-out designs",
+          "Use of glass for doors"
+        ],
+        "space_utilization": "Efficient use of space for an entrance",
+        "cultural_significance": "Symbolizes welcome and reverence, traditional design elements reflect cultural heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases an entrance area with a traditional Indian design, featuring intricately carved wooden frames with floral and animal motifs. The glass double doors have a cut-out design with metallic accents and chimes, adding a modern touch to the traditional elements. The warm wooden tones contrast with the white glass, creating a visually appealing and culturally significant space.",
+    "metadata": {
+      "tags": [
+        "Indian interior",
+        "Traditional design",
+        "Carved wooden frames",
+        "Glass doors",
+        "Bell decorations"
+      ],
+      "budget_indicator": "Mid to high, given the use of polished wood and glass",
+      "space_type": "Entrance",
+      "functionality": "Entrance to a residential space, acting as a welcoming area",
+      "indian_specific": "Traditional Indian design elements such as carved wood and glass doors with cut-out designs"
+    }
+  },
+  "cached_at": 1754913450689,
+  "cache_key": "f81eac1d968bbbff4c826c61f78608ee"
+}

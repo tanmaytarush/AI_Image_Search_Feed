@@ -1,0 +1,92 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1344/image_cropper_1729702916678.jpg",
+  "analysis": {
+    "image_id": "img_244",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in storage cabinets",
+        "Bed with a headboard",
+        "Decorative wall paneling"
+      ],
+      "objects": [
+        {
+          "type": "Built-in storage cabinet",
+          "features": [
+            "Integrated into the wall, gray color, sleek design"
+          ],
+          "materials": [
+            "MDF or particleboard"
+          ],
+          "finish": "Smooth, matte finish"
+        },
+        {
+          "type": "Bed",
+          "features": [
+            "Large, with a dark headboard",
+            "Headboard design inspired by jharokha"
+          ],
+          "materials": [
+            "Wooden frame, fabric upholstery"
+          ],
+          "finish": "Fabric upholstery with a dark wood frame"
+        },
+        {
+          "type": "Wall paneling",
+          "features": [
+            "Decorative wooden paneling with intricate carvings"
+          ],
+          "materials": [
+            "Wood, likely teak or Sheesham"
+          ],
+          "finish": "Carved with a natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Gray, white, dark wood, vibrant wall paneling"
+        ],
+        "materials": [
+          "MDF, particleboard, wood, fabric"
+        ],
+        "lighting": "Natural light coming from the window, soft ambient lighting from the bed area",
+        "texture": "Smooth MDF, matte finish on cabinets, natural wood texture on paneling, fabric upholstery"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Jharokha-inspired headboard design"
+        ],
+        "modern_adaptations": [
+          "Integration of modern storage solutions with traditional decor"
+        ],
+        "space_utilization": "Efficient use of wall space with built-in storage",
+        "cultural_significance": "The jharokha design element signifies a traditional Northern Indian architectural style"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian bedroom with a blend of contemporary and traditional elements. The built-in storage cabinets are a practical solution that seamlessly integrates with the wall, while the bed features a jharokha-inspired headboard, a nod to Northern Indian architectural traditions. The room is illuminated with both natural light from the window and soft ambient lighting, creating a warm and inviting space. Decorative wall paneling with intricate carvings adds a touch of elegance and cultural significance.",
+      "metadata": {
+        "tags": [
+          "Modern Indian design",
+          "Bedroom interior",
+          "Built-in storage",
+          "Jharokha design",
+          "Northern Indian style"
+        ],
+        "budget_indicator": "Moderate, with a focus on functional and durable materials",
+        "space_type": "Residential bedroom",
+        "functionality": "Primary purpose is to provide a comfortable and functional sleeping space with additional storage",
+        "indian_specific": "Jharokha-inspired headboard and decorative wall paneling with intricate carvings"
+      }
+    }
+  },
+  "cached_at": 1754908031945,
+  "cache_key": "2187d701312bda43a88e4cb834791fda"
+}

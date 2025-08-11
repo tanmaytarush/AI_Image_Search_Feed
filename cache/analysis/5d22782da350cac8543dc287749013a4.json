@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1511/image_cropper_1729785964118.jpg",
+  "analysis": {
+    "image_id": "img_125",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden partition",
+        "Television unit",
+        "White walls",
+        "Curtains"
+      ],
+      "objects": [
+        {
+          "type": "Television unit",
+          "features": [
+            "Wooden paneling",
+            "Intricate detailing",
+            "Natural wood finish"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood with visible grain"
+        },
+        {
+          "type": "Curtain",
+          "features": [
+            "White",
+            "Sheer fabric"
+          ],
+          "materials": [
+            "Polyester"
+          ],
+          "finish": "Smooth"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black",
+          "Blue"
+        ],
+        "materials": [
+          "Teak wood",
+          "Polyester",
+          "Curtains"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth and natural wood"
+      },
+      "indian_context": {
+        "regional_style": "Northern India",
+        "traditional_elements": [
+          "Wooden partition with intricate detailing"
+        ],
+        "modern_adaptations": [
+          "Integration of modern elements like TV unit"
+        ],
+        "space_utilization": "Efficient use of partition for wall-mounted TV and storage",
+        "cultural_significance": "The wooden partition and craftsmanship reflect traditional Indian design aesthetics and craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian living room with a focus on traditional elements. The wooden partition, featuring intricate detailing, reflects Northern Indian craftsmanship. The television unit, made of natural teak wood, adds a touch of traditional elegance to the otherwise modern setup. The room utilizes space efficiently with the partition doubling as a TV unit, and the white walls and curtains contribute to a clean, contemporary look. The natural light from the window and the smooth fabric of the curtain add a touch of sophistication.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Modern Indian",
+          "Wooden Partition",
+          "Teak Wood",
+          "Sheer Curtains"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential",
+        "functionality": "Entertainment and relaxation",
+        "indian_specific": "Traditional wooden partition with intricate detailing"
+      }
+    }
+  },
+  "cached_at": 1754906163029,
+  "cache_key": "5d22782da350cac8543dc287749013a4"
+}

@@ -1,0 +1,114 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/160/image_cropper_1728525612455.jpg",
+  "analysis": {
+    "image_id": "img_191",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern Indian Kitchen",
+      "primary_features": [
+        "Copper utensils storage",
+        "Teal blue cabinets",
+        "Marble countertops",
+        "Wooden shelves",
+        "Green backsplash tiles"
+      ],
+      "objects": [
+        {
+          "type": "Copper utensils storage",
+          "features": [
+            "Organized arrangement of copper utensils"
+          ],
+          "materials": [
+            "Copper"
+          ],
+          "finish": "Polished copper finish"
+        },
+        {
+          "type": "Teal blue cabinets",
+          "features": [
+            "Modular cabinets with teal blue paint"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Marble countertops",
+          "features": [
+            "White marble surface on cabinets"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Smooth finish"
+        },
+        {
+          "type": "Wooden shelves",
+          "features": [
+            "Wooden shelves with items placed on them"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Green backsplash tiles",
+          "features": [
+            "Rectangular green tiles on the wall"
+          ],
+          "materials": [
+            "Ceramic"
+          ],
+          "finish": "Glazed finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teal blue, white, green, brown, natural wood"
+        ],
+        "materials": [
+          "Wood, marble, ceramic, copper"
+        ],
+        "lighting": "Indirect lighting, likely from ceiling fixtures",
+        "texture": "Smooth marble, polished copper, glazed ceramic, natural wood"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian kitchen design with contemporary elements",
+        "traditional_elements": [
+          "Copper utensils storage"
+        ],
+        "modern_adaptations": [
+          "Teal blue cabinets and green backsplash tiles"
+        ],
+        "space_utilization": "Efficient use of space with modular cabinets and open shelves",
+        "cultural_significance": "The use of copper utensils storage reflects the cultural significance of copper in Indian kitchens, symbolizing good fortune and prosperity"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian kitchen with a blend of traditional and contemporary elements. The teal blue cabinets and green backsplash tiles introduce a contemporary touch, while the copper utensils storage showcases traditional Indian design. The room features efficient space utilization with modular cabinets and open shelves, highlighting a functional and organized kitchen design. The use of natural wood and marble countertops adds a touch of elegance, and the polished copper finish of the utensils storage reflects cultural significance in Indian kitchens.",
+      "metadata": {
+        "tags": [
+          "Modern Indian Kitchen",
+          "Teal Blue Cabinets",
+          "Green Backsplash Tiles",
+          "Copper Utensils Storage",
+          "Marble Countertops",
+          "Wooden Shelves"
+        ],
+        "budget_indicator": "Moderate, with the use of high-quality materials like marble and polished copper",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose is for cooking and food preparation, with additional storage for kitchen utensils",
+        "indian_specific": "Copper utensils storage and use of traditional colors and materials"
+      }
+    }
+  },
+  "cached_at": 1754907187673,
+  "cache_key": "6788ba5350e6e083e651428dee3ad89a"
+}

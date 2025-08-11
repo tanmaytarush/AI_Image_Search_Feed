@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/917/image_cropper_1729327157140.jpg",
+  "analysis": {
+    "image_id": "img_135",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Neutral color palette",
+        "Modern furniture with traditional elements",
+        "Dark blue accent wall"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Contemporary design with a wooden frame",
+            "Headboard with a modern design"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Polished wood and metallic finishes"
+        },
+        {
+          "type": "Nightstand",
+          "features": [
+            "Small, modern design with glass top and wooden frame"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Polished wood and clear glass"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Blue",
+          "Brown",
+          "Green"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass",
+          "Linen"
+        ],
+        "lighting": "Natural light from a window, supplemented by a bedside lamp",
+        "texture": "Smooth surfaces on furniture and walls, contrasting with the woven texture of the bedspread"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but includes modern interpretations of traditional elements",
+        "traditional_elements": [
+          "Carved wooden bed frame",
+          "Metallic details"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design with a focus on comfort"
+        ],
+        "space_utilization": "The space is organized with a focus on functionality, with the bed as the central element",
+        "cultural_significance": "The use of wood and metal reflects traditional Indian materials, while the modern design suggests a blend of traditional and modern aesthetics"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern bedroom with a contemporary design aesthetic, incorporating elements of traditional Indian design. The room features a bed with a wooden frame and metallic headboard, nightstands with glass tops, and a dark blue accent wall. The overall color palette includes white, brown, blue, and green, with smooth surfaces and textures that blend modern and traditional elements. The lighting is a mix of natural light and a bedside lamp, creating a comfortable and stylish atmosphere.",
+    "metadata": {
+      "tags": [
+        "Contemporary Bedroom",
+        "Indian Design Elements",
+        "Modern Furniture",
+        "Wood and Metal",
+        "Neutral Color Palette"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials like polished wood and metal",
+      "space_type": "Residential Bedroom",
+      "functionality": "Sleeping and relaxation area",
+      "indian_specific": "Modern interpretation of traditional Indian furniture and materials"
+    }
+  },
+  "cached_at": 1754906270221,
+  "cache_key": "1ad022b5c2a2720f93abe87e54d75f45"
+}

@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/jpeg-optimizer_ABN00503.JPG",
+  "analysis": {
+    "image_id": "img_566",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Built-in wardrobe with shelves",
+        "Cushioned bench under window",
+        "Striped bedspread",
+        "Marble floor",
+        "Decorative shelves"
+      ],
+      "objects": [
+        {
+          "type": "Built-in wardrobe with shelves",
+          "features": [
+            "Combines storage with stylish shelving for decor"
+          ],
+          "materials": [
+            "White with brown accents"
+          ],
+          "finish": "Glossy"
+        },
+        {
+          "type": "Cushioned bench under window",
+          "features": [
+            "Attached to the wardrobe for extra seating or storage"
+          ],
+          "materials": [
+            "Brown fabric cushion"
+          ],
+          "finish": "Soft texture"
+        },
+        {
+          "type": "Striped bedspread",
+          "features": [
+            "Bright, colorful stripes in red, yellow, white, and gray"
+          ],
+          "materials": [
+            "Cotton or polyester blend"
+          ],
+          "finish": "Smooth, striped pattern"
+        },
+        {
+          "type": "Decorative shelves",
+          "features": [
+            "Mounted on the wall above the wardrobe with open compartments"
+          ],
+          "materials": [
+            "Wood with brown finish"
+          ],
+          "finish": "Smooth, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, brown, beige, red, yellow, white, gray, blue"
+        ],
+        "materials": [
+          "Marble, wood, fabric, glass"
+        ],
+        "lighting": "Natural light from the window with curtains, supplemented by artificial light on the desk",
+        "texture": "Smooth surfaces with soft textures"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but has modern adaptations of traditional Indian design elements",
+        "traditional_elements": [
+          "Built-in storage with cushioned seating under the window"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with sleek lines and glossy finishes"
+        ],
+        "space_utilization": "Efficient use of space with built-in furniture for storage and seating",
+        "cultural_significance": "Focus on functional and aesthetic integration of traditional elements with modern design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian bedroom features a built-in wardrobe with shelves, a cushioned bench for seating, a striped bedspread, and marble flooring. The design combines practicality with a modern aesthetic, using clean lines and glossy finishes. The use of built-in furniture and efficient space utilization creates a functional and stylish living space. Cultural elements like the traditional cushioned bench under the window are seamlessly integrated into the contemporary setting, reflecting a modern adaptation of traditional Indian design.",
+    "metadata": {
+      "tags": [
+        "Modern Indian",
+        "Built-in furniture",
+        "Striped bedding",
+        "Marble flooring",
+        "Cushioned seating",
+        "Efficient space",
+        "Cultural integration"
+      ],
+      "budget_indicator": "Moderate, with high-quality materials like marble and glossy finishes",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and working area",
+      "indian_specific": "Built-in storage with cushioned seating under the window"
+    }
+  },
+  "cached_at": 1754913928154,
+  "cache_key": "e05c4765f8b4214ddf321433882d2afa"
+}

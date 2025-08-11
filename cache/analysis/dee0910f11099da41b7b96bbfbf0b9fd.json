@@ -1,0 +1,104 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/3.png",
+  "analysis": {
+    "image_id": "img_591",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Couch",
+        "Coffee Table",
+        "Wall Shelves",
+        "Decorative Clock"
+      ],
+      "objects": [
+        {
+          "type": "Couch",
+          "features": [
+            "Cream-colored fabric",
+            "pillows with geometric patterns"
+          ],
+          "materials": [
+            "Fabric, likely cotton or linen"
+          ],
+          "finish": "Soft, cozy texture"
+        },
+        {
+          "type": "Coffee Table",
+          "features": [
+            "Light wood finish",
+            "holds cups and pastries"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural, smooth"
+        },
+        {
+          "type": "Wall Shelves",
+          "features": [
+            "Decorative items including a clock and books"
+          ],
+          "materials": [
+            "Metal (shelf), likely wood or composite for the books"
+          ],
+          "finish": "Metallic with matte finish, books with printed cover"
+        },
+        {
+          "type": "Decorative Clock",
+          "features": [
+            "Abstract design with black and white elements"
+          ],
+          "materials": [
+            "Metal (frame), likely wood or composite for the clock face"
+          ],
+          "finish": "Metallic with glossy finish, clock face with matte finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Cream, beige, black, white, brown, gray"
+        ],
+        "materials": [
+          "Wood, metal, fabric, marble"
+        ],
+        "lighting": "Natural light from large windows with vertical blinds",
+        "texture": "Soft textures from the couch, smooth textures from the coffee table and shelves"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional, but has elements of traditional Indian design",
+        "traditional_elements": [
+          "Decorative clock with abstract Indian-inspired design"
+        ],
+        "modern_adaptations": [
+          "Contemporary coffee table and wall shelves"
+        ],
+        "space_utilization": "Open and airy, with a focus on functionality and aesthetics",
+        "cultural_significance": "The decorative clock may hold cultural significance, possibly inspired by traditional Indian timekeeping devices"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The living room is a blend of modern and traditional Indian design elements, featuring a cream-colored sofa with geometric patterned cushions, a wooden coffee table with pastries, and a wall-mounted shelf holding books, a metallic clock, and decorative items. The space is illuminated by natural light from large windows with vertical blinds, creating a bright and airy atmosphere. The design emphasizes comfort and functionality, with a focus on soft textures and natural materials.",
+    "metadata": {
+      "tags": [
+        "Living Room",
+        "Contemporary",
+        "Indian Influences",
+        "Modern Furniture",
+        "Natural Lighting"
+      ],
+      "budget_indicator": "Moderate, with a mix of modern and some traditional elements",
+      "space_type": "Residential",
+      "functionality": "Living and dining area, designed for relaxation and socializing",
+      "indian_specific": "Decorative clock with traditional design elements"
+    }
+  },
+  "cached_at": 1754914532443,
+  "cache_key": "dee0910f11099da41b7b96bbfbf0b9fd"
+}

@@ -1,0 +1,77 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1464/image_cropper_1729776325021.jpg",
+  "analysis": {
+    "image_id": "img_258",
+    "ai_generated_tags": {
+      "room": "Outdoor space near a building entrance",
+      "theme": "Minimalist Indian-inspired",
+      "primary_features": [
+        "Wooden door frames",
+        "Textured wall",
+        "Outdoor seating area"
+      ],
+      "objects": [
+        {
+          "type": "Outdoor seating",
+          "features": [
+            "Wooden structure",
+            "Simple design"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Natural wood finish, metallic accents"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "Beige",
+          "Dark brown"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Textured wall"
+        ],
+        "lighting": "Natural daylight, no artificial lighting",
+        "texture": "Textured wall, smooth wood"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but has elements of rural Indian design",
+        "traditional_elements": [
+          "Wooden door frames with minimal embellishments"
+        ],
+        "modern_adaptations": [
+          "Use of metal and simple seating"
+        ],
+        "space_utilization": "Open and functional, for relaxation or waiting",
+        "cultural_significance": "Use of natural materials and space for cultural gatherings or rest"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.85,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.8
+      },
+      "description": "This image depicts an outdoor seating area near a building entrance, characterized by a minimalist approach with Indian design elements. The wooden door frames and textured wall are indicative of rural Indian design, while the simple outdoor seating with metal accents suggests a modern adaptation. The natural wood and metal finishes create a harmonious blend with the natural setting.",
+      "metadata": {
+        "tags": [
+          "Outdoor seating",
+          "Minimalist design",
+          "Rural Indian style",
+          "Wooden door frames",
+          "Simple furniture"
+        ],
+        "budget_indicator": "Moderate, utilizing natural materials with some metal accents",
+        "space_type": "Residential entrance",
+        "functionality": "Outdoor seating for relaxation or waiting",
+        "indian_specific": "Use of natural wood and simple furniture design"
+      }
+    }
+  },
+  "cached_at": 1754908391502,
+  "cache_key": "dd177581bbe85860b336f4eb047b96f8"
+}

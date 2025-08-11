@@ -1,0 +1,117 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.55%20PM.jpeg",
+  "analysis": {
+    "image_id": "img_054",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Dark wood partition",
+        "Decorative wall panels",
+        "Wall-mounted photo frames",
+        "Furniture with dark wood finish"
+      ],
+      "objects": [
+        {
+          "type": "Dark wood partition",
+          "features": [
+            "Curved design",
+            "Decorative cutouts",
+            "Integrated shelving"
+          ],
+          "materials": [
+            "Dark wood"
+          ],
+          "finish": "Smooth finish with visible wood grain"
+        },
+        {
+          "type": "Decorative wall panels",
+          "features": [
+            "Vertical slats",
+            "Purple floral pattern"
+          ],
+          "materials": [
+            "Painted wood or MDF"
+          ],
+          "finish": "Glossy finish"
+        },
+        {
+          "type": "Wall-mounted photo frames",
+          "features": [
+            "Horizontal placement",
+            "Dark frames"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth finish"
+        },
+        {
+          "type": "Furniture with dark wood finish",
+          "features": [
+            "Black countertop",
+            "Dark wood cabinets"
+          ],
+          "materials": [
+            "Dark wood"
+          ],
+          "finish": "Glossy finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown",
+          "White",
+          "Purple",
+          "Gold",
+          "Red"
+        ],
+        "materials": [
+          "Dark wood",
+          "Painted wood",
+          "Granite countertop"
+        ],
+        "lighting": "Natural light from a window",
+        "texture": "Smooth surfaces with wood grain and glossy finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not specified, but could be a general Indian theme with elements from various regions",
+        "traditional_elements": [
+          "Dark wood partition",
+          "Decorative wall panels"
+        ],
+        "modern_adaptations": [
+          "Integrated shelving",
+          "Glossy finishes"
+        ],
+        "space_utilization": "Open floor plan with a partition separating different areas",
+        "cultural_significance": "The partition and photo frames may represent family memories or cultural significance, but specific religious or cultural elements are not immediately apparent in this image"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image depicts a modern Indian living space with a dark wood partition serving as a decorative and functional element. The partition has a curved design with integrated shelving and decorative cutouts, adding a contemporary touch to the traditional Indian style. The wall behind the partition features vertical slats with a purple floral pattern, complementing the modern design. Wall-mounted photo frames in dark frames are placed horizontally, suggesting a focus on personal and cultural significance. The adjacent area includes a kitchenette with a black countertop and dark wood cabinets, indicating a blend of traditional and modern Indian design elements. The space is well-lit with natural light, highlighting the glossy finishes and smooth textures of the materials used.",
+    "metadata": {
+      "tags": [
+        "Indian interior design",
+        "Modern Indian design",
+        "Dark wood partition",
+        "Decorative wall panels",
+        "Wall-mounted photo frames",
+        "Living room",
+        "Kitchenette"
+      ],
+      "budget_indicator": "Mid-range, utilizing dark wood and glossy finishes that suggest a moderate budget.",
+      "space_type": "Residential, likely a combined living and kitchen area",
+      "functionality": "Primary purpose is for daily living and socializing, with a focus on functionality and aesthetics.",
+      "indian_specific": "Dark wood partition and wall-mounted photo frames showcase Indian-specific design features."
+    }
+  },
+  "cached_at": 1754903174165,
+  "cache_key": "ee0b94d19f26ee5e441d307418474c2b"
+}

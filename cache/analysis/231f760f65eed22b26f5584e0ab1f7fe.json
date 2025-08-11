@@ -1,0 +1,110 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Living%20001.png",
+  "analysis": {
+    "image_id": "img_581",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Contemporary Indian Fusion",
+      "primary_features": [
+        "Open shelving unit",
+        "Modern dining table",
+        "Television unit"
+      ],
+      "objects": [
+        {
+          "type": "Open shelving unit",
+          "features": [
+            "Wooden base",
+            "Gold frame",
+            "Decorative items"
+          ],
+          "materials": [
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Smooth surface with metallic accents"
+        },
+        {
+          "type": "Modern dining table",
+          "features": [
+            "Wooden top",
+            "White base",
+            "Chair with cushions"
+          ],
+          "materials": [
+            "Wood",
+            "Fabric",
+            "Metal"
+          ],
+          "finish": "Polished wooden top with glossy white base"
+        },
+        {
+          "type": "Television unit",
+          "features": [
+            "Marble top",
+            "Cabinet doors",
+            "Integrated storage"
+          ],
+          "materials": [
+            "Marble",
+            "Wood",
+            "Metal"
+          ],
+          "finish": "Smooth marble top with polished wood and metallic hardware"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Gold",
+          "Marble"
+        ],
+        "materials": [
+          "Wood",
+          "Marble",
+          "Metal",
+          "Fabric"
+        ],
+        "lighting": "Natural light from ceiling lights and ambient light from chandelier",
+        "texture": "Smooth and polished surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian contemporary style",
+        "traditional_elements": [
+          "Decorative items on shelves",
+          "Wood as primary material"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture designs",
+          "Smooth finishes"
+        ],
+        "space_utilization": "Open shelving for storage and display, dining table for functionality",
+        "cultural_significance": "The use of traditional materials and decorative items reflects cultural heritage"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a contemporary Indian fusion living room that blends traditional elements with modern aesthetics. The open shelving unit, adorned with gold frames and teak wood, brings in a traditional touch. The modern dining table with a polished marble top and glossy white base reflects a sleek, contemporary design. The television unit, featuring a marble top and polished wood cabinet doors, offers both style and functionality. The overall design incorporates a mix of traditional and modern materials, reflecting a blend of cultural heritage and contemporary trends.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian fusion",
+        "Northern Indian style",
+        "Open shelving",
+        "Modern dining",
+        "Television unit"
+      ],
+      "budget_indicator": "Mid-range",
+      "space_type": "Residential living room",
+      "functionality": "Entertainment and dining",
+      "indian_specific": "Traditional materials and decorative items"
+    }
+  },
+  "cached_at": 1754914266754,
+  "cache_key": "231f760f65eed22b26f5584e0ab1f7fe"
+}

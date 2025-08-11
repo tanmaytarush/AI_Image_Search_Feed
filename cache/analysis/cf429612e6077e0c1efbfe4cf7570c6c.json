@@ -1,0 +1,87 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/WhatsApp%20Image%202023-04-10%20at%209.49.50%20PM%20%282%29.jpeg",
+  "analysis": {
+    "image_id": "img_062",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Built-in shelving unit",
+        "Walnut finish shelves",
+        "Modern white console table"
+      ],
+      "objects": [
+        {
+          "type": "Shelving unit",
+          "features": [
+            "Walnut finish",
+            "Modern design",
+            "Floating shelves"
+          ],
+          "materials": [
+            "Walnut wood",
+            "Metal supports"
+          ],
+          "finish": "Walnut finish, metallic"
+        },
+        {
+          "type": "Console table",
+          "features": [
+            "Modern",
+            "White color"
+          ],
+          "materials": [
+            "MDF or similar material"
+          ],
+          "finish": "Glossy white finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Walnut brown",
+          "White",
+          "Neutral beige"
+        ],
+        "materials": [
+          "Walnut wood",
+          "Metal",
+          "MDF"
+        ],
+        "lighting": "Ambient lighting from built-in lights",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not indicative of any specific regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of modern furniture with traditional Indian woodwork"
+        ],
+        "space_utilization": "Efficient use of space with built-in shelves for storage",
+        "cultural_significance": "No culturally significant elements observed"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern living room with a minimalist design. The room features a built-in shelving unit with floating walnut shelves and a modern white console table. The overall aesthetic is clean and contemporary, with a focus on simple lines and a neutral color palette. The use of walnut wood for the shelves provides a warm, natural element, while the white console table offers a stark contrast. The lighting is provided by built-in lights, enhancing the visual appeal of the space.",
+      "metadata": {
+        "tags": [
+          "Living Room",
+          "Minimalist",
+          "Walnut Shelves",
+          "White Console Table",
+          "Modern Design"
+        ],
+        "budget_indicator": "Moderate, as the use of walnut wood and modern finishes suggests a mid-range budget.",
+        "space_type": "Residential Living Room",
+        "functionality": "Entertainment or display area, with storage capabilities provided by the built-in shelves.",
+        "indian_specific": "No distinct Indian-specific design features are present, but the use of walnut wood can be influenced by regional woodwork traditions."
+      }
+    }
+  },
+  "cached_at": 1754903537361,
+  "cache_key": "cf429612e6077e0c1efbfe4cf7570c6c"
+}

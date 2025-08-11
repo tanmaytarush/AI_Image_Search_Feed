@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/366/image_cropper_1729094054228.jpg",
+  "analysis": {
+    "image_id": "img_263",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "modern Indian",
+      "primary_features": [
+        "fitted wardrobe",
+        "wooden furniture",
+        "mirror"
+      ],
+      "objects": [
+        {
+          "type": "fitted wardrobe",
+          "features": [
+            "dark wood finish",
+            "matching drawers",
+            "hanging rail"
+          ],
+          "materials": [
+            "dark wood"
+          ],
+          "finish": "polished wood"
+        },
+        {
+          "type": "furniture",
+          "features": [
+            "dark wood frame",
+            "matching mirror frame",
+            "sliding mirror door"
+          ],
+          "materials": [
+            "dark wood"
+          ],
+          "finish": "polished wood"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "dark brown",
+          "white"
+        ],
+        "materials": [
+          "dark wood",
+          "white"
+        ],
+        "lighting": "neutral indoor lighting",
+        "texture": "smooth wooden surface"
+      },
+      "indian_context": {
+        "regional_style": "not specific to a regional style",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "fitted wardrobe, modern furniture design"
+        ],
+        "space_utilization": "optimized for storage, wardrobe space",
+        "cultural_significance": "indicates a modern interpretation of traditional Indian furniture styles"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian bedroom with a fitted wardrobe and matching furniture. The furniture is made of dark wood with a polished finish, featuring a sliding mirror door and matching drawers. The wardrobe is designed for efficient space utilization, with a focus on storage. The neutral indoor lighting highlights the smooth texture of the wooden surfaces. The design elements are modern interpretations of traditional Indian furniture styles.",
+      "metadata": {
+        "tags": [
+          "modern Indian",
+          "bedroom",
+          "fitted wardrobe",
+          "dark wood",
+          "mirror"
+        ],
+        "budget_indicator": "moderate",
+        "space_type": "bedroom",
+        "functionality": "storage and organization",
+        "indian_specific": "modern adaptation of traditional Indian furniture"
+      }
+    }
+  },
+  "cached_at": 1754908515494,
+  "cache_key": "37b20bac173734e6ab54ffeb58838a85"
+}

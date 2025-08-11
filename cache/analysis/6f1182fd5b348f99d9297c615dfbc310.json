@@ -1,0 +1,93 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/459/image_cropper_1728741950604.jpg",
+  "analysis": {
+    "image_id": "img_265",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary",
+      "primary_features": [
+        "Wooden headboard",
+        "Minimalist furniture",
+        "Sliding doors"
+      ],
+      "objects": [
+        {
+          "type": "Headboard",
+          "features": [
+            "Wooden, rectangular, with a geometric pattern"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Furniture",
+          "features": [
+            "Small nightstand, simple design, with a few drawers"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Smooth, polished"
+        },
+        {
+          "type": "Bed",
+          "features": [
+            "Queen or king size",
+            "Simple frame, minimal design"
+          ],
+          "materials": [
+            "Metals, possibly brass or bronze"
+          ],
+          "finish": "Polished, metallic sheen"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White, brown, black",
+          "Neutral tones"
+        ],
+        "materials": [
+          "Wood, metal, glass"
+        ],
+        "lighting": "Natural light from windows, no artificial lighting visible",
+        "texture": "Smooth surfaces, fine wood grain"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly indicative of a specific Indian regional style",
+        "traditional_elements": [
+          "No traditional Indian elements visible"
+        ],
+        "modern_adaptations": [
+          "Use of contemporary furniture and minimalism"
+        ],
+        "space_utilization": "Efficient use of space with sliding doors and simple furniture",
+        "cultural_significance": "No culturally significant elements visible"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.75,
+        "primary_features": 0.78,
+        "objects": 0.82,
+        "indian_context": 0.6
+      },
+      "description": "The image depicts a modern, minimalist bedroom with a wooden headboard and simple furniture. The room features sliding doors and is lit by natural light from windows. The design emphasizes clean lines and neutral colors, with no traditional Indian elements present.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Modern",
+          "Bedroom",
+          "Contemporary",
+          "Wood furniture"
+        ],
+        "budget_indicator": "Moderate, with the use of simple materials and finishes.",
+        "space_type": "Residential, likely in a private home or apartment",
+        "functionality": "Sleeping and resting",
+        "indian_specific": "No Indian-specific design features are visible."
+      }
+    }
+  },
+  "cached_at": 1754908533077,
+  "cache_key": "6f1182fd5b348f99d9297c615dfbc310"
+}

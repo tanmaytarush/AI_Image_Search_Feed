@@ -1,0 +1,100 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/36/WhatsApp%20Image%202024-08-01%20at%2018.44.52.jpeg",
+  "analysis": {
+    "image_id": "img_122",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Colonial Revival with Indian Influences",
+      "primary_features": [
+        "Wooden door with intricate carvings",
+        "Mirror with wooden frame",
+        "Wall sconce lighting"
+      ],
+      "objects": [
+        {
+          "type": "Door",
+          "features": [
+            "Rectangular shape with arched top",
+            "Dark wood with detailed carvings on the sides"
+          ],
+          "materials": [
+            "Dark wood"
+          ],
+          "finish": "Smooth surface with visible grain and polish"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Rectangular shape",
+            "Wooden frame with simple yet elegant design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Wall sconce",
+          "features": [
+            "Single light fixture",
+            "Gold-colored metal with a classic design"
+          ],
+          "materials": [
+            "Metal (likely brass or bronze)"
+          ],
+          "finish": "Polished metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark wood tones",
+          "Gold",
+          "White walls"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "White"
+        ]
+      },
+      "lighting": "Soft ambient lighting from a wall-mounted sconce",
+      "texture": "Combination of smooth wood and metallic finishes with an intricate texture on the door"
+    },
+    "indian_context": {
+      "regional_style": "Maharashtra",
+      "traditional_elements": [
+        "Carved wooden door",
+        "Mirror with wooden frame"
+      ],
+      "modern_adaptations": [
+        "Minimalist wall sconce instead of traditional chandelier"
+      ],
+      "space_utilization": "Compact and functional layout, maximizing space with a mirror for reflection and light usage from the sconce",
+      "cultural_significance": "The carved wooden door and mirror are traditional elements often seen in Indian homes, symbolizing hospitality and the welcoming of guests"
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This foyer features a classic Colonial Revival style with Indian influences, evident in the intricately carved wooden door and the wooden-framed mirror. The warm, dark tones of the wood contrast with the golden metallic sconce, creating a sophisticated yet welcoming atmosphere. The space is optimized for functionality, with the mirror reflecting light and the door serving as a focal point for traditional craftsmanship.",
+    "metadata": {
+      "tags": [
+        "Colonial Revival",
+        "Indian Interior",
+        "Maharashtra Style",
+        "Wooden Door",
+        "Mirror",
+        "Wall Sconce"
+      ],
+      "budget_indicator": "Medium to High, due to the use of polished wood and metallic elements",
+      "space_type": "Foyer",
+      "functionality": "Entrance and reception area",
+      "indian_specific": "Intricate wood carvings and traditional mirror frame"
+    }
+  },
+  "cached_at": 1754906133780,
+  "cache_key": "2bab6c9d4d0709049b94f5bd8010fec9"
+}

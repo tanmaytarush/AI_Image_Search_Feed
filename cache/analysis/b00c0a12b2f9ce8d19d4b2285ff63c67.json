@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/131/image_cropper_1726667550245.jpg",
+  "analysis": {
+    "image_id": "img_320",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "contemporary",
+      "primary_features": [
+        "simple furniture arrangement",
+        "minimalist design",
+        "white walls"
+      ],
+      "objects": [
+        {
+          "type": "wardrobe",
+          "features": [
+            "rectangular shape",
+            "white with silver handles"
+          ],
+          "materials": [
+            "wood",
+            "metal"
+          ],
+          "finish": "smooth, lacquered surface"
+        },
+        {
+          "type": "bureau",
+          "features": [
+            "desk with drawers",
+            "white with silver handles"
+          ],
+          "materials": [
+            "wood",
+            "metal"
+          ],
+          "finish": "smooth, lacquered surface"
+        },
+        {
+          "type": "window with blinds",
+          "features": [
+            "natural light",
+            "open blinds"
+          ],
+          "materials": [
+            "wood",
+            "metal"
+          ],
+          "finish": "natural, painted"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "silver",
+          "gray"
+        ],
+        "materials": [
+          "wood",
+          "metal",
+          "glass"
+        ],
+        "lighting": "natural light from window",
+        "texture": "smooth, flat surfaces"
+      },
+      "indian_context": {
+        "regional_style": "not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "contemporary design with traditional Indian materials (wood, metal)"
+        ],
+        "space_utilization": "simple, functional layout with minimal storage",
+        "cultural_significance": "no specific cultural elements present"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The interior space appears to be a simple bedroom with contemporary design, featuring a white wardrobe and bureau with silver handles. The minimalist design and use of white paint contribute to a clean and modern aesthetic. The window with blinds allows natural light to enter, enhancing the brightness of the space. The materials used are mostly wood and metal, reflecting traditional Indian elements in a modern adaptation.",
+      "metadata": {
+        "tags": [
+          "bedroom",
+          "contemporary",
+          "minimalist",
+          "white walls",
+          "metallic handles"
+        ],
+        "budget_indicator": "moderate, using quality materials like wood and metal",
+        "space_type": "residential",
+        "functionality": "personal space, likely for sleeping and working",
+        "indian_specific": "use of wood and metal, contemporary interpretation of traditional materials"
+      }
+    }
+  },
+  "cached_at": 1754909668839,
+  "cache_key": "b00c0a12b2f9ce8d19d4b2285ff63c67"
+}

@@ -1,0 +1,101 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%201.23.25%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_020",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Minimalist Modern",
+      "primary_features": [
+        "L-shaped cabinetry",
+        "geometric backsplash tiles",
+        "stainless steel range hood",
+        "undermount sink",
+        "countertop storage"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "L-shaped design",
+            "matte gray finish",
+            "multiple drawers and cabinets"
+          ],
+          "materials": [
+            "Painted wood",
+            "metallic hardware"
+          ],
+          "finish": "Matte gray"
+        },
+        {
+          "type": "Backsplash",
+          "features": [
+            "Geometric pattern",
+            "white tiles"
+          ],
+          "materials": [
+            "Porcelain tiles"
+          ],
+          "finish": "Smooth"
+        },
+        {
+          "type": "Range Hood",
+          "features": [
+            "Stainless steel",
+            "built-in"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Gray",
+          "White",
+          "Black"
+        ],
+        "materials": [
+          "Painted wood",
+          "Porcelain tiles",
+          "Stainless steel",
+          "Metallic hardware"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth and minimalist surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design with modern materials and finishes"
+        ],
+        "space_utilization": "Efficient use of L-shaped cabinetry for storage and working surfaces",
+        "cultural_significance": "No specific Indian cultural elements present"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.9,
+        "objects": 0.95,
+        "indian_context": 0.5
+      },
+      "description": "This kitchen showcases a modern minimalist design with a focus on functionality and sleek aesthetics. The L-shaped cabinetry provides ample storage, and the geometric backsplash adds a contemporary touch. The use of matte gray cabinets and white porcelain tiles creates a clean, crisp look, while the stainless steel range hood and undermount sink add a modern industrial feel.",
+      "metadata": {
+        "tags": [
+          "minimalist kitchen",
+          "modern design",
+          "geometric backsplash",
+          "L-shaped cabinetry",
+          "stainless steel"
+        ],
+        "budget_indicator": "Moderate, with the use of painted wood and metal hardware suggesting a mid-range budget.",
+        "space_type": "Residential kitchen",
+        "functionality": "Primary purpose is for cooking and food preparation, with storage and workspace optimization.",
+        "indian_specific": "No Indian-specific design features are visible."
+      }
+    }
+  },
+  "cached_at": 1754895562315,
+  "cache_key": "3ff5886a3b0bd2e81d26367f8a9708eb"
+}

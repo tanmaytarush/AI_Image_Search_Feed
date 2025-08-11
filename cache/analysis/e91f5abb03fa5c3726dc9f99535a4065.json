@@ -1,0 +1,84 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/618/image_cropper_1729140069382.jpg",
+  "analysis": {
+    "image_id": "img_247",
+    "ai_generated_tags": {
+      "room": "Master bedroom",
+      "theme": "Contemporary Indian with modern adaptations",
+      "primary_features": [
+        "Queen-sized bed with upholstered headboard",
+        "Built-in wardrobe with sliding doors",
+        "Wooden floor",
+        "Dark gray walls with subtle texture"
+      ],
+      "objects": [
+        {
+          "type": "Queen-sized bed",
+          "features": [
+            "Upholstered headboard with decorative pattern",
+            "White bedding with striped pattern"
+          ],
+          "materials": [
+            "Wooden frame, fabric for headboard and bedding"
+          ],
+          "finish": "Fabric upholstery with a glossy wood finish"
+        },
+        {
+          "type": "Built-in wardrobe",
+          "features": [
+            "Sliding wooden doors with golden metal handles",
+            "Hidden storage space behind doors"
+          ],
+          "materials": [
+            "Wooden frame, metal for handles"
+          ],
+          "finish": "Wooden with a natural finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark gray, brown, white, gold"
+        ],
+        "materials": [
+          "Wood, fabric, metal, glass"
+        ],
+        "lighting": "Soft ambient lighting from a circular light fixture above the bed",
+        "texture": "Subtle texture on the wall and smooth finish on the bed and wardrobe"
+      },
+      "indian_context": {
+        "regional_style": "Mughal-inspired with modern touches",
+        "traditional_elements": [
+          "Decorative headboard pattern inspired by Mughal art"
+        ],
+        "modern_adaptations": [
+          "Sliding wardrobe doors, contemporary circular wall light"
+        ],
+        "space_utilization": "Efficient use of space with built-in wardrobe and minimalistic design",
+        "cultural_significance": "The headboard's pattern reflects Mughal art, which is often associated with luxury and craftsmanship in Indian interiors"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This master bedroom showcases a contemporary Indian design with a modern twist, featuring a queen-sized bed with a Mughal-inspired headboard, a built-in wardrobe with sliding doors, and a dark gray textured wall. The room's color palette of dark gray, brown, white, and gold reflects traditional Indian aesthetics, while the contemporary elements like the circular wall light and sliding wardrobe add a modern touch. The space is efficiently organized, making the most of the available area, and the Mughal-inspired headboard design adds cultural significance and luxury to the space.",
+      "metadata": {
+        "tags": [
+          "master bedroom",
+          "contemporary Indian",
+          "Mughal art",
+          "sliding wardrobe",
+          "dark gray walls"
+        ],
+        "budget_indicator": "Mid-range, with mid-priced materials like wood and fabric for the bed and wardrobe, while the headboard pattern and wall texturing add a luxury touch.",
+        "space_type": "Residential",
+        "functionality": "Sleeping and personal storage",
+        "indian_specific": "Mughal-inspired headboard design"
+      }
+    }
+  },
+  "cached_at": 1754908063978,
+  "cache_key": "e91f5abb03fa5c3726dc9f99535a4065"
+}

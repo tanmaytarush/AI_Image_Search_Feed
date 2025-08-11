@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/205/image_cropper_1726897823470.jpg",
+  "analysis": {
+    "image_id": "img_396",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wooden paneling",
+        "Carved wooden furniture",
+        "Textured wallpaper",
+        "Exotic marble countertop"
+      ],
+      "objects": [
+        {
+          "type": "Carved Wooden Furniture",
+          "features": [
+            "Elegant carvings",
+            "Polished finish"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "High gloss"
+        },
+        {
+          "type": "Exotic Marble Countertop",
+          "features": [
+            "Smooth surface",
+            "Natural veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "White (wallpaper)",
+          "Black (textural elements)",
+          "Gray (countertop)"
+        ],
+        "materials": [
+          "Teak",
+          "Marble",
+          "Metal"
+        ],
+        "lighting": "Soft ambient lighting",
+        "texture": "Combination of smooth, polished, and textured surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Carved wooden furniture",
+          "Textured wallpaper"
+        ],
+        "modern_adaptations": [
+          "Combination of traditional and modern materials"
+        ],
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Cultural relevance through traditional elements and materials"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a modern Indian living room with a focus on traditional elements. The space features carved wooden furniture with a high-gloss finish, complemented by a textured wallpaper and an exotic marble countertop. The combination of traditional craftsmanship with modern materials and design elements creates a harmonious blend of old and new, reflecting cultural significance and regional style. The use of teak and marble, along with the ambient lighting, adds to the luxurious and serene atmosphere of the room.",
+      "metadata": {
+        "tags": [
+          "Indian interior design",
+          "Modern Indian",
+          "Carved furniture",
+          "Textured wallpaper",
+          "Marble countertop"
+        ],
+        "budget_indicator": "Mid to high budget, given the use of exotic marble and polished wood",
+        "space_type": "Residential living room",
+        "functionality": "Primary purpose is for relaxation and social gatherings",
+        "indian_specific": "Traditional carved wooden furniture and textured wallpaper"
+      }
+    }
+  },
+  "cached_at": 1754910780855,
+  "cache_key": "0ddd36fc936cf9af2086f8e554e24065"
+}

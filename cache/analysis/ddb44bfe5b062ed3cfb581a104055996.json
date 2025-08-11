@@ -1,0 +1,75 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/654/image_cropper_1729223834676.jpg",
+  "analysis": {
+    "image_id": "img_170",
+    "ai_generated_tags": {
+      "room": "bedroom",
+      "theme": "contemporary",
+      "primary_features": [
+        "simple bed frame",
+        "clean lines",
+        "minimal decor"
+      ],
+      "objects": [
+        {
+          "type": "bed frame",
+          "features": [
+            "rectangular in shape",
+            "supported by metal poles",
+            "has a wooden headboard"
+          ],
+          "materials": [
+            "metal",
+            "wood"
+          ],
+          "finish": "polished metal, natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "white",
+          "brown",
+          "gray"
+        ],
+        "materials": [
+          "metal",
+          "wood"
+        ],
+        "lighting": "natural light from the window",
+        "texture": "smooth metal, matte wood"
+      },
+      "indian_context": {
+        "regional_style": "not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "integration of metal frames with traditional wood elements"
+        ],
+        "space_utilization": "optimization for sleep area",
+        "cultural_significance": "not applicable"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.1
+      },
+      "description": "The image depicts a minimalist bedroom with a contemporary design. The bed frame is made of metal poles supporting a natural wood headboard, suggesting a modern adaptation of traditional Indian elements. The color palette includes white, brown, and gray, with smooth metal and matte wood finishes. The space is optimized for a sleep area with a window allowing natural light.",
+      "metadata": {
+        "tags": [
+          "bedroom",
+          "contemporary",
+          "minimalist",
+          "metal bed frame",
+          "wood headboard"
+        ],
+        "budget_indicator": "moderate to high",
+        "space_type": "residential bedroom",
+        "functionality": "primary purpose is for rest and relaxation",
+        "indian_specific": "modern interpretation of traditional elements"
+      }
+    }
+  },
+  "cached_at": 1754906981795,
+  "cache_key": "ddb44bfe5b062ed3cfb581a104055996"
+}

@@ -1,0 +1,86 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/618/image_cropper_1729140780842.jpg",
+  "analysis": {
+    "image_id": "img_238",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "White marble flooring",
+        "Modern minimalistic furniture",
+        "Glazed white walls",
+        "Wooden door with traditional design"
+      ]
+    },
+    "objects": [
+      {
+        "type": "Living room furniture",
+        "features": [
+          "Minimalistic design",
+          "Contemporary style"
+        ],
+        "materials": [
+          "White glossy finish"
+        ],
+        "finish": "High-gloss lacquer"
+      },
+      {
+        "type": "Door",
+        "features": [
+          "Traditional design with geometric patterns"
+        ],
+        "materials": [
+          "Wood, possibly teak"
+        ],
+        "finish": "Polished wood"
+      }
+    ],
+    "visual_attributes": {
+      "colors": [
+        "White",
+        "Beige",
+        "Wood tones"
+      ],
+      "materials": [
+        "Marble, wood, metal"
+      ],
+      "lighting": "Natural light from large windows, artificial light from ceiling fixtures",
+      "texture": "Glossy surface finish on furniture and walls, smooth marble flooring"
+    },
+    "indian_context": {
+      "regional_style": "No specific regional style evident",
+      "traditional_elements": [
+        "Wooden door with traditional design"
+      ],
+      "modern_adaptations": [
+        "Minimalistic furniture with modern finishes"
+      ],
+      "space_utilization": "Efficient use of space with clean lines and open layout",
+      "cultural_significance": "The wooden door design could symbolize cultural or regional heritage"
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.85,
+      "primary_features": 0.9,
+      "objects": 0.92,
+      "indian_context": 0.8
+    },
+    "description": "The image depicts a modern, minimalist living room with a contemporary Indian theme. The space features sleek, white glossy furniture, a polished white marble floor, and a wooden door with traditional geometric designs. The walls are painted in a light beige color, and the space is well-lit by natural light coming through large windows and additional artificial light from ceiling fixtures. The design elements suggest a blend of modern and traditional Indian aesthetics, with the door serving as a highlight of cultural heritage.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Contemporary",
+        "Indian",
+        "Living Room",
+        "Modern Design",
+        "White Marble"
+      ],
+      "budget_indicator": "Mid-range, featuring materials like white marble and polished wood",
+      "space_type": "Residential Living Room",
+      "functionality": "Primary living area for relaxation and socializing",
+      "indian_specific": "Wooden door with traditional design"
+    }
+  },
+  "cached_at": 1754907971144,
+  "cache_key": "74a2be3cf832257f2f0a31e5db02b25f"
+}

@@ -1,0 +1,113 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/35/cam1.jpg",
+  "analysis": {
+    "image_id": "img_143",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Teak wood paneling",
+        "Marble flooring",
+        "Carved wooden furniture",
+        "Television"
+      ],
+      "objects": [
+        {
+          "type": "Teak Wood Paneling",
+          "features": [
+            "Vertical panelling",
+            "Carved floral motifs"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Marble Flooring",
+          "features": [
+            "Polished surface",
+            "Gray and white veining"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "Highly polished"
+        },
+        {
+          "type": "Carved Wooden Furniture",
+          "features": [
+            "Traditional design",
+            "Floral and geometric carvings"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Television",
+          "features": [
+            "Flat-screen design",
+            "Minimalist frame"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark gray",
+          "White",
+          "Brown",
+          "Silver"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Metal"
+        ],
+        "lighting": "Natural light from a large window",
+        "texture": "Smooth marble flooring, natural wood grain in teak paneling"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Carved wooden furniture",
+          "Teak wood paneling"
+        ],
+        "modern_adaptations": [
+          "Minimalist design of the television and furniture"
+        ],
+        "space_utilization": "Optimizes the space with a large window, allowing for ample natural light and a clear viewing area for the TV",
+        "cultural_significance": "The use of teak wood and carved furniture reflects the traditional craftsmanship and reverence for natural materials in North Indian interiors, while the modern adaptations balance the traditional with contemporary aesthetics"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern Indian living room with a fusion of traditional and contemporary elements. The space features teak wood paneling adorned with intricate floral carvings, which are typical of North Indian design. The living room includes a large flat-screen television with a sleek metal frame, contrasting with the traditional carved wooden furniture. The flooring is polished marble, providing a luxurious and smooth texture. The overall color palette includes dark gray, white, and brown, with natural wood tones and silver accents, reflecting a sophisticated and elegant Indian interior design style.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Teak Wood",
+          "Marble Flooring",
+          "Carved Furniture",
+          "North Indian",
+          "Living Room"
+        ],
+        "budget_indicator": "High",
+        "space_type": "Residential Living Room",
+        "functionality": "Entertainment and relaxation",
+        "indian_specific": "Traditional teak wood and carved furniture, modern flat-screen TV"
+      }
+    }
+  },
+  "cached_at": 1754906349689,
+  "cache_key": "057ea844c05bfaa1c185ae836c4027c2"
+}

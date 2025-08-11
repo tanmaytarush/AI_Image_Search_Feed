@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/618/image_cropper_1729141357040.jpg",
+  "analysis": {
+    "image_id": "img_175",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Minimalist with Indian Influences",
+      "primary_features": [
+        "Built-in shelves",
+        "Mirror with wooden frame",
+        "Decorative items"
+      ],
+      "objects": [
+        {
+          "type": "Mirror",
+          "features": [
+            "Rectangular",
+            "Wooden frame with intricate carvings"
+          ],
+          "materials": [
+            "Wood",
+            "Glass"
+          ],
+          "finish": "Shiny wood finish, reflective glass"
+        },
+        {
+          "type": "Built-in shelves",
+          "features": [
+            "Integrated into the wall",
+            "Decorative items placed on them"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black",
+          "Silver"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Even lighting, no visible light fixtures",
+        "texture": "Smooth wood, reflective glass, metallic sheen"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly regional",
+        "traditional_elements": [
+          "Wooden frame with carvings"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with contemporary furniture"
+        ],
+        "space_utilization": "Efficient use of wall space for storage and display",
+        "cultural_significance": "Use of wood and carvings reflects traditional craftsmanship"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The space features a minimalist design with Indian influences, highlighted by the use of a wooden mirror frame with intricate carvings and built-in shelves integrated into the wall. The room utilizes space efficiently for both storage and display of decorative items. The color palette and materials reflect traditional craftsmanship and modern simplicity.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Indian Interior",
+          "Wooden Frame",
+          "Mirror",
+          "Built-in Shelves"
+        ],
+        "budget_indicator": "Moderate, with use of polished wood and glass for functional and decorative elements",
+        "space_type": "Living Room",
+        "functionality": "Storage and display",
+        "indian_specific": "Use of wood and carvings"
+      }
+    }
+  },
+  "cached_at": 1754907022963,
+  "cache_key": "39b876cb0ac1e6276cf185e6b6963c32"
+}

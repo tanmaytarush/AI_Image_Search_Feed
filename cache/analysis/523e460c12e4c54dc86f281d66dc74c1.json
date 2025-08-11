@@ -1,0 +1,89 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/459/image_cropper_1728797629639.jpg",
+  "analysis": {
+    "image_id": "img_397",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Colonial Indian",
+      "primary_features": [
+        "Panelled walls",
+        "Wooden furniture",
+        "Decorative partition"
+      ],
+      "objects": [
+        {
+          "type": "Walnut Wood Console Table",
+          "features": [
+            "Carved floral patterns",
+            "Simple lines",
+            "Rectangular shape"
+          ],
+          "materials": [
+            "Walnut Wood"
+          ],
+          "finish": "High gloss finish"
+        },
+        {
+          "type": "Decorative Partition",
+          "features": [
+            "Geometric cutouts",
+            "Modern design"
+          ],
+          "materials": [
+            "MDF with decorative panels"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Walnut brown furniture",
+          "Natural wood finish"
+        ],
+        "materials": [
+          "Walnut wood",
+          "MDF",
+          "Paint"
+        ],
+        "lighting": "Ambient lighting via wall-mounted light",
+        "texture": "Smooth surfaces with natural wood grain"
+      },
+      "indian_context": {
+        "regional_style": "Bengali",
+        "traditional_elements": [
+          "Wooden furniture with carved details",
+          "Decorative partition"
+        ],
+        "modern_adaptations": [
+          "Modern cutout design in partition, contemporary furniture style"
+        ],
+        "space_utilization": "Efficient use of space with furniture and partition",
+        "cultural_significance": "The partition and furniture reflect Bengali traditional craftsmanship and elegance"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The living room exudes a colonial Indian ambiance with a focus on traditional craftsmanship and elegant furniture. The wooden console table features intricate floral carvings typical of Bengali design, while the decorative partition with geometric cutouts adds a modern twist to the traditional Indian aesthetic. The room is well-lit, creating a warm and inviting atmosphere.",
+      "metadata": {
+        "tags": [
+          "Colonial Indian",
+          "Bengali Style",
+          "Wooden Furniture",
+          "Partition Design",
+          "Living Room"
+        ],
+        "budget_indicator": "Mid-range, as it features high-quality woods and modern materials",
+        "space_type": "Residential Living Room",
+        "functionality": "Primary purpose is for relaxation and entertainment, with space for social gatherings",
+        "indian_specific": "Traditional furniture styles and decorative elements"
+      }
+    }
+  },
+  "cached_at": 1754911073147,
+  "cache_key": "523e460c12e4c54dc86f281d66dc74c1"
+}

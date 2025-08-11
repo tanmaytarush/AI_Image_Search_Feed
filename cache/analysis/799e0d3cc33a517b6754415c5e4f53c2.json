@@ -1,0 +1,76 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/460/image_cropper_1728648325046.jpg",
+  "analysis": {
+    "image_id": "img_118",
+    "ai_generated_tags": {
+      "room": "Walking/Entryway",
+      "theme": "Modern Minimalism with Indian Influences",
+      "primary_features": [
+        "Sliding glass doors",
+        "Light-colored walls",
+        "Minimalistic decor"
+      ],
+      "objects": [
+        {
+          "type": "Sliding glass door",
+          "features": [
+            "Translucent glass panels",
+            "Frameless design",
+            "Elegant sliding mechanism"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Smooth, polished surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light gray",
+          "White",
+          "Clear"
+        ],
+        "materials": [
+          "Glass",
+          "Painted surfaces"
+        ],
+        "lighting": "Natural light from sliding doors",
+        "texture": "Smooth and sleek"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian",
+        "traditional_elements": [
+          "Minimalistic design"
+        ],
+        "modern_adaptations": [
+          "Contemporary interpretation of Indian aesthetics"
+        ],
+        "space_utilization": "Efficient space optimization with sliding doors",
+        "cultural_significance": "Modern Indian design often incorporates clean lines and natural light, reflecting a blend of tradition and modernity"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern, minimalist space in an Indian style, featuring sliding glass doors that allow for a seamless transition from indoors to outdoors. The design emphasizes light and space, with clean lines and a neutral color palette. The minimalistic approach aligns with contemporary Indian design trends that blend traditional aesthetics with modern functionality.",
+      "metadata": {
+        "tags": [
+          "Modern Indian",
+          "Walking Space",
+          "Glass Doors",
+          "Minimalism",
+          "Interior Design"
+        ],
+        "budget_indicator": "Moderate to High",
+        "space_type": "Residential",
+        "functionality": "Entrance or hallway leading to other areas",
+        "indian_specific": "Modern adaptation of Indian design elements with a focus on space and light"
+      }
+    }
+  },
+  "cached_at": 1754906071396,
+  "cache_key": "799e0d3cc33a517b6754415c5e4f53c2"
+}

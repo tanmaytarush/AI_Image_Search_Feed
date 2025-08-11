@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/459/image_cropper_1728644271519.jpg",
+  "analysis": {
+    "image_id": "img_444",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Glass-wool paneling",
+        "Carved wooden paneling",
+        "Dark wood furniture"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden headboard",
+          "features": [
+            "Dark wood finish",
+            "intricate carving patterns"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished dark wood"
+        },
+        {
+          "type": "Glass-wool paneling",
+          "features": [
+            "Transparent and reflective glass-wool texture"
+          ],
+          "materials": [
+            "Glass-wool"
+          ],
+          "finish": "Smooth, semi-translucent"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Dark brown",
+          "Transparent",
+          "Medium brown"
+        ],
+        "materials": [
+          "Teak wood",
+          "Glass-wool"
+        ],
+        "lighting": "Natural light with soft ambient lighting from the glass-wool paneling",
+        "texture": "Smooth and polished surfaces with intricate carved patterns"
+      },
+      "indian_context": {
+        "regional_style": "Maharashtrian",
+        "traditional_elements": [
+          "Carved wooden headboard"
+        ],
+        "modern_adaptations": [
+          "Contemporary glass-wool paneling"
+        ],
+        "space_utilization": "Efficient use of vertical space with paneling",
+        "cultural_significance": "The headboard's intricate carving represents traditional craftsmanship and storytelling within Indian artisanal culture"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a contemporary Indian bedroom with a focus on traditional craftsmanship. The dark wood headboard features intricate carvings, reflecting regional artistic styles, while the transparent glass-wool paneling adds a modern twist. The room's design utilizes the vertical space effectively, enhancing the overall aesthetic and providing a blend of traditional and contemporary elements.",
+      "metadata": {
+        "tags": [
+          "Contemporary Indian",
+          "Maharashtrian Style",
+          "Carved Wooden Headboard",
+          "Glass-Wool Paneling",
+          "Dark Wood Furniture"
+        ],
+        "budget_indicator": "Moderate to high, due to the use of dark wood and glass-wool materials",
+        "space_type": "Residential Bedroom",
+        "functionality": "Sleeping and relaxation area",
+        "indian_specific": "Carved wooden headboard, glass-wool paneling"
+      }
+    }
+  },
+  "cached_at": 1754911636602,
+  "cache_key": "7d752c5ed3017039e9aff3f5f3dac8c8"
+}

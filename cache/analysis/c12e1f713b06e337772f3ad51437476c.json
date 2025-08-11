@@ -1,0 +1,90 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/498/image_cropper_1729000027320.jpg",
+  "analysis": {
+    "image_id": "img_330",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Large flat-screen TV",
+        "Teak wood furniture",
+        "Marble flooring"
+      ],
+      "objects": [
+        {
+          "type": "Teak wood furniture",
+          "features": [
+            "Carved wooden details",
+            "Solid wood construction"
+          ],
+          "materials": [
+            "Teak",
+            "Carved wood"
+          ],
+          "finish": "Smooth, polished surface"
+        },
+        {
+          "type": "Teak wood cabinets",
+          "features": [
+            "Carved wood details",
+            "Wooden finish"
+          ],
+          "materials": [
+            "Teak"
+          ],
+          "finish": "Polished teak"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Teak wood brown",
+          "Marble gray",
+          "White walls",
+          "Dark wood flooring"
+        ],
+        "materials": [
+          "Teak",
+          "Marble",
+          "Painted walls"
+        ],
+        "lighting": "Artificial lighting with recessed ceiling lights and wall sconces",
+        "texture": "Smooth surfaces of furniture and floors, marble texture on walls"
+      },
+      "indian_context": {
+        "regional_style": "Northern Indian",
+        "traditional_elements": [
+          "Carved wood details",
+          "Teak wood furniture"
+        ],
+        "modern_adaptations": [
+          "Contemporary furniture design with modern finishes"
+        ],
+        "space_utilization": "Open layout with furniture arranged to face TV",
+        "cultural_significance": "Teak wood is often used in Northern India for its durability and cultural significance"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "A modern Indian living room featuring a large flat-screen TV mounted on the wall, surrounded by teak wood furniture and marble flooring. The space is designed with a blend of traditional Indian elements, such as carved wooden details on the furniture, and contemporary design, with the use of modern finishes and lighting.",
+      "metadata": {
+        "tags": [
+          "Teak wood furniture",
+          "Marble flooring",
+          "Living room",
+          "Contemporary Indian design",
+          "Northern Indian style"
+        ],
+        "budget_indicator": "Moderate, with high-quality materials like teak and marble",
+        "space_type": "Residential living room",
+        "functionality": "Entertainment and relaxation",
+        "indian_specific": "Teak wood furniture with carved details, marble flooring"
+      }
+    }
+  },
+  "cached_at": 1754909798366,
+  "cache_key": "c12e1f713b06e337772f3ad51437476c"
+}

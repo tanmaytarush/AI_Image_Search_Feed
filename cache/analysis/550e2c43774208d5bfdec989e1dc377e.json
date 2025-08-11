@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/747/image_cropper_1729239809030.jpg",
+  "analysis": {
+    "image_id": "img_224",
+    "ai_generated_tags": {
+      "room": "Living Space",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Minimalist design",
+        "Modern furniture",
+        "Neutral color palette",
+        "Large seating area",
+        "Open layout"
+      ],
+      "objects": [
+        {
+          "type": "Futon",
+          "features": [
+            "Large, cushioned, minimalist design"
+          ],
+          "materials": [
+            "Fabric, foam"
+          ],
+          "finish": "Smooth, non-slip surface"
+        },
+        {
+          "type": "Teak Wood Side Table",
+          "features": [
+            "Traditional shape, slightly curved edges"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished, natural teak finish"
+        },
+        {
+          "type": "Brass Lamp",
+          "features": [
+            "Handcrafted, traditional brass design with intricate detailing"
+          ],
+          "materials": [
+            "Brass"
+          ],
+          "finish": "Glossy brass finish"
+        },
+        {
+          "type": "Marble Coffee Table",
+          "features": [
+            "Rectangular, clean lines, glossy finish"
+          ],
+          "materials": [
+            "Marble"
+          ],
+          "finish": "High-gloss marble"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Neutral tones (beige, white, gray)",
+          "Warm beige on walls and ceiling"
+        ],
+        "materials": [
+          "Marble, teak wood, brass"
+        ],
+        "lighting": "Natural light from large windows, accentuated by soft, warm artificial lighting",
+        "texture": "Smooth, polished surfaces with minimal textural contrast"
+      },
+      "indian_context": {
+        "regional_style": "Sri Lankan or South Indian",
+        "traditional_elements": [
+          "Traditional brass lamp, teak wood side table"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with contemporary furniture"
+        ],
+        "space_utilization": "Efficient use of space with a combination of seating, storage, and functional areas",
+        "cultural_significance": "The presence of traditional elements like the brass lamp and teak wood table highlights a fusion of modern and traditional design influences"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This modern Indian living space features a minimalist design with a combination of traditional and contemporary elements. Large, comfortable seating is arranged around a minimalist futon, supported by a sleek, polished teak wood side table and a glossy marble coffee table. A traditional brass lamp adds a touch of cultural significance, blending seamlessly with the neutral color palette and clean lines of the contemporary furniture. The open layout and efficient space utilization highlight a balance between traditional and modern design approaches, creating a welcoming and stylish living area.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian",
+        "Minimalist Design",
+        "Teak Wood",
+        "Marble",
+        "Brass Lamp",
+        "Living Room"
+      ],
+      "budget_indicator": "Moderate to High, with high-quality materials like marble and polished brass",
+      "space_type": "Residential Living Room",
+      "functionality": "Socializing and relaxation",
+      "indian_specific": "Fusion of traditional brass and teak wood elements with modern furniture and design"
+    }
+  },
+  "cached_at": 1754907801253,
+  "cache_key": "550e2c43774208d5bfdec989e1dc377e"
+}

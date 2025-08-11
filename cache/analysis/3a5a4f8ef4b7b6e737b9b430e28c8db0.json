@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/ABN00658.JPG",
+  "analysis": {
+    "image_id": "img_093",
+    "ai_generated_tags": {
+      "room": "Foyer",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Hexagonal patterned wall tiles",
+        "Wooden paneling",
+        "Carved wooden small cabinet",
+        "Wooden shelves",
+        "Statues of deities"
+      ],
+      "objects": [
+        {
+          "type": "wooden small cabinet",
+          "features": [
+            "Carved with intricate patterns",
+            "Dark wood finish",
+            "Single drawer"
+          ],
+          "materials": [
+            "Teak or similar wood"
+          ],
+          "finish": "Polished wood surface"
+        },
+        {
+          "type": "hexagonal patterned wall tiles",
+          "features": [
+            "Dark brown color",
+            "Backlit with warm lighting"
+          ],
+          "materials": [
+            "Mosaic tiles"
+          ],
+          "finish": "Backlit with warm lighting"
+        },
+        {
+          "type": "wooden shelves",
+          "features": [
+            "Carved wooden frames",
+            "Rectangular shape"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Polished wood surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown",
+          "White",
+          "Gold",
+          "Dark brown"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Marble"
+        ],
+        "lighting": "Warm backlighting on wall tiles and recessed lighting in shelves",
+        "texture": "Smooth wood and marble, textured mosaic tiles"
+      },
+      "indian_context": {
+        "regional_style": "South Indian",
+        "traditional_elements": [
+          "Wooden carvings",
+          "Deities statues",
+          "Backlit wall tiles"
+        ],
+        "modern_adaptations": [
+          "Contemporary lighting",
+          "Integrated shelves"
+        ],
+        "space_utilization": "Efficient use of vertical space with shelves and decorative elements",
+        "cultural_significance": "Decorative elements with deities and traditional carvings reflect spiritual and cultural importance"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This image showcases a contemporary Indian foyer with a blend of traditional and modern elements. The space features hexagonal patterned wall tiles with warm backlighting, creating a striking visual effect. Wooden paneling and carvings add traditional warmth, while recessed shelves and a carved wooden small cabinet introduce modern adaptations. Statues of deities and other cultural elements are prominently displayed, reflecting spiritual significance. The use of dark wood, metal accents, and marble flooring contributes to a luxurious and elegant ambiance.",
+    "metadata": {
+      "tags": [
+        "Indian foyer",
+        "Contemporary Indian design",
+        "Hexagonal tiles",
+        "Wooden paneling",
+        "Deities statues"
+      ],
+      "budget_indicator": "Higher, due to use of high-quality materials like teak, marble, and mosaic tiles",
+      "space_type": "Residential foyer",
+      "functionality": "Welcome and prayer space",
+      "indian_specific": "Wooden carvings, deities statues, and cultural significance"
+    }
+  },
+  "cached_at": 1754905683046,
+  "cache_key": "3a5a4f8ef4b7b6e737b9b430e28c8db0"
+}

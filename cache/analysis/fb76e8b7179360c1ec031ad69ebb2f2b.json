@@ -1,0 +1,105 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1686/image_cropper_1729866748230.jpg",
+  "analysis": {
+    "image_id": "img_360",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Wall-mounted vanity with mirror",
+        "Towel rack",
+        "Toilet roll holder",
+        "Decorative bowl"
+      ],
+      "objects": [
+        {
+          "type": "Floating vanity",
+          "features": [
+            "Modern design with sleek lines",
+            "Integrated mirror"
+          ],
+          "materials": [
+            "Wood and painted finish"
+          ],
+          "finish": "Smooth, glossy finish"
+        },
+        {
+          "type": "Towel rack",
+          "features": [
+            "Minimalistic design",
+            "Wall-mounted"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        },
+        {
+          "type": "Toilet roll holder",
+          "features": [
+            "Wall-mounted",
+            "Simple design"
+          ],
+          "materials": [
+            "Metal"
+          ],
+          "finish": "Polished metal"
+        },
+        {
+          "type": "Decorative bowl",
+          "features": [
+            "Small size",
+            "Placed on countertop"
+          ],
+          "materials": [
+            "Ceramic"
+          ],
+          "finish": "Smooth surface"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White walls",
+          "Dark vanity",
+          "Purple rug"
+        ],
+        "materials": [
+          "Wood, painted finish, metal, ceramic"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Modern Indian with minimalist elements",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Contemporary interpretation of traditional Indian craftsmanship"
+        ],
+        "space_utilization": "Efficient use of space with minimalistic decor",
+        "cultural_significance": "No traditional Indian cultural elements, but modern design includes Indian sensibilities in minimalism"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bathroom showcases a modern Indian design with a sleek, floating vanity and a minimalist approach. The use of smooth, glossy finishes and a clean color palette reflects contemporary Indian design sensibilities. The space is efficiently organized with a towel rack and toilet roll holder, and a decorative bowl adds a subtle touch of elegance.",
+    "metadata": {
+      "tags": [
+        "modern indian",
+        "bathroom design",
+        "sleek vanity",
+        "minimalistic decor"
+      ],
+      "budget_indicator": "Moderate, with high-quality materials and finishes",
+      "space_type": "Residential bathroom",
+      "functionality": "Personal hygiene and grooming",
+      "indian_specific": "Modern interpretation of Indian design with contemporary aesthetics"
+    }
+  },
+  "cached_at": 1754910346304,
+  "cache_key": "fb76e8b7179360c1ec031ad69ebb2f2b"
+}

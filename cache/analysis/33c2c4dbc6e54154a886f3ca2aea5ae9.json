@@ -1,0 +1,99 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.00.57%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_023",
+    "ai_generated_tags": {
+      "room": "Entrance/Entryway",
+      "theme": "Contemporary with Indian Influences",
+      "primary_features": [
+        "Wavy patterned wall, wooden cabinetry, marble flooring, decorative pillows"
+      ],
+      "objects": [
+        {
+          "type": "Woven Wooden Bench",
+          "features": [
+            "Curved seat, geometric patterned cushion, beige and gold tones"
+          ],
+          "materials": [
+            "Wood, fabric"
+          ],
+          "finish": "Natural wood finish with a woven texture"
+        },
+        {
+          "type": "Wooden Storage Unit",
+          "features": [
+            "Curved circular cutouts, beige and brown color scheme, natural wood finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Console Table",
+          "features": [
+            "Curved top, beige and brown color scheme, natural wood finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Decorative Plant Stand",
+          "features": [
+            "Sturdy base, beige and brown color scheme, natural wood finish"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural wood finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige, brown, beige and gold patterns, white marble"
+        ],
+        "materials": [
+          "Wood, marble, fabric"
+        ],
+        "lighting": "Ambient lighting with no direct light sources visible",
+        "texture": "Woven fabric, natural wood texture, marble smoothness"
+      },
+      "indian_context": {
+        "regional_style": "Not explicitly regional Indian style",
+        "traditional_elements": [
+          "Curved furniture shapes, natural wood finish, beige and brown color palette"
+        ],
+        "modern_adaptations": [
+          "Contemporary interpretation of traditional shapes and finishes"
+        ],
+        "space_utilization": "Efficient use of vertical space with storage units, maximize floor space with minimalistic design",
+        "cultural_significance": "The color palette and natural materials reflect traditional Indian aesthetics, while the modern shapes indicate a contemporary approach to interior design"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a modern entrance/entryway designed with a contemporary touch, while incorporating traditional Indian design elements. The space features a woven wooden bench with a geometric patterned cushion, a wooden storage unit with curved circular cutouts, and a console table with a similar design. The color palette is primarily beige, brown, and gold, with natural wood finishes and a marble floor. The design emphasizes space optimization and cultural relevance through the use of natural materials and traditional shapes.",
+    "metadata": {
+      "tags": [
+        "Entrance Design",
+        "Contemporary Indian Interiors",
+        "Natural Wood Finish",
+        "Beige Color Palette",
+        "Marble Flooring"
+      ],
+      "budget_indicator": "Moderate, with materials like wood and marble used for functional storage and aesthetic appeal",
+      "space_type": "Entrance/Entryway",
+      "functionality": "Primary purpose is to provide a welcoming space that maximizes storage and aesthetics, with an emphasis on cultural design elements",
+      "indian_specific": "Use of natural wood, beige and brown color scheme, and traditional furniture shapes"
+    }
+  },
+  "cached_at": 1754895636012,
+  "cache_key": "33c2c4dbc6e54154a886f3ca2aea5ae9"
+}

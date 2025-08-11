@@ -1,0 +1,84 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/303/image_cropper_1729262381107.jpg",
+  "analysis": {
+    "image_id": "img_450",
+    "ai_generated_tags": {
+      "room": "Dining Room",
+      "theme": "Traditional Indian Dining",
+      "primary_features": [
+        "Carved wooden chairs",
+        "Dining table with checkered tablecloth"
+      ],
+      "objects": [
+        {
+          "type": "Carved wooden chairs",
+          "features": [
+            "Curved backrests",
+            "Detailed carvings on the backrests"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Polished and possibly varnished"
+        },
+        {
+          "type": "Dining table",
+          "features": [
+            "Rectangular shape",
+            "Checkered tablecloth"
+          ],
+          "materials": [
+            "Wooden frame",
+            "Fabric top"
+          ],
+          "finish": "Wooden frame polished, fabric top likely machine washable"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Brown (wood)",
+          "White (tablecloth)",
+          "Assorted colors (checkered pattern)"
+        ],
+        "materials": [
+          "Wood",
+          "Fabric"
+        ],
+        "lighting": "Natural light, possibly from a window not visible in the image",
+        "texture": "Smooth wood texture, fabric with a woven pattern"
+      },
+      "indian_context": {
+        "regional_style": "Not clearly identifiable due to lack of specific regional indicators",
+        "traditional_elements": [
+          "Carved wooden chairs"
+        ],
+        "modern_adaptations": [],
+        "space_utilization": "Seating for at least four persons, suggesting a small to medium-sized dining area",
+        "cultural_significance": "The chairs with detailed carvings may symbolize the importance of dining and hospitality in Indian culture"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image showcases a traditional Indian dining setup with intricately carved wooden chairs and a rectangular dining table covered with a checkered tablecloth, reflecting a homely and culturally rich dining environment. The chairs are a key element, suggesting the importance of hospitality and the dining experience in Indian culture.",
+      "metadata": {
+        "tags": [
+          "Indian dining",
+          "traditional furniture",
+          "carved chairs",
+          "checkered tablecloth",
+          "small dining area"
+        ],
+        "budget_indicator": "Moderate, with the use of polished wood and a fabric tablecloth suggesting a mid-level budget",
+        "space_type": "Residential dining room",
+        "functionality": "Primary purpose is dining, likely serving for family meals or small gatherings",
+        "indian_specific": "The carved wooden chairs are a hallmark of traditional Indian design, often seen in homes and temples, symbolizing craftsmanship and cultural heritage."
+      }
+    }
+  },
+  "cached_at": 1754911710031,
+  "cache_key": "67ee9efab5207ed73d8ad7bb47f4db08"
+}

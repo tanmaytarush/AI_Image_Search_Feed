@@ -1,0 +1,88 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/227/image_cropper_1727029537340.jpg",
+  "analysis": {
+    "image_id": "img_134",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modular Kitchen",
+      "primary_features": [
+        "Cupboard with multiple storage options",
+        "Modern countertop design",
+        "Tile flooring",
+        "Built-in sink"
+      ],
+      "objects": [
+        {
+          "type": "Kitchen Cupboard",
+          "features": [
+            "Multiple shelves and drawers for storage",
+            "Decorative golden knobs"
+          ],
+          "materials": [
+            "Wooden frame with laminate finish",
+            "Golden knobs"
+          ],
+          "finish": "Laminate finish on wood with golden hardware"
+        },
+        {
+          "type": "Countertop",
+          "features": [
+            "Smooth surface",
+            "Embedded sink"
+          ],
+          "materials": [
+            "Synthetic material"
+          ],
+          "finish": "Smooth surface with embedded sink"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Golden",
+          "Brown",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Synthetic",
+          "Metal"
+        ],
+        "lighting": "Ambient lighting from ceiling",
+        "texture": "Smooth surfaces with a mix of matte and metallic finishes"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Integration of traditional elements like brass knobs with modern design"
+        ],
+        "space_utilization": "Efficient use of space with multiple storage options and a built-in sink",
+        "cultural_significance": "Minimal cultural significance in this image as it is a kitchen design, focusing more on functionality."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern kitchen with Indian design influences such as the use of brass knobs for the kitchen cupboard. The space is efficiently organized with multiple storage options and a built-in sink. The color palette includes white, golden, brown, and black, with a mix of wood, synthetic, and metal materials. The lighting is ambient, providing a bright and clean look to the space.",
+      "metadata": {
+        "tags": [
+          "Kitchen Design",
+          "Modern Indian Kitchen",
+          "Modular Kitchen",
+          "Brass Hardware",
+          "Efficient Storage"
+        ],
+        "budget_indicator": "Moderate",
+        "space_type": "Residential Kitchen",
+        "functionality": "Primary purpose is food preparation and storage",
+        "indian_specific": "Modern adaptation of traditional brass hardware"
+      }
+    }
+  },
+  "cached_at": 1754906261532,
+  "cache_key": "dddfcaf85b9fc2f2882dfd7f3ea76bc5"
+}

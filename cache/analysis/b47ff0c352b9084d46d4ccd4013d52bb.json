@@ -1,0 +1,102 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/1426/image_cropper_1729781946834.jpg",
+  "analysis": {
+    "image_id": "img_312",
+    "ai_generated_tags": {
+      "room": "Kitchen",
+      "theme": "Modern with Indian Influences",
+      "primary_features": [
+        "Minimalist design with traditional elements",
+        "Kitchenette setup",
+        "Modern appliances"
+      ],
+      "objects": [
+        {
+          "type": "Wall-mounted cabinet",
+          "features": [
+            "Integrated into the wall",
+            "Simple design",
+            "Includes sleek handles"
+          ],
+          "materials": [
+            "Teak wood"
+          ],
+          "finish": "Natural wood finish"
+        },
+        {
+          "type": "Cooktop",
+          "features": [
+            "Built-in design",
+            "Modern appliance",
+            "Includes knobs for control"
+          ],
+          "materials": [
+            "Stainless steel"
+          ],
+          "finish": "High-gloss finish"
+        },
+        {
+          "type": "Countertops",
+          "features": [
+            "Engineered stone material"
+          ],
+          "materials": [
+            "Marble or granite"
+          ],
+          "finish": "Smooth and polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Black",
+          "Silver"
+        ],
+        "materials": [
+          "Teak wood",
+          "Marble",
+          "Granite",
+          "Stainless steel"
+        ],
+        "lighting": "Natural light from window",
+        "texture": "Smooth surfaces with minimal texture"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, more of a modern interpretation with Indian touches",
+        "traditional_elements": [
+          "Wall-mounted cabinet with a traditional wooden finish"
+        ],
+        "modern_adaptations": [
+          "Minimalist design with modern appliances and materials"
+        ],
+        "space_utilization": "Efficient use of space with integrated cabinetry",
+        "cultural_significance": "Wall-mounted cabinets are often seen in Indian kitchens, indicating space optimization and elegance"
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "The image depicts a modern kitchen setup with an emphasis on space optimization and Indian design elements. The wall-mounted cabinet, with its teak wood finish, pays homage to traditional Indian cabinetry while maintaining a sleek, contemporary look. The modern appliance, a built-in cooktop, complements the overall modern aesthetic. The utilization of smooth, polished surfaces and the color palette of white, brown, black, and silver add to the modern yet elegant feel of the space, with the brown tones being a nod to traditional Indian design.",
+      "metadata": {
+        "tags": [
+          "Kitchen",
+          "Modern",
+          "Indian Design",
+          "Teak Wood",
+          "Minimalist",
+          "Efficient Space"
+        ],
+        "budget_indicator": "Moderate, with high-quality materials like teak wood, marble, and granite, but with a modern design approach",
+        "space_type": "Residential",
+        "functionality": "Primary use as a functional kitchen space",
+        "indian_specific": "Wall-mounted cabinet with teak wood finish"
+      }
+    }
+  },
+  "cached_at": 1754909575316,
+  "cache_key": "b47ff0c352b9084d46d4ccd4013d52bb"
+}

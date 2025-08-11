@@ -1,0 +1,91 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%205.49.36%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_536",
+    "ai_generated_tags": {
+      "room": "Living Room",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wall-mounted TV unit",
+        "Storage cabinet",
+        "Built-in lighting",
+        "Modern finish"
+      ],
+      "objects": [
+        {
+          "type": "Wall-mounted TV unit",
+          "features": [
+            "Integrated storage space",
+            "Modular design"
+          ],
+          "materials": [
+            "Wooden paneling",
+            "Cabinet doors with glass inserts"
+          ],
+          "finish": "High-gloss finish"
+        },
+        {
+          "type": "Storage cabinet",
+          "features": [
+            "Cabinet doors with glass inserts",
+            "Multiple storage compartments"
+          ],
+          "materials": [
+            "Wooden paneling",
+            "Cabinet doors with glass inserts"
+          ],
+          "finish": "High-gloss finish"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Dark wood",
+          "Brown",
+          "Orange"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass"
+        ],
+        "lighting": "Integrated recessed lighting with warm tones",
+        "texture": "Smooth surfaces"
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional",
+        "traditional_elements": [
+          "Integrated storage solutions"
+        ],
+        "modern_adaptations": [
+          "Contemporary finish and design"
+        ],
+        "space_utilization": "Efficient use of vertical space",
+        "cultural_significance": "Focus on functionality and storage, reflecting a practical approach"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "The image showcases a contemporary Indian living room setting with a wall-mounted TV unit that incorporates both storage and display features. The unit is designed with a modern finish, featuring high-gloss white panels and dark wood accents. The built-in lighting enhances the functionality and aesthetic appeal, while the storage cabinet below combines practical design with a sleek appearance. The materials used include wood, metal, and glass, reflecting contemporary Indian design trends that blend traditional elements with modern aesthetics.",
+    "metadata": {
+      "tags": [
+        "Contemporary Indian interior",
+        "Wall-mounted TV unit",
+        "Storage solutions",
+        "High-gloss finish",
+        "Modern living room"
+      ],
+      "budget_indicator": "Mid-range budget based on materials and finishes",
+      "space_type": "Living Room",
+      "functionality": "Primary purpose is entertainment and storage",
+      "indian_specific": "Focus on efficient space utilization and modern design with traditional influences"
+    }
+  },
+  "cached_at": 1754913181594,
+  "cache_key": "969a678e5a802ec226a5f6c2a789ccab"
+}

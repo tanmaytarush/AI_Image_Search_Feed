@@ -1,0 +1,42 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/287/image_cropper_1727349839506.jpg",
+  "analysis": {
+    "image_id": "img_173",
+    "ai_generated_tags": {
+      "room": "Not applicable - this appears to be a portrait of a person, not an interior space",
+      "theme": "Not applicable - this image does not depict an interior design",
+      "primary_features": [],
+      "objects": [],
+      "visual_attributes": {
+        "colors": [],
+        "materials": [],
+        "lighting": "Not applicable - this image does not depict an interior space",
+        "texture": []
+      },
+      "indian_context": {
+        "regional_style": "Not applicable - this image does not depict an interior space",
+        "traditional_elements": [],
+        "modern_adaptations": [],
+        "space_utilization": "Not applicable - this image does not depict an interior space",
+        "cultural_significance": "Not applicable - this image does not depict an interior space"
+      }
+    },
+    "confidence_scores": {
+      "room": 0,
+      "theme": 0,
+      "primary_features": 0,
+      "objects": 0,
+      "indian_context": 0
+    },
+    "description": "The image appears to be a portrait of a person against a plain white background. There are no interior design elements or cultural references visible in the image.",
+    "metadata": {
+      "tags": [],
+      "budget_indicator": "Not applicable - this image does not depict an interior space",
+      "space_type": "Not applicable - this image does not depict an interior space",
+      "functionality": "The primary purpose of this image is to capture a portrait of a person, not to depict functionality of an interior space.",
+      "indian_specific": "Not applicable - this image does not depict an interior space"
+    }
+  },
+  "cached_at": 1754907007853,
+  "cache_key": "4f560a8c424da942dc630392e630b384"
+}

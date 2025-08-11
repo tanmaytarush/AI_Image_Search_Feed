@@ -1,0 +1,85 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/53/image_cropper_1726467433786.jpg",
+  "analysis": {
+    "image_id": "img_382",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Contemporary Indian",
+      "primary_features": [
+        "Wooden bed frame",
+        "Textured curtains",
+        "Carved headboard"
+      ],
+      "objects": [
+        {
+          "type": "Bed",
+          "features": [
+            "Wooden frame with a carved headboard",
+            "Textured mattress"
+          ],
+          "materials": [
+            "Wood, fabric"
+          ],
+          "finish": "Wood has a polished finish, fabric has a textured finish"
+        },
+        {
+          "type": "Curtains",
+          "features": [
+            "Long, sheer, with geometric patterns"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Sheer, geometric patterned"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Blue",
+          "Brown",
+          "Grey"
+        ],
+        "materials": [
+          "Wood, fabric, glass"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Textured fabric, smooth wood"
+      },
+      "indian_context": {
+        "regional_style": "North Indian",
+        "traditional_elements": [
+          "Carved headboard"
+        ],
+        "modern_adaptations": [
+          "Sheer curtains, contemporary bed design"
+        ],
+        "space_utilization": "Efficient use of space with a focus on functionality",
+        "cultural_significance": "The carved headboard is a traditional element often found in North Indian homes, symbolizing craftsmanship and cultural heritage."
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This bedroom showcases a contemporary interpretation of North Indian interior design, featuring a wooden bed with a carved headboard and sheer curtains with geometric patterns. The use of natural light enhances the room's warm and inviting feel, while the polished wood and textured fabric elements highlight traditional craftsmanship. The space is organized for functionality, with a focus on comfort and cultural relevance.",
+    "metadata": {
+      "tags": [
+        "Indian bedroom",
+        "Contemporary Indian",
+        "Wooden furniture",
+        "Sheer curtains",
+        "North Indian style"
+      ],
+      "budget_indicator": "Moderate, with a focus on quality materials like polished wood and textured fabric",
+      "space_type": "Residential bedroom",
+      "functionality": "Sleeping and relaxation area",
+      "indian_specific": "Carved headboard, sheer curtains"
+    }
+  },
+  "cached_at": 1754910583542,
+  "cache_key": "9fcc901071abda98342ccadc4bae1892"
+}

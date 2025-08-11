@@ -1,0 +1,84 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/832/image_cropper_1729263273883.jpg",
+  "analysis": {
+    "image_id": "img_271",
+    "ai_generated_tags": {
+      "room": "Bathroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Wooden bench",
+        "Storage cabinets"
+      ],
+      "objects": [
+        {
+          "type": "Wooden bench",
+          "features": [
+            "Rectangular, curved backrest",
+            "Simple design"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Satin or polished"
+        },
+        {
+          "type": "Storage cabinets",
+          "features": [
+            "Built-in, tall",
+            "Light-colored wood"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Satin or polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Light wood tone",
+          "Tan accents",
+          "White wall"
+        ],
+        "materials": [
+          "Wood",
+          "Light-colored wood"
+        ],
+        "lighting": "Natural light from unseen window",
+        "texture": "Smooth wooden finish"
+      },
+      "indian_context": {
+        "regional_style": "Not applicable",
+        "traditional_elements": [
+          "None"
+        ],
+        "modern_adaptations": [
+          "Simplification of traditional elements"
+        ],
+        "space_utilization": "Minimal and functional",
+        "cultural_significance": "Not applicable"
+      },
+      "confidence_scores": {
+        "room": 0.85,
+        "theme": 0.8,
+        "primary_features": 0.85,
+        "objects": 0.9,
+        "indian_context": 0.75
+      },
+      "description": "The image depicts a minimalist bathroom with a wooden bench and built-in storage cabinets. The design is modern and functional, with a focus on cleanliness and simplicity. The light-colored wood and white wall create a bright and airy atmosphere. There are no traditional Indian design elements or cultural significance observed in the space.",
+      "metadata": {
+        "tags": [
+          "Minimalist",
+          "Bathroom",
+          "Wooden Bench",
+          "Storage Cabinets"
+        ],
+        "budget_indicator": "Low to medium",
+        "space_type": "Residential",
+        "functionality": "Storage and seating",
+        "indian_specific": "No Indian-specific design features visible"
+      }
+    }
+  },
+  "cached_at": 1754908800486,
+  "cache_key": "a97153a89cc63f891a2e8a110865ab1a"
+}

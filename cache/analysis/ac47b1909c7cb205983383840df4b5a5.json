@@ -1,0 +1,95 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/digital-profiles/452/image_cropper_1729415392253.jpg",
+  "analysis": {
+    "image_id": "img_133",
+    "ai_generated_tags": {
+      "room": "Bedroom",
+      "theme": "Minimalist",
+      "primary_features": [
+        "Wooden bed frame",
+        "White mattress",
+        "Glass partition",
+        "Window with wooden frames"
+      ],
+      "objects": [
+        {
+          "type": "Bed frame",
+          "features": [
+            "Simple design",
+            "Wooden construction"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Natural finish, possibly teak"
+        },
+        {
+          "type": "Mattress",
+          "features": [
+            "White, cushioned design"
+          ],
+          "materials": [
+            "Foam, batting"
+          ],
+          "finish": "Smooth surface"
+        },
+        {
+          "type": "Glass partition",
+          "features": [
+            "Translucent, allowing light to pass through"
+          ],
+          "materials": [
+            "Glass"
+          ],
+          "finish": "Clear, polished"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "White",
+          "Brown",
+          "Clear"
+        ],
+        "materials": [
+          "Wood",
+          "Glass",
+          "Metal"
+        ],
+        "lighting": "Natural light from the window",
+        "texture": "Smooth and simple"
+      },
+      "indian_context": {
+        "regional_style": "Not specifically identifiable",
+        "traditional_elements": [],
+        "modern_adaptations": [
+          "Minimalist design with traditional materials"
+        ],
+        "space_utilization": "Efficient use of space with a clear division",
+        "cultural_significance": "No traditional Indian cultural elements visible"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.85,
+      "theme": 0.8,
+      "primary_features": 0.85,
+      "objects": 0.9,
+      "indian_context": 0.7
+    },
+    "description": "The image depicts a modern bedroom space with a minimalist design approach. The wooden bed frame, white mattress, and glass partition suggest a contemporary style. The room utilizes simple and natural materials, emphasizing functionality and lightness. The wooden frames of the bed and window add a touch of elegance, which is typical in modern Indian interiors that blend traditional materials with modern aesthetics.",
+    "metadata": {
+      "tags": [
+        "Minimalist",
+        "Contemporary",
+        "Bedroom",
+        "Wooden",
+        "Glass"
+      ],
+      "budget_indicator": "Moderate, due to the use of high-quality materials like wood and glass",
+      "space_type": "Residential",
+      "functionality": "Sleeping and personal use",
+      "indian_specific": "Minimal use of traditional Indian design elements, leaning towards a modern interpretation"
+    }
+  },
+  "cached_at": 1754906248781,
+  "cache_key": "ac47b1909c7cb205983383840df4b5a5"
+}

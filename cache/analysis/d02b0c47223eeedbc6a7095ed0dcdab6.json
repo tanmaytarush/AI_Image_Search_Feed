@@ -1,0 +1,137 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Screenshot%202024-07-11%20at%203.46.59%E2%80%AFPM.png",
+  "analysis": {
+    "image_id": "img_071",
+    "ai_generated_tags": {
+      "room": "Entryway",
+      "theme": "Modern Indian",
+      "primary_features": [
+        "Green and white cabinet with brass hardware",
+        "Circular mirror with gold frame",
+        "Buddha statue",
+        "Green wall with artwork"
+      ],
+      "objects": [
+        {
+          "type": "Cabinet",
+          "features": [
+            "Two doors, top and bottom compartments",
+            "Green frame with white panels",
+            "Gold horizontal handles"
+          ],
+          "materials": [
+            "Wood for the frame",
+            "Metal for the hardware"
+          ],
+          "finish": "Matte finish on the cabinet, shiny brass hardware"
+        },
+        {
+          "type": "Mirror",
+          "features": [
+            "Circular shape",
+            "Gold frame with intricate detailing"
+          ],
+          "materials": [
+            "Glass",
+            "Gold trim"
+          ],
+          "finish": "Glossy gold"
+        },
+        {
+          "type": "Statue",
+          "features": [
+            "Buddha figure",
+            "Golden color"
+          ],
+          "materials": [
+            "Metal or bronze"
+          ],
+          "finish": "Shiny gold"
+        },
+        {
+          "type": "Artwork",
+          "features": [
+            "Four framed abstract paintings"
+          ],
+          "materials": [
+            "Canvas"
+          ],
+          "finish": "Printed paper"
+        },
+        {
+          "type": "Plant",
+          "features": [
+            "Large green leaf plant"
+          ],
+          "materials": [
+            "Plant material"
+          ],
+          "finish": "Natural green"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Green",
+          "White",
+          "Gold",
+          "Beige",
+          "Black"
+        ],
+        "materials": [
+          "Wood",
+          "Metal",
+          "Glass",
+          "Brass",
+          "Canvas"
+        ],
+        "lighting": "Artificial light from a pendant lamp",
+        "texture": [
+          "Matte cabinet finish",
+          "Glossy mirror",
+          "Shiny Buddha statue",
+          "Smooth wall texture",
+          "Soft fabric of artwork"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional, but incorporates elements typical of Indian interiors",
+        "traditional_elements": [
+          "Circular mirror with gold frame",
+          "Buddha statue",
+          "Abstract artwork"
+        ],
+        "modern_adaptations": [
+          "Minimalist cabinet design",
+          "Modern lighting fixtures"
+        ],
+        "space_utilization": "Efficient use of space for storage and display",
+        "cultural_significance": "Buddha statue symbolizes peace and spirituality, while the circular mirror and abstract artwork reflect modern design influences"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This entryway combines modern design with traditional Indian elements. The green and white cabinet with brass hardware adds a contemporary twist to the classic Indian cabinet style. The circular mirror with a gold frame, along with the Buddha statue, brings in cultural significance. The abstract artwork and modern lighting fixtures complement the space, blending traditional and modern aesthetics seamlessly.",
+    "metadata": {
+      "tags": [
+        "entryway",
+        "modern",
+        "Indian style",
+        "cabinet",
+        "circle mirror",
+        "Buddha statue",
+        "abstract art"
+      ],
+      "budget_indicator": "Moderate, with a mix of modern and traditional materials",
+      "space_type": "Residential",
+      "functionality": "Storage and a decorative entrance",
+      "indian_specific": "Circular mirror and Buddha statue with brass hardware"
+    }
+  },
+  "cached_at": 1754903932945,
+  "cache_key": "d02b0c47223eeedbc6a7095ed0dcdab6"
+}

@@ -1,0 +1,103 @@
+{
+  "image_url": "https://solsticeprod.s3.ap-south-1.amazonaws.com/https%3A/%2Fap-south-1.console.aws.amazon.com/s3/buckets/solsticedev%3Fregion%3Dap-south-1%26bucketType%3Dgeneral%26prefix%3Dcms/%26showversions%3Dfalse/Living%20006.png",
+  "analysis": {
+    "image_id": "img_585",
+    "ai_generated_tags": {
+      "room": "Living room",
+      "theme": "Contemporary Indian design",
+      "primary_features": [
+        "3D Buddha relief mural",
+        "Wooden partition with brass detailing",
+        "Combination of modern and traditional elements"
+      ],
+      "objects": [
+        {
+          "type": "Coffee table",
+          "features": [
+            "Rectangle shape with visible metal frame, wooden top"
+          ],
+          "materials": [
+            "Wood and metal"
+          ],
+          "finish": "Polished"
+        },
+        {
+          "type": "Sofa",
+          "features": [
+            "U-shaped, light beige fabric, dark grey cushions"
+          ],
+          "materials": [
+            "Fabric"
+          ],
+          "finish": "Textured"
+        },
+        {
+          "type": "Partition",
+          "features": [
+            "Wooden with brass decorative elements"
+          ],
+          "materials": [
+            "Wood, brass"
+          ],
+          "finish": "Stained wood and shiny brass"
+        },
+        {
+          "type": "Buddha mural",
+          "features": [
+            "3D relief of Buddha, seated in meditation"
+          ],
+          "materials": [
+            "Painted plaster or similar material"
+          ],
+          "finish": "Worn texture"
+        }
+      ],
+      "visual_attributes": {
+        "colors": [
+          "Beige, grey, white, brown, gold, cream"
+        ],
+        "materials": [
+          "Wood, metal, plaster, fabric, marble"
+        ],
+        "lighting": "Natural light from off-camera window, artificial light from ceiling fan",
+        "texture": [
+          "Textured fabric, polished metal, worn plaster, smooth marble"
+        ]
+      },
+      "indian_context": {
+        "regional_style": "Not distinctly regional as it blends elements from different parts of India",
+        "traditional_elements": [
+          "Wooden partition with brass detailing, Buddha mural"
+        ],
+        "modern_adaptations": [
+          "Use of modern finishes and furniture"
+        ],
+        "space_utilization": "Open floor plan with distinct dining and living areas, optimized for socializing",
+        "cultural_significance": "The Buddha mural adds a spiritual element, reflecting the importance of spirituality in Indian culture"
+      }
+    },
+    "confidence_scores": {
+      "room": 0.95,
+      "theme": 0.87,
+      "primary_features": 0.89,
+      "objects": 0.92,
+      "indian_context": 0.9
+    },
+    "description": "This contemporary Indian living room features a modern, open floor plan with a combination of traditional and modern elements. A prominent Buddha relief mural on the wall serves as a focal point, while a wooden partition with brass detailing acts as a social divider. The living area is furnished with a U-shaped beige sofa and a simple wooden coffee table, creating a blend of comfort and elegance. The room is well-lit with both natural and artificial light, emphasizing the natural wood tones and the polished brass accents.",
+    "metadata": {
+      "tags": [
+        "Indian design",
+        "contemporary",
+        "Buddha mural",
+        "wooden partition",
+        "modern living room"
+      ],
+      "budget_indicator": "Mid-range, due to the use of high-quality materials like brass and marble",
+      "space_type": "Residential living room",
+      "functionality": "Social and relaxation area",
+      "indian_specific": "Use of Buddha mural and traditional wooden partition with brass detailing"
+    }
+  },
+  "cached_at": 1754914331700,
+  "cache_key": "d67d92776e9fd751402c401a982797db"
+}
