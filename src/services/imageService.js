@@ -60,9 +60,9 @@ class ImageService {
         throw new Error("Search query is required");
       }
 
-      console.log(`🤖 AI-Heavy search for: "${query}"`);
+      console.log(`🤖 Streamlined 4-vector search for: "${query}"`);
 
-      // Use search intelligence service to detect exact search intent and enhance query
+      // Use search intelligence service to detect exact search intent
       const enhancedQuery = await searchIntelligenceService.enhanceSearchQuery(
         query.trim()
       );
@@ -72,71 +72,28 @@ class ImageService {
       const primaryTerms = extractPrimarySearchTerms(query.trim());
       console.log(`🎯 Primary search terms: ${primaryTerms.join(", ")}`);
 
-      // Generate multiple embeddings for different aspects
+      // Generate embeddings for ALL 4 vector fields
       const embeddings = await this.generateMultiModalEmbeddings(query.trim());
 
-      // Perform multi-vector AI search
-      const aiSearchResults = await this.performMultiVectorSearch(
+      // Perform single 4-vector search (covers all aspects)
+      const multiVectorResults = await this.performMultiVectorSearch(
         embeddings,
-        limit * 3
+        limit * 2 // Get more results for better ranking
       );
 
-      // Perform semantic text search
-      const semanticResults = await this.performSemanticSearch(
-        query.trim(),
-        limit * 2
-      );
-
-      // Perform feature-focused search
-      const featureResults = await this.performFeatureSearch(
-        query.trim(),
-        limit * 2
-      );
-
-      // Perform visual feature search
-      const visualResults = await this.performVisualFeatureSearch(
-        query.trim(),
-        limit
-      );
-
-      // Perform exact search for precise matches
-      const exactLimit = isExactSearch ? limit * 3 : limit * 2;
+      // Perform exact search for precise matches (keep this as it's different logic)
+      const exactLimit = isExactSearch ? limit * 2 : limit;
       const exactResults = await this.performExactSearch(
         query.trim(),
         exactLimit
       );
 
-      // Perform context-preserving search for primary terms
-      const contextResults = await this.performContextPreservingSearch(
-        primaryTerms,
-        limit * 2
-      );
+      // Merge results (much simpler now)
+      const allResults = [...multiVectorResults, ...exactResults];
+      const uniqueResults = this.removeDuplicates(allResults);
 
-      // Merge and rank all results using AI with context preservation
-      const mergedResults = await this.mergeAndRankResultsWithContext(
-        aiSearchResults,
-        semanticResults,
-        featureResults,
-        visualResults,
-        exactResults,
-        contextResults,
-        query.trim(),
-        primaryTerms
-      );
-
-      // Apply intelligent filtering with context preservation
-      const filteredResults = await this.applyIntelligentFilteringWithContext(
-        mergedResults,
-        query.trim(),
-        primaryTerms
-      );
-
-      // Sort by AI-calculated relevance with context priority
-      const sortedResults = this.sortByAIRelevanceWithContext(
-        filteredResults,
-        query.trim(),
-        primaryTerms
-      );
+      // Sort by Qdrant's similarity scores (trust the vector math)
+      const sortedResults = uniqueResults.sort((a, b) => b.score - a.score);
 
       // Format results
       const formattedResults = [];
@@ -151,14 +108,22 @@ class ImageService {
         total_results: formattedResults.length,
         search_strategy: isExactSearch
           ? "exact_search_enhanced"
-          : "ai_heavy_multi_modal_search_with_context",
+          : "streamlined_4_vector_search",
         search_components: {
-          total_ai_searched: aiSearchResults.length,
-          total_semantic_searched: semanticResults.length,
-          total_feature_searched: featureResults.length,
-          total_visual_searched: visualResults.length,
+          total_4_vector_searched: multiVectorResults.length,
           total_exact_searched: exactResults.length,
-          total_context_searched: contextResults.length,
+          vectors_used: [
+            "primary_search",
+            "semantic_desc",
+            "object_focus",
+            "visual_features",
+          ],
+          vector_weights: {
+            primary_search: "40%",
+            semantic_desc: "30%",
+            object_focus: "20%",
+            visual_features: "10%",
+          },
         },
         exact_search_enabled: isExactSearch,
         exact_search_confidence: enhancedQuery.exact_search?.confidence || 0,
@@ -170,7 +135,7 @@ class ImageService {
         images: formattedResults,
         message: `Found ${
           formattedResults.length
-        } relevant results for "${query.trim()}"`,
+        } relevant results for "${query.trim()}" using 4-vector search`,
         search_metadata: searchMetadata,
       };
     } catch (error) {
@@ -184,22 +149,28 @@ class ImageService {
    */
   async generateMultiModalEmbeddings(query) {
     try {
-      // Generate embeddings for different search strategies
-      const [primaryEmbedding, semanticEmbedding, featureEmbedding] =
-        await Promise.all([
-          getValidatedEmbedding(query, "primary_search"),
-          getValidatedEmbedding(query, "semantic_search"),
-          getValidatedEmbedding(query, "feature_search"),
-        ]);
+      // Generate embeddings for all 4 vector fields
+      const [
+        primaryEmbedding,
+        semanticEmbedding,
+        featureEmbedding,
+        visualEmbedding,
+      ] = await Promise.all([
+        getValidatedEmbedding(query, "primary_search"),
+        getValidatedEmbedding(query, "semantic_search"),
+        getValidatedEmbedding(query, "feature_search"),
+        getValidatedEmbedding(query, "visual_search"),
+      ]);
 
       return {
         primary: primaryEmbedding,
         semantic: semanticEmbedding,
         feature: featureEmbedding,
+        visual: visualEmbedding,
       };
     } catch (error) {
       console.error("Error generating multi-modal embeddings:", error);
-      // Fallback to single embedding
+      // Fallback to single embedding for all fields
       const fallbackEmbedding = await getValidatedEmbedding(
         query,
         "search_query"
@@ -208,34 +179,45 @@ class ImageService {
         primary: fallbackEmbedding,
         semantic: fallbackEmbedding,
         feature: fallbackEmbedding,
+        visual: fallbackEmbedding,
       };
     }
   }
 
   /**
-   * Perform multi-vector AI search using all available vector fields
+   * Perform multi-vector AI search using ALL 4 available vector fields
    */
   async performMultiVectorSearch(embeddings, limit) {
     try {
       const searchPromises = [
-        // Primary search vector
+        // Primary search vector (40% weight)
         qdrantService.client.search("interior_images_description", {
           vector: { name: "primary_search", vector: embeddings.primary },
           limit: Math.ceil(limit * 0.4),
           with_payload: true,
           with_vector: false,
         }),
-        // Semantic description vector
+
+        // Semantic description vector (30% weight)
         qdrantService.client.search("interior_images_description", {
           vector: { name: "semantic_desc", vector: embeddings.semantic },
           limit: Math.ceil(limit * 0.3),
           with_payload: true,
           with_vector: false,
         }),
-        // Object focus vector
+
+        // Object focus vector (20% weight)
         qdrantService.client.search("interior_images_description", {
           vector: { name: "object_focus", vector: embeddings.feature },
-          limit: Math.ceil(limit * 0.3),
+          limit: Math.ceil(limit * 0.2),
+          with_payload: true,
+          with_vector: false,
+        }),
+
+        // Visual features vector (10% weight)
+        qdrantService.client.search("interior_images_description", {
+          vector: { name: "visual_features", vector: embeddings.visual },
+          limit: Math.ceil(limit * 0.1),
           with_payload: true,
           with_vector: false,
         }),
@@ -245,92 +227,6 @@ class ImageService {
       return results.flat();
     } catch (error) {
       console.error("Error in multi-vector search:", error);
-      return [];
-    }
-  }
-
-  /**
-   * Perform semantic text search with enhanced context
-   */
-  async performSemanticSearch(query, limit) {
-    try {
-      // Enhance query with context for better semantic matching
-      const enhancedQuery = this.enhanceQueryWithContext(query);
-      const semanticEmbedding = await getValidatedEmbedding(
-        enhancedQuery,
-        "semantic_search"
-      );
-
-      const results = await qdrantService.client.search(
-        "interior_images_description",
-        {
-          vector: { name: "semantic_desc", vector: semanticEmbedding },
-          limit: limit,
-          with_payload: true,
-          with_vector: false,
-        }
-      );
-
-      return results;
-    } catch (error) {
-      console.error("Error in semantic search:", error);
-      return [];
-    }
-  }
-
-  /**
-   * Perform feature-focused search for specific objects and materials
-   */
-  async performFeatureSearch(query, limit) {
-    try {
-      // Extract feature-specific terms
-      const featureTerms = await this.extractFeatureTerms(query);
-      const featureEmbedding = await getValidatedEmbedding(
-        featureTerms,
-        "feature_search"
-      );
-
-      const results = await qdrantService.client.search(
-        "interior_images_description",
-        {
-          vector: { name: "object_focus", vector: featureEmbedding },
-          limit: limit,
-          with_payload: true,
-          with_vector: false,
-        }
-      );
-
-      return results;
-    } catch (error) {
-      console.error("Error in feature search:", error);
-      return [];
-    }
-  }
-
-  /**
-   * Perform visual feature search using CNN embeddings
-   */
-  async performVisualFeatureSearch(query, limit) {
-    try {
-      // Convert text query to visual feature embedding
-      const visualEmbedding = await getValidatedEmbedding(
-        query,
-        "visual_search"
-      );
-
-      const results = await qdrantService.client.search(
-        "interior_images_description",
-        {
-          vector: { name: "visual_features", vector: visualEmbedding },
-          limit: limit,
-          with_payload: true,
-          with_vector: false,
-        }
-      );
-
-      return results;
-    } catch (error) {
-      console.error("Error in visual feature search:", error);
       return [];
     }
   }
@@ -351,293 +247,6 @@ class ImageService {
       console.error("Error in exact search:", error);
       return [];
     }
-  }
-
-  /**
-   * Perform context-preserving search for primary terms
-   */
-  async performContextPreservingSearch(primaryTerms, limit) {
-    try {
-      console.log(
-        `🎯 Performing context-preserving search for primary terms: ${primaryTerms.join(
-          ", "
-        )}`
-      );
-
-      const contextResults = [];
-
-      for (const primaryTerm of primaryTerms) {
-        // Search for each primary term individually
-        const termResults = await qdrantService.exactSearch(primaryTerm, limit);
-
-        // Boost scores for primary term matches
-        const boostedResults = termResults.map((result) => ({
-          ...result,
-          contextPreservationScore: result.exactMatchScore * 1.5, // Boost primary term matches
-          primaryTerm: primaryTerm,
-          matchType: "context_preserved",
-        }));
-
-        contextResults.push(...boostedResults);
-      }
-
-      console.log(
-        `✅ Context-preserving search found ${contextResults.length} results`
-      );
-      return contextResults;
-    } catch (error) {
-      console.error("Error in context-preserving search:", error);
-      return [];
-    }
-  }
-
-  /**
-   * Merge and rank results with context preservation
-   */
-  async mergeAndRankResultsWithContext(
-    aiResults,
-    semanticResults,
-    featureResults,
-    visualResults,
-    exactResults,
-    contextResults,
-    query,
-    primaryTerms
-  ) {
-    const allResults = [
-      ...aiResults,
-      ...semanticResults,
-      ...featureResults,
-      ...visualResults,
-      ...exactResults,
-      ...contextResults,
-    ];
-    const uniqueResults = new Map();
-
-    // Check if this is an exact search by analyzing the query
-    const queryLower = query.toLowerCase();
-    const isExactSearch =
-      queryLower.includes("exact") ||
-      queryLower.includes("precise") ||
-      queryLower.includes("specific") ||
-      queryLower.includes('"') ||
-      queryLower.split(/\s+/).length <= 3;
-
-    // Merge results and calculate AI scores with context preservation
-    for (const result of allResults) {
-      const existing = uniqueResults.get(result.id);
-
-      // Determine the search type and weight
-      let searchType = "primary_search";
-      let weight = 0.4;
-
-      if (result.matchType === "exact") {
-        searchType = "exact_match";
-        weight = isExactSearch ? 0.9 : 0.8;
-      } else if (result.matchType === "context_preserved") {
-        searchType = "context_preserved";
-        weight = 1.0; // Highest weight for context-preserved matches
-      } else if (result.payload?.embedding_texts?.vector_name) {
-        searchType = result.payload.embedding_texts.vector_name;
-        weight = this.getWeightForSearchType(searchType);
-      }
-
-      // Calculate context preservation bonus
-      const contextBonus = this.calculateContextPreservationBonus(
-        result,
-        primaryTerms
-      );
-
-      if (existing) {
-        // Combine scores from different search methods with weights and context bonus
-        const currentScore =
-          result.matchType === "exact"
-            ? result.exactMatchScore
-            : result.matchType === "context_preserved"
-            ? result.contextPreservationScore
-            : result.score;
-
-        existing.aiScore = Math.max(
-          existing.aiScore,
-          currentScore * weight * contextBonus
-        );
-        existing.searchCount = (existing.searchCount || 0) + 1;
-        existing.vectorMatches = existing.vectorMatches || [];
-        existing.vectorMatches.push(searchType);
-
-        // If this is a context-preserved match, boost the overall score
-        if (result.matchType === "context_preserved") {
-          existing.contextPreserved = true;
-          existing.aiScore *= 2.0; // High boost for context preservation
-        }
-
-        // If this is an exact match, boost the overall score
-        if (result.matchType === "exact") {
-          existing.exactMatchBoost = true;
-          existing.aiScore *= isExactSearch ? 2.0 : 1.5;
-        }
-      } else {
-        const currentScore =
-          result.matchType === "exact"
-            ? result.exactMatchScore
-            : result.matchType === "context_preserved"
-            ? result.contextPreservationScore
-            : result.score;
-
-        uniqueResults.set(result.id, {
-          ...result,
-          aiScore: currentScore * weight * contextBonus,
-          searchCount: 1,
-          vectorMatches: [searchType],
-          contextPreserved: result.matchType === "context_preserved",
-          exactMatchBoost: result.matchType === "exact",
-        });
-      }
-    }
-
-    return Array.from(uniqueResults.values());
-  }
-
-  /**
-   * Calculate context preservation bonus
-   */
-  calculateContextPreservationBonus(result, primaryTerms) {
-    if (primaryTerms.length === 0) return 1.0;
-
-    const payload = result.payload;
-    const allText = this.getAllTextFromPayload(payload).toLowerCase();
-
-    let bonus = 1.0;
-
-    // Check if any primary term is present in the result
-    for (const primaryTerm of primaryTerms) {
-      if (allText.includes(primaryTerm.toLowerCase())) {
-        bonus *= 1.5; // Boost for each primary term found
-      }
-    }
-
-    return Math.min(bonus, 3.0); // Cap the bonus at 3x
-  }
-
-  /**
-   * Apply intelligent filtering with context preservation
-   */
-  async applyIntelligentFilteringWithContext(results, query, primaryTerms) {
-    const queryLower = query.toLowerCase();
-    const queryWords = queryLower
-      .split(/\s+/)
-      .filter((word) => word.length > 0);
-
-    const filteredResults = [];
-    for (const result of results) {
-      const payload = result.payload;
-
-      // AI-based relevance scoring
-      const relevanceScore = await this.calculateAIRelevanceScoreWithContext(
-        payload,
-        queryWords,
-        queryLower,
-        primaryTerms
-      );
-      result.aiRelevanceScore = relevanceScore;
-
-      // Higher threshold for context preservation
-      const threshold = primaryTerms.length > 0 ? 0.2 : 0.3;
-      if (relevanceScore > threshold) {
-        filteredResults.push(result);
-      }
-    }
-    return filteredResults;
-  }
-
-  /**
-   * Calculate AI-based relevance score with context preservation
-   */
-  async calculateAIRelevanceScoreWithContext(
-    payload,
-    queryWords,
-    queryLower,
-    primaryTerms
-  ) {
-    let score = 0;
-
-    // Check exact matches (highest weight)
-    if (await this.checkTagMatchEnhanced(payload, queryWords, queryLower)) {
-      score += 0.9;
-    }
-
-    // Check context preservation (very high weight)
-    if (primaryTerms.length > 0) {
-      const contextScore = this.calculateContextPreservationScore(
-        payload,
-        primaryTerms
-      );
-      score += contextScore * 1.5; // Boost context preservation
-    }
-
-    // Check semantic similarity
-    const semanticScore = this.calculateSemanticSimilarity(payload, queryLower);
-    score += semanticScore * 0.6;
-
-    // Check feature relevance
-    const featureScore = this.calculateFeatureRelevance(payload, queryWords);
-    score += featureScore * 0.4;
-
-    return Math.min(score, 1.0);
-  }
-
-  /**
-   * Calculate context preservation score
-   */
-  calculateContextPreservationScore(payload, primaryTerms) {
-    let score = 0;
-    const allText = this.getAllTextFromPayload(payload).toLowerCase();
-
-    for (const primaryTerm of primaryTerms) {
-      const termLower = primaryTerm.toLowerCase();
-
-      // Exact match gets highest score
-      if (allText.includes(termLower)) {
-        score += 1.0;
-      }
-
-      // Partial match gets medium score
-      const textWords = allText.split(/\s+/);
-      if (
-        textWords.some(
-          (word) => word.includes(termLower) || termLower.includes(word)
-        )
-      ) {
-        score += 0.7;
-      }
-    }
-
-    return Math.min(score / primaryTerms.length, 1.0);
-  }
-
-  /**
-   * Sort by AI relevance with context priority
-   */
-  sortByAIRelevanceWithContext(results, query, primaryTerms) {
-    const queryLower = query.toLowerCase();
-
-    return results.sort((a, b) => {
-      // Context-preserved results get highest priority
-      if (a.contextPreserved && !b.contextPreserved) return -1;
-      if (!a.contextPreserved && b.contextPreserved) return 1;
-
-      // Exact matches get second priority
-      if (a.exactMatchBoost && !b.exactMatchBoost) return -1;
-      if (!a.exactMatchBoost && b.exactMatchBoost) return 1;
-
-      // Then sort by AI score
-      if (a.aiScore !== b.aiScore) {
-        return b.aiScore - a.aiScore;
-      }
-
-      // Finally by search count (more search methods found it)
-      return (b.searchCount || 0) - (a.searchCount || 0);
-    });
   }
 
   /**
@@ -720,6 +329,27 @@ class ImageService {
         error: "Failed to format result",
       };
     }
+  }
+
+  /**
+   * Remove duplicate results by ID
+   */
+  removeDuplicates(results) {
+    const uniqueResults = new Map();
+
+    for (const result of results) {
+      if (!uniqueResults.has(result.id)) {
+        uniqueResults.set(result.id, result);
+      } else {
+        // If duplicate found, keep the one with higher score
+        const existing = uniqueResults.get(result.id);
+        if (result.score > existing.score) {
+          uniqueResults.set(result.id, result);
+        }
+      }
+    }
+
+    return Array.from(uniqueResults.values());
   }
 
   /**
