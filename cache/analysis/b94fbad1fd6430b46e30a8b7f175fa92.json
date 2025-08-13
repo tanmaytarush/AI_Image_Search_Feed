@@ -3,58 +3,71 @@
   "analysis": {
     "image_id": "img_002",
     "ai_generated_tags": {
-      "room": "Living Room",
-      "theme": "Minimalist with Indian Influences",
+      "room": "Temple or Mandir",
+      "theme": "Minimalistic Indian Religious Interior",
       "primary_features": [
-        "Marble Wall",
-        "Wooden Frame",
-        "Integrated Lighting"
+        "Marble wall panel",
+        "Wooden frame",
+        "Underlit shelf"
       ],
       "objects": [
         {
-          "type": "Marble Wall",
+          "type": "Marble wall panel",
           "features": [
             "Smooth surface",
-            "Natural stone texture"
+            "Natural veining patterns"
           ],
           "materials": [
             "Marble"
           ],
-          "finish": "Polished"
+          "finish": "Shiny polished finish"
         },
         {
-          "type": "Wooden Frame",
+          "type": "Wooden frame",
           "features": [
-            "Dark wood finish",
-            "Simple rectangular design"
+            "Dark finish",
+            "Rectangular shape"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Stained"
+          "finish": "Oil rubbed finish"
+        },
+        {
+          "type": "Underlit shelf",
+          "features": [
+            "Sleek design",
+            "Wooden surface"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Shiny polished finish"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White",
           "Beige",
-          "Brown"
+          "Brown",
+          "White"
         ],
         "materials": [
           "Marble",
           "Wood"
         ],
-        "lighting": "Integrated recessed lighting, creating a warm ambiance",
-        "texture": "Smooth marble wall with natural wood frame"
+        "lighting": "Underlit with warm light, creating a spiritual ambiance",
+        "texture": "Smooth and polished surfaces with natural stone texture"
       },
       "indian_context": {
-        "regional_style": "Not overtly regional, but could suggest modern adaptations of traditional elements",
-        "traditional_elements": [],
-        "modern_adaptations": [
-          "Integration of modern lighting and materials"
+        "regional_style": "This style is common in North Indian temples and homes with religious significance, often seen in North India.",
+        "traditional_elements": [
+          "Marble wall panel, wooden frame"
         ],
-        "space_utilization": "Efficient use of vertical space with a decorative wall feature",
-        "cultural_significance": "The marble and wood suggest a blend of modern and traditional aesthetics, often seen in contemporary Indian homes"
+        "modern_adaptations": [
+          "The use of underlit shelf for practicality and modern lighting techniques"
+        ],
+        "space_utilization": "The space is designed for reverence and meditation, with the shelf likely used for small religious items.",
+        "cultural_significance": "This type of design is culturally significant as it represents a sacred and tranquil space for worship and reflection."
       },
       "confidence_scores": {
         "room": 0.95,
@@ -63,23 +76,22 @@
         "objects": 0.92,
         "indian_context": 0.9
       },
-      "description": "The image showcases a minimalist living room with a modern interpretation of Indian design elements. A polished marble wall is framed by a dark wood structure, creating a striking contrast. The space utilizes integrated recessed lighting to enhance the natural beauty of the marble and wood, blending traditional materials with contemporary design principles.",
+      "description": "This image depicts a minimalist Indian religious interior, likely a temple or mandir, characterized by a central marble wall panel underlit for a spiritual ambiance. The wooden frame around the panel and the underlit shelf below suggest a blend of traditional and modern design elements, aimed at creating a serene space for worship or meditation. The use of marble and wood is typical in North Indian religious interiors, symbolizing purity and reverence. The warm lighting enhances the sacred feel, making it a tranquil and inviting space.",
       "metadata": {
         "tags": [
-          "Minimalist",
-          "Indian Design",
+          "Temple Interior",
           "Marble Wall",
-          "Wood Frame",
-          "Modern",
-          "Living Room"
+          "Wooden Frame",
+          "Underlit Shelf",
+          "North Indian Religious Interior"
         ],
-        "budget_indicator": "Mid-range, with the use of marble and wood indicating a moderate budget.",
-        "space_type": "Living Room",
-        "functionality": "Decorative and possibly functional, given the wall's placement in a living space.",
-        "indian_specific": "The use of marble and wood, both traditional Indian materials, in a minimalist setting."
+        "budget_indicator": "Moderate to High, given the use of marble and polished wood finishes",
+        "space_type": "Religious Space",
+        "functionality": "This space is primarily used for meditation, prayer, and religious activities.",
+        "indian_specific": "The combination of marble and wood, along with the underlit shelf, reflects traditional Indian design elements adapted for modern utility."
       }
     }
   },
-  "cached_at": 1754895140915,
+  "cached_at": 1755079553866,
   "cache_key": "b94fbad1fd6430b46e30a8b7f175fa92"
 }

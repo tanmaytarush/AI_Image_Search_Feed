@@ -4,64 +4,67 @@
     "image_id": "img_001",
     "ai_generated_tags": {
       "room": "Bedroom",
-      "theme": "Contemporary with Indian Influences",
+      "theme": "Minimalist with Indian Influences",
       "primary_features": [
-        "Built-in wardrobe",
-        "Fitted window with shutters",
-        "Modern wooden flooring"
+        "Built-in storage unit",
+        "Wooden window with shutters",
+        "Modern wardrobe with geometric pattern"
       ],
       "objects": [
         {
-          "type": "Built-in wardrobe",
+          "type": "Built-in storage unit",
           "features": [
-            "Herringbone pattern, frosted glass doors, metal handles"
+            "Wooden frame with white top surface",
+            "Integrated seating area"
           ],
           "materials": [
-            "Frosted glass",
-            "Metal"
+            "Wood, white laminate"
           ],
-          "finish": "Frosted glass with a subtle sheen"
+          "finish": "Natural wood finish with smooth white surface"
         },
         {
-          "type": "Fitted window with shutters",
+          "type": "Wooden window with shutters",
           "features": [
-            "Wooden frame, metal shutters, horizontal slats"
+            "Traditional wooden frame",
+            "Metal shutters with horizontal slats"
           ],
           "materials": [
-            "Wood",
-            "Metal"
+            "Wood, metal"
           ],
-          "finish": "Wood with a natural finish, metal with a polished look"
+          "finish": "Natural wood finish with metallic shutters"
         },
         {
-          "type": "Modern wooden flooring",
+          "type": "Modern wardrobe",
           "features": [
-            "Natural wood color, smooth finish"
+            "Geometric pattern on doors",
+            "Sliding doors with handles"
           ],
-          "materials": "Wood",
-          "finish": "Smooth, polished wooden plank"
+          "materials": [
+            "MDF, metal"
+          ],
+          "finish": "Painted MDF with metallic door handles"
         }
       ],
       "visual_attributes": {
         "colors": [
-          "White, gray, brown, black"
+          "Natural wood tones, white, gray"
         ],
         "materials": [
-          "Wood, metal, glass"
+          "Wood, MDF, metal, glass"
         ],
-        "lighting": "Natural light from the window, artificial light from ceiling",
-        "texture": "Smooth wood, frosted glass, metal with a polished finish"
+        "lighting": "Natural light coming from the window",
+        "texture": "Smooth surfaces with geometric pattern"
       },
       "indian_context": {
-        "regional_style": "Southern Indian Elegance",
+        "regional_style": "Southern Indian style with modern adaptations",
         "traditional_elements": [
-          "Wooden window shutters"
+          "Wooden window with shutters"
         ],
         "modern_adaptations": [
-          "Herringbone pattern on wardrobe, modern metal handles"
+          "Geometric pattern on wardrobe doors"
         ],
-        "space_utilization": "Efficient use of space with built-in furniture",
-        "cultural_significance": "Use of wooden shutters honors traditional craftsmanship and style"
+        "space_utilization": "Efficient use of space with built-in storage",
+        "cultural_significance": "Traditional elements like the wooden window with shutters are preserved, reflecting cultural heritage"
       }
     },
     "confidence_scores": {
@@ -71,22 +74,22 @@
       "objects": 0.92,
       "indian_context": 0.9
     },
-    "description": "This image depicts a modern bedroom designed with elements of Southern Indian style. The space features a built-in wardrobe with a herringbone pattern and frosted glass doors, paired with a traditional wooden window fitted with metal shutters. The flooring is a modern wooden plank design, blending contemporary aesthetics with traditional Indian influences. The overall design maintains a clean, minimalist look while incorporating cultural elements such as the wooden window shutters.",
+    "description": "This image depicts a bedroom with a blend of traditional and modern Indian design elements. The wooden window with shutters, a classic feature of Southern Indian architecture, is maintained, while the wardrobe showcases a modern geometric pattern. The built-in storage unit with a white top adds functionality and a minimalist touch, minimizing clutter. The overall space is well-lit, emphasizing the clean lines and smooth finishes, reflecting a contemporary approach to Indian interior design.",
     "metadata": {
       "tags": [
-        "Modern Bedroom",
-        "Indian Architecture",
-        "Herringbone Pattern",
-        "Wooden Shutters",
-        "Frosted Glass Doors",
-        "Contemporary Design"
+        "bedroom",
+        "Indian design",
+        "modern adaptation",
+        "geometric pattern",
+        "wooden window",
+        "built-in storage"
       ],
-      "budget_indicator": "Mid-range, with materials such as frosted glass and metal handles suggesting a moderate budget.",
-      "space_type": "Bedroom",
-      "functionality": "Primary purpose is storage and functionality with a focus on space optimization.",
-      "indian_specific": "Traditional wooden window shutters and the use of herringbone pattern in the wardrobe are Indian-specific design features."
+      "budget_indicator": "Moderate, with the use of MDF and metal for the wardrobe and white laminate for the storage unit, suggesting a balanced approach to quality and cost.",
+      "space_type": "Residential bedroom",
+      "functionality": "Storage and seating",
+      "indian_specific": "Traditional wooden window with shutters"
     }
   },
-  "cached_at": 1754895131956,
+  "cached_at": 1755079544952,
   "cache_key": "8b39c7601757f2dd295338090d15e5a3"
 }

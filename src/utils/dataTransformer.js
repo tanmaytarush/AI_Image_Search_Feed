@@ -51,29 +51,44 @@ class DataTransformer {
         );
       }
 
-      // Generate hybrid vectors (visual + text) using local Transformers.js embeddings
+      // CRITICAL: Generate hybrid vectors with REAL visual features - NO FALLBACKS
       let multiVectors;
       try {
+        console.log(
+          `🔄 Creating hybrid vectors with REAL visual features for ${image_id}...`
+        );
+
+        // This MUST succeed - no fallbacks allowed
         multiVectors = await embeddingService.createHybridVectors(
           ai_generated_tags,
           description,
           metadata,
-          modelResponse.image_url || modelResponse.url, // Add image URL for visual features
+          modelResponse.image_url || modelResponse.url, // Image URL required for visual features
           image_id
+        );
+
+        // Validate that we have real visual features
+        if (
+          !multiVectors.visual_features ||
+          multiVectors.visual_features.every((val) => val === 0)
+        ) {
+          throw new Error(
+            "❌ Visual features are missing or all zero - pipeline failed"
+          );
+        }
+
+        console.log(
+          `✅ Hybrid vectors with REAL visual features created successfully for ${image_id}`
         );
       } catch (error) {
-        console.warn(
-          `⚠️ Failed to create hybrid vectors for ${image_id}, falling back to text-only: ${error.message}`
+        console.error(
+          `❌ CRITICAL ERROR: Failed to create hybrid vectors for ${image_id}: ${error.message}`
         );
-        // Fallback to text-only vectors if hybrid creation fails
-        multiVectors = await embeddingService.createMultiVectors(
-          ai_generated_tags,
-          description,
-          metadata,
-          image_id
+
+        // NO FALLBACKS - stop the pipeline
+        throw new Error(
+          `Cannot proceed without real visual features for ${image_id}. Error: ${error.message}`
         );
-        // Add empty visual features to maintain structure
-        multiVectors.visual_features = new Array(384).fill(0);
       }
 
       // Validate multiVectors structure
@@ -248,15 +263,13 @@ class DataTransformer {
     return Array.from(tags);
   }
 
-  generateValidId(originalId) {
-    // Create a hash of the original ID to ensure it's a valid UUID
-    const hash = crypto.createHash("md5").update(originalId).digest("hex");
-
-    // Convert to UUID format: xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx
-    return `${hash.slice(0, 8)}-${hash.slice(8, 12)}-4${hash.slice(
-      13,
-      16
-    )}-${hash.slice(16, 20)}-${hash.slice(20, 32)}`;
+  generateValidId(imageId) {
+    // Generate a valid Qdrant ID by hashing the original ID
+    const hash = crypto
+      .createHash("md5")
+      .update(imageId.toString())
+      .digest("hex");
+    return hash;
   }
 
   async transformBatch(modelResponses) {

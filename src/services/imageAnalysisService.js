@@ -95,13 +95,9 @@ class ImageAnalysisService {
 
       Return ONLY the JSON object with your actual analysis of this specific image.`;
 
-      // Vision models that work with Hugging Face router API
-      const visionModels = [
-        "Qwen/Qwen2.5-VL-7B-Instruct:hyperbolic", // Primary model - confirmed working
-        "Qwen/Qwen2.5-VL-7B-Instruct", // Fallback without suffix
-        "microsoft/DialoGPT-medium", // Alternative vision model
-        "gpt2", // Text fallback
-      ];
+      // Use the exact same model and endpoint as the working curl example
+      const visionModel = "Qwen/Qwen2.5-VL-7B-Instruct:hyperbolic";
+      const endpoint = "https://router.huggingface.co/v1/chat/completions";
 
       // Retry logic for API calls
       const maxRetries = 3;
@@ -110,131 +106,90 @@ class ImageAnalysisService {
       let response;
       let successfulModel = null;
 
-      // Try each model until one works
-      for (const model of visionModels) {
-        console.log(`🔄 Trying model: ${model}`);
+      // Try the single vision model with retries
+      for (let attempt = 1; attempt <= maxRetries; attempt++) {
+        try {
+          console.log(
+            `🔄 Attempt ${attempt}/${maxRetries} for ${imageId} with ${visionModel}`
+          );
 
-        for (let attempt = 1; attempt <= maxRetries; attempt++) {
-          try {
-            console.log(
-              `🔄 Attempt ${attempt}/${maxRetries} for ${imageId} with ${model}`
-            );
-
-            response = await fetch(
-              "https://router.huggingface.co/auto/v1/chat/completions",
-              {
-                headers: {
-                  Authorization: `Bearer ${process.env.HF_TOKEN}`,
-                  "Content-Type": "application/json",
-                },
-                method: "POST",
-                body: JSON.stringify({
-                  messages: [
+          response = await fetch(endpoint, {
+            headers: {
+              Authorization: `Bearer ${process.env.HF_TOKEN}`,
+              "Content-Type": "application/json",
+            },
+            method: "POST",
+            body: JSON.stringify({
+              messages: [
+                {
+                  role: "user",
+                  content: [
                     {
-                      role: "user",
-                      content: [
-                        {
-                          type: "text",
-                          text: prompt,
-                        },
-                        {
-                          type: "image_url",
-                          image_url: {
-                            url: cdnUrl, // Use CDN optimized URL
-                          },
-                        },
-                      ],
+                      type: "text",
+                      text: prompt,
+                    },
+                    {
+                      type: "image_url",
+                      image_url: {
+                        url: cdnUrl, // Use CDN optimized URL
+                      },
                     },
                   ],
-                  model: model,
-                  stream: false,
-                }),
-              }
+                },
+              ],
+              model: visionModel,
+              stream: false,
+            }),
+          });
+
+          if (response.ok) {
+            console.log(
+              `✅ Success on attempt ${attempt} for ${imageId} with ${visionModel}`
             );
+            successfulModel = visionModel;
+            break;
+          } else {
+            const errorText = await response.text();
+            lastError = new Error(`HTTP ${response.status}: ${errorText}`);
 
-            if (response.ok) {
-              console.log(
-                `✅ Success on attempt ${attempt} for ${imageId} with ${model}`
-              );
-              successfulModel = model;
-              break;
-            } else {
-              const errorText = await response.text();
-              lastError = new Error(`HTTP ${response.status}: ${errorText}`);
+            // Check if it's a retryable error
+            const isRetryableError =
+              response.status === 429 || // Rate limit
+              response.status === 500 || // Server error
+              response.status === 502 || // Bad gateway
+              response.status === 503 || // Service unavailable
+              response.status === 504 || // Gateway timeout
+              errorText.includes("model_not_supported") || // Model temporarily unavailable
+              errorText.includes("provider") || // Provider issues
+              errorText.includes("timeout"); // Timeout errors
 
-              // Check if it's a retryable error
-              const isRetryableError =
-                response.status === 429 || // Rate limit
-                response.status === 500 || // Server error
-                response.status === 502 || // Bad gateway
-                response.status === 503 || // Service unavailable
-                response.status === 504 || // Gateway timeout
-                errorText.includes("model_not_supported") || // Model temporarily unavailable
-                errorText.includes("provider") || // Provider issues
-                errorText.includes("timeout"); // Timeout errors
-
-              if (attempt === maxRetries || !isRetryableError) {
-                console.log(`❌ Model ${model} failed: ${errorText}`);
-                break; // Try next model
-              }
-
-              const delay = baseDelay * Math.pow(2, attempt - 1); // Exponential backoff
-              console.log(
-                `⏳ Retryable error detected. Waiting ${delay}ms before retry...`
-              );
-              await new Promise((resolve) => setTimeout(resolve, delay));
+            if (attempt === maxRetries || !isRetryableError) {
+              console.log(`❌ Model ${visionModel} failed: ${errorText}`);
+              break; // Stop retrying
             }
-          } catch (error) {
-            lastError = error;
-            if (attempt === maxRetries) {
-              console.log(`❌ Model ${model} failed: ${error.message}`);
-              break; // Try next model
-            }
-            const delay = baseDelay * Math.pow(2, attempt - 1);
-            console.log(`⏳ Network error. Waiting ${delay}ms before retry...`);
+
+            const delay = baseDelay * Math.pow(2, attempt - 1); // Exponential backoff
+            console.log(
+              `⏳ Retryable error detected. Waiting ${delay}ms before retry...`
+            );
             await new Promise((resolve) => setTimeout(resolve, delay));
           }
-        }
-
-        if (successfulModel) {
-          break; // Found a working model
+        } catch (error) {
+          lastError = error;
+          if (attempt === maxRetries) {
+            console.log(`❌ Model ${visionModel} failed: ${error.message}`);
+            break; // Stop retrying
+          }
+          const delay = baseDelay * Math.pow(2, attempt - 1);
+          console.log(`⏳ Network error. Waiting ${delay}ms before retry...`);
+          await new Promise((resolve) => setTimeout(resolve, delay));
         }
       }
 
-      // If no vision models work with router API, try direct Hugging Face inference
       if (!successfulModel) {
-        console.log(
-          `🔄 Router API failed, trying direct Hugging Face inference...`
+        throw new Error(
+          `All attempts failed for ${imageId}: ${lastError.message}`
         );
-        try {
-          const directResult = await this.tryDirectHuggingFaceInference(
-            cdnUrl,
-            prompt,
-            imageId
-          );
-          if (directResult) {
-            console.log(
-              `✅ Direct Hugging Face inference succeeded for ${imageId}`
-            );
-            return directResult;
-          }
-        } catch (directError) {
-          console.log(
-            `❌ Direct Hugging Face inference also failed: ${directError.message}`
-          );
-        }
-
-        // If all methods fail, handle based on configuration
-        if (this.useFallback) {
-          console.log(
-            `⚠️ No vision models available. Falling back to text-only analysis for ${imageId}`
-          );
-          return await this.fallbackTextAnalysis(imageUrl, imageId);
-        } else {
-          const errorMessage = `❌ No vision models available for ${imageId}. Skipping image to maintain data quality.`;
-          console.log(errorMessage);
-          throw new Error(errorMessage);
-        }
       }
 
       const chatCompletion = await response.json();
@@ -353,6 +308,7 @@ class ImageAnalysisService {
           primary_search: embeddings.primary_search,
           semantic_desc: embeddings.semantic_desc,
           object_focus: embeddings.object_focus,
+          visual_features: embeddings.visual_features,
         },
         payload: {
           image_url: imageUrl,
@@ -594,119 +550,6 @@ class ImageAnalysisService {
   }
 
   /**
-   * Fallback text-only analysis when vision models are not available
-   */
-  async fallbackTextAnalysis(imageUrl, imageId) {
-    try {
-      console.log(`📝 Performing text-only analysis for ${imageId}`);
-
-      // Extract filename and path information for basic analysis
-      const urlParts = imageUrl.split("/");
-      const filename = urlParts[urlParts.length - 1];
-
-      // Create a basic analysis based on URL patterns and filename
-      const basicAnalysis = {
-        image_id: imageId,
-        image_url: imageUrl,
-        ai_generated_tags: {
-          room: "interior_space", // Generic fallback
-          theme: "modern_indian", // Generic fallback
-          primary_features: ["interior_design", "indian_aesthetics"],
-          objects: [
-            {
-              type: "furniture",
-              features: ["traditional_style"],
-              materials: ["wood", "fabric"],
-              finish: "natural",
-            },
-          ],
-          visual_attributes: {
-            colors: ["warm_tones", "natural_colors"],
-            materials: ["wood", "fabric", "textiles"],
-            lighting: "ambient",
-            texture: "natural_textures",
-          },
-          indian_context: {
-            regional_style: "contemporary_indian",
-            traditional_elements: ["cultural_influences"],
-            modern_adaptations: ["contemporary_design"],
-            space_utilization: "functional_layout",
-            cultural_significance: "indian_aesthetics",
-          },
-        },
-        confidence_scores: {
-          room: 0.5,
-          theme: 0.5,
-          primary_features: 0.5,
-          objects: 0.5,
-          indian_context: 0.5,
-        },
-        description: `Interior space with Indian design influences, featuring traditional elements adapted for modern living. The space likely includes warm color palettes, natural materials, and cultural design elements typical of Indian interior design.`,
-        metadata: {
-          tags: ["interior", "indian_design", "modern", "traditional_elements"],
-          budget_indicator: "moderate",
-          space_type: "residential",
-          functionality: "living_space",
-          indian_specific: "cultural_design_elements",
-        },
-        fallback_analysis: true,
-        filename: filename,
-      };
-
-      // Cache the fallback analysis
-      await cdnService.cacheAnalysis(imageUrl, basicAnalysis);
-
-      // Auto inference: Generate embeddings and store in Qdrant
-      await this.performAutoInference(imageUrl, imageId, basicAnalysis);
-
-      return basicAnalysis;
-    } catch (error) {
-      console.error(
-        `❌ Fallback analysis failed for ${imageId}:`,
-        error.message
-      );
-      throw error;
-    }
-  }
-
-  /**
-   * Enable or disable fallback analysis
-   * @param {boolean} enabled - Set to true to use fallback, false to skip images
-   */
-  setFallbackEnabled(enabled) {
-    this.useFallback = enabled;
-    console.log(`🔄 Fallback analysis ${enabled ? "enabled" : "disabled"}`);
-  }
-
-  /**
-   * Force enable fallback for testing (use sparingly)
-   */
-  forceEnableFallback() {
-    this.useFallback = true;
-    console.log(`⚠️ Fallback analysis force-enabled for testing`);
-  }
-
-  /**
-   * Disable fallback to maintain data quality
-   */
-  disableFallback() {
-    this.useFallback = false;
-    console.log(`✅ Fallback analysis disabled - maintaining data quality`);
-  }
-
-  /**
-   * Get current fallback configuration
-   */
-  getFallbackStatus() {
-    return {
-      useFallback: this.useFallback,
-      message: this.useFallback
-        ? "Fallback enabled - will use generic analysis for failed images"
-        : "Fallback disabled - will skip images that cannot be properly analyzed",
-    };
-  }
-
-  /**
    * Test Hugging Face API connectivity
    */
   async testHuggingFaceAPI() {
@@ -732,144 +575,6 @@ class ImageAnalysisService {
     } catch (error) {
       console.error(`❌ Hugging Face Router API test error: ${error.message}`);
       return false;
-    }
-  }
-
-  /**
-   * Try direct Hugging Face inference as fallback
-   */
-  async tryDirectHuggingFaceInference(imageUrl, prompt, imageId) {
-    try {
-      console.log(
-        `🔄 Attempting direct Hugging Face inference for ${imageId}...`
-      );
-
-      // Try with the working vision model as fallback
-      const directModels = [
-        "Qwen/Qwen2.5-VL-7B-Instruct:hyperbolic", // Primary working model
-        "Qwen/Qwen2.5-VL-7B-Instruct", // Fallback without suffix
-      ];
-
-      for (const model of directModels) {
-        try {
-          console.log(`🔄 Trying direct model: ${model}`);
-
-          // For vision models, we need to send the image data
-          const requestBody = {
-            inputs: {
-              text: prompt,
-              image: imageUrl,
-            },
-            parameters: {
-              max_new_tokens: 500,
-              temperature: 0.7,
-              do_sample: true,
-            },
-          };
-
-          // Use the router API format that's working
-          const response = await fetch(
-            "https://router.huggingface.co/v1/chat/completions",
-            {
-              headers: {
-                Authorization: `Bearer ${process.env.HF_TOKEN}`,
-                "Content-Type": "application/json",
-              },
-              method: "POST",
-              body: JSON.stringify({
-                messages: [
-                  {
-                    role: "user",
-                    content: [
-                      {
-                        type: "text",
-                        text: prompt,
-                      },
-                      {
-                        type: "image_url",
-                        image_url: {
-                          url: imageUrl,
-                        },
-                      },
-                    ],
-                  },
-                ],
-                model: model,
-                stream: false,
-              }),
-            }
-          );
-
-          if (response.ok) {
-            const result = await response.json();
-            console.log(`✅ Direct inference succeeded with ${model}`);
-
-            // Parse router API response format
-            if (
-              result &&
-              result.choices &&
-              result.choices[0] &&
-              result.choices[0].message
-            ) {
-              const analysisText = result.choices[0].message.content;
-              console.log(`📝 Raw response: ${analysisText}`);
-
-              // Try to extract JSON from the response
-              const jsonMatch = analysisText.match(/\{[\s\S]*\}/);
-              if (jsonMatch) {
-                try {
-                  const parsedAnalysis = JSON.parse(jsonMatch[0]);
-                  // Add required fields if missing
-                  if (!parsedAnalysis.image_id) {
-                    parsedAnalysis.image_id = imageId;
-                  }
-                  if (!parsedAnalysis.image_url) {
-                    parsedAnalysis.image_url = imageUrl;
-                  }
-
-                  // Cache the successful analysis
-                  await cdnService.cacheAnalysis(imageUrl, parsedAnalysis);
-
-                  // Auto inference: Generate embeddings and store in Qdrant
-                  await this.performAutoInference(
-                    imageUrl,
-                    imageId,
-                    parsedAnalysis
-                  );
-
-                  return parsedAnalysis;
-                } catch (parseError) {
-                  console.log(
-                    `⚠️ Failed to parse JSON from ${model} response: ${parseError.message}`
-                  );
-                  continue; // Try next model
-                }
-              } else {
-                console.log(`⚠️ No JSON found in response from ${model}`);
-                continue; // Try next model
-              }
-            } else {
-              console.log(`⚠️ Invalid response format from ${model}`);
-              continue; // Try next model
-            }
-          } else {
-            console.log(`❌ Direct model ${model} failed: ${response.status}`);
-          }
-        } catch (modelError) {
-          console.log(
-            `❌ Error with direct model ${model}: ${modelError.message}`
-          );
-          continue; // Try next model
-        }
-      }
-
-      console.log(`❌ All direct models failed for ${imageId}`);
-      return null;
-    } catch (error) {
-      console.error(
-        `❌ Direct Hugging Face inference failed: ${error.message}`
-      );
-      return null;
     }
   }
 }

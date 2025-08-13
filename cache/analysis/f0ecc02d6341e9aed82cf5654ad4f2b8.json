@@ -4,165 +4,102 @@
     "image_id": "img_007",
     "ai_generated_tags": {
       "room": "Kitchen",
-      "theme": "Contemporary Indian Fusion",
+      "theme": "Modern with Indian Influences",
       "primary_features": [
-        "Kitchen island with bar stools",
-        "Modern kitchen cabinetry",
-        "Open shelving",
-        "Wooden staircase",
-        "Round dining table"
+        "White and green cabinetry",
+        "Marble countertop",
+        "Circular wooden dining table",
+        "Staircase with wooden balustrade",
+        "Copper pendant lights",
+        "Decorative mirror"
       ],
       "objects": [
         {
-          "type": "Dining table",
+          "type": "Circular wooden dining table",
           "features": [
-            "Circular",
-            "Wooden surface",
-            "Simple design"
+            "Circular shape",
+            "Polished surface",
+            "Four chairs with wooden backrests"
           ],
           "materials": [
             "Wood"
           ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Kitchen island",
-          "features": [
-            "Center of the room",
-            "White countertop",
-            "Bar stools"
-          ],
-          "materials": [
-            "Marble",
-            "Wood"
-          ],
-          "finish": "Smooth, glossy"
-        },
-        {
-          "type": "Kitchen cabinetry",
-          "features": [
-            "White with wooden accents",
-            "Modern design"
-          ],
-          "materials": [
-            "PVC for doors, wood for accents"
-          ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Open shelving",
-          "features": [
-            "Wooden shelves",
-            "Decorative items displayed"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Polished"
-        },
-        {
-          "type": "Wooden staircase",
-          "features": [
-            "Contemporary design",
-            "Glass railings",
-            "Wooden banister"
-          ],
-          "materials": [
-            "Wood"
-          ],
-          "finish": "Glossy"
-        },
-        {
-          "type": "Wall mirror",
-          "features": [
-            "Circular",
-            "Gold frame",
-            "Decorative artwork behind"
-          ],
-          "materials": [
-            "Glass",
-            "Metal"
-          ],
-          "finish": "Polished, metallic"
+          "finish": "High-gloss polish"
         },
         {
           "type": "Copper pendant lights",
           "features": [
-            "Modern design",
-            "Copper finish"
+            "Unique shape",
+            "Shiny copper finish"
           ],
           "materials": [
             "Copper"
           ],
-          "finish": "Shiny, metallic"
+          "finish": "Shiny copper"
         },
         {
-          "type": "Golden statue",
+          "type": "Decorative mirror",
           "features": [
-            "Idol-like figure",
-            "Placed on a black stand"
+            "Circular shape",
+            "White frame with wood inlay"
           ],
           "materials": [
-            "Metal"
+            "Wood, possibly brass for inlay"
           ],
-          "finish": "Glossy"
+          "finish": "White frame, shiny inlay"
         }
       ],
       "visual_attributes": {
         "colors": [
           "White",
-          "Brown",
-          "Gold",
           "Green",
-          "Black"
+          "Brown",
+          "Marble gray"
         ],
         "materials": [
-          "Marble",
-          "Wood",
-          "Metal",
-          "Glass"
+          "Marble, Wood, Copper, Brass"
         ],
-        "lighting": "Natural light from a window, artificial light from pendant lights",
-        "texture": "Smooth surfaces, glossy finishes, polished wood"
+        "lighting": "Natural light from window, artificial light from pendant lights",
+        "texture": "Smooth surfaces, polished marble, textured wood"
       },
       "indian_context": {
-        "regional_style": "Not specifically regional, but has elements commonly found in urban or suburban Indian homes",
+        "regional_style": "North Indian",
         "traditional_elements": [
           "Wooden staircase",
-          "Wooden dining table",
-          "Copper pendant lights"
+          "Circular dining table"
         ],
         "modern_adaptations": [
-          "Contemporary kitchen design",
-          "Glass railings"
+          "Contemporary furniture and cabinetry"
         ],
-        "space_utilization": "Open layout with a kitchen island, optimizing space for both cooking and dining",
-        "cultural_significance": "The presence of a golden statue suggests a space where deities might be worshipped, indicating a blend of modern living with traditional religious practices"
+        "space_utilization": "Open-plan kitchen and dining area with integrated design",
+        "cultural_significance": "The circular table may symbolize unity and togetherness, common in Indian culture"
       }
     },
     "confidence_scores": {
       "room": 0.95,
-      "theme": 0.9,
-      "primary_features": 0.92,
+      "theme": 0.87,
+      "primary_features": 0.89,
       "objects": 0.92,
-      "indian_context": 0.85
+      "indian_context": 0.9
     },
-    "description": "The image showcases a contemporary Indian fusion kitchen with a modern design aesthetic. The kitchen features sleek white cabinetry with wooden accents, a large kitchen island with a white countertop, and a dining area with a wooden table and chairs. The space is illuminated by natural light from a window and modern copper pendant lights. Traditional elements like a wooden staircase and a golden statue add a touch of cultural significance and warmth to the otherwise modern space. The overall design reflects a balance between traditional Indian design elements and contemporary architectural styles.",
+    "description": "The image depicts a modern kitchen and dining area seamlessly integrated with Indian design elements. The space features white and green cabinetry, a marble countertop, and a circular wooden dining table, all of which reflect contemporary design. However, the wooden staircase with a traditional balustrade, the circular dining table, and the decorative mirror with wood inlay suggest North Indian regional influences. The use of copper pendant lights adds a touch of luxury and complements the overall aesthetic. The space is well-lit with a mix of natural and artificial light, and the clean, polished surfaces of the marble and wood contribute to a luxurious feel.",
     "metadata": {
       "tags": [
-        "Kitchen",
-        "Contemporary",
-        "Indian Fusion",
-        "Modern",
-        "Wooden Staircase",
-        "Golden Statue"
+        "Modern Indian Kitchen",
+        "Contemporary Design",
+        "North Indian Influences",
+        "Teak Wood",
+        "Marble Countertop",
+        "Circular Dining Table",
+        "Copper Pendant Lights",
+        "Decorative Mirror"
       ],
-      "budget_indicator": "Mid-range, with a focus on modern materials and finishes",
-      "space_type": "Residential",
-      "functionality": "Primary purpose is for cooking and dining, with optimizing space for both activities",
-      "indian_specific": "Traditional furniture styles like the wooden staircase and golden statue"
+      "budget_indicator": "High",
+      "space_type": "Residential Kitchen and Dining",
+      "functionality": "Integrated kitchen and dining area for meal preparation and dining",
+      "indian_specific": "Traditional Indian elements like wooden staircase and circular dining table"
     }
   },
-  "cached_at": 1754895269919,
+  "cached_at": 1755079586151,
   "cache_key": "f0ecc02d6341e9aed82cf5654ad4f2b8"
 }
