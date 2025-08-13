@@ -59,4 +59,19 @@ jspm_packages/
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+<<<<<<< HEAD
 Thumbs.db 
+
+# Python virtual environment
+python_onnx/venv/
+
+# ONNX model directories
+python_onnx/onnx/
+python_onnx/onnx_1536/
+
+
+*.onnx
+*.onnx.data
+=======
+Thumbs.db 
+>>>>>>> origin/main

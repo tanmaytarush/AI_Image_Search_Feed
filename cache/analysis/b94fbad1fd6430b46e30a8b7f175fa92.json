@@ -3,24 +3,46 @@
   "analysis": {
     "image_id": "img_002",
     "ai_generated_tags": {
-      "room": "Bathroom",
-      "theme": "Modern",
+      "room": "Temple or Mandir",
+      "theme": "Minimalistic Indian Religious Interior",
       "primary_features": [
-        "Marble Tile",
-        "Wooden Framing"
+        "Marble wall panel",
+        "Wooden frame",
+        "Underlit shelf"
       ],
       "objects": [
         {
-          "type": "Wall Panel",
+          "type": "Marble wall panel",
           "features": [
-            "Marble Tiles",
-            "Lighting"
+            "Smooth surface",
+            "Natural veining patterns"
           ],
           "materials": [
-            "Marble Tile",
+            "Marble"
+          ],
+          "finish": "Shiny polished finish"
+        },
+        {
+          "type": "Wooden frame",
+          "features": [
+            "Dark finish",
+            "Rectangular shape"
+          ],
+          "materials": [
             "Wood"
           ],
-          "finish": "Smooth, Glossy"
+          "finish": "Oil rubbed finish"
+        },
+        {
+          "type": "Underlit shelf",
+          "features": [
+            "Sleek design",
+            "Wooden surface"
+          ],
+          "materials": [
+            "Wood"
+          ],
+          "finish": "Shiny polished finish"
         }
       ],
       "visual_attributes": {
@@ -33,42 +55,43 @@
           "Marble",
           "Wood"
         ],
-        "lighting": "Undermount Light",
-        "texture": "Smooth, Polished"
+        "lighting": "Underlit with warm light, creating a spiritual ambiance",
+        "texture": "Smooth and polished surfaces with natural stone texture"
       },
       "indian_context": {
-        "regional_style": "Nehru",
+        "regional_style": "This style is common in North Indian temples and homes with religious significance, often seen in North India.",
         "traditional_elements": [
-          "Minimalistic Design"
+          "Marble wall panel, wooden frame"
         ],
         "modern_adaptations": [
-          "Glossy Finish"
+          "The use of underlit shelf for practicality and modern lighting techniques"
         ],
-        "space_utilization": "Efficient",
-        "cultural_significance": "Modern Indian Interior Design"
+        "space_utilization": "The space is designed for reverence and meditation, with the shelf likely used for small religious items.",
+        "cultural_significance": "This type of design is culturally significant as it represents a sacred and tranquil space for worship and reflection."
+      },
+      "confidence_scores": {
+        "room": 0.95,
+        "theme": 0.87,
+        "primary_features": 0.89,
+        "objects": 0.92,
+        "indian_context": 0.9
+      },
+      "description": "This image depicts a minimalist Indian religious interior, likely a temple or mandir, characterized by a central marble wall panel underlit for a spiritual ambiance. The wooden frame around the panel and the underlit shelf below suggest a blend of traditional and modern design elements, aimed at creating a serene space for worship or meditation. The use of marble and wood is typical in North Indian religious interiors, symbolizing purity and reverence. The warm lighting enhances the sacred feel, making it a tranquil and inviting space.",
+      "metadata": {
+        "tags": [
+          "Temple Interior",
+          "Marble Wall",
+          "Wooden Frame",
+          "Underlit Shelf",
+          "North Indian Religious Interior"
+        ],
+        "budget_indicator": "Moderate to High, given the use of marble and polished wood finishes",
+        "space_type": "Religious Space",
+        "functionality": "This space is primarily used for meditation, prayer, and religious activities.",
+        "indian_specific": "The combination of marble and wood, along with the underlit shelf, reflects traditional Indian design elements adapted for modern utility."
       }
-    },
-    "confidence_scores": {
-      "room": 0.95,
-      "theme": 0.87,
-      "primary_features": 0.89,
-      "objects": 0.92,
-      "indian_context": 0.9
-    },
-    "description": "The image showcases a modern interpretation of a bathroom wall panel design, featuring a sleek marble tile backdrop with a wooden frame. The marble tiles are smooth and glossy, with a beige and brown color palette, and are illuminated by undermount lighting, creating a warm and inviting ambiance. The wood framing adds a natural touch, enhancing the overall aesthetic. The design is sharp and contemporary, reflecting modern Indian interior design trends.",
-    "metadata": {
-      "tags": [
-        "Modern Bathroom",
-        "Marble Tiles",
-        "Wooden Frame",
-        "Interior Design"
-      ],
-      "budget_indicator": "Mid-Range",
-      "space_type": "Bathroom",
-      "functionality": "Aesthetic",
-      "indian_specific": "Modern Indian Interior Design"
     }
   },
-  "cached_at": 1753179235536,
+  "cached_at": 1755079553866,
   "cache_key": "b94fbad1fd6430b46e30a8b7f175fa92"
 }

@@ -44,7 +44,7 @@ class ImageProcessor {
     console.log(`Processing batch of ${images.length} images...`);
 
     const batchResults = [];
-    
+
     // Process images sequentially with delays to avoid rate limiting
     for (const image of images) {
       try {
@@ -61,7 +61,7 @@ class ImageProcessor {
 
         console.log(`✓ Completed analysis for: ${image.image_id}`);
         batchResults.push(analysisResult);
-        
+
         // Add delay between individual images to avoid rate limiting
         if (images.indexOf(image) < images.length - 1) {
           console.log(`⏳ Waiting 1 second before next image...`);
@@ -112,16 +112,21 @@ class ImageProcessor {
         const batchResults = await this.processBatch(batch);
         this.results.push(...batchResults);
 
-        // Transform batch results to Qdrant format
-        console.log("🔄 Transforming data for Qdrant...");
+        // Transform batch results to Qdrant format with hybrid vectors
+        console.log("🔄 Transforming data for Qdrant with hybrid vectors...");
         const transformedData = await dataTransformer.transformBatch(
           batchResults
         );
 
         // Store in Qdrant
         if (transformedData.length > 0) {
-          console.log("💾 Storing in Qdrant...");
+          console.log("💾 Storing hybrid vectors in Qdrant...");
           await qdrantService.upsertPoints(transformedData);
+          console.log(
+            `✅ Stored ${transformedData.length} images with hybrid vectors (visual + text)`
+          );
+        } else {
+          console.log("⚠️ No valid data to store in this batch");
         }
 
         // Delay between batches to avoid rate limiting
@@ -143,14 +148,17 @@ class ImageProcessor {
 
   printSummary() {
     console.log("\n" + "=".repeat(50));
-    console.log("📊 PROCESSING SUMMARY");
+    console.log("📊 HYBRID PROCESSING SUMMARY");
     console.log("=".repeat(50));
     console.log(`✅ Successfully processed: ${this.results.length} images`);
     console.log(`❌ Errors: ${this.errors.length} images`);
+    console.log(`🧠 Hybrid Vectors: Visual (384d) + Text (384d) embeddings`);
 
     // Get CDN cache statistics
     const cdnStats = cdnService.getCacheStats();
-    console.log(`📦 CDN Cache: ${cdnStats.analysis_cache_count} analysis results cached`);
+    console.log(
+      `📦 CDN Cache: ${cdnStats.analysis_cache_count} analysis results cached`
+    );
 
     if (this.errors.length > 0) {
       console.log("\n❌ Failed images:");
@@ -158,6 +166,11 @@ class ImageProcessor {
         console.log(`  - ${error.image_id}: ${error.error}`);
       });
     }
+
+    console.log("\n🔍 Search Capabilities:");
+    console.log("   • Visual similarity search (384d)");
+    console.log("   • Text semantic search (384d)");
+    console.log("   • Hybrid search (combined)");
   }
 
   async saveResults(outputPath) {
@@ -178,7 +191,8 @@ async function main() {
   const processor = new ImageProcessor();
 
   // Get CSV file path from command line argument or use default
-  const csvFilePath = process.argv[2] || "./src/data/interior-image-urls.csv";
+   //const csvFilePath = process.argv[2] || "../src/data/interior-image-urls.csv";
+  const csvFilePath = "../src/data/image-data.csv";
 
   if (!fs.existsSync(csvFilePath)) {
     console.error(`❌ CSV file not found: ${csvFilePath}`);
