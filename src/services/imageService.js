@@ -2,12 +2,9 @@ import path, { dirname } from "path";
 import { fileURLToPath } from "url";
 import {
   constructImageUrl,
-  extractPrimarySearchTerms,
   getValidatedEmbedding,
 } from "../utils/imageServiceUtils.js";
 import qdrantService from "./qdrantService.js";
-import roomIntelligenceService from "./roomIntelligenceService.js";
-import searchIntelligenceService from "./searchIntelligenceService.js";
 
 // Get __dirname equivalent for ES modules
 const __filename = fileURLToPath(import.meta.url);
@@ -52,7 +49,7 @@ class ImageService {
   }
 
   /**
-   * Enhanced search that searches across all AI-generated tags and attributes
+   * Production-ready multi-vector search with intelligent weighting
    */
   async searchImages(query, limit = 100) {
     try {
@@ -60,74 +57,119 @@ class ImageService {
         throw new Error("Search query is required");
       }
 
-      console.log(`🤖 Streamlined 4-vector search for: "${query}"`);
+      // Store current search query for room type relevance boost
+      this.currentSearchQuery = query.trim();
 
-      // Use search intelligence service to detect exact search intent
-      const enhancedQuery = await searchIntelligenceService.enhanceSearchQuery(
-        query.trim()
+      console.log(`🤖 Production-ready multi-vector search for: "${query}"`);
+
+      // Generate embeddings for ALL vector fields
+      const [
+        primaryEmbedding,
+        semanticEmbedding,
+        objectEmbedding,
+        visualEmbedding,
+      ] = await Promise.all([
+        getValidatedEmbedding(query.trim(), "primary_search"),
+        getValidatedEmbedding(query.trim(), "semantic_desc"),
+        getValidatedEmbedding(query.trim(), "object_focus"),
+        getValidatedEmbedding(query.trim(), "visual_features"),
+      ]);
+
+      // AI-powered vector analysis for intelligent weighting
+      const vectorAnalysis = await this.analyzeVectorRelevance(query.trim(), {
+        primary_search: primaryEmbedding,
+        semantic_desc: semanticEmbedding,
+        object_focus: objectEmbedding,
+        visual_features: visualEmbedding,
+      });
+
+      console.log(
+        `🎯 Vector analysis: ${JSON.stringify(vectorAnalysis.weights)}`
       );
-      const isExactSearch = enhancedQuery.exact_search?.enabled || false;
 
-      // Extract primary search terms for context preservation
-      const primaryTerms = extractPrimarySearchTerms(query.trim());
-      console.log(`🎯 Primary search terms: ${primaryTerms.join(", ")}`);
+      // HYBRID SEARCH: Text-based + Visual similarity search
 
-      // Generate embeddings for ALL 4 vector fields
-      const embeddings = await this.generateMultiModalEmbeddings(query.trim());
+      // 1. TEXT-BASED SEARCHES (3 vectors)
+      const textSearches = await Promise.all([
+        qdrantService.client.search("interior_images_description", {
+          vector: { name: "primary_search", vector: primaryEmbedding },
+          limit: limit * 2,
+          with_payload: true,
+          with_vector: false,
+          score_threshold: 0.3,
+        }),
+        qdrantService.client.search("interior_images_description", {
+          vector: { name: "semantic_desc", vector: semanticEmbedding },
+          limit: limit * 2,
+          with_payload: true,
+          with_vector: false,
+          score_threshold: 0.3,
+        }),
+        qdrantService.client.search("interior_images_description", {
+          vector: { name: "object_focus", vector: objectEmbedding },
+          limit: limit * 2,
+          with_payload: true,
+          with_vector: false,
+          score_threshold: 0.3,
+        }),
+      ]);
 
-      // Perform single 4-vector search (covers all aspects)
-      const multiVectorResults = await this.performMultiVectorSearch(
-        embeddings,
-        limit * 2 // Get more results for better ranking
-      );
-
-      // Perform exact search for precise matches (keep this as it's different logic)
-      const exactLimit = isExactSearch ? limit * 2 : limit;
-      const exactResults = await this.performExactSearch(
+      // 2. VISUAL SIMILARITY SEARCH (using multiple strategies)
+      const visualSearchResults = await this.performVisualSimilaritySearch(
         query.trim(),
-        exactLimit
+        limit * 2
       );
 
-      // Merge results (much simpler now)
-      const allResults = [...multiVectorResults, ...exactResults];
-      const uniqueResults = this.removeDuplicates(allResults);
+      // 3. COMBINE ALL SEARCHES
+      const searches = [...textSearches, visualSearchResults];
 
-      // Sort by Qdrant's similarity scores (trust the vector math)
-      const sortedResults = uniqueResults.sort((a, b) => b.score - a.score);
+      // Debug: Log search results
+      console.log(
+        `🔍 Text searches: ${textSearches.length} (${textSearches
+          .map((s) => s.length)
+          .join(", ")} results each)`
+      );
+      console.log(`🎨 Visual search: ${visualSearchResults.length} results`);
+      console.log(`🎯 Total searches to fuse: ${searches.length}`);
+
+      // Combine and weight results using fusion algorithm
+      const results = await this.fuseMultiVectorResults(
+        searches,
+        vectorAnalysis.weights,
+        limit
+      );
 
       // Format results
       const formattedResults = [];
-      for (const result of sortedResults.slice(0, limit)) {
+      for (const result of results) {
         const formatted = await this.formatEnhancedResult(result);
         formattedResults.push(formatted);
       }
 
-      // Generate search metadata
+      // Generate comprehensive search metadata
       const searchMetadata = {
         query: query.trim(),
         total_results: formattedResults.length,
-        search_strategy: isExactSearch
-          ? "exact_search_enhanced"
-          : "streamlined_4_vector_search",
+        search_strategy: "production_multi_vector_search",
+        vector_analysis: {
+          weights: vectorAnalysis.weights,
+          reasoning: vectorAnalysis.reasoning,
+          query_intent: vectorAnalysis.queryIntent,
+        },
         search_components: {
-          total_4_vector_searched: multiVectorResults.length,
-          total_exact_searched: exactResults.length,
-          vectors_used: [
+          total_vectors_used: 4,
+          vectors_available: [
             "primary_search",
             "semantic_desc",
             "object_focus",
             "visual_features",
           ],
-          vector_weights: {
-            primary_search: "40%",
-            semantic_desc: "30%",
-            object_focus: "20%",
-            visual_features: "10%",
+          search_quality: {
+            threshold: 0.3,
+            average_score: this.calculateAverageScore(results),
+            score_distribution: this.analyzeScoreDistribution(results),
           },
         },
-        exact_search_enabled: isExactSearch,
-        exact_search_confidence: enhancedQuery.exact_search?.confidence || 0,
-        primary_terms: primaryTerms,
         context_preservation: true,
       };
 
@@ -135,118 +177,677 @@ class ImageService {
         images: formattedResults,
         message: `Found ${
           formattedResults.length
-        } relevant results for "${query.trim()}" using 4-vector search`,
+        } relevant results for "${query.trim()}" using production multi-vector search`,
         search_metadata: searchMetadata,
       };
     } catch (error) {
-      console.error("Error in searchImages:", error);
+      console.error("Error in production search:", error);
       throw error;
     }
   }
 
   /**
-   * Generate multi-modal embeddings for different search aspects
+   * Production-ready vector analysis for intelligent weighting
    */
-  async generateMultiModalEmbeddings(query) {
+  async analyzeVectorRelevance(query, embeddings) {
     try {
-      // Generate embeddings for all 4 vector fields
-      const [
-        primaryEmbedding,
-        semanticEmbedding,
-        featureEmbedding,
-        visualEmbedding,
-      ] = await Promise.all([
-        getValidatedEmbedding(query, "primary_search"),
-        getValidatedEmbedding(query, "semantic_search"),
-        getValidatedEmbedding(query, "feature_search"),
-        getValidatedEmbedding(query, "visual_search"),
+      // Generate a comprehensive query embedding for analysis
+      const queryEmbedding = await getValidatedEmbedding(
+        query,
+        "intent_analysis"
+      );
+
+      // Define vector purposes with production-level specificity
+      const vectorPurposes = {
+        primary_search:
+          "room types, spatial concepts, functional spaces, architectural elements",
+        semantic_desc:
+          "design styles, cultural themes, aesthetic concepts, mood and atmosphere",
+        object_focus:
+          "specific objects, furniture types, fixtures, material specifications",
+        visual_features:
+          "colors, textures, lighting, spatial relationships, visual composition",
+      };
+
+      // Generate embeddings for each vector's purpose
+      const purposeEmbeddings = {};
+      for (const [vectorName, purpose] of Object.entries(vectorPurposes)) {
+        purposeEmbeddings[vectorName] = await getValidatedEmbedding(
+          purpose,
+          "intent_analysis"
+        );
+      }
+
+      // Calculate semantic similarity scores
+      const similarityScores = {};
+      for (const [vectorName, purposeEmbedding] of Object.entries(
+        purposeEmbeddings
+      )) {
+        similarityScores[vectorName] = this.calculateCosineSimilarity(
+          queryEmbedding,
+          purposeEmbedding
+        );
+      }
+
+      // Analyze query intent using AI
+      const intentAnalysis = await this.aiAnalyzeQueryIntent(query);
+
+      // Production-ready weighting algorithm using AI intent
+      const weights = this.calculateProductionWeights(
+        query,
+        similarityScores,
+        intentAnalysis.intent
+      );
+
+      // Generate reasoning for production logging
+      const reasoning = this.generateProductionReasoning(
+        weights,
+        similarityScores,
+        intentAnalysis
+      );
+
+      return {
+        weights,
+        reasoning,
+        queryIntent: intentAnalysis.intent,
+        similarityScores,
+        intentConfidence: intentAnalysis.confidence,
+      };
+    } catch (error) {
+      console.error("Error in vector analysis:", error);
+      // Fallback to balanced weights
+      return {
+        weights: {
+          primary_search: 1.0,
+          semantic_desc: 0.8,
+          object_focus: 0.8,
+          visual_features: 0.7,
+        },
+        reasoning: "Fallback to balanced weights due to analysis error",
+        queryIntent: "general",
+        similarityScores: {
+          primary_search: 0.8,
+          semantic_desc: 0.7,
+          object_focus: 0.7,
+          visual_features: 0.6,
+        },
+        intentConfidence: 0.5,
+      };
+    }
+  }
+
+  /**
+   * Production-ready weighting algorithm using AI intent
+   */
+  calculateProductionWeights(query, similarityScores, queryIntent) {
+    // Start with base weights from semantic similarity
+    let weights = { ...similarityScores };
+
+    // Apply AI-determined intent-based adjustments
+    switch (queryIntent) {
+      case "room_specific":
+        weights.primary_search *= 1.5; // Boost room-specific vector
+        weights.semantic_desc *= 1.2; // Boost style/theme vector
+        break;
+
+      case "object_specific":
+        weights.object_focus *= 1.5; // Boost object-specific vector
+        weights.primary_search *= 1.1; // Slight boost to primary
+        break;
+
+      case "style_specific":
+        weights.semantic_desc *= 1.4; // Boost style vector
+        weights.visual_features *= 1.2; // Boost visual features
+        break;
+
+      case "visual_specific":
+        weights.visual_features *= 1.5; // Boost visual features
+        weights.object_focus *= 1.1; // Slight boost to objects
+        break;
+
+      case "general":
+      default:
+        // Balanced weights for general queries
+        weights.primary_search *= 1.1;
+        weights.semantic_desc *= 1.1;
+        weights.object_focus *= 1.1;
+        weights.visual_features *= 1.1;
+        break;
+    }
+
+    // Normalize weights to sum to 4.0 (Qdrant requirement)
+    const totalWeight = Object.values(weights).reduce((sum, w) => sum + w, 0);
+    const normalizedWeights = {};
+    for (const [key, weight] of Object.entries(weights)) {
+      normalizedWeights[key] = (weight / totalWeight) * 4.0;
+    }
+
+    return normalizedWeights;
+  }
+
+  /**
+   * Production-ready query intent analysis using AI models
+   */
+  async analyzeQueryIntent(query) {
+    try {
+      // Use AI model to understand query intent dynamically
+      const intentAnalysis = await this.aiAnalyzeQueryIntent(query);
+      return intentAnalysis.intent;
+    } catch (error) {
+      console.error("Error in AI intent analysis:", error);
+      return "general"; // Fallback
+    }
+  }
+
+  /**
+   * AI-powered query intent analysis - no hardcoded rules
+   */
+  async aiAnalyzeQueryIntent(query) {
+    try {
+      // Generate embedding for the query
+      const queryEmbedding = await getValidatedEmbedding(
+        query,
+        "intent_analysis"
+      );
+
+      // Define intent categories with AI descriptions
+      const intentCategories = {
+        room_specific:
+          "queries about specific room types, spaces, or architectural areas",
+        object_specific:
+          "queries about furniture, fixtures, decorative items, or specific objects",
+        style_specific:
+          "queries about design styles, themes, aesthetics, or cultural elements",
+        visual_specific:
+          "queries about colors, materials, textures, lighting, or visual attributes",
+        general: "general queries that don't fit specific categories",
+      };
+
+      // Generate embeddings for each intent category
+      const categoryEmbeddings = {};
+      for (const [intent, description] of Object.entries(intentCategories)) {
+        categoryEmbeddings[intent] = await getValidatedEmbedding(
+          description,
+          "intent_analysis"
+        );
+      }
+
+      // Calculate similarity between query and each intent category
+      const intentScores = {};
+      for (const [intent, categoryEmbedding] of Object.entries(
+        categoryEmbeddings
+      )) {
+        intentScores[intent] = this.calculateCosineSimilarity(
+          queryEmbedding,
+          categoryEmbedding
+        );
+      }
+
+      // Find the intent with highest similarity
+      const bestIntent = Object.entries(intentScores).reduce(
+        (best, [intent, score]) =>
+          score > best.score ? { intent, score } : best,
+        { intent: "general", score: 0 }
+      );
+
+      // Only return specific intent if confidence is high enough
+      if (bestIntent.score > 0.7) {
+        return {
+          intent: bestIntent.intent,
+          confidence: bestIntent.score,
+          allScores: intentScores,
+        };
+      }
+
+      return {
+        intent: "general",
+        confidence: bestIntent.score,
+        allScores: intentScores,
+      };
+    } catch (error) {
+      console.error("Error in AI intent analysis:", error);
+      throw error;
+    }
+  }
+
+  /**
+   * Perform intelligent visual similarity search using multiple strategies
+   */
+  async performVisualSimilaritySearch(query, limit) {
+    try {
+      console.log(`🎨 Performing visual similarity search for: "${query}"`);
+
+      let allVisualResults = [];
+
+      // Strategy 1: Enhanced text-to-visual mapping
+      try {
+        const visualQueryMapping = await this.createEnhancedVisualQuery(query);
+        const visualQueryEmbedding = await getValidatedEmbedding(
+          visualQueryMapping,
+          "visual_features"
+        );
+
+        // AI-based dynamic threshold calculation
+        const dynamicThreshold = await this.calculateDynamicThreshold(
+          visualQueryEmbedding
+        );
+
+        const enhancedResults = await qdrantService.client.search(
+          "interior_images_description",
+          {
+            vector: { name: "visual_features", vector: visualQueryEmbedding },
+            limit: limit,
+            with_payload: true,
+            with_vector: false,
+            score_threshold: dynamicThreshold,
+          }
+        );
+
+        console.log(
+          `🎨 Enhanced visual search: ${enhancedResults.length} results`
+        );
+        allVisualResults = [...allVisualResults, ...enhancedResults];
+      } catch (error) {
+        console.log(`⚠️ Enhanced visual search failed: ${error.message}`);
+      }
+
+      // Strategy 2: Simple text query with AI-calculated threshold
+      try {
+        const simpleVisualEmbedding = await getValidatedEmbedding(
+          `interior design ${query}`,
+          "visual_features"
+        );
+
+        // AI-based threshold for simple query
+        const simpleThreshold = await this.calculateDynamicThreshold(
+          simpleVisualEmbedding
+        );
+
+        const simpleResults = await qdrantService.client.search(
+          "interior_images_description",
+          {
+            vector: { name: "visual_features", vector: simpleVisualEmbedding },
+            limit: limit,
+            with_payload: true,
+            with_vector: false,
+            score_threshold: Math.min(simpleThreshold + 0.02, 0.15), // Slightly higher for simple queries
+          }
+        );
+
+        console.log(`🎨 Simple visual search: ${simpleResults.length} results`);
+        allVisualResults = [...allVisualResults, ...simpleResults];
+      } catch (error) {
+        console.log(`⚠️ Simple visual search failed: ${error.message}`);
+      }
+
+      // Remove duplicates and limit results
+      const uniqueResults = this.removeDuplicateResults(allVisualResults);
+      const finalResults = uniqueResults.slice(0, limit);
+
+      console.log(`🎨 Total visual search results: ${finalResults.length}`);
+      return finalResults;
+    } catch (error) {
+      console.error("Error in visual similarity search:", error);
+      return [];
+    }
+  }
+
+  /**
+   * Remove duplicate results based on image ID
+   */
+  removeDuplicateResults(results) {
+    const uniqueMap = new Map();
+    results.forEach((result) => {
+      if (!uniqueMap.has(result.id)) {
+        uniqueMap.set(result.id, result);
+      }
+    });
+    return Array.from(uniqueMap.values());
+  }
+
+  /**
+   * Map text query to visual characteristics for better visual search
+   */
+  async createEnhancedVisualQuery(query) {
+    try {
+      // Use AI to understand query intent and generate visual context dynamically
+      const intentAnalysis = await this.aiAnalyzeQueryIntent(query);
+
+      // Pure AI approach - no hardcoded mappings
+      let visualContext = `Interior design visual search: ${query}`;
+
+      // Add AI-determined context based on confidence level
+      if (intentAnalysis.confidence > 0.7) {
+        visualContext += ` visual elements architectural details spatial composition`;
+      }
+
+      console.log(`🎨 AI-generated visual query: "${visualContext}"`);
+      return visualContext;
+    } catch (error) {
+      console.error("Error creating visual query:", error);
+      return `Interior design visual search: ${query}`;
+    }
+  }
+
+  /**
+   * Calculate dynamic threshold based on embedding characteristics - no hardcoding
+   */
+  async calculateDynamicThreshold(embedding) {
+    try {
+      // Calculate embedding magnitude and variance to understand query complexity
+      const magnitude = Math.sqrt(
+        embedding.reduce((sum, val) => sum + val * val, 0)
+      );
+      const mean =
+        embedding.reduce((sum, val) => sum + val, 0) / embedding.length;
+      const variance =
+        embedding.reduce((sum, val) => sum + Math.pow(val - mean, 2), 0) /
+        embedding.length;
+
+      // Normalize to threshold range (0.02 to 0.15)
+      // Higher complexity (higher variance) = lower threshold for better recall
+      const complexityScore = Math.min(Math.max(variance * 10, 0), 1);
+      const threshold = 0.15 - complexityScore * 0.13; // Maps 0-1 to 0.15-0.02
+
+      return Math.max(0.02, Math.min(0.15, threshold));
+    } catch (error) {
+      console.error("Error calculating dynamic threshold:", error);
+      return 0.05; // Safe fallback
+    }
+  }
+
+  /**
+   * Fuse results from multiple vector searches using intelligent weighted scoring
+   */
+  async fuseMultiVectorResults(searches, weights, limit) {
+    const scoreMap = new Map();
+
+    // Combine scores from all vectors (3 text + 1 visual)
+    searches.forEach((searchResults, index) => {
+      const vectorNames = [
+        "primary_search",
+        "semantic_desc",
+        "object_focus",
+        "visual_features",
+      ];
+      const vectorName = vectorNames[index];
+      const weight = weights[vectorName] || 1.0;
+
+      searchResults.forEach((result) => {
+        const id = result.id;
+        const currentScore = scoreMap.get(id) || {
+          maxScore: 0,
+          totalScore: 0,
+          payload: result.payload,
+          id: result.id,
+          vectorScores: {},
+          vectorCount: 0,
+        };
+
+        // Store individual vector scores
+        currentScore.vectorScores[vectorName] = result.score;
+        currentScore.vectorCount++;
+
+        // Track the highest single vector score
+        const weightedScore = result.score * weight;
+        currentScore.maxScore = Math.max(currentScore.maxScore, weightedScore);
+
+        // Add weighted score from this vector
+        currentScore.totalScore += weightedScore;
+        scoreMap.set(id, currentScore);
+      });
+    });
+
+    // Calculate intelligent final scores using hybrid approach
+    const resultsWithIntelligentScoring = await Promise.all(
+      Array.from(scoreMap.values()).map(async (result) => {
+        // Hybrid scoring: 70% max score + 30% average score
+        // This prevents low-quality multi-vector matches from outranking high-quality single-vector matches
+        const averageScore = result.totalScore / result.vectorCount;
+        const hybridScore = result.maxScore * 0.7 + averageScore * 0.3;
+
+        // Apply room type relevance boost using AI semantic similarity
+        const roomTypeBoost = await this.calculateRoomTypeRelevanceBoost(
+          result.payload,
+          this.currentSearchQuery
+        );
+        const finalScore = hybridScore * roomTypeBoost;
+
+        return {
+          ...result,
+          score: finalScore,
+          hybridScore: hybridScore,
+          roomTypeBoost: roomTypeBoost,
+          maxScore: result.maxScore,
+          averageScore: averageScore,
+          vectorBreakdown: result.vectorScores,
+        };
+      })
+    );
+
+    // Sort by final score and return top results
+    const sortedResults = resultsWithIntelligentScoring
+      .sort((a, b) => b.score - a.score)
+      .slice(0, limit);
+
+    console.log(
+      `🎯 Fused ${searches.length} vector searches into ${sortedResults.length} results`
+    );
+
+    // Debug: Log top results with their scores
+    sortedResults.slice(0, 3).forEach((result, index) => {
+      console.log(
+        `🏆 Result ${index + 1}: ID ${result.id}, Room: ${
+          result.payload?.room_type ||
+          result.payload?.analysis?.ai_generated_tags?.room ||
+          result.payload?.room ||
+          "unknown"
+        }, Score: ${result.score.toFixed(3)} (Max: ${result.maxScore.toFixed(
+          3
+        )}, Avg: ${result.averageScore.toFixed(
+          3
+        )}, Boost: ${result.roomTypeBoost.toFixed(2)})`
+      );
+    });
+
+    return sortedResults;
+  }
+
+  /**
+   * Production-ready reasoning generation with AI intent
+   */
+  generateProductionReasoning(weights, similarityScores, intentAnalysis) {
+    const topVector = Object.entries(weights).reduce(
+      (best, [name, weight]) =>
+        weight > best.weight ? { name, weight } : best,
+      { name: "primary_search", weight: 0 }
+    );
+
+    return `AI-powered multi-vector search with ${
+      intentAnalysis.intent
+    } intent (confidence: ${Math.round(
+      intentAnalysis.confidence * 100
+    )}%). Top vector: ${topVector.name} (weight: ${topVector.weight.toFixed(
+      2
+    )}). All vectors contribute with intelligent weighting based on AI-understood query characteristics.`;
+  }
+
+  /**
+   * Calculate room type relevance boost using AI semantic similarity
+   */
+  async calculateRoomTypeRelevanceBoost(payload, query) {
+    try {
+      if (!query) return 1.0;
+
+      // Extract room type from payload (handle different formats)
+      const roomType =
+        payload?.room_type ||
+        payload?.analysis?.ai_generated_tags?.room ||
+        payload?.room ||
+        "";
+
+      if (!roomType || roomType === "interior_space") {
+        return 0.9; // Slight penalty for generic/missing room types
+      }
+
+      // Use AI to calculate semantic similarity between query and room type
+      const similarity = await this.calculateSemanticRoomRelevance(
+        query,
+        roomType
+      );
+
+      // Apply EXTREME boost calculation to overcome poor vector embeddings
+      // Perfect matches get massive boost, mismatches get severe penalties
+      let boostFactor;
+      if (similarity > 0.85) {
+        // Perfect relevance rooms get extreme boost (4.0x to 8.0x)
+        boostFactor = 4.0 + (similarity - 0.85) * 26.67; // Maps 0.85-1.0 to 4.0-8.0
+      } else if (similarity > 0.7) {
+        // Good relevance rooms get strong boost (2.5x to 4.0x)
+        boostFactor = 2.5 + (similarity - 0.7) * 10.0; // Maps 0.7-0.85 to 2.5-4.0
+      } else if (similarity > 0.5) {
+        // Moderate relevance rooms get small boost (1.2x to 2.5x)
+        boostFactor = 1.2 + (similarity - 0.5) * 6.5; // Maps 0.5-0.7 to 1.2-2.5
+      } else {
+        // Low relevance rooms get severe penalty (0.05x to 1.2x)
+        boostFactor = 0.05 + similarity * 2.3; // Maps 0.0-0.5 to 0.05-1.2
+      }
+
+      return Math.min(8.0, Math.max(0.05, boostFactor));
+    } catch (error) {
+      console.error("Error calculating room type boost:", error);
+      return 1.0; // Default no boost on error
+    }
+  }
+
+  /**
+   * Calculate semantic similarity between search query and room type using AI
+   */
+  async calculateSemanticRoomRelevance(query, roomType) {
+    try {
+      // Generate embeddings with better context for comparison - pure AI, no hardcoding
+      const [queryEmbedding, roomEmbedding] = await Promise.all([
+        getValidatedEmbedding(
+          `searching for ${query.trim()}`,
+          "room_relevance"
+        ),
+        getValidatedEmbedding(
+          `this is a ${roomType.toLowerCase().trim()}`,
+          "room_relevance"
+        ),
       ]);
 
-      return {
-        primary: primaryEmbedding,
-        semantic: semanticEmbedding,
-        feature: featureEmbedding,
-        visual: visualEmbedding,
-      };
-    } catch (error) {
-      console.error("Error generating multi-modal embeddings:", error);
-      // Fallback to single embedding for all fields
-      const fallbackEmbedding = await getValidatedEmbedding(
-        query,
-        "search_query"
+      // Calculate cosine similarity
+      const similarity = this.calculateCosineSimilarity(
+        queryEmbedding,
+        roomEmbedding
       );
-      return {
-        primary: fallbackEmbedding,
-        semantic: fallbackEmbedding,
-        feature: fallbackEmbedding,
-        visual: fallbackEmbedding,
-      };
+
+      return Math.max(0, Math.min(1, similarity)); // Clamp between 0-1
+    } catch (error) {
+      console.error("Error calculating semantic room relevance:", error);
+      return 0.5; // Neutral similarity on error
     }
   }
 
   /**
-   * Perform multi-vector AI search using ALL 4 available vector fields
+   * Production-ready score analysis
    */
-  async performMultiVectorSearch(embeddings, limit) {
+  calculateAverageScore(results) {
+    if (results.length === 0) return 0;
+    const totalScore = results.reduce((sum, result) => sum + result.score, 0);
+    return totalScore / results.length;
+  }
+
+  analyzeScoreDistribution(results) {
+    if (results.length === 0) return { high: 0, medium: 0, low: 0 };
+
+    const distribution = { high: 0, medium: 0, low: 0 };
+    results.forEach((result) => {
+      if (result.score >= 0.8) distribution.high++;
+      else if (result.score >= 0.7) distribution.medium++;
+      else distribution.low++;
+    });
+
+    return distribution;
+  }
+
+  /**
+   * Calculate cosine similarity between two embeddings
+   */
+  calculateCosineSimilarity(embedding1, embedding2) {
     try {
-      const searchPromises = [
-        // Primary search vector (40% weight)
-        qdrantService.client.search("interior_images_description", {
-          vector: { name: "primary_search", vector: embeddings.primary },
-          limit: Math.ceil(limit * 0.4),
-          with_payload: true,
-          with_vector: false,
-        }),
+      if (
+        !embedding1 ||
+        !embedding2 ||
+        embedding1.length !== embedding2.length
+      ) {
+        return 0;
+      }
 
-        // Semantic description vector (30% weight)
-        qdrantService.client.search("interior_images_description", {
-          vector: { name: "semantic_desc", vector: embeddings.semantic },
-          limit: Math.ceil(limit * 0.3),
-          with_payload: true,
-          with_vector: false,
-        }),
+      let dotProduct = 0;
+      let norm1 = 0;
+      let norm2 = 0;
 
-        // Object focus vector (20% weight)
-        qdrantService.client.search("interior_images_description", {
-          vector: { name: "object_focus", vector: embeddings.feature },
-          limit: Math.ceil(limit * 0.2),
-          with_payload: true,
-          with_vector: false,
-        }),
+      for (let i = 0; i < embedding1.length; i++) {
+        dotProduct += embedding1[i] * embedding2[i];
+        norm1 += embedding1[i] * embedding1[i];
+        norm2 += embedding2[i] * embedding2[i];
+      }
 
-        // Visual features vector (10% weight)
-        qdrantService.client.search("interior_images_description", {
-          vector: { name: "visual_features", vector: embeddings.visual },
-          limit: Math.ceil(limit * 0.1),
-          with_payload: true,
-          with_vector: false,
-        }),
-      ];
-
-      const results = await Promise.all(searchPromises);
-      return results.flat();
+      const similarity = dotProduct / (Math.sqrt(norm1) * Math.sqrt(norm2));
+      return Math.max(0, Math.min(1, similarity)); // Clamp between 0 and 1
     } catch (error) {
-      console.error("Error in multi-vector search:", error);
-      return [];
+      console.error("Error calculating cosine similarity:", error);
+      return 0;
     }
   }
 
   /**
-   * Perform exact search for precise matches
+   * Generate reasoning based on AI similarity scores
    */
-  async performExactSearch(query, limit) {
-    try {
-      console.log(`🔍 Performing exact search for: "${query}"`);
+  generateAISelectionReasoning(scores, selected, purposes) {
+    // Sort vectors by score for better reasoning
+    const sortedScores = Object.entries(scores)
+      .sort(([, a], [, b]) => b - a)
+      .map(([name, score]) => ({ name, score }));
 
-      // Use QdrantService's exact search method
-      const exactResults = await qdrantService.exactSearch(query, limit);
+    const topScore = sortedScores[0];
+    const secondScore = sortedScores[1];
 
-      console.log(`✅ Exact search found ${exactResults.length} exact matches`);
-      return exactResults;
-    } catch (error) {
-      console.error("Error in exact search:", error);
-      return [];
+    const reasoning = `AI selected ${
+      selected.name
+    } vector because it has the highest semantic similarity (${Math.round(
+      selected.score * 100
+    )}%) to the query intent. `;
+    const purpose = purposes[selected.name];
+
+    if (secondScore && topScore.score - secondScore.score < 0.1) {
+      return (
+        reasoning +
+        `This vector specializes in: ${purpose}. Note: ${
+          secondScore.name
+        } was very close (${Math.round(secondScore.score * 100)}%).`
+      );
     }
+
+    return reasoning + `This vector specializes in: ${purpose}.`;
+  }
+
+  /**
+   * Get vector description
+   */
+  getVectorDescription(vectorName) {
+    const descriptions = {
+      primary_search:
+        "General search vector for room types, objects, and overall concepts",
+      semantic_desc:
+        "Semantic understanding vector for styles, themes, and descriptions",
+      object_focus: "Object-specific vector for furniture, fixtures, and items",
+      visual_features:
+        "Visual attributes vector for colors, materials, and aesthetics",
+    };
+    return descriptions[vectorName] || "Unknown vector type";
   }
 
   /**
@@ -263,10 +864,15 @@ class ImageService {
         image_id: payload?.original_id || result.id,
         image_url: payload?.image_url, // Direct from Qdrant payload
         ai_relevance_score: result.aiRelevanceScore || 0,
-        exact_match: result.exactMatchBoost || false,
         search_count: result.searchCount || 1,
         vector_matches: result.vectorMatches || [],
-        tag_match_score: result.exactMatchScore || 0,
+        vectorBreakdown: result.vectorBreakdown, // Preserve vector breakdown from fusion
+
+        // Preserve enhanced scoring data from fusion algorithm
+        hybridScore: result.hybridScore,
+        roomTypeBoost: result.roomTypeBoost,
+        maxScore: result.maxScore,
+        averageScore: result.averageScore,
 
         // Core metadata
         room_type:
@@ -328,479 +934,6 @@ class ImageService {
         image_url: result.payload?.image_url || null,
         error: "Failed to format result",
       };
-    }
-  }
-
-  /**
-   * Remove duplicate results by ID
-   */
-  removeDuplicates(results) {
-    const uniqueResults = new Map();
-
-    for (const result of results) {
-      if (!uniqueResults.has(result.id)) {
-        uniqueResults.set(result.id, result);
-      } else {
-        // If duplicate found, keep the one with higher score
-        const existing = uniqueResults.get(result.id);
-        if (result.score > existing.score) {
-          uniqueResults.set(result.id, result);
-        }
-      }
-    }
-
-    return Array.from(uniqueResults.values());
-  }
-
-  /**
-   * Get weight for different search types
-   */
-  getWeightForSearchType(searchType) {
-    const weights = {
-      primary_search: 0.4,
-      semantic_desc: 0.3,
-      object_focus: 0.2,
-      visual_features: 0.1,
-      exact_match: 0.8,
-    };
-
-    return weights[searchType] || 0.1;
-  }
-
-  /**
-   * Calculate semantic similarity
-   */
-  calculateSemanticSimilarity(payload, queryLower) {
-    const allText = this.getAllTextFromPayload(payload).toLowerCase();
-    const queryWords = queryLower.split(/\s+/);
-
-    let similarity = 0;
-    for (const word of queryWords) {
-      if (allText.includes(word)) {
-        similarity += 0.2;
-      }
-    }
-
-    return Math.min(similarity, 1.0);
-  }
-
-  /**
-   * Calculate feature relevance
-   */
-  calculateFeatureRelevance(payload, queryWords) {
-    const features = [
-      ...(payload.tags?.primary_features || []),
-      ...(payload.tags?.object_types || []),
-      ...(payload.ai_generated_tags?.primary_features || []),
-      ...(payload.ai_generated_tags?.objects?.map((obj) => obj.type) || []),
-    ].map((f) => f.toLowerCase());
-
-    let relevance = 0;
-    for (const word of queryWords) {
-      if (
-        features.some(
-          (feature) => feature.includes(word) || word.includes(feature)
-        )
-      ) {
-        relevance += 0.3;
-      }
-    }
-
-    return Math.min(relevance, 1.0);
-  }
-
-  /**
-   * Get all text from payload for fuzzy matching
-   */
-  getAllTextFromPayload(payload) {
-    const textParts = [
-      payload.room_type,
-      payload.design_theme,
-      payload.budget_category,
-      payload.space_type,
-      ...(payload.tags?.colors || []),
-      ...(payload.tags?.materials || []),
-      ...(payload.tags?.primary_features || []),
-      ...(payload.tags?.object_types || []),
-      payload.tags?.functionality,
-      payload.tags?.regional_style,
-      ...(payload.search_tags || []),
-      payload.ai_generated_tags?.room,
-      payload.ai_generated_tags?.theme,
-      ...(payload.ai_generated_tags?.primary_features || []),
-      ...(payload.ai_generated_tags?.metadata?.tags || []),
-    ].filter(Boolean);
-
-    return textParts.join(" ");
-  }
-
-  /**
-   * Enhance query with contextual information using simple pattern matching
-   */
-  enhanceQueryWithContext(query) {
-    const queryLower = query.toLowerCase();
-
-    let enhancedQuery = query;
-
-    // Add feature-specific context using simple pattern matching
-    const featureContext = {
-      tv: "television entertainment unit living room",
-      sofa: "couch seating furniture living room",
-      kitchen: "cooking area appliances cabinets",
-      bathroom: "washroom toilet bath vanity",
-      bedroom: "sleeping room bed furniture",
-      marble: "stone granite countertop flooring",
-      wood: "wooden timber furniture material",
-      modern: "contemporary current design style",
-      traditional: "classical heritage indian design",
-      minimalist: "minimal simple clean design",
-      cabinet: "storage furniture cupboard",
-      fabric: "textile material upholstery",
-      furniture: "sofa chair table cabinet",
-      chair: "seating furniture",
-      table: "dining coffee side table",
-      lamp: "lighting fixture",
-      mirror: "reflective surface",
-      curtain: "window treatment drape",
-      rug: "carpet floor covering",
-      painting: "art wall decoration",
-    };
-
-    for (const [feature, context] of Object.entries(featureContext)) {
-      if (queryLower.includes(feature)) {
-        enhancedQuery += ` ${context}`;
-      }
-    }
-
-    // Add style modifiers
-    const styleModifiers = [
-      "modern",
-      "traditional",
-      "contemporary",
-      "classic",
-      "luxury",
-      "budget",
-    ];
-    const detectedModifiers = styleModifiers.filter((mod) =>
-      queryLower.includes(mod)
-    );
-    if (detectedModifiers.length > 0) {
-      enhancedQuery += ` ${detectedModifiers.join(" ")} design style`;
-    }
-
-    // Add room type context if detected
-    const roomTypes = [
-      "living",
-      "bedroom",
-      "kitchen",
-      "bathroom",
-      "dining",
-      "office",
-      "prayer",
-      "entryway",
-    ];
-    const detectedRooms = roomTypes.filter((room) => queryLower.includes(room));
-    if (detectedRooms.length > 0) {
-      enhancedQuery += ` ${detectedRooms.join(" ")} room interior design`;
-    }
-
-    return enhancedQuery;
-  }
-
-  /**
-   * Extract feature-specific terms using AI-powered analysis
-   */
-  async extractFeatureTerms(query) {
-    const queryLower = query.toLowerCase();
-    const roomTerms = await this.detectRoomTerms(query);
-
-    const featureTerms = [];
-
-    // Extract room-specific features
-    if (roomTerms.length > 0) {
-      featureTerms.push(...roomTerms.slice(0, 3));
-    }
-
-    // Extract specific feature keywords
-    const featureKeywords = [
-      "kitchen",
-      "bathroom",
-      "marble",
-      "wood",
-      "metal",
-      "glass",
-      "tv",
-      "sofa",
-      "bed",
-      "wardrobe",
-      "lighting",
-      "storage",
-      "modern",
-      "traditional",
-      "contemporary",
-      "minimalist",
-      "luxury",
-    ];
-
-    for (const keyword of featureKeywords) {
-      if (queryLower.includes(keyword)) {
-        featureTerms.push(keyword);
-      }
-    }
-
-    // Add cultural features if detected
-    if (
-      queryLower.includes("indian") ||
-      queryLower.includes("traditional") ||
-      queryLower.includes("cultural")
-    ) {
-      featureTerms.push("indian", "traditional", "cultural");
-    }
-
-    return featureTerms.length > 0 ? featureTerms.join(" ") : query;
-  }
-
-  /**
-   * Detect room terms in a query (simplified version)
-   */
-  async detectRoomTerms(query) {
-    try {
-      const queryLower = query.toLowerCase();
-      const roomTerms = [];
-
-      // Common room terms
-      const roomKeywords = [
-        "living room",
-        "bedroom",
-        "kitchen",
-        "dining room",
-        "bathroom",
-        "study room",
-        "puja room",
-        "pooja room",
-        "mandir",
-        "temple",
-        "prayer room",
-        "worship room",
-        "entryway",
-        "foyer",
-        "vestibule",
-        "entrance hall",
-        "balcony",
-        "terrace",
-        "wardrobe",
-        "closet",
-        "dressing room",
-        "home office",
-        "study area",
-        "utility room",
-        "laundry room",
-        "storage room",
-        "mudroom",
-        "pantry",
-      ];
-
-      for (const keyword of roomKeywords) {
-        if (queryLower.includes(keyword)) {
-          roomTerms.push(keyword);
-        }
-      }
-
-      return roomTerms;
-    } catch (error) {
-      console.error("Error detecting room terms:", error);
-      return [];
-    }
-  }
-
-  /**
-   * Check if a single word matches any tag in the payload
-   */
-  async checkSingleWordMatch(payload, queryWord) {
-    const queryWordLower = queryWord.toLowerCase();
-
-    // Get all searchable tags from payload
-    const priorityFields = [
-      payload.room_type,
-      payload.design_theme,
-      payload.space_type,
-      payload.ai_generated_tags?.room,
-      payload.ai_generated_tags?.theme,
-      ...(payload.tags?.primary_features || []),
-      ...(payload.tags?.object_types || []),
-    ].filter(Boolean);
-
-    const secondaryFields = [
-      ...(payload.tags?.colors || []),
-      ...(payload.tags?.materials || []),
-      ...(payload.tags?.functionality || []),
-      ...(payload.tags?.regional_style || []),
-      ...(payload.search_tags || []),
-      ...(payload.ai_generated_tags?.primary_features || []),
-      ...(payload.ai_generated_tags?.objects?.map((obj) => obj.type) || []),
-      ...(payload.ai_generated_tags?.objects?.flatMap(
-        (obj) => obj.features || []
-      ) || []),
-      ...(payload.ai_generated_tags?.objects?.flatMap(
-        (obj) => obj.materials || []
-      ) || []),
-      ...(payload.ai_generated_tags?.metadata?.tags || []),
-      payload.original_analysis?.ai_generated_tags?.theme,
-      ...(payload.original_analysis?.ai_generated_tags?.primary_features || []),
-      ...(payload.original_analysis?.ai_generated_tags?.objects?.map(
-        (obj) => obj.type
-      ) || []),
-      ...(payload.original_analysis?.ai_generated_tags?.objects?.flatMap(
-        (obj) => obj.features || []
-      ) || []),
-      ...(payload.original_analysis?.ai_generated_tags?.metadata?.tags || []),
-    ].filter(Boolean);
-
-    // First check priority fields (room types) for exact matches
-    for (const tag of priorityFields) {
-      const tagLower = tag.toLowerCase();
-      if (await this.isExactMatch(tagLower, queryWordLower)) {
-        return true;
-      }
-    }
-
-    // Then check secondary fields
-    for (const tag of secondaryFields) {
-      const tagLower = tag.toLowerCase();
-      if (await this.isExactMatch(tagLower, queryWordLower)) {
-        return true;
-      }
-    }
-
-    return false;
-  }
-
-  /**
-   * Check for exact or synonym matches
-   */
-  async isExactMatch(tagLower, queryWordLower) {
-    // Exact match
-    if (
-      tagLower.includes(queryWordLower) ||
-      queryWordLower.includes(tagLower)
-    ) {
-      return true;
-    }
-
-    // Common abbreviations and synonyms
-    const synonyms = await this.getSynonyms(queryWordLower);
-    if (
-      synonyms &&
-      Array.isArray(synonyms) &&
-      synonyms.some((synonym) => tagLower.includes(synonym))
-    ) {
-      return true;
-    }
-
-    // Check for word boundaries (more precise)
-    const tagWords = tagLower.split(/[\s\-_]+/); // Split on spaces, hyphens, and underscores
-    return tagWords.some(
-      (tagWord) =>
-        tagWord === queryWordLower ||
-        tagWord.includes(queryWordLower) ||
-        queryWordLower.includes(tagWord)
-    );
-  }
-
-  /**
-   * Get synonyms for a word using AI-powered room intelligence
-   */
-  async getSynonyms(word) {
-    try {
-      // Use AI-powered room intelligence service for room-related terms
-      const isRoomTerm = await roomIntelligenceService.isRoomTerm(word);
-      if (isRoomTerm) {
-        return await roomIntelligenceService.getRoomSynonyms(word);
-      }
-
-      // Fallback to basic synonyms for non-room terms
-      const basicSynonyms = {
-        tv: ["television", "tv unit", "entertainment unit"],
-        sofa: ["couch", "settee", "divan"],
-        bed: ["bedroom furniture", "sleeping area"],
-        wardrobe: ["closet", "almirah", "cupboard"],
-        marble: ["stone", "granite", "quartz"],
-        wood: ["wooden", "timber", "lumber"],
-        kitchen: "cooking area, kitchen area",
-        bathroom: "washroom, toilet, bath",
-        washroom: "bathroom, toilet, bath",
-        dining: "dining area, dining room, eating area",
-        living: "living room, sitting area, lounge",
-        bedroom: "sleeping room, bed room",
-        pooja: "puja, prayer, worship",
-        puja: "pooja, prayer, worship",
-        prayer: "pooja, puja, worship",
-      };
-
-      return basicSynonyms[word.toLowerCase()] || [];
-    } catch (error) {
-      console.error("Error getting synonyms for word:", word, error);
-      return [];
-    }
-  }
-
-  /**
-   * Enhanced tag matching that handles multi-word queries better
-   */
-  async checkTagMatchEnhanced(payload, queryWords, queryLower) {
-    // Simple room type matching without complex AI detection
-    const payloadRoomType = payload.room_type?.toLowerCase() || "";
-    const aiRoomType = payload.ai_generated_tags?.room?.toLowerCase() || "";
-
-    // Check if any query word matches the room type
-    for (const queryWord of queryWords) {
-      const queryWordLower = queryWord.toLowerCase();
-
-      // Check for exact room type matches
-      if (
-        payloadRoomType.includes(queryWordLower) ||
-        queryWordLower.includes(payloadRoomType) ||
-        aiRoomType.includes(queryWordLower) ||
-        queryWordLower.includes(aiRoomType)
-      ) {
-        return true;
-      }
-
-      // Check for word boundaries in room types
-      const roomWords = payloadRoomType.split(/[\s\-_]+/);
-      const aiRoomWords = aiRoomType.split(/[\s\-_]+/);
-
-      if (
-        roomWords.includes(queryWordLower) ||
-        aiRoomWords.includes(queryWordLower)
-      ) {
-        return true;
-      }
-    }
-
-    // For multi-word queries, we want to match ALL words
-    if (queryWords.length > 1) {
-      // Check if ALL words match (AND logic)
-      for (const queryWord of queryWords) {
-        if (!(await this.checkSingleWordMatch(payload, queryWord))) {
-          // If any word doesn't match, try OR logic for better results
-          for (const word of queryWords) {
-            if (await this.checkSingleWordMatch(payload, word)) {
-              return true;
-            }
-          }
-          return false;
-        }
-      }
-      return true;
-    } else {
-      // For single word queries, match any word
-      for (const queryWord of queryWords) {
-        if (await this.checkSingleWordMatch(payload, queryWord)) {
-          return true;
-        }
-      }
-      return false;
     }
   }
 }
