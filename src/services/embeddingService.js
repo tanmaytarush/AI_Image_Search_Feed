@@ -255,7 +255,7 @@ class EmbeddingService {
         semantic_desc: semanticDescText,
         object_focus: objectFocusText,
       },
-    };
+    }; 
   }
 
   logEmbeddingQuality(imageId, embeddingTexts) {
